@@ -1,0 +1,1056 @@
+{
+    "store": {
+        "uuid": "74c28978-9be2-454e-ae60-503a1f23c2a6",
+        "title": "Arizona Tacos",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "Mexican",
+                "name": "Мексиканська",
+                "keyName": "Mexican"
+            },
+            {
+                "uuid": "TexMex",
+                "name": "Техасько-мексиканська кухня",
+                "keyName": "TexMex"
+            },
+            {
+                "uuid": "LatinAmerican",
+                "name": "Латиноамериканська",
+                "keyName": "LatinAmerican"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "b18862a5-6786-44a7-b80e-74d17aff0a33",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "5971f8f3-ce30-40fe-93b8-5d42074bada3",
+                    "4e66b06b-cc12-4e72-adaf-fc9854609774",
+                    "d183f451-8caa-4853-9a5b-9388e1ce116a",
+                    "984562d3-9a4f-4d23-82e8-f3e5f0bb9ae8",
+                    "ba0d387c-7a78-4236-935c-9b73787db85e",
+                    "cb84ce60-2fe8-4a90-88af-6b857b1f3b6c"
+                ]
+            },
+            {
+                "uuid": "29bad055-9ea4-4105-a117-19771fe1dbac",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "86b91ee4-a150-4354-8965-30d99e61b70a",
+                    "befe2d73-956f-487c-b5b7-1d4e542d5ab9",
+                    "f145a9b4-97a8-4fb9-96b2-64f39bcdfb0f",
+                    "2419c724-27eb-48ec-8b3a-cf702739a409",
+                    "ab6e3897-638c-4e36-92e2-c78e9c932cb9",
+                    "d6899286-4886-46a5-a109-d4d8ebf624f6"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "29bad055-9ea4-4105-a117-19771fe1dbac": {
+                "itemsMap": {
+                    "11ce5daa-04de-4edb-a16c-3890d8743e53": {
+                        "uuid": "11ce5daa-04de-4edb-a16c-3890d8743e53",
+                        "title": "Burrito with veal ",
+                        "itemDescription": "Wheat tortilla, stewed veal, Mexican beans, Mexican rice, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
+                        "price": 7000,
+                        "nutritionalInfo": {}
+                    },
+                    "d77efe5e-d6ff-4b8d-b556-9180eec4f720": {
+                        "uuid": "d77efe5e-d6ff-4b8d-b556-9180eec4f720",
+                        "title": "Burrito vegetarian ",
+                        "itemDescription": "Wheat tortilla, Mexican beans, sweet corn grill, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
+                        "price": 6000,
+                        "nutritionalInfo": {}
+                    },
+                    "9fe9c0fc-4cea-4c75-82bc-6d492d094dea": {
+                        "uuid": "9fe9c0fc-4cea-4c75-82bc-6d492d094dea",
+                        "title": "Taco vegetarian  ",
+                        "itemDescription": "Corn and wheat tortilla, Mexican beans, sweet corn grill, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
+                        "price": 4000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "7f78f88e-e407-4f6b-8062-095539b0561f": {
+                        "uuid": "7f78f88e-e407-4f6b-8062-095539b0561f",
+                        "title": "Still water",
+                        "itemDescription": "500ml.",
+                        "price": 2500,
+                        "nutritionalInfo": {}
+                    },
+                    "a6efd3a7-4e46-424f-aeac-b453095420d8": {
+                        "uuid": "a6efd3a7-4e46-424f-aeac-b453095420d8",
+                        "title": "Coca-Cola",
+                        "itemDescription": "To choose from Coca-Cola or dietary Coca-Cola (330ml).",
+                        "price": 2500,
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "dc5a244a-36ca-48e8-84c6-19400f27b711"
+                        ]
+                    },
+                    "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745": {
+                        "uuid": "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745",
+                        "title": "Quesadilla with chicken   ",
+                        "itemDescription": "Wheat tortilla, chicken steak, cheese mix, sweet peppers, greens, and salsa sauce (280g).",
+                        "price": 6000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc35780d-d649-430c-a637-962734db7a21",
+                        "nutritionalInfo": {}
+                    },
+                    "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff": {
+                        "uuid": "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff",
+                        "title": "Lemonades Limo-Fresh ",
+                        "itemDescription": "To choose from tates: mojito, pear or ginger (500ml).",
+                        "price": 4000,
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "3bfd92b1-21e8-4de8-92fb-8655fefebbf2"
+                        ]
+                    },
+                    "5dad71b5-4168-401f-9c4c-9f561ee84341": {
+                        "uuid": "5dad71b5-4168-401f-9c4c-9f561ee84341",
+                        "title": "Taco with veal ",
+                        "itemDescription": "Corn and wheat tortilla, stewed veal, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
+                        "price": 4500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/da042e23-2eec-40cc-aae3-7cdca31a90cd",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "6dfec574-ab31-49b0-a0bc-3903035232b6": {
+                        "uuid": "6dfec574-ab31-49b0-a0bc-3903035232b6",
+                        "title": "Quesadilla with veal ",
+                        "itemDescription": "Wheat tortilla, cheese mix, stewed veal, sweet peppers, greens, and salsa sauce (280g).",
+                        "price": 7000,
+                        "nutritionalInfo": {}
+                    },
+                    "00bb17fe-d077-4d7a-a212-24ecd5c87196": {
+                        "uuid": "00bb17fe-d077-4d7a-a212-24ecd5c87196",
+                        "title": "Cold tea",
+                        "itemDescription": "To choose from gree or black tea (500ml).",
+                        "price": 2500,
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "a0d52aa4-2fee-4ac5-8b02-93daffe6557c"
+                        ]
+                    },
+                    "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41": {
+                        "uuid": "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41",
+                        "title": "Nachos chips with salsa ",
+                        "itemDescription": "Corn chips and salsa sauce (70g).",
+                        "price": 2500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e4cc052-3a80-41fe-8a89-797700166692",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "99838a20-5da1-4531-9f63-8d2d7115fca0": {
+                        "uuid": "99838a20-5da1-4531-9f63-8d2d7115fca0",
+                        "title": "Burrito with chicken  ",
+                        "itemDescription": "Wheat tortilla, chicken steak, Mexican beans, Mexican rice, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
+                        "price": 6000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1f075d0-cbc9-4385-81ee-07ad6edecbd2",
+                        "nutritionalInfo": {}
+                    },
+                    "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf": {
+                        "uuid": "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf",
+                        "title": "Quesadilla with cheese ",
+                        "itemDescription": "Wheat tortilla, cheese mix, sweet peppers, greens, and salsa sauce (280g).",
+                        "price": 6000,
+                        "nutritionalInfo": {}
+                    },
+                    "059f754a-db83-489e-a8cb-e52bf9f24105": {
+                        "uuid": "059f754a-db83-489e-a8cb-e52bf9f24105",
+                        "title": "Tacos soup ",
+                        "itemDescription": "Veal broth, veal, tomato puree, beans, potatoes, corn, greens, cheese, and nachos (350g).",
+                        "price": 5000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "f226d645-8c36-44af-b5d0-984421487738": {
+                        "uuid": "f226d645-8c36-44af-b5d0-984421487738",
+                        "title": "Taco with chicken ",
+                        "itemDescription": "Corn and wheat tortilla, chicken steak, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
+                        "price": 4000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b944fef1-a08d-4332-b853-2d67e5859cb6",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "86b91ee4-a150-4354-8965-30d99e61b70a",
+                        "title": "Taco",
+                        "itemUuids": [
+                            "f226d645-8c36-44af-b5d0-984421487738",
+                            "5dad71b5-4168-401f-9c4c-9f561ee84341",
+                            "9fe9c0fc-4cea-4c75-82bc-6d492d094dea"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f226d645-8c36-44af-b5d0-984421487738",
+                                "title": "Taco with chicken ",
+                                "itemDescription": "Corn and wheat tortilla, chicken steak, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
+                                "price": 4000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b944fef1-a08d-4332-b853-2d67e5859cb6",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "5dad71b5-4168-401f-9c4c-9f561ee84341",
+                                "title": "Taco with veal ",
+                                "itemDescription": "Corn and wheat tortilla, stewed veal, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
+                                "price": 4500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/da042e23-2eec-40cc-aae3-7cdca31a90cd",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "9fe9c0fc-4cea-4c75-82bc-6d492d094dea",
+                                "title": "Taco vegetarian  ",
+                                "itemDescription": "Corn and wheat tortilla, Mexican beans, sweet corn grill, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
+                                "price": 4000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "befe2d73-956f-487c-b5b7-1d4e542d5ab9",
+                        "title": "Burritto",
+                        "itemUuids": [
+                            "99838a20-5da1-4531-9f63-8d2d7115fca0",
+                            "11ce5daa-04de-4edb-a16c-3890d8743e53",
+                            "d77efe5e-d6ff-4b8d-b556-9180eec4f720"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "99838a20-5da1-4531-9f63-8d2d7115fca0",
+                                "title": "Burrito with chicken  ",
+                                "itemDescription": "Wheat tortilla, chicken steak, Mexican beans, Mexican rice, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
+                                "price": 6000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1f075d0-cbc9-4385-81ee-07ad6edecbd2",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "11ce5daa-04de-4edb-a16c-3890d8743e53",
+                                "title": "Burrito with veal ",
+                                "itemDescription": "Wheat tortilla, stewed veal, Mexican beans, Mexican rice, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
+                                "price": 7000,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "d77efe5e-d6ff-4b8d-b556-9180eec4f720",
+                                "title": "Burrito vegetarian ",
+                                "itemDescription": "Wheat tortilla, Mexican beans, sweet corn grill, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
+                                "price": 6000,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "f145a9b4-97a8-4fb9-96b2-64f39bcdfb0f",
+                        "title": "Quesadilla",
+                        "itemUuids": [
+                            "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf",
+                            "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745",
+                            "6dfec574-ab31-49b0-a0bc-3903035232b6"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf",
+                                "title": "Quesadilla with cheese ",
+                                "itemDescription": "Wheat tortilla, cheese mix, sweet peppers, greens, and salsa sauce (280g).",
+                                "price": 6000,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745",
+                                "title": "Quesadilla with chicken   ",
+                                "itemDescription": "Wheat tortilla, chicken steak, cheese mix, sweet peppers, greens, and salsa sauce (280g).",
+                                "price": 6000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc35780d-d649-430c-a637-962734db7a21",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "6dfec574-ab31-49b0-a0bc-3903035232b6",
+                                "title": "Quesadilla with veal ",
+                                "itemDescription": "Wheat tortilla, cheese mix, stewed veal, sweet peppers, greens, and salsa sauce (280g).",
+                                "price": 7000,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "2419c724-27eb-48ec-8b3a-cf702739a409",
+                        "title": "Nachos",
+                        "itemUuids": [
+                            "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41",
+                                "title": "Nachos chips with salsa ",
+                                "itemDescription": "Corn chips and salsa sauce (70g).",
+                                "price": 2500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e4cc052-3a80-41fe-8a89-797700166692",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "ab6e3897-638c-4e36-92e2-c78e9c932cb9",
+                        "title": "Soups",
+                        "itemUuids": [
+                            "059f754a-db83-489e-a8cb-e52bf9f24105"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "059f754a-db83-489e-a8cb-e52bf9f24105",
+                                "title": "Tacos soup ",
+                                "itemDescription": "Veal broth, veal, tomato puree, beans, potatoes, corn, greens, cheese, and nachos (350g).",
+                                "price": 5000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d6899286-4886-46a5-a109-d4d8ebf624f6",
+                        "title": "Beverages",
+                        "itemUuids": [
+                            "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff",
+                            "a6efd3a7-4e46-424f-aeac-b453095420d8",
+                            "00bb17fe-d077-4d7a-a212-24ecd5c87196",
+                            "7f78f88e-e407-4f6b-8062-095539b0561f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff",
+                                "title": "Lemonades Limo-Fresh ",
+                                "itemDescription": "To choose from tates: mojito, pear or ginger (500ml).",
+                                "price": 4000,
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "3bfd92b1-21e8-4de8-92fb-8655fefebbf2"
+                                ]
+                            },
+                            {
+                                "uuid": "a6efd3a7-4e46-424f-aeac-b453095420d8",
+                                "title": "Coca-Cola",
+                                "itemDescription": "To choose from Coca-Cola or dietary Coca-Cola (330ml).",
+                                "price": 2500,
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "dc5a244a-36ca-48e8-84c6-19400f27b711"
+                                ]
+                            },
+                            {
+                                "uuid": "00bb17fe-d077-4d7a-a212-24ecd5c87196",
+                                "title": "Cold tea",
+                                "itemDescription": "To choose from gree or black tea (500ml).",
+                                "price": 2500,
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "a0d52aa4-2fee-4ac5-8b02-93daffe6557c"
+                                ]
+                            },
+                            {
+                                "uuid": "7f78f88e-e407-4f6b-8062-095539b0561f",
+                                "title": "Still water",
+                                "itemDescription": "500ml.",
+                                "price": 2500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            },
+            "b18862a5-6786-44a7-b80e-74d17aff0a33": {
+                "itemsMap": {
+                    "d1690ea3-903d-44a7-bf6f-328ee54876dc": {
+                        "uuid": "d1690ea3-903d-44a7-bf6f-328ee54876dc",
+                        "title": "Кесадилья із сиром ",
+                        "itemDescription": "Пшенична тортилья, мікс сирів, солодкий перець, зелень, соус сальса (280г).",
+                        "price": 6000,
+                        "nutritionalInfo": {}
+                    },
+                    "fd40c449-e760-45e2-b438-8b5244baf3c0": {
+                        "uuid": "fd40c449-e760-45e2-b438-8b5244baf3c0",
+                        "title": "Лимонади Лімо-фреш",
+                        "itemDescription": "На вибір смак: мохіто, грушевий, імбирний (500мл).",
+                        "price": 4000,
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "d493dc0b-1e44-4384-a3e5-5404a34f950d"
+                        ]
+                    },
+                    "9c9beae9-4461-4673-b9ab-0dcc7fa33c03": {
+                        "uuid": "9c9beae9-4461-4673-b9ab-0dcc7fa33c03",
+                        "title": "Буріто з куркою ",
+                        "itemDescription": "Пшенична тортилья, рублений курячий стейк, мексиканські боби, мексиканський рис, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (320г).",
+                        "price": 6000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/42057665-f108-49d1-9899-3fc3381780c2",
+                        "nutritionalInfo": {}
+                    },
+                    "aa578c70-c3c6-48f0-89e9-2fe77d0d7fbe": {
+                        "uuid": "aa578c70-c3c6-48f0-89e9-2fe77d0d7fbe",
+                        "title": "Буріто вегетаріанське  ",
+                        "itemDescription": "Пшенична тортилья, мексиканські боби, солодка кукурудза гриль, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (320г).",
+                        "price": 6000,
+                        "nutritionalInfo": {}
+                    },
+                    "e11d0f3e-adbb-477c-a261-3feef0556ec9": {
+                        "uuid": "e11d0f3e-adbb-477c-a261-3feef0556ec9",
+                        "title": "Кесадилья з куркою  ",
+                        "itemDescription": "Пшенична тортилья, рублений курячий стейк, мікс сирів, солодкий перець, зелень, соус сальса (280г).",
+                        "price": 6000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/84f70d22-aa26-4448-a90a-1fa1826cc5a1",
+                        "nutritionalInfo": {}
+                    },
+                    "cc8cde9e-479f-48f6-87b4-9b859e5ae1e2": {
+                        "uuid": "cc8cde9e-479f-48f6-87b4-9b859e5ae1e2",
+                        "title": "Чіпси начос із сальсою",
+                        "itemDescription": "Кукурудзяні чіпси, соус сальса (70г).",
+                        "price": 2500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/17abdfda-e9f0-4996-9831-b83b68c98196",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "a4d80d7f-5fa8-450b-bbd2-3553b230a05f": {
+                        "uuid": "a4d80d7f-5fa8-450b-bbd2-3553b230a05f",
+                        "title": "Кесадилья з телятиною ",
+                        "itemDescription": "Пшенична тортилья, мікс сирів, телятина повільного тушкування,  солодкий перець, зелень, соус сальса (280г).",
+                        "price": 7000,
+                        "nutritionalInfo": {}
+                    },
+                    "94577bc5-fdb0-4dc2-bfd8-7349b799456a": {
+                        "uuid": "94577bc5-fdb0-4dc2-bfd8-7349b799456a",
+                        "title": "Тако вегетаріанське  ",
+                        "itemDescription": "Кукурудзяно-пшенична тортилья, мексиканські боби, солодка кукурудза гриль, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (160г).",
+                        "price": 4000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "5e57507e-6954-47e5-adb4-1f666505a91d": {
+                        "uuid": "5e57507e-6954-47e5-adb4-1f666505a91d",
+                        "title": "Тако з телятиною ",
+                        "itemDescription": "Кукурудзяно-пшенична тортилья, телятина повільного тушкування, мексиканські боби, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (160г).",
+                        "price": 4500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0c08dd4-4241-46cc-a85c-1ae24e905ec9",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "cba3185c-5db0-4818-958e-ddf5a773ac2d": {
+                        "uuid": "cba3185c-5db0-4818-958e-ddf5a773ac2d",
+                        "title": "Холодний чай ",
+                        "itemDescription": "На вибір холодний зелений або чорний чай (500мл).",
+                        "price": 2500,
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "b422991d-323d-491d-a035-a39a34bf9bd9"
+                        ]
+                    },
+                    "d724c85d-11fe-4741-8af0-557edb39ca1f": {
+                        "uuid": "d724c85d-11fe-4741-8af0-557edb39ca1f",
+                        "title": "Буріто з телятиною",
+                        "itemDescription": "Пшенична тортилья, телятина повільного тушкування, мексиканські боби, мексиканський рис, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (320г).",
+                        "price": 7000,
+                        "nutritionalInfo": {}
+                    },
+                    "bbf58165-8b48-46d0-b6d3-d1d57df9d980": {
+                        "uuid": "bbf58165-8b48-46d0-b6d3-d1d57df9d980",
+                        "title": "Негазована вода",
+                        "itemDescription": "500мл.",
+                        "price": 2500,
+                        "nutritionalInfo": {}
+                    },
+                    "57a75f23-3010-42a8-a52d-420e0d169511": {
+                        "uuid": "57a75f23-3010-42a8-a52d-420e0d169511",
+                        "title": "Суп Такос",
+                        "itemDescription": "Телячий бульйон, телятина, томатне пюре, боби, картопля, кукурудза, зелень, сир, начос (350г).",
+                        "price": 5000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "4598ae81-adae-4df9-9f0f-cd573954d584": {
+                        "uuid": "4598ae81-adae-4df9-9f0f-cd573954d584",
+                        "title": "Тако з куркою ",
+                        "itemDescription": "Кукурудзяно-пшенична тортилья, рублений курячий стейк, мексиканські боби, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (160г).",
+                        "price": 4000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/61beae1b-d96a-4bb3-b5e6-7df633502d75",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "6b230b11-bce1-4c3b-a1f2-be8ab9476c15": {
+                        "uuid": "6b230b11-bce1-4c3b-a1f2-be8ab9476c15",
+                        "title": "Кока-кола",
+                        "itemDescription": "На вибір кока-кола або кока-кола дієтична (330мл).",
+                        "price": 2500,
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "d28f7260-32d0-4634-8b92-98e7de2ab5af"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "5971f8f3-ce30-40fe-93b8-5d42074bada3",
+                        "title": "Тако",
+                        "itemUuids": [
+                            "4598ae81-adae-4df9-9f0f-cd573954d584",
+                            "5e57507e-6954-47e5-adb4-1f666505a91d",
+                            "94577bc5-fdb0-4dc2-bfd8-7349b799456a"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "4598ae81-adae-4df9-9f0f-cd573954d584",
+                                "title": "Тако з куркою ",
+                                "itemDescription": "Кукурудзяно-пшенична тортилья, рублений курячий стейк, мексиканські боби, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (160г).",
+                                "price": 4000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/61beae1b-d96a-4bb3-b5e6-7df633502d75",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "5e57507e-6954-47e5-adb4-1f666505a91d",
+                                "title": "Тако з телятиною ",
+                                "itemDescription": "Кукурудзяно-пшенична тортилья, телятина повільного тушкування, мексиканські боби, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (160г).",
+                                "price": 4500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0c08dd4-4241-46cc-a85c-1ae24e905ec9",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "94577bc5-fdb0-4dc2-bfd8-7349b799456a",
+                                "title": "Тако вегетаріанське  ",
+                                "itemDescription": "Кукурудзяно-пшенична тортилья, мексиканські боби, солодка кукурудза гриль, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (160г).",
+                                "price": 4000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "4e66b06b-cc12-4e72-adaf-fc9854609774",
+                        "title": "Буріто",
+                        "itemUuids": [
+                            "9c9beae9-4461-4673-b9ab-0dcc7fa33c03",
+                            "aa578c70-c3c6-48f0-89e9-2fe77d0d7fbe",
+                            "d724c85d-11fe-4741-8af0-557edb39ca1f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9c9beae9-4461-4673-b9ab-0dcc7fa33c03",
+                                "title": "Буріто з куркою ",
+                                "itemDescription": "Пшенична тортилья, рублений курячий стейк, мексиканські боби, мексиканський рис, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (320г).",
+                                "price": 6000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/42057665-f108-49d1-9899-3fc3381780c2",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "aa578c70-c3c6-48f0-89e9-2fe77d0d7fbe",
+                                "title": "Буріто вегетаріанське  ",
+                                "itemDescription": "Пшенична тортилья, мексиканські боби, солодка кукурудза гриль, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (320г).",
+                                "price": 6000,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "d724c85d-11fe-4741-8af0-557edb39ca1f",
+                                "title": "Буріто з телятиною",
+                                "itemDescription": "Пшенична тортилья, телятина повільного тушкування, мексиканські боби, мексиканський рис, мікс салатів, томатна сальса, зелень, мікс сирів, соус сальса (320г).",
+                                "price": 7000,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d183f451-8caa-4853-9a5b-9388e1ce116a",
+                        "title": "Кесадилья",
+                        "itemUuids": [
+                            "d1690ea3-903d-44a7-bf6f-328ee54876dc",
+                            "e11d0f3e-adbb-477c-a261-3feef0556ec9",
+                            "a4d80d7f-5fa8-450b-bbd2-3553b230a05f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "d1690ea3-903d-44a7-bf6f-328ee54876dc",
+                                "title": "Кесадилья із сиром ",
+                                "itemDescription": "Пшенична тортилья, мікс сирів, солодкий перець, зелень, соус сальса (280г).",
+                                "price": 6000,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "e11d0f3e-adbb-477c-a261-3feef0556ec9",
+                                "title": "Кесадилья з куркою  ",
+                                "itemDescription": "Пшенична тортилья, рублений курячий стейк, мікс сирів, солодкий перець, зелень, соус сальса (280г).",
+                                "price": 6000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/84f70d22-aa26-4448-a90a-1fa1826cc5a1",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "a4d80d7f-5fa8-450b-bbd2-3553b230a05f",
+                                "title": "Кесадилья з телятиною ",
+                                "itemDescription": "Пшенична тортилья, мікс сирів, телятина повільного тушкування,  солодкий перець, зелень, соус сальса (280г).",
+                                "price": 7000,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "984562d3-9a4f-4d23-82e8-f3e5f0bb9ae8",
+                        "title": "Начос",
+                        "itemUuids": [
+                            "cc8cde9e-479f-48f6-87b4-9b859e5ae1e2"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "cc8cde9e-479f-48f6-87b4-9b859e5ae1e2",
+                                "title": "Чіпси начос із сальсою",
+                                "itemDescription": "Кукурудзяні чіпси, соус сальса (70г).",
+                                "price": 2500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/17abdfda-e9f0-4996-9831-b83b68c98196",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "ba0d387c-7a78-4236-935c-9b73787db85e",
+                        "title": "Супи",
+                        "itemUuids": [
+                            "57a75f23-3010-42a8-a52d-420e0d169511"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "57a75f23-3010-42a8-a52d-420e0d169511",
+                                "title": "Суп Такос",
+                                "itemDescription": "Телячий бульйон, телятина, томатне пюре, боби, картопля, кукурудза, зелень, сир, начос (350г).",
+                                "price": 5000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "cb84ce60-2fe8-4a90-88af-6b857b1f3b6c",
+                        "title": "Напої",
+                        "itemUuids": [
+                            "6b230b11-bce1-4c3b-a1f2-be8ab9476c15",
+                            "fd40c449-e760-45e2-b438-8b5244baf3c0",
+                            "cba3185c-5db0-4818-958e-ddf5a773ac2d",
+                            "bbf58165-8b48-46d0-b6d3-d1d57df9d980"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "6b230b11-bce1-4c3b-a1f2-be8ab9476c15",
+                                "title": "Кока-кола",
+                                "itemDescription": "На вибір кока-кола або кока-кола дієтична (330мл).",
+                                "price": 2500,
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "d28f7260-32d0-4634-8b92-98e7de2ab5af"
+                                ]
+                            },
+                            {
+                                "uuid": "fd40c449-e760-45e2-b438-8b5244baf3c0",
+                                "title": "Лимонади Лімо-фреш",
+                                "itemDescription": "На вибір смак: мохіто, грушевий, імбирний (500мл).",
+                                "price": 4000,
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "d493dc0b-1e44-4384-a3e5-5404a34f950d"
+                                ]
+                            },
+                            {
+                                "uuid": "cba3185c-5db0-4818-958e-ddf5a773ac2d",
+                                "title": "Холодний чай ",
+                                "itemDescription": "На вибір холодний зелений або чорний чай (500мл).",
+                                "price": 2500,
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "b422991d-323d-491d-a035-a39a34bf9bd9"
+                                ]
+                            },
+                            {
+                                "uuid": "bbf58165-8b48-46d0-b6d3-d1d57df9d980",
+                                "title": "Негазована вода",
+                                "itemDescription": "500мл.",
+                                "price": 2500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "4e66b06b-cc12-4e72-adaf-fc9854609774": {
+                "uuid": "4e66b06b-cc12-4e72-adaf-fc9854609774",
+                "title": "Буріто",
+                "itemUuids": [
+                    "9c9beae9-4461-4673-b9ab-0dcc7fa33c03",
+                    "aa578c70-c3c6-48f0-89e9-2fe77d0d7fbe",
+                    "d724c85d-11fe-4741-8af0-557edb39ca1f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9c9beae9-4461-4673-b9ab-0dcc7fa33c03",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "aa578c70-c3c6-48f0-89e9-2fe77d0d7fbe",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d724c85d-11fe-4741-8af0-557edb39ca1f",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "2419c724-27eb-48ec-8b3a-cf702739a409": {
+                "uuid": "2419c724-27eb-48ec-8b3a-cf702739a409",
+                "title": "Nachos",
+                "itemUuids": [
+                    "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "ab6e3897-638c-4e36-92e2-c78e9c932cb9": {
+                "uuid": "ab6e3897-638c-4e36-92e2-c78e9c932cb9",
+                "title": "Soups",
+                "itemUuids": [
+                    "059f754a-db83-489e-a8cb-e52bf9f24105"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "059f754a-db83-489e-a8cb-e52bf9f24105",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d6899286-4886-46a5-a109-d4d8ebf624f6": {
+                "uuid": "d6899286-4886-46a5-a109-d4d8ebf624f6",
+                "title": "Beverages",
+                "itemUuids": [
+                    "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff",
+                    "a6efd3a7-4e46-424f-aeac-b453095420d8",
+                    "00bb17fe-d077-4d7a-a212-24ecd5c87196",
+                    "7f78f88e-e407-4f6b-8062-095539b0561f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a6efd3a7-4e46-424f-aeac-b453095420d8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "00bb17fe-d077-4d7a-a212-24ecd5c87196",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7f78f88e-e407-4f6b-8062-095539b0561f",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "984562d3-9a4f-4d23-82e8-f3e5f0bb9ae8": {
+                "uuid": "984562d3-9a4f-4d23-82e8-f3e5f0bb9ae8",
+                "title": "Начос",
+                "itemUuids": [
+                    "cc8cde9e-479f-48f6-87b4-9b859e5ae1e2"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "cc8cde9e-479f-48f6-87b4-9b859e5ae1e2",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "86b91ee4-a150-4354-8965-30d99e61b70a": {
+                "uuid": "86b91ee4-a150-4354-8965-30d99e61b70a",
+                "title": "Taco",
+                "itemUuids": [
+                    "f226d645-8c36-44af-b5d0-984421487738",
+                    "5dad71b5-4168-401f-9c4c-9f561ee84341",
+                    "9fe9c0fc-4cea-4c75-82bc-6d492d094dea"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f226d645-8c36-44af-b5d0-984421487738",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5dad71b5-4168-401f-9c4c-9f561ee84341",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9fe9c0fc-4cea-4c75-82bc-6d492d094dea",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "5971f8f3-ce30-40fe-93b8-5d42074bada3": {
+                "uuid": "5971f8f3-ce30-40fe-93b8-5d42074bada3",
+                "title": "Тако",
+                "itemUuids": [
+                    "4598ae81-adae-4df9-9f0f-cd573954d584",
+                    "5e57507e-6954-47e5-adb4-1f666505a91d",
+                    "94577bc5-fdb0-4dc2-bfd8-7349b799456a"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "4598ae81-adae-4df9-9f0f-cd573954d584",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5e57507e-6954-47e5-adb4-1f666505a91d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "94577bc5-fdb0-4dc2-bfd8-7349b799456a",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "ba0d387c-7a78-4236-935c-9b73787db85e": {
+                "uuid": "ba0d387c-7a78-4236-935c-9b73787db85e",
+                "title": "Супи",
+                "itemUuids": [
+                    "57a75f23-3010-42a8-a52d-420e0d169511"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "57a75f23-3010-42a8-a52d-420e0d169511",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "befe2d73-956f-487c-b5b7-1d4e542d5ab9": {
+                "uuid": "befe2d73-956f-487c-b5b7-1d4e542d5ab9",
+                "title": "Burritto",
+                "itemUuids": [
+                    "99838a20-5da1-4531-9f63-8d2d7115fca0",
+                    "11ce5daa-04de-4edb-a16c-3890d8743e53",
+                    "d77efe5e-d6ff-4b8d-b556-9180eec4f720"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "99838a20-5da1-4531-9f63-8d2d7115fca0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "11ce5daa-04de-4edb-a16c-3890d8743e53",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d77efe5e-d6ff-4b8d-b556-9180eec4f720",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f145a9b4-97a8-4fb9-96b2-64f39bcdfb0f": {
+                "uuid": "f145a9b4-97a8-4fb9-96b2-64f39bcdfb0f",
+                "title": "Quesadilla",
+                "itemUuids": [
+                    "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf",
+                    "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745",
+                    "6dfec574-ab31-49b0-a0bc-3903035232b6"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6dfec574-ab31-49b0-a0bc-3903035232b6",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d183f451-8caa-4853-9a5b-9388e1ce116a": {
+                "uuid": "d183f451-8caa-4853-9a5b-9388e1ce116a",
+                "title": "Кесадилья",
+                "itemUuids": [
+                    "d1690ea3-903d-44a7-bf6f-328ee54876dc",
+                    "e11d0f3e-adbb-477c-a261-3feef0556ec9",
+                    "a4d80d7f-5fa8-450b-bbd2-3553b230a05f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "d1690ea3-903d-44a7-bf6f-328ee54876dc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e11d0f3e-adbb-477c-a261-3feef0556ec9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a4d80d7f-5fa8-450b-bbd2-3553b230a05f",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "cb84ce60-2fe8-4a90-88af-6b857b1f3b6c": {
+                "uuid": "cb84ce60-2fe8-4a90-88af-6b857b1f3b6c",
+                "title": "Напої",
+                "itemUuids": [
+                    "6b230b11-bce1-4c3b-a1f2-be8ab9476c15",
+                    "fd40c449-e760-45e2-b438-8b5244baf3c0",
+                    "cba3185c-5db0-4818-958e-ddf5a773ac2d",
+                    "bbf58165-8b48-46d0-b6d3-d1d57df9d980"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "6b230b11-bce1-4c3b-a1f2-be8ab9476c15",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "fd40c449-e760-45e2-b438-8b5244baf3c0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cba3185c-5db0-4818-958e-ddf5a773ac2d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bbf58165-8b48-46d0-b6d3-d1d57df9d980",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.445993373602434,
+            "longitude": 30.51609549890798,
+            "address": {
+                "address1": "Bohdana Khmel'nyts'koho St, 16-22",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Bohdana Khmel'Nyts'Koho St, 16-22, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380983001614"
+        },
+        "priceBucket": "₴",
+        "slug": "arizona-tacos",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/239a2c92-6748-482e-b6e7-85bb1d12583d",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/69371767-8d49-4920-a351-79f778614a94",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/85610244-a9ad-4bb4-9e0b-80fd110b1ad0",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/03f3ba82-4650-40c2-b90a-a177ee5ab4e9",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/44c8f4be-00a7-4b6b-905c-9eccc593796c",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.0 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(69)</span></span>",
+                "accessibilityText": "Rated 4.0 out of 5 stars based on 69 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴ • Mexican • Tex Mex • Latin American</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "25–35 MINS",
+                "textFormat": "<span>25–35 MINS</span>",
+                "accessibilityText": "Delivered in 25 to 35 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 25,
+            "max": 35,
+            "raw": 30
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

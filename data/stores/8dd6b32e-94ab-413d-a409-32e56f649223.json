@@ -1,0 +1,2814 @@
+{
+    "store": {
+        "uuid": "8dd6b32e-94ab-413d-a409-32e56f649223",
+        "title": "Mira cafe (Бессарабська площа)",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "European",
+                "name": "Європейська",
+                "keyName": "European"
+            },
+            {
+                "uuid": "Vegan",
+                "name": "Для веганів",
+                "keyName": "Vegan"
+            },
+            {
+                "uuid": "Healthy",
+                "name": "Здорова їжа",
+                "keyName": "Healthy"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "1ab05aee-17e1-421c-be53-52cffa1f375d",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 9:30 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "837954a6-af75-4f4f-a2e8-955d0bfe9a96",
+                    "6a62b497-c3bb-4d20-af07-e39524832254",
+                    "aa1abf19-2fa0-4550-8592-02acbe316721",
+                    "1fc1da2d-aff1-4dec-bf0c-899ffb4704e4",
+                    "78460a7e-629c-4a05-aeec-6598430b9e28",
+                    "6afd12f6-94c1-4fe5-a567-1270bf264cef",
+                    "d9b4c006-6908-4003-b688-cbd4fcabd184"
+                ]
+            },
+            {
+                "uuid": "2153604b-25b1-4e3c-a5cb-36e6207e6bf3",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 9:30 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "dd8746c2-9706-49cd-87d4-674d92583747",
+                    "a18725e7-4e5c-4852-a7c0-65db642d090a",
+                    "aac3315c-0cbe-44b1-80d9-f35a025a4db7",
+                    "4de43997-f914-4c02-adc0-9fa9c3f263e4",
+                    "461d15d7-24b9-494f-ad6d-b1cc51426fc1",
+                    "85d0db29-8ee8-4b73-9c44-6ae500a8432e",
+                    "fb4e6400-4fae-4513-a482-273831fb4ea2"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "1ab05aee-17e1-421c-be53-52cffa1f375d": {
+                "itemsMap": {
+                    "7d7fdc04-b868-470f-be22-5059d9daa239": {
+                        "uuid": "7d7fdc04-b868-470f-be22-5059d9daa239",
+                        "title": "Чорничний RAW cheesecake",
+                        "itemDescription": "Кокосове молоко, лимонний фреш, кеш'ю, какао мало, мед, чорниця, мигдаль, фінік, какао порошок, какао терте(135г).",
+                        "price": 9900
+                    },
+                    "b7c62085-9ced-49ba-ba3d-c205a31518bb": {
+                        "uuid": "b7c62085-9ced-49ba-ba3d-c205a31518bb",
+                        "title": "Банановий пудинг",
+                        "itemDescription": "Банан, молоко, яйце, рисове борошно, стевія, какао (150г).",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cc1aeeb8-ef0f-4d91-a29e-ca3f930c412f"
+                    },
+                    "b5c7210c-de69-4ced-b84f-93b4d0f48d7f": {
+                        "uuid": "b5c7210c-de69-4ced-b84f-93b4d0f48d7f",
+                        "title": "Кокосові кейки",
+                        "itemDescription": "Фінік, полуниця, смородина, кокосова стружка, ванільна есенція, кокосове молоко, буряк. Соус: полуниця, смородина, мед, молоко кокосове (280г).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/08f01040-fa92-4f48-8581-61302a144b0c"
+                    },
+                    "8ce0dd95-0f11-4b2f-82aa-6d5594f5da38": {
+                        "uuid": "8ce0dd95-0f11-4b2f-82aa-6d5594f5da38",
+                        "title": "Салат овочевий з редисом",
+                        "itemDescription": "210 грам",
+                        "price": 8900,
+                        "nutritionalInfo": {}
+                    },
+                    "14ef6f59-38a6-4106-bad2-261b113ce903": {
+                        "uuid": "14ef6f59-38a6-4106-bad2-261b113ce903",
+                        "title": "Гарячий сендвіч з брі",
+                        "itemDescription": "Хліб вівсяний, сир фета, чебрець, перець болгарський печений, сир брі (245 г)",
+                        "price": 14900
+                    },
+                    "6652eecf-b946-42e5-9f0e-78f5bb6697bd": {
+                        "uuid": "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                        "title": "Vegan wrap",
+                        "itemDescription": "Батат, тофу, хумус, чука, шпинат, гарбуз, кіноа, соус із тахіни та льону, лаваш (390г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a390c0b1-fc40-4221-bdab-5c9faa8d0d08",
+                        "suspendUntil": 1559509199,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "2d2675be-bac8-475d-8010-63093fed88be": {
+                        "uuid": "2d2675be-bac8-475d-8010-63093fed88be",
+                        "title": "Сендвіч з хумусом",
+                        "itemDescription": "Хумус, хліб житній, шпинат, перець болгарський (170г).",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8612f571-8c93-456b-a646-6243f202f95b",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Веганська",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "187e474d-2d52-4e4f-a323-7b9cff2024f2": {
+                        "uuid": "187e474d-2d52-4e4f-a323-7b9cff2024f2",
+                        "title": "Кіноа-шпинат-хумус",
+                        "itemDescription": "Кіноа, шпинат, хумус власного виробництва (нут, сіль, спеція Зіра, лимонний фреш, кунжутна паста Тахіні, перець чорний мелений, часник сушений, рослинна олія), яйце, соус песто (200г).",
+                        "price": 6900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8723988c-6a6d-4a25-b66f-cad03150538d"
+                    },
+                    "493150cc-7690-40a3-9977-94a42da6ada6": {
+                        "uuid": "493150cc-7690-40a3-9977-94a42da6ada6",
+                        "title": "Салат з печеними овочами",
+                        "itemDescription": "Запечена цвітна капуста, запечені томати, огірок, морква, шпинат свіжий, кеш’ю, гірчичний соус (гірчиця, мед, лимонний фреш, олія рослинна) (200г).",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/05c55701-de34-4b0a-8770-fb2913afd677",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Веганська",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "9ac3e569-be58-4115-ac05-734dd3aeec67": {
+                        "uuid": "9ac3e569-be58-4115-ac05-734dd3aeec67",
+                        "title": "Телятина з локшиною соба",
+                        "itemDescription": "Телятина, локшина соба, томат, спаржа, кунжут (330г).\n",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0c4b969-85fd-43f8-9300-ee4d48906b90",
+                        "customizationUuids": [
+                            "6c3aa60d-533e-4b90-a5b1-002a1e04eb8f"
+                        ]
+                    },
+                    "34599ac2-9809-45e4-972a-0a7adc00371f": {
+                        "uuid": "34599ac2-9809-45e4-972a-0a7adc00371f",
+                        "title": "Фреш моркв'яний",
+                        "itemDescription": "250мл.",
+                        "price": 3900,
+                        "suspendUntil": 8640000000
+                    },
+                    "49e792c9-2762-40b0-a112-282625d52499": {
+                        "uuid": "49e792c9-2762-40b0-a112-282625d52499",
+                        "title": "Томатний крем-суп",
+                        "itemDescription": "Томати пілаті, болгарський перець, селера, сир фета, часник (200мл).",
+                        "price": 5400,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e21f1b3-1b5a-4672-af99-9cf9e264d3bd"
+                    },
+                    "bb8f01df-b34f-406a-aa1e-d78a96dc735b": {
+                        "uuid": "bb8f01df-b34f-406a-aa1e-d78a96dc735b",
+                        "title": "Брауні з авокадо",
+                        "itemDescription": "Авокадо, мед, лимонний фреш, ванільна есенція, какао порошок, шоколад з цукрозамінником, масло вершкове, рисова мука, яйце (120г).",
+                        "price": 9900,
+                        "nutritionalInfo": {}
+                    },
+                    "b0c4fee0-e16e-4325-8d8c-7d03b3dff58f": {
+                        "uuid": "b0c4fee0-e16e-4325-8d8c-7d03b3dff58f",
+                        "title": "Хумус з овочами і шпинатом",
+                        "itemDescription": "300 грам",
+                        "price": 11900,
+                        "nutritionalInfo": {}
+                    },
+                    "2ff0529d-8f9c-4389-b89b-6b6c5af25eda": {
+                        "uuid": "2ff0529d-8f9c-4389-b89b-6b6c5af25eda",
+                        "title": "Салат з лососем",
+                        "itemDescription": "Вага - 220 грам. ",
+                        "price": 21900,
+                        "nutritionalInfo": {}
+                    },
+                    "99c75db2-7be0-4a45-bfd9-264df0c8f0c5": {
+                        "uuid": "99c75db2-7be0-4a45-bfd9-264df0c8f0c5",
+                        "title": "Салат з тунцем",
+                        "itemDescription": "Тунець, мікс салату (лоло бйондо, фрізе, руккола), томати, огірок, яйце, медово-гірчичний соус (гірчиця, олія рослинна, мед, лимонний фреш) (250г)",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ff17f6e-67c2-4fd5-8eae-d5ca263643a4"
+                    },
+                    "8634765b-e68d-4dfa-873a-c18b32a98403": {
+                        "uuid": "8634765b-e68d-4dfa-873a-c18b32a98403",
+                        "title": "Запечене яблуко",
+                        "itemDescription": "Яблуко, мед, мигдальні пластівці (180 г)",
+                        "price": 4900
+                    },
+                    "784d6247-e1f4-4cc8-87f4-d1724cfa7df1": {
+                        "uuid": "784d6247-e1f4-4cc8-87f4-d1724cfa7df1",
+                        "title": "Лляна каша",
+                        "itemDescription": "Насіння льону, кокосове молоко, мед, cезонні ягоди (80г).",
+                        "price": 6700,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5d006c6-6c31-4e14-96a1-3fab68049e2e"
+                    },
+                    "8eaffbca-2a6d-4b20-b16b-5e098d5162ca": {
+                        "uuid": "8eaffbca-2a6d-4b20-b16b-5e098d5162ca",
+                        "title": "Рослинне молоко власного виробництва КЕШ’Ю + ВАНІЛЬ",
+                        "itemDescription": "500 мл",
+                        "price": 13900,
+                        "suspendUntil": 8640000000
+                    },
+                    "48a5dfb1-3ee3-4197-94ef-69280dbbc50b": {
+                        "uuid": "48a5dfb1-3ee3-4197-94ef-69280dbbc50b",
+                        "title": "Кокосове печиво ",
+                        "itemDescription": "Kокосова стружка, кокосове молоко, сироп кукурудзяних паростків,\nванільна есенція, кокосова есенція, рисова мука(38г).",
+                        "price": 2400,
+                        "nutritionalInfo": {}
+                    },
+                    "46aa567e-06cb-4b50-b646-1d766aa4b339": {
+                        "uuid": "46aa567e-06cb-4b50-b646-1d766aa4b339",
+                        "title": "Салат з куркою ",
+                        "itemDescription": "Філе куряче запечене, салат айзберг, свіжий шпинат, огірок свіжий, томат черрі, перець чорний мелений, олія рослинна, сир пармезан, пряний пісний майонез(льон мелений, гірчиця, мед, олія рослинна, сіль морська, лимонний фреш, лимон), соус Ворчістер (230+40г).",
+                        "price": 14100,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/4121623c-750e-49b0-b13c-fec2c1eb8420"
+                    },
+                    "6026d481-1edb-4c39-82af-2165d847344b": {
+                        "uuid": "6026d481-1edb-4c39-82af-2165d847344b",
+                        "title": "Гарбузовий крем-суп з креветками та пармезаном",
+                        "itemDescription": "Гарбуз, селера, куркума, часник, цибуля, розмарин, коріандр, вершки рослинні, креветки, пармезан (250мл).",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cc133bdc-02a7-41c6-b729-407f8f2f7039",
+                        "suspendUntil": 1559509199
+                    },
+                    "338b3c75-cf75-48d1-b768-e6a3d71a0d82": {
+                        "uuid": "338b3c75-cf75-48d1-b768-e6a3d71a0d82",
+                        "title": "Сирники",
+                        "itemDescription": "Сир, рисове борошно, яйце, полуничний та ванільний соус(245г).",
+                        "price": 13500
+                    },
+                    "8321926d-74a7-4854-b678-86a8e93b5f5c": {
+                        "uuid": "8321926d-74a7-4854-b678-86a8e93b5f5c",
+                        "title": "Набір цукерок асорті (6 шт)",
+                        "itemDescription": "КОКОС: кокосова стружка, кокосове молоко, ваніль, мед, какао терте, какао-масло; СМОРОДИНА: какао терте, какао-масло, кокосове молоко, мед, смородина; СОЛОНА КАРАМЕЛЬ: какао терте, какао-масло, арахісова паста, фініки, морська сіль Fleur de Sol; ШОКОЛАДНИЙ ТРЮФЕЛЬ З ІМБИРЕМ: шоколад (какао терте, какао-масло), імбир, родзинки, кокосове молоко, мед; МОЛОЧНО-ГОРІХОВИЙ ТРЮФЕЛЬ: шоколад (какао терте, какао-масло), кокосове молоко, мигдаль, мед; МОККО: шоколад (какао терте, какао-масло), кокосове молоко, кава, мед) (150 г)",
+                        "price": 16800
+                    },
+                    "f41d7ee2-b2ad-40d7-8d26-1c6267ced502": {
+                        "uuid": "f41d7ee2-b2ad-40d7-8d26-1c6267ced502",
+                        "title": "Лаймова вода",
+                        "itemDescription": "250мл.",
+                        "price": 2200
+                    },
+                    "b68c781f-5991-4dae-b242-f1e73fd4304f": {
+                        "uuid": "b68c781f-5991-4dae-b242-f1e73fd4304f",
+                        "title": "Сочевичний крем-сум",
+                        "itemDescription": "Cочевиця, морква, цибуля ріпчаста, сіль, перець чорний мелений (200мл).",
+                        "price": 3900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ff19905-9449-4183-801d-b3ea70887819",
+                        "suspendUntil": 1559509199
+                    },
+                    "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac": {
+                        "uuid": "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                        "title": "Fish wrap",
+                        "itemDescription": "Тунець консервований, лаваш, томат, шпинат, чука,  авокадо, соус із льону та тахіни, гірчиця (340г).",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e88db13-fc2b-4692-99ae-a5fb9737fa61"
+                    },
+                    "69590942-f754-4f24-a2f8-ef41ca041b35": {
+                        "uuid": "69590942-f754-4f24-a2f8-ef41ca041b35",
+                        "title": "Вода VODA.UA ",
+                        "itemDescription": "400 мл",
+                        "price": 2100
+                    },
+                    "c872eb9c-0e38-411d-ac29-f4a4444d2a28": {
+                        "uuid": "c872eb9c-0e38-411d-ac29-f4a4444d2a28",
+                        "title": "Вівсяне печиво",
+                        "itemDescription": "Вівсяні пластівці, яблуко, родзинки, мигдаль, яйце, рисове борошно, сироп кукурудзяних паростків, кукурудзяна олія (40г).",
+                        "price": 1500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/131bfdec-f1c7-4fdc-b7db-da0e2054ab57"
+                    },
+                    "9667fd80-cafb-4f1f-8f73-a8c270a0b948": {
+                        "uuid": "9667fd80-cafb-4f1f-8f73-a8c270a0b948",
+                        "title": "Набір цукерок асорті (3 шт)",
+                        "itemDescription": "КОКОС: кокосова стружка, кокосове молоко, ваніль, мед, какао терте, какао-масло; СМОРОДИНА: какао терте, какао-масло, кокосове молоко, мед, смородина; СОЛОНА КАРАМЕЛЬ: какао терте, какао-масло, арахісова паста, фініки, морська сіль Fleur de Sol (75 г)",
+                        "price": 7900
+                    },
+                    "60376b15-978e-4099-8eab-d06cb582695b": {
+                        "uuid": "60376b15-978e-4099-8eab-d06cb582695b",
+                        "title": "Фреш помаранч",
+                        "itemDescription": "250мл.",
+                        "price": 4900,
+                        "suspendUntil": 1559509199
+                    },
+                    "75498969-ae86-4c37-93e8-fe46ed759c76": {
+                        "uuid": "75498969-ae86-4c37-93e8-fe46ed759c76",
+                        "title": "Грибний крем-суп на рисовому молоці",
+                        "itemDescription": "Гриби печериці, гриби гливи, цибуля, рисове молоко (200мл).",
+                        "price": 4900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/592cb4c9-f525-4f5a-9964-d72cca03e8c3"
+                    },
+                    "74de8b48-7ee8-4aea-835c-0aa96e5c62a4": {
+                        "uuid": "74de8b48-7ee8-4aea-835c-0aa96e5c62a4",
+                        "title": "Набір цукерок асорті тропічний мікс (3шт)",
+                        "itemDescription": "Какао масло, какао терте, чіа, маракуйя, фінік(75г).",
+                        "price": 7900,
+                        "suspendUntil": 8640000000
+                    },
+                    "f7bd05da-3884-429c-aa38-7b795771bf9d": {
+                        "uuid": "f7bd05da-3884-429c-aa38-7b795771bf9d",
+                        "title": "Смузі банан-спіруліна",
+                        "itemDescription": "250мл.",
+                        "price": 4900
+                    },
+                    "1c8dc4ea-111a-427e-aebd-bd37f090c066": {
+                        "uuid": "1c8dc4ea-111a-427e-aebd-bd37f090c066",
+                        "title": "Набір цукерок кокос (3шт)",
+                        "itemDescription": "КОКОС: кокосоваа стружка, кокосове молоко, ваніль, мед, какао, какао-масло; СМОРОДИНА: какао, какао- масло, кокосове молоко, мед, кокосове масло, смородина; СОЛОНА КАРАМЕЛЬ: какао, какао-масло, арахісова паста, фініки, морська сіль (75г).",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/29936e60-d633-492f-9ead-c6e014211c54"
+                    },
+                    "3e3bd1ab-096e-4a5c-b1b7-66f47fb0f6dd": {
+                        "uuid": "3e3bd1ab-096e-4a5c-b1b7-66f47fb0f6dd",
+                        "title": "Лосось з кіноа",
+                        "itemDescription": "Запечений лосось, кіноа, зелений горошок (220г).",
+                        "price": 17900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cd3ff284-23d1-4f2b-b52a-571c82019a49",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "6c3aa60d-533e-4b90-a5b1-002a1e04eb8f"
+                        ]
+                    },
+                    "e6a50764-0d4d-44ff-acc8-77e906c05850": {
+                        "uuid": "e6a50764-0d4d-44ff-acc8-77e906c05850",
+                        "title": "Фреш грейпфрутовий",
+                        "itemDescription": "250мл.",
+                        "price": 5900,
+                        "suspendUntil": 1559509199
+                    },
+                    "babe6517-587a-4e62-a66e-81e7c8211806": {
+                        "uuid": "babe6517-587a-4e62-a66e-81e7c8211806",
+                        "title": "Енерджи буст манго",
+                        "itemDescription": "Вівсяні пластівці, чіа, манго, кокосове молоко(310г).",
+                        "price": 9900
+                    },
+                    "9beb2f09-4073-46f0-b137-beb1dad74b2b": {
+                        "uuid": "9beb2f09-4073-46f0-b137-beb1dad74b2b",
+                        "title": "Курячі котлети з кіноа",
+                        "itemDescription": "Курячі котлети: філе, вершки, цибуля, кіноа чорна та біла, перець печений, соус песто (230г).",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae163e24-1d7e-4ed0-a214-154215668b9f",
+                        "customizationUuids": [
+                            "fab64a14-b398-445e-ae11-3df2a74c6911"
+                        ]
+                    },
+                    "9961a348-8add-4088-88a0-66fb8c014e66": {
+                        "uuid": "9961a348-8add-4088-88a0-66fb8c014e66",
+                        "title": "Курка карі з рисом",
+                        "itemDescription": "Запечене куряче філе, рис коричневий, горошок, соус карі (260г).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8dbda62-ae0d-47f8-b46d-96b4f341ad1a"
+                    },
+                    "da06191d-bab1-4181-9833-7f55e18b754e": {
+                        "uuid": "da06191d-bab1-4181-9833-7f55e18b754e",
+                        "title": "Хумус з куркою і грибами",
+                        "itemDescription": "260 грам",
+                        "price": 13600,
+                        "nutritionalInfo": {}
+                    },
+                    "2946e040-8803-497c-99dd-5bcd66f71d8c": {
+                        "uuid": "2946e040-8803-497c-99dd-5bcd66f71d8c",
+                        "title": "Боул з креветками",
+                        "itemDescription": "Тигрові креветки, булгур, овочі у кокосово-томатному соусі : бейбі-кукурудза, спаржева квасоля, броколі, перець болгарський (270г).",
+                        "price": 18900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/267354c5-3e17-4f4f-ac10-6b9b3bac394b",
+                        "customizationUuids": [
+                            "fab64a14-b398-445e-ae11-3df2a74c6911"
+                        ]
+                    },
+                    "e0056907-415a-4642-8b31-82d432c75b56": {
+                        "uuid": "e0056907-415a-4642-8b31-82d432c75b56",
+                        "title": "Імбирна вода",
+                        "itemDescription": "250мл.",
+                        "price": 2200
+                    },
+                    "c48ea69a-7c13-4ac7-a6fa-c1ae89af084d": {
+                        "uuid": "c48ea69a-7c13-4ac7-a6fa-c1ae89af084d",
+                        "title": "Рослинне молоко власного виробництва МИГДАЛЬ + ФІНІК ",
+                        "itemDescription": "500мл",
+                        "price": 12900,
+                        "suspendUntil": 8640000000
+                    },
+                    "05342877-9ad1-404d-bf54-97b750c7cff0": {
+                        "uuid": "05342877-9ad1-404d-bf54-97b750c7cff0",
+                        "title": "Рослинне молоко власного виробництва КОКОС",
+                        "itemDescription": "500 мл",
+                        "price": 9900,
+                        "suspendUntil": 8640000000
+                    },
+                    "298b2a34-b7ba-45a9-9034-9c0bc57fd808": {
+                        "uuid": "298b2a34-b7ba-45a9-9034-9c0bc57fd808",
+                        "title": "Сендвіч з лососем",
+                        "itemDescription": "Слабосолений лосось, житній хліб, сир філадельфія, огірок, кріп (240г).",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed8ae997-4c71-49ed-99bb-6ac1d76d842f"
+                    },
+                    "d19b99f1-42c7-4628-b3ec-b9d8e4958a30": {
+                        "uuid": "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                        "title": "Chicken wrap",
+                        "itemDescription": "Запечене куряче філе, морква, перець печений, капуста пекінська, соус з льону та тахіни, гірчиця, лаваш (310г).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1203e645-0a2c-4c3b-a4a3-92356b0be45d",
+                        "suspendUntil": 1559509199
+                    },
+                    "10dda386-cfc6-483f-8748-dcc9d62e0cff": {
+                        "uuid": "10dda386-cfc6-483f-8748-dcc9d62e0cff",
+                        "title": "Смузі помаранч-куркума",
+                        "itemDescription": "250мл.",
+                        "price": 5400
+                    },
+                    "5f1b53d6-da5f-4dd1-8fba-fe73bffb6548": {
+                        "uuid": "5f1b53d6-da5f-4dd1-8fba-fe73bffb6548",
+                        "title": "Овочевий мікс",
+                        "itemDescription": "Огірок, болгарський перець, селера, морква, хумус власного виробництва (нут, сіль, спеція Зіра, лимонний фреш, кунжутна паста Тахіні, перець чорний мелений, часник сушений, рослинна олія) (180г).",
+                        "price": 4900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c51a1309-d918-4851-a27c-8ec734294798",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Веганська",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "b8b1d171-0baf-478f-aa86-ba09a391463b": {
+                        "uuid": "b8b1d171-0baf-478f-aa86-ba09a391463b",
+                        "title": "Сендвіч з куркою",
+                        "itemDescription": "Запечена курка, хліб вівсяний, томат, лист салату, cоус пісний з сиром, базилік (260г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5481f55-d4bc-4924-b455-c491545f826c"
+                    },
+                    "1206cc6a-951c-4ea6-ba44-82cbb822171e": {
+                        "uuid": "1206cc6a-951c-4ea6-ba44-82cbb822171e",
+                        "title": "Сендвіч з тунцем",
+                        "itemDescription": "Тунець, варене яйце, лист салату, діжонська гірчиця, вівсяний хліб (160г).",
+                        "price": 10900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d70e9311-4942-4964-89f4-6c4716119ee0"
+                    },
+                    "c1a86e19-0d12-4c99-ad84-b385452d72fd": {
+                        "uuid": "c1a86e19-0d12-4c99-ad84-b385452d72fd",
+                        "title": "Салат з броколі ",
+                        "itemDescription": "290 грам",
+                        "price": 11900,
+                        "nutritionalInfo": {}
+                    },
+                    "afb0954d-ee42-47a6-a6db-a89c95d255f5": {
+                        "uuid": "afb0954d-ee42-47a6-a6db-a89c95d255f5",
+                        "title": "Лимонад",
+                        "itemDescription": "Смак на вибір (250мл).",
+                        "price": 5400,
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "0695d613-6377-4646-9ed5-09837868f046"
+                        ]
+                    },
+                    "9c081b61-ad17-4d7b-9a83-468fb1c07cb2": {
+                        "uuid": "9c081b61-ad17-4d7b-9a83-468fb1c07cb2",
+                        "title": "Набір цукерок солона карамель (3шт)",
+                        "itemDescription": "Какао терте, какао-масло, арахісова паста, фініки, морська сіль",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8a5798e-904b-46ee-84d4-7d16e49818e3"
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "837954a6-af75-4f4f-a2e8-955d0bfe9a96",
+                        "title": "Салати",
+                        "itemUuids": [
+                            "99c75db2-7be0-4a45-bfd9-264df0c8f0c5",
+                            "493150cc-7690-40a3-9977-94a42da6ada6",
+                            "46aa567e-06cb-4b50-b646-1d766aa4b339",
+                            "8ce0dd95-0f11-4b2f-82aa-6d5594f5da38",
+                            "c1a86e19-0d12-4c99-ad84-b385452d72fd",
+                            "2ff0529d-8f9c-4389-b89b-6b6c5af25eda"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "99c75db2-7be0-4a45-bfd9-264df0c8f0c5",
+                                "title": "Салат з тунцем",
+                                "itemDescription": "Тунець, мікс салату (лоло бйондо, фрізе, руккола), томати, огірок, яйце, медово-гірчичний соус (гірчиця, олія рослинна, мед, лимонний фреш) (250г)",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ff17f6e-67c2-4fd5-8eae-d5ca263643a4"
+                            },
+                            {
+                                "uuid": "493150cc-7690-40a3-9977-94a42da6ada6",
+                                "title": "Салат з печеними овочами",
+                                "itemDescription": "Запечена цвітна капуста, запечені томати, огірок, морква, шпинат свіжий, кеш’ю, гірчичний соус (гірчиця, мед, лимонний фреш, олія рослинна) (200г).",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/05c55701-de34-4b0a-8770-fb2913afd677",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Веганська",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "46aa567e-06cb-4b50-b646-1d766aa4b339",
+                                "title": "Салат з куркою ",
+                                "itemDescription": "Філе куряче запечене, салат айзберг, свіжий шпинат, огірок свіжий, томат черрі, перець чорний мелений, олія рослинна, сир пармезан, пряний пісний майонез(льон мелений, гірчиця, мед, олія рослинна, сіль морська, лимонний фреш, лимон), соус Ворчістер (230+40г).",
+                                "price": 14100,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4121623c-750e-49b0-b13c-fec2c1eb8420"
+                            },
+                            {
+                                "uuid": "8ce0dd95-0f11-4b2f-82aa-6d5594f5da38",
+                                "title": "Салат овочевий з редисом",
+                                "itemDescription": "210 грам",
+                                "price": 8900,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "c1a86e19-0d12-4c99-ad84-b385452d72fd",
+                                "title": "Салат з броколі ",
+                                "itemDescription": "290 грам",
+                                "price": 11900,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "2ff0529d-8f9c-4389-b89b-6b6c5af25eda",
+                                "title": "Салат з лососем",
+                                "itemDescription": "Вага - 220 грам. ",
+                                "price": 21900,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "6a62b497-c3bb-4d20-af07-e39524832254",
+                        "title": "Холодні закуски",
+                        "itemUuids": [
+                            "5f1b53d6-da5f-4dd1-8fba-fe73bffb6548",
+                            "187e474d-2d52-4e4f-a323-7b9cff2024f2"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "5f1b53d6-da5f-4dd1-8fba-fe73bffb6548",
+                                "title": "Овочевий мікс",
+                                "itemDescription": "Огірок, болгарський перець, селера, морква, хумус власного виробництва (нут, сіль, спеція Зіра, лимонний фреш, кунжутна паста Тахіні, перець чорний мелений, часник сушений, рослинна олія) (180г).",
+                                "price": 4900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c51a1309-d918-4851-a27c-8ec734294798",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Веганська",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "187e474d-2d52-4e4f-a323-7b9cff2024f2",
+                                "title": "Кіноа-шпинат-хумус",
+                                "itemDescription": "Кіноа, шпинат, хумус власного виробництва (нут, сіль, спеція Зіра, лимонний фреш, кунжутна паста Тахіні, перець чорний мелений, часник сушений, рослинна олія), яйце, соус песто (200г).",
+                                "price": 6900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8723988c-6a6d-4a25-b66f-cad03150538d"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "aa1abf19-2fa0-4550-8592-02acbe316721",
+                        "title": "Сендвічі",
+                        "itemUuids": [
+                            "b8b1d171-0baf-478f-aa86-ba09a391463b",
+                            "1206cc6a-951c-4ea6-ba44-82cbb822171e",
+                            "298b2a34-b7ba-45a9-9034-9c0bc57fd808",
+                            "2d2675be-bac8-475d-8010-63093fed88be",
+                            "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                            "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                            "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                            "14ef6f59-38a6-4106-bad2-261b113ce903"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "b8b1d171-0baf-478f-aa86-ba09a391463b",
+                                "title": "Сендвіч з куркою",
+                                "itemDescription": "Запечена курка, хліб вівсяний, томат, лист салату, cоус пісний з сиром, базилік (260г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5481f55-d4bc-4924-b455-c491545f826c"
+                            },
+                            {
+                                "uuid": "1206cc6a-951c-4ea6-ba44-82cbb822171e",
+                                "title": "Сендвіч з тунцем",
+                                "itemDescription": "Тунець, варене яйце, лист салату, діжонська гірчиця, вівсяний хліб (160г).",
+                                "price": 10900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d70e9311-4942-4964-89f4-6c4716119ee0"
+                            },
+                            {
+                                "uuid": "298b2a34-b7ba-45a9-9034-9c0bc57fd808",
+                                "title": "Сендвіч з лососем",
+                                "itemDescription": "Слабосолений лосось, житній хліб, сир філадельфія, огірок, кріп (240г).",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed8ae997-4c71-49ed-99bb-6ac1d76d842f"
+                            },
+                            {
+                                "uuid": "2d2675be-bac8-475d-8010-63093fed88be",
+                                "title": "Сендвіч з хумусом",
+                                "itemDescription": "Хумус, хліб житній, шпинат, перець болгарський (170г).",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8612f571-8c93-456b-a646-6243f202f95b",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Веганська",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                                "title": "Vegan wrap",
+                                "itemDescription": "Батат, тофу, хумус, чука, шпинат, гарбуз, кіноа, соус із тахіни та льону, лаваш (390г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a390c0b1-fc40-4221-bdab-5c9faa8d0d08",
+                                "suspendUntil": 1559509199,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                                "title": "Chicken wrap",
+                                "itemDescription": "Запечене куряче філе, морква, перець печений, капуста пекінська, соус з льону та тахіни, гірчиця, лаваш (310г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1203e645-0a2c-4c3b-a4a3-92356b0be45d",
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                                "title": "Fish wrap",
+                                "itemDescription": "Тунець консервований, лаваш, томат, шпинат, чука,  авокадо, соус із льону та тахіни, гірчиця (340г).",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e88db13-fc2b-4692-99ae-a5fb9737fa61"
+                            },
+                            {
+                                "uuid": "14ef6f59-38a6-4106-bad2-261b113ce903",
+                                "title": "Гарячий сендвіч з брі",
+                                "itemDescription": "Хліб вівсяний, сир фета, чебрець, перець болгарський печений, сир брі (245 г)",
+                                "price": 14900
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "1fc1da2d-aff1-4dec-bf0c-899ffb4704e4",
+                        "title": "Обіди",
+                        "itemUuids": [
+                            "3e3bd1ab-096e-4a5c-b1b7-66f47fb0f6dd",
+                            "2946e040-8803-497c-99dd-5bcd66f71d8c",
+                            "9ac3e569-be58-4115-ac05-734dd3aeec67",
+                            "9beb2f09-4073-46f0-b137-beb1dad74b2b",
+                            "9961a348-8add-4088-88a0-66fb8c014e66",
+                            "b0c4fee0-e16e-4325-8d8c-7d03b3dff58f",
+                            "da06191d-bab1-4181-9833-7f55e18b754e"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "3e3bd1ab-096e-4a5c-b1b7-66f47fb0f6dd",
+                                "title": "Лосось з кіноа",
+                                "itemDescription": "Запечений лосось, кіноа, зелений горошок (220г).",
+                                "price": 17900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cd3ff284-23d1-4f2b-b52a-571c82019a49",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "6c3aa60d-533e-4b90-a5b1-002a1e04eb8f"
+                                ]
+                            },
+                            {
+                                "uuid": "2946e040-8803-497c-99dd-5bcd66f71d8c",
+                                "title": "Боул з креветками",
+                                "itemDescription": "Тигрові креветки, булгур, овочі у кокосово-томатному соусі : бейбі-кукурудза, спаржева квасоля, броколі, перець болгарський (270г).",
+                                "price": 18900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/267354c5-3e17-4f4f-ac10-6b9b3bac394b",
+                                "customizationUuids": [
+                                    "fab64a14-b398-445e-ae11-3df2a74c6911"
+                                ]
+                            },
+                            {
+                                "uuid": "9ac3e569-be58-4115-ac05-734dd3aeec67",
+                                "title": "Телятина з локшиною соба",
+                                "itemDescription": "Телятина, локшина соба, томат, спаржа, кунжут (330г).\n",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0c4b969-85fd-43f8-9300-ee4d48906b90",
+                                "customizationUuids": [
+                                    "6c3aa60d-533e-4b90-a5b1-002a1e04eb8f"
+                                ]
+                            },
+                            {
+                                "uuid": "9beb2f09-4073-46f0-b137-beb1dad74b2b",
+                                "title": "Курячі котлети з кіноа",
+                                "itemDescription": "Курячі котлети: філе, вершки, цибуля, кіноа чорна та біла, перець печений, соус песто (230г).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae163e24-1d7e-4ed0-a214-154215668b9f",
+                                "customizationUuids": [
+                                    "fab64a14-b398-445e-ae11-3df2a74c6911"
+                                ]
+                            },
+                            {
+                                "uuid": "9961a348-8add-4088-88a0-66fb8c014e66",
+                                "title": "Курка карі з рисом",
+                                "itemDescription": "Запечене куряче філе, рис коричневий, горошок, соус карі (260г).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8dbda62-ae0d-47f8-b46d-96b4f341ad1a"
+                            },
+                            {
+                                "uuid": "b0c4fee0-e16e-4325-8d8c-7d03b3dff58f",
+                                "title": "Хумус з овочами і шпинатом",
+                                "itemDescription": "300 грам",
+                                "price": 11900,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "da06191d-bab1-4181-9833-7f55e18b754e",
+                                "title": "Хумус з куркою і грибами",
+                                "itemDescription": "260 грам",
+                                "price": 13600,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "78460a7e-629c-4a05-aeec-6598430b9e28",
+                        "title": "Супи",
+                        "itemUuids": [
+                            "49e792c9-2762-40b0-a112-282625d52499",
+                            "6026d481-1edb-4c39-82af-2165d847344b",
+                            "75498969-ae86-4c37-93e8-fe46ed759c76",
+                            "b68c781f-5991-4dae-b242-f1e73fd4304f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "49e792c9-2762-40b0-a112-282625d52499",
+                                "title": "Томатний крем-суп",
+                                "itemDescription": "Томати пілаті, болгарський перець, селера, сир фета, часник (200мл).",
+                                "price": 5400,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e21f1b3-1b5a-4672-af99-9cf9e264d3bd"
+                            },
+                            {
+                                "uuid": "6026d481-1edb-4c39-82af-2165d847344b",
+                                "title": "Гарбузовий крем-суп з креветками та пармезаном",
+                                "itemDescription": "Гарбуз, селера, куркума, часник, цибуля, розмарин, коріандр, вершки рослинні, креветки, пармезан (250мл).",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cc133bdc-02a7-41c6-b729-407f8f2f7039",
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "75498969-ae86-4c37-93e8-fe46ed759c76",
+                                "title": "Грибний крем-суп на рисовому молоці",
+                                "itemDescription": "Гриби печериці, гриби гливи, цибуля, рисове молоко (200мл).",
+                                "price": 4900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/592cb4c9-f525-4f5a-9964-d72cca03e8c3"
+                            },
+                            {
+                                "uuid": "b68c781f-5991-4dae-b242-f1e73fd4304f",
+                                "title": "Сочевичний крем-сум",
+                                "itemDescription": "Cочевиця, морква, цибуля ріпчаста, сіль, перець чорний мелений (200мл).",
+                                "price": 3900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ff19905-9449-4183-801d-b3ea70887819",
+                                "suspendUntil": 1559509199
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "6afd12f6-94c1-4fe5-a567-1270bf264cef",
+                        "title": "Десерти",
+                        "itemUuids": [
+                            "784d6247-e1f4-4cc8-87f4-d1724cfa7df1",
+                            "b7c62085-9ced-49ba-ba3d-c205a31518bb",
+                            "c872eb9c-0e38-411d-ac29-f4a4444d2a28",
+                            "b5c7210c-de69-4ced-b84f-93b4d0f48d7f",
+                            "1c8dc4ea-111a-427e-aebd-bd37f090c066",
+                            "9c081b61-ad17-4d7b-9a83-468fb1c07cb2",
+                            "9667fd80-cafb-4f1f-8f73-a8c270a0b948",
+                            "8321926d-74a7-4854-b678-86a8e93b5f5c",
+                            "8634765b-e68d-4dfa-873a-c18b32a98403",
+                            "babe6517-587a-4e62-a66e-81e7c8211806",
+                            "7d7fdc04-b868-470f-be22-5059d9daa239",
+                            "74de8b48-7ee8-4aea-835c-0aa96e5c62a4",
+                            "338b3c75-cf75-48d1-b768-e6a3d71a0d82",
+                            "48a5dfb1-3ee3-4197-94ef-69280dbbc50b",
+                            "bb8f01df-b34f-406a-aa1e-d78a96dc735b"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "784d6247-e1f4-4cc8-87f4-d1724cfa7df1",
+                                "title": "Лляна каша",
+                                "itemDescription": "Насіння льону, кокосове молоко, мед, cезонні ягоди (80г).",
+                                "price": 6700,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5d006c6-6c31-4e14-96a1-3fab68049e2e"
+                            },
+                            {
+                                "uuid": "b7c62085-9ced-49ba-ba3d-c205a31518bb",
+                                "title": "Банановий пудинг",
+                                "itemDescription": "Банан, молоко, яйце, рисове борошно, стевія, какао (150г).",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cc1aeeb8-ef0f-4d91-a29e-ca3f930c412f"
+                            },
+                            {
+                                "uuid": "c872eb9c-0e38-411d-ac29-f4a4444d2a28",
+                                "title": "Вівсяне печиво",
+                                "itemDescription": "Вівсяні пластівці, яблуко, родзинки, мигдаль, яйце, рисове борошно, сироп кукурудзяних паростків, кукурудзяна олія (40г).",
+                                "price": 1500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/131bfdec-f1c7-4fdc-b7db-da0e2054ab57"
+                            },
+                            {
+                                "uuid": "b5c7210c-de69-4ced-b84f-93b4d0f48d7f",
+                                "title": "Кокосові кейки",
+                                "itemDescription": "Фінік, полуниця, смородина, кокосова стружка, ванільна есенція, кокосове молоко, буряк. Соус: полуниця, смородина, мед, молоко кокосове (280г).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/08f01040-fa92-4f48-8581-61302a144b0c"
+                            },
+                            {
+                                "uuid": "1c8dc4ea-111a-427e-aebd-bd37f090c066",
+                                "title": "Набір цукерок кокос (3шт)",
+                                "itemDescription": "КОКОС: кокосоваа стружка, кокосове молоко, ваніль, мед, какао, какао-масло; СМОРОДИНА: какао, какао- масло, кокосове молоко, мед, кокосове масло, смородина; СОЛОНА КАРАМЕЛЬ: какао, какао-масло, арахісова паста, фініки, морська сіль (75г).",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/29936e60-d633-492f-9ead-c6e014211c54"
+                            },
+                            {
+                                "uuid": "9c081b61-ad17-4d7b-9a83-468fb1c07cb2",
+                                "title": "Набір цукерок солона карамель (3шт)",
+                                "itemDescription": "Какао терте, какао-масло, арахісова паста, фініки, морська сіль",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8a5798e-904b-46ee-84d4-7d16e49818e3"
+                            },
+                            {
+                                "uuid": "9667fd80-cafb-4f1f-8f73-a8c270a0b948",
+                                "title": "Набір цукерок асорті (3 шт)",
+                                "itemDescription": "КОКОС: кокосова стружка, кокосове молоко, ваніль, мед, какао терте, какао-масло; СМОРОДИНА: какао терте, какао-масло, кокосове молоко, мед, смородина; СОЛОНА КАРАМЕЛЬ: какао терте, какао-масло, арахісова паста, фініки, морська сіль Fleur de Sol (75 г)",
+                                "price": 7900
+                            },
+                            {
+                                "uuid": "8321926d-74a7-4854-b678-86a8e93b5f5c",
+                                "title": "Набір цукерок асорті (6 шт)",
+                                "itemDescription": "КОКОС: кокосова стружка, кокосове молоко, ваніль, мед, какао терте, какао-масло; СМОРОДИНА: какао терте, какао-масло, кокосове молоко, мед, смородина; СОЛОНА КАРАМЕЛЬ: какао терте, какао-масло, арахісова паста, фініки, морська сіль Fleur de Sol; ШОКОЛАДНИЙ ТРЮФЕЛЬ З ІМБИРЕМ: шоколад (какао терте, какао-масло), імбир, родзинки, кокосове молоко, мед; МОЛОЧНО-ГОРІХОВИЙ ТРЮФЕЛЬ: шоколад (какао терте, какао-масло), кокосове молоко, мигдаль, мед; МОККО: шоколад (какао терте, какао-масло), кокосове молоко, кава, мед) (150 г)",
+                                "price": 16800
+                            },
+                            {
+                                "uuid": "8634765b-e68d-4dfa-873a-c18b32a98403",
+                                "title": "Запечене яблуко",
+                                "itemDescription": "Яблуко, мед, мигдальні пластівці (180 г)",
+                                "price": 4900
+                            },
+                            {
+                                "uuid": "babe6517-587a-4e62-a66e-81e7c8211806",
+                                "title": "Енерджи буст манго",
+                                "itemDescription": "Вівсяні пластівці, чіа, манго, кокосове молоко(310г).",
+                                "price": 9900
+                            },
+                            {
+                                "uuid": "7d7fdc04-b868-470f-be22-5059d9daa239",
+                                "title": "Чорничний RAW cheesecake",
+                                "itemDescription": "Кокосове молоко, лимонний фреш, кеш'ю, какао мало, мед, чорниця, мигдаль, фінік, какао порошок, какао терте(135г).",
+                                "price": 9900
+                            },
+                            {
+                                "uuid": "74de8b48-7ee8-4aea-835c-0aa96e5c62a4",
+                                "title": "Набір цукерок асорті тропічний мікс (3шт)",
+                                "itemDescription": "Какао масло, какао терте, чіа, маракуйя, фінік(75г).",
+                                "price": 7900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "338b3c75-cf75-48d1-b768-e6a3d71a0d82",
+                                "title": "Сирники",
+                                "itemDescription": "Сир, рисове борошно, яйце, полуничний та ванільний соус(245г).",
+                                "price": 13500
+                            },
+                            {
+                                "uuid": "48a5dfb1-3ee3-4197-94ef-69280dbbc50b",
+                                "title": "Кокосове печиво ",
+                                "itemDescription": "Kокосова стружка, кокосове молоко, сироп кукурудзяних паростків,\nванільна есенція, кокосова есенція, рисова мука(38г).",
+                                "price": 2400,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "bb8f01df-b34f-406a-aa1e-d78a96dc735b",
+                                "title": "Брауні з авокадо",
+                                "itemDescription": "Авокадо, мед, лимонний фреш, ванільна есенція, какао порошок, шоколад з цукрозамінником, масло вершкове, рисова мука, яйце (120г).",
+                                "price": 9900,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d9b4c006-6908-4003-b688-cbd4fcabd184",
+                        "title": "Напої",
+                        "itemUuids": [
+                            "60376b15-978e-4099-8eab-d06cb582695b",
+                            "e6a50764-0d4d-44ff-acc8-77e906c05850",
+                            "34599ac2-9809-45e4-972a-0a7adc00371f",
+                            "afb0954d-ee42-47a6-a6db-a89c95d255f5",
+                            "10dda386-cfc6-483f-8748-dcc9d62e0cff",
+                            "e0056907-415a-4642-8b31-82d432c75b56",
+                            "f41d7ee2-b2ad-40d7-8d26-1c6267ced502",
+                            "f7bd05da-3884-429c-aa38-7b795771bf9d",
+                            "05342877-9ad1-404d-bf54-97b750c7cff0",
+                            "8eaffbca-2a6d-4b20-b16b-5e098d5162ca",
+                            "c48ea69a-7c13-4ac7-a6fa-c1ae89af084d",
+                            "69590942-f754-4f24-a2f8-ef41ca041b35"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "60376b15-978e-4099-8eab-d06cb582695b",
+                                "title": "Фреш помаранч",
+                                "itemDescription": "250мл.",
+                                "price": 4900,
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "e6a50764-0d4d-44ff-acc8-77e906c05850",
+                                "title": "Фреш грейпфрутовий",
+                                "itemDescription": "250мл.",
+                                "price": 5900,
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "34599ac2-9809-45e4-972a-0a7adc00371f",
+                                "title": "Фреш моркв'яний",
+                                "itemDescription": "250мл.",
+                                "price": 3900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "afb0954d-ee42-47a6-a6db-a89c95d255f5",
+                                "title": "Лимонад",
+                                "itemDescription": "Смак на вибір (250мл).",
+                                "price": 5400,
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "0695d613-6377-4646-9ed5-09837868f046"
+                                ]
+                            },
+                            {
+                                "uuid": "10dda386-cfc6-483f-8748-dcc9d62e0cff",
+                                "title": "Смузі помаранч-куркума",
+                                "itemDescription": "250мл.",
+                                "price": 5400
+                            },
+                            {
+                                "uuid": "e0056907-415a-4642-8b31-82d432c75b56",
+                                "title": "Імбирна вода",
+                                "itemDescription": "250мл.",
+                                "price": 2200
+                            },
+                            {
+                                "uuid": "f41d7ee2-b2ad-40d7-8d26-1c6267ced502",
+                                "title": "Лаймова вода",
+                                "itemDescription": "250мл.",
+                                "price": 2200
+                            },
+                            {
+                                "uuid": "f7bd05da-3884-429c-aa38-7b795771bf9d",
+                                "title": "Смузі банан-спіруліна",
+                                "itemDescription": "250мл.",
+                                "price": 4900
+                            },
+                            {
+                                "uuid": "05342877-9ad1-404d-bf54-97b750c7cff0",
+                                "title": "Рослинне молоко власного виробництва КОКОС",
+                                "itemDescription": "500 мл",
+                                "price": 9900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "8eaffbca-2a6d-4b20-b16b-5e098d5162ca",
+                                "title": "Рослинне молоко власного виробництва КЕШ’Ю + ВАНІЛЬ",
+                                "itemDescription": "500 мл",
+                                "price": 13900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "c48ea69a-7c13-4ac7-a6fa-c1ae89af084d",
+                                "title": "Рослинне молоко власного виробництва МИГДАЛЬ + ФІНІК ",
+                                "itemDescription": "500мл",
+                                "price": 12900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "69590942-f754-4f24-a2f8-ef41ca041b35",
+                                "title": "Вода VODA.UA ",
+                                "itemDescription": "400 мл",
+                                "price": 2100
+                            }
+                        ]
+                    }
+                ]
+            },
+            "2153604b-25b1-4e3c-a5cb-36e6207e6bf3": {
+                "itemsMap": {
+                    "491727bb-0b18-4b1e-baea-9e082da0d396": {
+                        "uuid": "491727bb-0b18-4b1e-baea-9e082da0d396",
+                        "title": "Coconut cookie",
+                        "itemDescription": "Grated coconut, coconut milk,corn sprouts syrup, vanilla essence,\ncoconut essence, rice flour(38g).",
+                        "price": 2400,
+                        "nutritionalInfo": {}
+                    },
+                    "e8e91251-3bb2-487a-960c-1e2805d59dab": {
+                        "uuid": "e8e91251-3bb2-487a-960c-1e2805d59dab",
+                        "title": "Flaxseeds porridge",
+                        "itemDescription": "Flax seeds, coconut milk, honey, and dried apricots and almonds (185g).",
+                        "price": 6700,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b65ae4f-3167-49d0-ae5f-0cff5b0d8fe6"
+                    },
+                    "1fe548e6-cef3-4838-809e-dfae9a5f71ef": {
+                        "uuid": "1fe548e6-cef3-4838-809e-dfae9a5f71ef",
+                        "title": "Energy boost mango",
+                        "itemDescription": "Oat flakes, chia, coconut milk, mango",
+                        "price": 9900
+                    },
+                    "b33ce73f-8324-4ae0-8909-5f79d6fc8414": {
+                        "uuid": "b33ce73f-8324-4ae0-8909-5f79d6fc8414",
+                        "title": "Water VODA.UA",
+                        "itemDescription": "400g",
+                        "price": 2100
+                    },
+                    "e747a153-a54d-49c6-aec1-1c869684fcaf": {
+                        "uuid": "e747a153-a54d-49c6-aec1-1c869684fcaf",
+                        "title": "Chicken salad",
+                        "itemDescription": "Baked chicken fillet, iceberg lettuce, spinach, fresh cucumber, cherry tomato, black pepper, vegetable oil, parmesan cheese, spicy lean mayonnaise(flax seeds, mustard, honey, vegetable oil, sea salt, lemon fresh), Worcestershire sause(230+40g).",
+                        "price": 14100,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a41b4e99-2651-4e95-8def-5f36a122d195"
+                    },
+                    "898505e5-3297-4b01-808b-64c584153a4a": {
+                        "uuid": "898505e5-3297-4b01-808b-64c584153a4a",
+                        "title": "Baked apple",
+                        "itemDescription": "Apple, honey, almond flakes (180g)",
+                        "price": 4900
+                    },
+                    "21d162e8-3845-4a79-a7f1-a5b8026df0a1": {
+                        "uuid": "21d162e8-3845-4a79-a7f1-a5b8026df0a1",
+                        "title": "Quinoa-spinach-hummus",
+                        "itemDescription": "Quinoa, spinach, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil), eggs, pesto sauce (200g).",
+                        "price": 6900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b70756ff-64cd-4773-a763-461ca967eafb"
+                    },
+                    "6652eecf-b946-42e5-9f0e-78f5bb6697bd": {
+                        "uuid": "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                        "title": "Vegan wrap",
+                        "itemDescription": "Батат, тофу, хумус, чука, шпинат, гарбуз, кіноа, соус із тахіни та льону, лаваш (390г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a390c0b1-fc40-4221-bdab-5c9faa8d0d08",
+                        "suspendUntil": 1559509199,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "a2179a07-c310-4956-9551-d24fc27cbecd": {
+                        "uuid": "a2179a07-c310-4956-9551-d24fc27cbecd",
+                        "title": "Lentil cream soup",
+                        "itemDescription": "Lentil, carrots, onion, salt, black pepper (200ml).",
+                        "price": 3900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6ae8720f-4241-4749-b15e-a6bb20c91362"
+                    },
+                    "808023c8-a5aa-46b8-8043-f4ef8d88a8a3": {
+                        "uuid": "808023c8-a5aa-46b8-8043-f4ef8d88a8a3",
+                        "title": "Salmon sandwich",
+                        "itemDescription": "Light-salted salmon, rye bread, Philadelphia cream cheese, and cucumber`s dill (240g).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/dd12207f-7191-4afc-8483-36314165a173"
+                    },
+                    "33ae8cf7-24bd-492a-bff1-a43e370cdcb6": {
+                        "uuid": "33ae8cf7-24bd-492a-bff1-a43e370cdcb6",
+                        "title": "Banana and Spirulina Smoothie",
+                        "itemDescription": "250ml.",
+                        "price": 4900
+                    },
+                    "a9db5345-89fd-4c09-a984-2bdedc483c75": {
+                        "uuid": "a9db5345-89fd-4c09-a984-2bdedc483c75",
+                        "title": "Cheese pancakes",
+                        "itemDescription": "Cottage cheese, rice flour, eggs, strawberry and vanilla sauce(245g).",
+                        "price": 13500
+                    },
+                    "1b8b6b58-3f73-4a27-8804-57afa831386e": {
+                        "uuid": "1b8b6b58-3f73-4a27-8804-57afa831386e",
+                        "title": "Set of sweets salt caramel (3 pieces)",
+                        "itemDescription": "SALT CARAMEL: cocoa grated, cocoa butter, peanut butter, dates, and sea salt Fleur de Sol (75g).",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/44e7450d-0a1e-4168-ad9d-a6e61e7910d3"
+                    },
+                    "2ae44c3e-3328-40c9-996e-06ba90d7599d": {
+                        "uuid": "2ae44c3e-3328-40c9-996e-06ba90d7599d",
+                        "title": "Set of sweets assorted (3 pieces)",
+                        "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol (75g)",
+                        "price": 7900
+                    },
+                    "66553dd3-f33a-4e1d-b8fc-e56e5bd33d4e": {
+                        "uuid": "66553dd3-f33a-4e1d-b8fc-e56e5bd33d4e",
+                        "title": "Veal with soba noodles",
+                        "itemDescription": "Veal, soba noodles, tomatoes, asparagus, and sesame seeds (330g).\n",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b98d6630-c9be-40e7-a1d1-1fcbbfe43846",
+                        "customizationUuids": [
+                            "536c7664-c0a4-404c-ac7c-f64b69ed2967"
+                        ]
+                    },
+                    "03e1de38-6271-412c-82cf-23d7a031c06a": {
+                        "uuid": "03e1de38-6271-412c-82cf-23d7a031c06a",
+                        "title": "Oatmeal cookies",
+                        "itemDescription": "Oat flakes, apple, cinnamon, raisins, and almonds (40g).",
+                        "price": 1500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f42af7b-153a-4e5a-b2a5-b5b5d2aa2c49"
+                    },
+                    "39ee6b46-692b-43cf-a51f-0dbe4cc81e81": {
+                        "uuid": "39ee6b46-692b-43cf-a51f-0dbe4cc81e81",
+                        "title": "Tuna salad",
+                        "itemDescription": "Tuna, mix of lettuce (lolo biondo, frisi, arugula), tomatoes, cucumber, egg, honey and mustard sauce (mustard, vegetable oil, honey, lemon fresh) (250g).",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/75f6740b-1158-4beb-b53e-bb4021e3268f"
+                    },
+                    "3fbc1fcb-b188-48c8-aecc-735a2ae00b7e": {
+                        "uuid": "3fbc1fcb-b188-48c8-aecc-735a2ae00b7e",
+                        "title": "Set of sweets assorted  tropical mix (3 pieces)",
+                        "itemDescription": " Cocoa butter, cocoa grate, chia, passion fruit, date (75g).",
+                        "price": 7900,
+                        "suspendUntil": 8640000000
+                    },
+                    "7e7e2286-d575-46fc-b601-9a271e96adfb": {
+                        "uuid": "7e7e2286-d575-46fc-b601-9a271e96adfb",
+                        "title": "Lemonade",
+                        "itemDescription": "Flavor to choose (250ml).",
+                        "price": 5400,
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "11e9c0a7-c3ba-4e2d-875d-ddab04ffd4a2"
+                        ]
+                    },
+                    "8641f465-fa98-4613-8735-b6a7f113e8ab": {
+                        "uuid": "8641f465-fa98-4613-8735-b6a7f113e8ab",
+                        "title": "Bowl with prawns",
+                        "itemDescription": "Tiger prawns, bulgur, vegetables in coconut and tomato sauce, baby corn, green beans, broccoli, and sweet peppers (270g).",
+                        "price": 18900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6db499c5-5be0-48c8-8a8d-b2f5eb065e98",
+                        "customizationUuids": [
+                            "a88ed4b9-1342-487c-b774-15ca499cd807"
+                        ]
+                    },
+                    "56d67d85-617d-4b09-ae6f-66c16cc8ff11": {
+                        "uuid": "56d67d85-617d-4b09-ae6f-66c16cc8ff11",
+                        "title": " Chicken curry with rice",
+                        "itemDescription": "Chicken fillet, brown rice, peas, curry sauce(260g).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d25a48b6-bf64-4587-903b-53a6911ed871"
+                    },
+                    "141c2d17-5ddb-470e-8b8e-ea7adcf35052": {
+                        "uuid": "141c2d17-5ddb-470e-8b8e-ea7adcf35052",
+                        "title": "Tuna sandwich",
+                        "itemDescription": "Tuna, boiled egg, lettuce, Dijon mustard, and oatmeal bread (160g).",
+                        "price": 10900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a16b40dd-ea3f-4314-b7d7-5ec5189059f9"
+                    },
+                    "3141bc86-1c72-4044-8f28-2b54fd43108d": {
+                        "uuid": "3141bc86-1c72-4044-8f28-2b54fd43108d",
+                        "title": "Blueberry RAW cheesecake",
+                        "itemDescription": "Coconut milk, lemon fresh, cashew, coconut oil, cocoa butter, honey, blueberry, almond, dates, cocoa powder, cocoa grated(135g).",
+                        "price": 9900
+                    },
+                    "d19b99f1-42c7-4628-b3ec-b9d8e4958a30": {
+                        "uuid": "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                        "title": "Chicken wrap",
+                        "itemDescription": "Запечене куряче філе, морква, перець печений, капуста пекінська, соус з льону та тахіни, гірчиця, лаваш (310г).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1203e645-0a2c-4c3b-a4a3-92356b0be45d",
+                        "suspendUntil": 1559509199
+                    },
+                    "49c460f6-d64d-49df-9287-a338b051c602": {
+                        "uuid": "49c460f6-d64d-49df-9287-a338b051c602",
+                        "title": "Banana pudding",
+                        "itemDescription": "Banana, milk, eggs, rice flour, stevia, and cocoa (150g).",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/02024a20-8f73-4612-b64a-3d444c57fafa"
+                    },
+                    "74e5449f-f771-4b4b-9c6b-e355942e6e8a": {
+                        "uuid": "74e5449f-f771-4b4b-9c6b-e355942e6e8a",
+                        "title": "Chicken sandwich",
+                        "itemDescription": "Baked chicken, oatmeal bread, tomato, lettuce, Lean sauce with cheese, and basil (260g).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0e6f849-3d12-4d3a-a5bb-94903084ec8f"
+                    },
+                    "d0ad081a-a74d-41dd-87e7-577914ae025b": {
+                        "uuid": "d0ad081a-a74d-41dd-87e7-577914ae025b",
+                        "title": "Chicken cutlets with quinoa",
+                        "itemDescription": "Chicken cutlets: fillet, cream, onion, black and white quinoa, baked peppers, and pesto sauce (230g).",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5895165-8249-4ef6-af70-76018943de9e",
+                        "customizationUuids": [
+                            "be4c65d4-45fd-4c19-bb8e-01209a087382"
+                        ]
+                    },
+                    "c38d4e75-7fb6-42c3-a154-53191253429d": {
+                        "uuid": "c38d4e75-7fb6-42c3-a154-53191253429d",
+                        "title": "Pumpkin cream soup with prawns and Parmesan",
+                        "itemDescription": "Pumpkin, celery, turmeric, garlic, onion, rosemary, coriander, non-dairy cream, prawns, and Parmesan (250ml).",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/01b53be4-6b10-4ddc-b33f-540ad78cbf34"
+                    },
+                    "12a20c6b-a609-4bcd-a351-5e815314c27b": {
+                        "uuid": "12a20c6b-a609-4bcd-a351-5e815314c27b",
+                        "title": "Lime water",
+                        "itemDescription": "250ml.",
+                        "price": 2200
+                    },
+                    "3e39be43-3f50-47fc-86fb-db7d5821101e": {
+                        "uuid": "3e39be43-3f50-47fc-86fb-db7d5821101e",
+                        "title": "Bottled MIRA NO(U)T milk cashew + vanilla",
+                        "itemDescription": "500g",
+                        "price": 13900,
+                        "suspendUntil": 8640000000
+                    },
+                    "7086ebba-fdb0-4021-bbfa-cda18b04a2a5": {
+                        "uuid": "7086ebba-fdb0-4021-bbfa-cda18b04a2a5",
+                        "title": "Roasted vegetables salad",
+                        "itemDescription": "Baked cauliflower, baked tomatoes, cucumbers, carrots, cashew, and mustard sauce (200g).",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/da7a3a23-b607-46f9-ad13-edc63838c117",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac": {
+                        "uuid": "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                        "title": "Fish wrap",
+                        "itemDescription": "Тунець консервований, лаваш, томат, шпинат, чука,  авокадо, соус із льону та тахіни, гірчиця (340г).",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e88db13-fc2b-4692-99ae-a5fb9737fa61"
+                    },
+                    "3d2b4ae8-0089-44f2-8f94-a944398c77a0": {
+                        "uuid": "3d2b4ae8-0089-44f2-8f94-a944398c77a0",
+                        "title": "Grapefruit cold-pressed juice",
+                        "itemDescription": "250ml.",
+                        "price": 5900,
+                        "suspendUntil": 1559509199
+                    },
+                    "dc159338-b35e-4ac0-815b-93b4d03f88fd": {
+                        "uuid": "dc159338-b35e-4ac0-815b-93b4d03f88fd",
+                        "title": "Brownie with avocado",
+                        "itemDescription": "Avocado, honey, lemon juice, vanilla essence, grated cacao, chocolate with sugar substitute, butter, rice flour, egg(120g).",
+                        "price": 9900,
+                        "nutritionalInfo": {}
+                    },
+                    "79f389fb-432d-4996-b504-5e1120a56c2c": {
+                        "uuid": "79f389fb-432d-4996-b504-5e1120a56c2c",
+                        "title": "Hot sandwich with brie",
+                        "itemDescription": "Oatmeal bread, feta cheese, thyme, bell pepper, brie cheese (245 g)",
+                        "price": 14900
+                    },
+                    "8604f197-ab1c-435e-9649-07ab7b0fbcff": {
+                        "uuid": "8604f197-ab1c-435e-9649-07ab7b0fbcff",
+                        "title": "Salmon with quinoa",
+                        "itemDescription": "Baked salmon, quinoa and green peas (220g).",
+                        "price": 17900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/477f7d9d-8524-42c8-8a37-a57c2be01c88",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "a88ed4b9-1342-487c-b774-15ca499cd807"
+                        ]
+                    },
+                    "461627fb-4287-4ee0-9fe3-14e62931f732": {
+                        "uuid": "461627fb-4287-4ee0-9fe3-14e62931f732",
+                        "title": "Ginger water",
+                        "itemDescription": "250ml.",
+                        "price": 2200
+                    },
+                    "b417c131-2f6c-4741-91dc-a34b25d1cabe": {
+                        "uuid": "b417c131-2f6c-4741-91dc-a34b25d1cabe",
+                        "title": "Orange Fresh",
+                        "itemDescription": "250ml.",
+                        "price": 4900,
+                        "suspendUntil": 1559509199
+                    },
+                    "9dc10b60-43e1-4122-9c6b-417075bff4bb": {
+                        "uuid": "9dc10b60-43e1-4122-9c6b-417075bff4bb",
+                        "title": "Bottled MIRA NO(U)T milk coconut ",
+                        "itemDescription": "500g",
+                        "price": 9900,
+                        "suspendUntil": 8640000000
+                    },
+                    "a5ca974b-b302-4b8e-b032-52a93882545f": {
+                        "uuid": "a5ca974b-b302-4b8e-b032-52a93882545f",
+                        "title": "Tomato cream soup",
+                        "itemDescription": "Peeled tomatoes, sweet peppers, celery, feta cheese and garlic (200ml).",
+                        "price": 5400,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e21f1b3-1b5a-4672-af99-9cf9e264d3bd"
+                    },
+                    "b65097d1-e73e-4598-856e-ab2122d1bb61": {
+                        "uuid": "b65097d1-e73e-4598-856e-ab2122d1bb61",
+                        "title": "Coconut cakes",
+                        "itemDescription": "Coconut, coconut milk, honey, dates, beets, strawberries, currants, and vanilla (280g).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/919866a2-cf51-41ba-aba8-93cc8b19d328"
+                    },
+                    "f9fe9ef4-69ac-4693-add3-421856eedd53": {
+                        "uuid": "f9fe9ef4-69ac-4693-add3-421856eedd53",
+                        "title": "Carrots cold-pressed juice",
+                        "itemDescription": "250ml.",
+                        "price": 3900,
+                        "suspendUntil": 8640000000
+                    },
+                    "6fcd43f6-19df-4903-a479-0cc43178c25e": {
+                        "uuid": "6fcd43f6-19df-4903-a479-0cc43178c25e",
+                        "title": "Apple & spinach cold-pressed detox juice",
+                        "itemDescription": "250ml.",
+                        "price": 5400,
+                        "suspendUntil": 1559509199
+                    },
+                    "62068129-b9b7-411e-b3e4-883bc7081e81": {
+                        "uuid": "62068129-b9b7-411e-b3e4-883bc7081e81",
+                        "title": "Orange and Turmeric Smoothie ",
+                        "itemDescription": "250ml.",
+                        "price": 5400
+                    },
+                    "73b45fb4-963b-432d-bbdc-dc7cf6cdf3ae": {
+                        "uuid": "73b45fb4-963b-432d-bbdc-dc7cf6cdf3ae",
+                        "title": "Hummus sandwich",
+                        "itemDescription": "Hummus, rye bread, spinach, and sweet peppers (170g).",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ed71922-bf2a-4942-859f-29e1310ac168",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "f6049e9b-098f-499e-a47f-f498b642b0cf": {
+                        "uuid": "f6049e9b-098f-499e-a47f-f498b642b0cf",
+                        "title": "Set of sweets coconut (3 pieces)",
+                        "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, and cocoa grated (75g).",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bed165b4-27ac-4bf7-b4de-205948056c65"
+                    },
+                    "bfe14904-586f-4771-b033-e0e3ef073744": {
+                        "uuid": "bfe14904-586f-4771-b033-e0e3ef073744",
+                        "title": " Set of sweets assorted  tropical mix (3 pieces)",
+                        "itemDescription": " Cocoa butter, cocoa grate, chia, passion fruit, date (75g).",
+                        "price": 7900,
+                        "suspendUntil": 8640000000
+                    },
+                    "116e56b1-6c8c-4869-8ae0-b2875bc55a56": {
+                        "uuid": "116e56b1-6c8c-4869-8ae0-b2875bc55a56",
+                        "title": "Bottled MIRA NO(U)T milk almond+dates",
+                        "itemDescription": "500g",
+                        "price": 12900,
+                        "suspendUntil": 8640000000
+                    },
+                    "8573df70-358e-42c6-9081-eae034c5c303": {
+                        "uuid": "8573df70-358e-42c6-9081-eae034c5c303",
+                        "title": "Mushroom cream soup with rice milk",
+                        "itemDescription": "Champignon, oyster mushroom, onion, and rice milk (200ml).",
+                        "price": 4900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6022f199-5eae-43a1-bd73-96080d750f19"
+                    },
+                    "5bb58e4e-96ce-4536-83c0-ee232b9e14a1": {
+                        "uuid": "5bb58e4e-96ce-4536-83c0-ee232b9e14a1",
+                        "title": "Vegetable Mix",
+                        "itemDescription": "Cucumber, bell pepper, сelery, сarrot, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil) (180g).",
+                        "price": 4900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a49a35ed-785e-42da-80ae-8ceb20eae3f5",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "c0cb2ef3-c706-4e27-a451-12db1c800699": {
+                        "uuid": "c0cb2ef3-c706-4e27-a451-12db1c800699",
+                        "title": "Set of sweets (6 pieces)",
+                        "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol; CHOCOLATE TRUFFLES WITH GINGER: chocolate (cocoa grated, cocoa butter), ginger, raisins, coconut milk, honey; DAIRY FRUIT: chocolate (cocoa butter, cocoa grated), coconut milk, almonds, honey; MOCCO: chocolate (cocoa grated, cocoa butter), coconut milk powder, coffee, honey (150g)",
+                        "price": 16800
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "dd8746c2-9706-49cd-87d4-674d92583747",
+                        "title": "Salads",
+                        "itemUuids": [
+                            "39ee6b46-692b-43cf-a51f-0dbe4cc81e81",
+                            "7086ebba-fdb0-4021-bbfa-cda18b04a2a5",
+                            "e747a153-a54d-49c6-aec1-1c869684fcaf"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "39ee6b46-692b-43cf-a51f-0dbe4cc81e81",
+                                "title": "Tuna salad",
+                                "itemDescription": "Tuna, mix of lettuce (lolo biondo, frisi, arugula), tomatoes, cucumber, egg, honey and mustard sauce (mustard, vegetable oil, honey, lemon fresh) (250g).",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/75f6740b-1158-4beb-b53e-bb4021e3268f"
+                            },
+                            {
+                                "uuid": "7086ebba-fdb0-4021-bbfa-cda18b04a2a5",
+                                "title": "Roasted vegetables salad",
+                                "itemDescription": "Baked cauliflower, baked tomatoes, cucumbers, carrots, cashew, and mustard sauce (200g).",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/da7a3a23-b607-46f9-ad13-edc63838c117",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "e747a153-a54d-49c6-aec1-1c869684fcaf",
+                                "title": "Chicken salad",
+                                "itemDescription": "Baked chicken fillet, iceberg lettuce, spinach, fresh cucumber, cherry tomato, black pepper, vegetable oil, parmesan cheese, spicy lean mayonnaise(flax seeds, mustard, honey, vegetable oil, sea salt, lemon fresh), Worcestershire sause(230+40g).",
+                                "price": 14100,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a41b4e99-2651-4e95-8def-5f36a122d195"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a18725e7-4e5c-4852-a7c0-65db642d090a",
+                        "title": "Appetizers ",
+                        "itemUuids": [
+                            "5bb58e4e-96ce-4536-83c0-ee232b9e14a1",
+                            "21d162e8-3845-4a79-a7f1-a5b8026df0a1"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "5bb58e4e-96ce-4536-83c0-ee232b9e14a1",
+                                "title": "Vegetable Mix",
+                                "itemDescription": "Cucumber, bell pepper, сelery, сarrot, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil) (180g).",
+                                "price": 4900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a49a35ed-785e-42da-80ae-8ceb20eae3f5",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "21d162e8-3845-4a79-a7f1-a5b8026df0a1",
+                                "title": "Quinoa-spinach-hummus",
+                                "itemDescription": "Quinoa, spinach, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil), eggs, pesto sauce (200g).",
+                                "price": 6900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b70756ff-64cd-4773-a763-461ca967eafb"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "aac3315c-0cbe-44b1-80d9-f35a025a4db7",
+                        "title": "Sandwiches",
+                        "itemUuids": [
+                            "74e5449f-f771-4b4b-9c6b-e355942e6e8a",
+                            "141c2d17-5ddb-470e-8b8e-ea7adcf35052",
+                            "808023c8-a5aa-46b8-8043-f4ef8d88a8a3",
+                            "73b45fb4-963b-432d-bbdc-dc7cf6cdf3ae",
+                            "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                            "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                            "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                            "79f389fb-432d-4996-b504-5e1120a56c2c"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "74e5449f-f771-4b4b-9c6b-e355942e6e8a",
+                                "title": "Chicken sandwich",
+                                "itemDescription": "Baked chicken, oatmeal bread, tomato, lettuce, Lean sauce with cheese, and basil (260g).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0e6f849-3d12-4d3a-a5bb-94903084ec8f"
+                            },
+                            {
+                                "uuid": "141c2d17-5ddb-470e-8b8e-ea7adcf35052",
+                                "title": "Tuna sandwich",
+                                "itemDescription": "Tuna, boiled egg, lettuce, Dijon mustard, and oatmeal bread (160g).",
+                                "price": 10900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a16b40dd-ea3f-4314-b7d7-5ec5189059f9"
+                            },
+                            {
+                                "uuid": "808023c8-a5aa-46b8-8043-f4ef8d88a8a3",
+                                "title": "Salmon sandwich",
+                                "itemDescription": "Light-salted salmon, rye bread, Philadelphia cream cheese, and cucumber`s dill (240g).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/dd12207f-7191-4afc-8483-36314165a173"
+                            },
+                            {
+                                "uuid": "73b45fb4-963b-432d-bbdc-dc7cf6cdf3ae",
+                                "title": "Hummus sandwich",
+                                "itemDescription": "Hummus, rye bread, spinach, and sweet peppers (170g).",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ed71922-bf2a-4942-859f-29e1310ac168",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                                "title": "Vegan wrap",
+                                "itemDescription": "Батат, тофу, хумус, чука, шпинат, гарбуз, кіноа, соус із тахіни та льону, лаваш (390г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a390c0b1-fc40-4221-bdab-5c9faa8d0d08",
+                                "suspendUntil": 1559509199,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                                "title": "Chicken wrap",
+                                "itemDescription": "Запечене куряче філе, морква, перець печений, капуста пекінська, соус з льону та тахіни, гірчиця, лаваш (310г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1203e645-0a2c-4c3b-a4a3-92356b0be45d",
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                                "title": "Fish wrap",
+                                "itemDescription": "Тунець консервований, лаваш, томат, шпинат, чука,  авокадо, соус із льону та тахіни, гірчиця (340г).",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e88db13-fc2b-4692-99ae-a5fb9737fa61"
+                            },
+                            {
+                                "uuid": "79f389fb-432d-4996-b504-5e1120a56c2c",
+                                "title": "Hot sandwich with brie",
+                                "itemDescription": "Oatmeal bread, feta cheese, thyme, bell pepper, brie cheese (245 g)",
+                                "price": 14900
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "4de43997-f914-4c02-adc0-9fa9c3f263e4",
+                        "title": "Lunch",
+                        "itemUuids": [
+                            "8604f197-ab1c-435e-9649-07ab7b0fbcff",
+                            "8641f465-fa98-4613-8735-b6a7f113e8ab",
+                            "66553dd3-f33a-4e1d-b8fc-e56e5bd33d4e",
+                            "d0ad081a-a74d-41dd-87e7-577914ae025b",
+                            "56d67d85-617d-4b09-ae6f-66c16cc8ff11"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8604f197-ab1c-435e-9649-07ab7b0fbcff",
+                                "title": "Salmon with quinoa",
+                                "itemDescription": "Baked salmon, quinoa and green peas (220g).",
+                                "price": 17900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/477f7d9d-8524-42c8-8a37-a57c2be01c88",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "a88ed4b9-1342-487c-b774-15ca499cd807"
+                                ]
+                            },
+                            {
+                                "uuid": "8641f465-fa98-4613-8735-b6a7f113e8ab",
+                                "title": "Bowl with prawns",
+                                "itemDescription": "Tiger prawns, bulgur, vegetables in coconut and tomato sauce, baby corn, green beans, broccoli, and sweet peppers (270g).",
+                                "price": 18900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6db499c5-5be0-48c8-8a8d-b2f5eb065e98",
+                                "customizationUuids": [
+                                    "a88ed4b9-1342-487c-b774-15ca499cd807"
+                                ]
+                            },
+                            {
+                                "uuid": "66553dd3-f33a-4e1d-b8fc-e56e5bd33d4e",
+                                "title": "Veal with soba noodles",
+                                "itemDescription": "Veal, soba noodles, tomatoes, asparagus, and sesame seeds (330g).\n",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b98d6630-c9be-40e7-a1d1-1fcbbfe43846",
+                                "customizationUuids": [
+                                    "536c7664-c0a4-404c-ac7c-f64b69ed2967"
+                                ]
+                            },
+                            {
+                                "uuid": "d0ad081a-a74d-41dd-87e7-577914ae025b",
+                                "title": "Chicken cutlets with quinoa",
+                                "itemDescription": "Chicken cutlets: fillet, cream, onion, black and white quinoa, baked peppers, and pesto sauce (230g).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5895165-8249-4ef6-af70-76018943de9e",
+                                "customizationUuids": [
+                                    "be4c65d4-45fd-4c19-bb8e-01209a087382"
+                                ]
+                            },
+                            {
+                                "uuid": "56d67d85-617d-4b09-ae6f-66c16cc8ff11",
+                                "title": " Chicken curry with rice",
+                                "itemDescription": "Chicken fillet, brown rice, peas, curry sauce(260g).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d25a48b6-bf64-4587-903b-53a6911ed871"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "461d15d7-24b9-494f-ad6d-b1cc51426fc1",
+                        "title": "Soups",
+                        "itemUuids": [
+                            "a5ca974b-b302-4b8e-b032-52a93882545f",
+                            "c38d4e75-7fb6-42c3-a154-53191253429d",
+                            "8573df70-358e-42c6-9081-eae034c5c303",
+                            "a2179a07-c310-4956-9551-d24fc27cbecd"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "a5ca974b-b302-4b8e-b032-52a93882545f",
+                                "title": "Tomato cream soup",
+                                "itemDescription": "Peeled tomatoes, sweet peppers, celery, feta cheese and garlic (200ml).",
+                                "price": 5400,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e21f1b3-1b5a-4672-af99-9cf9e264d3bd"
+                            },
+                            {
+                                "uuid": "c38d4e75-7fb6-42c3-a154-53191253429d",
+                                "title": "Pumpkin cream soup with prawns and Parmesan",
+                                "itemDescription": "Pumpkin, celery, turmeric, garlic, onion, rosemary, coriander, non-dairy cream, prawns, and Parmesan (250ml).",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/01b53be4-6b10-4ddc-b33f-540ad78cbf34"
+                            },
+                            {
+                                "uuid": "8573df70-358e-42c6-9081-eae034c5c303",
+                                "title": "Mushroom cream soup with rice milk",
+                                "itemDescription": "Champignon, oyster mushroom, onion, and rice milk (200ml).",
+                                "price": 4900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6022f199-5eae-43a1-bd73-96080d750f19"
+                            },
+                            {
+                                "uuid": "a2179a07-c310-4956-9551-d24fc27cbecd",
+                                "title": "Lentil cream soup",
+                                "itemDescription": "Lentil, carrots, onion, salt, black pepper (200ml).",
+                                "price": 3900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6ae8720f-4241-4749-b15e-a6bb20c91362"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "85d0db29-8ee8-4b73-9c44-6ae500a8432e",
+                        "title": "Desserts",
+                        "itemUuids": [
+                            "e8e91251-3bb2-487a-960c-1e2805d59dab",
+                            "49c460f6-d64d-49df-9287-a338b051c602",
+                            "03e1de38-6271-412c-82cf-23d7a031c06a",
+                            "b65097d1-e73e-4598-856e-ab2122d1bb61",
+                            "f6049e9b-098f-499e-a47f-f498b642b0cf",
+                            "1b8b6b58-3f73-4a27-8804-57afa831386e",
+                            "2ae44c3e-3328-40c9-996e-06ba90d7599d",
+                            "c0cb2ef3-c706-4e27-a451-12db1c800699",
+                            "898505e5-3297-4b01-808b-64c584153a4a",
+                            "1fe548e6-cef3-4838-809e-dfae9a5f71ef",
+                            "bfe14904-586f-4771-b033-e0e3ef073744",
+                            "a9db5345-89fd-4c09-a984-2bdedc483c75",
+                            "3fbc1fcb-b188-48c8-aecc-735a2ae00b7e",
+                            "3141bc86-1c72-4044-8f28-2b54fd43108d",
+                            "491727bb-0b18-4b1e-baea-9e082da0d396",
+                            "dc159338-b35e-4ac0-815b-93b4d03f88fd"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "e8e91251-3bb2-487a-960c-1e2805d59dab",
+                                "title": "Flaxseeds porridge",
+                                "itemDescription": "Flax seeds, coconut milk, honey, and dried apricots and almonds (185g).",
+                                "price": 6700,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b65ae4f-3167-49d0-ae5f-0cff5b0d8fe6"
+                            },
+                            {
+                                "uuid": "49c460f6-d64d-49df-9287-a338b051c602",
+                                "title": "Banana pudding",
+                                "itemDescription": "Banana, milk, eggs, rice flour, stevia, and cocoa (150g).",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/02024a20-8f73-4612-b64a-3d444c57fafa"
+                            },
+                            {
+                                "uuid": "03e1de38-6271-412c-82cf-23d7a031c06a",
+                                "title": "Oatmeal cookies",
+                                "itemDescription": "Oat flakes, apple, cinnamon, raisins, and almonds (40g).",
+                                "price": 1500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f42af7b-153a-4e5a-b2a5-b5b5d2aa2c49"
+                            },
+                            {
+                                "uuid": "b65097d1-e73e-4598-856e-ab2122d1bb61",
+                                "title": "Coconut cakes",
+                                "itemDescription": "Coconut, coconut milk, honey, dates, beets, strawberries, currants, and vanilla (280g).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/919866a2-cf51-41ba-aba8-93cc8b19d328"
+                            },
+                            {
+                                "uuid": "f6049e9b-098f-499e-a47f-f498b642b0cf",
+                                "title": "Set of sweets coconut (3 pieces)",
+                                "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, and cocoa grated (75g).",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bed165b4-27ac-4bf7-b4de-205948056c65"
+                            },
+                            {
+                                "uuid": "1b8b6b58-3f73-4a27-8804-57afa831386e",
+                                "title": "Set of sweets salt caramel (3 pieces)",
+                                "itemDescription": "SALT CARAMEL: cocoa grated, cocoa butter, peanut butter, dates, and sea salt Fleur de Sol (75g).",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/44e7450d-0a1e-4168-ad9d-a6e61e7910d3"
+                            },
+                            {
+                                "uuid": "2ae44c3e-3328-40c9-996e-06ba90d7599d",
+                                "title": "Set of sweets assorted (3 pieces)",
+                                "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol (75g)",
+                                "price": 7900
+                            },
+                            {
+                                "uuid": "c0cb2ef3-c706-4e27-a451-12db1c800699",
+                                "title": "Set of sweets (6 pieces)",
+                                "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol; CHOCOLATE TRUFFLES WITH GINGER: chocolate (cocoa grated, cocoa butter), ginger, raisins, coconut milk, honey; DAIRY FRUIT: chocolate (cocoa butter, cocoa grated), coconut milk, almonds, honey; MOCCO: chocolate (cocoa grated, cocoa butter), coconut milk powder, coffee, honey (150g)",
+                                "price": 16800
+                            },
+                            {
+                                "uuid": "898505e5-3297-4b01-808b-64c584153a4a",
+                                "title": "Baked apple",
+                                "itemDescription": "Apple, honey, almond flakes (180g)",
+                                "price": 4900
+                            },
+                            {
+                                "uuid": "1fe548e6-cef3-4838-809e-dfae9a5f71ef",
+                                "title": "Energy boost mango",
+                                "itemDescription": "Oat flakes, chia, coconut milk, mango",
+                                "price": 9900
+                            },
+                            {
+                                "uuid": "bfe14904-586f-4771-b033-e0e3ef073744",
+                                "title": " Set of sweets assorted  tropical mix (3 pieces)",
+                                "itemDescription": " Cocoa butter, cocoa grate, chia, passion fruit, date (75g).",
+                                "price": 7900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "a9db5345-89fd-4c09-a984-2bdedc483c75",
+                                "title": "Cheese pancakes",
+                                "itemDescription": "Cottage cheese, rice flour, eggs, strawberry and vanilla sauce(245g).",
+                                "price": 13500
+                            },
+                            {
+                                "uuid": "3fbc1fcb-b188-48c8-aecc-735a2ae00b7e",
+                                "title": "Set of sweets assorted  tropical mix (3 pieces)",
+                                "itemDescription": " Cocoa butter, cocoa grate, chia, passion fruit, date (75g).",
+                                "price": 7900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "3141bc86-1c72-4044-8f28-2b54fd43108d",
+                                "title": "Blueberry RAW cheesecake",
+                                "itemDescription": "Coconut milk, lemon fresh, cashew, coconut oil, cocoa butter, honey, blueberry, almond, dates, cocoa powder, cocoa grated(135g).",
+                                "price": 9900
+                            },
+                            {
+                                "uuid": "491727bb-0b18-4b1e-baea-9e082da0d396",
+                                "title": "Coconut cookie",
+                                "itemDescription": "Grated coconut, coconut milk,corn sprouts syrup, vanilla essence,\ncoconut essence, rice flour(38g).",
+                                "price": 2400,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "dc159338-b35e-4ac0-815b-93b4d03f88fd",
+                                "title": "Brownie with avocado",
+                                "itemDescription": "Avocado, honey, lemon juice, vanilla essence, grated cacao, chocolate with sugar substitute, butter, rice flour, egg(120g).",
+                                "price": 9900,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "fb4e6400-4fae-4513-a482-273831fb4ea2",
+                        "title": "Drinks",
+                        "itemUuids": [
+                            "b417c131-2f6c-4741-91dc-a34b25d1cabe",
+                            "3d2b4ae8-0089-44f2-8f94-a944398c77a0",
+                            "f9fe9ef4-69ac-4693-add3-421856eedd53",
+                            "7e7e2286-d575-46fc-b601-9a271e96adfb",
+                            "6fcd43f6-19df-4903-a479-0cc43178c25e",
+                            "33ae8cf7-24bd-492a-bff1-a43e370cdcb6",
+                            "62068129-b9b7-411e-b3e4-883bc7081e81",
+                            "461627fb-4287-4ee0-9fe3-14e62931f732",
+                            "12a20c6b-a609-4bcd-a351-5e815314c27b",
+                            "9dc10b60-43e1-4122-9c6b-417075bff4bb",
+                            "3e39be43-3f50-47fc-86fb-db7d5821101e",
+                            "116e56b1-6c8c-4869-8ae0-b2875bc55a56",
+                            "b33ce73f-8324-4ae0-8909-5f79d6fc8414"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "b417c131-2f6c-4741-91dc-a34b25d1cabe",
+                                "title": "Orange Fresh",
+                                "itemDescription": "250ml.",
+                                "price": 4900,
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "3d2b4ae8-0089-44f2-8f94-a944398c77a0",
+                                "title": "Grapefruit cold-pressed juice",
+                                "itemDescription": "250ml.",
+                                "price": 5900,
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "f9fe9ef4-69ac-4693-add3-421856eedd53",
+                                "title": "Carrots cold-pressed juice",
+                                "itemDescription": "250ml.",
+                                "price": 3900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "7e7e2286-d575-46fc-b601-9a271e96adfb",
+                                "title": "Lemonade",
+                                "itemDescription": "Flavor to choose (250ml).",
+                                "price": 5400,
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "11e9c0a7-c3ba-4e2d-875d-ddab04ffd4a2"
+                                ]
+                            },
+                            {
+                                "uuid": "6fcd43f6-19df-4903-a479-0cc43178c25e",
+                                "title": "Apple & spinach cold-pressed detox juice",
+                                "itemDescription": "250ml.",
+                                "price": 5400,
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "33ae8cf7-24bd-492a-bff1-a43e370cdcb6",
+                                "title": "Banana and Spirulina Smoothie",
+                                "itemDescription": "250ml.",
+                                "price": 4900
+                            },
+                            {
+                                "uuid": "62068129-b9b7-411e-b3e4-883bc7081e81",
+                                "title": "Orange and Turmeric Smoothie ",
+                                "itemDescription": "250ml.",
+                                "price": 5400
+                            },
+                            {
+                                "uuid": "461627fb-4287-4ee0-9fe3-14e62931f732",
+                                "title": "Ginger water",
+                                "itemDescription": "250ml.",
+                                "price": 2200
+                            },
+                            {
+                                "uuid": "12a20c6b-a609-4bcd-a351-5e815314c27b",
+                                "title": "Lime water",
+                                "itemDescription": "250ml.",
+                                "price": 2200
+                            },
+                            {
+                                "uuid": "9dc10b60-43e1-4122-9c6b-417075bff4bb",
+                                "title": "Bottled MIRA NO(U)T milk coconut ",
+                                "itemDescription": "500g",
+                                "price": 9900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "3e39be43-3f50-47fc-86fb-db7d5821101e",
+                                "title": "Bottled MIRA NO(U)T milk cashew + vanilla",
+                                "itemDescription": "500g",
+                                "price": 13900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "116e56b1-6c8c-4869-8ae0-b2875bc55a56",
+                                "title": "Bottled MIRA NO(U)T milk almond+dates",
+                                "itemDescription": "500g",
+                                "price": 12900,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "b33ce73f-8324-4ae0-8909-5f79d6fc8414",
+                                "title": "Water VODA.UA",
+                                "itemDescription": "400g",
+                                "price": 2100
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "6a62b497-c3bb-4d20-af07-e39524832254": {
+                "uuid": "6a62b497-c3bb-4d20-af07-e39524832254",
+                "title": "Холодні закуски",
+                "itemUuids": [
+                    "5f1b53d6-da5f-4dd1-8fba-fe73bffb6548",
+                    "187e474d-2d52-4e4f-a323-7b9cff2024f2"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "5f1b53d6-da5f-4dd1-8fba-fe73bffb6548",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "187e474d-2d52-4e4f-a323-7b9cff2024f2",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "fb4e6400-4fae-4513-a482-273831fb4ea2": {
+                "uuid": "fb4e6400-4fae-4513-a482-273831fb4ea2",
+                "title": "Drinks",
+                "itemUuids": [
+                    "b417c131-2f6c-4741-91dc-a34b25d1cabe",
+                    "3d2b4ae8-0089-44f2-8f94-a944398c77a0",
+                    "f9fe9ef4-69ac-4693-add3-421856eedd53",
+                    "7e7e2286-d575-46fc-b601-9a271e96adfb",
+                    "6fcd43f6-19df-4903-a479-0cc43178c25e",
+                    "33ae8cf7-24bd-492a-bff1-a43e370cdcb6",
+                    "62068129-b9b7-411e-b3e4-883bc7081e81",
+                    "461627fb-4287-4ee0-9fe3-14e62931f732",
+                    "12a20c6b-a609-4bcd-a351-5e815314c27b",
+                    "9dc10b60-43e1-4122-9c6b-417075bff4bb",
+                    "3e39be43-3f50-47fc-86fb-db7d5821101e",
+                    "116e56b1-6c8c-4869-8ae0-b2875bc55a56",
+                    "b33ce73f-8324-4ae0-8909-5f79d6fc8414"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "b417c131-2f6c-4741-91dc-a34b25d1cabe",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3d2b4ae8-0089-44f2-8f94-a944398c77a0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f9fe9ef4-69ac-4693-add3-421856eedd53",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7e7e2286-d575-46fc-b601-9a271e96adfb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6fcd43f6-19df-4903-a479-0cc43178c25e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "33ae8cf7-24bd-492a-bff1-a43e370cdcb6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "62068129-b9b7-411e-b3e4-883bc7081e81",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "461627fb-4287-4ee0-9fe3-14e62931f732",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "12a20c6b-a609-4bcd-a351-5e815314c27b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9dc10b60-43e1-4122-9c6b-417075bff4bb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3e39be43-3f50-47fc-86fb-db7d5821101e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "116e56b1-6c8c-4869-8ae0-b2875bc55a56",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b33ce73f-8324-4ae0-8909-5f79d6fc8414",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "461d15d7-24b9-494f-ad6d-b1cc51426fc1": {
+                "uuid": "461d15d7-24b9-494f-ad6d-b1cc51426fc1",
+                "title": "Soups",
+                "itemUuids": [
+                    "a5ca974b-b302-4b8e-b032-52a93882545f",
+                    "c38d4e75-7fb6-42c3-a154-53191253429d",
+                    "8573df70-358e-42c6-9081-eae034c5c303",
+                    "a2179a07-c310-4956-9551-d24fc27cbecd"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "a5ca974b-b302-4b8e-b032-52a93882545f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c38d4e75-7fb6-42c3-a154-53191253429d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8573df70-358e-42c6-9081-eae034c5c303",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a2179a07-c310-4956-9551-d24fc27cbecd",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "85d0db29-8ee8-4b73-9c44-6ae500a8432e": {
+                "uuid": "85d0db29-8ee8-4b73-9c44-6ae500a8432e",
+                "title": "Desserts",
+                "itemUuids": [
+                    "e8e91251-3bb2-487a-960c-1e2805d59dab",
+                    "49c460f6-d64d-49df-9287-a338b051c602",
+                    "03e1de38-6271-412c-82cf-23d7a031c06a",
+                    "b65097d1-e73e-4598-856e-ab2122d1bb61",
+                    "f6049e9b-098f-499e-a47f-f498b642b0cf",
+                    "1b8b6b58-3f73-4a27-8804-57afa831386e",
+                    "2ae44c3e-3328-40c9-996e-06ba90d7599d",
+                    "c0cb2ef3-c706-4e27-a451-12db1c800699",
+                    "898505e5-3297-4b01-808b-64c584153a4a",
+                    "1fe548e6-cef3-4838-809e-dfae9a5f71ef",
+                    "bfe14904-586f-4771-b033-e0e3ef073744",
+                    "a9db5345-89fd-4c09-a984-2bdedc483c75",
+                    "3fbc1fcb-b188-48c8-aecc-735a2ae00b7e",
+                    "3141bc86-1c72-4044-8f28-2b54fd43108d",
+                    "491727bb-0b18-4b1e-baea-9e082da0d396",
+                    "dc159338-b35e-4ac0-815b-93b4d03f88fd"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "e8e91251-3bb2-487a-960c-1e2805d59dab",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "49c460f6-d64d-49df-9287-a338b051c602",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "03e1de38-6271-412c-82cf-23d7a031c06a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b65097d1-e73e-4598-856e-ab2122d1bb61",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f6049e9b-098f-499e-a47f-f498b642b0cf",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1b8b6b58-3f73-4a27-8804-57afa831386e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2ae44c3e-3328-40c9-996e-06ba90d7599d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c0cb2ef3-c706-4e27-a451-12db1c800699",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "898505e5-3297-4b01-808b-64c584153a4a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1fe548e6-cef3-4838-809e-dfae9a5f71ef",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bfe14904-586f-4771-b033-e0e3ef073744",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a9db5345-89fd-4c09-a984-2bdedc483c75",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3fbc1fcb-b188-48c8-aecc-735a2ae00b7e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3141bc86-1c72-4044-8f28-2b54fd43108d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "491727bb-0b18-4b1e-baea-9e082da0d396",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "dc159338-b35e-4ac0-815b-93b4d03f88fd",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d9b4c006-6908-4003-b688-cbd4fcabd184": {
+                "uuid": "d9b4c006-6908-4003-b688-cbd4fcabd184",
+                "title": "Напої",
+                "itemUuids": [
+                    "60376b15-978e-4099-8eab-d06cb582695b",
+                    "e6a50764-0d4d-44ff-acc8-77e906c05850",
+                    "34599ac2-9809-45e4-972a-0a7adc00371f",
+                    "afb0954d-ee42-47a6-a6db-a89c95d255f5",
+                    "10dda386-cfc6-483f-8748-dcc9d62e0cff",
+                    "e0056907-415a-4642-8b31-82d432c75b56",
+                    "f41d7ee2-b2ad-40d7-8d26-1c6267ced502",
+                    "f7bd05da-3884-429c-aa38-7b795771bf9d",
+                    "05342877-9ad1-404d-bf54-97b750c7cff0",
+                    "8eaffbca-2a6d-4b20-b16b-5e098d5162ca",
+                    "c48ea69a-7c13-4ac7-a6fa-c1ae89af084d",
+                    "69590942-f754-4f24-a2f8-ef41ca041b35"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "60376b15-978e-4099-8eab-d06cb582695b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e6a50764-0d4d-44ff-acc8-77e906c05850",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "34599ac2-9809-45e4-972a-0a7adc00371f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "afb0954d-ee42-47a6-a6db-a89c95d255f5",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "10dda386-cfc6-483f-8748-dcc9d62e0cff",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e0056907-415a-4642-8b31-82d432c75b56",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f41d7ee2-b2ad-40d7-8d26-1c6267ced502",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f7bd05da-3884-429c-aa38-7b795771bf9d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "05342877-9ad1-404d-bf54-97b750c7cff0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8eaffbca-2a6d-4b20-b16b-5e098d5162ca",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c48ea69a-7c13-4ac7-a6fa-c1ae89af084d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "69590942-f754-4f24-a2f8-ef41ca041b35",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "4de43997-f914-4c02-adc0-9fa9c3f263e4": {
+                "uuid": "4de43997-f914-4c02-adc0-9fa9c3f263e4",
+                "title": "Lunch",
+                "itemUuids": [
+                    "8604f197-ab1c-435e-9649-07ab7b0fbcff",
+                    "8641f465-fa98-4613-8735-b6a7f113e8ab",
+                    "66553dd3-f33a-4e1d-b8fc-e56e5bd33d4e",
+                    "d0ad081a-a74d-41dd-87e7-577914ae025b",
+                    "56d67d85-617d-4b09-ae6f-66c16cc8ff11"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8604f197-ab1c-435e-9649-07ab7b0fbcff",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8641f465-fa98-4613-8735-b6a7f113e8ab",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "66553dd3-f33a-4e1d-b8fc-e56e5bd33d4e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d0ad081a-a74d-41dd-87e7-577914ae025b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "56d67d85-617d-4b09-ae6f-66c16cc8ff11",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "1fc1da2d-aff1-4dec-bf0c-899ffb4704e4": {
+                "uuid": "1fc1da2d-aff1-4dec-bf0c-899ffb4704e4",
+                "title": "Обіди",
+                "itemUuids": [
+                    "3e3bd1ab-096e-4a5c-b1b7-66f47fb0f6dd",
+                    "2946e040-8803-497c-99dd-5bcd66f71d8c",
+                    "9ac3e569-be58-4115-ac05-734dd3aeec67",
+                    "9beb2f09-4073-46f0-b137-beb1dad74b2b",
+                    "9961a348-8add-4088-88a0-66fb8c014e66",
+                    "b0c4fee0-e16e-4325-8d8c-7d03b3dff58f",
+                    "da06191d-bab1-4181-9833-7f55e18b754e"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "3e3bd1ab-096e-4a5c-b1b7-66f47fb0f6dd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2946e040-8803-497c-99dd-5bcd66f71d8c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9ac3e569-be58-4115-ac05-734dd3aeec67",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9beb2f09-4073-46f0-b137-beb1dad74b2b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9961a348-8add-4088-88a0-66fb8c014e66",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b0c4fee0-e16e-4325-8d8c-7d03b3dff58f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "da06191d-bab1-4181-9833-7f55e18b754e",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "dd8746c2-9706-49cd-87d4-674d92583747": {
+                "uuid": "dd8746c2-9706-49cd-87d4-674d92583747",
+                "title": "Salads",
+                "itemUuids": [
+                    "39ee6b46-692b-43cf-a51f-0dbe4cc81e81",
+                    "7086ebba-fdb0-4021-bbfa-cda18b04a2a5",
+                    "e747a153-a54d-49c6-aec1-1c869684fcaf"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "39ee6b46-692b-43cf-a51f-0dbe4cc81e81",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7086ebba-fdb0-4021-bbfa-cda18b04a2a5",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e747a153-a54d-49c6-aec1-1c869684fcaf",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "78460a7e-629c-4a05-aeec-6598430b9e28": {
+                "uuid": "78460a7e-629c-4a05-aeec-6598430b9e28",
+                "title": "Супи",
+                "itemUuids": [
+                    "49e792c9-2762-40b0-a112-282625d52499",
+                    "6026d481-1edb-4c39-82af-2165d847344b",
+                    "75498969-ae86-4c37-93e8-fe46ed759c76",
+                    "b68c781f-5991-4dae-b242-f1e73fd4304f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "49e792c9-2762-40b0-a112-282625d52499",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6026d481-1edb-4c39-82af-2165d847344b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "75498969-ae86-4c37-93e8-fe46ed759c76",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b68c781f-5991-4dae-b242-f1e73fd4304f",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "aac3315c-0cbe-44b1-80d9-f35a025a4db7": {
+                "uuid": "aac3315c-0cbe-44b1-80d9-f35a025a4db7",
+                "title": "Sandwiches",
+                "itemUuids": [
+                    "74e5449f-f771-4b4b-9c6b-e355942e6e8a",
+                    "141c2d17-5ddb-470e-8b8e-ea7adcf35052",
+                    "808023c8-a5aa-46b8-8043-f4ef8d88a8a3",
+                    "73b45fb4-963b-432d-bbdc-dc7cf6cdf3ae",
+                    "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                    "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                    "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                    "79f389fb-432d-4996-b504-5e1120a56c2c"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "74e5449f-f771-4b4b-9c6b-e355942e6e8a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "141c2d17-5ddb-470e-8b8e-ea7adcf35052",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "808023c8-a5aa-46b8-8043-f4ef8d88a8a3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "73b45fb4-963b-432d-bbdc-dc7cf6cdf3ae",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "79f389fb-432d-4996-b504-5e1120a56c2c",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "aa1abf19-2fa0-4550-8592-02acbe316721": {
+                "uuid": "aa1abf19-2fa0-4550-8592-02acbe316721",
+                "title": "Сендвічі",
+                "itemUuids": [
+                    "b8b1d171-0baf-478f-aa86-ba09a391463b",
+                    "1206cc6a-951c-4ea6-ba44-82cbb822171e",
+                    "298b2a34-b7ba-45a9-9034-9c0bc57fd808",
+                    "2d2675be-bac8-475d-8010-63093fed88be",
+                    "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                    "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                    "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                    "14ef6f59-38a6-4106-bad2-261b113ce903"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "b8b1d171-0baf-478f-aa86-ba09a391463b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1206cc6a-951c-4ea6-ba44-82cbb822171e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "298b2a34-b7ba-45a9-9034-9c0bc57fd808",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2d2675be-bac8-475d-8010-63093fed88be",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6652eecf-b946-42e5-9f0e-78f5bb6697bd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d19b99f1-42c7-4628-b3ec-b9d8e4958a30",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b8cf714d-e184-4ea8-b07d-fd17aaf4f0ac",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "14ef6f59-38a6-4106-bad2-261b113ce903",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "837954a6-af75-4f4f-a2e8-955d0bfe9a96": {
+                "uuid": "837954a6-af75-4f4f-a2e8-955d0bfe9a96",
+                "title": "Салати",
+                "itemUuids": [
+                    "99c75db2-7be0-4a45-bfd9-264df0c8f0c5",
+                    "493150cc-7690-40a3-9977-94a42da6ada6",
+                    "46aa567e-06cb-4b50-b646-1d766aa4b339",
+                    "8ce0dd95-0f11-4b2f-82aa-6d5594f5da38",
+                    "c1a86e19-0d12-4c99-ad84-b385452d72fd",
+                    "2ff0529d-8f9c-4389-b89b-6b6c5af25eda"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "99c75db2-7be0-4a45-bfd9-264df0c8f0c5",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "493150cc-7690-40a3-9977-94a42da6ada6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "46aa567e-06cb-4b50-b646-1d766aa4b339",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8ce0dd95-0f11-4b2f-82aa-6d5594f5da38",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c1a86e19-0d12-4c99-ad84-b385452d72fd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2ff0529d-8f9c-4389-b89b-6b6c5af25eda",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "6afd12f6-94c1-4fe5-a567-1270bf264cef": {
+                "uuid": "6afd12f6-94c1-4fe5-a567-1270bf264cef",
+                "title": "Десерти",
+                "itemUuids": [
+                    "784d6247-e1f4-4cc8-87f4-d1724cfa7df1",
+                    "b7c62085-9ced-49ba-ba3d-c205a31518bb",
+                    "c872eb9c-0e38-411d-ac29-f4a4444d2a28",
+                    "b5c7210c-de69-4ced-b84f-93b4d0f48d7f",
+                    "1c8dc4ea-111a-427e-aebd-bd37f090c066",
+                    "9c081b61-ad17-4d7b-9a83-468fb1c07cb2",
+                    "9667fd80-cafb-4f1f-8f73-a8c270a0b948",
+                    "8321926d-74a7-4854-b678-86a8e93b5f5c",
+                    "8634765b-e68d-4dfa-873a-c18b32a98403",
+                    "babe6517-587a-4e62-a66e-81e7c8211806",
+                    "7d7fdc04-b868-470f-be22-5059d9daa239",
+                    "74de8b48-7ee8-4aea-835c-0aa96e5c62a4",
+                    "338b3c75-cf75-48d1-b768-e6a3d71a0d82",
+                    "48a5dfb1-3ee3-4197-94ef-69280dbbc50b",
+                    "bb8f01df-b34f-406a-aa1e-d78a96dc735b"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "784d6247-e1f4-4cc8-87f4-d1724cfa7df1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b7c62085-9ced-49ba-ba3d-c205a31518bb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c872eb9c-0e38-411d-ac29-f4a4444d2a28",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b5c7210c-de69-4ced-b84f-93b4d0f48d7f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1c8dc4ea-111a-427e-aebd-bd37f090c066",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9c081b61-ad17-4d7b-9a83-468fb1c07cb2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9667fd80-cafb-4f1f-8f73-a8c270a0b948",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8321926d-74a7-4854-b678-86a8e93b5f5c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8634765b-e68d-4dfa-873a-c18b32a98403",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "babe6517-587a-4e62-a66e-81e7c8211806",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7d7fdc04-b868-470f-be22-5059d9daa239",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "74de8b48-7ee8-4aea-835c-0aa96e5c62a4",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "338b3c75-cf75-48d1-b768-e6a3d71a0d82",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "48a5dfb1-3ee3-4197-94ef-69280dbbc50b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bb8f01df-b34f-406a-aa1e-d78a96dc735b",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a18725e7-4e5c-4852-a7c0-65db642d090a": {
+                "uuid": "a18725e7-4e5c-4852-a7c0-65db642d090a",
+                "title": "Appetizers ",
+                "itemUuids": [
+                    "5bb58e4e-96ce-4536-83c0-ee232b9e14a1",
+                    "21d162e8-3845-4a79-a7f1-a5b8026df0a1"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "5bb58e4e-96ce-4536-83c0-ee232b9e14a1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "21d162e8-3845-4a79-a7f1-a5b8026df0a1",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.442383,
+            "longitude": 30.521535,
+            "address": {
+                "address1": "Bessarabs'ka Square, 2",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380677432322"
+        },
+        "priceBucket": "₴₴",
+        "slug": "mira-cafe-бессарабська-площа",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/f79e8366-7e4f-453e-90c6-0c06b783af17",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/7989627b-1089-4039-b039-f122f64e4134",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/d713b585-4924-49e4-8202-68e9cdb40d2d",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/07e3ba3b-eaea-4581-aa4a-7296f314177c",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/eeb7e48d-535a-4dfc-b283-0f6e628ffe7d",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "endorsement": {
+                "backgroundColor": {
+                    "alpha": 1,
+                    "color": "59BD5A"
+                },
+                "iconColor": {
+                    "alpha": 1,
+                    "color": "59BD5A"
+                },
+                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+                "text": "Збалансовані страви з натуральних продуктів",
+                "textColor": {
+                    "alpha": 1,
+                    "color": "FFFFFF"
+                }
+            },
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.8 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(134)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.8 out of 5 stars based on 134 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴₴ • European • Vegan • Healthy</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "10–20 MINS",
+                "textFormat": "<span>10–20 MINS</span>",
+                "accessibilityText": "Delivered in 10 to 20 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 10,
+            "max": 20,
+            "raw": 15
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 1290,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1290,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

@@ -1,0 +1,1518 @@
+{
+    "store": {
+        "uuid": "5a2ab93f-635d-47fd-9dce-b62ec1ef41f7",
+        "title": "ЇZH",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "American",
+                "name": "Американська",
+                "keyName": "American"
+            },
+            {
+                "uuid": "Burger",
+                "name": "Бургери",
+                "keyName": "Burger"
+            },
+            {
+                "uuid": "StreetFood",
+                "name": "Вулична їжа",
+                "keyName": "StreetFood"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "8b95cfe8-de6a-4bdc-9595-55f58e6bf44c",
+                "title": "Меню",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "6d34ec6c-a97b-41d4-9d6a-58e47516044c",
+                    "a0068d5a-555a-47d9-b548-5992600f9908",
+                    "f277daa9-118e-439c-86d9-834310eb0faa",
+                    "030db13a-28f7-4d90-ba27-7e42d85e498a",
+                    "a68b3836-e37a-46c1-8dfd-bd3ed9dd5fc3",
+                    "cd42c0bb-daa9-45aa-bc74-839d58db88c5",
+                    "0734fd4c-7891-4e22-a37e-d5abd89d8fbf",
+                    "8ee82d5d-8569-4ee3-9bc8-d646f122a4ac",
+                    "3777bdd4-cb85-4ca8-b8d2-4376d1a3d5c0"
+                ]
+            },
+            {
+                "uuid": "ff90b30f-25e4-463a-880d-cde2881368c6",
+                "title": "Menu",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "5ce6d5af-45a4-4ee8-95c5-4c3fa8c1ba0e",
+                    "f37d9cff-7c82-47c5-94d8-7e85879eb9cc",
+                    "57ae2fe0-a931-4f2f-932f-19d5f294da28",
+                    "628cd4be-020f-408a-932a-840c25d0f78f",
+                    "1a1f5b09-8758-4ec1-a545-bec4f0b11c3d",
+                    "c9e85285-5703-4531-92ee-d4160772d9f1",
+                    "45b9f201-fd7a-4b33-90e3-0476d4b52d90",
+                    "657985c4-8aa8-4afc-9d17-7aa6668ba9df"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "8b95cfe8-de6a-4bdc-9595-55f58e6bf44c": {
+                "itemsMap": {
+                    "54b36b26-1386-411f-84f1-4d20ff92e75a": {
+                        "uuid": "54b36b26-1386-411f-84f1-4d20ff92e75a",
+                        "title": "Фіш Вафл Бургер",
+                        "itemDescription": "БУРГЕР ЗІ СКУМБРІЄЮ, САЛАТОМ АЙСБЕРГ, САЛЬСОЮ ТА ДОМАШНІМ МАЙОНЕЗОМ(330 г).",
+                        "price": 11900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a9ca74a-81cd-4534-9f98-ad93c149cd91"
+                    },
+                    "f10b9ea2-abf7-48d5-bde3-59bba6cba5ea": {
+                        "uuid": "f10b9ea2-abf7-48d5-bde3-59bba6cba5ea",
+                        "title": "Сік Galicia 0,3",
+                        "itemDescription": "",
+                        "price": 3000,
+                        "customizationUuids": [
+                            "5b9aab98-3693-46c1-b3ae-fadef94d854a"
+                        ]
+                    },
+                    "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60": {
+                        "uuid": "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                        "title": "Pepsi 0,33",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "ff7ac24a-f062-42af-80d0-d77025f8a778": {
+                        "uuid": "ff7ac24a-f062-42af-80d0-d77025f8a778",
+                        "title": "Фалафель Боул",
+                        "itemDescription": "БОУЛ З ФАЛАФЕЛЕМ, БУРЯКОВИМ ХУМУСОМ, ЙОГУРТОМ, АВОКАДО, БОБАМИ, РУКОЛОЮ ТА ЗЕЛЕНИМ ГОРОШКОМ(300 г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab9419a9-fc11-48f9-aba9-d3cd142cb1e8"
+                    },
+                    "ceefbf68-a6a7-4b9c-ac86-bdcc56561bf7": {
+                        "uuid": "ceefbf68-a6a7-4b9c-ac86-bdcc56561bf7",
+                        "title": "Порк Картопля",
+                        "itemDescription": "КАРТОПЛЯ ФРІ ЗІ СВИНИНОЮ, КВАСОЛЕЮ, КУКУРУДЗОЮ, СИРОМ ЧЕДДЕР ТА СОУСОМ БАРБЕКЮ (240 г).",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/02fcaa43-3403-4676-84e2-d971319b228c"
+                    },
+                    "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89": {
+                        "uuid": "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                        "title": "Ginger ale Royal club 0,33",
+                        "itemDescription": "",
+                        "price": 2500
+                    },
+                    "88bc8362-83df-40f7-8c98-a56b020d7250": {
+                        "uuid": "88bc8362-83df-40f7-8c98-a56b020d7250",
+                        "title": "Веджі картопля",
+                        "itemDescription": "КАРТОПЛЯ ФРІ З ГУАКАМОЛЕ, САЛЬСОЮ, ЙОГУРТОМ ТА КАЧАНАМИ КУКУРУДЗИ(240 г).",
+                        "price": 6900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a21301d-1b64-4086-a582-f0db737ad909"
+                    },
+                    "2c171d17-39df-411b-a6e5-e11a080c11e6": {
+                        "uuid": "2c171d17-39df-411b-a6e5-e11a080c11e6",
+                        "title": "Барбекю",
+                        "itemDescription": "",
+                        "price": 1000
+                    },
+                    "25ff2a09-d402-4e91-91b6-6a9ddf6c2bad": {
+                        "uuid": "25ff2a09-d402-4e91-91b6-6a9ddf6c2bad",
+                        "title": "Журавлиний",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "e8beb430-58ef-4431-b064-558bbcdb961e": {
+                        "uuid": "e8beb430-58ef-4431-b064-558bbcdb961e",
+                        "title": "Хенговер-чікен",
+                        "itemDescription": "КУРЯЧИЙ БУЛЬЙОН З ЯЄЧНОЮ ЛОКШИНОЮ ТА ЯЙЦЕМ (300 мл).",
+                        "price": 4900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2bcaa9b5-f5bc-497e-8224-65242e50094c",
+                        "customizationUuids": [
+                            "bd967aa2-5582-49c0-b778-d92e65bee26b"
+                        ]
+                    },
+                    "959715f6-b952-408b-a23a-4b7230af9556": {
+                        "uuid": "959715f6-b952-408b-a23a-4b7230af9556",
+                        "title": "Картопля фрі",
+                        "itemDescription": "180 г.",
+                        "price": 3500
+                    },
+                    "19982485-bff2-465c-aafe-970b1303204d": {
+                        "uuid": "19982485-bff2-465c-aafe-970b1303204d",
+                        "title": "Чіа десерт",
+                        "itemDescription": "Мус з яблука, банана та зелені з шматочками хурми та насінням чіа у вівсяному молоці (260 г).",
+                        "price": 4500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/dd447636-3cca-4a6c-8c03-69617c99985c"
+                    },
+                    "72513cbe-3dac-469d-832e-32de299a8167": {
+                        "uuid": "72513cbe-3dac-469d-832e-32de299a8167",
+                        "title": "Underwood kraft beer 0,33",
+                        "itemDescription": "",
+                        "price": 7500,
+                        "customizationUuids": [
+                            "c957ab49-9f63-4b49-8bfa-6b7be5a5538a"
+                        ]
+                    },
+                    "3e9e7bcc-e6d8-455e-b121-fc86ce46a3e1": {
+                        "uuid": "3e9e7bcc-e6d8-455e-b121-fc86ce46a3e1",
+                        "title": "Класичні вафлі",
+                        "itemDescription": "Солодкі вафлі з горіхами та шоколадом (160 г).",
+                        "price": 3900,
+                        "suspendUntil": 8640000000
+                    },
+                    "a40a5c43-fb3b-41af-b399-2e3285f0009b": {
+                        "uuid": "a40a5c43-fb3b-41af-b399-2e3285f0009b",
+                        "title": "Медово-гірчичний",
+                        "itemDescription": "",
+                        "price": 1000
+                    },
+                    "032da5e0-1d4c-4306-9ed5-3234d2470a5e": {
+                        "uuid": "032da5e0-1d4c-4306-9ed5-3234d2470a5e",
+                        "title": "Світ чілі",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "7ab41931-ef50-4f41-a0c0-95fea6eed2a3": {
+                        "uuid": "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                        "title": "Mirinda 0,33",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "6958a488-cde5-4af0-8068-ab700f79d574": {
+                        "uuid": "6958a488-cde5-4af0-8068-ab700f79d574",
+                        "title": "Чікен Боул",
+                        "itemDescription": "БОУЛ З КУРКОЮ, КВАСОЛЕЮ, КАЧАНАМИ КУКУРУДЗИ, САЛЬСОЮ, ШПИНАТОМ ТА СОУСОМ БУЛЬГОГІ (300 г).",
+                        "price": 10900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad0b6adf-5e60-4707-99aa-ab02a4f495fa",
+                        "nutritionalInfo": {}
+                    },
+                    "479d3a21-291e-4036-bc9a-d35f3d07b526": {
+                        "uuid": "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                        "title": "TonicRoyalclub 0,33",
+                        "itemDescription": "",
+                        "price": 2500
+                    },
+                    "776ae426-7196-4414-8e19-3c8a3583ee15": {
+                        "uuid": "776ae426-7196-4414-8e19-3c8a3583ee15",
+                        "title": "Чікен Байтс",
+                        "itemDescription": "Смажені шматочки курки з медово-гірчичним діпом та салатом коул слоу.",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3eb647f2-9937-425f-b338-de42081f1dd7"
+                    },
+                    "429997b3-67ef-45fd-ba4e-cc04ea7c486e": {
+                        "uuid": "429997b3-67ef-45fd-ba4e-cc04ea7c486e",
+                        "title": "Тофу Боул",
+                        "itemDescription": "БОУЛ З ТОФУ, ХУМУСОМ, КІНОА, ГРИБАМИ, ШПИНАТОМ, ГУАКАМОЛЕ ТА ГРЕЙПФРУТОМ (340 г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9a837ae-b6ce-4a79-94df-f2d9284dee95"
+                    },
+                    "689bf748-e05d-4d67-9868-b95fe8696957": {
+                        "uuid": "689bf748-e05d-4d67-9868-b95fe8696957",
+                        "title": "Чікен Вафл Бургер",
+                        "itemDescription": "БУРГЕР З СОКОВИТОЮ ХРУСТКОЮ КУРКОЮ, БОЛГАРСЬКИМ ПЕРЦЕМ, ПОМІДОРОМ, ШПИНАТОМ ТА ДОМАШНІМ МАЙОНЕЗОМ (320 г).",
+                        "price": 10900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf06b34-3e65-4cb2-84a0-e85fbf2f6eed"
+                    },
+                    "ad7df39a-6c8f-47c1-b46a-45189d5e5da0": {
+                        "uuid": "ad7df39a-6c8f-47c1-b46a-45189d5e5da0",
+                        "title": "Чікен Байтс",
+                        "itemDescription": "СМАЖЕНІ ШМАТОЧКИ КУРКИ ІЗ МЕДОВО-ГІРЧИЧНИМ СОУСОМ ТА САЛАТОМ КОУЛ СЛОУ",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/93297696-e681-4f08-aa4f-34ecb1d5a651"
+                    },
+                    "fbaf3fe6-dc55-4aa0-8114-0ec21fb87f4e": {
+                        "uuid": "fbaf3fe6-dc55-4aa0-8114-0ec21fb87f4e",
+                        "title": "Біф Вафл Бургер",
+                        "itemDescription": "БУРГЕР З ПОДВІЙНОЮ КОТЛЕТОЮ З ЯЛОВИЧИНИ, СОУСОМ БАРБЕКЮ, САЛАТОМ АЙСБЕРГ, ЧЕДДЕРОМ,\nСОЛОНИМ ОГІРКОМ, БЕКОНОМ ТА СИНЬОЮ ЦИБУЛЕЮ (З САЛАТОМ КОУЛ СЛОУ) (340 г/50г).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2e2e797-475b-48a4-888d-37f166397090"
+                    },
+                    "00941a58-364f-4441-b9a5-5d2f9ed99c0a": {
+                        "uuid": "00941a58-364f-4441-b9a5-5d2f9ed99c0a",
+                        "title": "Шоколадні вафлі",
+                        "itemDescription": "Вафлі з карамелізованим бананом і апельсиновим курдом (200 г).",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2e79751-990f-464d-8295-cc3b719b0b95"
+                    },
+                    "c25c95ce-6ad2-4645-a940-7a6b3a2d1672": {
+                        "uuid": "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                        "title": "Dr.Pepper 0.33",
+                        "itemDescription": "",
+                        "price": 3500
+                    },
+                    "2b82f2d3-20b4-478a-8fbc-a35e20b6cf1a": {
+                        "uuid": "2b82f2d3-20b4-478a-8fbc-a35e20b6cf1a",
+                        "title": "Хенговер-чікен",
+                        "itemDescription": "Курячий бульйон з яєчною лапшою та яйцем (300 мл).",
+                        "price": 4900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bdbf177f-9625-4afe-b9e2-2967f0afa948"
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "6d34ec6c-a97b-41d4-9d6a-58e47516044c",
+                        "title": "Популярне",
+                        "itemUuids": [
+                            "689bf748-e05d-4d67-9868-b95fe8696957",
+                            "ceefbf68-a6a7-4b9c-ac86-bdcc56561bf7",
+                            "ad7df39a-6c8f-47c1-b46a-45189d5e5da0",
+                            "e8beb430-58ef-4431-b064-558bbcdb961e"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "689bf748-e05d-4d67-9868-b95fe8696957",
+                                "title": "Чікен Вафл Бургер",
+                                "itemDescription": "БУРГЕР З СОКОВИТОЮ ХРУСТКОЮ КУРКОЮ, БОЛГАРСЬКИМ ПЕРЦЕМ, ПОМІДОРОМ, ШПИНАТОМ ТА ДОМАШНІМ МАЙОНЕЗОМ (320 г).",
+                                "price": 10900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf06b34-3e65-4cb2-84a0-e85fbf2f6eed"
+                            },
+                            {
+                                "uuid": "ceefbf68-a6a7-4b9c-ac86-bdcc56561bf7",
+                                "title": "Порк Картопля",
+                                "itemDescription": "КАРТОПЛЯ ФРІ ЗІ СВИНИНОЮ, КВАСОЛЕЮ, КУКУРУДЗОЮ, СИРОМ ЧЕДДЕР ТА СОУСОМ БАРБЕКЮ (240 г).",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/02fcaa43-3403-4676-84e2-d971319b228c"
+                            },
+                            {
+                                "uuid": "ad7df39a-6c8f-47c1-b46a-45189d5e5da0",
+                                "title": "Чікен Байтс",
+                                "itemDescription": "СМАЖЕНІ ШМАТОЧКИ КУРКИ ІЗ МЕДОВО-ГІРЧИЧНИМ СОУСОМ ТА САЛАТОМ КОУЛ СЛОУ",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/93297696-e681-4f08-aa4f-34ecb1d5a651"
+                            },
+                            {
+                                "uuid": "e8beb430-58ef-4431-b064-558bbcdb961e",
+                                "title": "Хенговер-чікен",
+                                "itemDescription": "КУРЯЧИЙ БУЛЬЙОН З ЯЄЧНОЮ ЛОКШИНОЮ ТА ЯЙЦЕМ (300 мл).",
+                                "price": 4900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2bcaa9b5-f5bc-497e-8224-65242e50094c",
+                                "customizationUuids": [
+                                    "bd967aa2-5582-49c0-b778-d92e65bee26b"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a0068d5a-555a-47d9-b548-5992600f9908",
+                        "title": "Вафл Бургер",
+                        "itemUuids": [
+                            "689bf748-e05d-4d67-9868-b95fe8696957",
+                            "fbaf3fe6-dc55-4aa0-8114-0ec21fb87f4e",
+                            "54b36b26-1386-411f-84f1-4d20ff92e75a"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "689bf748-e05d-4d67-9868-b95fe8696957",
+                                "title": "Чікен Вафл Бургер",
+                                "itemDescription": "БУРГЕР З СОКОВИТОЮ ХРУСТКОЮ КУРКОЮ, БОЛГАРСЬКИМ ПЕРЦЕМ, ПОМІДОРОМ, ШПИНАТОМ ТА ДОМАШНІМ МАЙОНЕЗОМ (320 г).",
+                                "price": 10900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf06b34-3e65-4cb2-84a0-e85fbf2f6eed"
+                            },
+                            {
+                                "uuid": "fbaf3fe6-dc55-4aa0-8114-0ec21fb87f4e",
+                                "title": "Біф Вафл Бургер",
+                                "itemDescription": "БУРГЕР З ПОДВІЙНОЮ КОТЛЕТОЮ З ЯЛОВИЧИНИ, СОУСОМ БАРБЕКЮ, САЛАТОМ АЙСБЕРГ, ЧЕДДЕРОМ,\nСОЛОНИМ ОГІРКОМ, БЕКОНОМ ТА СИНЬОЮ ЦИБУЛЕЮ (З САЛАТОМ КОУЛ СЛОУ) (340 г/50г).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2e2e797-475b-48a4-888d-37f166397090"
+                            },
+                            {
+                                "uuid": "54b36b26-1386-411f-84f1-4d20ff92e75a",
+                                "title": "Фіш Вафл Бургер",
+                                "itemDescription": "БУРГЕР ЗІ СКУМБРІЄЮ, САЛАТОМ АЙСБЕРГ, САЛЬСОЮ ТА ДОМАШНІМ МАЙОНЕЗОМ(330 г).",
+                                "price": 11900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a9ca74a-81cd-4534-9f98-ad93c149cd91"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "f277daa9-118e-439c-86d9-834310eb0faa",
+                        "title": "Боул",
+                        "itemUuids": [
+                            "6958a488-cde5-4af0-8068-ab700f79d574",
+                            "429997b3-67ef-45fd-ba4e-cc04ea7c486e",
+                            "ff7ac24a-f062-42af-80d0-d77025f8a778"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "6958a488-cde5-4af0-8068-ab700f79d574",
+                                "title": "Чікен Боул",
+                                "itemDescription": "БОУЛ З КУРКОЮ, КВАСОЛЕЮ, КАЧАНАМИ КУКУРУДЗИ, САЛЬСОЮ, ШПИНАТОМ ТА СОУСОМ БУЛЬГОГІ (300 г).",
+                                "price": 10900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad0b6adf-5e60-4707-99aa-ab02a4f495fa",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "429997b3-67ef-45fd-ba4e-cc04ea7c486e",
+                                "title": "Тофу Боул",
+                                "itemDescription": "БОУЛ З ТОФУ, ХУМУСОМ, КІНОА, ГРИБАМИ, ШПИНАТОМ, ГУАКАМОЛЕ ТА ГРЕЙПФРУТОМ (340 г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9a837ae-b6ce-4a79-94df-f2d9284dee95"
+                            },
+                            {
+                                "uuid": "ff7ac24a-f062-42af-80d0-d77025f8a778",
+                                "title": "Фалафель Боул",
+                                "itemDescription": "БОУЛ З ФАЛАФЕЛЕМ, БУРЯКОВИМ ХУМУСОМ, ЙОГУРТОМ, АВОКАДО, БОБАМИ, РУКОЛОЮ ТА ЗЕЛЕНИМ ГОРОШКОМ(300 г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab9419a9-fc11-48f9-aba9-d3cd142cb1e8"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "030db13a-28f7-4d90-ba27-7e42d85e498a",
+                        "title": "Картопля фрі з додатками",
+                        "itemUuids": [
+                            "88bc8362-83df-40f7-8c98-a56b020d7250",
+                            "959715f6-b952-408b-a23a-4b7230af9556"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "88bc8362-83df-40f7-8c98-a56b020d7250",
+                                "title": "Веджі картопля",
+                                "itemDescription": "КАРТОПЛЯ ФРІ З ГУАКАМОЛЕ, САЛЬСОЮ, ЙОГУРТОМ ТА КАЧАНАМИ КУКУРУДЗИ(240 г).",
+                                "price": 6900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a21301d-1b64-4086-a582-f0db737ad909"
+                            },
+                            {
+                                "uuid": "959715f6-b952-408b-a23a-4b7230af9556",
+                                "title": "Картопля фрі",
+                                "itemDescription": "180 г.",
+                                "price": 3500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a68b3836-e37a-46c1-8dfd-bd3ed9dd5fc3",
+                        "title": "Байтс",
+                        "itemUuids": [
+                            "776ae426-7196-4414-8e19-3c8a3583ee15"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "776ae426-7196-4414-8e19-3c8a3583ee15",
+                                "title": "Чікен Байтс",
+                                "itemDescription": "Смажені шматочки курки з медово-гірчичним діпом та салатом коул слоу.",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3eb647f2-9937-425f-b338-de42081f1dd7"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "cd42c0bb-daa9-45aa-bc74-839d58db88c5",
+                        "title": "Супи",
+                        "itemUuids": [
+                            "2b82f2d3-20b4-478a-8fbc-a35e20b6cf1a"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2b82f2d3-20b4-478a-8fbc-a35e20b6cf1a",
+                                "title": "Хенговер-чікен",
+                                "itemDescription": "Курячий бульйон з яєчною лапшою та яйцем (300 мл).",
+                                "price": 4900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bdbf177f-9625-4afe-b9e2-2967f0afa948"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "0734fd4c-7891-4e22-a37e-d5abd89d8fbf",
+                        "title": "Десерти",
+                        "itemUuids": [
+                            "00941a58-364f-4441-b9a5-5d2f9ed99c0a",
+                            "19982485-bff2-465c-aafe-970b1303204d",
+                            "3e9e7bcc-e6d8-455e-b121-fc86ce46a3e1"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "00941a58-364f-4441-b9a5-5d2f9ed99c0a",
+                                "title": "Шоколадні вафлі",
+                                "itemDescription": "Вафлі з карамелізованим бананом і апельсиновим курдом (200 г).",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2e79751-990f-464d-8295-cc3b719b0b95"
+                            },
+                            {
+                                "uuid": "19982485-bff2-465c-aafe-970b1303204d",
+                                "title": "Чіа десерт",
+                                "itemDescription": "Мус з яблука, банана та зелені з шматочками хурми та насінням чіа у вівсяному молоці (260 г).",
+                                "price": 4500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/dd447636-3cca-4a6c-8c03-69617c99985c"
+                            },
+                            {
+                                "uuid": "3e9e7bcc-e6d8-455e-b121-fc86ce46a3e1",
+                                "title": "Класичні вафлі",
+                                "itemDescription": "Солодкі вафлі з горіхами та шоколадом (160 г).",
+                                "price": 3900,
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "8ee82d5d-8569-4ee3-9bc8-d646f122a4ac",
+                        "title": "Соус",
+                        "itemUuids": [
+                            "2c171d17-39df-411b-a6e5-e11a080c11e6",
+                            "a40a5c43-fb3b-41af-b399-2e3285f0009b",
+                            "032da5e0-1d4c-4306-9ed5-3234d2470a5e",
+                            "25ff2a09-d402-4e91-91b6-6a9ddf6c2bad"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2c171d17-39df-411b-a6e5-e11a080c11e6",
+                                "title": "Барбекю",
+                                "itemDescription": "",
+                                "price": 1000
+                            },
+                            {
+                                "uuid": "a40a5c43-fb3b-41af-b399-2e3285f0009b",
+                                "title": "Медово-гірчичний",
+                                "itemDescription": "",
+                                "price": 1000
+                            },
+                            {
+                                "uuid": "032da5e0-1d4c-4306-9ed5-3234d2470a5e",
+                                "title": "Світ чілі",
+                                "itemDescription": "",
+                                "price": 1500
+                            },
+                            {
+                                "uuid": "25ff2a09-d402-4e91-91b6-6a9ddf6c2bad",
+                                "title": "Журавлиний",
+                                "itemDescription": "",
+                                "price": 1500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "3777bdd4-cb85-4ca8-b8d2-4376d1a3d5c0",
+                        "title": "Напої",
+                        "itemUuids": [
+                            "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                            "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                            "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                            "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                            "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                            "f10b9ea2-abf7-48d5-bde3-59bba6cba5ea",
+                            "72513cbe-3dac-469d-832e-32de299a8167"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                                "title": "Pepsi 0,33",
+                                "itemDescription": "",
+                                "price": 1500
+                            },
+                            {
+                                "uuid": "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                                "title": "Mirinda 0,33",
+                                "itemDescription": "",
+                                "price": 1500
+                            },
+                            {
+                                "uuid": "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                                "title": "Dr.Pepper 0.33",
+                                "itemDescription": "",
+                                "price": 3500
+                            },
+                            {
+                                "uuid": "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                                "title": "TonicRoyalclub 0,33",
+                                "itemDescription": "",
+                                "price": 2500
+                            },
+                            {
+                                "uuid": "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                                "title": "Ginger ale Royal club 0,33",
+                                "itemDescription": "",
+                                "price": 2500
+                            },
+                            {
+                                "uuid": "f10b9ea2-abf7-48d5-bde3-59bba6cba5ea",
+                                "title": "Сік Galicia 0,3",
+                                "itemDescription": "",
+                                "price": 3000,
+                                "customizationUuids": [
+                                    "5b9aab98-3693-46c1-b3ae-fadef94d854a"
+                                ]
+                            },
+                            {
+                                "uuid": "72513cbe-3dac-469d-832e-32de299a8167",
+                                "title": "Underwood kraft beer 0,33",
+                                "itemDescription": "",
+                                "price": 7500,
+                                "customizationUuids": [
+                                    "c957ab49-9f63-4b49-8bfa-6b7be5a5538a"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "ff90b30f-25e4-463a-880d-cde2881368c6": {
+                "itemsMap": {
+                    "279750de-1776-4f75-bcd9-ca8b74d71577": {
+                        "uuid": "279750de-1776-4f75-bcd9-ca8b74d71577",
+                        "title": "Chia dessert",
+                        "itemDescription": "Mousse of apples, banana and greens with pieces of persimmon, and chia seeds in oat milk (260 g).",
+                        "price": 4500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/23355cc8-ba12-4ab8-8d24-52aebd9cba4a"
+                    },
+                    "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938": {
+                        "uuid": "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938",
+                        "title": "Underwood kraft beer 0,33",
+                        "itemDescription": "",
+                        "price": 7500,
+                        "customizationUuids": [
+                            "fd551492-e7ef-46c6-8b69-3a58269186d6"
+                        ]
+                    },
+                    "6a872325-10ad-4e22-b5e8-bed6b08773fc": {
+                        "uuid": "6a872325-10ad-4e22-b5e8-bed6b08773fc",
+                        "title": "Fish Waffle Burger",
+                        "itemDescription": "BURGER W ITH MACKEREL, ICEBERG LETTUCE, SALSA AND HOMEMADE MAYONNAISE (330 g).",
+                        "price": 11900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/991da114-a216-49c3-9c82-124bd8c3f50e"
+                    },
+                    "41f2d07a-4c67-494f-997c-61feda083cf3": {
+                        "uuid": "41f2d07a-4c67-494f-997c-61feda083cf3",
+                        "title": "Cranberry",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "37065557-48cd-4553-a302-8b46f9f31922": {
+                        "uuid": "37065557-48cd-4553-a302-8b46f9f31922",
+                        "title": "Hangover-Chicken",
+                        "itemDescription": "Chicken broth with egg noodles, and egg (300 ml).",
+                        "price": 4900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/011b393e-202e-42e6-9149-8482d0d5c053"
+                    },
+                    "b140fa30-d3f7-4f19-91b9-ad3ec451f72d": {
+                        "uuid": "b140fa30-d3f7-4f19-91b9-ad3ec451f72d",
+                        "title": "Classic waffles",
+                        "itemDescription": "Sweet waffles with nuts, and chocolate (160 g).",
+                        "price": 3900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8fdcce84-5757-4bf2-8d6a-f73b253d423c",
+                        "suspendUntil": 8640000000
+                    },
+                    "4cc27069-7923-4968-ba8a-83758dae5642": {
+                        "uuid": "4cc27069-7923-4968-ba8a-83758dae5642",
+                        "title": "Veggie French Fries",
+                        "itemDescription": "FRENCH FRIES WITH GUACAMOLE, SALSA, YOGURT (240 g).",
+                        "price": 6900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a9f1a1e-93c6-4cbe-8d5c-de10dc2d2b72"
+                    },
+                    "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b": {
+                        "uuid": "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b",
+                        "title": "Tofu Bowl",
+                        "itemDescription": "BOWL WITH TOFU, HUMMUS, QUINOA, MUSHROOMS, SPINACH, GUACAMOLE AND GRAPEFRUIT (340 g).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ab7a827-03d6-498a-92a5-6827c0699467"
+                    },
+                    "a476e141-2e03-418b-9e64-fbcb1c91d3bd": {
+                        "uuid": "a476e141-2e03-418b-9e64-fbcb1c91d3bd",
+                        "title": "Sweet chili",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "84edd146-e0c3-40f2-a283-0d0e9dcc5c91": {
+                        "uuid": "84edd146-e0c3-40f2-a283-0d0e9dcc5c91",
+                        "title": "Chicken Bites",
+                        "itemDescription": "Fried chicken slices with honey and mustard dipping sauce, and cole slaw salad.",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/85debce1-dc16-4b3d-9659-ec2a8a5613e1"
+                    },
+                    "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89": {
+                        "uuid": "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                        "title": "Ginger ale Royal club 0,33",
+                        "itemDescription": "",
+                        "price": 2500
+                    },
+                    "93d6cca4-b748-40c0-817a-a9f6ba6252f9": {
+                        "uuid": "93d6cca4-b748-40c0-817a-a9f6ba6252f9",
+                        "title": "Honey and mustard",
+                        "itemDescription": "",
+                        "price": 1000
+                    },
+                    "479d3a21-291e-4036-bc9a-d35f3d07b526": {
+                        "uuid": "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                        "title": "TonicRoyalclub 0,33",
+                        "itemDescription": "",
+                        "price": 2500
+                    },
+                    "a3497295-52b5-46ee-8de2-1b3c6a11b651": {
+                        "uuid": "a3497295-52b5-46ee-8de2-1b3c6a11b651",
+                        "title": "Falafel Bowl",
+                        "itemDescription": "BOWL WITH FALAFEL, BEET HUMMUS, YOGURT, AVOCADO, BEANS, ARUGULA AND GREEN PEA (300 g).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/287a7776-b751-48c8-ae82-92fb8290481e"
+                    },
+                    "7ab41931-ef50-4f41-a0c0-95fea6eed2a3": {
+                        "uuid": "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                        "title": "Mirinda 0,33",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "b66d372d-9cd0-4477-a1c1-b3f6af192322": {
+                        "uuid": "b66d372d-9cd0-4477-a1c1-b3f6af192322",
+                        "title": "Chocolate waffles",
+                        "itemDescription": "Wafers with caramelized banana, and orange curd (160 g).",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/347fd60f-1b09-4953-894f-cd692b5925f6"
+                    },
+                    "81f76c50-f7c0-45ae-887b-acc0c56e6770": {
+                        "uuid": "81f76c50-f7c0-45ae-887b-acc0c56e6770",
+                        "title": "Chicken Waffle Burger",
+                        "itemDescription": "BURGER WITH JUICY CRUNCHY CHIKEN, BELL PEPPER, TOMATO, SPINACH AND HOMEMADE MAYONNAISE (320 g).",
+                        "price": 10900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/95f9096a-e661-483b-8ca9-5373037374c8",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199
+                    },
+                    "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b": {
+                        "uuid": "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b",
+                        "title": "French fries",
+                        "itemDescription": "180 g.",
+                        "price": 3500
+                    },
+                    "bd130dd8-dbf6-47e3-8ae6-ded5651798c2": {
+                        "uuid": "bd130dd8-dbf6-47e3-8ae6-ded5651798c2",
+                        "title": "Chiken Bowl",
+                        "itemDescription": "BOWL WITH CHICKEN, BEANS, CORN COBS, SALSA, SPINACH AND BULGOGI SAUCE (300 g).",
+                        "price": 10900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d31f74c-a9ef-476d-9bab-e7c061f9ac7a"
+                    },
+                    "b8ee69aa-5bd3-4269-a9e6-3127fcfac3cb": {
+                        "uuid": "b8ee69aa-5bd3-4269-a9e6-3127fcfac3cb",
+                        "title": "BBQ",
+                        "itemDescription": "",
+                        "price": 1000
+                    },
+                    "c25c95ce-6ad2-4645-a940-7a6b3a2d1672": {
+                        "uuid": "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                        "title": "Dr.Pepper 0.33",
+                        "itemDescription": "",
+                        "price": 3500
+                    },
+                    "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c": {
+                        "uuid": "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c",
+                        "title": "Beef Waffle Burger",
+                        "itemDescription": "BURGER WITH DOUBLE BEEF PATTIE, BBQ SAUCE, ICEBERG LETTUCE, CHEDDAR, PICKLE, BACON AND BLUE ONION (W ITH COLE SLAW ) (340 g/ 50 g).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2892b1fd-60b6-42fc-ad99-3f1993891e4f"
+                    },
+                    "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60": {
+                        "uuid": "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                        "title": "Pepsi 0,33",
+                        "itemDescription": "",
+                        "price": 1500
+                    },
+                    "a408deba-ec5b-4c64-b3e2-babfa7ee7780": {
+                        "uuid": "a408deba-ec5b-4c64-b3e2-babfa7ee7780",
+                        "title": "Galicia juice 0,3",
+                        "itemDescription": "",
+                        "price": 3000,
+                        "customizationUuids": [
+                            "1107d0bd-250c-4fea-a32f-4d4c08b3e699"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "5ce6d5af-45a4-4ee8-95c5-4c3fa8c1ba0e",
+                        "title": "Waffle Burger",
+                        "itemUuids": [
+                            "81f76c50-f7c0-45ae-887b-acc0c56e6770",
+                            "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c",
+                            "6a872325-10ad-4e22-b5e8-bed6b08773fc"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "81f76c50-f7c0-45ae-887b-acc0c56e6770",
+                                "title": "Chicken Waffle Burger",
+                                "itemDescription": "BURGER WITH JUICY CRUNCHY CHIKEN, BELL PEPPER, TOMATO, SPINACH AND HOMEMADE MAYONNAISE (320 g).",
+                                "price": 10900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/95f9096a-e661-483b-8ca9-5373037374c8",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c",
+                                "title": "Beef Waffle Burger",
+                                "itemDescription": "BURGER WITH DOUBLE BEEF PATTIE, BBQ SAUCE, ICEBERG LETTUCE, CHEDDAR, PICKLE, BACON AND BLUE ONION (W ITH COLE SLAW ) (340 g/ 50 g).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2892b1fd-60b6-42fc-ad99-3f1993891e4f"
+                            },
+                            {
+                                "uuid": "6a872325-10ad-4e22-b5e8-bed6b08773fc",
+                                "title": "Fish Waffle Burger",
+                                "itemDescription": "BURGER W ITH MACKEREL, ICEBERG LETTUCE, SALSA AND HOMEMADE MAYONNAISE (330 g).",
+                                "price": 11900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/991da114-a216-49c3-9c82-124bd8c3f50e"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "f37d9cff-7c82-47c5-94d8-7e85879eb9cc",
+                        "title": "Bowls",
+                        "itemUuids": [
+                            "bd130dd8-dbf6-47e3-8ae6-ded5651798c2",
+                            "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b",
+                            "a3497295-52b5-46ee-8de2-1b3c6a11b651"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "bd130dd8-dbf6-47e3-8ae6-ded5651798c2",
+                                "title": "Chiken Bowl",
+                                "itemDescription": "BOWL WITH CHICKEN, BEANS, CORN COBS, SALSA, SPINACH AND BULGOGI SAUCE (300 g).",
+                                "price": 10900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d31f74c-a9ef-476d-9bab-e7c061f9ac7a"
+                            },
+                            {
+                                "uuid": "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b",
+                                "title": "Tofu Bowl",
+                                "itemDescription": "BOWL WITH TOFU, HUMMUS, QUINOA, MUSHROOMS, SPINACH, GUACAMOLE AND GRAPEFRUIT (340 g).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ab7a827-03d6-498a-92a5-6827c0699467"
+                            },
+                            {
+                                "uuid": "a3497295-52b5-46ee-8de2-1b3c6a11b651",
+                                "title": "Falafel Bowl",
+                                "itemDescription": "BOWL WITH FALAFEL, BEET HUMMUS, YOGURT, AVOCADO, BEANS, ARUGULA AND GREEN PEA (300 g).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/287a7776-b751-48c8-ae82-92fb8290481e"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "57ae2fe0-a931-4f2f-932f-19d5f294da28",
+                        "title": "French fries with flavors",
+                        "itemUuids": [
+                            "4cc27069-7923-4968-ba8a-83758dae5642",
+                            "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "4cc27069-7923-4968-ba8a-83758dae5642",
+                                "title": "Veggie French Fries",
+                                "itemDescription": "FRENCH FRIES WITH GUACAMOLE, SALSA, YOGURT (240 g).",
+                                "price": 6900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a9f1a1e-93c6-4cbe-8d5c-de10dc2d2b72"
+                            },
+                            {
+                                "uuid": "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b",
+                                "title": "French fries",
+                                "itemDescription": "180 g.",
+                                "price": 3500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "628cd4be-020f-408a-932a-840c25d0f78f",
+                        "title": "Bites",
+                        "itemUuids": [
+                            "84edd146-e0c3-40f2-a283-0d0e9dcc5c91"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "84edd146-e0c3-40f2-a283-0d0e9dcc5c91",
+                                "title": "Chicken Bites",
+                                "itemDescription": "Fried chicken slices with honey and mustard dipping sauce, and cole slaw salad.",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/85debce1-dc16-4b3d-9659-ec2a8a5613e1"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "1a1f5b09-8758-4ec1-a545-bec4f0b11c3d",
+                        "title": "Soups",
+                        "itemUuids": [
+                            "37065557-48cd-4553-a302-8b46f9f31922"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "37065557-48cd-4553-a302-8b46f9f31922",
+                                "title": "Hangover-Chicken",
+                                "itemDescription": "Chicken broth with egg noodles, and egg (300 ml).",
+                                "price": 4900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/011b393e-202e-42e6-9149-8482d0d5c053"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "c9e85285-5703-4531-92ee-d4160772d9f1",
+                        "title": "Desserts",
+                        "itemUuids": [
+                            "b140fa30-d3f7-4f19-91b9-ad3ec451f72d",
+                            "b66d372d-9cd0-4477-a1c1-b3f6af192322",
+                            "279750de-1776-4f75-bcd9-ca8b74d71577"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "b140fa30-d3f7-4f19-91b9-ad3ec451f72d",
+                                "title": "Classic waffles",
+                                "itemDescription": "Sweet waffles with nuts, and chocolate (160 g).",
+                                "price": 3900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8fdcce84-5757-4bf2-8d6a-f73b253d423c",
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "b66d372d-9cd0-4477-a1c1-b3f6af192322",
+                                "title": "Chocolate waffles",
+                                "itemDescription": "Wafers with caramelized banana, and orange curd (160 g).",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/347fd60f-1b09-4953-894f-cd692b5925f6"
+                            },
+                            {
+                                "uuid": "279750de-1776-4f75-bcd9-ca8b74d71577",
+                                "title": "Chia dessert",
+                                "itemDescription": "Mousse of apples, banana and greens with pieces of persimmon, and chia seeds in oat milk (260 g).",
+                                "price": 4500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/23355cc8-ba12-4ab8-8d24-52aebd9cba4a"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "45b9f201-fd7a-4b33-90e3-0476d4b52d90",
+                        "title": "Sauces",
+                        "itemUuids": [
+                            "b8ee69aa-5bd3-4269-a9e6-3127fcfac3cb",
+                            "93d6cca4-b748-40c0-817a-a9f6ba6252f9",
+                            "a476e141-2e03-418b-9e64-fbcb1c91d3bd",
+                            "41f2d07a-4c67-494f-997c-61feda083cf3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "b8ee69aa-5bd3-4269-a9e6-3127fcfac3cb",
+                                "title": "BBQ",
+                                "itemDescription": "",
+                                "price": 1000
+                            },
+                            {
+                                "uuid": "93d6cca4-b748-40c0-817a-a9f6ba6252f9",
+                                "title": "Honey and mustard",
+                                "itemDescription": "",
+                                "price": 1000
+                            },
+                            {
+                                "uuid": "a476e141-2e03-418b-9e64-fbcb1c91d3bd",
+                                "title": "Sweet chili",
+                                "itemDescription": "",
+                                "price": 1500
+                            },
+                            {
+                                "uuid": "41f2d07a-4c67-494f-997c-61feda083cf3",
+                                "title": "Cranberry",
+                                "itemDescription": "",
+                                "price": 1500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "657985c4-8aa8-4afc-9d17-7aa6668ba9df",
+                        "title": "Drinks",
+                        "itemUuids": [
+                            "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                            "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                            "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                            "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                            "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                            "a408deba-ec5b-4c64-b3e2-babfa7ee7780",
+                            "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                                "title": "Pepsi 0,33",
+                                "itemDescription": "",
+                                "price": 1500
+                            },
+                            {
+                                "uuid": "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                                "title": "Mirinda 0,33",
+                                "itemDescription": "",
+                                "price": 1500
+                            },
+                            {
+                                "uuid": "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                                "title": "Dr.Pepper 0.33",
+                                "itemDescription": "",
+                                "price": 3500
+                            },
+                            {
+                                "uuid": "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                                "title": "TonicRoyalclub 0,33",
+                                "itemDescription": "",
+                                "price": 2500
+                            },
+                            {
+                                "uuid": "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                                "title": "Ginger ale Royal club 0,33",
+                                "itemDescription": "",
+                                "price": 2500
+                            },
+                            {
+                                "uuid": "a408deba-ec5b-4c64-b3e2-babfa7ee7780",
+                                "title": "Galicia juice 0,3",
+                                "itemDescription": "",
+                                "price": 3000,
+                                "customizationUuids": [
+                                    "1107d0bd-250c-4fea-a32f-4d4c08b3e699"
+                                ]
+                            },
+                            {
+                                "uuid": "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938",
+                                "title": "Underwood kraft beer 0,33",
+                                "itemDescription": "",
+                                "price": 7500,
+                                "customizationUuids": [
+                                    "fd551492-e7ef-46c6-8b69-3a58269186d6"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "3777bdd4-cb85-4ca8-b8d2-4376d1a3d5c0": {
+                "uuid": "3777bdd4-cb85-4ca8-b8d2-4376d1a3d5c0",
+                "title": "Напої",
+                "itemUuids": [
+                    "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                    "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                    "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                    "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                    "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                    "f10b9ea2-abf7-48d5-bde3-59bba6cba5ea",
+                    "72513cbe-3dac-469d-832e-32de299a8167"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f10b9ea2-abf7-48d5-bde3-59bba6cba5ea",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "72513cbe-3dac-469d-832e-32de299a8167",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "0734fd4c-7891-4e22-a37e-d5abd89d8fbf": {
+                "uuid": "0734fd4c-7891-4e22-a37e-d5abd89d8fbf",
+                "title": "Десерти",
+                "itemUuids": [
+                    "00941a58-364f-4441-b9a5-5d2f9ed99c0a",
+                    "19982485-bff2-465c-aafe-970b1303204d",
+                    "3e9e7bcc-e6d8-455e-b121-fc86ce46a3e1"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "00941a58-364f-4441-b9a5-5d2f9ed99c0a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "19982485-bff2-465c-aafe-970b1303204d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3e9e7bcc-e6d8-455e-b121-fc86ce46a3e1",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "6d34ec6c-a97b-41d4-9d6a-58e47516044c": {
+                "uuid": "6d34ec6c-a97b-41d4-9d6a-58e47516044c",
+                "title": "Популярне",
+                "itemUuids": [
+                    "689bf748-e05d-4d67-9868-b95fe8696957",
+                    "ceefbf68-a6a7-4b9c-ac86-bdcc56561bf7",
+                    "ad7df39a-6c8f-47c1-b46a-45189d5e5da0",
+                    "e8beb430-58ef-4431-b064-558bbcdb961e"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "689bf748-e05d-4d67-9868-b95fe8696957",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ceefbf68-a6a7-4b9c-ac86-bdcc56561bf7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ad7df39a-6c8f-47c1-b46a-45189d5e5da0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e8beb430-58ef-4431-b064-558bbcdb961e",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "c9e85285-5703-4531-92ee-d4160772d9f1": {
+                "uuid": "c9e85285-5703-4531-92ee-d4160772d9f1",
+                "title": "Desserts",
+                "itemUuids": [
+                    "b140fa30-d3f7-4f19-91b9-ad3ec451f72d",
+                    "b66d372d-9cd0-4477-a1c1-b3f6af192322",
+                    "279750de-1776-4f75-bcd9-ca8b74d71577"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "b140fa30-d3f7-4f19-91b9-ad3ec451f72d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b66d372d-9cd0-4477-a1c1-b3f6af192322",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "279750de-1776-4f75-bcd9-ca8b74d71577",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a0068d5a-555a-47d9-b548-5992600f9908": {
+                "uuid": "a0068d5a-555a-47d9-b548-5992600f9908",
+                "title": "Вафл Бургер",
+                "itemUuids": [
+                    "689bf748-e05d-4d67-9868-b95fe8696957",
+                    "fbaf3fe6-dc55-4aa0-8114-0ec21fb87f4e",
+                    "54b36b26-1386-411f-84f1-4d20ff92e75a"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "689bf748-e05d-4d67-9868-b95fe8696957",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "fbaf3fe6-dc55-4aa0-8114-0ec21fb87f4e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "54b36b26-1386-411f-84f1-4d20ff92e75a",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a68b3836-e37a-46c1-8dfd-bd3ed9dd5fc3": {
+                "uuid": "a68b3836-e37a-46c1-8dfd-bd3ed9dd5fc3",
+                "title": "Байтс",
+                "itemUuids": [
+                    "776ae426-7196-4414-8e19-3c8a3583ee15"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "776ae426-7196-4414-8e19-3c8a3583ee15",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "8ee82d5d-8569-4ee3-9bc8-d646f122a4ac": {
+                "uuid": "8ee82d5d-8569-4ee3-9bc8-d646f122a4ac",
+                "title": "Соус",
+                "itemUuids": [
+                    "2c171d17-39df-411b-a6e5-e11a080c11e6",
+                    "a40a5c43-fb3b-41af-b399-2e3285f0009b",
+                    "032da5e0-1d4c-4306-9ed5-3234d2470a5e",
+                    "25ff2a09-d402-4e91-91b6-6a9ddf6c2bad"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2c171d17-39df-411b-a6e5-e11a080c11e6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a40a5c43-fb3b-41af-b399-2e3285f0009b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "032da5e0-1d4c-4306-9ed5-3234d2470a5e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "25ff2a09-d402-4e91-91b6-6a9ddf6c2bad",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "5ce6d5af-45a4-4ee8-95c5-4c3fa8c1ba0e": {
+                "uuid": "5ce6d5af-45a4-4ee8-95c5-4c3fa8c1ba0e",
+                "title": "Waffle Burger",
+                "itemUuids": [
+                    "81f76c50-f7c0-45ae-887b-acc0c56e6770",
+                    "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c",
+                    "6a872325-10ad-4e22-b5e8-bed6b08773fc"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "81f76c50-f7c0-45ae-887b-acc0c56e6770",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6a872325-10ad-4e22-b5e8-bed6b08773fc",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "cd42c0bb-daa9-45aa-bc74-839d58db88c5": {
+                "uuid": "cd42c0bb-daa9-45aa-bc74-839d58db88c5",
+                "title": "Супи",
+                "itemUuids": [
+                    "2b82f2d3-20b4-478a-8fbc-a35e20b6cf1a"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2b82f2d3-20b4-478a-8fbc-a35e20b6cf1a",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "628cd4be-020f-408a-932a-840c25d0f78f": {
+                "uuid": "628cd4be-020f-408a-932a-840c25d0f78f",
+                "title": "Bites",
+                "itemUuids": [
+                    "84edd146-e0c3-40f2-a283-0d0e9dcc5c91"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "84edd146-e0c3-40f2-a283-0d0e9dcc5c91",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "57ae2fe0-a931-4f2f-932f-19d5f294da28": {
+                "uuid": "57ae2fe0-a931-4f2f-932f-19d5f294da28",
+                "title": "French fries with flavors",
+                "itemUuids": [
+                    "4cc27069-7923-4968-ba8a-83758dae5642",
+                    "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "4cc27069-7923-4968-ba8a-83758dae5642",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "030db13a-28f7-4d90-ba27-7e42d85e498a": {
+                "uuid": "030db13a-28f7-4d90-ba27-7e42d85e498a",
+                "title": "Картопля фрі з додатками",
+                "itemUuids": [
+                    "88bc8362-83df-40f7-8c98-a56b020d7250",
+                    "959715f6-b952-408b-a23a-4b7230af9556"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "88bc8362-83df-40f7-8c98-a56b020d7250",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "959715f6-b952-408b-a23a-4b7230af9556",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "657985c4-8aa8-4afc-9d17-7aa6668ba9df": {
+                "uuid": "657985c4-8aa8-4afc-9d17-7aa6668ba9df",
+                "title": "Drinks",
+                "itemUuids": [
+                    "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                    "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                    "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                    "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                    "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                    "a408deba-ec5b-4c64-b3e2-babfa7ee7780",
+                    "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "479d3a21-291e-4036-bc9a-d35f3d07b526",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a408deba-ec5b-4c64-b3e2-babfa7ee7780",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "1a1f5b09-8758-4ec1-a545-bec4f0b11c3d": {
+                "uuid": "1a1f5b09-8758-4ec1-a545-bec4f0b11c3d",
+                "title": "Soups",
+                "itemUuids": [
+                    "37065557-48cd-4553-a302-8b46f9f31922"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "37065557-48cd-4553-a302-8b46f9f31922",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f277daa9-118e-439c-86d9-834310eb0faa": {
+                "uuid": "f277daa9-118e-439c-86d9-834310eb0faa",
+                "title": "Боул",
+                "itemUuids": [
+                    "6958a488-cde5-4af0-8068-ab700f79d574",
+                    "429997b3-67ef-45fd-ba4e-cc04ea7c486e",
+                    "ff7ac24a-f062-42af-80d0-d77025f8a778"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "6958a488-cde5-4af0-8068-ab700f79d574",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "429997b3-67ef-45fd-ba4e-cc04ea7c486e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ff7ac24a-f062-42af-80d0-d77025f8a778",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "45b9f201-fd7a-4b33-90e3-0476d4b52d90": {
+                "uuid": "45b9f201-fd7a-4b33-90e3-0476d4b52d90",
+                "title": "Sauces",
+                "itemUuids": [
+                    "b8ee69aa-5bd3-4269-a9e6-3127fcfac3cb",
+                    "93d6cca4-b748-40c0-817a-a9f6ba6252f9",
+                    "a476e141-2e03-418b-9e64-fbcb1c91d3bd",
+                    "41f2d07a-4c67-494f-997c-61feda083cf3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "b8ee69aa-5bd3-4269-a9e6-3127fcfac3cb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "93d6cca4-b748-40c0-817a-a9f6ba6252f9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a476e141-2e03-418b-9e64-fbcb1c91d3bd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "41f2d07a-4c67-494f-997c-61feda083cf3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f37d9cff-7c82-47c5-94d8-7e85879eb9cc": {
+                "uuid": "f37d9cff-7c82-47c5-94d8-7e85879eb9cc",
+                "title": "Bowls",
+                "itemUuids": [
+                    "bd130dd8-dbf6-47e3-8ae6-ded5651798c2",
+                    "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b",
+                    "a3497295-52b5-46ee-8de2-1b3c6a11b651"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "bd130dd8-dbf6-47e3-8ae6-ded5651798c2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a3497295-52b5-46ee-8de2-1b3c6a11b651",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.450755,
+            "longitude": 30.513669,
+            "address": {
+                "address1": "Zolotovoritska St, 3/2, Kyiv, Ukraine, 02000",
+                "aptOrSuite": "",
+                "city": "",
+                "country": "UA",
+                "postalCode": "",
+                "region": "",
+                "formattedAddress": "Zolotovoritska St, 3/2, Kyiv, Ukraine, 02000, "
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380663139959"
+        },
+        "priceBucket": "₴",
+        "slug": "іzh",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/569e47d7-96e0-4f62-bc65-9b9636d097a3",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/aeeba30f-b148-41fc-a95e-bd6c308553ee",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/f10ccd32-9824-4796-a800-b69f11a67551",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/e1c615c1-eec1-42d6-bba6-fc697bc40360",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/af16bbf8-253c-455a-8a7b-99c4c6f5a9b0",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(224)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 224 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴ • American • Burger • Street Food</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "25–35 MINS",
+                "textFormat": "<span>25–35 MINS</span>",
+                "accessibilityText": "Delivered in 25 to 35 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 25,
+            "max": 35,
+            "raw": 30
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Sunday",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "Меню"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "Menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Monday - Friday",
+                    "sectionHours": [
+                        {
+                            "startTime": 660,
+                            "endTime": 1320,
+                            "title": "Меню"
+                        },
+                        {
+                            "startTime": 660,
+                            "endTime": 1320,
+                            "title": "Menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Saturday",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "Меню"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "Menu"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

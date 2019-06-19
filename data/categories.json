@@ -1,0 +1,696 @@
+{
+  "categories": [
+    {
+      "title": "Recommended",
+      "type": "text",
+      "items": [
+        {
+          "title": "Pizza",
+          "keyName": "pizza",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/971d80f9ccce0c8eab98014650ee97eb"
+            }
+          ],
+          "localizedTitle": "Pizza"
+        },
+        {
+          "title": "Burgers",
+          "keyName": "burger",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/128411a1b54acd3c3c4e5263e7c58e2d"
+            }
+          ],
+          "localizedTitle": "Burger"
+        },
+        {
+          "title": "Fast Food",
+          "keyName": "fast_food",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/f6e04e64903c3207e68c649e24cc2f32"
+            }
+          ],
+          "localizedTitle": "Fast Food"
+        },
+        {
+          "title": "Sushi",
+          "keyName": "sushi",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/21b6882726bf71ba17b29ab47ef16d22"
+            }
+          ],
+          "localizedTitle": "Sushi"
+        },
+        {
+          "title": "Asian",
+          "keyName": "asian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/57864fe0d398139ac2175e7457c63954"
+            }
+          ],
+          "localizedTitle": "Asian"
+        },
+        {
+          "title": "Georgian",
+          "keyName": "georgian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/ce83a705def45ab34917479369780706"
+            }
+          ],
+          "localizedTitle": "Georgian"
+        },
+        {
+          "title": "Desserts",
+          "keyName": "dessert",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/3962b16c350438a56fd7794ba4a15b9c"
+            }
+          ],
+          "localizedTitle": "Desserts"
+        },
+        {
+          "title": "American",
+          "keyName": "american",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a5aa9bbba0172134449b4ad48611d92b"
+            }
+          ],
+          "localizedTitle": "American"
+        },
+        {
+          "title": "Ukrainian",
+          "keyName": "ukrainian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/204c3567bbed16d5dc2cc4a2ab99bc61"
+            }
+          ],
+          "localizedTitle": "Ukrainian"
+        },
+        {
+          "title": "Salads",
+          "keyName": "salad",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9bc9a3a696651b5e5e777660fa6b0536"
+            }
+          ],
+          "localizedTitle": "Salad"
+        },
+        {
+          "title": "Italian",
+          "keyName": "italian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/256bc34a3917153511de66ce2510be0a"
+            }
+          ],
+          "localizedTitle": "Italian"
+        },
+        {
+          "title": "Japanese",
+          "keyName": "japanese",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/78e3d7f0866e5f17c8350216653b063b"
+            }
+          ],
+          "localizedTitle": "Japanese"
+        },
+        {
+          "title": "Seafood",
+          "keyName": "seafood",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/998c405357c700f498fc86be08a0b8c2"
+            }
+          ],
+          "localizedTitle": "Seafood"
+        },
+        {
+          "title": "Street Food",
+          "keyName": "street_food",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/42ce3a81bced6067219d62ca44aec950"
+            }
+          ],
+          "localizedTitle": "Street Food"
+        },
+        {
+          "title": "Chinese",
+          "keyName": "chinese",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a84dc69cee307fba4f559b1e825d8e9e"
+            }
+          ],
+          "localizedTitle": "Chinese"
+        },
+        {
+          "title": "Comfort Food",
+          "keyName": "comfort_food",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/6012a01e7f7efe32e842aa152a999136"
+            }
+          ],
+          "localizedTitle": "Comfort Food"
+        },
+        {
+          "title": "Healthy",
+          "keyName": "healthy",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/5bcce6114b9d2d5a39b81e756a250407"
+            }
+          ],
+          "localizedTitle": "Healthy"
+        },
+        {
+          "title": "BBQ",
+          "keyName": "bbq",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/eeb45491416e3becc1961d921e667e5d"
+            }
+          ],
+          "localizedTitle": "BBQ"
+        },
+        {
+          "title": "European",
+          "keyName": "european",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/6fb0b3e7fadd682aca1f5213d40c33d5"
+            }
+          ],
+          "localizedTitle": "European"
+        },
+        {
+          "title": "Bar Food",
+          "keyName": "bar_food",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/92daea70cc9f6b0725ab7bedcf93284c"
+            }
+          ],
+          "localizedTitle": "Bar Food"
+        },
+        {
+          "title": "Middle Eastern",
+          "keyName": "middle_eastern",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/0f8eb25c1202f7fc963d8e2debc202af"
+            }
+          ],
+          "localizedTitle": "Middle Eastern"
+        },
+        {
+          "title": "Breakfast and Brunch",
+          "keyName": "breakfast_and_brunch",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/0bc9ca19a02e3bd03f2395c8cf8a3e0c"
+            }
+          ],
+          "localizedTitle": "Breakfast and brunch"
+        },
+        {
+          "title": "Mexican",
+          "keyName": "mexican",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/7b2a32908c050e6b07252ffcbe651e8c"
+            }
+          ],
+          "localizedTitle": "Mexican"
+        },
+        {
+          "title": "Vegetarian",
+          "keyName": "vegetarian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/d05be7041817489907d26ae125aa0de1"
+            }
+          ],
+          "localizedTitle": "Vegetarian"
+        },
+        {
+          "title": "Pastry",
+          "keyName": "pastry",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/861d2b9d393be89f98be5cb2e7e5845c"
+            }
+          ],
+          "localizedTitle": "Pastry"
+        },
+        {
+          "title": "Turkish",
+          "keyName": "turkish",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/8dc30bebd98b542e209ee97a9d6977c5"
+            }
+          ],
+          "localizedTitle": "Turkish"
+        },
+        {
+          "title": "Thai",
+          "keyName": "thai",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9a7792417e52d2be9f6550b48e48a4fc"
+            }
+          ],
+          "localizedTitle": "Thai"
+        },
+        {
+          "title": "Rolls",
+          "keyName": "rolls",
+          "images": [
+            {
+              "imageUrl": "http://duyt4h9nfnj50.cloudfront.net/search_home/Rolls.jpg"
+            }
+          ],
+          "localizedTitle": "Rolls"
+        },
+        {
+          "title": "Vegan",
+          "keyName": "vegan",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/55c691b1f4df92218a47588c5ec761d1"
+            }
+          ],
+          "localizedTitle": "Vegan"
+        },
+        {
+          "title": "Vietnamese",
+          "keyName": "vietnamese",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/d5e7d9a8bdea0a76abf96650bbc3af22"
+            }
+          ],
+          "localizedTitle": "Vietnamese"
+        },
+        {
+          "title": "Eastern European",
+          "keyName": "eastern_european",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/86d3a62292cc25481abe6e03fdc71cc0"
+            }
+          ],
+          "localizedTitle": "Eastern European"
+        },
+        {
+          "title": "Modern European",
+          "keyName": "modern_european",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/b341a87c10d42a3db00843e35f8975c6"
+            }
+          ],
+          "localizedTitle": "Modern European"
+        },
+        {
+          "title": "Bakery",
+          "keyName": "bakery",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/d1164714a259d180471e20254b8211f7"
+            }
+          ],
+          "localizedTitle": "Bakery"
+        },
+        {
+          "title": "Lebanese",
+          "keyName": "lebanese",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/5fc801c20745766a5ae7421dcd945207"
+            }
+          ],
+          "localizedTitle": "Lebanese"
+        },
+        {
+          "title": "Jewish",
+          "keyName": "jewish",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/eb49daebeb9a2ec84748497854b5c478"
+            }
+          ],
+          "localizedTitle": "Jewish"
+        },
+        {
+          "title": "Mediterranean",
+          "keyName": "mediterranean",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/7aa9aeff334776f152be164cd02ca062"
+            }
+          ],
+          "localizedTitle": "Mediterranean"
+        },
+        {
+          "title": "Indian",
+          "keyName": "indian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/836fa3b8cf098f8cbed99cedc7c06779"
+            }
+          ],
+          "localizedTitle": "Indian"
+        },
+        {
+          "title": "Coffee and Tea",
+          "keyName": "coffee_and_tea",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/3f270d9121923dc25df3a5853bff83a8"
+            }
+          ],
+          "localizedTitle": "Coffee and tea"
+        },
+        {
+          "title": "Ice Cream and Frozen Yogurt",
+          "keyName": "ice_cream_and_frozen_yogurt",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/65126c9733e086b7dc71a7ae8ccf0d93"
+            }
+          ],
+          "localizedTitle": "Ice cream and frozen yoghurt"
+        },
+        {
+          "title": "Juice and Smoothies",
+          "keyName": "juice_and_smoothies",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9d5cc3244d0b520b45e518966087b756"
+            }
+          ],
+          "localizedTitle": "Juice and smoothies"
+        },
+        {
+          "title": "Traditional American",
+          "keyName": "traditional_american",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/538dbc6b6a0e2fa973d28f8a8d68c8b5"
+            }
+          ],
+          "localizedTitle": "Traditional American"
+        },
+        {
+          "title": "Sandwiches",
+          "keyName": "sandwich",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/83cbb1ab8526068a9bd66aec27a5b0d1"
+            }
+          ],
+          "localizedTitle": "Sandwich"
+        },
+        {
+          "title": "French",
+          "keyName": "french",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/60ae0adfdc27ba36ac4ebec59ed47474"
+            }
+          ],
+          "localizedTitle": "French"
+        },
+        {
+          "title": "Pub",
+          "keyName": "pub",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/07c8a18c386b4f4263e8c6a8921c4676"
+            }
+          ],
+          "localizedTitle": "Pub"
+        },
+        {
+          "title": "Chicken",
+          "keyName": "pollo",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/search_home/Pollo.jpg"
+            }
+          ],
+          "localizedTitle": "Chicken"
+        },
+        {
+          "title": "Indonesian",
+          "keyName": "indonesian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/78c936f557b69df49f8afdc19a699c20"
+            }
+          ],
+          "localizedTitle": "Indonesian"
+        },
+        {
+          "title": "Tex Mex",
+          "keyName": "tex_mex",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/82ad068a4fabaa78308cafe9b3f192cd"
+            }
+          ],
+          "localizedTitle": "Tex Mex"
+        },
+        {
+          "title": "Arabian",
+          "keyName": "arabian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9ce7071e3e974db190a1cefe9a7b6001"
+            }
+          ],
+          "localizedTitle": "Arabian"
+        },
+        {
+          "title": "Modern French",
+          "keyName": "modern_french",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/7c982947ceeb58c68bd7b93f2779d958"
+            }
+          ],
+          "localizedTitle": "Modern French"
+        },
+        {
+          "title": "Vegan Friendly",
+          "keyName": "vegan_friendly",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/89c8254e4ce8e38d996b95fca9ba5334"
+            }
+          ],
+          "localizedTitle": "Vegan friendly"
+        },
+        {
+          "title": "Hungarian",
+          "keyName": "hungarian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/2895bf0f88d0bf7041a5be3eb5b6e338"
+            }
+          ],
+          "localizedTitle": "Hungarian"
+        },
+        {
+          "title": "Czech",
+          "keyName": "czech",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/fdfa288ff53a9d77538fc08c1d82e42d"
+            }
+          ],
+          "localizedTitle": "Czech"
+        },
+        {
+          "title": "Vegetarian Friendly",
+          "keyName": "vegetarian_friendly",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/8b64f4fdc97deb44adc209f90d4ea09d"
+            }
+          ],
+          "localizedTitle": "Vegetarian friendly"
+        },
+        {
+          "title": "Latin American",
+          "keyName": "latin_american",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/d7e44b1840cf3f1f77ebe31651b3f9e3"
+            }
+          ],
+          "localizedTitle": "Latin American"
+        },
+        {
+          "title": "New Mexican",
+          "keyName": "new_mexican",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/d409b9e4da70c004798275dc9b6a8291"
+            }
+          ],
+          "localizedTitle": "New Mexican"
+        },
+        {
+          "title": "Cuban",
+          "keyName": "cuban",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/257a7721eb8997d141f3f1cc67bfb0e0"
+            }
+          ],
+          "localizedTitle": "Cuban"
+        },
+        {
+          "title": "Uzbek",
+          "keyName": "uzbek",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/0d473ec5d74e50056d996265e7f5833f"
+            }
+          ],
+          "localizedTitle": "Uzbek"
+        },
+        {
+          "title": "Argentinian",
+          "keyName": "argentinian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/b11cab90209b0cd58d9f8badc890ce4f"
+            }
+          ],
+          "localizedTitle": "Argentinian"
+        },
+        {
+          "title": "Irish",
+          "keyName": "irish",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/c24e776dccccfeec6e023ffabb553808"
+            }
+          ],
+          "localizedTitle": "Irish"
+        },
+        {
+          "title": "Caribbean",
+          "keyName": "caribbean",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9ccd29d6398697287313006c39498d20"
+            }
+          ],
+          "localizedTitle": "Caribbean"
+        },
+        {
+          "title": "Korean",
+          "keyName": "korean",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9acf7c2098b64401466cb81ca991f7f6"
+            }
+          ],
+          "localizedTitle": "Korean"
+        },
+        {
+          "title": "Pakistani",
+          "keyName": "pakistani",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/6e98068c35b3eca8171a0b6e15998086"
+            }
+          ],
+          "localizedTitle": "Pakistani"
+        }
+      ]
+    },
+    {
+      "title": "Most Popular",
+      "type": "grid",
+      "items": [
+        {
+          "title": "Pizza",
+          "keyName": "pizza",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/971d80f9ccce0c8eab98014650ee97eb"
+            }
+          ],
+          "localizedTitle": "Pizza"
+        },
+        {
+          "title": "Burgers",
+          "keyName": "burger",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/128411a1b54acd3c3c4e5263e7c58e2d"
+            }
+          ],
+          "localizedTitle": "Burger"
+        },
+        {
+          "title": "Fast Food",
+          "keyName": "fast_food",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/f6e04e64903c3207e68c649e24cc2f32"
+            }
+          ],
+          "localizedTitle": "Fast Food"
+        },
+        {
+          "title": "Sushi",
+          "keyName": "sushi",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/21b6882726bf71ba17b29ab47ef16d22"
+            }
+          ],
+          "localizedTitle": "Sushi"
+        },
+        {
+          "title": "Asian",
+          "keyName": "asian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/57864fe0d398139ac2175e7457c63954"
+            }
+          ],
+          "localizedTitle": "Asian"
+        },
+        {
+          "title": "Georgian",
+          "keyName": "georgian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/ce83a705def45ab34917479369780706"
+            }
+          ],
+          "localizedTitle": "Georgian"
+        }
+      ]
+    }
+  ]
+}

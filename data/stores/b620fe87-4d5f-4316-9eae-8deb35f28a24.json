@@ -1,0 +1,1037 @@
+{
+    "store": {
+        "uuid": "b620fe87-4d5f-4316-9eae-8deb35f28a24",
+        "title": "Naprosecco Oyster & Co",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "Seafood",
+                "name": "Морепродукти",
+                "keyName": "Seafood"
+            },
+            {
+                "uuid": "Burger",
+                "name": "Бургери",
+                "keyName": "Burger"
+            },
+            {
+                "uuid": "European",
+                "name": "Європейська",
+                "keyName": "European"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "bbd6ee35-2782-4131-a6e5-99651af20a1b",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "ede83027-7932-48a9-9753-ce1d6a56380f",
+                    "93050ed4-8bf0-49bb-b229-fa9cbf7483bc",
+                    "6bcdf02d-48f0-45a2-90e8-5a626b267963"
+                ]
+            },
+            {
+                "uuid": "d660c6ab-3741-44a5-8634-65a69961514f",
+                "title": "LUNCH MENU (ENG)",
+                "subtitle": "Mon 12:00 PM – 5:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": [
+                    "1ea0ef32-322c-4c7e-976b-9f162daa1ea7",
+                    "c792eb72-0dd5-4303-8ce6-6996ea8c1b18"
+                ]
+            },
+            {
+                "uuid": "f181d92d-1f5d-473d-8655-734e59a0a7da",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "0b7dca73-1688-4bf4-8b34-80b287714ea5",
+                    "b84c24fe-9640-4b98-b006-edcdfa7470d3"
+                ]
+            },
+            {
+                "uuid": "09f4cdd1-bee6-4f02-b668-f0331e80ac7c",
+                "title": "LUNCH MENU (ENG)",
+                "subtitle": "Mon 12:00 PM – 5:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": [
+                    "aef3afb1-e841-4bb1-bf56-83bd50e2bf45",
+                    "d419a440-e3ef-41a9-926b-126ec21afd48"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "d660c6ab-3741-44a5-8634-65a69961514f": {
+                "itemsMap": {
+                    "f306c97d-87be-40fc-80cd-103238c9bd71": {
+                        "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                        "title": "Мідії чилійські (чищені)",
+                        "itemDescription": "",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
+                    },
+                    "64c7b96d-7e17-47da-9d6f-442eb79ec72f": {
+                        "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                        "title": "Моршинська",
+                        "itemDescription": "400 мл.",
+                        "price": 3300,
+                        "suspendUntil": 8640000000
+                    },
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d": {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "title": "Coca Cola",
+                        "itemDescription": "330 мл.",
+                        "price": 3300
+                    },
+                    "514091cc-2359-4bfa-82a2-35bfe9ca06d4": {
+                        "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                        "title": "Лангустин",
+                        "itemDescription": "Аргентинська креветка (1 шт).",
+                        "price": 4400,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
+                        "nutritionalInfo": {}
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "1ea0ef32-322c-4c7e-976b-9f162daa1ea7",
+                        "title": "Страви",
+                        "itemUuids": [
+                            "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                            "f306c97d-87be-40fc-80cd-103238c9bd71"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                                "title": "Лангустин",
+                                "itemDescription": "Аргентинська креветка (1 шт).",
+                                "price": 4400,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                                "title": "Мідії чилійські (чищені)",
+                                "itemDescription": "",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "c792eb72-0dd5-4303-8ce6-6996ea8c1b18",
+                        "title": "Напої",
+                        "itemUuids": [
+                            "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                            "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                                "title": "Моршинська",
+                                "itemDescription": "400 мл.",
+                                "price": 3300,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                                "title": "Coca Cola",
+                                "itemDescription": "330 мл.",
+                                "price": 3300
+                            }
+                        ]
+                    }
+                ]
+            },
+            "f181d92d-1f5d-473d-8655-734e59a0a7da": {
+                "itemsMap": {
+                    "eb61f525-0cfe-4467-a798-0a2abd372400": {
+                        "uuid": "eb61f525-0cfe-4467-a798-0a2abd372400",
+                        "title": "Burger Classic",
+                        "itemDescription": "100% beef.",
+                        "price": 6600,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/80f4a4bd-096f-4799-9678-43f2fe76a2db"
+                    },
+                    "5c437e71-7446-4545-9392-64f89ef1b19d": {
+                        "uuid": "5c437e71-7446-4545-9392-64f89ef1b19d",
+                        "title": "Burger SURF `N` TURF",
+                        "itemDescription": "100% beef, tiger shrimps.",
+                        "price": 7700,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b45ac2e4-981f-45b6-9654-f4922ed3a8b2"
+                    },
+                    "c9407978-4831-4d9e-ae84-75d44f000d67": {
+                        "uuid": "c9407978-4831-4d9e-ae84-75d44f000d67",
+                        "title": "VEGA Burger",
+                        "itemDescription": "With mussels, and Dorblu sauce.",
+                        "price": 7700,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2062ffbe-b29e-4a01-b3f6-b3c34c1a7366"
+                    },
+                    "8384c24d-0f27-4daf-bdbc-45323334b7cc": {
+                        "uuid": "8384c24d-0f27-4daf-bdbc-45323334b7cc",
+                        "title": "Black Sea Prawns",
+                        "itemDescription": "Small.",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2c1f393-d45c-4362-a1b9-2a2d60812142"
+                    },
+                    "2c17160c-c41c-48d9-9a13-bf065ec6e79a": {
+                        "uuid": "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                        "title": "Morshinska",
+                        "itemDescription": "Still water 400 ml.",
+                        "price": 3300
+                    },
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d": {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "title": "Coca Cola",
+                        "itemDescription": "330 мл.",
+                        "price": 3300
+                    },
+                    "db6d6423-eb99-43f3-b9ed-d758bfbfc875": {
+                        "uuid": "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                        "title": "Langoustine",
+                        "itemDescription": "Argentine red shrimp (1 shrimp).",
+                        "price": 4400,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbd5d8-00f6-40b9-b133-438b00dadf6e",
+                        "nutritionalInfo": {}
+                    },
+                    "c17f32bd-13ad-44ff-8ebd-1b8e43aff585": {
+                        "uuid": "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                        "title": "Chilean mussels",
+                        "itemDescription": "",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/edc5a1d0-5d89-4181-93fc-21a4ce5559e1"
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "0b7dca73-1688-4bf4-8b34-80b287714ea5",
+                        "title": "Courses",
+                        "itemUuids": [
+                            "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                            "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                            "eb61f525-0cfe-4467-a798-0a2abd372400",
+                            "5c437e71-7446-4545-9392-64f89ef1b19d",
+                            "c9407978-4831-4d9e-ae84-75d44f000d67",
+                            "8384c24d-0f27-4daf-bdbc-45323334b7cc"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                                "title": "Langoustine",
+                                "itemDescription": "Argentine red shrimp (1 shrimp).",
+                                "price": 4400,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbd5d8-00f6-40b9-b133-438b00dadf6e",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                                "title": "Chilean mussels",
+                                "itemDescription": "",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/edc5a1d0-5d89-4181-93fc-21a4ce5559e1"
+                            },
+                            {
+                                "uuid": "eb61f525-0cfe-4467-a798-0a2abd372400",
+                                "title": "Burger Classic",
+                                "itemDescription": "100% beef.",
+                                "price": 6600,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/80f4a4bd-096f-4799-9678-43f2fe76a2db"
+                            },
+                            {
+                                "uuid": "5c437e71-7446-4545-9392-64f89ef1b19d",
+                                "title": "Burger SURF `N` TURF",
+                                "itemDescription": "100% beef, tiger shrimps.",
+                                "price": 7700,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b45ac2e4-981f-45b6-9654-f4922ed3a8b2"
+                            },
+                            {
+                                "uuid": "c9407978-4831-4d9e-ae84-75d44f000d67",
+                                "title": "VEGA Burger",
+                                "itemDescription": "With mussels, and Dorblu sauce.",
+                                "price": 7700,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2062ffbe-b29e-4a01-b3f6-b3c34c1a7366"
+                            },
+                            {
+                                "uuid": "8384c24d-0f27-4daf-bdbc-45323334b7cc",
+                                "title": "Black Sea Prawns",
+                                "itemDescription": "Small.",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2c1f393-d45c-4362-a1b9-2a2d60812142"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "b84c24fe-9640-4b98-b006-edcdfa7470d3",
+                        "title": "Beverages",
+                        "itemUuids": [
+                            "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                            "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                                "title": "Morshinska",
+                                "itemDescription": "Still water 400 ml.",
+                                "price": 3300
+                            },
+                            {
+                                "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                                "title": "Coca Cola",
+                                "itemDescription": "330 мл.",
+                                "price": 3300
+                            }
+                        ]
+                    }
+                ]
+            },
+            "09f4cdd1-bee6-4f02-b668-f0331e80ac7c": {
+                "itemsMap": {
+                    "2c17160c-c41c-48d9-9a13-bf065ec6e79a": {
+                        "uuid": "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                        "title": "Morshinska",
+                        "itemDescription": "Still water 400 ml.",
+                        "price": 3300
+                    },
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d": {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "title": "Coca Cola",
+                        "itemDescription": "330 мл.",
+                        "price": 3300
+                    },
+                    "db6d6423-eb99-43f3-b9ed-d758bfbfc875": {
+                        "uuid": "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                        "title": "Langoustine",
+                        "itemDescription": "Argentine red shrimp (1 shrimp).",
+                        "price": 4400,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbd5d8-00f6-40b9-b133-438b00dadf6e",
+                        "nutritionalInfo": {}
+                    },
+                    "c17f32bd-13ad-44ff-8ebd-1b8e43aff585": {
+                        "uuid": "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                        "title": "Chilean mussels",
+                        "itemDescription": "",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/edc5a1d0-5d89-4181-93fc-21a4ce5559e1"
+                    },
+                    "8724ae25-8919-4b6b-bc40-ec1a9cad186c": {
+                        "uuid": "8724ae25-8919-4b6b-bc40-ec1a9cad186c",
+                        "title": "Scrambled eggs with salmon",
+                        "itemDescription": "",
+                        "price": 8800,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e197f63f-0c3a-40ac-b869-61530887e8cc"
+                    },
+                    "efb2accf-df27-4fcd-a9a6-14aab9fe01e8": {
+                        "uuid": "efb2accf-df27-4fcd-a9a6-14aab9fe01e8",
+                        "title": "Scrambled eggs with brie",
+                        "itemDescription": "",
+                        "price": 8800,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4b5c54d-ea6e-4eb8-9bda-e0f237ebe9c1"
+                    },
+                    "34f311b1-4b84-4a5f-98fe-b506bcbd2982": {
+                        "uuid": "34f311b1-4b84-4a5f-98fe-b506bcbd2982",
+                        "title": "Scrambled eggs with hunter`s (smoked) sausages",
+                        "itemDescription": "",
+                        "price": 8800,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e45e2f94-d6a2-4554-9d1b-d819451ad398"
+                    },
+                    "4f7ece15-4162-47a2-af7e-829c6db67090": {
+                        "uuid": "4f7ece15-4162-47a2-af7e-829c6db67090",
+                        "title": "Scrambled eggs with mussels",
+                        "itemDescription": "",
+                        "price": 8800,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f251dd3f-53fd-4586-a4d4-410bed3f6f4a"
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "aef3afb1-e841-4bb1-bf56-83bd50e2bf45",
+                        "title": "Courses",
+                        "itemUuids": [
+                            "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                            "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                            "8724ae25-8919-4b6b-bc40-ec1a9cad186c",
+                            "efb2accf-df27-4fcd-a9a6-14aab9fe01e8",
+                            "34f311b1-4b84-4a5f-98fe-b506bcbd2982",
+                            "4f7ece15-4162-47a2-af7e-829c6db67090"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                                "title": "Langoustine",
+                                "itemDescription": "Argentine red shrimp (1 shrimp).",
+                                "price": 4400,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbd5d8-00f6-40b9-b133-438b00dadf6e",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                                "title": "Chilean mussels",
+                                "itemDescription": "",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/edc5a1d0-5d89-4181-93fc-21a4ce5559e1"
+                            },
+                            {
+                                "uuid": "8724ae25-8919-4b6b-bc40-ec1a9cad186c",
+                                "title": "Scrambled eggs with salmon",
+                                "itemDescription": "",
+                                "price": 8800,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e197f63f-0c3a-40ac-b869-61530887e8cc"
+                            },
+                            {
+                                "uuid": "efb2accf-df27-4fcd-a9a6-14aab9fe01e8",
+                                "title": "Scrambled eggs with brie",
+                                "itemDescription": "",
+                                "price": 8800,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4b5c54d-ea6e-4eb8-9bda-e0f237ebe9c1"
+                            },
+                            {
+                                "uuid": "34f311b1-4b84-4a5f-98fe-b506bcbd2982",
+                                "title": "Scrambled eggs with hunter`s (smoked) sausages",
+                                "itemDescription": "",
+                                "price": 8800,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e45e2f94-d6a2-4554-9d1b-d819451ad398"
+                            },
+                            {
+                                "uuid": "4f7ece15-4162-47a2-af7e-829c6db67090",
+                                "title": "Scrambled eggs with mussels",
+                                "itemDescription": "",
+                                "price": 8800,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f251dd3f-53fd-4586-a4d4-410bed3f6f4a"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d419a440-e3ef-41a9-926b-126ec21afd48",
+                        "title": "Beverages",
+                        "itemUuids": [
+                            "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                            "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                                "title": "Morshinska",
+                                "itemDescription": "Still water 400 ml.",
+                                "price": 3300
+                            },
+                            {
+                                "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                                "title": "Coca Cola",
+                                "itemDescription": "330 мл.",
+                                "price": 3300
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbd6ee35-2782-4131-a6e5-99651af20a1b": {
+                "itemsMap": {
+                    "64c7b96d-7e17-47da-9d6f-442eb79ec72f": {
+                        "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                        "title": "Моршинська",
+                        "itemDescription": "400 мл.",
+                        "price": 3300,
+                        "suspendUntil": 8640000000
+                    },
+                    "518fe135-224d-4d05-9d99-9cf8178da17f": {
+                        "uuid": "518fe135-224d-4d05-9d99-9cf8178da17f",
+                        "title": "Креветки чорноморські",
+                        "itemDescription": "Маленькі.",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/150deb68-8160-4dac-ac0f-84c4e972843a"
+                    },
+                    "a3bf7834-6e2a-4daa-8dd2-46efcdbea7e7": {
+                        "uuid": "a3bf7834-6e2a-4daa-8dd2-46efcdbea7e7",
+                        "title": "Картопляні діпи",
+                        "itemDescription": "Картопля, сіль",
+                        "price": 4400
+                    },
+                    "514091cc-2359-4bfa-82a2-35bfe9ca06d4": {
+                        "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                        "title": "Лангустин",
+                        "itemDescription": "Аргентинська креветка (1 шт).",
+                        "price": 4400,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
+                        "nutritionalInfo": {}
+                    },
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d": {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "title": "Coca Cola",
+                        "itemDescription": "330 мл.",
+                        "price": 3300
+                    },
+                    "f306c97d-87be-40fc-80cd-103238c9bd71": {
+                        "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                        "title": "Мідії чилійські (чищені)",
+                        "itemDescription": "",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
+                    },
+                    "556b9bc4-a788-4994-853d-66e8c1ac3ce1": {
+                        "uuid": "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                        "title": "Бургер SURF ’N’ TURF",
+                        "itemDescription": "100% яловичина, тигрові креветки.",
+                        "price": 7700,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b45ac2e4-981f-45b6-9654-f4922ed3a8b2"
+                    },
+                    "1ef54a73-f2ec-42b1-a79a-90a1931d3cd2": {
+                        "uuid": "1ef54a73-f2ec-42b1-a79a-90a1931d3cd2",
+                        "title": "Бургер VEGA",
+                        "itemDescription": "З мідіями та соусом Дор Блю.",
+                        "price": 7700,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2062ffbe-b29e-4a01-b3f6-b3c34c1a7366"
+                    },
+                    "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d": {
+                        "uuid": "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                        "title": "Бургер Classic",
+                        "itemDescription": "100% яловичина.",
+                        "price": 6600,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/15f99767-128d-49ee-ad9c-846bb6fb3aad"
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "ede83027-7932-48a9-9753-ce1d6a56380f",
+                        "title": "Популярне",
+                        "itemUuids": [
+                            "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                            "f306c97d-87be-40fc-80cd-103238c9bd71",
+                            "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                            "518fe135-224d-4d05-9d99-9cf8178da17f",
+                            "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                            "a3bf7834-6e2a-4daa-8dd2-46efcdbea7e7"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                                "title": "Лангустин",
+                                "itemDescription": "Аргентинська креветка (1 шт).",
+                                "price": 4400,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                                "title": "Мідії чилійські (чищені)",
+                                "itemDescription": "",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
+                            },
+                            {
+                                "uuid": "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                                "title": "Бургер SURF ’N’ TURF",
+                                "itemDescription": "100% яловичина, тигрові креветки.",
+                                "price": 7700,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b45ac2e4-981f-45b6-9654-f4922ed3a8b2"
+                            },
+                            {
+                                "uuid": "518fe135-224d-4d05-9d99-9cf8178da17f",
+                                "title": "Креветки чорноморські",
+                                "itemDescription": "Маленькі.",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/150deb68-8160-4dac-ac0f-84c4e972843a"
+                            },
+                            {
+                                "uuid": "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                                "title": "Бургер Classic",
+                                "itemDescription": "100% яловичина.",
+                                "price": 6600,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/15f99767-128d-49ee-ad9c-846bb6fb3aad"
+                            },
+                            {
+                                "uuid": "a3bf7834-6e2a-4daa-8dd2-46efcdbea7e7",
+                                "title": "Картопляні діпи",
+                                "itemDescription": "Картопля, сіль",
+                                "price": 4400
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "93050ed4-8bf0-49bb-b229-fa9cbf7483bc",
+                        "title": "Страви",
+                        "itemUuids": [
+                            "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                            "f306c97d-87be-40fc-80cd-103238c9bd71",
+                            "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                            "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                            "1ef54a73-f2ec-42b1-a79a-90a1931d3cd2",
+                            "518fe135-224d-4d05-9d99-9cf8178da17f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                                "title": "Лангустин",
+                                "itemDescription": "Аргентинська креветка (1 шт).",
+                                "price": 4400,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                                "title": "Мідії чилійські (чищені)",
+                                "itemDescription": "",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
+                            },
+                            {
+                                "uuid": "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                                "title": "Бургер Classic",
+                                "itemDescription": "100% яловичина.",
+                                "price": 6600,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/15f99767-128d-49ee-ad9c-846bb6fb3aad"
+                            },
+                            {
+                                "uuid": "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                                "title": "Бургер SURF ’N’ TURF",
+                                "itemDescription": "100% яловичина, тигрові креветки.",
+                                "price": 7700,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b45ac2e4-981f-45b6-9654-f4922ed3a8b2"
+                            },
+                            {
+                                "uuid": "1ef54a73-f2ec-42b1-a79a-90a1931d3cd2",
+                                "title": "Бургер VEGA",
+                                "itemDescription": "З мідіями та соусом Дор Блю.",
+                                "price": 7700,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2062ffbe-b29e-4a01-b3f6-b3c34c1a7366"
+                            },
+                            {
+                                "uuid": "518fe135-224d-4d05-9d99-9cf8178da17f",
+                                "title": "Креветки чорноморські",
+                                "itemDescription": "Маленькі.",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/150deb68-8160-4dac-ac0f-84c4e972843a"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "6bcdf02d-48f0-45a2-90e8-5a626b267963",
+                        "title": "Напої",
+                        "itemUuids": [
+                            "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                            "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                                "title": "Моршинська",
+                                "itemDescription": "400 мл.",
+                                "price": 3300,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                                "title": "Coca Cola",
+                                "itemDescription": "330 мл.",
+                                "price": 3300
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "ede83027-7932-48a9-9753-ce1d6a56380f": {
+                "uuid": "ede83027-7932-48a9-9753-ce1d6a56380f",
+                "title": "Популярне",
+                "itemUuids": [
+                    "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                    "f306c97d-87be-40fc-80cd-103238c9bd71",
+                    "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                    "518fe135-224d-4d05-9d99-9cf8178da17f",
+                    "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                    "a3bf7834-6e2a-4daa-8dd2-46efcdbea7e7"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "518fe135-224d-4d05-9d99-9cf8178da17f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a3bf7834-6e2a-4daa-8dd2-46efcdbea7e7",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "aef3afb1-e841-4bb1-bf56-83bd50e2bf45": {
+                "uuid": "aef3afb1-e841-4bb1-bf56-83bd50e2bf45",
+                "title": "Courses",
+                "itemUuids": [
+                    "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                    "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                    "8724ae25-8919-4b6b-bc40-ec1a9cad186c",
+                    "efb2accf-df27-4fcd-a9a6-14aab9fe01e8",
+                    "34f311b1-4b84-4a5f-98fe-b506bcbd2982",
+                    "4f7ece15-4162-47a2-af7e-829c6db67090"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8724ae25-8919-4b6b-bc40-ec1a9cad186c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "efb2accf-df27-4fcd-a9a6-14aab9fe01e8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "34f311b1-4b84-4a5f-98fe-b506bcbd2982",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4f7ece15-4162-47a2-af7e-829c6db67090",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d419a440-e3ef-41a9-926b-126ec21afd48": {
+                "uuid": "d419a440-e3ef-41a9-926b-126ec21afd48",
+                "title": "Beverages",
+                "itemUuids": [
+                    "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "c792eb72-0dd5-4303-8ce6-6996ea8c1b18": {
+                "uuid": "c792eb72-0dd5-4303-8ce6-6996ea8c1b18",
+                "title": "Напої",
+                "itemUuids": [
+                    "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "6bcdf02d-48f0-45a2-90e8-5a626b267963": {
+                "uuid": "6bcdf02d-48f0-45a2-90e8-5a626b267963",
+                "title": "Напої",
+                "itemUuids": [
+                    "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "1ea0ef32-322c-4c7e-976b-9f162daa1ea7": {
+                "uuid": "1ea0ef32-322c-4c7e-976b-9f162daa1ea7",
+                "title": "Страви",
+                "itemUuids": [
+                    "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                    "f306c97d-87be-40fc-80cd-103238c9bd71"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "0b7dca73-1688-4bf4-8b34-80b287714ea5": {
+                "uuid": "0b7dca73-1688-4bf4-8b34-80b287714ea5",
+                "title": "Courses",
+                "itemUuids": [
+                    "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                    "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                    "eb61f525-0cfe-4467-a798-0a2abd372400",
+                    "5c437e71-7446-4545-9392-64f89ef1b19d",
+                    "c9407978-4831-4d9e-ae84-75d44f000d67",
+                    "8384c24d-0f27-4daf-bdbc-45323334b7cc"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "db6d6423-eb99-43f3-b9ed-d758bfbfc875",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c17f32bd-13ad-44ff-8ebd-1b8e43aff585",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "eb61f525-0cfe-4467-a798-0a2abd372400",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5c437e71-7446-4545-9392-64f89ef1b19d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c9407978-4831-4d9e-ae84-75d44f000d67",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8384c24d-0f27-4daf-bdbc-45323334b7cc",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "b84c24fe-9640-4b98-b006-edcdfa7470d3": {
+                "uuid": "b84c24fe-9640-4b98-b006-edcdfa7470d3",
+                "title": "Beverages",
+                "itemUuids": [
+                    "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                    "b081a78d-58d5-4321-9e70-3de02cf82f4d"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2c17160c-c41c-48d9-9a13-bf065ec6e79a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "93050ed4-8bf0-49bb-b229-fa9cbf7483bc": {
+                "uuid": "93050ed4-8bf0-49bb-b229-fa9cbf7483bc",
+                "title": "Страви",
+                "itemUuids": [
+                    "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                    "f306c97d-87be-40fc-80cd-103238c9bd71",
+                    "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                    "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                    "1ef54a73-f2ec-42b1-a79a-90a1931d3cd2",
+                    "518fe135-224d-4d05-9d99-9cf8178da17f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5b08a9a2-82c7-42a5-b8d6-eca64f413e1d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "556b9bc4-a788-4994-853d-66e8c1ac3ce1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1ef54a73-f2ec-42b1-a79a-90a1931d3cd2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "518fe135-224d-4d05-9d99-9cf8178da17f",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.46246019999999,
+            "longitude": 30.5189963,
+            "address": {
+                "address1": "Petra Sahaidachnoho St, 41",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "04070",
+                "region": "",
+                "formattedAddress": "Petra Sahaidachnoho St, 41, Kyiv, 04070"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380992891511"
+        },
+        "priceBucket": "₴",
+        "slug": "naprosecco-oyster-&-co",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/19365474-ae9c-46a8-806b-c004c51efcbf",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/a92b5a78-c970-421d-a084-30db0992c4d5",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/267d42f7-8317-488d-bfe4-ce1f83bf48f8",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/d3197967-db32-4415-a9d8-8b765a10ddb2",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(81)</span></span>",
+                "accessibilityText": "Rated 4.4 out of 5 stars based on 81 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴ • Seafood • Burger • European</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "40–50 MINS",
+                "textFormat": "<span>40–50 MINS</span>",
+                "accessibilityText": "Delivered in 40 to 50 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 40,
+            "max": 50,
+            "raw": 45
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Sunday",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Monday - Friday",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1020,
+                            "title": "LUNCH MENU (ENG)"
+                        },
+                        {
+                            "startTime": 1020,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1020,
+                            "title": "LUNCH MENU (ENG)"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Saturday",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

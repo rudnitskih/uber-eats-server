@@ -1,0 +1,2523 @@
+{
+    "store": {
+        "uuid": "ebb14e0c-96f1-44c1-ae09-a72e3d65f7c3",
+        "title": "The Butcher Burgers",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "American",
+                "name": "Американська",
+                "keyName": "American"
+            },
+            {
+                "uuid": "Burger",
+                "name": "Бургери",
+                "keyName": "Burger"
+            },
+            {
+                "uuid": "Salad",
+                "name": "Салати",
+                "keyName": "Salad"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "504e8647-415b-445f-a2b5-f518913aa201",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:30 AM – 8:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "211b289e-ce7a-46de-a2be-2f1242e85820",
+                    "7df9cdb8-5c23-41c2-9d58-c75d3793b888",
+                    "f83947a3-044e-4236-889b-00e12babaf95",
+                    "7feb675c-b0f7-4b60-b271-2b11cce8ae41",
+                    "29c394bf-909f-4393-a0e4-5c5fa2e3f30d"
+                ]
+            },
+            {
+                "uuid": "31755200-01c8-4a36-b4b6-19d117c15598",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:30 AM – 8:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "36cdafd8-caca-41d2-842a-cc4ffacf9d1a",
+                    "74e91148-8efe-4c1d-a949-92e250c1a46d",
+                    "0963eab6-5c30-461a-89ce-df5fd8a30453",
+                    "68f58363-a518-445b-85e2-2d85f60d4801",
+                    "3bf56766-2da9-4202-acf2-6416ef4a1da8"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "504e8647-415b-445f-a2b5-f518913aa201": {
+                "itemsMap": {
+                    "946a82f8-f056-488b-b884-24cf2738aa13": {
+                        "uuid": "946a82f8-f056-488b-b884-24cf2738aa13",
+                        "title": "Сирні палички",
+                        "itemDescription": "200г.",
+                        "price": 6500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "5158e2e5-64e3-49db-8e37-0b630f84ab1b": {
+                        "uuid": "5158e2e5-64e3-49db-8e37-0b630f84ab1b",
+                        "title": "Fanta",
+                        "itemDescription": "250мл.",
+                        "price": 2100,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0c72a4e1-a836-44df-8bdb-a4b36912fee7": {
+                        "uuid": "0c72a4e1-a836-44df-8bdb-a4b36912fee7",
+                        "title": "Бургер Класика",
+                        "itemDescription": "Булка, помідор, айсберг,котлета з яловичини, сир чеддер, кетчуп, майонез (370г).",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e517e8d4-a338-4ed5-9c31-b8cd915d6107",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "db176f9a-77dd-405a-a4db-5ae85f9a623c": {
+                        "uuid": "db176f9a-77dd-405a-a4db-5ae85f9a623c",
+                        "title": "Салат коул слоу",
+                        "itemDescription": "150г.",
+                        "price": 3000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "afc7693e-801f-43d3-8fcd-39d58d534804": {
+                        "uuid": "afc7693e-801f-43d3-8fcd-39d58d534804",
+                        "title": "Дос Амігос бургер",
+                        "itemDescription": "Булка, перець халапельо, перець болгарський,помідор, чіпотле,айсберг, 2 котлети з яловичини,огірок солоний, сир чеддер, соус “Барбекю”, бекон (550г).",
+                        "price": 14500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/427b03d6-0519-44bc-b5ef-5210737148d3",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "8b42a1b8-3f15-4b41-969c-fdb11c85ed89": {
+                        "uuid": "8b42a1b8-3f15-4b41-969c-fdb11c85ed89",
+                        "title": "Бургер в тортилья",
+                        "itemDescription": "Котлета з яловичини, тортилья, болгарський перець, мексиканський соус, айсберг, помідор (270г).",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4f733c0-38bc-4264-8460-9691be2b76f9",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "09a4057b-6088-4007-8100-a6b5d486fccf": {
+                        "uuid": "09a4057b-6088-4007-8100-a6b5d486fccf",
+                        "title": "Гриби у фритюрі",
+                        "itemDescription": "200г.",
+                        "price": 4000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "7201d416-3b16-47ee-b687-6a678022c6d7": {
+                        "uuid": "7201d416-3b16-47ee-b687-6a678022c6d7",
+                        "title": "Тако",
+                        "itemDescription": "Тортілья, халапеньйо, фарш з яловичини, моцарела,солодкий чилі, айсберг (200г).",
+                        "price": 8000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "9a1b0a88-b7dd-4020-b1d1-6fb9faeac5d2": {
+                        "uuid": "9a1b0a88-b7dd-4020-b1d1-6fb9faeac5d2",
+                        "title": "Чікен Бургер",
+                        "itemDescription": "Булка, помідор, айсберг, куряча котлета,сир чеддер, кетчуп, майонез (330г).",
+                        "price": 6500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "7d587bd1-b403-42d9-a47e-e14656523982": {
+                        "uuid": "7d587bd1-b403-42d9-a47e-e14656523982",
+                        "title": "Грецький салат",
+                        "itemDescription": "150г.",
+                        "price": 4000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "f21ee000-7ed4-45da-af4e-5b1222fa71c2": {
+                        "uuid": "f21ee000-7ed4-45da-af4e-5b1222fa71c2",
+                        "title": "Овочі гриль",
+                        "itemDescription": "Баклажан, цукіні, перець болгарський, печериці, помідор,оливки, айсберг, цибуля, соус “Чіпотле” (300г).",
+                        "price": 4500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "3c0a2c7d-a6cc-440d-a83e-82a290953dde": {
+                        "uuid": "3c0a2c7d-a6cc-440d-a83e-82a290953dde",
+                        "title": "соус Мойонез",
+                        "itemDescription": "",
+                        "price": 0,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "be4ee96c-dc70-425b-b572-38c41aeefdf1": {
+                        "uuid": "be4ee96c-dc70-425b-b572-38c41aeefdf1",
+                        "title": "Барбекю Бургер",
+                        "itemDescription": "Булка, “Барбекю” соус, айсберг, печериці, бекон,котлета з яловичини, цибуля, сир чеддер, каперси (380г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/922ba5db-dd40-4811-af0b-3bdcb6caec30",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "71b9bc9a-f180-4b52-8ac5-5f0b4d99321e": {
+                        "uuid": "71b9bc9a-f180-4b52-8ac5-5f0b4d99321e",
+                        "title": "Coca Cola Light",
+                        "itemDescription": "250/500мл.",
+                        "price": 2100,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "29d19aad-6cae-4377-8ffd-605d7c547d46"
+                        ]
+                    },
+                    "80199872-4633-4915-8a74-49c12b3cfa49": {
+                        "uuid": "80199872-4633-4915-8a74-49c12b3cfa49",
+                        "title": "Стейк бургер",
+                        "itemDescription": "Булочка, стейк з яловичини, печериці, бекон,айсберг, вершково-гірчичний соус, моцарела (380г).",
+                        "price": 9900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "4b08cc9f-2609-4c4d-816d-38106a56362b": {
+                        "uuid": "4b08cc9f-2609-4c4d-816d-38106a56362b",
+                        "title": "Сік Rich",
+                        "itemDescription": "Смак на вибір (200мл).",
+                        "price": 2800,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "fbd10ca3-77f3-4ee7-b764-adf20e8fb91d"
+                        ]
+                    },
+                    "4da24c35-1ee8-441f-bd77-bc834978cd40": {
+                        "uuid": "4da24c35-1ee8-441f-bd77-bc834978cd40",
+                        "title": "Twins Burgers",
+                        "itemDescription": "Булка, яловичина, айсберг, помідор, огірок, соус тартар. В порції два бургери (2х230г).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "c3337930-fe63-42fe-a126-95190391113e": {
+                        "uuid": "c3337930-fe63-42fe-a126-95190391113e",
+                        "title": "Картопля по-селянськи",
+                        "itemDescription": "Картопля по-селянськи, печена цибуля, соус сирний (200г).",
+                        "price": 4500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/90ea6d32-4b05-414e-b8bc-5c76348b0dfc",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "01b5bc4f-ce35-4f38-88ca-410442666c2a": {
+                        "uuid": "01b5bc4f-ce35-4f38-88ca-410442666c2a",
+                        "title": "Бургер The Butchers",
+                        "itemDescription": "Булка, айсберг, каперси, майонез, соус BBQ, соус сирний, котлета з яловичини, бекон, сир чеддер (350г).",
+                        "price": 9500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "de4f4bac-4dbc-4682-90c1-efed92063e1a": {
+                        "uuid": "de4f4bac-4dbc-4682-90c1-efed92063e1a",
+                        "title": "соус Сирний",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "28669702-c52a-47dc-805e-9711b8aa04c6": {
+                        "uuid": "28669702-c52a-47dc-805e-9711b8aa04c6",
+                        "title": "Бургер Вега",
+                        "itemDescription": "Булка, печериці, соус “Гуокомоле”, перець болгарський, цукіні, кабачок, баклажан, помідор, оливки, айсберг, хашбраун (350г).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/12fe04b6-fe88-4a7a-84f4-28a8ec9ba261",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "562b885c-8f2c-43fd-b655-1681cdbbdb9a": {
+                        "uuid": "562b885c-8f2c-43fd-b655-1681cdbbdb9a",
+                        "title": "Картопля фрі",
+                        "itemDescription": "Середня (100г) або велика (180г).",
+                        "price": 2900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "e293ad5c-6db1-4c8e-96b8-2c2f3c01b522"
+                        ]
+                    },
+                    "ae87cab7-a33f-480d-a9e2-9bf9dad727e0": {
+                        "uuid": "ae87cab7-a33f-480d-a9e2-9bf9dad727e0",
+                        "title": "Баварський бургер",
+                        "itemDescription": "Булка, айсберг, печериці, солоний огірок, ковбаски, соус \"BBQ\", сирний соус ( 290 г).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "a35dd1a6-fff1-42d7-b641-a4d581c1d5bd": {
+                        "uuid": "a35dd1a6-fff1-42d7-b641-a4d581c1d5bd",
+                        "title": "Coca Cola",
+                        "itemDescription": "250/500мл.",
+                        "price": 2100,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "29d19aad-6cae-4377-8ffd-605d7c547d46"
+                        ]
+                    },
+                    "dd336c63-e134-4604-bb1f-c90b76aeb1d5": {
+                        "uuid": "dd336c63-e134-4604-bb1f-c90b76aeb1d5",
+                        "title": "Бургер з мідіями",
+                        "itemDescription": "Булка, мідії, морква, айсберг, хашбраун, соус тартар (370г).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "07eaf452-3aca-4b48-a160-bf2c596cac55": {
+                        "uuid": "07eaf452-3aca-4b48-a160-bf2c596cac55",
+                        "title": "соус Солодкий чілі",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "672e0d50-c457-4d2f-8272-dea582f3f5fe": {
+                        "uuid": "672e0d50-c457-4d2f-8272-dea582f3f5fe",
+                        "title": "соус Кетчуп",
+                        "itemDescription": "",
+                        "price": 0,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "c84779cd-55b3-4739-a693-3cd714a21b4e": {
+                        "uuid": "c84779cd-55b3-4739-a693-3cd714a21b4e",
+                        "title": "Гавайський бургер",
+                        "itemDescription": "Булка, помідор, айсберг, котлета з яловичини, мед, соус “Теріякі”, ананас (370г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e1171027-835e-4d86-af0a-d797c2fb3792",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "cf6d811b-d630-40a7-86e5-39d821141707": {
+                        "uuid": "cf6d811b-d630-40a7-86e5-39d821141707",
+                        "title": "Бургер з індички",
+                        "itemDescription": "Булка, стейк з індички, помідор, огірок свіжий, айсберг, майонез (320г).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "2657012d-a393-4809-a5b8-2594bb057361": {
+                        "uuid": "2657012d-a393-4809-a5b8-2594bb057361",
+                        "title": "Гамбургер",
+                        "itemDescription": "Булка, помідор, айсберг,котлета з яловичини, сир чеддер, кетчуп, майонез (330г).",
+                        "price": 7000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "91b325e1-fa7b-49bb-9f1a-74d7b9416a1b": {
+                        "uuid": "91b325e1-fa7b-49bb-9f1a-74d7b9416a1b",
+                        "title": "соус BBQ",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0d5eeae8-691f-4fe7-90e3-b1efd7d590fb": {
+                        "uuid": "0d5eeae8-691f-4fe7-90e3-b1efd7d590fb",
+                        "title": "Бургер Хані Бі",
+                        "itemDescription": "Булка, медово-гірчичний соус, айсберг, яйце смажене, перець болгарський, куряча котлета, гірчичний соус (380г).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0438d3e0-0c18-483c-96e3-10c7a67c5c61": {
+                        "uuid": "0438d3e0-0c18-483c-96e3-10c7a67c5c61",
+                        "title": "Овочі гриль зі стейком",
+                        "itemDescription": "Баклажан, цукіні, перець болгарський, печериці, помідор,оливки, айсберг, цибуля, соус “Чіпотле”, стейк з яловичини (420г).",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1dd11098-e4fa-473b-9502-382d8320e421",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0870adcb-076f-415c-bd09-e427a28cd1bc": {
+                        "uuid": "0870adcb-076f-415c-bd09-e427a28cd1bc",
+                        "title": "Чіз Бургер",
+                        "itemDescription": "Булка, котлета з яловичини, соус “Блю Чіз”, сир моцарела, сир чеддер, айсберг, корнюшони, перець болгарський (380г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/211c6761-f0b6-4be2-985c-4d04a8f09151",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "5ff44cf4-44db-4e68-89b5-13acdc331806": {
+                        "uuid": "5ff44cf4-44db-4e68-89b5-13acdc331806",
+                        "title": "соус Теріякі",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "211b289e-ce7a-46de-a2be-2f1242e85820",
+                        "title": "Бургери",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "2657012d-a393-4809-a5b8-2594bb057361",
+                            "9a1b0a88-b7dd-4020-b1d1-6fb9faeac5d2",
+                            "0c72a4e1-a836-44df-8bdb-a4b36912fee7",
+                            "0d5eeae8-691f-4fe7-90e3-b1efd7d590fb",
+                            "28669702-c52a-47dc-805e-9711b8aa04c6",
+                            "0870adcb-076f-415c-bd09-e427a28cd1bc",
+                            "be4ee96c-dc70-425b-b572-38c41aeefdf1",
+                            "afc7693e-801f-43d3-8fcd-39d58d534804",
+                            "8b42a1b8-3f15-4b41-969c-fdb11c85ed89",
+                            "c84779cd-55b3-4739-a693-3cd714a21b4e",
+                            "80199872-4633-4915-8a74-49c12b3cfa49",
+                            "cf6d811b-d630-40a7-86e5-39d821141707",
+                            "dd336c63-e134-4604-bb1f-c90b76aeb1d5",
+                            "01b5bc4f-ce35-4f38-88ca-410442666c2a",
+                            "4da24c35-1ee8-441f-bd77-bc834978cd40",
+                            "ae87cab7-a33f-480d-a9e2-9bf9dad727e0"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2657012d-a393-4809-a5b8-2594bb057361",
+                                "title": "Гамбургер",
+                                "itemDescription": "Булка, помідор, айсберг,котлета з яловичини, сир чеддер, кетчуп, майонез (330г).",
+                                "price": 7000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "9a1b0a88-b7dd-4020-b1d1-6fb9faeac5d2",
+                                "title": "Чікен Бургер",
+                                "itemDescription": "Булка, помідор, айсберг, куряча котлета,сир чеддер, кетчуп, майонез (330г).",
+                                "price": 6500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "0c72a4e1-a836-44df-8bdb-a4b36912fee7",
+                                "title": "Бургер Класика",
+                                "itemDescription": "Булка, помідор, айсберг,котлета з яловичини, сир чеддер, кетчуп, майонез (370г).",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e517e8d4-a338-4ed5-9c31-b8cd915d6107",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "0d5eeae8-691f-4fe7-90e3-b1efd7d590fb",
+                                "title": "Бургер Хані Бі",
+                                "itemDescription": "Булка, медово-гірчичний соус, айсберг, яйце смажене, перець болгарський, куряча котлета, гірчичний соус (380г).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "28669702-c52a-47dc-805e-9711b8aa04c6",
+                                "title": "Бургер Вега",
+                                "itemDescription": "Булка, печериці, соус “Гуокомоле”, перець болгарський, цукіні, кабачок, баклажан, помідор, оливки, айсберг, хашбраун (350г).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/12fe04b6-fe88-4a7a-84f4-28a8ec9ba261",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "0870adcb-076f-415c-bd09-e427a28cd1bc",
+                                "title": "Чіз Бургер",
+                                "itemDescription": "Булка, котлета з яловичини, соус “Блю Чіз”, сир моцарела, сир чеддер, айсберг, корнюшони, перець болгарський (380г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/211c6761-f0b6-4be2-985c-4d04a8f09151",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "be4ee96c-dc70-425b-b572-38c41aeefdf1",
+                                "title": "Барбекю Бургер",
+                                "itemDescription": "Булка, “Барбекю” соус, айсберг, печериці, бекон,котлета з яловичини, цибуля, сир чеддер, каперси (380г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/922ba5db-dd40-4811-af0b-3bdcb6caec30",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "afc7693e-801f-43d3-8fcd-39d58d534804",
+                                "title": "Дос Амігос бургер",
+                                "itemDescription": "Булка, перець халапельо, перець болгарський,помідор, чіпотле,айсберг, 2 котлети з яловичини,огірок солоний, сир чеддер, соус “Барбекю”, бекон (550г).",
+                                "price": 14500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/427b03d6-0519-44bc-b5ef-5210737148d3",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "8b42a1b8-3f15-4b41-969c-fdb11c85ed89",
+                                "title": "Бургер в тортилья",
+                                "itemDescription": "Котлета з яловичини, тортилья, болгарський перець, мексиканський соус, айсберг, помідор (270г).",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4f733c0-38bc-4264-8460-9691be2b76f9",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "c84779cd-55b3-4739-a693-3cd714a21b4e",
+                                "title": "Гавайський бургер",
+                                "itemDescription": "Булка, помідор, айсберг, котлета з яловичини, мед, соус “Теріякі”, ананас (370г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e1171027-835e-4d86-af0a-d797c2fb3792",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "80199872-4633-4915-8a74-49c12b3cfa49",
+                                "title": "Стейк бургер",
+                                "itemDescription": "Булочка, стейк з яловичини, печериці, бекон,айсберг, вершково-гірчичний соус, моцарела (380г).",
+                                "price": 9900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "cf6d811b-d630-40a7-86e5-39d821141707",
+                                "title": "Бургер з індички",
+                                "itemDescription": "Булка, стейк з індички, помідор, огірок свіжий, айсберг, майонез (320г).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "dd336c63-e134-4604-bb1f-c90b76aeb1d5",
+                                "title": "Бургер з мідіями",
+                                "itemDescription": "Булка, мідії, морква, айсберг, хашбраун, соус тартар (370г).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "01b5bc4f-ce35-4f38-88ca-410442666c2a",
+                                "title": "Бургер The Butchers",
+                                "itemDescription": "Булка, айсберг, каперси, майонез, соус BBQ, соус сирний, котлета з яловичини, бекон, сир чеддер (350г).",
+                                "price": 9500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "4da24c35-1ee8-441f-bd77-bc834978cd40",
+                                "title": "Twins Burgers",
+                                "itemDescription": "Булка, яловичина, айсберг, помідор, огірок, соус тартар. В порції два бургери (2х230г).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "ae87cab7-a33f-480d-a9e2-9bf9dad727e0",
+                                "title": "Баварський бургер",
+                                "itemDescription": "Булка, айсберг, печериці, солоний огірок, ковбаски, соус \"BBQ\", сирний соус ( 290 г).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "7df9cdb8-5c23-41c2-9d58-c75d3793b888",
+                        "title": "Гарячі закуски",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "f21ee000-7ed4-45da-af4e-5b1222fa71c2",
+                            "0438d3e0-0c18-483c-96e3-10c7a67c5c61",
+                            "946a82f8-f056-488b-b884-24cf2738aa13",
+                            "09a4057b-6088-4007-8100-a6b5d486fccf",
+                            "562b885c-8f2c-43fd-b655-1681cdbbdb9a",
+                            "c3337930-fe63-42fe-a126-95190391113e",
+                            "7201d416-3b16-47ee-b687-6a678022c6d7"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f21ee000-7ed4-45da-af4e-5b1222fa71c2",
+                                "title": "Овочі гриль",
+                                "itemDescription": "Баклажан, цукіні, перець болгарський, печериці, помідор,оливки, айсберг, цибуля, соус “Чіпотле” (300г).",
+                                "price": 4500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "0438d3e0-0c18-483c-96e3-10c7a67c5c61",
+                                "title": "Овочі гриль зі стейком",
+                                "itemDescription": "Баклажан, цукіні, перець болгарський, печериці, помідор,оливки, айсберг, цибуля, соус “Чіпотле”, стейк з яловичини (420г).",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1dd11098-e4fa-473b-9502-382d8320e421",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "946a82f8-f056-488b-b884-24cf2738aa13",
+                                "title": "Сирні палички",
+                                "itemDescription": "200г.",
+                                "price": 6500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "09a4057b-6088-4007-8100-a6b5d486fccf",
+                                "title": "Гриби у фритюрі",
+                                "itemDescription": "200г.",
+                                "price": 4000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "562b885c-8f2c-43fd-b655-1681cdbbdb9a",
+                                "title": "Картопля фрі",
+                                "itemDescription": "Середня (100г) або велика (180г).",
+                                "price": 2900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "e293ad5c-6db1-4c8e-96b8-2c2f3c01b522"
+                                ]
+                            },
+                            {
+                                "uuid": "c3337930-fe63-42fe-a126-95190391113e",
+                                "title": "Картопля по-селянськи",
+                                "itemDescription": "Картопля по-селянськи, печена цибуля, соус сирний (200г).",
+                                "price": 4500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/90ea6d32-4b05-414e-b8bc-5c76348b0dfc",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "7201d416-3b16-47ee-b687-6a678022c6d7",
+                                "title": "Тако",
+                                "itemDescription": "Тортілья, халапеньйо, фарш з яловичини, моцарела,солодкий чилі, айсберг (200г).",
+                                "price": 8000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "f83947a3-044e-4236-889b-00e12babaf95",
+                        "title": "Салати",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "db176f9a-77dd-405a-a4db-5ae85f9a623c",
+                            "7d587bd1-b403-42d9-a47e-e14656523982"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "db176f9a-77dd-405a-a4db-5ae85f9a623c",
+                                "title": "Салат коул слоу",
+                                "itemDescription": "150г.",
+                                "price": 3000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "7d587bd1-b403-42d9-a47e-e14656523982",
+                                "title": "Грецький салат",
+                                "itemDescription": "150г.",
+                                "price": 4000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "7feb675c-b0f7-4b60-b271-2b11cce8ae41",
+                        "title": "Напої",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "a35dd1a6-fff1-42d7-b641-a4d581c1d5bd",
+                            "71b9bc9a-f180-4b52-8ac5-5f0b4d99321e",
+                            "5158e2e5-64e3-49db-8e37-0b630f84ab1b",
+                            "4b08cc9f-2609-4c4d-816d-38106a56362b"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "a35dd1a6-fff1-42d7-b641-a4d581c1d5bd",
+                                "title": "Coca Cola",
+                                "itemDescription": "250/500мл.",
+                                "price": 2100,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "29d19aad-6cae-4377-8ffd-605d7c547d46"
+                                ]
+                            },
+                            {
+                                "uuid": "71b9bc9a-f180-4b52-8ac5-5f0b4d99321e",
+                                "title": "Coca Cola Light",
+                                "itemDescription": "250/500мл.",
+                                "price": 2100,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "29d19aad-6cae-4377-8ffd-605d7c547d46"
+                                ]
+                            },
+                            {
+                                "uuid": "5158e2e5-64e3-49db-8e37-0b630f84ab1b",
+                                "title": "Fanta",
+                                "itemDescription": "250мл.",
+                                "price": 2100,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "4b08cc9f-2609-4c4d-816d-38106a56362b",
+                                "title": "Сік Rich",
+                                "itemDescription": "Смак на вибір (200мл).",
+                                "price": 2800,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "fbd10ca3-77f3-4ee7-b764-adf20e8fb91d"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "29c394bf-909f-4393-a0e4-5c5fa2e3f30d",
+                        "title": "Соуси",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "07eaf452-3aca-4b48-a160-bf2c596cac55",
+                            "91b325e1-fa7b-49bb-9f1a-74d7b9416a1b",
+                            "5ff44cf4-44db-4e68-89b5-13acdc331806",
+                            "672e0d50-c457-4d2f-8272-dea582f3f5fe",
+                            "3c0a2c7d-a6cc-440d-a83e-82a290953dde",
+                            "de4f4bac-4dbc-4682-90c1-efed92063e1a"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "07eaf452-3aca-4b48-a160-bf2c596cac55",
+                                "title": "соус Солодкий чілі",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "91b325e1-fa7b-49bb-9f1a-74d7b9416a1b",
+                                "title": "соус BBQ",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "5ff44cf4-44db-4e68-89b5-13acdc331806",
+                                "title": "соус Теріякі",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "672e0d50-c457-4d2f-8272-dea582f3f5fe",
+                                "title": "соус Кетчуп",
+                                "itemDescription": "",
+                                "price": 0,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "3c0a2c7d-a6cc-440d-a83e-82a290953dde",
+                                "title": "соус Мойонез",
+                                "itemDescription": "",
+                                "price": 0,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "de4f4bac-4dbc-4682-90c1-efed92063e1a",
+                                "title": "соус Сирний",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "31755200-01c8-4a36-b4b6-19d117c15598": {
+                "itemsMap": {
+                    "abf5b1b4-0142-42de-b23e-160e55624d17": {
+                        "uuid": "abf5b1b4-0142-42de-b23e-160e55624d17",
+                        "title": "The Butchers Burger",
+                        "itemDescription": "Bun, iceberg lettuce, capers, mayonnaise, BBQ sauce, cheese sauce, beef cutlet, bacon, and cheddar cheese (350g).",
+                        "price": 9500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "4943383d-a255-4593-aed6-e20a7987a057": {
+                        "uuid": "4943383d-a255-4593-aed6-e20a7987a057",
+                        "title": " Cheese sauce",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "8884498a-918b-45ad-89be-b9baafaf6d83": {
+                        "uuid": "8884498a-918b-45ad-89be-b9baafaf6d83",
+                        "title": "Cheese Burger",
+                        "itemDescription": "Bun, beef cutlet, blue cheese sauce, mozzarella cheese, cheddar cheese, iceberg lettuce, gherkins, and sweet peppers (380g).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0486df5-7fd1-4192-8fa1-17cb547dd16e",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "e7e2513e-bdea-49a1-887d-a5eec6a399f0": {
+                        "uuid": "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
+                        "title": "Twins Burgers",
+                        "itemDescription": "Bun, beef, iceberg lettuce, tomatoes, cucumbers, and tartar sauce. Two burgers (2х230g).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac": {
+                        "uuid": "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
+                        "title": "Sweet Chili Sauce",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "04b07eb8-987f-42ec-9073-7a4e6c80f6c1": {
+                        "uuid": "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
+                        "title": "Fanta",
+                        "itemDescription": "250ml.",
+                        "price": 2100,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "95977266-dff1-475a-923b-b5ca9871ff68": {
+                        "uuid": "95977266-dff1-475a-923b-b5ca9871ff68",
+                        "title": "Hamburger",
+                        "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
+                        "price": 7000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "f7c2f257-a8a3-41cc-b842-c15ee046e8b0": {
+                        "uuid": "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
+                        "title": "Coca Cola",
+                        "itemDescription": "250/500ml.",
+                        "price": 2100,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
+                        ]
+                    },
+                    "7bc03209-e69b-490e-8690-c9d595891d2e": {
+                        "uuid": "7bc03209-e69b-490e-8690-c9d595891d2e",
+                        "title": "BBQ Burger",
+                        "itemDescription": "Bun, BBQ sauce, iceberg lettuce, champignons, bacon, beef cutlet, onions, cheddar cheese, and capers (380g).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/52cbf6b4-1abf-4fcb-83be-4d3eb1906b8d",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "8fccce40-02b1-432a-aed9-c3b743f9bb7d": {
+                        "uuid": "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
+                        "title": "Steak Burger",
+                        "itemDescription": "Bun, beef steak, champignons, bacon, iceberg lettuce, cream and mustard sauce, and mozzarella (380g).",
+                        "price": 9900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "d62d6cc6-a77f-4f27-857c-559aa8bb969e": {
+                        "uuid": "d62d6cc6-a77f-4f27-857c-559aa8bb969e",
+                        "title": "Greek salad",
+                        "itemDescription": "150g.",
+                        "price": 4000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "aa58aed1-417c-4589-ba46-33912e0e9e16": {
+                        "uuid": "aa58aed1-417c-4589-ba46-33912e0e9e16",
+                        "title": "Burger with turkey",
+                        "itemDescription": "Bun, turkey steak, tomatoes, fresh cucumbers, iceberg lettuce, and mayonnaise (320g).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "810b401e-9355-4eff-9faa-66e7d7f24fde": {
+                        "uuid": "810b401e-9355-4eff-9faa-66e7d7f24fde",
+                        "title": "Burger in tortilla",
+                        "itemDescription": "Beef cutlet, tortilla, sweet peppers, Mexican sauce, iceberg lettuce, and tomatoes (270g).",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/04baf16a-777c-49dd-aa1d-7bf62b106188",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "9ae92432-e931-4ccd-a3d0-d367e97c3ecf": {
+                        "uuid": "9ae92432-e931-4ccd-a3d0-d367e97c3ecf",
+                        "title": "Taco",
+                        "itemDescription": "Tortilla, jalapeno, minced beef, mozzarella, sweet chili, and iceberg lettuce (200g).",
+                        "price": 8000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "a509fcd9-df52-4824-a237-fd5d515d0f50": {
+                        "uuid": "a509fcd9-df52-4824-a237-fd5d515d0f50",
+                        "title": "Coleslaw salad",
+                        "itemDescription": "150g.",
+                        "price": 3000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "68568d0b-ff04-4ecb-b5ab-83cd17192ed6": {
+                        "uuid": "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
+                        "title": "Hani Bi Burger",
+                        "itemDescription": "Bun, honey and mustard sauce, iceberg lettuce, fried egg, sweet peppers, chicken cutlet, and mustard sauce (380g).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831": {
+                        "uuid": "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831",
+                        "title": " Mayonnaise sauce",
+                        "itemDescription": "",
+                        "price": 0,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "988e45e2-6f2e-460a-a909-29366f2a872a": {
+                        "uuid": "988e45e2-6f2e-460a-a909-29366f2a872a",
+                        "title": "Teriyaki sauce",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "9f5083f2-75f2-4a0a-8ad9-9a409db968e0": {
+                        "uuid": "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
+                        "title": "Chicken Burger",
+                        "itemDescription": "Bun, tomatoes, iceberg lettuce, chicken cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
+                        "price": 6500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "e20f9043-10e1-4e8f-8652-dc14f0062016": {
+                        "uuid": "e20f9043-10e1-4e8f-8652-dc14f0062016",
+                        "title": "Ketchup sauce",
+                        "itemDescription": "",
+                        "price": 0,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "20904d55-b3f2-4d99-84b0-74fbe8bf2d54": {
+                        "uuid": "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
+                        "title": "Country style potatoes",
+                        "itemDescription": "Country style potatoes , roasted onions, and cheese sauce (200g).",
+                        "price": 4500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bcaeba89-6c91-4126-9af6-8d47f4335ad5",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "7907d822-36cb-4dda-a272-99d75d6af833": {
+                        "uuid": "7907d822-36cb-4dda-a272-99d75d6af833",
+                        "title": "Rich juice",
+                        "itemDescription": "Flavor to choose from (200ml).",
+                        "price": 2800,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f96d8b01-d13e-44de-82ea-d2da985ec72d"
+                        ]
+                    },
+                    "eb94240a-ead0-47ea-8389-601fe114690b": {
+                        "uuid": "eb94240a-ead0-47ea-8389-601fe114690b",
+                        "title": "Coca Cola Light",
+                        "itemDescription": "250/500ml.",
+                        "price": 2100,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
+                        ]
+                    },
+                    "dde348ca-904f-4760-b492-9ef8c04b5ddc": {
+                        "uuid": "dde348ca-904f-4760-b492-9ef8c04b5ddc",
+                        "title": "Hawaiian Burger",
+                        "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, honey, Teriyaki sauce, and pineapple (370g).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/32afd32d-cfc0-4ddd-8bbf-ece3c39162d2",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "01a5e647-005d-4321-902f-085bcafc577a": {
+                        "uuid": "01a5e647-005d-4321-902f-085bcafc577a",
+                        "title": "Burger with mussels",
+                        "itemDescription": "Bun, mussels, carrots, iceberg lettuce, hash browns , and tartar sauce (370g).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "80038389-e3da-4e01-9bf4-07565708017c": {
+                        "uuid": "80038389-e3da-4e01-9bf4-07565708017c",
+                        "title": "Dos Amigos Burger",
+                        "itemDescription": "Bun, jalapeno peppers, sweet peppers, tomatoes, chipotle, iceberg lettuce, 2 beef cutlets, pickled cucumbers, cheddar cheese, BBQ sauce, and bacon (550g).",
+                        "price": 14500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a260836-d426-4dbe-9778-d79266049bef",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0cdb13dc-d29c-4504-8684-bba12e326f1c": {
+                        "uuid": "0cdb13dc-d29c-4504-8684-bba12e326f1c",
+                        "title": "Grilled vegetables",
+                        "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, and chipotle sauce (300g).",
+                        "price": 4500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "9a23161e-7fe5-47ab-808b-d956c577617d": {
+                        "uuid": "9a23161e-7fe5-47ab-808b-d956c577617d",
+                        "title": "Grilled vegetables with steak",
+                        "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, chipotle sauce, and beef steak (420g).",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c92c1af-54b7-4e6f-9f62-622cf0c6e145",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "6cd28f1c-eb79-4057-b10e-14890a70d110": {
+                        "uuid": "6cd28f1c-eb79-4057-b10e-14890a70d110",
+                        "title": "Cheese sticks",
+                        "itemDescription": "200g.",
+                        "price": 6500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "e4329e31-a2ed-43dc-a8b2-93193f4d63b0": {
+                        "uuid": "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
+                        "title": "Vega Burger ",
+                        "itemDescription": "Bun, champignons, guacamole sauce, sweet peppers, zucchini, marrow, eggplant, tomatoes, olives, iceberg lettuce, and hash browns (380g).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d838503-66a9-4be6-922b-8ffc7449ee0c",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "27b526d6-7f4f-4d01-82e7-a5cd739b8131": {
+                        "uuid": "27b526d6-7f4f-4d01-82e7-a5cd739b8131",
+                        "title": "Bavarian burger",
+                        "itemDescription": "Bun, iceberg lettuce, mushrooms, pickled cucumber, sausages, barbecue sauce, cheese sauce ( 290 g).",
+                        "price": 8500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "734b7c1d-237b-4798-8fa6-e3d1696c5031": {
+                        "uuid": "734b7c1d-237b-4798-8fa6-e3d1696c5031",
+                        "title": "French fries",
+                        "itemDescription": "Middle (100g) or big (180g).",
+                        "price": 2900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f4a98165-c940-470d-9cc4-6f603917c32f"
+                        ]
+                    },
+                    "e07e5b74-a70e-4ad3-9a2b-300be5bc724c": {
+                        "uuid": "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
+                        "title": "BBQ sauce",
+                        "itemDescription": "",
+                        "price": 1000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "6e584b94-259b-42c8-b837-2c10cbc7f1ac": {
+                        "uuid": "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
+                        "title": "Fried mushrooms",
+                        "itemDescription": "200g.",
+                        "price": 4000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422": {
+                        "uuid": "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
+                        "title": "Classic Burger ",
+                        "itemDescription": "Bun, mayonnaise, red onions, tomatoes, iceberg lettuce, beef cutlet, pickled cucumbers, cheddar cheese, and ketchup (370g).",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d919ed9-22c0-458b-bd09-3c2242a59773",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "36cdafd8-caca-41d2-842a-cc4ffacf9d1a",
+                        "title": "Burgers",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "95977266-dff1-475a-923b-b5ca9871ff68",
+                            "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
+                            "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
+                            "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
+                            "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
+                            "8884498a-918b-45ad-89be-b9baafaf6d83",
+                            "7bc03209-e69b-490e-8690-c9d595891d2e",
+                            "80038389-e3da-4e01-9bf4-07565708017c",
+                            "810b401e-9355-4eff-9faa-66e7d7f24fde",
+                            "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
+                            "dde348ca-904f-4760-b492-9ef8c04b5ddc",
+                            "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
+                            "aa58aed1-417c-4589-ba46-33912e0e9e16",
+                            "01a5e647-005d-4321-902f-085bcafc577a",
+                            "abf5b1b4-0142-42de-b23e-160e55624d17",
+                            "27b526d6-7f4f-4d01-82e7-a5cd739b8131"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "95977266-dff1-475a-923b-b5ca9871ff68",
+                                "title": "Hamburger",
+                                "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
+                                "price": 7000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
+                                "title": "Chicken Burger",
+                                "itemDescription": "Bun, tomatoes, iceberg lettuce, chicken cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
+                                "price": 6500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
+                                "title": "Classic Burger ",
+                                "itemDescription": "Bun, mayonnaise, red onions, tomatoes, iceberg lettuce, beef cutlet, pickled cucumbers, cheddar cheese, and ketchup (370g).",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d919ed9-22c0-458b-bd09-3c2242a59773",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
+                                "title": "Hani Bi Burger",
+                                "itemDescription": "Bun, honey and mustard sauce, iceberg lettuce, fried egg, sweet peppers, chicken cutlet, and mustard sauce (380g).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
+                                "title": "Vega Burger ",
+                                "itemDescription": "Bun, champignons, guacamole sauce, sweet peppers, zucchini, marrow, eggplant, tomatoes, olives, iceberg lettuce, and hash browns (380g).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d838503-66a9-4be6-922b-8ffc7449ee0c",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "8884498a-918b-45ad-89be-b9baafaf6d83",
+                                "title": "Cheese Burger",
+                                "itemDescription": "Bun, beef cutlet, blue cheese sauce, mozzarella cheese, cheddar cheese, iceberg lettuce, gherkins, and sweet peppers (380g).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0486df5-7fd1-4192-8fa1-17cb547dd16e",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "7bc03209-e69b-490e-8690-c9d595891d2e",
+                                "title": "BBQ Burger",
+                                "itemDescription": "Bun, BBQ sauce, iceberg lettuce, champignons, bacon, beef cutlet, onions, cheddar cheese, and capers (380g).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/52cbf6b4-1abf-4fcb-83be-4d3eb1906b8d",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "80038389-e3da-4e01-9bf4-07565708017c",
+                                "title": "Dos Amigos Burger",
+                                "itemDescription": "Bun, jalapeno peppers, sweet peppers, tomatoes, chipotle, iceberg lettuce, 2 beef cutlets, pickled cucumbers, cheddar cheese, BBQ sauce, and bacon (550g).",
+                                "price": 14500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a260836-d426-4dbe-9778-d79266049bef",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "810b401e-9355-4eff-9faa-66e7d7f24fde",
+                                "title": "Burger in tortilla",
+                                "itemDescription": "Beef cutlet, tortilla, sweet peppers, Mexican sauce, iceberg lettuce, and tomatoes (270g).",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/04baf16a-777c-49dd-aa1d-7bf62b106188",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
+                                "title": "Twins Burgers",
+                                "itemDescription": "Bun, beef, iceberg lettuce, tomatoes, cucumbers, and tartar sauce. Two burgers (2х230g).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "dde348ca-904f-4760-b492-9ef8c04b5ddc",
+                                "title": "Hawaiian Burger",
+                                "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, honey, Teriyaki sauce, and pineapple (370g).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/32afd32d-cfc0-4ddd-8bbf-ece3c39162d2",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
+                                "title": "Steak Burger",
+                                "itemDescription": "Bun, beef steak, champignons, bacon, iceberg lettuce, cream and mustard sauce, and mozzarella (380g).",
+                                "price": 9900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "aa58aed1-417c-4589-ba46-33912e0e9e16",
+                                "title": "Burger with turkey",
+                                "itemDescription": "Bun, turkey steak, tomatoes, fresh cucumbers, iceberg lettuce, and mayonnaise (320g).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "01a5e647-005d-4321-902f-085bcafc577a",
+                                "title": "Burger with mussels",
+                                "itemDescription": "Bun, mussels, carrots, iceberg lettuce, hash browns , and tartar sauce (370g).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "abf5b1b4-0142-42de-b23e-160e55624d17",
+                                "title": "The Butchers Burger",
+                                "itemDescription": "Bun, iceberg lettuce, capers, mayonnaise, BBQ sauce, cheese sauce, beef cutlet, bacon, and cheddar cheese (350g).",
+                                "price": 9500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "27b526d6-7f4f-4d01-82e7-a5cd739b8131",
+                                "title": "Bavarian burger",
+                                "itemDescription": "Bun, iceberg lettuce, mushrooms, pickled cucumber, sausages, barbecue sauce, cheese sauce ( 290 g).",
+                                "price": 8500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "74e91148-8efe-4c1d-a949-92e250c1a46d",
+                        "title": "Hot appetizers",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "0cdb13dc-d29c-4504-8684-bba12e326f1c",
+                            "9a23161e-7fe5-47ab-808b-d956c577617d",
+                            "6cd28f1c-eb79-4057-b10e-14890a70d110",
+                            "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
+                            "734b7c1d-237b-4798-8fa6-e3d1696c5031",
+                            "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
+                            "9ae92432-e931-4ccd-a3d0-d367e97c3ecf"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "0cdb13dc-d29c-4504-8684-bba12e326f1c",
+                                "title": "Grilled vegetables",
+                                "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, and chipotle sauce (300g).",
+                                "price": 4500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "9a23161e-7fe5-47ab-808b-d956c577617d",
+                                "title": "Grilled vegetables with steak",
+                                "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, chipotle sauce, and beef steak (420g).",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c92c1af-54b7-4e6f-9f62-622cf0c6e145",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "6cd28f1c-eb79-4057-b10e-14890a70d110",
+                                "title": "Cheese sticks",
+                                "itemDescription": "200g.",
+                                "price": 6500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
+                                "title": "Fried mushrooms",
+                                "itemDescription": "200g.",
+                                "price": 4000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "734b7c1d-237b-4798-8fa6-e3d1696c5031",
+                                "title": "French fries",
+                                "itemDescription": "Middle (100g) or big (180g).",
+                                "price": 2900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f4a98165-c940-470d-9cc4-6f603917c32f"
+                                ]
+                            },
+                            {
+                                "uuid": "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
+                                "title": "Country style potatoes",
+                                "itemDescription": "Country style potatoes , roasted onions, and cheese sauce (200g).",
+                                "price": 4500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bcaeba89-6c91-4126-9af6-8d47f4335ad5",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "9ae92432-e931-4ccd-a3d0-d367e97c3ecf",
+                                "title": "Taco",
+                                "itemDescription": "Tortilla, jalapeno, minced beef, mozzarella, sweet chili, and iceberg lettuce (200g).",
+                                "price": 8000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "0963eab6-5c30-461a-89ce-df5fd8a30453",
+                        "title": "Salads",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "a509fcd9-df52-4824-a237-fd5d515d0f50",
+                            "d62d6cc6-a77f-4f27-857c-559aa8bb969e"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "a509fcd9-df52-4824-a237-fd5d515d0f50",
+                                "title": "Coleslaw salad",
+                                "itemDescription": "150g.",
+                                "price": 3000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "d62d6cc6-a77f-4f27-857c-559aa8bb969e",
+                                "title": "Greek salad",
+                                "itemDescription": "150g.",
+                                "price": 4000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "68f58363-a518-445b-85e2-2d85f60d4801",
+                        "title": "Beverages",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
+                            "eb94240a-ead0-47ea-8389-601fe114690b",
+                            "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
+                            "7907d822-36cb-4dda-a272-99d75d6af833"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
+                                "title": "Coca Cola",
+                                "itemDescription": "250/500ml.",
+                                "price": 2100,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
+                                ]
+                            },
+                            {
+                                "uuid": "eb94240a-ead0-47ea-8389-601fe114690b",
+                                "title": "Coca Cola Light",
+                                "itemDescription": "250/500ml.",
+                                "price": 2100,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
+                                ]
+                            },
+                            {
+                                "uuid": "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
+                                "title": "Fanta",
+                                "itemDescription": "250ml.",
+                                "price": 2100,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "7907d822-36cb-4dda-a272-99d75d6af833",
+                                "title": "Rich juice",
+                                "itemDescription": "Flavor to choose from (200ml).",
+                                "price": 2800,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f96d8b01-d13e-44de-82ea-d2da985ec72d"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "3bf56766-2da9-4202-acf2-6416ef4a1da8",
+                        "title": "Sauces",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
+                            "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
+                            "4943383d-a255-4593-aed6-e20a7987a057",
+                            "988e45e2-6f2e-460a-a909-29366f2a872a",
+                            "e20f9043-10e1-4e8f-8652-dc14f0062016",
+                            "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
+                                "title": "Sweet Chili Sauce",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
+                                "title": "BBQ sauce",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "4943383d-a255-4593-aed6-e20a7987a057",
+                                "title": " Cheese sauce",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "988e45e2-6f2e-460a-a909-29366f2a872a",
+                                "title": "Teriyaki sauce",
+                                "itemDescription": "",
+                                "price": 1000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "e20f9043-10e1-4e8f-8652-dc14f0062016",
+                                "title": "Ketchup sauce",
+                                "itemDescription": "",
+                                "price": 0,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831",
+                                "title": " Mayonnaise sauce",
+                                "itemDescription": "",
+                                "price": 0,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "7df9cdb8-5c23-41c2-9d58-c75d3793b888": {
+                "uuid": "7df9cdb8-5c23-41c2-9d58-c75d3793b888",
+                "title": "Гарячі закуски",
+                "subtitle": "",
+                "itemUuids": [
+                    "f21ee000-7ed4-45da-af4e-5b1222fa71c2",
+                    "0438d3e0-0c18-483c-96e3-10c7a67c5c61",
+                    "946a82f8-f056-488b-b884-24cf2738aa13",
+                    "09a4057b-6088-4007-8100-a6b5d486fccf",
+                    "562b885c-8f2c-43fd-b655-1681cdbbdb9a",
+                    "c3337930-fe63-42fe-a126-95190391113e",
+                    "7201d416-3b16-47ee-b687-6a678022c6d7"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f21ee000-7ed4-45da-af4e-5b1222fa71c2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0438d3e0-0c18-483c-96e3-10c7a67c5c61",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "946a82f8-f056-488b-b884-24cf2738aa13",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "09a4057b-6088-4007-8100-a6b5d486fccf",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "562b885c-8f2c-43fd-b655-1681cdbbdb9a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c3337930-fe63-42fe-a126-95190391113e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7201d416-3b16-47ee-b687-6a678022c6d7",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "3bf56766-2da9-4202-acf2-6416ef4a1da8": {
+                "uuid": "3bf56766-2da9-4202-acf2-6416ef4a1da8",
+                "title": "Sauces",
+                "subtitle": "",
+                "itemUuids": [
+                    "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
+                    "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
+                    "4943383d-a255-4593-aed6-e20a7987a057",
+                    "988e45e2-6f2e-460a-a909-29366f2a872a",
+                    "e20f9043-10e1-4e8f-8652-dc14f0062016",
+                    "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4943383d-a255-4593-aed6-e20a7987a057",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "988e45e2-6f2e-460a-a909-29366f2a872a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e20f9043-10e1-4e8f-8652-dc14f0062016",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "36cdafd8-caca-41d2-842a-cc4ffacf9d1a": {
+                "uuid": "36cdafd8-caca-41d2-842a-cc4ffacf9d1a",
+                "title": "Burgers",
+                "subtitle": "",
+                "itemUuids": [
+                    "95977266-dff1-475a-923b-b5ca9871ff68",
+                    "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
+                    "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
+                    "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
+                    "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
+                    "8884498a-918b-45ad-89be-b9baafaf6d83",
+                    "7bc03209-e69b-490e-8690-c9d595891d2e",
+                    "80038389-e3da-4e01-9bf4-07565708017c",
+                    "810b401e-9355-4eff-9faa-66e7d7f24fde",
+                    "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
+                    "dde348ca-904f-4760-b492-9ef8c04b5ddc",
+                    "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
+                    "aa58aed1-417c-4589-ba46-33912e0e9e16",
+                    "01a5e647-005d-4321-902f-085bcafc577a",
+                    "abf5b1b4-0142-42de-b23e-160e55624d17",
+                    "27b526d6-7f4f-4d01-82e7-a5cd739b8131"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "95977266-dff1-475a-923b-b5ca9871ff68",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8884498a-918b-45ad-89be-b9baafaf6d83",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7bc03209-e69b-490e-8690-c9d595891d2e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "80038389-e3da-4e01-9bf4-07565708017c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "810b401e-9355-4eff-9faa-66e7d7f24fde",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "dde348ca-904f-4760-b492-9ef8c04b5ddc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "aa58aed1-417c-4589-ba46-33912e0e9e16",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "01a5e647-005d-4321-902f-085bcafc577a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "abf5b1b4-0142-42de-b23e-160e55624d17",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "27b526d6-7f4f-4d01-82e7-a5cd739b8131",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "68f58363-a518-445b-85e2-2d85f60d4801": {
+                "uuid": "68f58363-a518-445b-85e2-2d85f60d4801",
+                "title": "Beverages",
+                "subtitle": "",
+                "itemUuids": [
+                    "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
+                    "eb94240a-ead0-47ea-8389-601fe114690b",
+                    "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
+                    "7907d822-36cb-4dda-a272-99d75d6af833"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "eb94240a-ead0-47ea-8389-601fe114690b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7907d822-36cb-4dda-a272-99d75d6af833",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "211b289e-ce7a-46de-a2be-2f1242e85820": {
+                "uuid": "211b289e-ce7a-46de-a2be-2f1242e85820",
+                "title": "Бургери",
+                "subtitle": "",
+                "itemUuids": [
+                    "2657012d-a393-4809-a5b8-2594bb057361",
+                    "9a1b0a88-b7dd-4020-b1d1-6fb9faeac5d2",
+                    "0c72a4e1-a836-44df-8bdb-a4b36912fee7",
+                    "0d5eeae8-691f-4fe7-90e3-b1efd7d590fb",
+                    "28669702-c52a-47dc-805e-9711b8aa04c6",
+                    "0870adcb-076f-415c-bd09-e427a28cd1bc",
+                    "be4ee96c-dc70-425b-b572-38c41aeefdf1",
+                    "afc7693e-801f-43d3-8fcd-39d58d534804",
+                    "8b42a1b8-3f15-4b41-969c-fdb11c85ed89",
+                    "c84779cd-55b3-4739-a693-3cd714a21b4e",
+                    "80199872-4633-4915-8a74-49c12b3cfa49",
+                    "cf6d811b-d630-40a7-86e5-39d821141707",
+                    "dd336c63-e134-4604-bb1f-c90b76aeb1d5",
+                    "01b5bc4f-ce35-4f38-88ca-410442666c2a",
+                    "4da24c35-1ee8-441f-bd77-bc834978cd40",
+                    "ae87cab7-a33f-480d-a9e2-9bf9dad727e0"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2657012d-a393-4809-a5b8-2594bb057361",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9a1b0a88-b7dd-4020-b1d1-6fb9faeac5d2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0c72a4e1-a836-44df-8bdb-a4b36912fee7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0d5eeae8-691f-4fe7-90e3-b1efd7d590fb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "28669702-c52a-47dc-805e-9711b8aa04c6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0870adcb-076f-415c-bd09-e427a28cd1bc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "be4ee96c-dc70-425b-b572-38c41aeefdf1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "afc7693e-801f-43d3-8fcd-39d58d534804",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8b42a1b8-3f15-4b41-969c-fdb11c85ed89",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c84779cd-55b3-4739-a693-3cd714a21b4e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "80199872-4633-4915-8a74-49c12b3cfa49",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cf6d811b-d630-40a7-86e5-39d821141707",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "dd336c63-e134-4604-bb1f-c90b76aeb1d5",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "01b5bc4f-ce35-4f38-88ca-410442666c2a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4da24c35-1ee8-441f-bd77-bc834978cd40",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ae87cab7-a33f-480d-a9e2-9bf9dad727e0",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f83947a3-044e-4236-889b-00e12babaf95": {
+                "uuid": "f83947a3-044e-4236-889b-00e12babaf95",
+                "title": "Салати",
+                "subtitle": "",
+                "itemUuids": [
+                    "db176f9a-77dd-405a-a4db-5ae85f9a623c",
+                    "7d587bd1-b403-42d9-a47e-e14656523982"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "db176f9a-77dd-405a-a4db-5ae85f9a623c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7d587bd1-b403-42d9-a47e-e14656523982",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "7feb675c-b0f7-4b60-b271-2b11cce8ae41": {
+                "uuid": "7feb675c-b0f7-4b60-b271-2b11cce8ae41",
+                "title": "Напої",
+                "subtitle": "",
+                "itemUuids": [
+                    "a35dd1a6-fff1-42d7-b641-a4d581c1d5bd",
+                    "71b9bc9a-f180-4b52-8ac5-5f0b4d99321e",
+                    "5158e2e5-64e3-49db-8e37-0b630f84ab1b",
+                    "4b08cc9f-2609-4c4d-816d-38106a56362b"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "a35dd1a6-fff1-42d7-b641-a4d581c1d5bd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "71b9bc9a-f180-4b52-8ac5-5f0b4d99321e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5158e2e5-64e3-49db-8e37-0b630f84ab1b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4b08cc9f-2609-4c4d-816d-38106a56362b",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "29c394bf-909f-4393-a0e4-5c5fa2e3f30d": {
+                "uuid": "29c394bf-909f-4393-a0e4-5c5fa2e3f30d",
+                "title": "Соуси",
+                "subtitle": "",
+                "itemUuids": [
+                    "07eaf452-3aca-4b48-a160-bf2c596cac55",
+                    "91b325e1-fa7b-49bb-9f1a-74d7b9416a1b",
+                    "5ff44cf4-44db-4e68-89b5-13acdc331806",
+                    "672e0d50-c457-4d2f-8272-dea582f3f5fe",
+                    "3c0a2c7d-a6cc-440d-a83e-82a290953dde",
+                    "de4f4bac-4dbc-4682-90c1-efed92063e1a"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "07eaf452-3aca-4b48-a160-bf2c596cac55",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "91b325e1-fa7b-49bb-9f1a-74d7b9416a1b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5ff44cf4-44db-4e68-89b5-13acdc331806",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "672e0d50-c457-4d2f-8272-dea582f3f5fe",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3c0a2c7d-a6cc-440d-a83e-82a290953dde",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "de4f4bac-4dbc-4682-90c1-efed92063e1a",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "74e91148-8efe-4c1d-a949-92e250c1a46d": {
+                "uuid": "74e91148-8efe-4c1d-a949-92e250c1a46d",
+                "title": "Hot appetizers",
+                "subtitle": "",
+                "itemUuids": [
+                    "0cdb13dc-d29c-4504-8684-bba12e326f1c",
+                    "9a23161e-7fe5-47ab-808b-d956c577617d",
+                    "6cd28f1c-eb79-4057-b10e-14890a70d110",
+                    "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
+                    "734b7c1d-237b-4798-8fa6-e3d1696c5031",
+                    "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
+                    "9ae92432-e931-4ccd-a3d0-d367e97c3ecf"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "0cdb13dc-d29c-4504-8684-bba12e326f1c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9a23161e-7fe5-47ab-808b-d956c577617d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6cd28f1c-eb79-4057-b10e-14890a70d110",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "734b7c1d-237b-4798-8fa6-e3d1696c5031",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9ae92432-e931-4ccd-a3d0-d367e97c3ecf",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "0963eab6-5c30-461a-89ce-df5fd8a30453": {
+                "uuid": "0963eab6-5c30-461a-89ce-df5fd8a30453",
+                "title": "Salads",
+                "subtitle": "",
+                "itemUuids": [
+                    "a509fcd9-df52-4824-a237-fd5d515d0f50",
+                    "d62d6cc6-a77f-4f27-857c-559aa8bb969e"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "a509fcd9-df52-4824-a237-fd5d515d0f50",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d62d6cc6-a77f-4f27-857c-559aa8bb969e",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.45221199999999,
+            "longitude": 30.517241,
+            "address": {
+                "address1": "Sofiivs'ka St, 23",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Sofiivs'Ka St, 23, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380639461405"
+        },
+        "priceBucket": "₴₴",
+        "slug": "the-butcher-burgers",
+        "isOrderable": true,
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/6a6f6efe-1bb0-43fe-89df-d19fae11f166",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/6d66c434-5ce7-478e-b8cd-f64b7899bf82",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/3ce5de29-9305-499e-b97a-5110377ea22e",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/e58858de-3dc9-4106-b0f8-adf9315974f0",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(190)</span></span>",
+                "accessibilityText": "Rated 4.2 out of 5 stars based on 190 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴₴ • American • Burger • Salad</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "45–55 MINS",
+                "textFormat": "<span>45–55 MINS</span>",
+                "accessibilityText": "Delivered in 45 to 55 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 45,
+            "max": 55,
+            "raw": 50
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 630,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 630,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

@@ -1,0 +1,2253 @@
+{
+    "store": {
+        "uuid": "3797de4f-edb9-4b99-bc04-e9ef79037df9",
+        "title": "Milk Bar",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "Dessert",
+                "name": "Десерти",
+                "keyName": "Dessert"
+            },
+            {
+                "uuid": "European",
+                "name": "Європейська",
+                "keyName": "European"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "6f81d9d3-7a00-42a7-ad0f-30b92a2d3711",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 8:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "4d30ee5a-ea78-469b-b212-fa5b117f2b71",
+                    "a75335e8-45aa-455c-9e66-d6a8053e45cd",
+                    "4e49bf1d-cb92-415b-995a-dae3f2d93dbf",
+                    "911b3c3e-694a-4cc2-89f2-7993908c0059",
+                    "2c9ae7d7-c981-4b78-887c-9b5d2bd07361",
+                    "708eb181-c115-4e5d-a63e-390f42afb9c2",
+                    "a39fb82e-f934-4021-ba77-36378944e576",
+                    "d04bb377-94eb-472d-b38b-3b9de0bfa8d4",
+                    "6145217f-a478-444c-a1d4-ea5b12fc080f",
+                    "3018c578-0aa8-46cb-9072-25f2e627af9c"
+                ]
+            },
+            {
+                "uuid": "9e5ec853-9bfb-4f83-a952-cdeda32f4742",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 8:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "8b0873f3-e9fe-4413-aa75-2ea2ab782424",
+                    "9ab5615a-cc50-4546-b671-7b3892cd56a3",
+                    "db835af0-68ba-4578-98ea-1daf14b51262",
+                    "086f6ea7-e9d0-4a3b-994a-45bc9ae5e4a8",
+                    "71402d66-da85-4809-8217-61063197ffd9",
+                    "61d070c1-fe4b-4e23-afe4-2438a21722db",
+                    "1695e378-ebf4-429e-8f65-6ef20e8a88a9",
+                    "b5b9f8ab-f546-4323-992f-129934e89fa2",
+                    "d456d07a-408c-45d3-b713-c1cfc40c60fa",
+                    "a44e7944-191e-496d-a984-97e9ee48a2e5"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "9e5ec853-9bfb-4f83-a952-cdeda32f4742": {
+                "itemsMap": {
+                    "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4": {
+                        "uuid": "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4",
+                        "title": "Carrot cake with tahini cream",
+                        "itemDescription": "(280 g).",
+                        "price": 10500
+                    },
+                    "c694a5d2-495d-4f89-a47a-3deb600894cb": {
+                        "uuid": "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                        "title": "Miso Cake",
+                        "itemDescription": "Бісквітні коржі з додаванням місо-пасти, крему на основі сиру Філадельфії та Маскарпоне та свіжої груші.",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/58df5559-5d86-43b6-a026-7b8a04f59a4c",
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                        ]
+                    },
+                    "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1": {
+                        "uuid": "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1",
+                        "title": "PeanutButter Sandwich",
+                        "itemDescription": "Peanut Crispy Cookies with Philadelphia Cream and Condensed Milk.",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8b030e9-2dc7-4dc2-a486-2c30d9f73688",
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "3e977056-1c7a-4402-b559-43c0d5c37b30": {
+                        "uuid": "3e977056-1c7a-4402-b559-43c0d5c37b30",
+                        "title": "Sirniki \"3 leches\"",
+                        "itemDescription": "Ukrainian sirniki with 3 leches sauce, and Philadelphia cream (270 g).",
+                        "price": 11500,
+                        "suspendUntil": 1559509199
+                    },
+                    "14c16db2-e0fc-4384-a3fb-023fd3e90d4c": {
+                        "uuid": "14c16db2-e0fc-4384-a3fb-023fd3e90d4c",
+                        "title": "3 leches",
+                        "itemDescription": "Vanilla sponge soaked with three types of milk - condensed, baked milk and cream (180 g).",
+                        "price": 6900,
+                        "customizationUuids": [
+                            "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                        ]
+                    },
+                    "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674": {
+                        "uuid": "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674",
+                        "title": "Summer chicken soup",
+                        "itemDescription": "Soup with sorgnum, coconut milk and chicken meatballs",
+                        "price": 8900,
+                        "nutritionalInfo": {}
+                    },
+                    "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0": {
+                        "uuid": "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0",
+                        "title": "Seared Salmon",
+                        "itemDescription": "Salmon with asparagus, broccolini and green beans (430 g).",
+                        "price": 24500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/38d1c80a-6bce-4b64-89cd-2c91adc760fe",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199
+                    },
+                    "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5": {
+                        "uuid": "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5",
+                        "title": "Rum, Vika, Rum",
+                        "itemDescription": "Десерт з додаванням полуничного джему з свіжою полуницею з додаванням рому, білого шоколаду та крему Маскарпоне з йогуртом.",
+                        "price": 13500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/06e7648a-9b25-427c-862b-98f56a20ea9f",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "44669a3b-1a86-46c6-976d-a43ca6396fbe": {
+                        "uuid": "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                        "title": "Whoopie Cookie",
+                        "itemDescription": "Шоколадні бісквіти з кремом Філадельфія та м'яким малиновим мармеладом",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/77c492b0-5eac-4019-b439-255e32fa920c",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "2a97e008-ee92-4a68-abd4-011904e2b305": {
+                        "uuid": "2a97e008-ee92-4a68-abd4-011904e2b305",
+                        "title": "Omelette with chicken",
+                        "itemDescription": "Omelette with chicken, tomatoes, cheese and fries or green salad as a side ",
+                        "price": 14500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/979afc04-e449-4d85-ac3c-20ec18bb8717",
+                        "customizationUuids": [
+                            "2c663f51-2683-4178-bc68-70fdcacbb124"
+                        ]
+                    },
+                    "74d7211b-577b-4bb5-ab37-c4ac18008e19": {
+                        "uuid": "74d7211b-577b-4bb5-ab37-c4ac18008e19",
+                        "title": "Grilled Halloumi Salad",
+                        "itemDescription": "with sweet potato, Boston salad, broccoli, Parmesan, flax seed, basil and mint-tarragon dressing",
+                        "price": 15900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b96631b2-c1a3-48e8-9873-9fd27f2542d7",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199
+                    },
+                    "a6115d76-d563-4123-b075-86b84b93bf2f": {
+                        "uuid": "a6115d76-d563-4123-b075-86b84b93bf2f",
+                        "title": "Brownie",
+                        "itemDescription": "(200g)",
+                        "price": 8900
+                    },
+                    "4edb7d9d-b922-43ba-8526-c388a4f07c2c": {
+                        "uuid": "4edb7d9d-b922-43ba-8526-c388a4f07c2c",
+                        "title": "Coney Island cheesecake",
+                        "itemDescription": "Lighter version of s classic New York cheesecake (190 g).",
+                        "price": 10500
+                    },
+                    "9586543c-07bd-461b-a467-b5bfd8ae3a72": {
+                        "uuid": "9586543c-07bd-461b-a467-b5bfd8ae3a72",
+                        "title": "Chocolate flourless cake",
+                        "itemDescription": "(175g)",
+                        "price": 11500
+                    },
+                    "67f8f012-8de8-4cc6-8078-b4833d7cd939": {
+                        "uuid": "67f8f012-8de8-4cc6-8078-b4833d7cd939",
+                        "title": "Soup of the week",
+                        "itemDescription": "Cauliflower cream soup",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/197108d0-b1fd-4eaa-9c5f-ce240043a5b8",
+                        "suspendUntil": 1559509199
+                    },
+                    "00141984-30cc-488e-98c8-1773fa28c777": {
+                        "uuid": "00141984-30cc-488e-98c8-1773fa28c777",
+                        "title": "Greek salad with home-made pita bread",
+                        "itemDescription": "Tomato, cucumber, Bulgarian pepper, red onion, feta cheese, olives \"Kalamata\", baby Robin salad, fresh basil, olive oil, and wine pink vinegar (280 g).",
+                        "price": 15500,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199
+                    },
+                    "0223de0d-a890-4d63-b47f-5312c4888ea3": {
+                        "uuid": "0223de0d-a890-4d63-b47f-5312c4888ea3",
+                        "title": "Burrata salad",
+                        "itemDescription": "Burrata salad with tomatoes, raddish, spinach and sweet pepper chutney",
+                        "price": 16900,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199
+                    },
+                    "ff16b927-5ecb-4876-9f87-512f08e9ffbe": {
+                        "uuid": "ff16b927-5ecb-4876-9f87-512f08e9ffbe",
+                        "title": "Home made Tagliatelle Pasta",
+                        "itemDescription": "With beans, creamy spinach, romanesco, Parmesan, Philadelphia and fresh mint",
+                        "price": 19500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2168016f-7604-4517-bf01-cd9536d53606",
+                        "suspendUntil": 1559509199
+                    },
+                    "6a574d1a-4c33-4536-a665-708fb888128d": {
+                        "uuid": "6a574d1a-4c33-4536-a665-708fb888128d",
+                        "title": "Prosciutto Waffles",
+                        "itemDescription": "with Philadelphia cheese,rocket, cherry tomatoes, pumpkin and sesame seeds,",
+                        "price": 21000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b190876-c437-4734-a4af-c2ea3f72e340",
+                        "nutritionalInfo": {}
+                    },
+                    "01bf6d0c-832f-4bc1-b741-ff35a6344acf": {
+                        "uuid": "01bf6d0c-832f-4bc1-b741-ff35a6344acf",
+                        "title": "X-tra crispy fried chicken sandwich with fries",
+                        "itemDescription": "Soy and ginger marinated chicken, red cabbage and carrots, melted Gouda, and sasame lemon aioli. Served with fries (330+140g).\t\t\t\t",
+                        "price": 18900,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199
+                    },
+                    "88ab9ed7-9c31-4c0b-b806-23557c243ea7": {
+                        "uuid": "88ab9ed7-9c31-4c0b-b806-23557c243ea7",
+                        "title": "A stack of waffles for two",
+                        "itemDescription": "With chocolate and nut home-made cream ",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5076beae-df1c-4cd6-884d-2762c716a391",
+                        "customizationUuids": [
+                            "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                        ]
+                    },
+                    "f2db4067-7410-4667-a4a4-7d94b0aab437": {
+                        "uuid": "f2db4067-7410-4667-a4a4-7d94b0aab437",
+                        "title": "Milk bar banana pudding",
+                        "itemDescription": "Classic Brooklyn dessert with bananas, and vanilla cookies (220 g).",
+                        "price": 9500
+                    },
+                    "4cad0003-99e4-4294-8e1d-6c1b6c16b8e9": {
+                        "uuid": "4cad0003-99e4-4294-8e1d-6c1b6c16b8e9",
+                        "title": "Red velvet",
+                        "itemDescription": "Layers of soft red cake with cream cheese topping (240 g).\t\t\t\t\t\t",
+                        "price": 9500
+                    },
+                    "fa718be1-0f34-444b-9a04-b138ef1cdb0a": {
+                        "uuid": "fa718be1-0f34-444b-9a04-b138ef1cdb0a",
+                        "title": "Asian style grilled chicken salad",
+                        "itemDescription": "Red cabbage, green salad, carrot, tomatoes, radish, sweet pepper, chicken, peanut sauce, and deep fried noodles (220 g).",
+                        "price": 16500,
+                        "suspendUntil": 1559509199
+                    },
+                    "de47f64f-7e8c-455a-8e9e-a69591044e98": {
+                        "uuid": "de47f64f-7e8c-455a-8e9e-a69591044e98",
+                        "title": "Blueberry muffin",
+                        "itemDescription": "(210 g).",
+                        "price": 8900
+                    },
+                    "8a6aa0a6-d857-44ca-8d08-b5bfcabee8d2": {
+                        "uuid": "8a6aa0a6-d857-44ca-8d08-b5bfcabee8d2",
+                        "title": "Popcorn unicorn",
+                        "itemDescription": "The magic of caramel and popcorn (320 g).\t\t\t\t\t\t\t",
+                        "price": 11500
+                    },
+                    "90776bb8-e91b-4e18-9676-e941c41f7872": {
+                        "uuid": "90776bb8-e91b-4e18-9676-e941c41f7872",
+                        "title": "Strawberry Lemonade",
+                        "itemDescription": "Lemon sponge with the addition of Philadelphia cream, passionfruit and raspberry custard, fresh strawberries and white chocolate.",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/728f7615-dfc9-47fa-9d41-9992efbf6b2f",
+                        "nutritionalInfo": {}
+                    },
+                    "9822e98e-06d0-409b-90a9-19de1a2dc164": {
+                        "uuid": "9822e98e-06d0-409b-90a9-19de1a2dc164",
+                        "title": "English cheesecake",
+                        "itemDescription": "Oreo crust, cream of Philadelphia and salted caramel (140 g).\t\t\t\t\t\t\t",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a42d120-d91e-4b2d-b5c9-e4e2033d4e3d",
+                        "customizationUuids": [
+                            "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                        ]
+                    },
+                    "528c7da4-c402-426c-b7db-562742dc40f6": {
+                        "uuid": "528c7da4-c402-426c-b7db-562742dc40f6",
+                        "title": "Sirniki",
+                        "itemDescription": "With sour cream, and honey (270 g).",
+                        "price": 9900,
+                        "suspendUntil": 1559509199
+                    },
+                    "8576348a-1762-4010-80a5-0e563f97d4e1": {
+                        "uuid": "8576348a-1762-4010-80a5-0e563f97d4e1",
+                        "title": "Gazpacho soup",
+                        "itemDescription": "Cold tomato soup",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ce3802ac-7838-41c5-bf63-0635b74d5f78",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                        ]
+                    },
+                    "94d41400-2ca0-44a7-a6c9-92dcbc7ac744": {
+                        "uuid": "94d41400-2ca0-44a7-a6c9-92dcbc7ac744",
+                        "title": "Blondie",
+                        "itemDescription": "White chocolate  (130 g).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7297f003-c2c5-454f-9a15-bf73fdef40cf",
+                        "suspendUntil": 1559509199
+                    },
+                    "5fe126b7-a5e3-41b7-b164-9cf6b18a615e": {
+                        "uuid": "5fe126b7-a5e3-41b7-b164-9cf6b18a615e",
+                        "title": "Tuna salad melt",
+                        "itemDescription": "With tomato, and cheddar (240 g).\t\t",
+                        "price": 19900,
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "14c62396-d7f0-4d4a-87e9-8a6412144f18"
+                        ]
+                    },
+                    "df485dfb-8210-499e-be5c-73484dd1a426": {
+                        "uuid": "df485dfb-8210-499e-be5c-73484dd1a426",
+                        "title": "4 cheese melt",
+                        "itemDescription": "Bechamel, cheddar, mozzarella, parmesan, and zaramelized onions (240 g).\t\t\t\t\t",
+                        "price": 19900,
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "5908e213-9e81-4f0a-a194-700e7abe8903"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "8b0873f3-e9fe-4413-aa75-2ea2ab782424",
+                        "title": "Salats",
+                        "itemUuids": [
+                            "fa718be1-0f34-444b-9a04-b138ef1cdb0a",
+                            "74d7211b-577b-4bb5-ab37-c4ac18008e19",
+                            "00141984-30cc-488e-98c8-1773fa28c777",
+                            "0223de0d-a890-4d63-b47f-5312c4888ea3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "fa718be1-0f34-444b-9a04-b138ef1cdb0a",
+                                "title": "Asian style grilled chicken salad",
+                                "itemDescription": "Red cabbage, green salad, carrot, tomatoes, radish, sweet pepper, chicken, peanut sauce, and deep fried noodles (220 g).",
+                                "price": 16500,
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "74d7211b-577b-4bb5-ab37-c4ac18008e19",
+                                "title": "Grilled Halloumi Salad",
+                                "itemDescription": "with sweet potato, Boston salad, broccoli, Parmesan, flax seed, basil and mint-tarragon dressing",
+                                "price": 15900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b96631b2-c1a3-48e8-9873-9fd27f2542d7",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "00141984-30cc-488e-98c8-1773fa28c777",
+                                "title": "Greek salad with home-made pita bread",
+                                "itemDescription": "Tomato, cucumber, Bulgarian pepper, red onion, feta cheese, olives \"Kalamata\", baby Robin salad, fresh basil, olive oil, and wine pink vinegar (280 g).",
+                                "price": 15500,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "0223de0d-a890-4d63-b47f-5312c4888ea3",
+                                "title": "Burrata salad",
+                                "itemDescription": "Burrata salad with tomatoes, raddish, spinach and sweet pepper chutney",
+                                "price": 16900,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "9ab5615a-cc50-4546-b671-7b3892cd56a3",
+                        "title": "Soups",
+                        "itemUuids": [
+                            "8576348a-1762-4010-80a5-0e563f97d4e1",
+                            "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8576348a-1762-4010-80a5-0e563f97d4e1",
+                                "title": "Gazpacho soup",
+                                "itemDescription": "Cold tomato soup",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ce3802ac-7838-41c5-bf63-0635b74d5f78",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                                ]
+                            },
+                            {
+                                "uuid": "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674",
+                                "title": "Summer chicken soup",
+                                "itemDescription": "Soup with sorgnum, coconut milk and chicken meatballs",
+                                "price": 8900,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "db835af0-68ba-4578-98ea-1daf14b51262",
+                        "title": "Main courses",
+                        "itemUuids": [
+                            "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0",
+                            "ff16b927-5ecb-4876-9f87-512f08e9ffbe"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0",
+                                "title": "Seared Salmon",
+                                "itemDescription": "Salmon with asparagus, broccolini and green beans (430 g).",
+                                "price": 24500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/38d1c80a-6bce-4b64-89cd-2c91adc760fe",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "ff16b927-5ecb-4876-9f87-512f08e9ffbe",
+                                "title": "Home made Tagliatelle Pasta",
+                                "itemDescription": "With beans, creamy spinach, romanesco, Parmesan, Philadelphia and fresh mint",
+                                "price": 19500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2168016f-7604-4517-bf01-cd9536d53606",
+                                "suspendUntil": 1559509199
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "086f6ea7-e9d0-4a3b-994a-45bc9ae5e4a8",
+                        "title": "Melts and sandwiches",
+                        "itemUuids": [
+                            "df485dfb-8210-499e-be5c-73484dd1a426",
+                            "5fe126b7-a5e3-41b7-b164-9cf6b18a615e",
+                            "01bf6d0c-832f-4bc1-b741-ff35a6344acf"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "df485dfb-8210-499e-be5c-73484dd1a426",
+                                "title": "4 cheese melt",
+                                "itemDescription": "Bechamel, cheddar, mozzarella, parmesan, and zaramelized onions (240 g).\t\t\t\t\t",
+                                "price": 19900,
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "5908e213-9e81-4f0a-a194-700e7abe8903"
+                                ]
+                            },
+                            {
+                                "uuid": "5fe126b7-a5e3-41b7-b164-9cf6b18a615e",
+                                "title": "Tuna salad melt",
+                                "itemDescription": "With tomato, and cheddar (240 g).\t\t",
+                                "price": 19900,
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "14c62396-d7f0-4d4a-87e9-8a6412144f18"
+                                ]
+                            },
+                            {
+                                "uuid": "01bf6d0c-832f-4bc1-b741-ff35a6344acf",
+                                "title": "X-tra crispy fried chicken sandwich with fries",
+                                "itemDescription": "Soy and ginger marinated chicken, red cabbage and carrots, melted Gouda, and sasame lemon aioli. Served with fries (330+140g).\t\t\t\t",
+                                "price": 18900,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "71402d66-da85-4809-8217-61063197ffd9",
+                        "title": "Sirniki",
+                        "itemUuids": [
+                            "528c7da4-c402-426c-b7db-562742dc40f6",
+                            "3e977056-1c7a-4402-b559-43c0d5c37b30"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "528c7da4-c402-426c-b7db-562742dc40f6",
+                                "title": "Sirniki",
+                                "itemDescription": "With sour cream, and honey (270 g).",
+                                "price": 9900,
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "3e977056-1c7a-4402-b559-43c0d5c37b30",
+                                "title": "Sirniki \"3 leches\"",
+                                "itemDescription": "Ukrainian sirniki with 3 leches sauce, and Philadelphia cream (270 g).",
+                                "price": 11500,
+                                "suspendUntil": 1559509199
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "61d070c1-fe4b-4e23-afe4-2438a21722db",
+                        "title": "Cakes",
+                        "itemUuids": [
+                            "8a6aa0a6-d857-44ca-8d08-b5bfcabee8d2",
+                            "4cad0003-99e4-4294-8e1d-6c1b6c16b8e9",
+                            "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4",
+                            "14c16db2-e0fc-4384-a3fb-023fd3e90d4c",
+                            "9586543c-07bd-461b-a467-b5bfd8ae3a72",
+                            "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                            "90776bb8-e91b-4e18-9676-e941c41f7872"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8a6aa0a6-d857-44ca-8d08-b5bfcabee8d2",
+                                "title": "Popcorn unicorn",
+                                "itemDescription": "The magic of caramel and popcorn (320 g).\t\t\t\t\t\t\t",
+                                "price": 11500
+                            },
+                            {
+                                "uuid": "4cad0003-99e4-4294-8e1d-6c1b6c16b8e9",
+                                "title": "Red velvet",
+                                "itemDescription": "Layers of soft red cake with cream cheese topping (240 g).\t\t\t\t\t\t",
+                                "price": 9500
+                            },
+                            {
+                                "uuid": "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4",
+                                "title": "Carrot cake with tahini cream",
+                                "itemDescription": "(280 g).",
+                                "price": 10500
+                            },
+                            {
+                                "uuid": "14c16db2-e0fc-4384-a3fb-023fd3e90d4c",
+                                "title": "3 leches",
+                                "itemDescription": "Vanilla sponge soaked with three types of milk - condensed, baked milk and cream (180 g).",
+                                "price": 6900,
+                                "customizationUuids": [
+                                    "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                                ]
+                            },
+                            {
+                                "uuid": "9586543c-07bd-461b-a467-b5bfd8ae3a72",
+                                "title": "Chocolate flourless cake",
+                                "itemDescription": "(175g)",
+                                "price": 11500
+                            },
+                            {
+                                "uuid": "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                                "title": "Miso Cake",
+                                "itemDescription": "Бісквітні коржі з додаванням місо-пасти, крему на основі сиру Філадельфії та Маскарпоне та свіжої груші.",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/58df5559-5d86-43b6-a026-7b8a04f59a4c",
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                                ]
+                            },
+                            {
+                                "uuid": "90776bb8-e91b-4e18-9676-e941c41f7872",
+                                "title": "Strawberry Lemonade",
+                                "itemDescription": "Lemon sponge with the addition of Philadelphia cream, passionfruit and raspberry custard, fresh strawberries and white chocolate.",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/728f7615-dfc9-47fa-9d41-9992efbf6b2f",
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "1695e378-ebf4-429e-8f65-6ef20e8a88a9",
+                        "title": "Cheesecakes",
+                        "itemUuids": [
+                            "9822e98e-06d0-409b-90a9-19de1a2dc164",
+                            "4edb7d9d-b922-43ba-8526-c388a4f07c2c"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9822e98e-06d0-409b-90a9-19de1a2dc164",
+                                "title": "English cheesecake",
+                                "itemDescription": "Oreo crust, cream of Philadelphia and salted caramel (140 g).\t\t\t\t\t\t\t",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a42d120-d91e-4b2d-b5c9-e4e2033d4e3d",
+                                "customizationUuids": [
+                                    "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                                ]
+                            },
+                            {
+                                "uuid": "4edb7d9d-b922-43ba-8526-c388a4f07c2c",
+                                "title": "Coney Island cheesecake",
+                                "itemDescription": "Lighter version of s classic New York cheesecake (190 g).",
+                                "price": 10500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "b5b9f8ab-f546-4323-992f-129934e89fa2",
+                        "title": "Bakery",
+                        "itemUuids": [
+                            "94d41400-2ca0-44a7-a6c9-92dcbc7ac744",
+                            "de47f64f-7e8c-455a-8e9e-a69591044e98",
+                            "a6115d76-d563-4123-b075-86b84b93bf2f",
+                            "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                            "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "94d41400-2ca0-44a7-a6c9-92dcbc7ac744",
+                                "title": "Blondie",
+                                "itemDescription": "White chocolate  (130 g).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7297f003-c2c5-454f-9a15-bf73fdef40cf",
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "de47f64f-7e8c-455a-8e9e-a69591044e98",
+                                "title": "Blueberry muffin",
+                                "itemDescription": "(210 g).",
+                                "price": 8900
+                            },
+                            {
+                                "uuid": "a6115d76-d563-4123-b075-86b84b93bf2f",
+                                "title": "Brownie",
+                                "itemDescription": "(200g)",
+                                "price": 8900
+                            },
+                            {
+                                "uuid": "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                                "title": "Whoopie Cookie",
+                                "itemDescription": "Шоколадні бісквіти з кремом Філадельфія та м'яким малиновим мармеладом",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/77c492b0-5eac-4019-b439-255e32fa920c",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1",
+                                "title": "PeanutButter Sandwich",
+                                "itemDescription": "Peanut Crispy Cookies with Philadelphia Cream and Condensed Milk.",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8b030e9-2dc7-4dc2-a486-2c30d9f73688",
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d456d07a-408c-45d3-b713-c1cfc40c60fa",
+                        "title": "Desserts",
+                        "itemUuids": [
+                            "f2db4067-7410-4667-a4a4-7d94b0aab437",
+                            "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f2db4067-7410-4667-a4a4-7d94b0aab437",
+                                "title": "Milk bar banana pudding",
+                                "itemDescription": "Classic Brooklyn dessert with bananas, and vanilla cookies (220 g).",
+                                "price": 9500
+                            },
+                            {
+                                "uuid": "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5",
+                                "title": "Rum, Vika, Rum",
+                                "itemDescription": "Десерт з додаванням полуничного джему з свіжою полуницею з додаванням рому, білого шоколаду та крему Маскарпоне з йогуртом.",
+                                "price": 13500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/06e7648a-9b25-427c-862b-98f56a20ea9f",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a44e7944-191e-496d-a984-97e9ee48a2e5",
+                        "title": "Brunch Specials",
+                        "itemUuids": [
+                            "2a97e008-ee92-4a68-abd4-011904e2b305",
+                            "67f8f012-8de8-4cc6-8078-b4833d7cd939",
+                            "88ab9ed7-9c31-4c0b-b806-23557c243ea7",
+                            "6a574d1a-4c33-4536-a665-708fb888128d"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2a97e008-ee92-4a68-abd4-011904e2b305",
+                                "title": "Omelette with chicken",
+                                "itemDescription": "Omelette with chicken, tomatoes, cheese and fries or green salad as a side ",
+                                "price": 14500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/979afc04-e449-4d85-ac3c-20ec18bb8717",
+                                "customizationUuids": [
+                                    "2c663f51-2683-4178-bc68-70fdcacbb124"
+                                ]
+                            },
+                            {
+                                "uuid": "67f8f012-8de8-4cc6-8078-b4833d7cd939",
+                                "title": "Soup of the week",
+                                "itemDescription": "Cauliflower cream soup",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/197108d0-b1fd-4eaa-9c5f-ce240043a5b8",
+                                "suspendUntil": 1559509199
+                            },
+                            {
+                                "uuid": "88ab9ed7-9c31-4c0b-b806-23557c243ea7",
+                                "title": "A stack of waffles for two",
+                                "itemDescription": "With chocolate and nut home-made cream ",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5076beae-df1c-4cd6-884d-2762c716a391",
+                                "customizationUuids": [
+                                    "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                                ]
+                            },
+                            {
+                                "uuid": "6a574d1a-4c33-4536-a665-708fb888128d",
+                                "title": "Prosciutto Waffles",
+                                "itemDescription": "with Philadelphia cheese,rocket, cherry tomatoes, pumpkin and sesame seeds,",
+                                "price": 21000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b190876-c437-4734-a4af-c2ea3f72e340",
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            },
+            "6f81d9d3-7a00-42a7-ad0f-30b92a2d3711": {
+                "itemsMap": {
+                    "f609c4cc-9dc6-4295-bb9f-ede7853edda0": {
+                        "uuid": "f609c4cc-9dc6-4295-bb9f-ede7853edda0",
+                        "title": "ЧІзкейк Coney Island",
+                        "itemDescription": "Це чізкейк горячого приготування. Пісочна основа.Чізкейк готуємо на основі маскарпоне і Філадельфії з додаванням ванілі (190 г).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/31525844-febb-4288-b248-40b2cec2f331",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "d911f7a3-67f6-4baa-bb14-a8bf24f23b40": {
+                        "uuid": "d911f7a3-67f6-4baa-bb14-a8bf24f23b40",
+                        "title": "Три молока",
+                        "itemDescription": "Міні-торт з пропиткою із трьох видів молока з кремом із легких вершків.",
+                        "price": 6900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cddc9f3-9f4a-429e-87dc-d55f032bbac8",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "8bc62508-527c-4248-b506-4575ad69ee35": {
+                        "uuid": "8bc62508-527c-4248-b506-4575ad69ee35",
+                        "title": "Суп пюре з червоної сочевиці зі шпинатом",
+                        "itemDescription": "Сочевиця червона, цибуля ріпчаста, морква, селера, часник, сочевиця червона, оливкова олія. Подається з овечевим маффіном.",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/affb25ed-fbcd-4b7d-9c1e-260d353bee7f",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "f10e686a-0132-4b1a-87b1-ecca1d948305": {
+                        "uuid": "f10e686a-0132-4b1a-87b1-ecca1d948305",
+                        "title": "Melt Тунець",
+                        "itemDescription": "Тунець, томати, чедер, філадельфія та хліб \"Берлінський\" (240 г).\t\t",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a559682d-3e3f-4de6-b410-0012ec717235",
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "19e187d9-1c49-4646-aedc-bf215f443b43",
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "f6ced396-e88e-4bf0-aae0-29af5c70b710": {
+                        "uuid": "f6ced396-e88e-4bf0-aae0-29af5c70b710",
+                        "title": "Melt 4 сири",
+                        "itemDescription": "Соус \"Бешамель\", сир Чеддер, сир Пармезан, сир Раклет, сир Моцарелла, хліб \"Берлінський\", карамелізована цибуля (240 г).\t\t\t\t\t",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e373c7f-3799-426f-a798-a61529211771",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "19e187d9-1c49-4646-aedc-bf215f443b43",
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "287c1216-81dd-4b4d-8bb2-3c0b131da9ea": {
+                        "uuid": "287c1216-81dd-4b4d-8bb2-3c0b131da9ea",
+                        "title": "Китайський салат із куркою",
+                        "itemDescription": "Червона капуста, листя салату, морква, томати, редис, солодкий перець, курка, китайський та арахісовий соус та смажена яєчна локшина (220 г).",
+                        "price": 16500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab315ac9-ce99-40da-b2c5-317969fdfe1e",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "03e68b1f-a143-4eda-8eb5-e88452bf5f04": {
+                        "uuid": "03e68b1f-a143-4eda-8eb5-e88452bf5f04",
+                        "title": "Морквяний торт з тхіною",
+                        "itemDescription": "Корж з банану, журавлини вяленої, ананасу консервованого, корицею та імбирем, пропитка з  апельсинового фрешу та цукрового сиропу, та крем на основі філадельфія та тхіни (280 г).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e38a47a-0446-48c7-948e-f350e8cb0a13",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "cefbf9fa-6a79-4933-a842-ae7c6a32fd13": {
+                        "uuid": "cefbf9fa-6a79-4933-a842-ae7c6a32fd13",
+                        "title": "Салат з Халумі на Грилі",
+                        "itemDescription": "З бататом, салатом Бостон, брокколі, пармезаном, насінням льону, базиліком та соусом з м'яти та тархуну.",
+                        "price": 15900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/df399de7-75a4-434e-bd7f-12b17f9654e3",
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "9df63249-4aa8-49d2-a5a0-a794eb1d44ce": {
+                        "uuid": "9df63249-4aa8-49d2-a5a0-a794eb1d44ce",
+                        "title": "Сирники зі сметаною та медом",
+                        "itemDescription": "Класичні сирники,які подаються зі сметаною і медом.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/dcbc2522-b3cf-46dd-a231-7a2f09f236ca",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "d3101455-76a6-4328-b9f9-263ba52c7bed": {
+                        "uuid": "d3101455-76a6-4328-b9f9-263ba52c7bed",
+                        "title": "Гаспачо",
+                        "itemDescription": "Легкий холодний пікантний томатний суп із перетертих в пюре свіжих овочів.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f46c4ff-ed90-4bd4-9b80-d8778cede601",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "ded26c3e-bcc0-44ea-bcbd-1b551844874f": {
+                        "uuid": "ded26c3e-bcc0-44ea-bcbd-1b551844874f",
+                        "title": "Літній суп з брокколіні",
+                        "itemDescription": "Легкий суп з додаванням сорго, кокосового  молока та курячих фрикадельок.",
+                        "price": 8900,
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "fd60245e-daf2-4c4c-af16-605ca4b853c1": {
+                        "uuid": "fd60245e-daf2-4c4c-af16-605ca4b853c1",
+                        "title": "Сирники з соусом \"3 молока\"",
+                        "itemDescription": " Сирники з соусом 3 молока та кремом \"Філадельфія\" (270 г).\t",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfeb1278-4394-4f25-84f4-7ed62a1b1950",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "f8cb839f-ef29-4a18-96ee-3fd6f95a3291": {
+                        "uuid": "f8cb839f-ef29-4a18-96ee-3fd6f95a3291",
+                        "title": "Найдовший шоколадний",
+                        "itemDescription": "",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/280711b2-dc77-4035-8bd0-4d1b4ee095c8",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "df9dd734-114c-404a-a422-8963f70f09ff": {
+                        "uuid": "df9dd734-114c-404a-a422-8963f70f09ff",
+                        "title": "Сендвіч з хрусткою куркою та картоплею фрі",
+                        "itemDescription": "Смажена курка у фритюрі з додаванням соєвого соусу та імбиру, червона капуста, морква, смажений сир та лимонний айолі.\t\t\t\t\t",
+                        "price": 18900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb843506-84ca-4324-8aa6-01c29c5f6601",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "f35ebd0a-18b5-4116-b89c-bb8114280983": {
+                        "uuid": "f35ebd0a-18b5-4116-b89c-bb8114280983",
+                        "title": "Чорничний мафін",
+                        "itemDescription": "Мафін з кремом на основі сиру Філадельфія, та крихти Орео (210 г).",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7137492-2492-42f9-8192-cdcc5e20de7d",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "f8d4bbdb-51eb-4578-80b9-e18ce0400728": {
+                        "uuid": "f8d4bbdb-51eb-4578-80b9-e18ce0400728",
+                        "title": "Popcorn unicorn",
+                        "itemDescription": "Білий ванільний бісквіт з карамельним маслом. Заварний банановий крем на основі білого шоколаду. Зверху крем на основі філадельфії, карамель та попкорн (320 г).\t\t\t\t\t\t\t",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c5f8dde7-9582-4a4f-824c-7a2b6c4961c4",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "2af37d91-d109-4c9c-8917-428dac1336f2": {
+                        "uuid": "2af37d91-d109-4c9c-8917-428dac1336f2",
+                        "title": "Омлет з куркою ",
+                        "itemDescription": "Омлет з куркою,сиром,томатами та картоплею фрі або зеленим салатом на вибір",
+                        "price": 14500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2deff4a3-d89c-4b8d-920e-fbcc7d7c710b",
+                        "customizationUuids": [
+                            "19e187d9-1c49-4646-aedc-bf215f443b43",
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "c694a5d2-495d-4f89-a47a-3deb600894cb": {
+                        "uuid": "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                        "title": "Miso Cake",
+                        "itemDescription": "Бісквітні коржі з додаванням місо-пасти, крему на основі сиру Філадельфії та Маскарпоне та свіжої груші.",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/58df5559-5d86-43b6-a026-7b8a04f59a4c",
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                        ]
+                    },
+                    "44669a3b-1a86-46c6-976d-a43ca6396fbe": {
+                        "uuid": "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                        "title": "Whoopie Cookie",
+                        "itemDescription": "Шоколадні бісквіти з кремом Філадельфія та м'яким малиновим мармеладом",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/77c492b0-5eac-4019-b439-255e32fa920c",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "438822ea-5735-40cc-9698-a546f78e8da8": {
+                        "uuid": "438822ea-5735-40cc-9698-a546f78e8da8",
+                        "title": "Грецький салат з домашньою пітою",
+                        "itemDescription": "Помідор, огірок, перець \"Болгарський\", цибуля червона, сир фета, маслини \"Каламата\", салат \"бебі Ромен\", базилік свіжий, оливковою олія, винним рожевим оцтом (280 г).",
+                        "price": 15500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8a43ad0-2a36-4a71-ac2f-657cec3c57ce",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "6a525af9-de9b-4baf-bb1c-5135ea45fae3": {
+                        "uuid": "6a525af9-de9b-4baf-bb1c-5135ea45fae3",
+                        "title": "Вафлі з Прошутто",
+                        "itemDescription": "З Філадельфією, рукколою, томатами черрі , насінням гарбуза та кунжуту",
+                        "price": 21000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf16815f-2e8c-4fda-a2e4-103d9adddec1",
+                        "nutritionalInfo": {},
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "d8ce2527-e3dc-474a-acf6-7730da9634e1": {
+                        "uuid": "d8ce2527-e3dc-474a-acf6-7730da9634e1",
+                        "title": "Fudge Box ",
+                        "itemDescription": "",
+                        "price": 25500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2e67795-82a7-4867-9bd6-4ddf3aa68177"
+                    },
+                    "58d6067c-519d-449a-a5a8-98e2956b33c2": {
+                        "uuid": "58d6067c-519d-449a-a5a8-98e2956b33c2",
+                        "title": "Банановий пудинг",
+                        "itemDescription": "Бруклінський пудинг з бананами та ванільним кукіс (220 г).",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d86dccd-bb77-4417-950f-8219864d57f6",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "5fcc1b02-0658-40ec-8d10-8636490c073e": {
+                        "uuid": "5fcc1b02-0658-40ec-8d10-8636490c073e",
+                        "title": "Суп тижня ",
+                        "itemDescription": "Крем-суп з цвітної капусти",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6254d2b0-4211-49d7-8253-e280c8af81d2",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "a5aecafb-2d42-4acb-8073-812108f40336": {
+                        "uuid": "a5aecafb-2d42-4acb-8073-812108f40336",
+                        "title": "Англійський чізкейк",
+                        "itemDescription": "Це чізкейк холодного приготування, подається в баночці. Склад: крихта Орео, чізкей на основі філадельфії з додаванням згущеного молока білого, солона Англійська карамель (140 г).\t\t\t\t\t\t\t",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cd3db5cb-e50a-43c4-bdae-3254039c0a84",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "83dc5d51-78df-4318-8afb-440cd0db74bc": {
+                        "uuid": "83dc5d51-78df-4318-8afb-440cd0db74bc",
+                        "title": "Блонді",
+                        "itemDescription": "Випічка на основі молочного та білого шоколаду з додаванням мигдалю і кокосової стружки (130 г).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/27f51ebe-46a3-4532-95ba-82f82144749c",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "a1ecd63e-1a31-4f96-9d24-a2aa54093caa": {
+                        "uuid": "a1ecd63e-1a31-4f96-9d24-a2aa54093caa",
+                        "title": "Peanutbutter sandwich",
+                        "itemDescription": "Арахісове хрустке печиво з кремом Філадельфія то сгущеним молоком.",
+                        "price": 8500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/005b6141-ba81-4c91-ad94-ef33c5b407d9",
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "fbc0a5ab-603f-4655-847e-cc826ed0acec": {
+                        "uuid": "fbc0a5ab-603f-4655-847e-cc826ed0acec",
+                        "title": "Паста Тальятелі",
+                        "itemDescription": "Паста власного приготування з бобами, вершковим шпинатом, романеско, пармезаном, сиром Філадельфія та м'ятою.",
+                        "price": 19500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2168016f-7604-4517-bf01-cd9536d53606",
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "3916857f-fb2b-4ade-85a1-e0414f476dd4": {
+                        "uuid": "3916857f-fb2b-4ade-85a1-e0414f476dd4",
+                        "title": "Полуничний лимонад",
+                        "itemDescription": "Лимонні бісквіти з додаванням крему Філадельфії, маракуєвого та малинового заварного крему, свіжої полуниці та білого шоколаду.",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/81dde2f1-57f0-4040-a17c-bbc3033c5dc1",
+                        "nutritionalInfo": {}
+                    },
+                    "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5": {
+                        "uuid": "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5",
+                        "title": "Rum, Vika, Rum",
+                        "itemDescription": "Десерт з додаванням полуничного джему з свіжою полуницею з додаванням рому, білого шоколаду та крему Маскарпоне з йогуртом.",
+                        "price": 13500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/06e7648a-9b25-427c-862b-98f56a20ea9f",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "34a02594-542a-4132-a788-78975be4def8": {
+                        "uuid": "34a02594-542a-4132-a788-78975be4def8",
+                        "title": "Red velvet",
+                        "itemDescription": "Торт з багатою історією і насиченим смаком. Темно-червоні бісквітні коржі на кефірной основі, приготовані з додаванням какао і бурякового соку та крем на основі філадельфії (240 г).\t\t\t\t\t\t",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3fbc5f76-e846-4eb6-95b2-66022c62a66c",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "0a931b68-be91-4f1b-876d-16cd61fddacb": {
+                        "uuid": "0a931b68-be91-4f1b-876d-16cd61fddacb",
+                        "title": "Гора вафель для двох ",
+                        "itemDescription": "З домашнім шоколадно-горіховим кремом ",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/05559760-9194-43b3-8391-03b6a72ac419"
+                    },
+                    "a4b3d077-8dae-433b-b259-3ad24af9a405": {
+                        "uuid": "a4b3d077-8dae-433b-b259-3ad24af9a405",
+                        "title": "Салат з бурратою",
+                        "itemDescription": "Салат з бурратою, томатами, редисом, шпинатом, та чатні з болгарським перцем",
+                        "price": 16900,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "2bf2a68d-4b3f-41af-8d6c-2bef1b857f26": {
+                        "uuid": "2bf2a68d-4b3f-41af-8d6c-2bef1b857f26",
+                        "title": "Лосось з овочами",
+                        "itemDescription": "Лосось зі спаржею, брокколіні та спаржевою квасолею (430 г).",
+                        "price": 24500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/80f7f6ff-4cc7-4532-8e16-aca7fd04d486",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 1559509199,
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    },
+                    "658b197a-d069-45bd-ad83-c9282070008f": {
+                        "uuid": "658b197a-d069-45bd-ad83-c9282070008f",
+                        "title": "Брауні",
+                        "itemDescription": "(200г)",
+                        "price": 8900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/098740fe-ed1d-42a8-b821-b38fb9a745d7",
+                        "customizationUuids": [
+                            "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "4d30ee5a-ea78-469b-b212-fa5b117f2b71",
+                        "title": "Салати",
+                        "itemUuids": [
+                            "438822ea-5735-40cc-9698-a546f78e8da8",
+                            "287c1216-81dd-4b4d-8bb2-3c0b131da9ea",
+                            "cefbf9fa-6a79-4933-a842-ae7c6a32fd13",
+                            "a4b3d077-8dae-433b-b259-3ad24af9a405"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "438822ea-5735-40cc-9698-a546f78e8da8",
+                                "title": "Грецький салат з домашньою пітою",
+                                "itemDescription": "Помідор, огірок, перець \"Болгарський\", цибуля червона, сир фета, маслини \"Каламата\", салат \"бебі Ромен\", базилік свіжий, оливковою олія, винним рожевим оцтом (280 г).",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8a43ad0-2a36-4a71-ac2f-657cec3c57ce",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "287c1216-81dd-4b4d-8bb2-3c0b131da9ea",
+                                "title": "Китайський салат із куркою",
+                                "itemDescription": "Червона капуста, листя салату, морква, томати, редис, солодкий перець, курка, китайський та арахісовий соус та смажена яєчна локшина (220 г).",
+                                "price": 16500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab315ac9-ce99-40da-b2c5-317969fdfe1e",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "cefbf9fa-6a79-4933-a842-ae7c6a32fd13",
+                                "title": "Салат з Халумі на Грилі",
+                                "itemDescription": "З бататом, салатом Бостон, брокколі, пармезаном, насінням льону, базиліком та соусом з м'яти та тархуну.",
+                                "price": 15900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/df399de7-75a4-434e-bd7f-12b17f9654e3",
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "a4b3d077-8dae-433b-b259-3ad24af9a405",
+                                "title": "Салат з бурратою",
+                                "itemDescription": "Салат з бурратою, томатами, редисом, шпинатом, та чатні з болгарським перцем",
+                                "price": 16900,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a75335e8-45aa-455c-9e66-d6a8053e45cd",
+                        "title": "Супи",
+                        "itemUuids": [
+                            "8bc62508-527c-4248-b506-4575ad69ee35",
+                            "d3101455-76a6-4328-b9f9-263ba52c7bed",
+                            "ded26c3e-bcc0-44ea-bcbd-1b551844874f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8bc62508-527c-4248-b506-4575ad69ee35",
+                                "title": "Суп пюре з червоної сочевиці зі шпинатом",
+                                "itemDescription": "Сочевиця червона, цибуля ріпчаста, морква, селера, часник, сочевиця червона, оливкова олія. Подається з овечевим маффіном.",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/affb25ed-fbcd-4b7d-9c1e-260d353bee7f",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "d3101455-76a6-4328-b9f9-263ba52c7bed",
+                                "title": "Гаспачо",
+                                "itemDescription": "Легкий холодний пікантний томатний суп із перетертих в пюре свіжих овочів.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f46c4ff-ed90-4bd4-9b80-d8778cede601",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "ded26c3e-bcc0-44ea-bcbd-1b551844874f",
+                                "title": "Літній суп з брокколіні",
+                                "itemDescription": "Легкий суп з додаванням сорго, кокосового  молока та курячих фрикадельок.",
+                                "price": 8900,
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "4e49bf1d-cb92-415b-995a-dae3f2d93dbf",
+                        "title": "Основні страви",
+                        "itemUuids": [
+                            "2bf2a68d-4b3f-41af-8d6c-2bef1b857f26",
+                            "fbc0a5ab-603f-4655-847e-cc826ed0acec"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2bf2a68d-4b3f-41af-8d6c-2bef1b857f26",
+                                "title": "Лосось з овочами",
+                                "itemDescription": "Лосось зі спаржею, брокколіні та спаржевою квасолею (430 г).",
+                                "price": 24500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/80f7f6ff-4cc7-4532-8e16-aca7fd04d486",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "fbc0a5ab-603f-4655-847e-cc826ed0acec",
+                                "title": "Паста Тальятелі",
+                                "itemDescription": "Паста власного приготування з бобами, вершковим шпинатом, романеско, пармезаном, сиром Філадельфія та м'ятою.",
+                                "price": 19500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2168016f-7604-4517-bf01-cd9536d53606",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "911b3c3e-694a-4cc2-89f2-7993908c0059",
+                        "title": "Сендвічі та мелти",
+                        "itemUuids": [
+                            "f6ced396-e88e-4bf0-aae0-29af5c70b710",
+                            "f10e686a-0132-4b1a-87b1-ecca1d948305",
+                            "df9dd734-114c-404a-a422-8963f70f09ff"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f6ced396-e88e-4bf0-aae0-29af5c70b710",
+                                "title": "Melt 4 сири",
+                                "itemDescription": "Соус \"Бешамель\", сир Чеддер, сир Пармезан, сир Раклет, сир Моцарелла, хліб \"Берлінський\", карамелізована цибуля (240 г).\t\t\t\t\t",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e373c7f-3799-426f-a798-a61529211771",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "19e187d9-1c49-4646-aedc-bf215f443b43",
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "f10e686a-0132-4b1a-87b1-ecca1d948305",
+                                "title": "Melt Тунець",
+                                "itemDescription": "Тунець, томати, чедер, філадельфія та хліб \"Берлінський\" (240 г).\t\t",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a559682d-3e3f-4de6-b410-0012ec717235",
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "19e187d9-1c49-4646-aedc-bf215f443b43",
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "df9dd734-114c-404a-a422-8963f70f09ff",
+                                "title": "Сендвіч з хрусткою куркою та картоплею фрі",
+                                "itemDescription": "Смажена курка у фритюрі з додаванням соєвого соусу та імбиру, червона капуста, морква, смажений сир та лимонний айолі.\t\t\t\t\t",
+                                "price": 18900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb843506-84ca-4324-8aa6-01c29c5f6601",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "2c9ae7d7-c981-4b78-887c-9b5d2bd07361",
+                        "title": "Сирники",
+                        "itemUuids": [
+                            "9df63249-4aa8-49d2-a5a0-a794eb1d44ce",
+                            "fd60245e-daf2-4c4c-af16-605ca4b853c1"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9df63249-4aa8-49d2-a5a0-a794eb1d44ce",
+                                "title": "Сирники зі сметаною та медом",
+                                "itemDescription": "Класичні сирники,які подаються зі сметаною і медом.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/dcbc2522-b3cf-46dd-a231-7a2f09f236ca",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "fd60245e-daf2-4c4c-af16-605ca4b853c1",
+                                "title": "Сирники з соусом \"3 молока\"",
+                                "itemDescription": " Сирники з соусом 3 молока та кремом \"Філадельфія\" (270 г).\t",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfeb1278-4394-4f25-84f4-7ed62a1b1950",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "708eb181-c115-4e5d-a63e-390f42afb9c2",
+                        "title": "Торти",
+                        "itemUuids": [
+                            "d911f7a3-67f6-4baa-bb14-a8bf24f23b40",
+                            "f8d4bbdb-51eb-4578-80b9-e18ce0400728",
+                            "34a02594-542a-4132-a788-78975be4def8",
+                            "03e68b1f-a143-4eda-8eb5-e88452bf5f04",
+                            "f8cb839f-ef29-4a18-96ee-3fd6f95a3291",
+                            "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                            "3916857f-fb2b-4ade-85a1-e0414f476dd4"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "d911f7a3-67f6-4baa-bb14-a8bf24f23b40",
+                                "title": "Три молока",
+                                "itemDescription": "Міні-торт з пропиткою із трьох видів молока з кремом із легких вершків.",
+                                "price": 6900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cddc9f3-9f4a-429e-87dc-d55f032bbac8",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "f8d4bbdb-51eb-4578-80b9-e18ce0400728",
+                                "title": "Popcorn unicorn",
+                                "itemDescription": "Білий ванільний бісквіт з карамельним маслом. Заварний банановий крем на основі білого шоколаду. Зверху крем на основі філадельфії, карамель та попкорн (320 г).\t\t\t\t\t\t\t",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c5f8dde7-9582-4a4f-824c-7a2b6c4961c4",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "34a02594-542a-4132-a788-78975be4def8",
+                                "title": "Red velvet",
+                                "itemDescription": "Торт з багатою історією і насиченим смаком. Темно-червоні бісквітні коржі на кефірной основі, приготовані з додаванням какао і бурякового соку та крем на основі філадельфії (240 г).\t\t\t\t\t\t",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3fbc5f76-e846-4eb6-95b2-66022c62a66c",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "03e68b1f-a143-4eda-8eb5-e88452bf5f04",
+                                "title": "Морквяний торт з тхіною",
+                                "itemDescription": "Корж з банану, журавлини вяленої, ананасу консервованого, корицею та імбирем, пропитка з  апельсинового фрешу та цукрового сиропу, та крем на основі філадельфія та тхіни (280 г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e38a47a-0446-48c7-948e-f350e8cb0a13",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "f8cb839f-ef29-4a18-96ee-3fd6f95a3291",
+                                "title": "Найдовший шоколадний",
+                                "itemDescription": "",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/280711b2-dc77-4035-8bd0-4d1b4ee095c8",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                                "title": "Miso Cake",
+                                "itemDescription": "Бісквітні коржі з додаванням місо-пасти, крему на основі сиру Філадельфії та Маскарпоне та свіжої груші.",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/58df5559-5d86-43b6-a026-7b8a04f59a4c",
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "234c6036-fd47-4f0b-91ed-f6826dd009b6"
+                                ]
+                            },
+                            {
+                                "uuid": "3916857f-fb2b-4ade-85a1-e0414f476dd4",
+                                "title": "Полуничний лимонад",
+                                "itemDescription": "Лимонні бісквіти з додаванням крему Філадельфії, маракуєвого та малинового заварного крему, свіжої полуниці та білого шоколаду.",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/81dde2f1-57f0-4040-a17c-bbc3033c5dc1",
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a39fb82e-f934-4021-ba77-36378944e576",
+                        "title": "Чізкейки",
+                        "itemUuids": [
+                            "a5aecafb-2d42-4acb-8073-812108f40336",
+                            "f609c4cc-9dc6-4295-bb9f-ede7853edda0"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "a5aecafb-2d42-4acb-8073-812108f40336",
+                                "title": "Англійський чізкейк",
+                                "itemDescription": "Це чізкейк холодного приготування, подається в баночці. Склад: крихта Орео, чізкей на основі філадельфії з додаванням згущеного молока білого, солона Англійська карамель (140 г).\t\t\t\t\t\t\t",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cd3db5cb-e50a-43c4-bdae-3254039c0a84",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "f609c4cc-9dc6-4295-bb9f-ede7853edda0",
+                                "title": "ЧІзкейк Coney Island",
+                                "itemDescription": "Це чізкейк горячого приготування. Пісочна основа.Чізкейк готуємо на основі маскарпоне і Філадельфії з додаванням ванілі (190 г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/31525844-febb-4288-b248-40b2cec2f331",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d04bb377-94eb-472d-b38b-3b9de0bfa8d4",
+                        "title": "Випічка",
+                        "itemUuids": [
+                            "83dc5d51-78df-4318-8afb-440cd0db74bc",
+                            "f35ebd0a-18b5-4116-b89c-bb8114280983",
+                            "658b197a-d069-45bd-ad83-c9282070008f",
+                            "d8ce2527-e3dc-474a-acf6-7730da9634e1",
+                            "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                            "a1ecd63e-1a31-4f96-9d24-a2aa54093caa"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "83dc5d51-78df-4318-8afb-440cd0db74bc",
+                                "title": "Блонді",
+                                "itemDescription": "Випічка на основі молочного та білого шоколаду з додаванням мигдалю і кокосової стружки (130 г).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/27f51ebe-46a3-4532-95ba-82f82144749c",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "f35ebd0a-18b5-4116-b89c-bb8114280983",
+                                "title": "Чорничний мафін",
+                                "itemDescription": "Мафін з кремом на основі сиру Філадельфія, та крихти Орео (210 г).",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7137492-2492-42f9-8192-cdcc5e20de7d",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "658b197a-d069-45bd-ad83-c9282070008f",
+                                "title": "Брауні",
+                                "itemDescription": "(200г)",
+                                "price": 8900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/098740fe-ed1d-42a8-b821-b38fb9a745d7",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "d8ce2527-e3dc-474a-acf6-7730da9634e1",
+                                "title": "Fudge Box ",
+                                "itemDescription": "",
+                                "price": 25500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2e67795-82a7-4867-9bd6-4ddf3aa68177"
+                            },
+                            {
+                                "uuid": "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                                "title": "Whoopie Cookie",
+                                "itemDescription": "Шоколадні бісквіти з кремом Філадельфія та м'яким малиновим мармеладом",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/77c492b0-5eac-4019-b439-255e32fa920c",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "a1ecd63e-1a31-4f96-9d24-a2aa54093caa",
+                                "title": "Peanutbutter sandwich",
+                                "itemDescription": "Арахісове хрустке печиво з кремом Філадельфія то сгущеним молоком.",
+                                "price": 8500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/005b6141-ba81-4c91-ad94-ef33c5b407d9",
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "6145217f-a478-444c-a1d4-ea5b12fc080f",
+                        "title": "Десерти",
+                        "itemUuids": [
+                            "58d6067c-519d-449a-a5a8-98e2956b33c2",
+                            "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "58d6067c-519d-449a-a5a8-98e2956b33c2",
+                                "title": "Банановий пудинг",
+                                "itemDescription": "Бруклінський пудинг з бананами та ванільним кукіс (220 г).",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d86dccd-bb77-4417-950f-8219864d57f6",
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5",
+                                "title": "Rum, Vika, Rum",
+                                "itemDescription": "Десерт з додаванням полуничного джему з свіжою полуницею з додаванням рому, білого шоколаду та крему Маскарпоне з йогуртом.",
+                                "price": 13500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/06e7648a-9b25-427c-862b-98f56a20ea9f",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "3018c578-0aa8-46cb-9072-25f2e627af9c",
+                        "title": "Brunch Specials  ",
+                        "itemUuids": [
+                            "2af37d91-d109-4c9c-8917-428dac1336f2",
+                            "5fcc1b02-0658-40ec-8d10-8636490c073e",
+                            "0a931b68-be91-4f1b-876d-16cd61fddacb",
+                            "6a525af9-de9b-4baf-bb1c-5135ea45fae3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2af37d91-d109-4c9c-8917-428dac1336f2",
+                                "title": "Омлет з куркою ",
+                                "itemDescription": "Омлет з куркою,сиром,томатами та картоплею фрі або зеленим салатом на вибір",
+                                "price": 14500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2deff4a3-d89c-4b8d-920e-fbcc7d7c710b",
+                                "customizationUuids": [
+                                    "19e187d9-1c49-4646-aedc-bf215f443b43",
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "5fcc1b02-0658-40ec-8d10-8636490c073e",
+                                "title": "Суп тижня ",
+                                "itemDescription": "Крем-суп з цвітної капусти",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6254d2b0-4211-49d7-8253-e280c8af81d2",
+                                "suspendUntil": 1559509199,
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            },
+                            {
+                                "uuid": "0a931b68-be91-4f1b-876d-16cd61fddacb",
+                                "title": "Гора вафель для двох ",
+                                "itemDescription": "З домашнім шоколадно-горіховим кремом ",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/05559760-9194-43b3-8391-03b6a72ac419"
+                            },
+                            {
+                                "uuid": "6a525af9-de9b-4baf-bb1c-5135ea45fae3",
+                                "title": "Вафлі з Прошутто",
+                                "itemDescription": "З Філадельфією, рукколою, томатами черрі , насінням гарбуза та кунжуту",
+                                "price": 21000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf16815f-2e8c-4fda-a2e4-103d9adddec1",
+                                "nutritionalInfo": {},
+                                "customizationUuids": [
+                                    "ac9cb89c-55c2-427c-825a-30c9677f69d7"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "b5b9f8ab-f546-4323-992f-129934e89fa2": {
+                "uuid": "b5b9f8ab-f546-4323-992f-129934e89fa2",
+                "title": "Bakery",
+                "itemUuids": [
+                    "94d41400-2ca0-44a7-a6c9-92dcbc7ac744",
+                    "de47f64f-7e8c-455a-8e9e-a69591044e98",
+                    "a6115d76-d563-4123-b075-86b84b93bf2f",
+                    "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                    "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "94d41400-2ca0-44a7-a6c9-92dcbc7ac744",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "de47f64f-7e8c-455a-8e9e-a69591044e98",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a6115d76-d563-4123-b075-86b84b93bf2f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d04bb377-94eb-472d-b38b-3b9de0bfa8d4": {
+                "uuid": "d04bb377-94eb-472d-b38b-3b9de0bfa8d4",
+                "title": "Випічка",
+                "itemUuids": [
+                    "83dc5d51-78df-4318-8afb-440cd0db74bc",
+                    "f35ebd0a-18b5-4116-b89c-bb8114280983",
+                    "658b197a-d069-45bd-ad83-c9282070008f",
+                    "d8ce2527-e3dc-474a-acf6-7730da9634e1",
+                    "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                    "a1ecd63e-1a31-4f96-9d24-a2aa54093caa"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "83dc5d51-78df-4318-8afb-440cd0db74bc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f35ebd0a-18b5-4116-b89c-bb8114280983",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "658b197a-d069-45bd-ad83-c9282070008f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d8ce2527-e3dc-474a-acf6-7730da9634e1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "44669a3b-1a86-46c6-976d-a43ca6396fbe",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a1ecd63e-1a31-4f96-9d24-a2aa54093caa",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "9ab5615a-cc50-4546-b671-7b3892cd56a3": {
+                "uuid": "9ab5615a-cc50-4546-b671-7b3892cd56a3",
+                "title": "Soups",
+                "itemUuids": [
+                    "8576348a-1762-4010-80a5-0e563f97d4e1",
+                    "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8576348a-1762-4010-80a5-0e563f97d4e1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d456d07a-408c-45d3-b713-c1cfc40c60fa": {
+                "uuid": "d456d07a-408c-45d3-b713-c1cfc40c60fa",
+                "title": "Desserts",
+                "itemUuids": [
+                    "f2db4067-7410-4667-a4a4-7d94b0aab437",
+                    "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f2db4067-7410-4667-a4a4-7d94b0aab437",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "2c9ae7d7-c981-4b78-887c-9b5d2bd07361": {
+                "uuid": "2c9ae7d7-c981-4b78-887c-9b5d2bd07361",
+                "title": "Сирники",
+                "itemUuids": [
+                    "9df63249-4aa8-49d2-a5a0-a794eb1d44ce",
+                    "fd60245e-daf2-4c4c-af16-605ca4b853c1"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9df63249-4aa8-49d2-a5a0-a794eb1d44ce",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "fd60245e-daf2-4c4c-af16-605ca4b853c1",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "71402d66-da85-4809-8217-61063197ffd9": {
+                "uuid": "71402d66-da85-4809-8217-61063197ffd9",
+                "title": "Sirniki",
+                "itemUuids": [
+                    "528c7da4-c402-426c-b7db-562742dc40f6",
+                    "3e977056-1c7a-4402-b559-43c0d5c37b30"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "528c7da4-c402-426c-b7db-562742dc40f6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3e977056-1c7a-4402-b559-43c0d5c37b30",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "8b0873f3-e9fe-4413-aa75-2ea2ab782424": {
+                "uuid": "8b0873f3-e9fe-4413-aa75-2ea2ab782424",
+                "title": "Salats",
+                "itemUuids": [
+                    "fa718be1-0f34-444b-9a04-b138ef1cdb0a",
+                    "74d7211b-577b-4bb5-ab37-c4ac18008e19",
+                    "00141984-30cc-488e-98c8-1773fa28c777",
+                    "0223de0d-a890-4d63-b47f-5312c4888ea3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "fa718be1-0f34-444b-9a04-b138ef1cdb0a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "74d7211b-577b-4bb5-ab37-c4ac18008e19",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "00141984-30cc-488e-98c8-1773fa28c777",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0223de0d-a890-4d63-b47f-5312c4888ea3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "3018c578-0aa8-46cb-9072-25f2e627af9c": {
+                "uuid": "3018c578-0aa8-46cb-9072-25f2e627af9c",
+                "title": "Brunch Specials  ",
+                "itemUuids": [
+                    "2af37d91-d109-4c9c-8917-428dac1336f2",
+                    "5fcc1b02-0658-40ec-8d10-8636490c073e",
+                    "0a931b68-be91-4f1b-876d-16cd61fddacb",
+                    "6a525af9-de9b-4baf-bb1c-5135ea45fae3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2af37d91-d109-4c9c-8917-428dac1336f2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5fcc1b02-0658-40ec-8d10-8636490c073e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0a931b68-be91-4f1b-876d-16cd61fddacb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6a525af9-de9b-4baf-bb1c-5135ea45fae3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "4d30ee5a-ea78-469b-b212-fa5b117f2b71": {
+                "uuid": "4d30ee5a-ea78-469b-b212-fa5b117f2b71",
+                "title": "Салати",
+                "itemUuids": [
+                    "438822ea-5735-40cc-9698-a546f78e8da8",
+                    "287c1216-81dd-4b4d-8bb2-3c0b131da9ea",
+                    "cefbf9fa-6a79-4933-a842-ae7c6a32fd13",
+                    "a4b3d077-8dae-433b-b259-3ad24af9a405"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "438822ea-5735-40cc-9698-a546f78e8da8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "287c1216-81dd-4b4d-8bb2-3c0b131da9ea",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cefbf9fa-6a79-4933-a842-ae7c6a32fd13",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a4b3d077-8dae-433b-b259-3ad24af9a405",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "1695e378-ebf4-429e-8f65-6ef20e8a88a9": {
+                "uuid": "1695e378-ebf4-429e-8f65-6ef20e8a88a9",
+                "title": "Cheesecakes",
+                "itemUuids": [
+                    "9822e98e-06d0-409b-90a9-19de1a2dc164",
+                    "4edb7d9d-b922-43ba-8526-c388a4f07c2c"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9822e98e-06d0-409b-90a9-19de1a2dc164",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4edb7d9d-b922-43ba-8526-c388a4f07c2c",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "db835af0-68ba-4578-98ea-1daf14b51262": {
+                "uuid": "db835af0-68ba-4578-98ea-1daf14b51262",
+                "title": "Main courses",
+                "itemUuids": [
+                    "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0",
+                    "ff16b927-5ecb-4876-9f87-512f08e9ffbe"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ff16b927-5ecb-4876-9f87-512f08e9ffbe",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a75335e8-45aa-455c-9e66-d6a8053e45cd": {
+                "uuid": "a75335e8-45aa-455c-9e66-d6a8053e45cd",
+                "title": "Супи",
+                "itemUuids": [
+                    "8bc62508-527c-4248-b506-4575ad69ee35",
+                    "d3101455-76a6-4328-b9f9-263ba52c7bed",
+                    "ded26c3e-bcc0-44ea-bcbd-1b551844874f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8bc62508-527c-4248-b506-4575ad69ee35",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d3101455-76a6-4328-b9f9-263ba52c7bed",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ded26c3e-bcc0-44ea-bcbd-1b551844874f",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "4e49bf1d-cb92-415b-995a-dae3f2d93dbf": {
+                "uuid": "4e49bf1d-cb92-415b-995a-dae3f2d93dbf",
+                "title": "Основні страви",
+                "itemUuids": [
+                    "2bf2a68d-4b3f-41af-8d6c-2bef1b857f26",
+                    "fbc0a5ab-603f-4655-847e-cc826ed0acec"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2bf2a68d-4b3f-41af-8d6c-2bef1b857f26",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "fbc0a5ab-603f-4655-847e-cc826ed0acec",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "61d070c1-fe4b-4e23-afe4-2438a21722db": {
+                "uuid": "61d070c1-fe4b-4e23-afe4-2438a21722db",
+                "title": "Cakes",
+                "itemUuids": [
+                    "8a6aa0a6-d857-44ca-8d08-b5bfcabee8d2",
+                    "4cad0003-99e4-4294-8e1d-6c1b6c16b8e9",
+                    "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4",
+                    "14c16db2-e0fc-4384-a3fb-023fd3e90d4c",
+                    "9586543c-07bd-461b-a467-b5bfd8ae3a72",
+                    "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                    "90776bb8-e91b-4e18-9676-e941c41f7872"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8a6aa0a6-d857-44ca-8d08-b5bfcabee8d2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4cad0003-99e4-4294-8e1d-6c1b6c16b8e9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "14c16db2-e0fc-4384-a3fb-023fd3e90d4c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9586543c-07bd-461b-a467-b5bfd8ae3a72",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "90776bb8-e91b-4e18-9676-e941c41f7872",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "708eb181-c115-4e5d-a63e-390f42afb9c2": {
+                "uuid": "708eb181-c115-4e5d-a63e-390f42afb9c2",
+                "title": "Торти",
+                "itemUuids": [
+                    "d911f7a3-67f6-4baa-bb14-a8bf24f23b40",
+                    "f8d4bbdb-51eb-4578-80b9-e18ce0400728",
+                    "34a02594-542a-4132-a788-78975be4def8",
+                    "03e68b1f-a143-4eda-8eb5-e88452bf5f04",
+                    "f8cb839f-ef29-4a18-96ee-3fd6f95a3291",
+                    "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                    "3916857f-fb2b-4ade-85a1-e0414f476dd4"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "d911f7a3-67f6-4baa-bb14-a8bf24f23b40",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f8d4bbdb-51eb-4578-80b9-e18ce0400728",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "34a02594-542a-4132-a788-78975be4def8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "03e68b1f-a143-4eda-8eb5-e88452bf5f04",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f8cb839f-ef29-4a18-96ee-3fd6f95a3291",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c694a5d2-495d-4f89-a47a-3deb600894cb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3916857f-fb2b-4ade-85a1-e0414f476dd4",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "911b3c3e-694a-4cc2-89f2-7993908c0059": {
+                "uuid": "911b3c3e-694a-4cc2-89f2-7993908c0059",
+                "title": "Сендвічі та мелти",
+                "itemUuids": [
+                    "f6ced396-e88e-4bf0-aae0-29af5c70b710",
+                    "f10e686a-0132-4b1a-87b1-ecca1d948305",
+                    "df9dd734-114c-404a-a422-8963f70f09ff"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f6ced396-e88e-4bf0-aae0-29af5c70b710",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f10e686a-0132-4b1a-87b1-ecca1d948305",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "df9dd734-114c-404a-a422-8963f70f09ff",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "086f6ea7-e9d0-4a3b-994a-45bc9ae5e4a8": {
+                "uuid": "086f6ea7-e9d0-4a3b-994a-45bc9ae5e4a8",
+                "title": "Melts and sandwiches",
+                "itemUuids": [
+                    "df485dfb-8210-499e-be5c-73484dd1a426",
+                    "5fe126b7-a5e3-41b7-b164-9cf6b18a615e",
+                    "01bf6d0c-832f-4bc1-b741-ff35a6344acf"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "df485dfb-8210-499e-be5c-73484dd1a426",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5fe126b7-a5e3-41b7-b164-9cf6b18a615e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "01bf6d0c-832f-4bc1-b741-ff35a6344acf",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a39fb82e-f934-4021-ba77-36378944e576": {
+                "uuid": "a39fb82e-f934-4021-ba77-36378944e576",
+                "title": "Чізкейки",
+                "itemUuids": [
+                    "a5aecafb-2d42-4acb-8073-812108f40336",
+                    "f609c4cc-9dc6-4295-bb9f-ede7853edda0"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "a5aecafb-2d42-4acb-8073-812108f40336",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f609c4cc-9dc6-4295-bb9f-ede7853edda0",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a44e7944-191e-496d-a984-97e9ee48a2e5": {
+                "uuid": "a44e7944-191e-496d-a984-97e9ee48a2e5",
+                "title": "Brunch Specials",
+                "itemUuids": [
+                    "2a97e008-ee92-4a68-abd4-011904e2b305",
+                    "67f8f012-8de8-4cc6-8078-b4833d7cd939",
+                    "88ab9ed7-9c31-4c0b-b806-23557c243ea7",
+                    "6a574d1a-4c33-4536-a665-708fb888128d"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2a97e008-ee92-4a68-abd4-011904e2b305",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "67f8f012-8de8-4cc6-8078-b4833d7cd939",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "88ab9ed7-9c31-4c0b-b806-23557c243ea7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6a574d1a-4c33-4536-a665-708fb888128d",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "6145217f-a478-444c-a1d4-ea5b12fc080f": {
+                "uuid": "6145217f-a478-444c-a1d4-ea5b12fc080f",
+                "title": "Десерти",
+                "itemUuids": [
+                    "58d6067c-519d-449a-a5a8-98e2956b33c2",
+                    "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "58d6067c-519d-449a-a5a8-98e2956b33c2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.438959,
+            "longitude": 30.51944799999999,
+            "address": {
+                "address1": "Shota Rustaveli St, 16",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Shota Rustaveli St, 16, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380442370907"
+        },
+        "priceBucket": "₴₴",
+        "slug": "milk-bar",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/cd0ed1c1-d96e-4d94-978f-aef68e8724ee",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/600f717c-2f25-4617-9fbe-fa892d0e81b0",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/ade5335f-480c-4b48-bb42-462be445a4f7",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/93905bfd-b03d-42ab-8fba-1457c37dca71",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/323a69f4-f1d6-4b05-9943-3197285fb755",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "endorsement": {
+                "backgroundColor": {
+                    "alpha": 1,
+                    "color": "59BD5A"
+                },
+                "iconColor": {
+                    "alpha": 1,
+                    "color": "59BD5A"
+                },
+                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+                "text": "Десерти, про які всі говорять",
+                "textColor": {
+                    "alpha": 1,
+                    "color": "FFFFFF"
+                }
+            },
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.8 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(500+)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.8 out of 5 stars based on more than 200 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴₴ • Desserts • European</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "20–30 MINS",
+                "textFormat": "<span>20–30 MINS</span>",
+                "accessibilityText": "Delivered in 20 to 30 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 20,
+            "max": 30,
+            "raw": 25
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Sunday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Monday - Friday",
+                    "sectionHours": [
+                        {
+                            "startTime": 690,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 690,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Saturday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1200,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

@@ -1,0 +1,1715 @@
+{
+    "store": {
+        "uuid": "afa6e563-32ca-4222-92e7-cd77df83d379",
+        "title": " Ra.Man (Sumasbrod)",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "Vegetarian",
+                "name": "Для вегетаріанців",
+                "keyName": "Vegetarian"
+            },
+            {
+                "uuid": "StreetFood",
+                "name": "Вулична їжа",
+                "keyName": "StreetFood"
+            },
+            {
+                "uuid": "Vegan",
+                "name": "Для веганів",
+                "keyName": "Vegan"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "7ff20c41-21c2-459a-9831-7ceae8990f77",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 9:45 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "83b8a03c-0ed1-4ba5-8b58-f1446924c6d1",
+                    "21295826-c8f1-450d-a55e-96a1d43a5e61",
+                    "83f6c865-90ce-46ca-9eda-49ee1118612c",
+                    "9e4d791a-1570-4439-a011-98b61b642956",
+                    "a7129fdd-285f-419e-9b22-953a1867163e"
+                ]
+            },
+            {
+                "uuid": "bb4d773e-b81e-4368-bf2f-163a74c58386",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 9:45 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "f5a3eb1b-db18-4d3d-a25f-74343ee51f14",
+                    "18875057-fa15-422f-837c-ca1a480a6934",
+                    "cfc16af3-5779-46da-9828-c5dcf7fc7b43",
+                    "a54d633e-a223-4756-b096-05464c63d581"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "7ff20c41-21c2-459a-9831-7ceae8990f77": {
+                "itemsMap": {
+                    "be3c15c1-31ce-4da2-a429-0189631a8696": {
+                        "uuid": "be3c15c1-31ce-4da2-a429-0189631a8696",
+                        "title": "Vegan Боул Кіноа",
+                        "itemDescription": "Кіноа-булгур, томлений баклажан, соєвий стейк, шпинат, томати, червонокачанна капуста, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (320г).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ef124dc-3f8b-4f84-b2c6-be7363f2b0ff",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "fbb65556-70cc-44e4-9e06-953fc49d1b3a": {
+                        "uuid": "fbb65556-70cc-44e4-9e06-953fc49d1b3a",
+                        "title": "Vegan Боул з солодким тофу",
+                        "itemDescription": "Гречана локшина, солодкий тофу, норі, томати, шпинат, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (350г).",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/03766cf2-a1fd-4a57-88d6-7e0214ffd304",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "ca3befce-2fd1-4086-852a-7b70acc47b00": {
+                        "uuid": "ca3befce-2fd1-4086-852a-7b70acc47b00",
+                        "title": "Raw Табуле з пророщеним машем",
+                        "itemDescription": "Пророщений маш, томати, огірки, кріп, петрушка, м'ята, гранат, арахісовий соус в окремій упаковці (150г).",
+                        "price": 7500,
+                        "suspendUntil": 8640000000
+                    },
+                    "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed": {
+                        "uuid": "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                        "title": "Vegan Рамен",
+                        "itemDescription": "Рисова локшина, гриби шиїтаки, соєвий биточок, кінза, кунжут, в окремій упаковці слайси чилі (475г).",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b82aa69-79b5-4f10-8540-a9c6b9e9f8e7",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "84d035f3-4e41-42ff-8b5c-9632d67aae08": {
+                        "uuid": "84d035f3-4e41-42ff-8b5c-9632d67aae08",
+                        "title": "Vegan Трайфл шоколадний",
+                        "itemDescription": "Шоколадний бісквіт, шоколадний крем, вишня, м'ята (150г).",
+                        "price": 6500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bca432c-b950-48ea-8cfa-c66194f90540",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "9ccb4900-36c0-474a-be38-c5b36b3739df": {
+                        "uuid": "9ccb4900-36c0-474a-be38-c5b36b3739df",
+                        "title": "Raw Чіа десерт горіховий",
+                        "itemDescription": "Чіа в кокосовому молоці, фінік, мигдаль, кешью, фундук, мед, сушена журавлина (150г).",
+                        "price": 7500
+                    },
+                    "3efbe527-6a87-4b24-81e3-01d345b1b2cd": {
+                        "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
+                        "title": "Кимчи-Рамен",
+                        "itemDescription": "Овочевий бульйон, кімчі, пшенична локшина та соєве м'ясо. ",
+                        "price": 12500,
+                        "nutritionalInfo": {}
+                    },
+                    "ce91a528-5ab7-4047-81c7-ba7d55d1f503": {
+                        "uuid": "ce91a528-5ab7-4047-81c7-ba7d55d1f503",
+                        "title": "Vegan Тайский салат з фунчезою",
+                        "itemDescription": "Бобова локшина-фунчеза, тофу, водорості вакаме, томати, кінза, кунжут, в окремій упаковці соус мікс: арахісовий соус з оливковою олією і лимонним соком (150г).",
+                        "price": 8500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "a4f19cf6-a829-4af4-a500-12716ea10463": {
+                        "uuid": "a4f19cf6-a829-4af4-a500-12716ea10463",
+                        "title": "Raw Чіа десерт манго",
+                        "itemDescription": "Чіа в кокосовому молоці, пюре з манго, мед, апельсин (150г).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9834c137-f11e-4592-8263-315e1458dd71"
+                    },
+                    "cd22623f-a8e2-42e3-ba2b-f97beaccbb96": {
+                        "uuid": "cd22623f-a8e2-42e3-ba2b-f97beaccbb96",
+                        "title": "Vegan Супер-салат з буряковим хумусом",
+                        "itemDescription": "Буряковий хумус, нут, шпинат, слайси овочів, томати, оливки, селера (150г).",
+                        "price": 6500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2b3fbb8-c083-4e30-86dc-e88f95e4dff6",
+                        "suspendUntil": 8640000000,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "9cb14a06-024c-47e8-a530-d48db661f942": {
+                        "uuid": "9cb14a06-024c-47e8-a530-d48db661f942",
+                        "title": "Vegan Боул Кус-кус",
+                        "itemDescription": "Розсипчастий кус-кус, гриби шиїтаки, водорості вакаме, шпинат, томати,в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (320г).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/576236a1-d177-4d39-af80-9f0b04ba11b0",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "8de08651-d2fd-4dec-9ce8-0866da465993": {
+                        "uuid": "8de08651-d2fd-4dec-9ce8-0866da465993",
+                        "title": "Vegan Трайфл ванільний",
+                        "itemDescription": "Шоколадний бісквіт, ванільний крем, вишня, м'ята (150г).",
+                        "price": 6500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "8c12d379-3450-48cd-8009-4beacb2a294e": {
+                        "uuid": "8c12d379-3450-48cd-8009-4beacb2a294e",
+                        "title": "Vegan Тайський суп",
+                        "itemDescription": "Бобова локшина-фунчеза, тофу, водорості вакаме, кінза, кунжут, в окремій упаковці слайси чилі (400г).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab4e08fe-56e1-493c-889b-6964e17af135",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "efafc75c-93b3-4d75-be07-79a99346a552": {
+                        "uuid": "efafc75c-93b3-4d75-be07-79a99346a552",
+                        "title": "Raw Табуле з пророщеною гречкою",
+                        "itemDescription": "Пророщена гречка, томати, огірки, кріп, петрушка, м'ята, гранат, арахісовий соус в окремій упаковці (150г).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecba9324-2532-457e-b690-78cae7433d59",
+                        "suspendUntil": 8640000000
+                    },
+                    "0f741d64-212b-4695-a65e-dfe152edf379": {
+                        "uuid": "0f741d64-212b-4695-a65e-dfe152edf379",
+                        "title": "Vegan Боул Англійський сніданок",
+                        "itemDescription": "Соєва сосиска томатна, омлет з тофу, кус-кус, томати, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (370г).",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b34479b5-a787-4588-9046-2eef43fb03ee",
+                        "nutritionalInfo": {},
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "83b8a03c-0ed1-4ba5-8b58-f1446924c6d1",
+                        "title": "Популярне",
+                        "itemUuids": [
+                            "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                            "8c12d379-3450-48cd-8009-4beacb2a294e",
+                            "be3c15c1-31ce-4da2-a429-0189631a8696",
+                            "9cb14a06-024c-47e8-a530-d48db661f942",
+                            "0f741d64-212b-4695-a65e-dfe152edf379"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                                "title": "Vegan Рамен",
+                                "itemDescription": "Рисова локшина, гриби шиїтаки, соєвий биточок, кінза, кунжут, в окремій упаковці слайси чилі (475г).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b82aa69-79b5-4f10-8540-a9c6b9e9f8e7",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "8c12d379-3450-48cd-8009-4beacb2a294e",
+                                "title": "Vegan Тайський суп",
+                                "itemDescription": "Бобова локшина-фунчеза, тофу, водорості вакаме, кінза, кунжут, в окремій упаковці слайси чилі (400г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab4e08fe-56e1-493c-889b-6964e17af135",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "be3c15c1-31ce-4da2-a429-0189631a8696",
+                                "title": "Vegan Боул Кіноа",
+                                "itemDescription": "Кіноа-булгур, томлений баклажан, соєвий стейк, шпинат, томати, червонокачанна капуста, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (320г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ef124dc-3f8b-4f84-b2c6-be7363f2b0ff",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "9cb14a06-024c-47e8-a530-d48db661f942",
+                                "title": "Vegan Боул Кус-кус",
+                                "itemDescription": "Розсипчастий кус-кус, гриби шиїтаки, водорості вакаме, шпинат, томати,в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (320г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/576236a1-d177-4d39-af80-9f0b04ba11b0",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "0f741d64-212b-4695-a65e-dfe152edf379",
+                                "title": "Vegan Боул Англійський сніданок",
+                                "itemDescription": "Соєва сосиска томатна, омлет з тофу, кус-кус, томати, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (370г).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b34479b5-a787-4588-9046-2eef43fb03ee",
+                                "nutritionalInfo": {},
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "21295826-c8f1-450d-a55e-96a1d43a5e61",
+                        "title": "Супи Vegan",
+                        "itemUuids": [
+                            "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                            "8c12d379-3450-48cd-8009-4beacb2a294e",
+                            "3efbe527-6a87-4b24-81e3-01d345b1b2cd"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                                "title": "Vegan Рамен",
+                                "itemDescription": "Рисова локшина, гриби шиїтаки, соєвий биточок, кінза, кунжут, в окремій упаковці слайси чилі (475г).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b82aa69-79b5-4f10-8540-a9c6b9e9f8e7",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "8c12d379-3450-48cd-8009-4beacb2a294e",
+                                "title": "Vegan Тайський суп",
+                                "itemDescription": "Бобова локшина-фунчеза, тофу, водорості вакаме, кінза, кунжут, в окремій упаковці слайси чилі (400г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab4e08fe-56e1-493c-889b-6964e17af135",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
+                                "title": "Кимчи-Рамен",
+                                "itemDescription": "Овочевий бульйон, кімчі, пшенична локшина та соєве м'ясо. ",
+                                "price": 12500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "83f6c865-90ce-46ca-9eda-49ee1118612c",
+                        "title": "Боули",
+                        "itemUuids": [
+                            "0f741d64-212b-4695-a65e-dfe152edf379",
+                            "fbb65556-70cc-44e4-9e06-953fc49d1b3a",
+                            "be3c15c1-31ce-4da2-a429-0189631a8696",
+                            "9cb14a06-024c-47e8-a530-d48db661f942"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "0f741d64-212b-4695-a65e-dfe152edf379",
+                                "title": "Vegan Боул Англійський сніданок",
+                                "itemDescription": "Соєва сосиска томатна, омлет з тофу, кус-кус, томати, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (370г).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b34479b5-a787-4588-9046-2eef43fb03ee",
+                                "nutritionalInfo": {},
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "fbb65556-70cc-44e4-9e06-953fc49d1b3a",
+                                "title": "Vegan Боул з солодким тофу",
+                                "itemDescription": "Гречана локшина, солодкий тофу, норі, томати, шпинат, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (350г).",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/03766cf2-a1fd-4a57-88d6-7e0214ffd304",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "be3c15c1-31ce-4da2-a429-0189631a8696",
+                                "title": "Vegan Боул Кіноа",
+                                "itemDescription": "Кіноа-булгур, томлений баклажан, соєвий стейк, шпинат, томати, червонокачанна капуста, в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (320г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ef124dc-3f8b-4f84-b2c6-be7363f2b0ff",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "9cb14a06-024c-47e8-a530-d48db661f942",
+                                "title": "Vegan Боул Кус-кус",
+                                "itemDescription": "Розсипчастий кус-кус, гриби шиїтаки, водорості вакаме, шпинат, томати,в окремій упаковці заправка–соус мікс: арахісовий соус з оливковою олією і лимонним соком (320г).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/576236a1-d177-4d39-af80-9f0b04ba11b0",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "9e4d791a-1570-4439-a011-98b61b642956",
+                        "title": "Салати",
+                        "itemUuids": [
+                            "efafc75c-93b3-4d75-be07-79a99346a552",
+                            "ca3befce-2fd1-4086-852a-7b70acc47b00",
+                            "cd22623f-a8e2-42e3-ba2b-f97beaccbb96",
+                            "ce91a528-5ab7-4047-81c7-ba7d55d1f503"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "efafc75c-93b3-4d75-be07-79a99346a552",
+                                "title": "Raw Табуле з пророщеною гречкою",
+                                "itemDescription": "Пророщена гречка, томати, огірки, кріп, петрушка, м'ята, гранат, арахісовий соус в окремій упаковці (150г).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecba9324-2532-457e-b690-78cae7433d59",
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "ca3befce-2fd1-4086-852a-7b70acc47b00",
+                                "title": "Raw Табуле з пророщеним машем",
+                                "itemDescription": "Пророщений маш, томати, огірки, кріп, петрушка, м'ята, гранат, арахісовий соус в окремій упаковці (150г).",
+                                "price": 7500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "cd22623f-a8e2-42e3-ba2b-f97beaccbb96",
+                                "title": "Vegan Супер-салат з буряковим хумусом",
+                                "itemDescription": "Буряковий хумус, нут, шпинат, слайси овочів, томати, оливки, селера (150г).",
+                                "price": 6500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2b3fbb8-c083-4e30-86dc-e88f95e4dff6",
+                                "suspendUntil": 8640000000,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "ce91a528-5ab7-4047-81c7-ba7d55d1f503",
+                                "title": "Vegan Тайский салат з фунчезою",
+                                "itemDescription": "Бобова локшина-фунчеза, тофу, водорості вакаме, томати, кінза, кунжут, в окремій упаковці соус мікс: арахісовий соус з оливковою олією і лимонним соком (150г).",
+                                "price": 8500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a7129fdd-285f-419e-9b22-953a1867163e",
+                        "title": "Десерти",
+                        "itemUuids": [
+                            "84d035f3-4e41-42ff-8b5c-9632d67aae08",
+                            "8de08651-d2fd-4dec-9ce8-0866da465993",
+                            "a4f19cf6-a829-4af4-a500-12716ea10463",
+                            "9ccb4900-36c0-474a-be38-c5b36b3739df"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "84d035f3-4e41-42ff-8b5c-9632d67aae08",
+                                "title": "Vegan Трайфл шоколадний",
+                                "itemDescription": "Шоколадний бісквіт, шоколадний крем, вишня, м'ята (150г).",
+                                "price": 6500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bca432c-b950-48ea-8cfa-c66194f90540",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "8de08651-d2fd-4dec-9ce8-0866da465993",
+                                "title": "Vegan Трайфл ванільний",
+                                "itemDescription": "Шоколадний бісквіт, ванільний крем, вишня, м'ята (150г).",
+                                "price": 6500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "a4f19cf6-a829-4af4-a500-12716ea10463",
+                                "title": "Raw Чіа десерт манго",
+                                "itemDescription": "Чіа в кокосовому молоці, пюре з манго, мед, апельсин (150г).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9834c137-f11e-4592-8263-315e1458dd71"
+                            },
+                            {
+                                "uuid": "9ccb4900-36c0-474a-be38-c5b36b3739df",
+                                "title": "Raw Чіа десерт горіховий",
+                                "itemDescription": "Чіа в кокосовому молоці, фінік, мигдаль, кешью, фундук, мед, сушена журавлина (150г).",
+                                "price": 7500
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bb4d773e-b81e-4368-bf2f-163a74c58386": {
+                "itemsMap": {
+                    "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c": {
+                        "uuid": "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
+                        "title": "Raw Chia dessert mango",
+                        "itemDescription": "Chia in coconut milk, mango puree, honey, and orange (150g).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e2e840f-b081-4e47-9f64-88629fb3141e"
+                    },
+                    "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f": {
+                        "uuid": "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f",
+                        "title": "Vegan Thai salad with funchoza",
+                        "itemDescription": "Bean noodles-funcheza, tofu, wakame seaweed, tomatoes, cilantro, sesame, sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (150g).",
+                        "price": 8500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "405f2a55-88e7-4180-a90e-ef4ca815f84d": {
+                        "uuid": "405f2a55-88e7-4180-a90e-ef4ca815f84d",
+                        "title": "Raw Tabbouleh with sprouted mung bean",
+                        "itemDescription": "Sprouted mung beans, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
+                        "price": 7500,
+                        "suspendUntil": 8640000000
+                    },
+                    "70980dc4-22d9-4e25-9104-041eec4168b1": {
+                        "uuid": "70980dc4-22d9-4e25-9104-041eec4168b1",
+                        "title": "Vegan Vanilla trifle",
+                        "itemDescription": "Chocolate biscuit, vanilla cream, cherry, and mint (150g).",
+                        "price": 6500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "04ad06f0-e3cf-435f-92f9-1e37c64bb88d": {
+                        "uuid": "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
+                        "title": "Vegan Thai soup",
+                        "itemDescription": "Bean noodles-funchoza, tofu, wakame seaweed, cilantro, sesame seeds, and chili slices in a separate package (400g).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a12e19c-d596-4b0d-aff6-ea8e9fe1e83c",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "46fdc437-1d10-45ed-ae34-d86623de7644": {
+                        "uuid": "46fdc437-1d10-45ed-ae34-d86623de7644",
+                        "title": "Raw Chia dessert nuts",
+                        "itemDescription": "Chia in coconut milk, date, almond, cashew, hazelnut, honey, and dried cranberries (150g).",
+                        "price": 7500
+                    },
+                    "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146": {
+                        "uuid": "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
+                        "title": "Raw Tabbouleh with sprouted buckwheat",
+                        "itemDescription": "Sprouted buckwheat, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
+                        "price": 7500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecba9324-2532-457e-b690-78cae7433d59",
+                        "suspendUntil": 8640000000
+                    },
+                    "a265f5e7-bef8-4064-8ead-1d3163f609a2": {
+                        "uuid": "a265f5e7-bef8-4064-8ead-1d3163f609a2",
+                        "title": "Vegan Bowl English breakfast",
+                        "itemDescription": "Soy tomato sausage, tofu omelet, couscous, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (370g).",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/282e6257-a921-44b0-8877-34f1c9bc2299",
+                        "nutritionalInfo": {},
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11": {
+                        "uuid": "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
+                        "title": "Vegan Bowl with sweet tofu",
+                        "itemDescription": "Buckwheat noodles, sweet tofu, nori, tomatoes, spinach, dressing and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (350g).",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/03766cf2-a1fd-4a57-88d6-7e0214ffd304",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129": {
+                        "uuid": "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
+                        "title": "Vegan Ramen",
+                        "itemDescription": "Rice noodles, shiitake mushrooms; soy chops, cilantro, sesame seeds, and chili slices in a separate package (475g).",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1a0cc06-63d6-4ab0-ab28-219893c980c7",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "611647df-cfdb-4001-a3a8-c0963e4c19d3": {
+                        "uuid": "611647df-cfdb-4001-a3a8-c0963e4c19d3",
+                        "title": "Vegan Bowl Quinoa",
+                        "itemDescription": "Quinoa bulgur, stewed eggplant, soy steak, spinach, tomatoes, red cabbage, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/770c30e1-945b-4ac4-9dae-d085bb4047d9",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "3556abde-02be-4b33-aae0-2629412c5d5a": {
+                        "uuid": "3556abde-02be-4b33-aae0-2629412c5d5a",
+                        "title": "Vegan Chocolate trifle",
+                        "itemDescription": "Chocolate biscuit, chocolate cream, cherry, and mint (150g).",
+                        "price": 6500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bca432c-b950-48ea-8cfa-c66194f90540",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "58cb5042-b37e-4ccf-8e26-d3dde17efe08": {
+                        "uuid": "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
+                        "title": "Vegan Super-salad with beet hummus",
+                        "itemDescription": "Beetroot hummus, chickpeas, spinach, slices of vegetables, tomatoes, olives, and celery (150g).",
+                        "price": 6500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/01849431-e6ae-497b-b447-e1ca9be64ac5",
+                        "suspendUntil": 8640000000,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "3efbe527-6a87-4b24-81e3-01d345b1b2cd": {
+                        "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
+                        "title": "Кимчи-Рамен",
+                        "itemDescription": "Овочевий бульйон, кімчі, пшенична локшина та соєве м'ясо. ",
+                        "price": 12500,
+                        "nutritionalInfo": {}
+                    },
+                    "2f32e009-6a10-43b8-8fbe-9ece3c021a38": {
+                        "uuid": "2f32e009-6a10-43b8-8fbe-9ece3c021a38",
+                        "title": "Vegan Bowl Couscous",
+                        "itemDescription": "Crumbly couscous, shiitake mushrooms, wakame seaweed, spinach, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/df41f76e-8730-4107-a2b6-6eef368239da",
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "f5a3eb1b-db18-4d3d-a25f-74343ee51f14",
+                        "title": "Vegan soups",
+                        "itemUuids": [
+                            "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
+                            "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
+                            "3efbe527-6a87-4b24-81e3-01d345b1b2cd"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
+                                "title": "Vegan Ramen",
+                                "itemDescription": "Rice noodles, shiitake mushrooms; soy chops, cilantro, sesame seeds, and chili slices in a separate package (475g).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1a0cc06-63d6-4ab0-ab28-219893c980c7",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
+                                "title": "Vegan Thai soup",
+                                "itemDescription": "Bean noodles-funchoza, tofu, wakame seaweed, cilantro, sesame seeds, and chili slices in a separate package (400g).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a12e19c-d596-4b0d-aff6-ea8e9fe1e83c",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
+                                "title": "Кимчи-Рамен",
+                                "itemDescription": "Овочевий бульйон, кімчі, пшенична локшина та соєве м'ясо. ",
+                                "price": 12500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "18875057-fa15-422f-837c-ca1a480a6934",
+                        "title": "Bowls",
+                        "itemUuids": [
+                            "a265f5e7-bef8-4064-8ead-1d3163f609a2",
+                            "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
+                            "611647df-cfdb-4001-a3a8-c0963e4c19d3",
+                            "2f32e009-6a10-43b8-8fbe-9ece3c021a38"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "a265f5e7-bef8-4064-8ead-1d3163f609a2",
+                                "title": "Vegan Bowl English breakfast",
+                                "itemDescription": "Soy tomato sausage, tofu omelet, couscous, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (370g).",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/282e6257-a921-44b0-8877-34f1c9bc2299",
+                                "nutritionalInfo": {},
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
+                                "title": "Vegan Bowl with sweet tofu",
+                                "itemDescription": "Buckwheat noodles, sweet tofu, nori, tomatoes, spinach, dressing and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (350g).",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/03766cf2-a1fd-4a57-88d6-7e0214ffd304",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "611647df-cfdb-4001-a3a8-c0963e4c19d3",
+                                "title": "Vegan Bowl Quinoa",
+                                "itemDescription": "Quinoa bulgur, stewed eggplant, soy steak, spinach, tomatoes, red cabbage, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/770c30e1-945b-4ac4-9dae-d085bb4047d9",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "2f32e009-6a10-43b8-8fbe-9ece3c021a38",
+                                "title": "Vegan Bowl Couscous",
+                                "itemDescription": "Crumbly couscous, shiitake mushrooms, wakame seaweed, spinach, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/df41f76e-8730-4107-a2b6-6eef368239da",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "cfc16af3-5779-46da-9828-c5dcf7fc7b43",
+                        "title": "Salads",
+                        "itemUuids": [
+                            "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
+                            "405f2a55-88e7-4180-a90e-ef4ca815f84d",
+                            "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
+                            "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
+                                "title": "Raw Tabbouleh with sprouted buckwheat",
+                                "itemDescription": "Sprouted buckwheat, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecba9324-2532-457e-b690-78cae7433d59",
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "405f2a55-88e7-4180-a90e-ef4ca815f84d",
+                                "title": "Raw Tabbouleh with sprouted mung bean",
+                                "itemDescription": "Sprouted mung beans, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
+                                "price": 7500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
+                                "title": "Vegan Super-salad with beet hummus",
+                                "itemDescription": "Beetroot hummus, chickpeas, spinach, slices of vegetables, tomatoes, olives, and celery (150g).",
+                                "price": 6500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/01849431-e6ae-497b-b447-e1ca9be64ac5",
+                                "suspendUntil": 8640000000,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f",
+                                "title": "Vegan Thai salad with funchoza",
+                                "itemDescription": "Bean noodles-funcheza, tofu, wakame seaweed, tomatoes, cilantro, sesame, sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (150g).",
+                                "price": 8500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a54d633e-a223-4756-b096-05464c63d581",
+                        "title": "Desserts",
+                        "itemUuids": [
+                            "3556abde-02be-4b33-aae0-2629412c5d5a",
+                            "70980dc4-22d9-4e25-9104-041eec4168b1",
+                            "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
+                            "46fdc437-1d10-45ed-ae34-d86623de7644"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "3556abde-02be-4b33-aae0-2629412c5d5a",
+                                "title": "Vegan Chocolate trifle",
+                                "itemDescription": "Chocolate biscuit, chocolate cream, cherry, and mint (150g).",
+                                "price": 6500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bca432c-b950-48ea-8cfa-c66194f90540",
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "70980dc4-22d9-4e25-9104-041eec4168b1",
+                                "title": "Vegan Vanilla trifle",
+                                "itemDescription": "Chocolate biscuit, vanilla cream, cherry, and mint (150g).",
+                                "price": 6500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
+                                "title": "Raw Chia dessert mango",
+                                "itemDescription": "Chia in coconut milk, mango puree, honey, and orange (150g).",
+                                "price": 7500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e2e840f-b081-4e47-9f64-88629fb3141e"
+                            },
+                            {
+                                "uuid": "46fdc437-1d10-45ed-ae34-d86623de7644",
+                                "title": "Raw Chia dessert nuts",
+                                "itemDescription": "Chia in coconut milk, date, almond, cashew, hazelnut, honey, and dried cranberries (150g).",
+                                "price": 7500
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "a7129fdd-285f-419e-9b22-953a1867163e": {
+                "uuid": "a7129fdd-285f-419e-9b22-953a1867163e",
+                "title": "Десерти",
+                "itemUuids": [
+                    "84d035f3-4e41-42ff-8b5c-9632d67aae08",
+                    "8de08651-d2fd-4dec-9ce8-0866da465993",
+                    "a4f19cf6-a829-4af4-a500-12716ea10463",
+                    "9ccb4900-36c0-474a-be38-c5b36b3739df"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "84d035f3-4e41-42ff-8b5c-9632d67aae08",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8de08651-d2fd-4dec-9ce8-0866da465993",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a4f19cf6-a829-4af4-a500-12716ea10463",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9ccb4900-36c0-474a-be38-c5b36b3739df",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a54d633e-a223-4756-b096-05464c63d581": {
+                "uuid": "a54d633e-a223-4756-b096-05464c63d581",
+                "title": "Desserts",
+                "itemUuids": [
+                    "3556abde-02be-4b33-aae0-2629412c5d5a",
+                    "70980dc4-22d9-4e25-9104-041eec4168b1",
+                    "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
+                    "46fdc437-1d10-45ed-ae34-d86623de7644"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "3556abde-02be-4b33-aae0-2629412c5d5a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "70980dc4-22d9-4e25-9104-041eec4168b1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "46fdc437-1d10-45ed-ae34-d86623de7644",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "18875057-fa15-422f-837c-ca1a480a6934": {
+                "uuid": "18875057-fa15-422f-837c-ca1a480a6934",
+                "title": "Bowls",
+                "itemUuids": [
+                    "a265f5e7-bef8-4064-8ead-1d3163f609a2",
+                    "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
+                    "611647df-cfdb-4001-a3a8-c0963e4c19d3",
+                    "2f32e009-6a10-43b8-8fbe-9ece3c021a38"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "a265f5e7-bef8-4064-8ead-1d3163f609a2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "611647df-cfdb-4001-a3a8-c0963e4c19d3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2f32e009-6a10-43b8-8fbe-9ece3c021a38",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "21295826-c8f1-450d-a55e-96a1d43a5e61": {
+                "uuid": "21295826-c8f1-450d-a55e-96a1d43a5e61",
+                "title": "Супи Vegan",
+                "itemUuids": [
+                    "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                    "8c12d379-3450-48cd-8009-4beacb2a294e",
+                    "3efbe527-6a87-4b24-81e3-01d345b1b2cd"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8c12d379-3450-48cd-8009-4beacb2a294e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f5a3eb1b-db18-4d3d-a25f-74343ee51f14": {
+                "uuid": "f5a3eb1b-db18-4d3d-a25f-74343ee51f14",
+                "title": "Vegan soups",
+                "itemUuids": [
+                    "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
+                    "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
+                    "3efbe527-6a87-4b24-81e3-01d345b1b2cd"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "cfc16af3-5779-46da-9828-c5dcf7fc7b43": {
+                "uuid": "cfc16af3-5779-46da-9828-c5dcf7fc7b43",
+                "title": "Salads",
+                "itemUuids": [
+                    "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
+                    "405f2a55-88e7-4180-a90e-ef4ca815f84d",
+                    "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
+                    "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "405f2a55-88e7-4180-a90e-ef4ca815f84d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "83b8a03c-0ed1-4ba5-8b58-f1446924c6d1": {
+                "uuid": "83b8a03c-0ed1-4ba5-8b58-f1446924c6d1",
+                "title": "Популярне",
+                "itemUuids": [
+                    "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                    "8c12d379-3450-48cd-8009-4beacb2a294e",
+                    "be3c15c1-31ce-4da2-a429-0189631a8696",
+                    "9cb14a06-024c-47e8-a530-d48db661f942",
+                    "0f741d64-212b-4695-a65e-dfe152edf379"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f8f7ea3e-42eb-43f7-9c30-18a24a5a11ed",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8c12d379-3450-48cd-8009-4beacb2a294e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "be3c15c1-31ce-4da2-a429-0189631a8696",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9cb14a06-024c-47e8-a530-d48db661f942",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0f741d64-212b-4695-a65e-dfe152edf379",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "83f6c865-90ce-46ca-9eda-49ee1118612c": {
+                "uuid": "83f6c865-90ce-46ca-9eda-49ee1118612c",
+                "title": "Боули",
+                "itemUuids": [
+                    "0f741d64-212b-4695-a65e-dfe152edf379",
+                    "fbb65556-70cc-44e4-9e06-953fc49d1b3a",
+                    "be3c15c1-31ce-4da2-a429-0189631a8696",
+                    "9cb14a06-024c-47e8-a530-d48db661f942"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "0f741d64-212b-4695-a65e-dfe152edf379",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "fbb65556-70cc-44e4-9e06-953fc49d1b3a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "be3c15c1-31ce-4da2-a429-0189631a8696",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9cb14a06-024c-47e8-a530-d48db661f942",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "9e4d791a-1570-4439-a011-98b61b642956": {
+                "uuid": "9e4d791a-1570-4439-a011-98b61b642956",
+                "title": "Салати",
+                "itemUuids": [
+                    "efafc75c-93b3-4d75-be07-79a99346a552",
+                    "ca3befce-2fd1-4086-852a-7b70acc47b00",
+                    "cd22623f-a8e2-42e3-ba2b-f97beaccbb96",
+                    "ce91a528-5ab7-4047-81c7-ba7d55d1f503"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "efafc75c-93b3-4d75-be07-79a99346a552",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ca3befce-2fd1-4086-852a-7b70acc47b00",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cd22623f-a8e2-42e3-ba2b-f97beaccbb96",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ce91a528-5ab7-4047-81c7-ba7d55d1f503",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.442383,
+            "longitude": 30.521535,
+            "address": {
+                "address1": "Bessarabs'ka Square, 2",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380442350017"
+        },
+        "priceBucket": "₴",
+        "slug": "raman-sumasbrod",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/a2328b9d-5681-4cc0-bb22-9fdd2f7e0141",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/8565039e-f2d8-4ae5-8a9c-137bdd71a011",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/5acd807e-ee2e-411f-b241-26dd9b572078",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/b3f68030-6385-4491-99db-ba410f31a8bb",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(125)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 125 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴ • Vegetarian • Street Food • Vegan</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "15–25 MINS",
+                "textFormat": "<span>15–25 MINS</span>",
+                "accessibilityText": "Delivered in 15 to 25 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 15,
+            "max": 25,
+            "raw": 20
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 1305,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1305,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

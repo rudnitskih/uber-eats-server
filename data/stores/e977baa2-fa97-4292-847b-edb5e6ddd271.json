@@ -1,0 +1,1969 @@
+{
+    "store": {
+        "uuid": "e977baa2-fa97-4292-847b-edb5e6ddd271",
+        "title": "PASTATECA",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "European",
+                "name": "Європейська",
+                "keyName": "European"
+            },
+            {
+                "uuid": "Pasta",
+                "name": "Паста",
+                "keyName": "Pasta"
+            },
+            {
+                "uuid": "Italian",
+                "name": "Італійська",
+                "keyName": "Italian"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "9acff853-9c8a-4378-8f6d-0739c66ff985",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "01215baa-d741-4c55-b9f6-c9c6766d05a7",
+                    "1e10d629-43fc-4a82-9e80-d60558c5649c",
+                    "46d2881b-c429-45be-bd34-f94961fd220d",
+                    "ad39b203-9cb9-4ddc-a636-c6cc43421e20",
+                    "8d0e8246-32a2-436b-863c-6b4c22c0333c",
+                    "10bc0a9b-3635-4388-b391-154d691a5b0c",
+                    "f8afaef1-541d-4dad-802e-792d0df8767d",
+                    "2c8cfd5c-e891-490c-9e04-de7bfa4cbba7",
+                    "462a3954-f4d1-46ef-8b91-54863bfcf300",
+                    "028a566d-b585-4664-a238-6662e52a935b"
+                ]
+            },
+            {
+                "uuid": "fa403323-e615-4a1d-b47b-8a9d20e70885",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "3d2cee3e-3fcc-4d91-85e6-540c3c367a67",
+                    "b296af9a-b16c-4110-8e6b-6143fb4d09d8",
+                    "1e0c17d5-ee82-4c97-9b58-2124d1be77d4",
+                    "9b832a19-46a1-4909-88fc-d1131f6ebed2",
+                    "d6e20625-6daa-4fbc-8aa1-1019e882ff14",
+                    "0ebe70fa-ae0f-4167-b0af-bb3d72672d7d",
+                    "241ee55e-d2df-4cb1-b221-c8e2d672e958"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "9acff853-9c8a-4378-8f6d-0739c66ff985": {
+                "itemsMap": {
+                    "27c5fb48-0457-4fa1-a462-ae5e1a6b288b": {
+                        "uuid": "27c5fb48-0457-4fa1-a462-ae5e1a6b288b",
+                        "title": "Чізкейк \"Три сири\"",
+                        "itemDescription": "115г",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f54b3289-cd25-4f54-8e24-9150e09f9de6"
+                    },
+                    "f310d81d-d770-4d05-85b0-5eb1b8b06f2b": {
+                        "uuid": "f310d81d-d770-4d05-85b0-5eb1b8b06f2b",
+                        "title": "Гуакомоле з тартаром із білих грибів та персику",
+                        "itemDescription": "145 г",
+                        "price": 14500
+                    },
+                    "622efa65-b0f4-435e-a02b-d7daa23039cb": {
+                        "uuid": "622efa65-b0f4-435e-a02b-d7daa23039cb",
+                        "title": "Баклажан, запечений з овочами та моцарелою",
+                        "itemDescription": "240г",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9b1fd3e1-61e8-48de-a603-2220a422e1c2"
+                    },
+                    "51202061-5003-4f3b-9b49-a4547bc7efca": {
+                        "uuid": "51202061-5003-4f3b-9b49-a4547bc7efca",
+                        "title": "П'ядіна з панчетою",
+                        "itemDescription": "295г",
+                        "price": 15500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7bdce983-0432-4c7b-a308-3e7e3339a592"
+                    },
+                    "50fc2c16-1a45-4bfc-ac35-f6dca1193a1c": {
+                        "uuid": "50fc2c16-1a45-4bfc-ac35-f6dca1193a1c",
+                        "title": "Пісні тальятеле з томатним соусом",
+                        "itemDescription": "275 г",
+                        "price": 5500,
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "cd5dc850-a861-45a9-b3ff-cf3373a5dac7"
+                        ]
+                    },
+                    "7b8b10da-9df9-48c4-aaf9-49f09f80b29e": {
+                        "uuid": "7b8b10da-9df9-48c4-aaf9-49f09f80b29e",
+                        "title": "Равіолі \"Зелений квадрат\" з індичкою в горіхово-шпинатному соусі",
+                        "itemDescription": "250г",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/53b9155a-2047-4eef-831f-c9f0b434be4c"
+                    },
+                    "78afc197-300c-4cf5-9b43-e399716bac4b": {
+                        "uuid": "78afc197-300c-4cf5-9b43-e399716bac4b",
+                        "title": "Торт шоколадний із цукіні",
+                        "itemDescription": "125г",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c874a10d-97a3-4f24-83b2-e4616e64977f"
+                    },
+                    "5f9f3074-8317-44e9-b70e-15d23ff7b2b5": {
+                        "uuid": "5f9f3074-8317-44e9-b70e-15d23ff7b2b5",
+                        "title": "Різотто з білими грибами та томатами",
+                        "itemDescription": "300 гр",
+                        "price": 13500
+                    },
+                    "0af50e63-9592-45c4-bada-c4894a8ed30c": {
+                        "uuid": "0af50e63-9592-45c4-bada-c4894a8ed30c",
+                        "title": "Тар-тар з фермерської яловичини та авокадо",
+                        "itemDescription": "190г",
+                        "price": 16000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/62623e06-6fd5-455c-89cf-14522918fdb3"
+                    },
+                    "306c73aa-a449-4092-8ef4-802fa3690a03": {
+                        "uuid": "306c73aa-a449-4092-8ef4-802fa3690a03",
+                        "title": "Салат з кіноа та свіжими овочами з тофу-мусом",
+                        "itemDescription": "220 г",
+                        "price": 9500,
+                        "suspendUntil": 8640000000
+                    },
+                    "74569bfd-db04-469e-9f79-6adf7dac33a0": {
+                        "uuid": "74569bfd-db04-469e-9f79-6adf7dac33a0",
+                        "title": "Шніцель курячий з горгонзолою та картоплею",
+                        "itemDescription": "180/100/45г",
+                        "price": 13000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/107bb3ef-e8aa-4bc2-8400-8d9104194e67"
+                    },
+                    "481f85ed-33f9-45fe-a5df-abe41d7a1ab0": {
+                        "uuid": "481f85ed-33f9-45fe-a5df-abe41d7a1ab0",
+                        "title": "П'ядіна овочева",
+                        "itemDescription": "290г",
+                        "price": 15500,
+                        "suspendUntil": 8640000000
+                    },
+                    "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9": {
+                        "uuid": "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9",
+                        "title": "Чорний ризото з морськими гадами",
+                        "itemDescription": "350г",
+                        "price": 23500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/da389963-b7f5-4ec1-9b09-ccf6bacec4b6"
+                    },
+                    "24124c47-374d-4b5e-bf5f-e8e2b20d2ce0": {
+                        "uuid": "24124c47-374d-4b5e-bf5f-e8e2b20d2ce0",
+                        "title": "Пісні тальятеле з оливковою олією",
+                        "itemDescription": "200 г",
+                        "price": 5500,
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "4b7cace0-ba1c-4834-bf6b-4560b2a59e38"
+                        ]
+                    },
+                    "46d23c6c-f32d-4d8a-be70-85e68d11d93d": {
+                        "uuid": "46d23c6c-f32d-4d8a-be70-85e68d11d93d",
+                        "title": "Вершкове різотто з грибіми, цукіні та трюфельною олією",
+                        "itemDescription": "300 гр",
+                        "price": 12500
+                    },
+                    "0ff071fd-b914-4fb8-aed6-c332ab03029d": {
+                        "uuid": "0ff071fd-b914-4fb8-aed6-c332ab03029d",
+                        "title": "Боул з тофу-мусом з мигдальними вершками, кунжутною олією та гречкою",
+                        "itemDescription": "300 г",
+                        "price": 11500,
+                        "suspendUntil": 8640000000
+                    },
+                    "472179cf-fb7c-4ff6-9215-bdcb5d6648ba": {
+                        "uuid": "472179cf-fb7c-4ff6-9215-bdcb5d6648ba",
+                        "title": "Тофу-мус з мигдальними вершками та кунжутною олією, подається з піадою та бланшованими помідорами",
+                        "itemDescription": "150 г ",
+                        "price": 5500,
+                        "suspendUntil": 8640000000
+                    },
+                    "8c35e2f8-1a4a-4f3b-ba85-40bbda5ec389": {
+                        "uuid": "8c35e2f8-1a4a-4f3b-ba85-40bbda5ec389",
+                        "title": "Сік \"Jaffa\"",
+                        "itemDescription": "0,25 скло",
+                        "price": 4500,
+                        "customizationUuids": [
+                            "4328088b-53d7-4788-a23e-2a50b08485bf"
+                        ]
+                    },
+                    "07fb8d18-4190-4372-8a0b-94ec426eec79": {
+                        "uuid": "07fb8d18-4190-4372-8a0b-94ec426eec79",
+                        "title": "Лазанья 'Феррарезе' на шпинатному тісті із соусом болоньєз і вареним яйцем",
+                        "itemDescription": "250/30г",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f736c123-70ad-41f3-a43f-cbd6d8ce57ce"
+                    },
+                    "1bba35a6-5972-4cc8-ba5d-8827097e9e35": {
+                        "uuid": "1bba35a6-5972-4cc8-ba5d-8827097e9e35",
+                        "title": "Пісні тальятеле \"Агліо піперучі\" в оливковій олії",
+                        "itemDescription": "250 г",
+                        "price": 8500,
+                        "suspendUntil": 8640000000
+                    },
+                    "d7047e8e-480b-41e9-9fd6-549ffd72246d": {
+                        "uuid": "d7047e8e-480b-41e9-9fd6-549ffd72246d",
+                        "title": "Вода мінеральна \"VODA.UA\"",
+                        "itemDescription": "0,4 скло ",
+                        "price": 4000,
+                        "customizationUuids": [
+                            "5121ccf9-015d-4035-ba59-838e03d63392"
+                        ]
+                    },
+                    "02dc9907-ff5c-489b-af76-d562170583ed": {
+                        "uuid": "02dc9907-ff5c-489b-af76-d562170583ed",
+                        "title": "Гуакомоле з піадою та бланшованими помідорами",
+                        "itemDescription": "150 г",
+                        "price": 9500,
+                        "suspendUntil": 8640000000
+                    },
+                    "2e7873da-e24f-4445-a63d-c5cd14de57b0": {
+                        "uuid": "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                        "title": "Великий боул з кіноа",
+                        "itemDescription": "365г",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8d0d3f1-8dae-424d-bd5b-05c436f60ab7"
+                    },
+                    "58c426ef-147c-48ff-86c0-ea65177bf025": {
+                        "uuid": "58c426ef-147c-48ff-86c0-ea65177bf025",
+                        "title": "Легкий салат з кіноа та свіжими овочами",
+                        "itemDescription": "220г",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a39bcb43-28e2-4873-8a54-9d196f2e600f"
+                    },
+                    "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0": {
+                        "uuid": "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                        "title": "Зелені папарделе з куркою, печеним солодким перцем і в'яленими томатами",
+                        "itemDescription": "Розмір на вибір.",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/be243100-991a-4097-a479-e7a8b6e716ed",
+                        "customizationUuids": [
+                            "fbf510ad-3645-4e56-ad95-c41597531180"
+                        ]
+                    },
+                    "2f572ae7-87bb-4a8b-936a-aceee9425726": {
+                        "uuid": "2f572ae7-87bb-4a8b-936a-aceee9425726",
+                        "title": "П'ядіна овочева з тофу-мусом з мигдальними вершками та кунжутною олією",
+                        "itemDescription": "270 г (гриби ерінги, печений перець та баклажани)",
+                        "price": 15500,
+                        "suspendUntil": 8640000000
+                    },
+                    "2e5a8096-17ab-4520-98ff-ecf6274429ce": {
+                        "uuid": "2e5a8096-17ab-4520-98ff-ecf6274429ce",
+                        "title": "П'ядіна з куркою",
+                        "itemDescription": "335г",
+                        "price": 15500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/347eaf1c-0ec5-4070-807e-97984dc41a34"
+                    },
+                    "67b32829-d2c1-48a6-8af5-d5d49427f9a9": {
+                        "uuid": "67b32829-d2c1-48a6-8af5-d5d49427f9a9",
+                        "title": "Стейк з капусти у вершково-винному соусі",
+                        "itemDescription": "220 гр",
+                        "price": 9500,
+                        "suspendUntil": 8640000000
+                    },
+                    "ae892cb4-f692-4947-98c9-8c923034c940": {
+                        "uuid": "ae892cb4-f692-4947-98c9-8c923034c940",
+                        "title": "Тарілка свіжоспеченого хліба з кольоровим маслом",
+                        "itemDescription": "150/20/20г",
+                        "price": 4000,
+                        "suspendUntil": 8640000000
+                    },
+                    "f20e661a-c7e7-4d34-9284-a649d746ecbb": {
+                        "uuid": "f20e661a-c7e7-4d34-9284-a649d746ecbb",
+                        "title": "Равіолі з ікрою із баклажанів та сулугуні від закоханого шефа",
+                        "itemDescription": "230г",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4963962-bd19-4847-baee-c2da337b9b7b"
+                    },
+                    "c2b7acb7-4604-45c0-abe2-7b1ea14c24f3": {
+                        "uuid": "c2b7acb7-4604-45c0-abe2-7b1ea14c24f3",
+                        "title": "Різотто Том-ям",
+                        "itemDescription": "295г",
+                        "price": 21000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/14183ee2-3155-45ee-af0d-6d2c3f8bf6f4"
+                    },
+                    "2aed627e-3271-42e1-8608-7eb41bc0e8a6": {
+                        "uuid": "2aed627e-3271-42e1-8608-7eb41bc0e8a6",
+                        "title": "Pepsi",
+                        "itemDescription": "0.3  (скло)",
+                        "price": 3000
+                    },
+                    "dbb0dfdd-d2fc-483b-9ee7-4e763ebaf096": {
+                        "uuid": "dbb0dfdd-d2fc-483b-9ee7-4e763ebaf096",
+                        "title": "Боул з тофу-мусом з мигдальними вершками, кунжутною олією та кіноа",
+                        "itemDescription": "300 г",
+                        "price": 12500,
+                        "suspendUntil": 8640000000
+                    },
+                    "b12cc3bd-e027-44d0-a05e-28148ea7d588": {
+                        "uuid": "b12cc3bd-e027-44d0-a05e-28148ea7d588",
+                        "title": "Паста \"Ліверпуль\" справжні чоловічі папарделе з беконом, грибами та пивним соусом",
+                        "itemDescription": "320 гр",
+                        "price": 13500
+                    },
+                    "a5042eb6-49d7-4e2f-b00d-151c91ec6ad3": {
+                        "uuid": "a5042eb6-49d7-4e2f-b00d-151c91ec6ad3",
+                        "title": "Суп-пюре з червонокачанної капусти",
+                        "itemDescription": "250 гр",
+                        "price": 8000,
+                        "suspendUntil": 8640000000
+                    },
+                    "615743f4-fee7-45f2-b480-2a4d2841ead6": {
+                        "uuid": "615743f4-fee7-45f2-b480-2a4d2841ead6",
+                        "title": "Лінгвіні \"Маргарита\" з томатним соусом",
+                        "itemDescription": "275г",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f029309-20c8-46fb-bbb5-3f820d56d77a",
+                        "customizationUuids": [
+                            "950faa4c-80a1-4dc3-b423-32e4b6fa7125"
+                        ]
+                    },
+                    "9750a3b4-f263-4e54-92f0-9c344fbdd827": {
+                        "uuid": "9750a3b4-f263-4e54-92f0-9c344fbdd827",
+                        "title": "Ароматний курячий суп з домашньою локшиною",
+                        "itemDescription": "430мл",
+                        "price": 6500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/4cd389a0-c721-4957-8fdf-544bcdef06f2"
+                    },
+                    "e6df907c-08a9-4b21-9dfe-d6cf561cb24a": {
+                        "uuid": "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                        "title": "Тальятелле з тигровими креветками та цукіні в соусі",
+                        "itemDescription": "385г",
+                        "price": 20500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/91b3ad8b-3f7e-484c-809d-df4dcbb31acd"
+                    },
+                    "f1bea731-d82f-4309-be64-57f5a7459869": {
+                        "uuid": "f1bea731-d82f-4309-be64-57f5a7459869",
+                        "title": "Біск з креветкою",
+                        "itemDescription": "240/30",
+                        "price": 11000
+                    },
+                    "1e0ae20a-5bec-448f-a1ad-ab13ea48415c": {
+                        "uuid": "1e0ae20a-5bec-448f-a1ad-ab13ea48415c",
+                        "title": "Суп-пюре \"Сочевиця та пашот\"",
+                        "itemDescription": "300мл",
+                        "price": 7000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/27dadfd4-d83e-4575-81c2-acb3c803b1ff"
+                    },
+                    "182e7991-2c61-410c-b33f-6ce1a0d11825": {
+                        "uuid": "182e7991-2c61-410c-b33f-6ce1a0d11825",
+                        "title": "Великий боул з гречкою",
+                        "itemDescription": "365г",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d2f96ba-9f1f-4136-ad8d-35906d75eced"
+                    },
+                    "3f748741-cb92-4ee7-b0ee-fd38ece67570": {
+                        "uuid": "3f748741-cb92-4ee7-b0ee-fd38ece67570",
+                        "title": "Салат з овочами гриль та сиром халумі",
+                        "itemDescription": "250г",
+                        "price": 13500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3de62b2c-6dd6-446a-b1f8-d1505867c00f"
+                    },
+                    "c660f239-942c-45ed-922d-233b2085241a": {
+                        "uuid": "c660f239-942c-45ed-922d-233b2085241a",
+                        "title": "Десерт Павлова в оригінальному виконанні",
+                        "itemDescription": "160г",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/131f37b2-8117-4b57-a971-5ceb8b811ce0"
+                    },
+                    "765a64d6-2c43-4803-94d6-0b7fa38e58f1": {
+                        "uuid": "765a64d6-2c43-4803-94d6-0b7fa38e58f1",
+                        "title": "Лінгвіні з величезним мітболом і густим томатним соусом",
+                        "itemDescription": "Розмір на вибір.",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/465e69f3-50bf-4355-8594-bb1576689499",
+                        "customizationUuids": [
+                            "ccb2d8fe-9ffe-4e14-a0ce-b83a46c8ff6b"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "01215baa-d741-4c55-b9f6-c9c6766d05a7",
+                        "title": "Популярне",
+                        "itemUuids": [
+                            "2e5a8096-17ab-4520-98ff-ecf6274429ce",
+                            "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                            "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                            "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                            "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2e5a8096-17ab-4520-98ff-ecf6274429ce",
+                                "title": "П'ядіна з куркою",
+                                "itemDescription": "335г",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/347eaf1c-0ec5-4070-807e-97984dc41a34"
+                            },
+                            {
+                                "uuid": "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                                "title": "Великий боул з кіноа",
+                                "itemDescription": "365г",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8d0d3f1-8dae-424d-bd5b-05c436f60ab7"
+                            },
+                            {
+                                "uuid": "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                                "title": "Зелені папарделе з куркою, печеним солодким перцем і в'яленими томатами",
+                                "itemDescription": "Розмір на вибір.",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/be243100-991a-4097-a479-e7a8b6e716ed",
+                                "customizationUuids": [
+                                    "fbf510ad-3645-4e56-ad95-c41597531180"
+                                ]
+                            },
+                            {
+                                "uuid": "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                                "title": "Тальятелле з тигровими креветками та цукіні в соусі",
+                                "itemDescription": "385г",
+                                "price": 20500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/91b3ad8b-3f7e-484c-809d-df4dcbb31acd"
+                            },
+                            {
+                                "uuid": "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9",
+                                "title": "Чорний ризото з морськими гадами",
+                                "itemDescription": "350г",
+                                "price": 23500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/da389963-b7f5-4ec1-9b09-ccf6bacec4b6"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "1e10d629-43fc-4a82-9e80-d60558c5649c",
+                        "title": "Закуски",
+                        "itemUuids": [
+                            "622efa65-b0f4-435e-a02b-d7daa23039cb",
+                            "0af50e63-9592-45c4-bada-c4894a8ed30c",
+                            "ae892cb4-f692-4947-98c9-8c923034c940"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "622efa65-b0f4-435e-a02b-d7daa23039cb",
+                                "title": "Баклажан, запечений з овочами та моцарелою",
+                                "itemDescription": "240г",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9b1fd3e1-61e8-48de-a603-2220a422e1c2"
+                            },
+                            {
+                                "uuid": "0af50e63-9592-45c4-bada-c4894a8ed30c",
+                                "title": "Тар-тар з фермерської яловичини та авокадо",
+                                "itemDescription": "190г",
+                                "price": 16000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/62623e06-6fd5-455c-89cf-14522918fdb3"
+                            },
+                            {
+                                "uuid": "ae892cb4-f692-4947-98c9-8c923034c940",
+                                "title": "Тарілка свіжоспеченого хліба з кольоровим маслом",
+                                "itemDescription": "150/20/20г",
+                                "price": 4000,
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "46d2881b-c429-45be-bd34-f94961fd220d",
+                        "title": "П'ядіни",
+                        "itemUuids": [
+                            "51202061-5003-4f3b-9b49-a4547bc7efca",
+                            "481f85ed-33f9-45fe-a5df-abe41d7a1ab0",
+                            "2e5a8096-17ab-4520-98ff-ecf6274429ce"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "51202061-5003-4f3b-9b49-a4547bc7efca",
+                                "title": "П'ядіна з панчетою",
+                                "itemDescription": "295г",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7bdce983-0432-4c7b-a308-3e7e3339a592"
+                            },
+                            {
+                                "uuid": "481f85ed-33f9-45fe-a5df-abe41d7a1ab0",
+                                "title": "П'ядіна овочева",
+                                "itemDescription": "290г",
+                                "price": 15500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "2e5a8096-17ab-4520-98ff-ecf6274429ce",
+                                "title": "П'ядіна з куркою",
+                                "itemDescription": "335г",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/347eaf1c-0ec5-4070-807e-97984dc41a34"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "ad39b203-9cb9-4ddc-a636-c6cc43421e20",
+                        "title": "Супи",
+                        "itemUuids": [
+                            "9750a3b4-f263-4e54-92f0-9c344fbdd827",
+                            "1e0ae20a-5bec-448f-a1ad-ab13ea48415c",
+                            "f1bea731-d82f-4309-be64-57f5a7459869",
+                            "a5042eb6-49d7-4e2f-b00d-151c91ec6ad3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9750a3b4-f263-4e54-92f0-9c344fbdd827",
+                                "title": "Ароматний курячий суп з домашньою локшиною",
+                                "itemDescription": "430мл",
+                                "price": 6500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4cd389a0-c721-4957-8fdf-544bcdef06f2"
+                            },
+                            {
+                                "uuid": "1e0ae20a-5bec-448f-a1ad-ab13ea48415c",
+                                "title": "Суп-пюре \"Сочевиця та пашот\"",
+                                "itemDescription": "300мл",
+                                "price": 7000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/27dadfd4-d83e-4575-81c2-acb3c803b1ff"
+                            },
+                            {
+                                "uuid": "f1bea731-d82f-4309-be64-57f5a7459869",
+                                "title": "Біск з креветкою",
+                                "itemDescription": "240/30",
+                                "price": 11000
+                            },
+                            {
+                                "uuid": "a5042eb6-49d7-4e2f-b00d-151c91ec6ad3",
+                                "title": "Суп-пюре з червонокачанної капусти",
+                                "itemDescription": "250 гр",
+                                "price": 8000,
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "8d0e8246-32a2-436b-863c-6b4c22c0333c",
+                        "title": "Салати",
+                        "itemUuids": [
+                            "3f748741-cb92-4ee7-b0ee-fd38ece67570",
+                            "182e7991-2c61-410c-b33f-6ce1a0d11825",
+                            "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                            "58c426ef-147c-48ff-86c0-ea65177bf025"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "3f748741-cb92-4ee7-b0ee-fd38ece67570",
+                                "title": "Салат з овочами гриль та сиром халумі",
+                                "itemDescription": "250г",
+                                "price": 13500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3de62b2c-6dd6-446a-b1f8-d1505867c00f"
+                            },
+                            {
+                                "uuid": "182e7991-2c61-410c-b33f-6ce1a0d11825",
+                                "title": "Великий боул з гречкою",
+                                "itemDescription": "365г",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d2f96ba-9f1f-4136-ad8d-35906d75eced"
+                            },
+                            {
+                                "uuid": "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                                "title": "Великий боул з кіноа",
+                                "itemDescription": "365г",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8d0d3f1-8dae-424d-bd5b-05c436f60ab7"
+                            },
+                            {
+                                "uuid": "58c426ef-147c-48ff-86c0-ea65177bf025",
+                                "title": "Легкий салат з кіноа та свіжими овочами",
+                                "itemDescription": "220г",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a39bcb43-28e2-4873-8a54-9d196f2e600f"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "10bc0a9b-3635-4388-b391-154d691a5b0c",
+                        "title": "Паста",
+                        "itemUuids": [
+                            "f20e661a-c7e7-4d34-9284-a649d746ecbb",
+                            "615743f4-fee7-45f2-b480-2a4d2841ead6",
+                            "7b8b10da-9df9-48c4-aaf9-49f09f80b29e",
+                            "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                            "765a64d6-2c43-4803-94d6-0b7fa38e58f1",
+                            "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                            "b12cc3bd-e027-44d0-a05e-28148ea7d588"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f20e661a-c7e7-4d34-9284-a649d746ecbb",
+                                "title": "Равіолі з ікрою із баклажанів та сулугуні від закоханого шефа",
+                                "itemDescription": "230г",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4963962-bd19-4847-baee-c2da337b9b7b"
+                            },
+                            {
+                                "uuid": "615743f4-fee7-45f2-b480-2a4d2841ead6",
+                                "title": "Лінгвіні \"Маргарита\" з томатним соусом",
+                                "itemDescription": "275г",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f029309-20c8-46fb-bbb5-3f820d56d77a",
+                                "customizationUuids": [
+                                    "950faa4c-80a1-4dc3-b423-32e4b6fa7125"
+                                ]
+                            },
+                            {
+                                "uuid": "7b8b10da-9df9-48c4-aaf9-49f09f80b29e",
+                                "title": "Равіолі \"Зелений квадрат\" з індичкою в горіхово-шпинатному соусі",
+                                "itemDescription": "250г",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/53b9155a-2047-4eef-831f-c9f0b434be4c"
+                            },
+                            {
+                                "uuid": "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                                "title": "Зелені папарделе з куркою, печеним солодким перцем і в'яленими томатами",
+                                "itemDescription": "Розмір на вибір.",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/be243100-991a-4097-a479-e7a8b6e716ed",
+                                "customizationUuids": [
+                                    "fbf510ad-3645-4e56-ad95-c41597531180"
+                                ]
+                            },
+                            {
+                                "uuid": "765a64d6-2c43-4803-94d6-0b7fa38e58f1",
+                                "title": "Лінгвіні з величезним мітболом і густим томатним соусом",
+                                "itemDescription": "Розмір на вибір.",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/465e69f3-50bf-4355-8594-bb1576689499",
+                                "customizationUuids": [
+                                    "ccb2d8fe-9ffe-4e14-a0ce-b83a46c8ff6b"
+                                ]
+                            },
+                            {
+                                "uuid": "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                                "title": "Тальятелле з тигровими креветками та цукіні в соусі",
+                                "itemDescription": "385г",
+                                "price": 20500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/91b3ad8b-3f7e-484c-809d-df4dcbb31acd"
+                            },
+                            {
+                                "uuid": "b12cc3bd-e027-44d0-a05e-28148ea7d588",
+                                "title": "Паста \"Ліверпуль\" справжні чоловічі папарделе з беконом, грибами та пивним соусом",
+                                "itemDescription": "320 гр",
+                                "price": 13500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "f8afaef1-541d-4dad-802e-792d0df8767d",
+                        "title": "Гарячі страви",
+                        "itemUuids": [
+                            "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9",
+                            "c2b7acb7-4604-45c0-abe2-7b1ea14c24f3",
+                            "07fb8d18-4190-4372-8a0b-94ec426eec79",
+                            "74569bfd-db04-469e-9f79-6adf7dac33a0",
+                            "67b32829-d2c1-48a6-8af5-d5d49427f9a9",
+                            "5f9f3074-8317-44e9-b70e-15d23ff7b2b5",
+                            "46d23c6c-f32d-4d8a-be70-85e68d11d93d"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9",
+                                "title": "Чорний ризото з морськими гадами",
+                                "itemDescription": "350г",
+                                "price": 23500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/da389963-b7f5-4ec1-9b09-ccf6bacec4b6"
+                            },
+                            {
+                                "uuid": "c2b7acb7-4604-45c0-abe2-7b1ea14c24f3",
+                                "title": "Різотто Том-ям",
+                                "itemDescription": "295г",
+                                "price": 21000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/14183ee2-3155-45ee-af0d-6d2c3f8bf6f4"
+                            },
+                            {
+                                "uuid": "07fb8d18-4190-4372-8a0b-94ec426eec79",
+                                "title": "Лазанья 'Феррарезе' на шпинатному тісті із соусом болоньєз і вареним яйцем",
+                                "itemDescription": "250/30г",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f736c123-70ad-41f3-a43f-cbd6d8ce57ce"
+                            },
+                            {
+                                "uuid": "74569bfd-db04-469e-9f79-6adf7dac33a0",
+                                "title": "Шніцель курячий з горгонзолою та картоплею",
+                                "itemDescription": "180/100/45г",
+                                "price": 13000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/107bb3ef-e8aa-4bc2-8400-8d9104194e67"
+                            },
+                            {
+                                "uuid": "67b32829-d2c1-48a6-8af5-d5d49427f9a9",
+                                "title": "Стейк з капусти у вершково-винному соусі",
+                                "itemDescription": "220 гр",
+                                "price": 9500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "5f9f3074-8317-44e9-b70e-15d23ff7b2b5",
+                                "title": "Різотто з білими грибами та томатами",
+                                "itemDescription": "300 гр",
+                                "price": 13500
+                            },
+                            {
+                                "uuid": "46d23c6c-f32d-4d8a-be70-85e68d11d93d",
+                                "title": "Вершкове різотто з грибіми, цукіні та трюфельною олією",
+                                "itemDescription": "300 гр",
+                                "price": 12500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "2c8cfd5c-e891-490c-9e04-de7bfa4cbba7",
+                        "title": "Десерти",
+                        "itemUuids": [
+                            "78afc197-300c-4cf5-9b43-e399716bac4b",
+                            "27c5fb48-0457-4fa1-a462-ae5e1a6b288b",
+                            "c660f239-942c-45ed-922d-233b2085241a"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "78afc197-300c-4cf5-9b43-e399716bac4b",
+                                "title": "Торт шоколадний із цукіні",
+                                "itemDescription": "125г",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c874a10d-97a3-4f24-83b2-e4616e64977f"
+                            },
+                            {
+                                "uuid": "27c5fb48-0457-4fa1-a462-ae5e1a6b288b",
+                                "title": "Чізкейк \"Три сири\"",
+                                "itemDescription": "115г",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f54b3289-cd25-4f54-8e24-9150e09f9de6"
+                            },
+                            {
+                                "uuid": "c660f239-942c-45ed-922d-233b2085241a",
+                                "title": "Десерт Павлова в оригінальному виконанні",
+                                "itemDescription": "160г",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/131f37b2-8117-4b57-a971-5ceb8b811ce0"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "462a3954-f4d1-46ef-8b91-54863bfcf300",
+                        "title": "Напої",
+                        "itemUuids": [
+                            "2aed627e-3271-42e1-8608-7eb41bc0e8a6",
+                            "8c35e2f8-1a4a-4f3b-ba85-40bbda5ec389",
+                            "d7047e8e-480b-41e9-9fd6-549ffd72246d"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2aed627e-3271-42e1-8608-7eb41bc0e8a6",
+                                "title": "Pepsi",
+                                "itemDescription": "0.3  (скло)",
+                                "price": 3000
+                            },
+                            {
+                                "uuid": "8c35e2f8-1a4a-4f3b-ba85-40bbda5ec389",
+                                "title": "Сік \"Jaffa\"",
+                                "itemDescription": "0,25 скло",
+                                "price": 4500,
+                                "customizationUuids": [
+                                    "4328088b-53d7-4788-a23e-2a50b08485bf"
+                                ]
+                            },
+                            {
+                                "uuid": "d7047e8e-480b-41e9-9fd6-549ffd72246d",
+                                "title": "Вода мінеральна \"VODA.UA\"",
+                                "itemDescription": "0,4 скло ",
+                                "price": 4000,
+                                "customizationUuids": [
+                                    "5121ccf9-015d-4035-ba59-838e03d63392"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "028a566d-b585-4664-a238-6662e52a935b",
+                        "title": "Пісне меню",
+                        "itemUuids": [
+                            "f310d81d-d770-4d05-85b0-5eb1b8b06f2b",
+                            "02dc9907-ff5c-489b-af76-d562170583ed",
+                            "472179cf-fb7c-4ff6-9215-bdcb5d6648ba",
+                            "0ff071fd-b914-4fb8-aed6-c332ab03029d",
+                            "dbb0dfdd-d2fc-483b-9ee7-4e763ebaf096",
+                            "306c73aa-a449-4092-8ef4-802fa3690a03",
+                            "2f572ae7-87bb-4a8b-936a-aceee9425726",
+                            "1bba35a6-5972-4cc8-ba5d-8827097e9e35",
+                            "50fc2c16-1a45-4bfc-ac35-f6dca1193a1c",
+                            "24124c47-374d-4b5e-bf5f-e8e2b20d2ce0"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f310d81d-d770-4d05-85b0-5eb1b8b06f2b",
+                                "title": "Гуакомоле з тартаром із білих грибів та персику",
+                                "itemDescription": "145 г",
+                                "price": 14500
+                            },
+                            {
+                                "uuid": "02dc9907-ff5c-489b-af76-d562170583ed",
+                                "title": "Гуакомоле з піадою та бланшованими помідорами",
+                                "itemDescription": "150 г",
+                                "price": 9500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "472179cf-fb7c-4ff6-9215-bdcb5d6648ba",
+                                "title": "Тофу-мус з мигдальними вершками та кунжутною олією, подається з піадою та бланшованими помідорами",
+                                "itemDescription": "150 г ",
+                                "price": 5500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "0ff071fd-b914-4fb8-aed6-c332ab03029d",
+                                "title": "Боул з тофу-мусом з мигдальними вершками, кунжутною олією та гречкою",
+                                "itemDescription": "300 г",
+                                "price": 11500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "dbb0dfdd-d2fc-483b-9ee7-4e763ebaf096",
+                                "title": "Боул з тофу-мусом з мигдальними вершками, кунжутною олією та кіноа",
+                                "itemDescription": "300 г",
+                                "price": 12500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "306c73aa-a449-4092-8ef4-802fa3690a03",
+                                "title": "Салат з кіноа та свіжими овочами з тофу-мусом",
+                                "itemDescription": "220 г",
+                                "price": 9500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "2f572ae7-87bb-4a8b-936a-aceee9425726",
+                                "title": "П'ядіна овочева з тофу-мусом з мигдальними вершками та кунжутною олією",
+                                "itemDescription": "270 г (гриби ерінги, печений перець та баклажани)",
+                                "price": 15500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "1bba35a6-5972-4cc8-ba5d-8827097e9e35",
+                                "title": "Пісні тальятеле \"Агліо піперучі\" в оливковій олії",
+                                "itemDescription": "250 г",
+                                "price": 8500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "50fc2c16-1a45-4bfc-ac35-f6dca1193a1c",
+                                "title": "Пісні тальятеле з томатним соусом",
+                                "itemDescription": "275 г",
+                                "price": 5500,
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "cd5dc850-a861-45a9-b3ff-cf3373a5dac7"
+                                ]
+                            },
+                            {
+                                "uuid": "24124c47-374d-4b5e-bf5f-e8e2b20d2ce0",
+                                "title": "Пісні тальятеле з оливковою олією",
+                                "itemDescription": "200 г",
+                                "price": 5500,
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "4b7cace0-ba1c-4834-bf6b-4560b2a59e38"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "fa403323-e615-4a1d-b47b-8a9d20e70885": {
+                "itemsMap": {
+                    "449ab358-fc90-4431-915f-447ec3146d20": {
+                        "uuid": "449ab358-fc90-4431-915f-447ec3146d20",
+                        "title": "Piadina with pancetta",
+                        "itemDescription": "295g",
+                        "price": 15500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/55c511c7-2c1e-4bef-825a-8585b839d7d8"
+                    },
+                    "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd": {
+                        "uuid": "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd",
+                        "title": "Lasagna \"Ferrarese\" of spinach dough with Bolognese sauce, and boiled egg",
+                        "itemDescription": "250/30g",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/86289fe5-2bd9-4d0e-a599-7fc62c034817"
+                    },
+                    "d6f65290-4e39-494e-8bfd-b25a109303af": {
+                        "uuid": "d6f65290-4e39-494e-8bfd-b25a109303af",
+                        "title": "Aromatic chicken soup",
+                        "itemDescription": "430ml",
+                        "price": 6500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe579d56-cffb-481d-84a0-5259481dbdb3"
+                    },
+                    "a45610a0-c14b-4aa3-9c58-3daf1c49b340": {
+                        "uuid": "a45610a0-c14b-4aa3-9c58-3daf1c49b340",
+                        "title": "Green pappardelle with chicken, baked sweet peppers, and dried tomatoes",
+                        "itemDescription": "Size to choose.",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf5b50b-1884-4762-bf3b-95423ea52ccc",
+                        "customizationUuids": [
+                            "407d1e35-ea83-4015-acfe-0abb2e0268e7"
+                        ]
+                    },
+                    "83339846-6128-4568-a69f-74718d8589f6": {
+                        "uuid": "83339846-6128-4568-a69f-74718d8589f6",
+                        "title": "Linguine with a huge meatball, and a thick tomato sauce",
+                        "itemDescription": "Size to choose.",
+                        "price": 10500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6cb5891-bc16-4177-9f43-9eeef0b1c90f",
+                        "customizationUuids": [
+                            "2393e574-0efd-4ede-81fb-39e8e056dbb8"
+                        ]
+                    },
+                    "410e76bf-6623-43b3-8352-43fad548b886": {
+                        "uuid": "410e76bf-6623-43b3-8352-43fad548b886",
+                        "title": "\"Green square\" ravioli with turkey in nuts, and spinach sauce",
+                        "itemDescription": "250g",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9890a25-3486-4ac0-8b9c-c41370bed36b"
+                    },
+                    "35895a66-b04d-40aa-9b3f-f1ae937d9d5e": {
+                        "uuid": "35895a66-b04d-40aa-9b3f-f1ae937d9d5e",
+                        "title": "Grilled vegetable salad with halloumi cheese",
+                        "itemDescription": "250g",
+                        "price": 13500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae2b9936-ec85-42d4-a94b-addb0497e2b8"
+                    },
+                    "15f0df7d-c4d5-481a-bbc9-334b078e749a": {
+                        "uuid": "15f0df7d-c4d5-481a-bbc9-334b078e749a",
+                        "title": "Light salad with quinoa, and fresh vegetables",
+                        "itemDescription": "220g",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/80d9d19f-381d-4590-b2a5-a36befdd4520"
+                    },
+                    "03992c00-14bc-45d0-b705-4ba5a5bdc955": {
+                        "uuid": "03992c00-14bc-45d0-b705-4ba5a5bdc955",
+                        "title": "Black risotto with seafood",
+                        "itemDescription": "350g",
+                        "price": 23500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b9f98cc-061b-42f7-ac49-0800f03a8016"
+                    },
+                    "d1437dd2-1783-4274-a04a-27149f0f7fc3": {
+                        "uuid": "d1437dd2-1783-4274-a04a-27149f0f7fc3",
+                        "title": "Pavlova dessert traditional",
+                        "itemDescription": "160g",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/63f77497-47f0-47e3-8cb0-1d12db96efeb"
+                    },
+                    "6b2f5cae-2c43-4b36-b930-5059834ad1cb": {
+                        "uuid": "6b2f5cae-2c43-4b36-b930-5059834ad1cb",
+                        "title": "Cream soup \"Lentil, and poached egg\"",
+                        "itemDescription": "300ml",
+                        "price": 6500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9054a0cc-8bf0-4d0f-bd19-199bf5a39860"
+                    },
+                    "e65e476f-175c-4042-9148-149b6cac0044": {
+                        "uuid": "e65e476f-175c-4042-9148-149b6cac0044",
+                        "title": "Piadina with chicken",
+                        "itemDescription": "335g",
+                        "price": 15500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa19e4a2-573c-4e62-a0c6-d7a6cd740083"
+                    },
+                    "7110c306-b33d-4d8b-9b55-e09e371008b3": {
+                        "uuid": "7110c306-b33d-4d8b-9b55-e09e371008b3",
+                        "title": "Plate of oven-fresh bread with colored butter",
+                        "itemDescription": "150/20/20g",
+                        "price": 3500
+                    },
+                    "68578c24-7ec5-448c-904a-dbae33796650": {
+                        "uuid": "68578c24-7ec5-448c-904a-dbae33796650",
+                        "title": "Tagliatelle with tiger prawns, and zucchini in a sauce",
+                        "itemDescription": "385g",
+                        "price": 20500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/70f25aee-dc98-4c52-934f-914647fc403e"
+                    },
+                    "f70627fc-6f6f-4c06-b038-b2e78bbd2adf": {
+                        "uuid": "f70627fc-6f6f-4c06-b038-b2e78bbd2adf",
+                        "title": "Piadina with vegetables",
+                        "itemDescription": "290g",
+                        "price": 15500,
+                        "suspendUntil": 8640000000
+                    },
+                    "d6973a09-72af-49cb-af16-1982bd37a03f": {
+                        "uuid": "d6973a09-72af-49cb-af16-1982bd37a03f",
+                        "title": "Eggplant baked with vegetables, and mozzarella",
+                        "itemDescription": "240g",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a56b846-b56f-441c-90c7-65ce953b016a"
+                    },
+                    "fa60025c-1b05-491e-959d-2f3dfa90c7ba": {
+                        "uuid": "fa60025c-1b05-491e-959d-2f3dfa90c7ba",
+                        "title": "Ravioli with eggplants caviar, and suluguni from the chef in love",
+                        "itemDescription": "230g",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d830e5a-cc98-4bd8-9851-db040efd1123"
+                    },
+                    "a8f04be3-f0c4-4474-98bf-a6cb69899816": {
+                        "uuid": "a8f04be3-f0c4-4474-98bf-a6cb69899816",
+                        "title": "Chocolate zucchini cake",
+                        "itemDescription": "125g",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7bea7d5-74f5-468b-8561-15d37f7d0809"
+                    },
+                    "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa": {
+                        "uuid": "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa",
+                        "title": "Shrimp bisque",
+                        "itemDescription": "240/30",
+                        "price": 11000,
+                        "nutritionalInfo": {}
+                    },
+                    "2346ac54-229e-4414-9ef6-70921c914da1": {
+                        "uuid": "2346ac54-229e-4414-9ef6-70921c914da1",
+                        "title": "Big bowl with quinoa",
+                        "itemDescription": "365g",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/16c74046-78ee-4189-a66b-b68a1c14ffca"
+                    },
+                    "e4f73704-363d-4e47-ad7f-172e089ca866": {
+                        "uuid": "e4f73704-363d-4e47-ad7f-172e089ca866",
+                        "title": "Risotto Tom Yum",
+                        "itemDescription": "295g",
+                        "price": 21000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c98066-4ae8-4f63-913b-3ead73c460ee"
+                    },
+                    "ac0b171a-446a-4fea-ad68-68f95d23f6a9": {
+                        "uuid": "ac0b171a-446a-4fea-ad68-68f95d23f6a9",
+                        "title": "Tartar of farm beef, and avocados",
+                        "itemDescription": "190g",
+                        "price": 16000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee035b31-f683-4bc2-812a-9760024b3d8d"
+                    },
+                    "e735d3a0-cdc6-4568-9830-f8cd8be80ab1": {
+                        "uuid": "e735d3a0-cdc6-4568-9830-f8cd8be80ab1",
+                        "title": "Cheesecake \"Three cheese\"",
+                        "itemDescription": "115g",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d60c27a-81a2-44a9-9927-920602f7c4bd"
+                    },
+                    "c1234fd2-706e-4017-96df-f4bbf4a32f0c": {
+                        "uuid": "c1234fd2-706e-4017-96df-f4bbf4a32f0c",
+                        "title": "Big bowl with buckwheat",
+                        "itemDescription": "365g",
+                        "price": 11500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/53a63d6c-d4e6-4c39-a741-70d2ed398215"
+                    },
+                    "c7f318b8-70df-43a0-87a3-929452d1fd20": {
+                        "uuid": "c7f318b8-70df-43a0-87a3-929452d1fd20",
+                        "title": "Chicken schnitzel with gorgonzola, and potatoes",
+                        "itemDescription": "180/100/45g",
+                        "price": 13000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf28e651-cd79-4b5c-ace3-143d3dc815f3"
+                    },
+                    "3e28333d-f187-4877-b493-9e7ad5235a62": {
+                        "uuid": "3e28333d-f187-4877-b493-9e7ad5235a62",
+                        "title": "\"Margarita\" linguine with tomato sauce",
+                        "itemDescription": "275g",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ec5c7d0-519c-4f5c-9153-8f3304a0169a"
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "3d2cee3e-3fcc-4d91-85e6-540c3c367a67",
+                        "title": "Appetizer",
+                        "itemUuids": [
+                            "d6973a09-72af-49cb-af16-1982bd37a03f",
+                            "ac0b171a-446a-4fea-ad68-68f95d23f6a9",
+                            "7110c306-b33d-4d8b-9b55-e09e371008b3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "d6973a09-72af-49cb-af16-1982bd37a03f",
+                                "title": "Eggplant baked with vegetables, and mozzarella",
+                                "itemDescription": "240g",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a56b846-b56f-441c-90c7-65ce953b016a"
+                            },
+                            {
+                                "uuid": "ac0b171a-446a-4fea-ad68-68f95d23f6a9",
+                                "title": "Tartar of farm beef, and avocados",
+                                "itemDescription": "190g",
+                                "price": 16000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee035b31-f683-4bc2-812a-9760024b3d8d"
+                            },
+                            {
+                                "uuid": "7110c306-b33d-4d8b-9b55-e09e371008b3",
+                                "title": "Plate of oven-fresh bread with colored butter",
+                                "itemDescription": "150/20/20g",
+                                "price": 3500
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "b296af9a-b16c-4110-8e6b-6143fb4d09d8",
+                        "title": "Piadina",
+                        "itemUuids": [
+                            "449ab358-fc90-4431-915f-447ec3146d20",
+                            "f70627fc-6f6f-4c06-b038-b2e78bbd2adf",
+                            "e65e476f-175c-4042-9148-149b6cac0044"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "449ab358-fc90-4431-915f-447ec3146d20",
+                                "title": "Piadina with pancetta",
+                                "itemDescription": "295g",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/55c511c7-2c1e-4bef-825a-8585b839d7d8"
+                            },
+                            {
+                                "uuid": "f70627fc-6f6f-4c06-b038-b2e78bbd2adf",
+                                "title": "Piadina with vegetables",
+                                "itemDescription": "290g",
+                                "price": 15500,
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "e65e476f-175c-4042-9148-149b6cac0044",
+                                "title": "Piadina with chicken",
+                                "itemDescription": "335g",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa19e4a2-573c-4e62-a0c6-d7a6cd740083"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "1e0c17d5-ee82-4c97-9b58-2124d1be77d4",
+                        "title": "Soups",
+                        "itemUuids": [
+                            "6b2f5cae-2c43-4b36-b930-5059834ad1cb",
+                            "d6f65290-4e39-494e-8bfd-b25a109303af",
+                            "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "6b2f5cae-2c43-4b36-b930-5059834ad1cb",
+                                "title": "Cream soup \"Lentil, and poached egg\"",
+                                "itemDescription": "300ml",
+                                "price": 6500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9054a0cc-8bf0-4d0f-bd19-199bf5a39860"
+                            },
+                            {
+                                "uuid": "d6f65290-4e39-494e-8bfd-b25a109303af",
+                                "title": "Aromatic chicken soup",
+                                "itemDescription": "430ml",
+                                "price": 6500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe579d56-cffb-481d-84a0-5259481dbdb3"
+                            },
+                            {
+                                "uuid": "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa",
+                                "title": "Shrimp bisque",
+                                "itemDescription": "240/30",
+                                "price": 11000,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "9b832a19-46a1-4909-88fc-d1131f6ebed2",
+                        "title": "Salads",
+                        "itemUuids": [
+                            "35895a66-b04d-40aa-9b3f-f1ae937d9d5e",
+                            "c1234fd2-706e-4017-96df-f4bbf4a32f0c",
+                            "2346ac54-229e-4414-9ef6-70921c914da1",
+                            "15f0df7d-c4d5-481a-bbc9-334b078e749a"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "35895a66-b04d-40aa-9b3f-f1ae937d9d5e",
+                                "title": "Grilled vegetable salad with halloumi cheese",
+                                "itemDescription": "250g",
+                                "price": 13500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae2b9936-ec85-42d4-a94b-addb0497e2b8"
+                            },
+                            {
+                                "uuid": "c1234fd2-706e-4017-96df-f4bbf4a32f0c",
+                                "title": "Big bowl with buckwheat",
+                                "itemDescription": "365g",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/53a63d6c-d4e6-4c39-a741-70d2ed398215"
+                            },
+                            {
+                                "uuid": "2346ac54-229e-4414-9ef6-70921c914da1",
+                                "title": "Big bowl with quinoa",
+                                "itemDescription": "365g",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/16c74046-78ee-4189-a66b-b68a1c14ffca"
+                            },
+                            {
+                                "uuid": "15f0df7d-c4d5-481a-bbc9-334b078e749a",
+                                "title": "Light salad with quinoa, and fresh vegetables",
+                                "itemDescription": "220g",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/80d9d19f-381d-4590-b2a5-a36befdd4520"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d6e20625-6daa-4fbc-8aa1-1019e882ff14",
+                        "title": "Pasta",
+                        "itemUuids": [
+                            "fa60025c-1b05-491e-959d-2f3dfa90c7ba",
+                            "3e28333d-f187-4877-b493-9e7ad5235a62",
+                            "410e76bf-6623-43b3-8352-43fad548b886",
+                            "a45610a0-c14b-4aa3-9c58-3daf1c49b340",
+                            "83339846-6128-4568-a69f-74718d8589f6",
+                            "68578c24-7ec5-448c-904a-dbae33796650"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "fa60025c-1b05-491e-959d-2f3dfa90c7ba",
+                                "title": "Ravioli with eggplants caviar, and suluguni from the chef in love",
+                                "itemDescription": "230g",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d830e5a-cc98-4bd8-9851-db040efd1123"
+                            },
+                            {
+                                "uuid": "3e28333d-f187-4877-b493-9e7ad5235a62",
+                                "title": "\"Margarita\" linguine with tomato sauce",
+                                "itemDescription": "275g",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ec5c7d0-519c-4f5c-9153-8f3304a0169a"
+                            },
+                            {
+                                "uuid": "410e76bf-6623-43b3-8352-43fad548b886",
+                                "title": "\"Green square\" ravioli with turkey in nuts, and spinach sauce",
+                                "itemDescription": "250g",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9890a25-3486-4ac0-8b9c-c41370bed36b"
+                            },
+                            {
+                                "uuid": "a45610a0-c14b-4aa3-9c58-3daf1c49b340",
+                                "title": "Green pappardelle with chicken, baked sweet peppers, and dried tomatoes",
+                                "itemDescription": "Size to choose.",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf5b50b-1884-4762-bf3b-95423ea52ccc",
+                                "customizationUuids": [
+                                    "407d1e35-ea83-4015-acfe-0abb2e0268e7"
+                                ]
+                            },
+                            {
+                                "uuid": "83339846-6128-4568-a69f-74718d8589f6",
+                                "title": "Linguine with a huge meatball, and a thick tomato sauce",
+                                "itemDescription": "Size to choose.",
+                                "price": 10500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6cb5891-bc16-4177-9f43-9eeef0b1c90f",
+                                "customizationUuids": [
+                                    "2393e574-0efd-4ede-81fb-39e8e056dbb8"
+                                ]
+                            },
+                            {
+                                "uuid": "68578c24-7ec5-448c-904a-dbae33796650",
+                                "title": "Tagliatelle with tiger prawns, and zucchini in a sauce",
+                                "itemDescription": "385g",
+                                "price": 20500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/70f25aee-dc98-4c52-934f-914647fc403e"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "0ebe70fa-ae0f-4167-b0af-bb3d72672d7d",
+                        "title": "Hot meals",
+                        "itemUuids": [
+                            "03992c00-14bc-45d0-b705-4ba5a5bdc955",
+                            "e4f73704-363d-4e47-ad7f-172e089ca866",
+                            "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd",
+                            "c7f318b8-70df-43a0-87a3-929452d1fd20"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "03992c00-14bc-45d0-b705-4ba5a5bdc955",
+                                "title": "Black risotto with seafood",
+                                "itemDescription": "350g",
+                                "price": 23500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b9f98cc-061b-42f7-ac49-0800f03a8016"
+                            },
+                            {
+                                "uuid": "e4f73704-363d-4e47-ad7f-172e089ca866",
+                                "title": "Risotto Tom Yum",
+                                "itemDescription": "295g",
+                                "price": 21000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c98066-4ae8-4f63-913b-3ead73c460ee"
+                            },
+                            {
+                                "uuid": "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd",
+                                "title": "Lasagna \"Ferrarese\" of spinach dough with Bolognese sauce, and boiled egg",
+                                "itemDescription": "250/30g",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/86289fe5-2bd9-4d0e-a599-7fc62c034817"
+                            },
+                            {
+                                "uuid": "c7f318b8-70df-43a0-87a3-929452d1fd20",
+                                "title": "Chicken schnitzel with gorgonzola, and potatoes",
+                                "itemDescription": "180/100/45g",
+                                "price": 13000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf28e651-cd79-4b5c-ace3-143d3dc815f3"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "241ee55e-d2df-4cb1-b221-c8e2d672e958",
+                        "title": "Desserts",
+                        "itemUuids": [
+                            "a8f04be3-f0c4-4474-98bf-a6cb69899816",
+                            "e735d3a0-cdc6-4568-9830-f8cd8be80ab1",
+                            "d1437dd2-1783-4274-a04a-27149f0f7fc3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "a8f04be3-f0c4-4474-98bf-a6cb69899816",
+                                "title": "Chocolate zucchini cake",
+                                "itemDescription": "125g",
+                                "price": 11500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7bea7d5-74f5-468b-8561-15d37f7d0809"
+                            },
+                            {
+                                "uuid": "e735d3a0-cdc6-4568-9830-f8cd8be80ab1",
+                                "title": "Cheesecake \"Three cheese\"",
+                                "itemDescription": "115g",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d60c27a-81a2-44a9-9927-920602f7c4bd"
+                            },
+                            {
+                                "uuid": "d1437dd2-1783-4274-a04a-27149f0f7fc3",
+                                "title": "Pavlova dessert traditional",
+                                "itemDescription": "160g",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/63f77497-47f0-47e3-8cb0-1d12db96efeb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "0ebe70fa-ae0f-4167-b0af-bb3d72672d7d": {
+                "uuid": "0ebe70fa-ae0f-4167-b0af-bb3d72672d7d",
+                "title": "Hot meals",
+                "itemUuids": [
+                    "03992c00-14bc-45d0-b705-4ba5a5bdc955",
+                    "e4f73704-363d-4e47-ad7f-172e089ca866",
+                    "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd",
+                    "c7f318b8-70df-43a0-87a3-929452d1fd20"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "03992c00-14bc-45d0-b705-4ba5a5bdc955",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e4f73704-363d-4e47-ad7f-172e089ca866",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c7f318b8-70df-43a0-87a3-929452d1fd20",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "1e0c17d5-ee82-4c97-9b58-2124d1be77d4": {
+                "uuid": "1e0c17d5-ee82-4c97-9b58-2124d1be77d4",
+                "title": "Soups",
+                "itemUuids": [
+                    "6b2f5cae-2c43-4b36-b930-5059834ad1cb",
+                    "d6f65290-4e39-494e-8bfd-b25a109303af",
+                    "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "6b2f5cae-2c43-4b36-b930-5059834ad1cb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d6f65290-4e39-494e-8bfd-b25a109303af",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "462a3954-f4d1-46ef-8b91-54863bfcf300": {
+                "uuid": "462a3954-f4d1-46ef-8b91-54863bfcf300",
+                "title": "Напої",
+                "itemUuids": [
+                    "2aed627e-3271-42e1-8608-7eb41bc0e8a6",
+                    "8c35e2f8-1a4a-4f3b-ba85-40bbda5ec389",
+                    "d7047e8e-480b-41e9-9fd6-549ffd72246d"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2aed627e-3271-42e1-8608-7eb41bc0e8a6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8c35e2f8-1a4a-4f3b-ba85-40bbda5ec389",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d7047e8e-480b-41e9-9fd6-549ffd72246d",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "028a566d-b585-4664-a238-6662e52a935b": {
+                "uuid": "028a566d-b585-4664-a238-6662e52a935b",
+                "title": "Пісне меню",
+                "itemUuids": [
+                    "f310d81d-d770-4d05-85b0-5eb1b8b06f2b",
+                    "02dc9907-ff5c-489b-af76-d562170583ed",
+                    "472179cf-fb7c-4ff6-9215-bdcb5d6648ba",
+                    "0ff071fd-b914-4fb8-aed6-c332ab03029d",
+                    "dbb0dfdd-d2fc-483b-9ee7-4e763ebaf096",
+                    "306c73aa-a449-4092-8ef4-802fa3690a03",
+                    "2f572ae7-87bb-4a8b-936a-aceee9425726",
+                    "1bba35a6-5972-4cc8-ba5d-8827097e9e35",
+                    "50fc2c16-1a45-4bfc-ac35-f6dca1193a1c",
+                    "24124c47-374d-4b5e-bf5f-e8e2b20d2ce0"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f310d81d-d770-4d05-85b0-5eb1b8b06f2b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "02dc9907-ff5c-489b-af76-d562170583ed",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "472179cf-fb7c-4ff6-9215-bdcb5d6648ba",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0ff071fd-b914-4fb8-aed6-c332ab03029d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "dbb0dfdd-d2fc-483b-9ee7-4e763ebaf096",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "306c73aa-a449-4092-8ef4-802fa3690a03",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2f572ae7-87bb-4a8b-936a-aceee9425726",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1bba35a6-5972-4cc8-ba5d-8827097e9e35",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "50fc2c16-1a45-4bfc-ac35-f6dca1193a1c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "24124c47-374d-4b5e-bf5f-e8e2b20d2ce0",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "3d2cee3e-3fcc-4d91-85e6-540c3c367a67": {
+                "uuid": "3d2cee3e-3fcc-4d91-85e6-540c3c367a67",
+                "title": "Appetizer",
+                "itemUuids": [
+                    "d6973a09-72af-49cb-af16-1982bd37a03f",
+                    "ac0b171a-446a-4fea-ad68-68f95d23f6a9",
+                    "7110c306-b33d-4d8b-9b55-e09e371008b3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "d6973a09-72af-49cb-af16-1982bd37a03f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ac0b171a-446a-4fea-ad68-68f95d23f6a9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7110c306-b33d-4d8b-9b55-e09e371008b3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "241ee55e-d2df-4cb1-b221-c8e2d672e958": {
+                "uuid": "241ee55e-d2df-4cb1-b221-c8e2d672e958",
+                "title": "Desserts",
+                "itemUuids": [
+                    "a8f04be3-f0c4-4474-98bf-a6cb69899816",
+                    "e735d3a0-cdc6-4568-9830-f8cd8be80ab1",
+                    "d1437dd2-1783-4274-a04a-27149f0f7fc3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "a8f04be3-f0c4-4474-98bf-a6cb69899816",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e735d3a0-cdc6-4568-9830-f8cd8be80ab1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d1437dd2-1783-4274-a04a-27149f0f7fc3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "01215baa-d741-4c55-b9f6-c9c6766d05a7": {
+                "uuid": "01215baa-d741-4c55-b9f6-c9c6766d05a7",
+                "title": "Популярне",
+                "itemUuids": [
+                    "2e5a8096-17ab-4520-98ff-ecf6274429ce",
+                    "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                    "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                    "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                    "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2e5a8096-17ab-4520-98ff-ecf6274429ce",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "8d0e8246-32a2-436b-863c-6b4c22c0333c": {
+                "uuid": "8d0e8246-32a2-436b-863c-6b4c22c0333c",
+                "title": "Салати",
+                "itemUuids": [
+                    "3f748741-cb92-4ee7-b0ee-fd38ece67570",
+                    "182e7991-2c61-410c-b33f-6ce1a0d11825",
+                    "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                    "58c426ef-147c-48ff-86c0-ea65177bf025"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "3f748741-cb92-4ee7-b0ee-fd38ece67570",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "182e7991-2c61-410c-b33f-6ce1a0d11825",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2e7873da-e24f-4445-a63d-c5cd14de57b0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "58c426ef-147c-48ff-86c0-ea65177bf025",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "b296af9a-b16c-4110-8e6b-6143fb4d09d8": {
+                "uuid": "b296af9a-b16c-4110-8e6b-6143fb4d09d8",
+                "title": "Piadina",
+                "itemUuids": [
+                    "449ab358-fc90-4431-915f-447ec3146d20",
+                    "f70627fc-6f6f-4c06-b038-b2e78bbd2adf",
+                    "e65e476f-175c-4042-9148-149b6cac0044"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "449ab358-fc90-4431-915f-447ec3146d20",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f70627fc-6f6f-4c06-b038-b2e78bbd2adf",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e65e476f-175c-4042-9148-149b6cac0044",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "2c8cfd5c-e891-490c-9e04-de7bfa4cbba7": {
+                "uuid": "2c8cfd5c-e891-490c-9e04-de7bfa4cbba7",
+                "title": "Десерти",
+                "itemUuids": [
+                    "78afc197-300c-4cf5-9b43-e399716bac4b",
+                    "27c5fb48-0457-4fa1-a462-ae5e1a6b288b",
+                    "c660f239-942c-45ed-922d-233b2085241a"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "78afc197-300c-4cf5-9b43-e399716bac4b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "27c5fb48-0457-4fa1-a462-ae5e1a6b288b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c660f239-942c-45ed-922d-233b2085241a",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "10bc0a9b-3635-4388-b391-154d691a5b0c": {
+                "uuid": "10bc0a9b-3635-4388-b391-154d691a5b0c",
+                "title": "Паста",
+                "itemUuids": [
+                    "f20e661a-c7e7-4d34-9284-a649d746ecbb",
+                    "615743f4-fee7-45f2-b480-2a4d2841ead6",
+                    "7b8b10da-9df9-48c4-aaf9-49f09f80b29e",
+                    "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                    "765a64d6-2c43-4803-94d6-0b7fa38e58f1",
+                    "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                    "b12cc3bd-e027-44d0-a05e-28148ea7d588"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f20e661a-c7e7-4d34-9284-a649d746ecbb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "615743f4-fee7-45f2-b480-2a4d2841ead6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7b8b10da-9df9-48c4-aaf9-49f09f80b29e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5c6b1b2c-287f-4d8f-b6d5-f140ee009ef0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "765a64d6-2c43-4803-94d6-0b7fa38e58f1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e6df907c-08a9-4b21-9dfe-d6cf561cb24a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b12cc3bd-e027-44d0-a05e-28148ea7d588",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d6e20625-6daa-4fbc-8aa1-1019e882ff14": {
+                "uuid": "d6e20625-6daa-4fbc-8aa1-1019e882ff14",
+                "title": "Pasta",
+                "itemUuids": [
+                    "fa60025c-1b05-491e-959d-2f3dfa90c7ba",
+                    "3e28333d-f187-4877-b493-9e7ad5235a62",
+                    "410e76bf-6623-43b3-8352-43fad548b886",
+                    "a45610a0-c14b-4aa3-9c58-3daf1c49b340",
+                    "83339846-6128-4568-a69f-74718d8589f6",
+                    "68578c24-7ec5-448c-904a-dbae33796650"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "fa60025c-1b05-491e-959d-2f3dfa90c7ba",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3e28333d-f187-4877-b493-9e7ad5235a62",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "410e76bf-6623-43b3-8352-43fad548b886",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a45610a0-c14b-4aa3-9c58-3daf1c49b340",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "83339846-6128-4568-a69f-74718d8589f6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "68578c24-7ec5-448c-904a-dbae33796650",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f8afaef1-541d-4dad-802e-792d0df8767d": {
+                "uuid": "f8afaef1-541d-4dad-802e-792d0df8767d",
+                "title": "Гарячі страви",
+                "itemUuids": [
+                    "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9",
+                    "c2b7acb7-4604-45c0-abe2-7b1ea14c24f3",
+                    "07fb8d18-4190-4372-8a0b-94ec426eec79",
+                    "74569bfd-db04-469e-9f79-6adf7dac33a0",
+                    "67b32829-d2c1-48a6-8af5-d5d49427f9a9",
+                    "5f9f3074-8317-44e9-b70e-15d23ff7b2b5",
+                    "46d23c6c-f32d-4d8a-be70-85e68d11d93d"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9acd866d-cc4e-428a-a3fc-7bc5d389d6f9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c2b7acb7-4604-45c0-abe2-7b1ea14c24f3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "07fb8d18-4190-4372-8a0b-94ec426eec79",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "74569bfd-db04-469e-9f79-6adf7dac33a0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "67b32829-d2c1-48a6-8af5-d5d49427f9a9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5f9f3074-8317-44e9-b70e-15d23ff7b2b5",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "46d23c6c-f32d-4d8a-be70-85e68d11d93d",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "ad39b203-9cb9-4ddc-a636-c6cc43421e20": {
+                "uuid": "ad39b203-9cb9-4ddc-a636-c6cc43421e20",
+                "title": "Супи",
+                "itemUuids": [
+                    "9750a3b4-f263-4e54-92f0-9c344fbdd827",
+                    "1e0ae20a-5bec-448f-a1ad-ab13ea48415c",
+                    "f1bea731-d82f-4309-be64-57f5a7459869",
+                    "a5042eb6-49d7-4e2f-b00d-151c91ec6ad3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9750a3b4-f263-4e54-92f0-9c344fbdd827",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1e0ae20a-5bec-448f-a1ad-ab13ea48415c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f1bea731-d82f-4309-be64-57f5a7459869",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a5042eb6-49d7-4e2f-b00d-151c91ec6ad3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "9b832a19-46a1-4909-88fc-d1131f6ebed2": {
+                "uuid": "9b832a19-46a1-4909-88fc-d1131f6ebed2",
+                "title": "Salads",
+                "itemUuids": [
+                    "35895a66-b04d-40aa-9b3f-f1ae937d9d5e",
+                    "c1234fd2-706e-4017-96df-f4bbf4a32f0c",
+                    "2346ac54-229e-4414-9ef6-70921c914da1",
+                    "15f0df7d-c4d5-481a-bbc9-334b078e749a"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "35895a66-b04d-40aa-9b3f-f1ae937d9d5e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c1234fd2-706e-4017-96df-f4bbf4a32f0c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2346ac54-229e-4414-9ef6-70921c914da1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "15f0df7d-c4d5-481a-bbc9-334b078e749a",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "46d2881b-c429-45be-bd34-f94961fd220d": {
+                "uuid": "46d2881b-c429-45be-bd34-f94961fd220d",
+                "title": "П'ядіни",
+                "itemUuids": [
+                    "51202061-5003-4f3b-9b49-a4547bc7efca",
+                    "481f85ed-33f9-45fe-a5df-abe41d7a1ab0",
+                    "2e5a8096-17ab-4520-98ff-ecf6274429ce"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "51202061-5003-4f3b-9b49-a4547bc7efca",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "481f85ed-33f9-45fe-a5df-abe41d7a1ab0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2e5a8096-17ab-4520-98ff-ecf6274429ce",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "1e10d629-43fc-4a82-9e80-d60558c5649c": {
+                "uuid": "1e10d629-43fc-4a82-9e80-d60558c5649c",
+                "title": "Закуски",
+                "itemUuids": [
+                    "622efa65-b0f4-435e-a02b-d7daa23039cb",
+                    "0af50e63-9592-45c4-bada-c4894a8ed30c",
+                    "ae892cb4-f692-4947-98c9-8c923034c940"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "622efa65-b0f4-435e-a02b-d7daa23039cb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0af50e63-9592-45c4-bada-c4894a8ed30c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ae892cb4-f692-4947-98c9-8c923034c940",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.439749,
+            "longitude": 30.511726,
+            "address": {
+                "address1": "Lva Tolstoho St, 11/61",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Lva Tolstoho St, 11/61, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380673206580"
+        },
+        "priceBucket": "₴₴",
+        "slug": "pastateca",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/68578bf0-61ae-4883-a379-f8b37da5c074",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/0d60f444-2622-4071-a9fd-c9e527723db4",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/9ca24d08-fa4f-4e37-bf70-f85a56131d0c",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/0a88e41b-cb25-4c07-8406-973b51449194",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/df04352c-f795-4cc1-a900-f7535ef7fc2b",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(225)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 225 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴₴ • European • Pasta • Italian</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "25–35 MINS",
+                "textFormat": "<span>25–35 MINS</span>",
+                "accessibilityText": "Delivered in 25 to 35 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 25,
+            "max": 35,
+            "raw": 30
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

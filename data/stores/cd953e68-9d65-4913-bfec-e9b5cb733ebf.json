@@ -1,0 +1,2791 @@
+{
+    "store": {
+        "uuid": "cd953e68-9d65-4913-bfec-e9b5cb733ebf",
+        "title": "To Be",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "Japanese",
+                "name": "Японська",
+                "keyName": "Japanese"
+            },
+            {
+                "uuid": "Asian",
+                "name": "Азіатська",
+                "keyName": "Asian"
+            },
+            {
+                "uuid": "Sushi",
+                "name": "Суші",
+                "keyName": "Sushi"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "0d1133f2-005e-4b4d-9485-2b0407b1af6b",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "2befc696-3fa0-4310-8aff-cad53a044248",
+                    "07c15465-3d42-45ee-92f4-af7172af2557",
+                    "104d0b2d-2053-4c09-a03c-97e5b178fcbd",
+                    "9408a16a-1dac-4fc6-a448-ed6303f384bc",
+                    "a623b3ab-16d3-4f77-bf45-f5280096a560",
+                    "ba69b3c8-386c-4446-9412-8dfb62612ddd",
+                    "c0104330-d184-405c-a26c-121139c5029a",
+                    "2aba42fd-e6b2-4dca-9df3-7b701652ac98",
+                    "3d780db9-c11c-4ddd-ade9-75baa80b61f9"
+                ]
+            },
+            {
+                "uuid": "bebe071a-1ce3-43bd-8d41-5c60a1e689e7",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "3edfb8d6-d9de-46cb-9100-ba0b73ac69cd",
+                    "61de0f96-a825-4b92-9fa0-9692d30218e0",
+                    "3020a854-8f83-4f94-bfc6-95182770e884",
+                    "6fd3e738-f300-4666-b539-3c3b7335695d",
+                    "f38debd2-296c-4785-ae8d-1d145f5d4946"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "0d1133f2-005e-4b4d-9485-2b0407b1af6b": {
+                "itemsMap": {
+                    "6ba55302-e7ba-4ac3-8e6d-de51beb04b6c": {
+                        "uuid": "6ba55302-e7ba-4ac3-8e6d-de51beb04b6c",
+                        "title": "Coca-Cola",
+                        "itemDescription": "",
+                        "price": 3900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "026d7d19-d30d-4fd2-92c5-342dea27abcc": {
+                        "uuid": "026d7d19-d30d-4fd2-92c5-342dea27abcc",
+                        "title": "Fanta",
+                        "itemDescription": "",
+                        "price": 3900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "12278b2e-251a-4db1-b837-feb304ce60ff": {
+                        "uuid": "12278b2e-251a-4db1-b837-feb304ce60ff",
+                        "title": "Каліфорнія з вугром",
+                        "itemDescription": "190г.",
+                        "price": 19900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "a39e1033-ed90-443f-ac89-76c9d6cfdb90": {
+                        "uuid": "a39e1033-ed90-443f-ac89-76c9d6cfdb90",
+                        "title": "Тунець",
+                        "itemDescription": "35/70г.",
+                        "price": 5900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "021f97b3-e9b9-41bd-bc17-fd57be39ddf9": {
+                        "uuid": "021f97b3-e9b9-41bd-bc17-fd57be39ddf9",
+                        "title": "Теплий з куркою XL",
+                        "itemDescription": "Вага - 365 грам ",
+                        "price": 19900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "bb749b00-adf2-474d-9ff4-e4a35736bcca": {
+                        "uuid": "bb749b00-adf2-474d-9ff4-e4a35736bcca",
+                        "title": "Лосось",
+                        "itemDescription": "45/105г.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "cae70a7a-9cde-4cad-806c-e6d0dbfea528": {
+                        "uuid": "cae70a7a-9cde-4cad-806c-e6d0dbfea528",
+                        "title": "Курица 50г.",
+                        "itemDescription": "",
+                        "price": 4000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "beb7a034-fa0a-4810-ad7e-580febf39761": {
+                        "uuid": "beb7a034-fa0a-4810-ad7e-580febf39761",
+                        "title": "Sprite",
+                        "itemDescription": "",
+                        "price": 3900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "cf95446d-7f50-472e-8455-16adf3b0ee83": {
+                        "uuid": "cf95446d-7f50-472e-8455-16adf3b0ee83",
+                        "title": "Боржомі скло 0,33",
+                        "itemDescription": "",
+                        "price": 5900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "09d8a1fd-9e74-4245-8dfd-ac28684f88f9": {
+                        "uuid": "09d8a1fd-9e74-4245-8dfd-ac28684f88f9",
+                        "title": "Креветки 50г.",
+                        "itemDescription": "",
+                        "price": 9000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "f9805e43-5834-4099-89ef-6258a0fc15bd": {
+                        "uuid": "f9805e43-5834-4099-89ef-6258a0fc15bd",
+                        "title": "Теплий з лососем та мигдалем",
+                        "itemDescription": "300г.",
+                        "price": 22900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "8fd7731c-efa1-4a1a-a598-d0b68e41c876": {
+                        "uuid": "8fd7731c-efa1-4a1a-a598-d0b68e41c876",
+                        "title": "Філадельфія",
+                        "itemDescription": "225г.",
+                        "price": 17900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/04b92c91-90da-4334-a253-8ee9cdcb1d10",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "1973ff8d-f13c-412c-a123-91f51357e804": {
+                        "uuid": "1973ff8d-f13c-412c-a123-91f51357e804",
+                        "title": "Спайсі з вугром",
+                        "itemDescription": "220г.",
+                        "price": 23900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "949c94ea-34d5-4faf-b146-536224b6c273": {
+                        "uuid": "949c94ea-34d5-4faf-b146-536224b6c273",
+                        "title": "Дракон з креветкою та вугром",
+                        "itemDescription": "190г.",
+                        "price": 19900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "48f9a166-6f6f-4da5-9f9f-e01c51e7d7d8": {
+                        "uuid": "48f9a166-6f6f-4da5-9f9f-e01c51e7d7d8",
+                        "title": "Філадельфія XL",
+                        "itemDescription": "Вага - 350 грам ",
+                        "price": 27900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0b03d771-1fb1-4c99-bad5-0c949195fbab": {
+                        "uuid": "0b03d771-1fb1-4c99-bad5-0c949195fbab",
+                        "title": "Тунець",
+                        "itemDescription": "45/105г.",
+                        "price": 9900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "e678ecdb-9b99-48bc-9135-841d2dd19962": {
+                        "uuid": "e678ecdb-9b99-48bc-9135-841d2dd19962",
+                        "title": "Унагі Дон",
+                        "itemDescription": "Смажений вугор з рисом та омлетом (260г).",
+                        "price": 19900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "cb266838-2449-4d5f-96d9-8a716462c370": {
+                        "uuid": "cb266838-2449-4d5f-96d9-8a716462c370",
+                        "title": "Локшина удон з качкою",
+                        "itemDescription": "280г.",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b90fa1f3-1bbc-4a1f-b3c3-576044143573",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "f616b099-8700-415a-ba25-4dac055dcd49": {
+                        "uuid": "f616b099-8700-415a-ba25-4dac055dcd49",
+                        "title": "Рис з креветками та куркою",
+                        "itemDescription": "270г.",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/78ff6959-ec4f-43f1-9648-21848c04b9d4",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "20163375-17b3-4801-af86-0849be91d2a6": {
+                        "uuid": "20163375-17b3-4801-af86-0849be91d2a6",
+                        "title": "Каліфорнія з лососем",
+                        "itemDescription": "190г.",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9bed9bd1-86d7-4ef8-8196-4b69013660c8",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "763eca5e-ba32-47e4-a597-f578b8298050": {
+                        "uuid": "763eca5e-ba32-47e4-a597-f578b8298050",
+                        "title": "Fentimans Herbal Tonic 0,275",
+                        "itemDescription": "",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "5c4845d4-260b-4e7b-860a-39eab597685c": {
+                        "uuid": "5c4845d4-260b-4e7b-860a-39eab597685c",
+                        "title": "Паровий рис",
+                        "itemDescription": "150г.",
+                        "price": 4900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "32e661f9-a5a4-4a9f-a9d0-f015091fbf8f": {
+                        "uuid": "32e661f9-a5a4-4a9f-a9d0-f015091fbf8f",
+                        "title": "Рис з креветками",
+                        "itemDescription": "270г.",
+                        "price": 15900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "a3d11f99-77cf-45cf-9acd-b9dd21a4e449": {
+                        "uuid": "a3d11f99-77cf-45cf-9acd-b9dd21a4e449",
+                        "title": "Теплий з лососем та вугром",
+                        "itemDescription": "215г.",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/89312238-1999-4778-a4d0-aff4c7387583",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "9688ec1b-9f4a-4a79-a646-db2cd36a7b5f": {
+                        "uuid": "9688ec1b-9f4a-4a79-a646-db2cd36a7b5f",
+                        "title": "Креветка",
+                        "itemDescription": "45/105г.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "853101d0-e41e-4984-95eb-b0647a447eb3": {
+                        "uuid": "853101d0-e41e-4984-95eb-b0647a447eb3",
+                        "title": "Цезар з куркою ",
+                        "itemDescription": "Вага - 260 грам ",
+                        "price": 15900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "ac1ecbf0-0509-4de9-8555-5371773f4978": {
+                        "uuid": "ac1ecbf0-0509-4de9-8555-5371773f4978",
+                        "title": "Вугор",
+                        "itemDescription": "35/70г.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "9d0b15a6-b8e1-4ff4-9d11-e9760584e51a": {
+                        "uuid": "9d0b15a6-b8e1-4ff4-9d11-e9760584e51a",
+                        "title": "Овочевий",
+                        "itemDescription": "175г.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "b3d9bd32-ddbb-4d17-bfb2-2bd595f2f614": {
+                        "uuid": "b3d9bd32-ddbb-4d17-bfb2-2bd595f2f614",
+                        "title": "Моршинська Преміум 0,33",
+                        "itemDescription": "",
+                        "price": 3900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "d2b661f4-a3fb-414d-84f6-3bfd4ecc8e3b": {
+                        "uuid": "d2b661f4-a3fb-414d-84f6-3bfd4ecc8e3b",
+                        "title": "Fentimans Cherry Cola 0,275",
+                        "itemDescription": "",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0": {
+                        "uuid": "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                        "title": "Гречана локшина з креветками",
+                        "itemDescription": "160г.",
+                        "price": 16900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c95b2fb6-3af3-4e63-8447-42ef4b2d3301",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "c21efa7e-f6f4-49a0-99aa-f35195c898b4": {
+                        "uuid": "c21efa7e-f6f4-49a0-99aa-f35195c898b4",
+                        "title": "Креветка",
+                        "itemDescription": "35/70г.",
+                        "price": 4900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "0677de77-d582-4a45-8036-8122e8b710e6": {
+                        "uuid": "0677de77-d582-4a45-8036-8122e8b710e6",
+                        "title": "Скляна локшина з яловичиною стір-фрай та овочами",
+                        "itemDescription": "290г.",
+                        "price": 15900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/103d9197-57df-4d78-a3d4-34c876d11a6d",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "2862cf6f-32c6-469f-8208-d35db17877bc": {
+                        "uuid": "2862cf6f-32c6-469f-8208-d35db17877bc",
+                        "title": "Лосось",
+                        "itemDescription": "35/70г.",
+                        "price": 4900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "46a1c780-04e2-41bb-8064-3f2e383e041a": {
+                        "uuid": "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                        "title": "Мікс з креветкою, лососем та вугром",
+                        "itemDescription": "210г.",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6788fe4b-43fd-45c0-97f9-aa0ef8f7d57e",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "0be58401-0546-4458-b028-dc41a5ab1f87": {
+                        "uuid": "0be58401-0546-4458-b028-dc41a5ab1f87",
+                        "title": "Курка теріякі",
+                        "itemDescription": "",
+                        "price": 15900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "3c64fcf8-e359-4273-8728-28bc8a3a1717": {
+                        "uuid": "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                        "title": "Фірмовий to be з креветкою та вугром",
+                        "itemDescription": "235г.",
+                        "price": 21900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/61b768f0-e121-49be-a034-4033ea05723c",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "97bd4fbe-3e2d-45f3-866b-29005bfc0715": {
+                        "uuid": "97bd4fbe-3e2d-45f3-866b-29005bfc0715",
+                        "title": "Вугор",
+                        "itemDescription": "45/105г.",
+                        "price": 17900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    },
+                    "e04a2270-2b2f-44dc-bfe0-0ec1ef69df0e": {
+                        "uuid": "e04a2270-2b2f-44dc-bfe0-0ec1ef69df0e",
+                        "title": "Рис з куркою",
+                        "itemDescription": "270г.",
+                        "price": 10900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "2befc696-3fa0-4310-8aff-cad53a044248",
+                        "title": "Популярне",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                            "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                            "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                            "f616b099-8700-415a-ba25-4dac055dcd49"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                                "title": "Фірмовий to be з креветкою та вугром",
+                                "itemDescription": "235г.",
+                                "price": 21900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/61b768f0-e121-49be-a034-4033ea05723c",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                                "title": "Гречана локшина з креветками",
+                                "itemDescription": "160г.",
+                                "price": 16900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c95b2fb6-3af3-4e63-8447-42ef4b2d3301",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                                "title": "Мікс з креветкою, лососем та вугром",
+                                "itemDescription": "210г.",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6788fe4b-43fd-45c0-97f9-aa0ef8f7d57e",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "f616b099-8700-415a-ba25-4dac055dcd49",
+                                "title": "Рис з креветками та куркою",
+                                "itemDescription": "270г.",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/78ff6959-ec4f-43f1-9648-21848c04b9d4",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "07c15465-3d42-45ee-92f4-af7172af2557",
+                        "title": "Роли з чорним рисом",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "8fd7731c-efa1-4a1a-a598-d0b68e41c876",
+                            "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                            "f9805e43-5834-4099-89ef-6258a0fc15bd",
+                            "20163375-17b3-4801-af86-0849be91d2a6",
+                            "12278b2e-251a-4db1-b837-feb304ce60ff",
+                            "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                            "949c94ea-34d5-4faf-b146-536224b6c273",
+                            "9d0b15a6-b8e1-4ff4-9d11-e9760584e51a",
+                            "1973ff8d-f13c-412c-a123-91f51357e804",
+                            "a3d11f99-77cf-45cf-9acd-b9dd21a4e449",
+                            "48f9a166-6f6f-4da5-9f9f-e01c51e7d7d8",
+                            "021f97b3-e9b9-41bd-bc17-fd57be39ddf9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8fd7731c-efa1-4a1a-a598-d0b68e41c876",
+                                "title": "Філадельфія",
+                                "itemDescription": "225г.",
+                                "price": 17900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/04b92c91-90da-4334-a253-8ee9cdcb1d10",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                                "title": "Фірмовий to be з креветкою та вугром",
+                                "itemDescription": "235г.",
+                                "price": 21900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/61b768f0-e121-49be-a034-4033ea05723c",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "f9805e43-5834-4099-89ef-6258a0fc15bd",
+                                "title": "Теплий з лососем та мигдалем",
+                                "itemDescription": "300г.",
+                                "price": 22900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "20163375-17b3-4801-af86-0849be91d2a6",
+                                "title": "Каліфорнія з лососем",
+                                "itemDescription": "190г.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9bed9bd1-86d7-4ef8-8196-4b69013660c8",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "12278b2e-251a-4db1-b837-feb304ce60ff",
+                                "title": "Каліфорнія з вугром",
+                                "itemDescription": "190г.",
+                                "price": 19900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                                "title": "Мікс з креветкою, лососем та вугром",
+                                "itemDescription": "210г.",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6788fe4b-43fd-45c0-97f9-aa0ef8f7d57e",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "949c94ea-34d5-4faf-b146-536224b6c273",
+                                "title": "Дракон з креветкою та вугром",
+                                "itemDescription": "190г.",
+                                "price": 19900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "9d0b15a6-b8e1-4ff4-9d11-e9760584e51a",
+                                "title": "Овочевий",
+                                "itemDescription": "175г.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "1973ff8d-f13c-412c-a123-91f51357e804",
+                                "title": "Спайсі з вугром",
+                                "itemDescription": "220г.",
+                                "price": 23900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "a3d11f99-77cf-45cf-9acd-b9dd21a4e449",
+                                "title": "Теплий з лососем та вугром",
+                                "itemDescription": "215г.",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/89312238-1999-4778-a4d0-aff4c7387583",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "48f9a166-6f6f-4da5-9f9f-e01c51e7d7d8",
+                                "title": "Філадельфія XL",
+                                "itemDescription": "Вага - 350 грам ",
+                                "price": 27900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "021f97b3-e9b9-41bd-bc17-fd57be39ddf9",
+                                "title": "Теплий з куркою XL",
+                                "itemDescription": "Вага - 365 грам ",
+                                "price": 19900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "104d0b2d-2053-4c09-a03c-97e5b178fcbd",
+                        "title": "Сашимі",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "9688ec1b-9f4a-4a79-a646-db2cd36a7b5f",
+                            "bb749b00-adf2-474d-9ff4-e4a35736bcca",
+                            "0b03d771-1fb1-4c99-bad5-0c949195fbab",
+                            "97bd4fbe-3e2d-45f3-866b-29005bfc0715"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9688ec1b-9f4a-4a79-a646-db2cd36a7b5f",
+                                "title": "Креветка",
+                                "itemDescription": "45/105г.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "bb749b00-adf2-474d-9ff4-e4a35736bcca",
+                                "title": "Лосось",
+                                "itemDescription": "45/105г.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "0b03d771-1fb1-4c99-bad5-0c949195fbab",
+                                "title": "Тунець",
+                                "itemDescription": "45/105г.",
+                                "price": 9900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "97bd4fbe-3e2d-45f3-866b-29005bfc0715",
+                                "title": "Вугор",
+                                "itemDescription": "45/105г.",
+                                "price": 17900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "9408a16a-1dac-4fc6-a448-ed6303f384bc",
+                        "title": "Нігірі",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "c21efa7e-f6f4-49a0-99aa-f35195c898b4",
+                            "2862cf6f-32c6-469f-8208-d35db17877bc",
+                            "a39e1033-ed90-443f-ac89-76c9d6cfdb90",
+                            "ac1ecbf0-0509-4de9-8555-5371773f4978"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "c21efa7e-f6f4-49a0-99aa-f35195c898b4",
+                                "title": "Креветка",
+                                "itemDescription": "35/70г.",
+                                "price": 4900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "2862cf6f-32c6-469f-8208-d35db17877bc",
+                                "title": "Лосось",
+                                "itemDescription": "35/70г.",
+                                "price": 4900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "a39e1033-ed90-443f-ac89-76c9d6cfdb90",
+                                "title": "Тунець",
+                                "itemDescription": "35/70г.",
+                                "price": 5900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "ac1ecbf0-0509-4de9-8555-5371773f4978",
+                                "title": "Вугор",
+                                "itemDescription": "35/70г.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a623b3ab-16d3-4f77-bf45-f5280096a560",
+                        "title": "Рис",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "e04a2270-2b2f-44dc-bfe0-0ec1ef69df0e",
+                            "32e661f9-a5a4-4a9f-a9d0-f015091fbf8f",
+                            "f616b099-8700-415a-ba25-4dac055dcd49",
+                            "e678ecdb-9b99-48bc-9135-841d2dd19962",
+                            "5c4845d4-260b-4e7b-860a-39eab597685c",
+                            "0be58401-0546-4458-b028-dc41a5ab1f87"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "e04a2270-2b2f-44dc-bfe0-0ec1ef69df0e",
+                                "title": "Рис з куркою",
+                                "itemDescription": "270г.",
+                                "price": 10900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "32e661f9-a5a4-4a9f-a9d0-f015091fbf8f",
+                                "title": "Рис з креветками",
+                                "itemDescription": "270г.",
+                                "price": 15900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "f616b099-8700-415a-ba25-4dac055dcd49",
+                                "title": "Рис з креветками та куркою",
+                                "itemDescription": "270г.",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/78ff6959-ec4f-43f1-9648-21848c04b9d4",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "e678ecdb-9b99-48bc-9135-841d2dd19962",
+                                "title": "Унагі Дон",
+                                "itemDescription": "Смажений вугор з рисом та омлетом (260г).",
+                                "price": 19900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "5c4845d4-260b-4e7b-860a-39eab597685c",
+                                "title": "Паровий рис",
+                                "itemDescription": "150г.",
+                                "price": 4900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "0be58401-0546-4458-b028-dc41a5ab1f87",
+                                "title": "Курка теріякі",
+                                "itemDescription": "",
+                                "price": 15900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "ba69b3c8-386c-4446-9412-8dfb62612ddd",
+                        "title": "Дополнительный добавки в рис",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "cae70a7a-9cde-4cad-806c-e6d0dbfea528",
+                            "09d8a1fd-9e74-4245-8dfd-ac28684f88f9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "cae70a7a-9cde-4cad-806c-e6d0dbfea528",
+                                "title": "Курица 50г.",
+                                "itemDescription": "",
+                                "price": 4000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "09d8a1fd-9e74-4245-8dfd-ac28684f88f9",
+                                "title": "Креветки 50г.",
+                                "itemDescription": "",
+                                "price": 9000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "c0104330-d184-405c-a26c-121139c5029a",
+                        "title": "Локшина",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "0677de77-d582-4a45-8036-8122e8b710e6",
+                            "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                            "cb266838-2449-4d5f-96d9-8a716462c370"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "0677de77-d582-4a45-8036-8122e8b710e6",
+                                "title": "Скляна локшина з яловичиною стір-фрай та овочами",
+                                "itemDescription": "290г.",
+                                "price": 15900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/103d9197-57df-4d78-a3d4-34c876d11a6d",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                                "title": "Гречана локшина з креветками",
+                                "itemDescription": "160г.",
+                                "price": 16900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c95b2fb6-3af3-4e63-8447-42ef4b2d3301",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            },
+                            {
+                                "uuid": "cb266838-2449-4d5f-96d9-8a716462c370",
+                                "title": "Локшина удон з качкою",
+                                "itemDescription": "280г.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b90fa1f3-1bbc-4a1f-b3c3-576044143573",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "b1ed9d9f-3255-40d6-8043-e4158b68672a"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "2aba42fd-e6b2-4dca-9df3-7b701652ac98",
+                        "title": "Напої",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "cf95446d-7f50-472e-8455-16adf3b0ee83",
+                            "b3d9bd32-ddbb-4d17-bfb2-2bd595f2f614",
+                            "6ba55302-e7ba-4ac3-8e6d-de51beb04b6c",
+                            "026d7d19-d30d-4fd2-92c5-342dea27abcc",
+                            "beb7a034-fa0a-4810-ad7e-580febf39761",
+                            "763eca5e-ba32-47e4-a597-f578b8298050",
+                            "d2b661f4-a3fb-414d-84f6-3bfd4ecc8e3b"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "cf95446d-7f50-472e-8455-16adf3b0ee83",
+                                "title": "Боржомі скло 0,33",
+                                "itemDescription": "",
+                                "price": 5900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "b3d9bd32-ddbb-4d17-bfb2-2bd595f2f614",
+                                "title": "Моршинська Преміум 0,33",
+                                "itemDescription": "",
+                                "price": 3900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "6ba55302-e7ba-4ac3-8e6d-de51beb04b6c",
+                                "title": "Coca-Cola",
+                                "itemDescription": "",
+                                "price": 3900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "026d7d19-d30d-4fd2-92c5-342dea27abcc",
+                                "title": "Fanta",
+                                "itemDescription": "",
+                                "price": 3900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "beb7a034-fa0a-4810-ad7e-580febf39761",
+                                "title": "Sprite",
+                                "itemDescription": "",
+                                "price": 3900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "763eca5e-ba32-47e4-a597-f578b8298050",
+                                "title": "Fentimans Herbal Tonic 0,275",
+                                "itemDescription": "",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "d2b661f4-a3fb-414d-84f6-3bfd4ecc8e3b",
+                                "title": "Fentimans Cherry Cola 0,275",
+                                "itemDescription": "",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "3d780db9-c11c-4ddd-ade9-75baa80b61f9",
+                        "title": "Салати",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "853101d0-e41e-4984-95eb-b0647a447eb3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "853101d0-e41e-4984-95eb-b0647a447eb3",
+                                "title": "Цезар з куркою ",
+                                "itemDescription": "Вага - 260 грам ",
+                                "price": 15900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bebe071a-1ce3-43bd-8d41-5c60a1e689e7": {
+                "itemsMap": {
+                    "0365ab22-0e4a-4e77-acb0-e8cdb8611606": {
+                        "uuid": "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
+                        "title": "Salmon",
+                        "itemDescription": "35/70g.",
+                        "price": 4900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "86a62e5a-7374-4b18-a1fc-ed964c3a59c6": {
+                        "uuid": "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
+                        "title": "To be roll with shrimp, and eel",
+                        "itemDescription": "235g.",
+                        "price": 21900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f9f6b27-29ba-411f-bdcf-2543785eaebe",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "98387dbb-a8d3-46f6-a406-4d9fe098254e": {
+                        "uuid": "98387dbb-a8d3-46f6-a406-4d9fe098254e",
+                        "title": "Soba noodles with prawns",
+                        "itemDescription": "160g.",
+                        "price": 16900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/12b75274-667a-489d-97aa-1ec959bfc470",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "8dc4f495-6409-4923-b008-3d469242ffde": {
+                        "uuid": "8dc4f495-6409-4923-b008-3d469242ffde",
+                        "title": "Philadelphia roll",
+                        "itemDescription": "225g.",
+                        "price": 17900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/04b92c91-90da-4334-a253-8ee9cdcb1d10",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "4b75ea62-b14d-4cd0-aff1-9191de3987f3": {
+                        "uuid": "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
+                        "title": "Warm roll with salmon, eel, and almond",
+                        "itemDescription": "300g.",
+                        "price": 22900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "0d334e18-fd82-4c43-a476-9318fefc6ddd": {
+                        "uuid": "0d334e18-fd82-4c43-a476-9318fefc6ddd",
+                        "title": "Tuna",
+                        "itemDescription": "45/105g.",
+                        "price": 9900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "cb0060ff-30d9-462b-b8db-15ccf9b51119": {
+                        "uuid": "cb0060ff-30d9-462b-b8db-15ccf9b51119",
+                        "title": "Dragon roll",
+                        "itemDescription": "190g.",
+                        "price": 19900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "c29cd75e-07da-4b13-9e0c-79445598b36a": {
+                        "uuid": "c29cd75e-07da-4b13-9e0c-79445598b36a",
+                        "title": "Steamed rice",
+                        "itemDescription": "150g.",
+                        "price": 4900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "a1fc6db2-9614-4aad-9896-abbb9682f1db": {
+                        "uuid": "a1fc6db2-9614-4aad-9896-abbb9682f1db",
+                        "title": "Prawn",
+                        "itemDescription": "35/70g.",
+                        "price": 4900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "a183e833-49d4-401d-b772-6aa64ceb2115": {
+                        "uuid": "a183e833-49d4-401d-b772-6aa64ceb2115",
+                        "title": "Fried rice with chicken",
+                        "itemDescription": "270g.",
+                        "price": 10900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "444770e5-4801-4720-84f0-f70cc77f8073": {
+                        "uuid": "444770e5-4801-4720-84f0-f70cc77f8073",
+                        "title": "Prawn",
+                        "itemDescription": "45/105g.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "14e487bf-7077-4b48-b717-eedec5637b06": {
+                        "uuid": "14e487bf-7077-4b48-b717-eedec5637b06",
+                        "title": "Fried rice with prawns",
+                        "itemDescription": "270g.",
+                        "price": 15900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "6dd9be8a-2d2c-437f-943c-8a26415fa3ef": {
+                        "uuid": "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
+                        "title": "Unagi Don",
+                        "itemDescription": "260g.",
+                        "price": 19900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "688a923a-19a6-4867-b849-282523dee12c": {
+                        "uuid": "688a923a-19a6-4867-b849-282523dee12c",
+                        "title": "Tuna",
+                        "itemDescription": "35/70g.",
+                        "price": 5900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "56b32ccc-e14f-4439-b30b-06be0563948e": {
+                        "uuid": "56b32ccc-e14f-4439-b30b-06be0563948e",
+                        "title": "Mixed roll with shrimp, salmon, and eel",
+                        "itemDescription": "210g.",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3212498f-b535-4f64-a3d5-8b56950f4353",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "24d379b4-f27c-42af-a6a9-fdb545310fb4": {
+                        "uuid": "24d379b4-f27c-42af-a6a9-fdb545310fb4",
+                        "title": "Warm roll with salmon, and eel",
+                        "itemDescription": "215g.",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/91afbeb6-2b1a-472b-b901-1cfd783142b9",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "09b69132-46c3-49b1-a700-87204605c7d6": {
+                        "uuid": "09b69132-46c3-49b1-a700-87204605c7d6",
+                        "title": "California roll with salmon, and avocado",
+                        "itemDescription": "190g.",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f8cd6d5-9901-4e2f-9f2c-981942a5ff82",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "a030fba9-02e8-444a-babf-da6b6d8a65a1": {
+                        "uuid": "a030fba9-02e8-444a-babf-da6b6d8a65a1",
+                        "title": "Eel",
+                        "itemDescription": "45/105g.",
+                        "price": 17900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "30c654d2-057f-4013-a339-44ccc2bead4e": {
+                        "uuid": "30c654d2-057f-4013-a339-44ccc2bead4e",
+                        "title": "Fried rice with prawns, and chicken",
+                        "itemDescription": "270g.",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/78ff6959-ec4f-43f1-9648-21848c04b9d4",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "9fcce575-5d39-446f-b3f7-30738e21f5ad": {
+                        "uuid": "9fcce575-5d39-446f-b3f7-30738e21f5ad",
+                        "title": "Glass noodles with stir fry beef, and vegetables",
+                        "itemDescription": "290g.",
+                        "price": 15900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7edbab1-4ea9-4d5c-8278-5848bcc9ec35",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "310c8ec9-60f1-4e17-b785-aafba0a5694e": {
+                        "uuid": "310c8ec9-60f1-4e17-b785-aafba0a5694e",
+                        "title": "California roll with eel, and avocado",
+                        "itemDescription": "190g.",
+                        "price": 19900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "d7e78623-a056-4d8d-8c7b-b69a91998322": {
+                        "uuid": "d7e78623-a056-4d8d-8c7b-b69a91998322",
+                        "title": "Udon noodles with duck",
+                        "itemDescription": "280g.",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/05d4efcf-c8ef-4887-8beb-ada62093fa3e",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6": {
+                        "uuid": "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
+                        "title": "Veggie roll",
+                        "itemDescription": "175g.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "f8634808-e311-4b8e-9c95-92b03ec27785": {
+                        "uuid": "f8634808-e311-4b8e-9c95-92b03ec27785",
+                        "title": "Eel",
+                        "itemDescription": "35/70g.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "1ea6e616-2c5f-4a58-a385-110d1999f8db": {
+                        "uuid": "1ea6e616-2c5f-4a58-a385-110d1999f8db",
+                        "title": "Spicy eel roll",
+                        "itemDescription": "220g.",
+                        "price": 23900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    },
+                    "bcf7009c-e74f-4ba2-89e3-53f8395f20ef": {
+                        "uuid": "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
+                        "title": "Salmon",
+                        "itemDescription": "45/105g.",
+                        "price": 8900,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "935197ff-0cd8-464b-9387-281c4b169ba1"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "3edfb8d6-d9de-46cb-9100-ba0b73ac69cd",
+                        "title": "Nigiri sushi",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "a1fc6db2-9614-4aad-9896-abbb9682f1db",
+                            "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
+                            "688a923a-19a6-4867-b849-282523dee12c",
+                            "f8634808-e311-4b8e-9c95-92b03ec27785"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "a1fc6db2-9614-4aad-9896-abbb9682f1db",
+                                "title": "Prawn",
+                                "itemDescription": "35/70g.",
+                                "price": 4900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
+                                "title": "Salmon",
+                                "itemDescription": "35/70g.",
+                                "price": 4900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "688a923a-19a6-4867-b849-282523dee12c",
+                                "title": "Tuna",
+                                "itemDescription": "35/70g.",
+                                "price": 5900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "f8634808-e311-4b8e-9c95-92b03ec27785",
+                                "title": "Eel",
+                                "itemDescription": "35/70g.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "61de0f96-a825-4b92-9fa0-9692d30218e0",
+                        "title": "Rolls",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "8dc4f495-6409-4923-b008-3d469242ffde",
+                            "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
+                            "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
+                            "09b69132-46c3-49b1-a700-87204605c7d6",
+                            "310c8ec9-60f1-4e17-b785-aafba0a5694e",
+                            "56b32ccc-e14f-4439-b30b-06be0563948e",
+                            "cb0060ff-30d9-462b-b8db-15ccf9b51119",
+                            "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
+                            "1ea6e616-2c5f-4a58-a385-110d1999f8db",
+                            "24d379b4-f27c-42af-a6a9-fdb545310fb4"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8dc4f495-6409-4923-b008-3d469242ffde",
+                                "title": "Philadelphia roll",
+                                "itemDescription": "225g.",
+                                "price": 17900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/04b92c91-90da-4334-a253-8ee9cdcb1d10",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
+                                "title": "To be roll with shrimp, and eel",
+                                "itemDescription": "235g.",
+                                "price": 21900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f9f6b27-29ba-411f-bdcf-2543785eaebe",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
+                                "title": "Warm roll with salmon, eel, and almond",
+                                "itemDescription": "300g.",
+                                "price": 22900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "09b69132-46c3-49b1-a700-87204605c7d6",
+                                "title": "California roll with salmon, and avocado",
+                                "itemDescription": "190g.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f8cd6d5-9901-4e2f-9f2c-981942a5ff82",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "310c8ec9-60f1-4e17-b785-aafba0a5694e",
+                                "title": "California roll with eel, and avocado",
+                                "itemDescription": "190g.",
+                                "price": 19900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "56b32ccc-e14f-4439-b30b-06be0563948e",
+                                "title": "Mixed roll with shrimp, salmon, and eel",
+                                "itemDescription": "210g.",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3212498f-b535-4f64-a3d5-8b56950f4353",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "cb0060ff-30d9-462b-b8db-15ccf9b51119",
+                                "title": "Dragon roll",
+                                "itemDescription": "190g.",
+                                "price": 19900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
+                                "title": "Veggie roll",
+                                "itemDescription": "175g.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "1ea6e616-2c5f-4a58-a385-110d1999f8db",
+                                "title": "Spicy eel roll",
+                                "itemDescription": "220g.",
+                                "price": 23900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "24d379b4-f27c-42af-a6a9-fdb545310fb4",
+                                "title": "Warm roll with salmon, and eel",
+                                "itemDescription": "215g.",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/91afbeb6-2b1a-472b-b901-1cfd783142b9",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "3020a854-8f83-4f94-bfc6-95182770e884",
+                        "title": "Sashimi",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "444770e5-4801-4720-84f0-f70cc77f8073",
+                            "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
+                            "0d334e18-fd82-4c43-a476-9318fefc6ddd",
+                            "a030fba9-02e8-444a-babf-da6b6d8a65a1"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "444770e5-4801-4720-84f0-f70cc77f8073",
+                                "title": "Prawn",
+                                "itemDescription": "45/105g.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
+                                "title": "Salmon",
+                                "itemDescription": "45/105g.",
+                                "price": 8900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "0d334e18-fd82-4c43-a476-9318fefc6ddd",
+                                "title": "Tuna",
+                                "itemDescription": "45/105g.",
+                                "price": 9900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "a030fba9-02e8-444a-babf-da6b6d8a65a1",
+                                "title": "Eel",
+                                "itemDescription": "45/105g.",
+                                "price": 17900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "6fd3e738-f300-4666-b539-3c3b7335695d",
+                        "title": "Rice",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "14e487bf-7077-4b48-b717-eedec5637b06",
+                            "30c654d2-057f-4013-a339-44ccc2bead4e",
+                            "a183e833-49d4-401d-b772-6aa64ceb2115",
+                            "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
+                            "c29cd75e-07da-4b13-9e0c-79445598b36a"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "14e487bf-7077-4b48-b717-eedec5637b06",
+                                "title": "Fried rice with prawns",
+                                "itemDescription": "270g.",
+                                "price": 15900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "30c654d2-057f-4013-a339-44ccc2bead4e",
+                                "title": "Fried rice with prawns, and chicken",
+                                "itemDescription": "270g.",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/78ff6959-ec4f-43f1-9648-21848c04b9d4",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "a183e833-49d4-401d-b772-6aa64ceb2115",
+                                "title": "Fried rice with chicken",
+                                "itemDescription": "270g.",
+                                "price": 10900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
+                                "title": "Unagi Don",
+                                "itemDescription": "260g.",
+                                "price": 19900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "c29cd75e-07da-4b13-9e0c-79445598b36a",
+                                "title": "Steamed rice",
+                                "itemDescription": "150g.",
+                                "price": 4900,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "f38debd2-296c-4785-ae8d-1d145f5d4946",
+                        "title": "Noodles",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "9fcce575-5d39-446f-b3f7-30738e21f5ad",
+                            "98387dbb-a8d3-46f6-a406-4d9fe098254e",
+                            "d7e78623-a056-4d8d-8c7b-b69a91998322"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9fcce575-5d39-446f-b3f7-30738e21f5ad",
+                                "title": "Glass noodles with stir fry beef, and vegetables",
+                                "itemDescription": "290g.",
+                                "price": 15900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7edbab1-4ea9-4d5c-8278-5848bcc9ec35",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "98387dbb-a8d3-46f6-a406-4d9fe098254e",
+                                "title": "Soba noodles with prawns",
+                                "itemDescription": "160g.",
+                                "price": 16900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/12b75274-667a-489d-97aa-1ec959bfc470",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            },
+                            {
+                                "uuid": "d7e78623-a056-4d8d-8c7b-b69a91998322",
+                                "title": "Udon noodles with duck",
+                                "itemDescription": "280g.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/05d4efcf-c8ef-4887-8beb-ada62093fa3e",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "935197ff-0cd8-464b-9387-281c4b169ba1"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "ba69b3c8-386c-4446-9412-8dfb62612ddd": {
+                "uuid": "ba69b3c8-386c-4446-9412-8dfb62612ddd",
+                "title": "Дополнительный добавки в рис",
+                "subtitle": "",
+                "itemUuids": [
+                    "cae70a7a-9cde-4cad-806c-e6d0dbfea528",
+                    "09d8a1fd-9e74-4245-8dfd-ac28684f88f9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "cae70a7a-9cde-4cad-806c-e6d0dbfea528",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "09d8a1fd-9e74-4245-8dfd-ac28684f88f9",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "c0104330-d184-405c-a26c-121139c5029a": {
+                "uuid": "c0104330-d184-405c-a26c-121139c5029a",
+                "title": "Локшина",
+                "subtitle": "",
+                "itemUuids": [
+                    "0677de77-d582-4a45-8036-8122e8b710e6",
+                    "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                    "cb266838-2449-4d5f-96d9-8a716462c370"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "0677de77-d582-4a45-8036-8122e8b710e6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cb266838-2449-4d5f-96d9-8a716462c370",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "07c15465-3d42-45ee-92f4-af7172af2557": {
+                "uuid": "07c15465-3d42-45ee-92f4-af7172af2557",
+                "title": "Роли з чорним рисом",
+                "subtitle": "",
+                "itemUuids": [
+                    "8fd7731c-efa1-4a1a-a598-d0b68e41c876",
+                    "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                    "f9805e43-5834-4099-89ef-6258a0fc15bd",
+                    "20163375-17b3-4801-af86-0849be91d2a6",
+                    "12278b2e-251a-4db1-b837-feb304ce60ff",
+                    "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                    "949c94ea-34d5-4faf-b146-536224b6c273",
+                    "9d0b15a6-b8e1-4ff4-9d11-e9760584e51a",
+                    "1973ff8d-f13c-412c-a123-91f51357e804",
+                    "a3d11f99-77cf-45cf-9acd-b9dd21a4e449",
+                    "48f9a166-6f6f-4da5-9f9f-e01c51e7d7d8",
+                    "021f97b3-e9b9-41bd-bc17-fd57be39ddf9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8fd7731c-efa1-4a1a-a598-d0b68e41c876",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f9805e43-5834-4099-89ef-6258a0fc15bd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "20163375-17b3-4801-af86-0849be91d2a6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "12278b2e-251a-4db1-b837-feb304ce60ff",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "949c94ea-34d5-4faf-b146-536224b6c273",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9d0b15a6-b8e1-4ff4-9d11-e9760584e51a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1973ff8d-f13c-412c-a123-91f51357e804",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a3d11f99-77cf-45cf-9acd-b9dd21a4e449",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "48f9a166-6f6f-4da5-9f9f-e01c51e7d7d8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "021f97b3-e9b9-41bd-bc17-fd57be39ddf9",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "2befc696-3fa0-4310-8aff-cad53a044248": {
+                "uuid": "2befc696-3fa0-4310-8aff-cad53a044248",
+                "title": "Популярне",
+                "subtitle": "",
+                "itemUuids": [
+                    "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                    "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                    "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                    "f616b099-8700-415a-ba25-4dac055dcd49"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "3c64fcf8-e359-4273-8728-28bc8a3a1717",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "410033e9-91a3-4c99-b6b9-c30ec0d0f2e0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "46a1c780-04e2-41bb-8064-3f2e383e041a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f616b099-8700-415a-ba25-4dac055dcd49",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "104d0b2d-2053-4c09-a03c-97e5b178fcbd": {
+                "uuid": "104d0b2d-2053-4c09-a03c-97e5b178fcbd",
+                "title": "Сашимі",
+                "subtitle": "",
+                "itemUuids": [
+                    "9688ec1b-9f4a-4a79-a646-db2cd36a7b5f",
+                    "bb749b00-adf2-474d-9ff4-e4a35736bcca",
+                    "0b03d771-1fb1-4c99-bad5-0c949195fbab",
+                    "97bd4fbe-3e2d-45f3-866b-29005bfc0715"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9688ec1b-9f4a-4a79-a646-db2cd36a7b5f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bb749b00-adf2-474d-9ff4-e4a35736bcca",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0b03d771-1fb1-4c99-bad5-0c949195fbab",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "97bd4fbe-3e2d-45f3-866b-29005bfc0715",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a623b3ab-16d3-4f77-bf45-f5280096a560": {
+                "uuid": "a623b3ab-16d3-4f77-bf45-f5280096a560",
+                "title": "Рис",
+                "subtitle": "",
+                "itemUuids": [
+                    "e04a2270-2b2f-44dc-bfe0-0ec1ef69df0e",
+                    "32e661f9-a5a4-4a9f-a9d0-f015091fbf8f",
+                    "f616b099-8700-415a-ba25-4dac055dcd49",
+                    "e678ecdb-9b99-48bc-9135-841d2dd19962",
+                    "5c4845d4-260b-4e7b-860a-39eab597685c",
+                    "0be58401-0546-4458-b028-dc41a5ab1f87"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "e04a2270-2b2f-44dc-bfe0-0ec1ef69df0e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "32e661f9-a5a4-4a9f-a9d0-f015091fbf8f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f616b099-8700-415a-ba25-4dac055dcd49",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e678ecdb-9b99-48bc-9135-841d2dd19962",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5c4845d4-260b-4e7b-860a-39eab597685c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0be58401-0546-4458-b028-dc41a5ab1f87",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "2aba42fd-e6b2-4dca-9df3-7b701652ac98": {
+                "uuid": "2aba42fd-e6b2-4dca-9df3-7b701652ac98",
+                "title": "Напої",
+                "subtitle": "",
+                "itemUuids": [
+                    "cf95446d-7f50-472e-8455-16adf3b0ee83",
+                    "b3d9bd32-ddbb-4d17-bfb2-2bd595f2f614",
+                    "6ba55302-e7ba-4ac3-8e6d-de51beb04b6c",
+                    "026d7d19-d30d-4fd2-92c5-342dea27abcc",
+                    "beb7a034-fa0a-4810-ad7e-580febf39761",
+                    "763eca5e-ba32-47e4-a597-f578b8298050",
+                    "d2b661f4-a3fb-414d-84f6-3bfd4ecc8e3b"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "cf95446d-7f50-472e-8455-16adf3b0ee83",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b3d9bd32-ddbb-4d17-bfb2-2bd595f2f614",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6ba55302-e7ba-4ac3-8e6d-de51beb04b6c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "026d7d19-d30d-4fd2-92c5-342dea27abcc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "beb7a034-fa0a-4810-ad7e-580febf39761",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "763eca5e-ba32-47e4-a597-f578b8298050",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d2b661f4-a3fb-414d-84f6-3bfd4ecc8e3b",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f38debd2-296c-4785-ae8d-1d145f5d4946": {
+                "uuid": "f38debd2-296c-4785-ae8d-1d145f5d4946",
+                "title": "Noodles",
+                "subtitle": "",
+                "itemUuids": [
+                    "9fcce575-5d39-446f-b3f7-30738e21f5ad",
+                    "98387dbb-a8d3-46f6-a406-4d9fe098254e",
+                    "d7e78623-a056-4d8d-8c7b-b69a91998322"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9fcce575-5d39-446f-b3f7-30738e21f5ad",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "98387dbb-a8d3-46f6-a406-4d9fe098254e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d7e78623-a056-4d8d-8c7b-b69a91998322",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "3edfb8d6-d9de-46cb-9100-ba0b73ac69cd": {
+                "uuid": "3edfb8d6-d9de-46cb-9100-ba0b73ac69cd",
+                "title": "Nigiri sushi",
+                "subtitle": "",
+                "itemUuids": [
+                    "a1fc6db2-9614-4aad-9896-abbb9682f1db",
+                    "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
+                    "688a923a-19a6-4867-b849-282523dee12c",
+                    "f8634808-e311-4b8e-9c95-92b03ec27785"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "a1fc6db2-9614-4aad-9896-abbb9682f1db",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "688a923a-19a6-4867-b849-282523dee12c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f8634808-e311-4b8e-9c95-92b03ec27785",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "3d780db9-c11c-4ddd-ade9-75baa80b61f9": {
+                "uuid": "3d780db9-c11c-4ddd-ade9-75baa80b61f9",
+                "title": "Салати",
+                "subtitle": "",
+                "itemUuids": [
+                    "853101d0-e41e-4984-95eb-b0647a447eb3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "853101d0-e41e-4984-95eb-b0647a447eb3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "6fd3e738-f300-4666-b539-3c3b7335695d": {
+                "uuid": "6fd3e738-f300-4666-b539-3c3b7335695d",
+                "title": "Rice",
+                "subtitle": "",
+                "itemUuids": [
+                    "14e487bf-7077-4b48-b717-eedec5637b06",
+                    "30c654d2-057f-4013-a339-44ccc2bead4e",
+                    "a183e833-49d4-401d-b772-6aa64ceb2115",
+                    "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
+                    "c29cd75e-07da-4b13-9e0c-79445598b36a"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "14e487bf-7077-4b48-b717-eedec5637b06",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "30c654d2-057f-4013-a339-44ccc2bead4e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a183e833-49d4-401d-b772-6aa64ceb2115",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c29cd75e-07da-4b13-9e0c-79445598b36a",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "61de0f96-a825-4b92-9fa0-9692d30218e0": {
+                "uuid": "61de0f96-a825-4b92-9fa0-9692d30218e0",
+                "title": "Rolls",
+                "subtitle": "",
+                "itemUuids": [
+                    "8dc4f495-6409-4923-b008-3d469242ffde",
+                    "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
+                    "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
+                    "09b69132-46c3-49b1-a700-87204605c7d6",
+                    "310c8ec9-60f1-4e17-b785-aafba0a5694e",
+                    "56b32ccc-e14f-4439-b30b-06be0563948e",
+                    "cb0060ff-30d9-462b-b8db-15ccf9b51119",
+                    "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
+                    "1ea6e616-2c5f-4a58-a385-110d1999f8db",
+                    "24d379b4-f27c-42af-a6a9-fdb545310fb4"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8dc4f495-6409-4923-b008-3d469242ffde",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "09b69132-46c3-49b1-a700-87204605c7d6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "310c8ec9-60f1-4e17-b785-aafba0a5694e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "56b32ccc-e14f-4439-b30b-06be0563948e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cb0060ff-30d9-462b-b8db-15ccf9b51119",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1ea6e616-2c5f-4a58-a385-110d1999f8db",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "24d379b4-f27c-42af-a6a9-fdb545310fb4",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "3020a854-8f83-4f94-bfc6-95182770e884": {
+                "uuid": "3020a854-8f83-4f94-bfc6-95182770e884",
+                "title": "Sashimi",
+                "subtitle": "",
+                "itemUuids": [
+                    "444770e5-4801-4720-84f0-f70cc77f8073",
+                    "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
+                    "0d334e18-fd82-4c43-a476-9318fefc6ddd",
+                    "a030fba9-02e8-444a-babf-da6b6d8a65a1"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "444770e5-4801-4720-84f0-f70cc77f8073",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0d334e18-fd82-4c43-a476-9318fefc6ddd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a030fba9-02e8-444a-babf-da6b6d8a65a1",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "9408a16a-1dac-4fc6-a448-ed6303f384bc": {
+                "uuid": "9408a16a-1dac-4fc6-a448-ed6303f384bc",
+                "title": "Нігірі",
+                "subtitle": "",
+                "itemUuids": [
+                    "c21efa7e-f6f4-49a0-99aa-f35195c898b4",
+                    "2862cf6f-32c6-469f-8208-d35db17877bc",
+                    "a39e1033-ed90-443f-ac89-76c9d6cfdb90",
+                    "ac1ecbf0-0509-4de9-8555-5371773f4978"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "c21efa7e-f6f4-49a0-99aa-f35195c898b4",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2862cf6f-32c6-469f-8208-d35db17877bc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a39e1033-ed90-443f-ac89-76c9d6cfdb90",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ac1ecbf0-0509-4de9-8555-5371773f4978",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.4627752,
+            "longitude": 30.5079068,
+            "address": {
+                "address1": "Verkhnii Val St, 2А",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "04071",
+                "region": "",
+                "formattedAddress": "Verkhnii Val St, 2а, Kyiv, 04071"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380442228944"
+        },
+        "priceBucket": "₴₴",
+        "slug": "to-be",
+        "isOrderable": true,
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/865e739c-8cf9-4744-b376-9eb883c6ecc0",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/61514add-2f04-4b40-a4e8-911c170a1426",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/2659a98c-b177-4d5c-95e8-8960b463a58c",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/10ad0df0-64b6-4c22-a109-68e12ee9ce6a",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(75)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.5 out of 5 stars based on 75 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴₴ • Japanese • Asian • Sushi</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "40–50 MINS",
+                "textFormat": "<span>40–50 MINS</span>",
+                "accessibilityText": "Delivered in 40 to 50 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 40,
+            "max": 50,
+            "raw": 45
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

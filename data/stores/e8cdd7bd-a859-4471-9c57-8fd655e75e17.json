@@ -1,0 +1,2543 @@
+{
+    "store": {
+        "uuid": "e8cdd7bd-a859-4471-9c57-8fd655e75e17",
+        "title": "Dogs & Tails",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "American",
+                "name": "Американська",
+                "keyName": "American"
+            },
+            {
+                "uuid": "European",
+                "name": "Європейська",
+                "keyName": "European"
+            },
+            {
+                "uuid": "StreetFood",
+                "name": "Вулична їжа",
+                "keyName": "StreetFood"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "296e164e-7265-4ab6-aa97-f72c3d3f6162",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "b16a9bea-9db8-448a-a115-cf3ed6258d87",
+                    "ba85967e-1a4b-4327-b03b-7c503cc5a899",
+                    "0f3cf102-da42-422a-8bbd-0d640d770969",
+                    "8643adf0-3f34-46d7-ba8d-389f6883449f",
+                    "30df98cd-9420-49d5-b94e-647e64062a56",
+                    "4d5b129d-2557-4598-8abc-3e6bd4bcf9f6",
+                    "cb159c15-28b3-4e83-8f70-a8465e647ccb",
+                    "a6b4698a-5560-483e-8cc9-236eef71fda3",
+                    "70d52114-c841-40fa-b945-ae9d25d29122"
+                ]
+            },
+            {
+                "uuid": "34f35aa0-1116-48e0-9e27-ef38636fd6af",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "edd67ff7-bbd1-4951-8cb6-936aa2276a57",
+                    "164a74b1-af5f-4f34-ae97-100fb2a575f3",
+                    "25cdcf39-088e-461a-85fb-d181f3e76ba7",
+                    "c774a98f-554b-4cbe-9a59-6c4121a23006",
+                    "487f489b-a24b-4526-82ea-c00b85da764e",
+                    "ba83d1ec-4f4f-42e2-b871-f7a448a97121",
+                    "58eba759-a87e-4cf0-a8ea-49a9adf22b29",
+                    "5f800c34-8391-453f-bcb8-23d14f3e91ba",
+                    "654d535d-af79-4054-bbac-5f59764198c4"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "34f35aa0-1116-48e0-9e27-ef38636fd6af": {
+                "itemsMap": {
+                    "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a": {
+                        "uuid": "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
+                        "title": "Crispy onions ",
+                        "itemDescription": "With garlic aioli (150g).",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5098fd4-e46b-433d-9851-a59bccd1bf5a",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "feb30d77-9eb1-4eea-8a95-18367cae87c6": {
+                        "uuid": "feb30d77-9eb1-4eea-8a95-18367cae87c6",
+                        "title": "BLT",
+                        "itemDescription": "Bacon lettuce and tomato garlic cream (365-415g).To choose from sausages and side. ",
+                        "price": 15900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/259ae993-649f-4003-94ab-c90ae8bf2224",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "343fcb39-21f5-4441-8de1-be09fea9c130",
+                            "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                        ]
+                    },
+                    "146d60f0-5629-45d7-aac1-cc93dc55a369": {
+                        "uuid": "146d60f0-5629-45d7-aac1-cc93dc55a369",
+                        "title": "Fish and chips",
+                        "itemDescription": "250g.",
+                        "price": 15500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/53b09a35-a424-4bbf-8e91-6ba34fee1593",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "279807c5-4c83-40d4-9889-7879c30eefe1": {
+                        "uuid": "279807c5-4c83-40d4-9889-7879c30eefe1",
+                        "title": "The Kiev",
+                        "itemDescription": "Tomato, radishes, and pickled toung cabbage (360-410g).To choose from sausages and side. ",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0941609-4e8a-413e-976c-dbfb48dcb4e9",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "343fcb39-21f5-4441-8de1-be09fea9c130",
+                            "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                        ]
+                    },
+                    "1296a55e-408b-4854-a4ad-6baf576736bc": {
+                        "uuid": "1296a55e-408b-4854-a4ad-6baf576736bc",
+                        "title": "Aranciata",
+                        "itemDescription": "Orange, grapefruit, lemon, fructose syrup, and mineral water (160ml).",
+                        "price": 8000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1961e49-570d-4cc1-b07c-40f37431224e",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "5c0de42b-369d-4e10-b715-2a960a4f7a33": {
+                        "uuid": "5c0de42b-369d-4e10-b715-2a960a4f7a33",
+                        "title": "Jasmine pearl ",
+                        "itemDescription": "Jasmin tea, lichi puree, lemon, and fructose syrup (200ml).",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5e69b5a-73be-445c-a5d9-92783301dc78",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "5996b714-6110-44be-b285-cf80253d8194": {
+                        "uuid": "5996b714-6110-44be-b285-cf80253d8194",
+                        "title": "Wheat bock",
+                        "itemDescription": "Pivna duma (330ml).",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2debe3d6-2e8d-402f-b45b-59b41c14d096",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "9ff82907-ae14-4e1d-9a13-35ba7ff2db50": {
+                        "uuid": "9ff82907-ae14-4e1d-9a13-35ba7ff2db50",
+                        "title": "Salmon",
+                        "itemDescription": "Salmon, greens, and white curry sauce with hondashi (340g). ",
+                        "price": 32500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/16acb642-6d6c-4ba4-9599-ae8fd27664ed",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "35cab0f7-3281-4153-9617-64b69843b305": {
+                        "uuid": "35cab0f7-3281-4153-9617-64b69843b305",
+                        "title": "The Tokyo",
+                        "itemDescription": "Teriyaki glazed, wasabi, mayonnaise, and sesame seeds, dried seaweed (350-400g). To choose from sausages and side. ",
+                        "price": 16500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a546e1c-4c24-480d-b989-dcd45c7c191a",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "343fcb39-21f5-4441-8de1-be09fea9c130",
+                            "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                        ]
+                    },
+                    "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5": {
+                        "uuid": "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5",
+                        "title": "Сhicken soup ",
+                        "itemDescription": "With vegetables, home-made pasta, and organic chicken (330g).",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e192339-7b8b-4981-9c54-5032e30f72be",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "aad8a9ad-5365-4028-9d35-4b9c476dddb3": {
+                        "uuid": "aad8a9ad-5365-4028-9d35-4b9c476dddb3",
+                        "title": "Vegi chips",
+                        "itemDescription": "150g.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0b2a58e-323b-46ba-ac28-2684093856bb",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "904310dd-ce00-485e-9631-37f203f44dec": {
+                        "uuid": "904310dd-ce00-485e-9631-37f203f44dec",
+                        "title": "Coleslaw",
+                        "itemDescription": "With currents apple and green onion (130g).",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/85ff3206-fa9a-4d63-8083-f2c353df2e51",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6": {
+                        "uuid": "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6",
+                        "title": "Kale salad with veal ",
+                        "itemDescription": "Cous-cous, cherry tomatoes, and asparagus ad tuna dressing (300g).",
+                        "price": 21500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8784a9c-cb30-4815-9487-9cce73f6acf7",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "7944aa8e-b80f-456d-8b89-01df59678e02": {
+                        "uuid": "7944aa8e-b80f-456d-8b89-01df59678e02",
+                        "title": "Non-alcoholic gin and tonic",
+                        "itemDescription": "Juniper syrup, lemon, cucmber, and tonic (160ml).",
+                        "price": 8000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/623eb819-d915-4982-9d1d-107d5087e6f2",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "20a2c02b-2435-4368-a6d7-851a03c3731e": {
+                        "uuid": "20a2c02b-2435-4368-a6d7-851a03c3731e",
+                        "title": "Long chocolate",
+                        "itemDescription": "220g.",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f361c190-84e5-42a6-94aa-354e4c4f33e5",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "af24f4f1-9d6a-41f1-803a-a8bb0c8dc4d3": {
+                        "uuid": "af24f4f1-9d6a-41f1-803a-a8bb0c8dc4d3",
+                        "title": "Green see pea",
+                        "itemDescription": "330ml.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/74b4c7aa-9c47-4309-b5b6-f1056cd5ad7c",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "c2cba6bd-0623-49b6-99bb-6edaa9d214f8": {
+                        "uuid": "c2cba6bd-0623-49b6-99bb-6edaa9d214f8",
+                        "title": "Cobb salad with chicken",
+                        "itemDescription": "Avocado and green vegetables (370g).",
+                        "price": 23500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/661bb86c-5e4a-4e69-9bf2-6bcc33a40273",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3": {
+                        "uuid": "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3",
+                        "title": "Duo sausage platter",
+                        "itemDescription": "To choose from two side. To choose from two sausages (more than 200g).",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba1d0929-d1f1-4e7d-a3cf-c324b81baf95",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "20765a6f-777c-4674-b4a5-0308e18ba218",
+                            "c5e17023-b3bd-441b-93b9-fb03b50f4ef1"
+                        ]
+                    },
+                    "43c446d7-06ec-47a6-a3ec-9d2baf6e4813": {
+                        "uuid": "43c446d7-06ec-47a6-a3ec-9d2baf6e4813",
+                        "title": "Chicken wings",
+                        "itemDescription": "To choose from sauce (450g).",
+                        "price": 18900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a803d939-d5ce-4291-8988-81328e3cd202",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "749455f8-1d77-462b-9ed5-9607c3a686f0"
+                        ]
+                    },
+                    "a5266044-5a02-4bf7-b221-22ec8a8d84a7": {
+                        "uuid": "a5266044-5a02-4bf7-b221-22ec8a8d84a7",
+                        "title": "The sunny side",
+                        "itemDescription": "Special mustard sauce, Parmesan cheese, fried egg, and onion rings (350-400g).  To choose from sausages and side. ",
+                        "price": 16900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0193047f-296b-4788-8f57-810bc5bd2826",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "343fcb39-21f5-4441-8de1-be09fea9c130",
+                            "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                        ]
+                    },
+                    "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d": {
+                        "uuid": "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d",
+                        "title": "Mini corn dogs",
+                        "itemDescription": "Special mustard sauce (150g).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f38b0f34-f1fa-4c48-acc9-76aa03aa6724",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "8780dae5-ae1c-4490-a02e-4f3e4deea731": {
+                        "uuid": "8780dae5-ae1c-4490-a02e-4f3e4deea731",
+                        "title": "Hot chicks",
+                        "itemDescription": "Chicken breast with aioli and nut sauce, fresh salad with cucumber & tomato (365-415g). To choose from sausages and side. ",
+                        "price": 16900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/45bed826-95ff-43d7-b628-8beb922928a9",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                        ]
+                    },
+                    "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3": {
+                        "uuid": "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3",
+                        "title": "Fries",
+                        "itemDescription": "180g.",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b4046e93-3494-4e92-b8b4-3adab479973a",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68": {
+                        "uuid": "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68",
+                        "title": "Churros",
+                        "itemDescription": "To choose from chocolate or caramel dip (300g).",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/97230008-1e79-4021-aeda-c546423dcee1",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "350bc480-7c08-42f6-83e8-dbdfc80b2787"
+                        ]
+                    },
+                    "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8": {
+                        "uuid": "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8",
+                        "title": "Green salad",
+                        "itemDescription": "With pumpkin puree, baked beets, goat's cheese, pine nuts, honey, and rosemary dressing (230g).",
+                        "price": 13500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/86663ab7-baa1-46ed-bdad-a863a95c06d5",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "def26de6-dedc-4e9f-9192-8ee1d1594593": {
+                        "uuid": "def26de6-dedc-4e9f-9192-8ee1d1594593",
+                        "title": "Pulled beef BBQ",
+                        "itemDescription": "Stewed veal with herbs in BBQ sauce, spiced marinated cucumber, and sweet onion (355-405g). To choose from sausages and side. ",
+                        "price": 18500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c01e952e-9f87-47ce-8c35-93bc968e76ce",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "343fcb39-21f5-4441-8de1-be09fea9c130",
+                            "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                        ]
+                    },
+                    "59c4fea2-325a-452d-ad97-a83a6af782af": {
+                        "uuid": "59c4fea2-325a-452d-ad97-a83a6af782af",
+                        "title": "Cauliflower",
+                        "itemDescription": "330ml.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecd8e510-e20b-4686-bbfd-fc4dad9f29a8",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "39db5acf-b170-4156-8f7c-509cd482c1ec": {
+                        "uuid": "39db5acf-b170-4156-8f7c-509cd482c1ec",
+                        "title": "India pale ale",
+                        "itemDescription": "Pivna duma (330ml).",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ba6d9b2-f2a1-4a7d-a6c7-d8f0decce93f",
+                        "nutritionalInfo": {}
+                    },
+                    "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9": {
+                        "uuid": "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9",
+                        "title": "Gazpacho",
+                        "itemDescription": "Cold tomato soup with Bulgarian pepper, cucumber, Cayenne pepper, tomato juice, salt and pepper. 330g.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a8f471e-aa30-4128-a6ac-312617458ecf",
+                        "nutritionalInfo": {}
+                    },
+                    "8ea264f9-65e2-4f68-9665-3eda0bff7205": {
+                        "uuid": "8ea264f9-65e2-4f68-9665-3eda0bff7205",
+                        "title": "Curry-pumpkin",
+                        "itemDescription": "330ml.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac29ffd3-18a8-46af-8fa5-1610b242e971",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079": {
+                        "uuid": "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                        "title": "Dark beer",
+                        "itemDescription": "Pivna duma (330ml).",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/86fab91c-4574-4873-8538-1b546a376b53",
+                        "nutritionalInfo": {}
+                    },
+                    "4c863c0e-7036-46a4-994c-4fa489a337dd": {
+                        "uuid": "4c863c0e-7036-46a4-994c-4fa489a337dd",
+                        "title": "Coney Island",
+                        "itemDescription": "Chili Cheddar cheese & chopped onions (375-425g). To choose from sausages and side. ",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfa2ae52-349a-4d62-a8c5-99b10fecb37b",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "343fcb39-21f5-4441-8de1-be09fea9c130",
+                            "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "edd67ff7-bbd1-4951-8cb6-936aa2276a57",
+                        "title": "Bar snacks & Appetizers ",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d",
+                            "146d60f0-5629-45d7-aac1-cc93dc55a369",
+                            "aad8a9ad-5365-4028-9d35-4b9c476dddb3"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d",
+                                "title": "Mini corn dogs",
+                                "itemDescription": "Special mustard sauce (150g).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f38b0f34-f1fa-4c48-acc9-76aa03aa6724",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "146d60f0-5629-45d7-aac1-cc93dc55a369",
+                                "title": "Fish and chips",
+                                "itemDescription": "250g.",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/53b09a35-a424-4bbf-8e91-6ba34fee1593",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "aad8a9ad-5365-4028-9d35-4b9c476dddb3",
+                                "title": "Vegi chips",
+                                "itemDescription": "150g.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0b2a58e-323b-46ba-ac28-2684093856bb",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "164a74b1-af5f-4f34-ae97-100fb2a575f3",
+                        "title": "Desserts",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "20a2c02b-2435-4368-a6d7-851a03c3731e",
+                            "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "20a2c02b-2435-4368-a6d7-851a03c3731e",
+                                "title": "Long chocolate",
+                                "itemDescription": "220g.",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f361c190-84e5-42a6-94aa-354e4c4f33e5",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68",
+                                "title": "Churros",
+                                "itemDescription": "To choose from chocolate or caramel dip (300g).",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/97230008-1e79-4021-aeda-c546423dcee1",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "350bc480-7c08-42f6-83e8-dbdfc80b2787"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "25cdcf39-088e-461a-85fb-d181f3e76ba7",
+                        "title": "Salads",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "c2cba6bd-0623-49b6-99bb-6edaa9d214f8",
+                            "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6",
+                            "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "c2cba6bd-0623-49b6-99bb-6edaa9d214f8",
+                                "title": "Cobb salad with chicken",
+                                "itemDescription": "Avocado and green vegetables (370g).",
+                                "price": 23500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/661bb86c-5e4a-4e69-9bf2-6bcc33a40273",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6",
+                                "title": "Kale salad with veal ",
+                                "itemDescription": "Cous-cous, cherry tomatoes, and asparagus ad tuna dressing (300g).",
+                                "price": 21500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8784a9c-cb30-4815-9487-9cce73f6acf7",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8",
+                                "title": "Green salad",
+                                "itemDescription": "With pumpkin puree, baked beets, goat's cheese, pine nuts, honey, and rosemary dressing (230g).",
+                                "price": 13500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/86663ab7-baa1-46ed-bdad-a863a95c06d5",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "c774a98f-554b-4cbe-9a59-6c4121a23006",
+                        "title": "Soups",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "59c4fea2-325a-452d-ad97-a83a6af782af",
+                            "af24f4f1-9d6a-41f1-803a-a8bb0c8dc4d3",
+                            "8ea264f9-65e2-4f68-9665-3eda0bff7205",
+                            "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5",
+                            "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "59c4fea2-325a-452d-ad97-a83a6af782af",
+                                "title": "Cauliflower",
+                                "itemDescription": "330ml.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecd8e510-e20b-4686-bbfd-fc4dad9f29a8",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "af24f4f1-9d6a-41f1-803a-a8bb0c8dc4d3",
+                                "title": "Green see pea",
+                                "itemDescription": "330ml.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/74b4c7aa-9c47-4309-b5b6-f1056cd5ad7c",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "8ea264f9-65e2-4f68-9665-3eda0bff7205",
+                                "title": "Curry-pumpkin",
+                                "itemDescription": "330ml.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac29ffd3-18a8-46af-8fa5-1610b242e971",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5",
+                                "title": "Сhicken soup ",
+                                "itemDescription": "With vegetables, home-made pasta, and organic chicken (330g).",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e192339-7b8b-4981-9c54-5032e30f72be",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9",
+                                "title": "Gazpacho",
+                                "itemDescription": "Cold tomato soup with Bulgarian pepper, cucumber, Cayenne pepper, tomato juice, salt and pepper. 330g.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a8f471e-aa30-4128-a6ac-312617458ecf",
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "487f489b-a24b-4526-82ea-c00b85da764e",
+                        "title": "Main courses",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "9ff82907-ae14-4e1d-9a13-35ba7ff2db50",
+                            "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3",
+                            "43c446d7-06ec-47a6-a3ec-9d2baf6e4813"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "9ff82907-ae14-4e1d-9a13-35ba7ff2db50",
+                                "title": "Salmon",
+                                "itemDescription": "Salmon, greens, and white curry sauce with hondashi (340g). ",
+                                "price": 32500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/16acb642-6d6c-4ba4-9599-ae8fd27664ed",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3",
+                                "title": "Duo sausage platter",
+                                "itemDescription": "To choose from two side. To choose from two sausages (more than 200g).",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba1d0929-d1f1-4e7d-a3cf-c324b81baf95",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "20765a6f-777c-4674-b4a5-0308e18ba218",
+                                    "c5e17023-b3bd-441b-93b9-fb03b50f4ef1"
+                                ]
+                            },
+                            {
+                                "uuid": "43c446d7-06ec-47a6-a3ec-9d2baf6e4813",
+                                "title": "Chicken wings",
+                                "itemDescription": "To choose from sauce (450g).",
+                                "price": 18900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a803d939-d5ce-4291-8988-81328e3cd202",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "749455f8-1d77-462b-9ed5-9607c3a686f0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "ba83d1ec-4f4f-42e2-b871-f7a448a97121",
+                        "title": "Hot Dogs",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "279807c5-4c83-40d4-9889-7879c30eefe1",
+                            "35cab0f7-3281-4153-9617-64b69843b305",
+                            "a5266044-5a02-4bf7-b221-22ec8a8d84a7",
+                            "4c863c0e-7036-46a4-994c-4fa489a337dd",
+                            "feb30d77-9eb1-4eea-8a95-18367cae87c6",
+                            "8780dae5-ae1c-4490-a02e-4f3e4deea731",
+                            "def26de6-dedc-4e9f-9192-8ee1d1594593"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "279807c5-4c83-40d4-9889-7879c30eefe1",
+                                "title": "The Kiev",
+                                "itemDescription": "Tomato, radishes, and pickled toung cabbage (360-410g).To choose from sausages and side. ",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0941609-4e8a-413e-976c-dbfb48dcb4e9",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "343fcb39-21f5-4441-8de1-be09fea9c130",
+                                    "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                                ]
+                            },
+                            {
+                                "uuid": "35cab0f7-3281-4153-9617-64b69843b305",
+                                "title": "The Tokyo",
+                                "itemDescription": "Teriyaki glazed, wasabi, mayonnaise, and sesame seeds, dried seaweed (350-400g). To choose from sausages and side. ",
+                                "price": 16500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a546e1c-4c24-480d-b989-dcd45c7c191a",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "343fcb39-21f5-4441-8de1-be09fea9c130",
+                                    "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                                ]
+                            },
+                            {
+                                "uuid": "a5266044-5a02-4bf7-b221-22ec8a8d84a7",
+                                "title": "The sunny side",
+                                "itemDescription": "Special mustard sauce, Parmesan cheese, fried egg, and onion rings (350-400g).  To choose from sausages and side. ",
+                                "price": 16900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0193047f-296b-4788-8f57-810bc5bd2826",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "343fcb39-21f5-4441-8de1-be09fea9c130",
+                                    "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                                ]
+                            },
+                            {
+                                "uuid": "4c863c0e-7036-46a4-994c-4fa489a337dd",
+                                "title": "Coney Island",
+                                "itemDescription": "Chili Cheddar cheese & chopped onions (375-425g). To choose from sausages and side. ",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfa2ae52-349a-4d62-a8c5-99b10fecb37b",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "343fcb39-21f5-4441-8de1-be09fea9c130",
+                                    "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                                ]
+                            },
+                            {
+                                "uuid": "feb30d77-9eb1-4eea-8a95-18367cae87c6",
+                                "title": "BLT",
+                                "itemDescription": "Bacon lettuce and tomato garlic cream (365-415g).To choose from sausages and side. ",
+                                "price": 15900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/259ae993-649f-4003-94ab-c90ae8bf2224",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "343fcb39-21f5-4441-8de1-be09fea9c130",
+                                    "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                                ]
+                            },
+                            {
+                                "uuid": "8780dae5-ae1c-4490-a02e-4f3e4deea731",
+                                "title": "Hot chicks",
+                                "itemDescription": "Chicken breast with aioli and nut sauce, fresh salad with cucumber & tomato (365-415g). To choose from sausages and side. ",
+                                "price": 16900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/45bed826-95ff-43d7-b628-8beb922928a9",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                                ]
+                            },
+                            {
+                                "uuid": "def26de6-dedc-4e9f-9192-8ee1d1594593",
+                                "title": "Pulled beef BBQ",
+                                "itemDescription": "Stewed veal with herbs in BBQ sauce, spiced marinated cucumber, and sweet onion (355-405g). To choose from sausages and side. ",
+                                "price": 18500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c01e952e-9f87-47ce-8c35-93bc968e76ce",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "343fcb39-21f5-4441-8de1-be09fea9c130",
+                                    "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "58eba759-a87e-4cf0-a8ea-49a9adf22b29",
+                        "title": "Non-alcoholic drinks",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "5c0de42b-369d-4e10-b715-2a960a4f7a33",
+                            "7944aa8e-b80f-456d-8b89-01df59678e02",
+                            "1296a55e-408b-4854-a4ad-6baf576736bc"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "5c0de42b-369d-4e10-b715-2a960a4f7a33",
+                                "title": "Jasmine pearl ",
+                                "itemDescription": "Jasmin tea, lichi puree, lemon, and fructose syrup (200ml).",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5e69b5a-73be-445c-a5d9-92783301dc78",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "7944aa8e-b80f-456d-8b89-01df59678e02",
+                                "title": "Non-alcoholic gin and tonic",
+                                "itemDescription": "Juniper syrup, lemon, cucmber, and tonic (160ml).",
+                                "price": 8000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/623eb819-d915-4982-9d1d-107d5087e6f2",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "1296a55e-408b-4854-a4ad-6baf576736bc",
+                                "title": "Aranciata",
+                                "itemDescription": "Orange, grapefruit, lemon, fructose syrup, and mineral water (160ml).",
+                                "price": 8000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1961e49-570d-4cc1-b07c-40f37431224e",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "5f800c34-8391-453f-bcb8-23d14f3e91ba",
+                        "title": "Sides",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3",
+                            "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
+                            "904310dd-ce00-485e-9631-37f203f44dec"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3",
+                                "title": "Fries",
+                                "itemDescription": "180g.",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b4046e93-3494-4e92-b8b4-3adab479973a",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
+                                "title": "Crispy onions ",
+                                "itemDescription": "With garlic aioli (150g).",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5098fd4-e46b-433d-9851-a59bccd1bf5a",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "904310dd-ce00-485e-9631-37f203f44dec",
+                                "title": "Coleslaw",
+                                "itemDescription": "With currents apple and green onion (130g).",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/85ff3206-fa9a-4d63-8083-f2c353df2e51",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "654d535d-af79-4054-bbac-5f59764198c4",
+                        "title": "Beer",
+                        "itemUuids": [
+                            "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                            "5996b714-6110-44be-b285-cf80253d8194",
+                            "39db5acf-b170-4156-8f7c-509cd482c1ec"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                                "title": "Dark beer",
+                                "itemDescription": "Pivna duma (330ml).",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/86fab91c-4574-4873-8538-1b546a376b53",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "5996b714-6110-44be-b285-cf80253d8194",
+                                "title": "Wheat bock",
+                                "itemDescription": "Pivna duma (330ml).",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2debe3d6-2e8d-402f-b45b-59b41c14d096",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "39db5acf-b170-4156-8f7c-509cd482c1ec",
+                                "title": "India pale ale",
+                                "itemDescription": "Pivna duma (330ml).",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ba6d9b2-f2a1-4a7d-a6c7-d8f0decce93f",
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            },
+            "296e164e-7265-4ab6-aa97-f72c3d3f6162": {
+                "itemsMap": {
+                    "0ab4bcba-d498-4cf1-adde-84548b67143f": {
+                        "uuid": "0ab4bcba-d498-4cf1-adde-84548b67143f",
+                        "title": "Зелений горох",
+                        "itemDescription": "330мл.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c5ea9c7f-0d3f-477e-a8b9-e418fcc77d51",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "383648dd-1ef6-4adf-a977-b04a0bed27ec": {
+                        "uuid": "383648dd-1ef6-4adf-a977-b04a0bed27ec",
+                        "title": "Гаспачо",
+                        "itemDescription": "Холодний томатний суп з додаванням болгарського перцю, огірка, каєнського перцю, томатного соку, солі та перцю. 330г.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6465819-3582-4ea9-8596-e6adf98586f0",
+                        "nutritionalInfo": {}
+                    },
+                    "d639bc7b-691b-4e53-9058-a62e104d2138": {
+                        "uuid": "d639bc7b-691b-4e53-9058-a62e104d2138",
+                        "title": "Pulled beef BBQ",
+                        "itemDescription": "Томлена телятина з травами в соусі BBQ, пряний маринований огірок та цибулеві кільця (355-405г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                        "price": 18500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8afa0de-f5a5-42cf-b297-2f4756e6ec4c",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                            "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                        ]
+                    },
+                    "cdefd5d7-d903-40f4-aa41-bce19987635c": {
+                        "uuid": "cdefd5d7-d903-40f4-aa41-bce19987635c",
+                        "title": "Два сосисони на вибір",
+                        "itemDescription": "На вибір два гарніри. На вибір дві сосиски (понад 200г).",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9d7a4036-21ae-4327-9b56-54aaa3c8fbd7",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "2ab0b124-19bf-4877-a890-24af214df60e",
+                            "25484f52-3fd1-486f-a5b8-a15abf02d3b2"
+                        ]
+                    },
+                    "234c4804-2236-49a0-9b73-db90baf8da38": {
+                        "uuid": "234c4804-2236-49a0-9b73-db90baf8da38",
+                        "title": "Салат з телятиною сувід",
+                        "itemDescription": "Кейлом, кус кусом, томатами чері, спаржею та заправкою з тунцем (300г).",
+                        "price": 21500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3178d47f-74d6-4314-a34a-63349b7ab15a",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "9645a847-72b5-4b68-b44d-caa8947b1918": {
+                        "uuid": "9645a847-72b5-4b68-b44d-caa8947b1918",
+                        "title": "Токіо",
+                        "itemDescription": "Теріякі глазурування, майо-васабі, вакаме, кунжут, дайкон (350-400г).  Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                        "price": 16500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a74196f6-abe8-43cf-a382-f811082cb952",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                            "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                        ]
+                    },
+                    "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079": {
+                        "uuid": "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                        "title": "Dark beer",
+                        "itemDescription": "Pivna duma (330ml).",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/86fab91c-4574-4873-8538-1b546a376b53",
+                        "nutritionalInfo": {}
+                    },
+                    "2262af4a-492f-4a18-b714-c59788375dc9": {
+                        "uuid": "2262af4a-492f-4a18-b714-c59788375dc9",
+                        "title": "Vegi chips",
+                        "itemDescription": "Домашні чіпси з батату та картоплі з соусом гострий та солодкий реліш-айолі (150г).",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2dfab6a-8c02-4092-b1da-43ce5717bd4a",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "19a1c3db-7b00-4804-afca-9e887a4e4f18": {
+                        "uuid": "19a1c3db-7b00-4804-afca-9e887a4e4f18",
+                        "title": "Лосось",
+                        "itemDescription": "З зеленими овочами, вершковим соусом з каррі та хандаші (340г). Час приготування 25-30 хвилин.",
+                        "price": 32500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8961896a-2e22-4230-9e18-fb08165bd7c0",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "038220a1-b5f2-41d1-b020-0d3f531452e8": {
+                        "uuid": "038220a1-b5f2-41d1-b020-0d3f531452e8",
+                        "title": "Каррі-гарбуз",
+                        "itemDescription": "330мл.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/58ca5c6c-e06c-4af1-88ba-594c1ff43fb9",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "3efee7e1-dac8-40f8-81c2-9d68c1ed40b7": {
+                        "uuid": "3efee7e1-dac8-40f8-81c2-9d68c1ed40b7",
+                        "title": "Coney island",
+                        "itemDescription": "Гарячий сирний соус, пряний чілі або чілі боби (375-425г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                        "price": 19900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7df3ec19-9127-48d6-8495-c9281dc06c94",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                            "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                        ]
+                    },
+                    "c2fc697a-31cf-40db-a23c-69f266af71a0": {
+                        "uuid": "c2fc697a-31cf-40db-a23c-69f266af71a0",
+                        "title": "Aranciata",
+                        "itemDescription": "Апельсин, грейпфрут, лимон, сироп фруктози, мінеральна вода (160мл).",
+                        "price": 8000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1744db4-5f03-4816-abb4-0a8d2501c616",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "559ebe20-fd38-4099-9de5-79ae621ddd24": {
+                        "uuid": "559ebe20-fd38-4099-9de5-79ae621ddd24",
+                        "title": "BLT",
+                        "itemDescription": "Бекон, латук, томати (365-415г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                        "price": 15900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8e1befe-eb35-41d2-9412-27d12eb09d07",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                            "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                        ]
+                    },
+                    "66bdc3ea-65bc-4d44-b17c-740f1b852822": {
+                        "uuid": "66bdc3ea-65bc-4d44-b17c-740f1b852822",
+                        "title": "Цвітна капуста",
+                        "itemDescription": "330мл.",
+                        "price": 9900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/84735173-7cf2-4f59-a54f-f02772b17bb2",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "6758fb6e-57d1-4815-8e10-9fee81644ac8": {
+                        "uuid": "6758fb6e-57d1-4815-8e10-9fee81644ac8",
+                        "title": "Курячий бульйон",
+                        "itemDescription": "З овочами, локшиною власного приготування та шматочками домашної курки (330г).",
+                        "price": 7900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0acedaf0-80d6-498d-9f14-1897d7a18bba",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "ec70d6b2-d6ea-4b1a-82d9-c70c897ff0bd": {
+                        "uuid": "ec70d6b2-d6ea-4b1a-82d9-c70c897ff0bd",
+                        "title": "Jasmine pearl ",
+                        "itemDescription": "Жасминовий чай, пюре лічі, лимон, сироп фруктози (200мл).",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d65bece-c94c-4d14-adb0-48ba25a55257",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "c29b3998-89ee-4775-8a86-1ffc6f467611": {
+                        "uuid": "c29b3998-89ee-4775-8a86-1ffc6f467611",
+                        "title": "Хрустка цибуля",
+                        "itemDescription": "Із часниковим-айолі (150г).",
+                        "price": 5500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/4bbf93b9-eb8c-430f-8d14-a3fe2371e2c6",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "39db5acf-b170-4156-8f7c-509cd482c1ec": {
+                        "uuid": "39db5acf-b170-4156-8f7c-509cd482c1ec",
+                        "title": "India pale ale",
+                        "itemDescription": "Pivna duma (330ml).",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ba6d9b2-f2a1-4a7d-a6c7-d8f0decce93f",
+                        "nutritionalInfo": {}
+                    },
+                    "e6250715-4b86-4c33-8dee-6922ffe53f2a": {
+                        "uuid": "e6250715-4b86-4c33-8dee-6922ffe53f2a",
+                        "title": "Fish and chips",
+                        "itemDescription": "Рибне філе в хрусткому клярі (250г).",
+                        "price": 15500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/192cf08e-4c82-417d-947f-a741ca4eb257",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "340f7395-64d2-48b7-847d-96a7d99ae9f0": {
+                        "uuid": "340f7395-64d2-48b7-847d-96a7d99ae9f0",
+                        "title": "Non-alcoholic gin and tonic",
+                        "itemDescription": "Сироп ялівцю, лимон, огірок, тонік (160мл).",
+                        "price": 8000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b363b01-bd12-4c3b-8df0-ae8a71baa005",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0e70c8a7-9542-44b8-9e60-fa8da2052b70": {
+                        "uuid": "0e70c8a7-9542-44b8-9e60-fa8da2052b70",
+                        "title": "Коул слоу",
+                        "itemDescription": "Із ягодою шигані, яблуком та зеленою цибулею (130г).",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb7badbf-d90c-4b5f-b25e-367ba0c21327",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "b838550a-e5c7-40d2-9916-810bbf937395": {
+                        "uuid": "b838550a-e5c7-40d2-9916-810bbf937395",
+                        "title": "Hot chicks",
+                        "itemDescription": "Куряче філе з айолі та горіховим соусом, свіжим салатом, томатами і огірком (365-415г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                        "price": 16900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e2fa6b21-9f68-4448-b9d3-0ef77b712a2f",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                        ]
+                    },
+                    "ce784839-9656-4731-9d6d-89ab5bf52c53": {
+                        "uuid": "ce784839-9656-4731-9d6d-89ab5bf52c53",
+                        "title": "Сані сайд",
+                        "itemDescription": "Спеціальний гірчичний соус, Пармезан, яйце та кільця цибулі (350-400г).  Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                        "price": 16900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/097152b9-b6bc-4bad-9699-28b4213c00b2",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                            "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                        ]
+                    },
+                    "eccd9e5c-7b82-41a7-adcc-e4e19b433f41": {
+                        "uuid": "eccd9e5c-7b82-41a7-adcc-e4e19b433f41",
+                        "title": "Кобб салат з куркою",
+                        "itemDescription": "З половиною авокадо та зеленими овочами (370г).",
+                        "price": 23500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/80240bde-6eb1-4c50-a1eb-86cd7a5a139a",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "f668c9c5-36cd-47e4-8bc8-f7c1401af953": {
+                        "uuid": "f668c9c5-36cd-47e4-8bc8-f7c1401af953",
+                        "title": "Київ",
+                        "itemDescription": "Авокадо, томат, редис, молода та красива капуста, томатна заправка (360-410г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/96e29932-4b0e-4d31-ab1c-f451b91b63aa",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                            "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                        ]
+                    },
+                    "2250b968-298e-49f4-914b-b59f77ae566d": {
+                        "uuid": "2250b968-298e-49f4-914b-b59f77ae566d",
+                        "title": "Міні корн доги",
+                        "itemDescription": "Три курячі сосиски обсмажені в кукурудзяній муці з гірчичним соусом Dogs&Tails (150г).",
+                        "price": 12900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d21b4364-debd-4330-a64a-f239bba5c74c",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "cdd3eb56-6443-4bde-bbac-957748bcc04f": {
+                        "uuid": "cdd3eb56-6443-4bde-bbac-957748bcc04f",
+                        "title": "Курячі крильця",
+                        "itemDescription": "На вибір соус (450г).",
+                        "price": 18900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2504d82f-a288-4f75-b222-3aeabf299d3d",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "cb1d58d4-f77d-4253-8c2b-735453ae8f98"
+                        ]
+                    },
+                    "ae003fb4-7c34-466e-af71-2f63239b1d01": {
+                        "uuid": "ae003fb4-7c34-466e-af71-2f63239b1d01",
+                        "title": "Зелений салат",
+                        "itemDescription": "З пюре гарбуза, печеним буряком, козиним сиром, кедровими горіхами та заправкою з медом та розмарином (230г).",
+                        "price": 13500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a9aab67-dfab-4aa5-83fa-174926a8d2ca",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "0980cb85-73dd-4b7f-bf9c-7e667eb7a255": {
+                        "uuid": "0980cb85-73dd-4b7f-bf9c-7e667eb7a255",
+                        "title": "Картопля фрі класична",
+                        "itemDescription": "180г.",
+                        "price": 5900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/968fdd67-3c36-4f7e-b265-67a520565982",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "ae1c2b1f-511d-44ca-b287-2bbe993694b9": {
+                        "uuid": "ae1c2b1f-511d-44ca-b287-2bbe993694b9",
+                        "title": "Чуррос",
+                        "itemDescription": "На вибір з шоколадом або карамеллю (300г).",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/eed552a8-f62d-4adf-9a99-cbf1f46d75e2",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "5eb0d3b0-7756-468c-ad98-5deb4852ffdc"
+                        ]
+                    },
+                    "5996b714-6110-44be-b285-cf80253d8194": {
+                        "uuid": "5996b714-6110-44be-b285-cf80253d8194",
+                        "title": "Wheat bock",
+                        "itemDescription": "Pivna duma (330ml).",
+                        "price": 11000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2debe3d6-2e8d-402f-b45b-59b41c14d096",
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "26ee71c6-e33e-4e1c-aa04-3ee190174800": {
+                        "uuid": "26ee71c6-e33e-4e1c-aa04-3ee190174800",
+                        "title": "Довгий шоколадний",
+                        "itemDescription": "220г.",
+                        "price": 12500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/097eb77f-f2ad-47c7-91f7-f3dbf73ad1b6",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "b16a9bea-9db8-448a-a115-cf3ed6258d87",
+                        "title": "Bar snacks & Appetizers ",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "2250b968-298e-49f4-914b-b59f77ae566d",
+                            "e6250715-4b86-4c33-8dee-6922ffe53f2a",
+                            "2262af4a-492f-4a18-b714-c59788375dc9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "2250b968-298e-49f4-914b-b59f77ae566d",
+                                "title": "Міні корн доги",
+                                "itemDescription": "Три курячі сосиски обсмажені в кукурудзяній муці з гірчичним соусом Dogs&Tails (150г).",
+                                "price": 12900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d21b4364-debd-4330-a64a-f239bba5c74c",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "e6250715-4b86-4c33-8dee-6922ffe53f2a",
+                                "title": "Fish and chips",
+                                "itemDescription": "Рибне філе в хрусткому клярі (250г).",
+                                "price": 15500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/192cf08e-4c82-417d-947f-a741ca4eb257",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "2262af4a-492f-4a18-b714-c59788375dc9",
+                                "title": "Vegi chips",
+                                "itemDescription": "Домашні чіпси з батату та картоплі з соусом гострий та солодкий реліш-айолі (150г).",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2dfab6a-8c02-4092-b1da-43ce5717bd4a",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "ba85967e-1a4b-4327-b03b-7c503cc5a899",
+                        "title": "Десерти",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "26ee71c6-e33e-4e1c-aa04-3ee190174800",
+                            "ae1c2b1f-511d-44ca-b287-2bbe993694b9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "26ee71c6-e33e-4e1c-aa04-3ee190174800",
+                                "title": "Довгий шоколадний",
+                                "itemDescription": "220г.",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/097eb77f-f2ad-47c7-91f7-f3dbf73ad1b6",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "ae1c2b1f-511d-44ca-b287-2bbe993694b9",
+                                "title": "Чуррос",
+                                "itemDescription": "На вибір з шоколадом або карамеллю (300г).",
+                                "price": 12500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/eed552a8-f62d-4adf-9a99-cbf1f46d75e2",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "5eb0d3b0-7756-468c-ad98-5deb4852ffdc"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "0f3cf102-da42-422a-8bbd-0d640d770969",
+                        "title": "Салати",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "eccd9e5c-7b82-41a7-adcc-e4e19b433f41",
+                            "234c4804-2236-49a0-9b73-db90baf8da38",
+                            "ae003fb4-7c34-466e-af71-2f63239b1d01"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "eccd9e5c-7b82-41a7-adcc-e4e19b433f41",
+                                "title": "Кобб салат з куркою",
+                                "itemDescription": "З половиною авокадо та зеленими овочами (370г).",
+                                "price": 23500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/80240bde-6eb1-4c50-a1eb-86cd7a5a139a",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "234c4804-2236-49a0-9b73-db90baf8da38",
+                                "title": "Салат з телятиною сувід",
+                                "itemDescription": "Кейлом, кус кусом, томатами чері, спаржею та заправкою з тунцем (300г).",
+                                "price": 21500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3178d47f-74d6-4314-a34a-63349b7ab15a",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "ae003fb4-7c34-466e-af71-2f63239b1d01",
+                                "title": "Зелений салат",
+                                "itemDescription": "З пюре гарбуза, печеним буряком, козиним сиром, кедровими горіхами та заправкою з медом та розмарином (230г).",
+                                "price": 13500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a9aab67-dfab-4aa5-83fa-174926a8d2ca",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "8643adf0-3f34-46d7-ba8d-389f6883449f",
+                        "title": "Супи",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "66bdc3ea-65bc-4d44-b17c-740f1b852822",
+                            "0ab4bcba-d498-4cf1-adde-84548b67143f",
+                            "038220a1-b5f2-41d1-b020-0d3f531452e8",
+                            "6758fb6e-57d1-4815-8e10-9fee81644ac8",
+                            "383648dd-1ef6-4adf-a977-b04a0bed27ec"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "66bdc3ea-65bc-4d44-b17c-740f1b852822",
+                                "title": "Цвітна капуста",
+                                "itemDescription": "330мл.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/84735173-7cf2-4f59-a54f-f02772b17bb2",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "0ab4bcba-d498-4cf1-adde-84548b67143f",
+                                "title": "Зелений горох",
+                                "itemDescription": "330мл.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c5ea9c7f-0d3f-477e-a8b9-e418fcc77d51",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "038220a1-b5f2-41d1-b020-0d3f531452e8",
+                                "title": "Каррі-гарбуз",
+                                "itemDescription": "330мл.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/58ca5c6c-e06c-4af1-88ba-594c1ff43fb9",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "6758fb6e-57d1-4815-8e10-9fee81644ac8",
+                                "title": "Курячий бульйон",
+                                "itemDescription": "З овочами, локшиною власного приготування та шматочками домашної курки (330г).",
+                                "price": 7900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0acedaf0-80d6-498d-9f14-1897d7a18bba",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "383648dd-1ef6-4adf-a977-b04a0bed27ec",
+                                "title": "Гаспачо",
+                                "itemDescription": "Холодний томатний суп з додаванням болгарського перцю, огірка, каєнського перцю, томатного соку, солі та перцю. 330г.",
+                                "price": 9900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6465819-3582-4ea9-8596-e6adf98586f0",
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "30df98cd-9420-49d5-b94e-647e64062a56",
+                        "title": "Головні страви",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "19a1c3db-7b00-4804-afca-9e887a4e4f18",
+                            "cdefd5d7-d903-40f4-aa41-bce19987635c",
+                            "cdd3eb56-6443-4bde-bbac-957748bcc04f"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "19a1c3db-7b00-4804-afca-9e887a4e4f18",
+                                "title": "Лосось",
+                                "itemDescription": "З зеленими овочами, вершковим соусом з каррі та хандаші (340г). Час приготування 25-30 хвилин.",
+                                "price": 32500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8961896a-2e22-4230-9e18-fb08165bd7c0",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "cdefd5d7-d903-40f4-aa41-bce19987635c",
+                                "title": "Два сосисони на вибір",
+                                "itemDescription": "На вибір два гарніри. На вибір дві сосиски (понад 200г).",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9d7a4036-21ae-4327-9b56-54aaa3c8fbd7",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "2ab0b124-19bf-4877-a890-24af214df60e",
+                                    "25484f52-3fd1-486f-a5b8-a15abf02d3b2"
+                                ]
+                            },
+                            {
+                                "uuid": "cdd3eb56-6443-4bde-bbac-957748bcc04f",
+                                "title": "Курячі крильця",
+                                "itemDescription": "На вибір соус (450г).",
+                                "price": 18900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2504d82f-a288-4f75-b222-3aeabf299d3d",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "cb1d58d4-f77d-4253-8c2b-735453ae8f98"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "4d5b129d-2557-4598-8abc-3e6bd4bcf9f6",
+                        "title": "Хот-доги",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "f668c9c5-36cd-47e4-8bc8-f7c1401af953",
+                            "9645a847-72b5-4b68-b44d-caa8947b1918",
+                            "ce784839-9656-4731-9d6d-89ab5bf52c53",
+                            "3efee7e1-dac8-40f8-81c2-9d68c1ed40b7",
+                            "559ebe20-fd38-4099-9de5-79ae621ddd24",
+                            "b838550a-e5c7-40d2-9916-810bbf937395",
+                            "d639bc7b-691b-4e53-9058-a62e104d2138"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "f668c9c5-36cd-47e4-8bc8-f7c1401af953",
+                                "title": "Київ",
+                                "itemDescription": "Авокадо, томат, редис, молода та красива капуста, томатна заправка (360-410г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/96e29932-4b0e-4d31-ab1c-f451b91b63aa",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                                    "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                                ]
+                            },
+                            {
+                                "uuid": "9645a847-72b5-4b68-b44d-caa8947b1918",
+                                "title": "Токіо",
+                                "itemDescription": "Теріякі глазурування, майо-васабі, вакаме, кунжут, дайкон (350-400г).  Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                                "price": 16500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a74196f6-abe8-43cf-a382-f811082cb952",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                                    "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                                ]
+                            },
+                            {
+                                "uuid": "ce784839-9656-4731-9d6d-89ab5bf52c53",
+                                "title": "Сані сайд",
+                                "itemDescription": "Спеціальний гірчичний соус, Пармезан, яйце та кільця цибулі (350-400г).  Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                                "price": 16900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/097152b9-b6bc-4bad-9699-28b4213c00b2",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                                    "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                                ]
+                            },
+                            {
+                                "uuid": "3efee7e1-dac8-40f8-81c2-9d68c1ed40b7",
+                                "title": "Coney island",
+                                "itemDescription": "Гарячий сирний соус, пряний чілі або чілі боби (375-425г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                                "price": 19900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7df3ec19-9127-48d6-8495-c9281dc06c94",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                                    "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                                ]
+                            },
+                            {
+                                "uuid": "559ebe20-fd38-4099-9de5-79ae621ddd24",
+                                "title": "BLT",
+                                "itemDescription": "Бекон, латук, томати (365-415г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                                "price": 15900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8e1befe-eb35-41d2-9412-27d12eb09d07",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                                    "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                                ]
+                            },
+                            {
+                                "uuid": "b838550a-e5c7-40d2-9916-810bbf937395",
+                                "title": "Hot chicks",
+                                "itemDescription": "Куряче філе з айолі та горіховим соусом, свіжим салатом, томатами і огірком (365-415г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                                "price": 16900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e2fa6b21-9f68-4448-b9d3-0ef77b712a2f",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                                ]
+                            },
+                            {
+                                "uuid": "d639bc7b-691b-4e53-9058-a62e104d2138",
+                                "title": "Pulled beef BBQ",
+                                "itemDescription": "Томлена телятина з травами в соусі BBQ, пряний маринований огірок та цибулеві кільця (355-405г). Сосиска на вибір. Загальна вага страви залежить від гарніру. Вага цибулевих кілець - 100г. Вага картоплі фрі - 150г.",
+                                "price": 18500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8afa0de-f5a5-42cf-b297-2f4756e6ec4c",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "40808a37-b672-48e1-9496-ec9d73b25ca9",
+                                    "a1475dbf-d8c6-46ab-81b9-cc51777f1285"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "cb159c15-28b3-4e83-8f70-a8465e647ccb",
+                        "title": "Безалкогольні напої",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "ec70d6b2-d6ea-4b1a-82d9-c70c897ff0bd",
+                            "340f7395-64d2-48b7-847d-96a7d99ae9f0",
+                            "c2fc697a-31cf-40db-a23c-69f266af71a0"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "ec70d6b2-d6ea-4b1a-82d9-c70c897ff0bd",
+                                "title": "Jasmine pearl ",
+                                "itemDescription": "Жасминовий чай, пюре лічі, лимон, сироп фруктози (200мл).",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d65bece-c94c-4d14-adb0-48ba25a55257",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "340f7395-64d2-48b7-847d-96a7d99ae9f0",
+                                "title": "Non-alcoholic gin and tonic",
+                                "itemDescription": "Сироп ялівцю, лимон, огірок, тонік (160мл).",
+                                "price": 8000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b363b01-bd12-4c3b-8df0-ae8a71baa005",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "c2fc697a-31cf-40db-a23c-69f266af71a0",
+                                "title": "Aranciata",
+                                "itemDescription": "Апельсин, грейпфрут, лимон, сироп фруктози, мінеральна вода (160мл).",
+                                "price": 8000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1744db4-5f03-4816-abb4-0a8d2501c616",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "a6b4698a-5560-483e-8cc9-236eef71fda3",
+                        "title": "Гарніри",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "0980cb85-73dd-4b7f-bf9c-7e667eb7a255",
+                            "c29b3998-89ee-4775-8a86-1ffc6f467611",
+                            "0e70c8a7-9542-44b8-9e60-fa8da2052b70"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "0980cb85-73dd-4b7f-bf9c-7e667eb7a255",
+                                "title": "Картопля фрі класична",
+                                "itemDescription": "180г.",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/968fdd67-3c36-4f7e-b265-67a520565982",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "c29b3998-89ee-4775-8a86-1ffc6f467611",
+                                "title": "Хрустка цибуля",
+                                "itemDescription": "Із часниковим-айолі (150г).",
+                                "price": 5500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4bbf93b9-eb8c-430f-8d14-a3fe2371e2c6",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "0e70c8a7-9542-44b8-9e60-fa8da2052b70",
+                                "title": "Коул слоу",
+                                "itemDescription": "Із ягодою шигані, яблуком та зеленою цибулею (130г).",
+                                "price": 5900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb7badbf-d90c-4b5f-b25e-367ba0c21327",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "70d52114-c841-40fa-b945-ae9d25d29122",
+                        "title": "Пиво",
+                        "itemUuids": [
+                            "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                            "5996b714-6110-44be-b285-cf80253d8194",
+                            "39db5acf-b170-4156-8f7c-509cd482c1ec"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                                "title": "Dark beer",
+                                "itemDescription": "Pivna duma (330ml).",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/86fab91c-4574-4873-8538-1b546a376b53",
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "5996b714-6110-44be-b285-cf80253d8194",
+                                "title": "Wheat bock",
+                                "itemDescription": "Pivna duma (330ml).",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2debe3d6-2e8d-402f-b45b-59b41c14d096",
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "39db5acf-b170-4156-8f7c-509cd482c1ec",
+                                "title": "India pale ale",
+                                "itemDescription": "Pivna duma (330ml).",
+                                "price": 11000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ba6d9b2-f2a1-4a7d-a6c7-d8f0decce93f",
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "4d5b129d-2557-4598-8abc-3e6bd4bcf9f6": {
+                "uuid": "4d5b129d-2557-4598-8abc-3e6bd4bcf9f6",
+                "title": "Хот-доги",
+                "subtitle": "",
+                "itemUuids": [
+                    "f668c9c5-36cd-47e4-8bc8-f7c1401af953",
+                    "9645a847-72b5-4b68-b44d-caa8947b1918",
+                    "ce784839-9656-4731-9d6d-89ab5bf52c53",
+                    "3efee7e1-dac8-40f8-81c2-9d68c1ed40b7",
+                    "559ebe20-fd38-4099-9de5-79ae621ddd24",
+                    "b838550a-e5c7-40d2-9916-810bbf937395",
+                    "d639bc7b-691b-4e53-9058-a62e104d2138"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "f668c9c5-36cd-47e4-8bc8-f7c1401af953",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9645a847-72b5-4b68-b44d-caa8947b1918",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ce784839-9656-4731-9d6d-89ab5bf52c53",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3efee7e1-dac8-40f8-81c2-9d68c1ed40b7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "559ebe20-fd38-4099-9de5-79ae621ddd24",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b838550a-e5c7-40d2-9916-810bbf937395",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d639bc7b-691b-4e53-9058-a62e104d2138",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "edd67ff7-bbd1-4951-8cb6-936aa2276a57": {
+                "uuid": "edd67ff7-bbd1-4951-8cb6-936aa2276a57",
+                "title": "Bar snacks & Appetizers ",
+                "subtitle": "",
+                "itemUuids": [
+                    "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d",
+                    "146d60f0-5629-45d7-aac1-cc93dc55a369",
+                    "aad8a9ad-5365-4028-9d35-4b9c476dddb3"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "146d60f0-5629-45d7-aac1-cc93dc55a369",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "aad8a9ad-5365-4028-9d35-4b9c476dddb3",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "a6b4698a-5560-483e-8cc9-236eef71fda3": {
+                "uuid": "a6b4698a-5560-483e-8cc9-236eef71fda3",
+                "title": "Гарніри",
+                "subtitle": "",
+                "itemUuids": [
+                    "0980cb85-73dd-4b7f-bf9c-7e667eb7a255",
+                    "c29b3998-89ee-4775-8a86-1ffc6f467611",
+                    "0e70c8a7-9542-44b8-9e60-fa8da2052b70"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "0980cb85-73dd-4b7f-bf9c-7e667eb7a255",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c29b3998-89ee-4775-8a86-1ffc6f467611",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0e70c8a7-9542-44b8-9e60-fa8da2052b70",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "164a74b1-af5f-4f34-ae97-100fb2a575f3": {
+                "uuid": "164a74b1-af5f-4f34-ae97-100fb2a575f3",
+                "title": "Desserts",
+                "subtitle": "",
+                "itemUuids": [
+                    "20a2c02b-2435-4368-a6d7-851a03c3731e",
+                    "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "20a2c02b-2435-4368-a6d7-851a03c3731e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "30df98cd-9420-49d5-b94e-647e64062a56": {
+                "uuid": "30df98cd-9420-49d5-b94e-647e64062a56",
+                "title": "Головні страви",
+                "subtitle": "",
+                "itemUuids": [
+                    "19a1c3db-7b00-4804-afca-9e887a4e4f18",
+                    "cdefd5d7-d903-40f4-aa41-bce19987635c",
+                    "cdd3eb56-6443-4bde-bbac-957748bcc04f"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "19a1c3db-7b00-4804-afca-9e887a4e4f18",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cdefd5d7-d903-40f4-aa41-bce19987635c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cdd3eb56-6443-4bde-bbac-957748bcc04f",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "5f800c34-8391-453f-bcb8-23d14f3e91ba": {
+                "uuid": "5f800c34-8391-453f-bcb8-23d14f3e91ba",
+                "title": "Sides",
+                "subtitle": "",
+                "itemUuids": [
+                    "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3",
+                    "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
+                    "904310dd-ce00-485e-9631-37f203f44dec"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "904310dd-ce00-485e-9631-37f203f44dec",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "487f489b-a24b-4526-82ea-c00b85da764e": {
+                "uuid": "487f489b-a24b-4526-82ea-c00b85da764e",
+                "title": "Main courses",
+                "subtitle": "",
+                "itemUuids": [
+                    "9ff82907-ae14-4e1d-9a13-35ba7ff2db50",
+                    "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3",
+                    "43c446d7-06ec-47a6-a3ec-9d2baf6e4813"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "9ff82907-ae14-4e1d-9a13-35ba7ff2db50",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "43c446d7-06ec-47a6-a3ec-9d2baf6e4813",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "70d52114-c841-40fa-b945-ae9d25d29122": {
+                "uuid": "70d52114-c841-40fa-b945-ae9d25d29122",
+                "title": "Пиво",
+                "itemUuids": [
+                    "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                    "5996b714-6110-44be-b285-cf80253d8194",
+                    "39db5acf-b170-4156-8f7c-509cd482c1ec"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5996b714-6110-44be-b285-cf80253d8194",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "39db5acf-b170-4156-8f7c-509cd482c1ec",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "654d535d-af79-4054-bbac-5f59764198c4": {
+                "uuid": "654d535d-af79-4054-bbac-5f59764198c4",
+                "title": "Beer",
+                "itemUuids": [
+                    "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                    "5996b714-6110-44be-b285-cf80253d8194",
+                    "39db5acf-b170-4156-8f7c-509cd482c1ec"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5996b714-6110-44be-b285-cf80253d8194",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "39db5acf-b170-4156-8f7c-509cd482c1ec",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "ba85967e-1a4b-4327-b03b-7c503cc5a899": {
+                "uuid": "ba85967e-1a4b-4327-b03b-7c503cc5a899",
+                "title": "Десерти",
+                "subtitle": "",
+                "itemUuids": [
+                    "26ee71c6-e33e-4e1c-aa04-3ee190174800",
+                    "ae1c2b1f-511d-44ca-b287-2bbe993694b9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "26ee71c6-e33e-4e1c-aa04-3ee190174800",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ae1c2b1f-511d-44ca-b287-2bbe993694b9",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "25cdcf39-088e-461a-85fb-d181f3e76ba7": {
+                "uuid": "25cdcf39-088e-461a-85fb-d181f3e76ba7",
+                "title": "Salads",
+                "subtitle": "",
+                "itemUuids": [
+                    "c2cba6bd-0623-49b6-99bb-6edaa9d214f8",
+                    "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6",
+                    "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "c2cba6bd-0623-49b6-99bb-6edaa9d214f8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "0f3cf102-da42-422a-8bbd-0d640d770969": {
+                "uuid": "0f3cf102-da42-422a-8bbd-0d640d770969",
+                "title": "Салати",
+                "subtitle": "",
+                "itemUuids": [
+                    "eccd9e5c-7b82-41a7-adcc-e4e19b433f41",
+                    "234c4804-2236-49a0-9b73-db90baf8da38",
+                    "ae003fb4-7c34-466e-af71-2f63239b1d01"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "eccd9e5c-7b82-41a7-adcc-e4e19b433f41",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "234c4804-2236-49a0-9b73-db90baf8da38",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ae003fb4-7c34-466e-af71-2f63239b1d01",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "cb159c15-28b3-4e83-8f70-a8465e647ccb": {
+                "uuid": "cb159c15-28b3-4e83-8f70-a8465e647ccb",
+                "title": "Безалкогольні напої",
+                "subtitle": "",
+                "itemUuids": [
+                    "ec70d6b2-d6ea-4b1a-82d9-c70c897ff0bd",
+                    "340f7395-64d2-48b7-847d-96a7d99ae9f0",
+                    "c2fc697a-31cf-40db-a23c-69f266af71a0"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "ec70d6b2-d6ea-4b1a-82d9-c70c897ff0bd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "340f7395-64d2-48b7-847d-96a7d99ae9f0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c2fc697a-31cf-40db-a23c-69f266af71a0",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "8643adf0-3f34-46d7-ba8d-389f6883449f": {
+                "uuid": "8643adf0-3f34-46d7-ba8d-389f6883449f",
+                "title": "Супи",
+                "subtitle": "",
+                "itemUuids": [
+                    "66bdc3ea-65bc-4d44-b17c-740f1b852822",
+                    "0ab4bcba-d498-4cf1-adde-84548b67143f",
+                    "038220a1-b5f2-41d1-b020-0d3f531452e8",
+                    "6758fb6e-57d1-4815-8e10-9fee81644ac8",
+                    "383648dd-1ef6-4adf-a977-b04a0bed27ec"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "66bdc3ea-65bc-4d44-b17c-740f1b852822",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0ab4bcba-d498-4cf1-adde-84548b67143f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "038220a1-b5f2-41d1-b020-0d3f531452e8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6758fb6e-57d1-4815-8e10-9fee81644ac8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "383648dd-1ef6-4adf-a977-b04a0bed27ec",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "58eba759-a87e-4cf0-a8ea-49a9adf22b29": {
+                "uuid": "58eba759-a87e-4cf0-a8ea-49a9adf22b29",
+                "title": "Non-alcoholic drinks",
+                "subtitle": "",
+                "itemUuids": [
+                    "5c0de42b-369d-4e10-b715-2a960a4f7a33",
+                    "7944aa8e-b80f-456d-8b89-01df59678e02",
+                    "1296a55e-408b-4854-a4ad-6baf576736bc"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "5c0de42b-369d-4e10-b715-2a960a4f7a33",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7944aa8e-b80f-456d-8b89-01df59678e02",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "1296a55e-408b-4854-a4ad-6baf576736bc",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "ba83d1ec-4f4f-42e2-b871-f7a448a97121": {
+                "uuid": "ba83d1ec-4f4f-42e2-b871-f7a448a97121",
+                "title": "Hot Dogs",
+                "subtitle": "",
+                "itemUuids": [
+                    "279807c5-4c83-40d4-9889-7879c30eefe1",
+                    "35cab0f7-3281-4153-9617-64b69843b305",
+                    "a5266044-5a02-4bf7-b221-22ec8a8d84a7",
+                    "4c863c0e-7036-46a4-994c-4fa489a337dd",
+                    "feb30d77-9eb1-4eea-8a95-18367cae87c6",
+                    "8780dae5-ae1c-4490-a02e-4f3e4deea731",
+                    "def26de6-dedc-4e9f-9192-8ee1d1594593"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "279807c5-4c83-40d4-9889-7879c30eefe1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "35cab0f7-3281-4153-9617-64b69843b305",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a5266044-5a02-4bf7-b221-22ec8a8d84a7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "4c863c0e-7036-46a4-994c-4fa489a337dd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "feb30d77-9eb1-4eea-8a95-18367cae87c6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8780dae5-ae1c-4490-a02e-4f3e4deea731",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "def26de6-dedc-4e9f-9192-8ee1d1594593",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "c774a98f-554b-4cbe-9a59-6c4121a23006": {
+                "uuid": "c774a98f-554b-4cbe-9a59-6c4121a23006",
+                "title": "Soups",
+                "subtitle": "",
+                "itemUuids": [
+                    "59c4fea2-325a-452d-ad97-a83a6af782af",
+                    "af24f4f1-9d6a-41f1-803a-a8bb0c8dc4d3",
+                    "8ea264f9-65e2-4f68-9665-3eda0bff7205",
+                    "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5",
+                    "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "59c4fea2-325a-452d-ad97-a83a6af782af",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "af24f4f1-9d6a-41f1-803a-a8bb0c8dc4d3",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8ea264f9-65e2-4f68-9665-3eda0bff7205",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "b16a9bea-9db8-448a-a115-cf3ed6258d87": {
+                "uuid": "b16a9bea-9db8-448a-a115-cf3ed6258d87",
+                "title": "Bar snacks & Appetizers ",
+                "subtitle": "",
+                "itemUuids": [
+                    "2250b968-298e-49f4-914b-b59f77ae566d",
+                    "e6250715-4b86-4c33-8dee-6922ffe53f2a",
+                    "2262af4a-492f-4a18-b714-c59788375dc9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "2250b968-298e-49f4-914b-b59f77ae566d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "e6250715-4b86-4c33-8dee-6922ffe53f2a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2262af4a-492f-4a18-b714-c59788375dc9",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.438354,
+            "longitude": 30.519549,
+            "address": {
+                "address1": "Shota Rustaveli St, 19",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Shota Rustaveli St, 19, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380443530907"
+        },
+        "priceBucket": "₴₴",
+        "slug": "dogs-&-tails",
+        "isOrderable": true,
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/15ba986f-e0ec-4a53-8d85-ac9f24e70a7d",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/facf4464-c079-4b05-8bb5-589218838390",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/9f71e579-35e8-481a-87c8-b67b1a29dff7",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/c5256056-e034-4b79-8402-c17904159f86",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/d454acdb-a4f2-4637-b3bc-01fda0cfa6b6",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(121)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 121 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴₴ • American • European • Street Food</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "25–35 MINS",
+                "textFormat": "<span>25–35 MINS</span>",
+                "accessibilityText": "Delivered in 25 to 35 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 25,
+            "max": 35,
+            "raw": 30
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

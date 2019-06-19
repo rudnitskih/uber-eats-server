@@ -1,0 +1,2252 @@
+{
+    "store": {
+        "uuid": "65eb8bb8-4928-4777-8453-7128181c3bc6",
+        "title": "Urban Space 500",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "Healthy",
+                "name": "Здорова їжа",
+                "keyName": "Healthy"
+            },
+            {
+                "uuid": "ModernEuropean",
+                "name": "Сучасна європейська",
+                "keyName": "ModernEuropean"
+            },
+            {
+                "uuid": "Vegetarian",
+                "name": "Для вегетаріанців",
+                "keyName": "Vegetarian"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "40982530-adfe-4ca6-b9bb-6146d0b566f0",
+                "title": "BREAKFAST MENU (UKR)",
+                "subtitle": "Mon 10:00 AM – 12:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": [
+                    "43e0535d-910c-4394-aa42-482f3ffe41b6"
+                ]
+            },
+            {
+                "uuid": "a9b93f6f-dd98-498f-94ee-297a3eb2a151",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "330a7fe3-5bf3-4436-aa52-67f43fe2aa93",
+                    "1ee45aa2-04f2-42b7-ba05-1cb4cb49f55b",
+                    "d2f6b2f6-df56-4b51-8198-0769c78259de",
+                    "42f15b08-558b-40f2-a12b-3086b9927b27",
+                    "0455607f-fa72-42fd-800a-513e95f5d22b",
+                    "976800a9-7f0f-4c04-ad69-5284021488b1"
+                ]
+            },
+            {
+                "uuid": "5ebd3eb7-26fc-40bf-bda5-1e52b62b80ff",
+                "title": "BREAKFAST MENU (ENG)",
+                "subtitle": "Mon 10:00 AM – 12:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": [
+                    "5d76e0d6-330b-42c9-b0fd-0440414551ce"
+                ]
+            },
+            {
+                "uuid": "cbfdec93-c388-4183-b0ee-c4b644f6dbd9",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "12:00 PM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "c0f49cf8-4c60-454a-9de0-134314d14587",
+                    "f7343c37-e779-4df9-b356-f4d1dcb3215c",
+                    "9b70f251-102f-43b5-a99f-ff8dc660be84",
+                    "b5d93de9-e7d3-4cea-9449-650f20ad2d15"
+                ]
+            },
+            {
+                "uuid": "ffb78cbb-3471-4797-99ad-fa89daccdb02",
+                "title": "ОБІД В ПОНЕДІЛОК \\ ON MONDAY",
+                "subtitle": "Mon 11:40 AM – 4:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": []
+            },
+            {
+                "uuid": "48ffae1f-fdfb-4a29-845a-3c42c2ef20e6",
+                "title": "ОБІД В П'ЯТНИЦЮ \\ ON FRIDAY ",
+                "subtitle": "Fri 11:40 AM – 4:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": []
+            },
+            {
+                "uuid": "5bf3f188-11ee-4966-a173-be0883286f1e",
+                "title": "ОБІД У ВІВТОРОК \\ ON TUESDAY",
+                "subtitle": "Tue 11:40 AM – 4:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": []
+            },
+            {
+                "uuid": "b893a3d2-8fda-46db-bbcf-8973a92f48c4",
+                "title": "ОБІД В СЕРЕДУ \\ ON WEDNESDAY",
+                "subtitle": "Wed 11:40 AM – 4:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": []
+            },
+            {
+                "uuid": "f5af6a85-d9ad-4039-a97e-94fc99131a8c",
+                "title": "ОБІД У ЧЕТВЕР \\ ON THURSDAY",
+                "subtitle": "Thu 11:40 AM – 4:00 PM",
+                "isOnSale": false,
+                "subsectionUuids": []
+            },
+            {
+                "uuid": "fe702fec-479c-4633-825d-e22dc9a6d53d",
+                "title": "Дитяче меню / Children's menu",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "7b61b771-da92-41f9-89f7-522cb06a2c20"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "a9b93f6f-dd98-498f-94ee-297a3eb2a151": {
+                "itemsMap": {
+                    "04277178-31f7-416e-900f-f7f4dc89fd6c": {
+                        "uuid": "04277178-31f7-416e-900f-f7f4dc89fd6c",
+                        "title": "Курка масала з зеленим салатом",
+                        "itemDescription": "350 г.",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5d9a6cf-4025-4ff3-8a29-b74fda6d3d09"
+                    },
+                    "9a1bc392-45ab-4cb5-a268-d92fb35f1d69": {
+                        "uuid": "9a1bc392-45ab-4cb5-a268-d92fb35f1d69",
+                        "title": "Мус з авокадо та бобів едамаме",
+                        "itemDescription": "140 ",
+                        "price": 8500,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "ea0402ca-2a04-43a5-adba-ef5e5d4feffb": {
+                        "uuid": "ea0402ca-2a04-43a5-adba-ef5e5d4feffb",
+                        "title": "Чізкейк з сиром горгонзола ",
+                        "itemDescription": "80 г.",
+                        "price": 7500,
+                        "nutritionalInfo": {}
+                    },
+                    "2f75b254-af3f-4035-b087-e8c2eb7ae836": {
+                        "uuid": "2f75b254-af3f-4035-b087-e8c2eb7ae836",
+                        "title": "Салат з томатів",
+                        "itemDescription": "",
+                        "price": 9500,
+                        "nutritionalInfo": {}
+                    },
+                    "32eba16c-fd01-4c13-ad9c-be502e06c9f8": {
+                        "uuid": "32eba16c-fd01-4c13-ad9c-be502e06c9f8",
+                        "title": "Мус з квасолі з печеним перцем",
+                        "itemDescription": "",
+                        "price": 9000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "cc46c101-e687-4850-98a7-738ee63b6f42": {
+                        "uuid": "cc46c101-e687-4850-98a7-738ee63b6f42",
+                        "title": "Чіа пудінг",
+                        "itemDescription": "180 г.",
+                        "price": 9000,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "880599b1-c06c-47a3-bc9d-7d027acfc6c7": {
+                        "uuid": "880599b1-c06c-47a3-bc9d-7d027acfc6c7",
+                        "title": "Urban брауні ",
+                        "itemDescription": "80 г.",
+                        "price": 7500,
+                        "nutritionalInfo": {}
+                    },
+                    "63c9b205-0609-4dbc-9d8f-db896cb346f9": {
+                        "uuid": "63c9b205-0609-4dbc-9d8f-db896cb346f9",
+                        "title": "Поке боул з тунцем,авокадо та рисом",
+                        "itemDescription": "",
+                        "price": 16500,
+                        "nutritionalInfo": {}
+                    },
+                    "bc093eeb-30f3-4a23-bde9-114a5963f78b": {
+                        "uuid": "bc093eeb-30f3-4a23-bde9-114a5963f78b",
+                        "title": "Хумус з нутом, морквою та шпинатом",
+                        "itemDescription": "250 г.",
+                        "price": 8000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/90b8fbe5-791a-4a16-afcb-23a0937f8630",
+                        "suspendUntil": 8640000000
+                    },
+                    "40ab2477-85aa-4d24-9c85-674c1389c964": {
+                        "uuid": "40ab2477-85aa-4d24-9c85-674c1389c964",
+                        "title": "Салат з куркою та листям ромен",
+                        "itemDescription": "",
+                        "price": 9900,
+                        "nutritionalInfo": {}
+                    },
+                    "c8aca8a6-081b-469a-b4e7-144581e3e5fc": {
+                        "uuid": "c8aca8a6-081b-469a-b4e7-144581e3e5fc",
+                        "title": "Овочевий салат з зеленню",
+                        "itemDescription": "200 g.",
+                        "price": 9500,
+                        "nutritionalInfo": {}
+                    },
+                    "34cc8374-dbe1-4ce4-8d27-d5b5643aa008": {
+                        "uuid": "34cc8374-dbe1-4ce4-8d27-d5b5643aa008",
+                        "title": "Пиво Var Var",
+                        "itemDescription": "",
+                        "price": 7900,
+                        "nutritionalInfo": {},
+                        "rules": "You must be 21 or older"
+                    },
+                    "8aa48d3e-da48-4819-9dee-b6bae8a95302": {
+                        "uuid": "8aa48d3e-da48-4819-9dee-b6bae8a95302",
+                        "title": "Курячий бульйон",
+                        "itemDescription": "",
+                        "price": 5500,
+                        "nutritionalInfo": {}
+                    },
+                    "20275e7b-a54c-406f-88de-cc7cf6246111": {
+                        "uuid": "20275e7b-a54c-406f-88de-cc7cf6246111",
+                        "title": "Сирники з ванільним соусом",
+                        "itemDescription": "",
+                        "price": 9500,
+                        "nutritionalInfo": {}
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "330a7fe3-5bf3-4436-aa52-67f43fe2aa93",
+                        "title": "Популярне",
+                        "itemUuids": [
+                            "04277178-31f7-416e-900f-f7f4dc89fd6c"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "04277178-31f7-416e-900f-f7f4dc89fd6c",
+                                "title": "Курка масала з зеленим салатом",
+                                "itemDescription": "350 г.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5d9a6cf-4025-4ff3-8a29-b74fda6d3d09"
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "1ee45aa2-04f2-42b7-ba05-1cb4cb49f55b",
+                        "title": "Заскуски і салати",
+                        "itemUuids": [
+                            "bc093eeb-30f3-4a23-bde9-114a5963f78b",
+                            "32eba16c-fd01-4c13-ad9c-be502e06c9f8",
+                            "c8aca8a6-081b-469a-b4e7-144581e3e5fc",
+                            "2f75b254-af3f-4035-b087-e8c2eb7ae836",
+                            "40ab2477-85aa-4d24-9c85-674c1389c964",
+                            "9a1bc392-45ab-4cb5-a268-d92fb35f1d69"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "bc093eeb-30f3-4a23-bde9-114a5963f78b",
+                                "title": "Хумус з нутом, морквою та шпинатом",
+                                "itemDescription": "250 г.",
+                                "price": 8000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/90b8fbe5-791a-4a16-afcb-23a0937f8630",
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "32eba16c-fd01-4c13-ad9c-be502e06c9f8",
+                                "title": "Мус з квасолі з печеним перцем",
+                                "itemDescription": "",
+                                "price": 9000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "c8aca8a6-081b-469a-b4e7-144581e3e5fc",
+                                "title": "Овочевий салат з зеленню",
+                                "itemDescription": "200 g.",
+                                "price": 9500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "2f75b254-af3f-4035-b087-e8c2eb7ae836",
+                                "title": "Салат з томатів",
+                                "itemDescription": "",
+                                "price": 9500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "40ab2477-85aa-4d24-9c85-674c1389c964",
+                                "title": "Салат з куркою та листям ромен",
+                                "itemDescription": "",
+                                "price": 9900,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "9a1bc392-45ab-4cb5-a268-d92fb35f1d69",
+                                "title": "Мус з авокадо та бобів едамаме",
+                                "itemDescription": "140 ",
+                                "price": 8500,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "d2f6b2f6-df56-4b51-8198-0769c78259de",
+                        "title": "Основні страви",
+                        "itemUuids": [
+                            "04277178-31f7-416e-900f-f7f4dc89fd6c",
+                            "63c9b205-0609-4dbc-9d8f-db896cb346f9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "04277178-31f7-416e-900f-f7f4dc89fd6c",
+                                "title": "Курка масала з зеленим салатом",
+                                "itemDescription": "350 г.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5d9a6cf-4025-4ff3-8a29-b74fda6d3d09"
+                            },
+                            {
+                                "uuid": "63c9b205-0609-4dbc-9d8f-db896cb346f9",
+                                "title": "Поке боул з тунцем,авокадо та рисом",
+                                "itemDescription": "",
+                                "price": 16500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "42f15b08-558b-40f2-a12b-3086b9927b27",
+                        "title": "Супи",
+                        "itemUuids": [
+                            "8aa48d3e-da48-4819-9dee-b6bae8a95302"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8aa48d3e-da48-4819-9dee-b6bae8a95302",
+                                "title": "Курячий бульйон",
+                                "itemDescription": "",
+                                "price": 5500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "0455607f-fa72-42fd-800a-513e95f5d22b",
+                        "title": "Десерти",
+                        "itemUuids": [
+                            "880599b1-c06c-47a3-bc9d-7d027acfc6c7",
+                            "cc46c101-e687-4850-98a7-738ee63b6f42",
+                            "ea0402ca-2a04-43a5-adba-ef5e5d4feffb",
+                            "20275e7b-a54c-406f-88de-cc7cf6246111"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "880599b1-c06c-47a3-bc9d-7d027acfc6c7",
+                                "title": "Urban брауні ",
+                                "itemDescription": "80 г.",
+                                "price": 7500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "cc46c101-e687-4850-98a7-738ee63b6f42",
+                                "title": "Чіа пудінг",
+                                "itemDescription": "180 г.",
+                                "price": 9000,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "ea0402ca-2a04-43a5-adba-ef5e5d4feffb",
+                                "title": "Чізкейк з сиром горгонзола ",
+                                "itemDescription": "80 г.",
+                                "price": 7500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "20275e7b-a54c-406f-88de-cc7cf6246111",
+                                "title": "Сирники з ванільним соусом",
+                                "itemDescription": "",
+                                "price": 9500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "976800a9-7f0f-4c04-ad69-5284021488b1",
+                        "title": "Пиво",
+                        "itemUuids": [
+                            "34cc8374-dbe1-4ce4-8d27-d5b5643aa008"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "34cc8374-dbe1-4ce4-8d27-d5b5643aa008",
+                                "title": "Пиво Var Var",
+                                "itemDescription": "",
+                                "price": 7900,
+                                "nutritionalInfo": {},
+                                "rules": "You must be 21 or older"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "fe702fec-479c-4633-825d-e22dc9a6d53d": {
+                "itemsMap": {
+                    "5793e62c-990b-4cb1-9f8e-1567d06b4a69": {
+                        "uuid": "5793e62c-990b-4cb1-9f8e-1567d06b4a69",
+                        "title": "Паста з сиром пармезан та вершками",
+                        "itemDescription": "Pasta with parmesan cheese and cream",
+                        "price": 8000,
+                        "nutritionalInfo": {}
+                    },
+                    "8352f11e-e12f-4573-9805-f2d220c43d5d": {
+                        "uuid": "8352f11e-e12f-4573-9805-f2d220c43d5d",
+                        "title": "Вівсяна каша на кокосовому молоці",
+                        "itemDescription": "Oatmeal on coconut milk",
+                        "price": 3500,
+                        "nutritionalInfo": {}
+                    },
+                    "faa6e14a-129a-4bcc-a7f2-eeb34997b0e9": {
+                        "uuid": "faa6e14a-129a-4bcc-a7f2-eeb34997b0e9",
+                        "title": "Картопляне пюре з фрикадельками",
+                        "itemDescription": "Mashed potatoes with meatballs",
+                        "price": 8000,
+                        "nutritionalInfo": {}
+                    },
+                    "98f94048-c075-4824-8486-4648de788840": {
+                        "uuid": "98f94048-c075-4824-8486-4648de788840",
+                        "title": "Курячий бульйон з локшиною ",
+                        "itemDescription": "Chicken broth with noodles",
+                        "price": 4500,
+                        "nutritionalInfo": {}
+                    },
+                    "02623360-1844-4265-a937-668b42c32b0d": {
+                        "uuid": "02623360-1844-4265-a937-668b42c32b0d",
+                        "title": "Дитячі сирники",
+                        "itemDescription": "Baby Sweets",
+                        "price": 4500,
+                        "nutritionalInfo": {}
+                    },
+                    "5917b1f3-aaf0-4ced-a153-a2e074aa8df1": {
+                        "uuid": "5917b1f3-aaf0-4ced-a153-a2e074aa8df1",
+                        "title": "Паста з куркою у вершково-сирному соусі",
+                        "itemDescription": "Chicken Pasta with Cream Cheese Sauce",
+                        "price": 8000,
+                        "nutritionalInfo": {}
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "7b61b771-da92-41f9-89f7-522cb06a2c20",
+                        "title": "Дитяче меню / Children's menu ",
+                        "itemUuids": [
+                            "8352f11e-e12f-4573-9805-f2d220c43d5d",
+                            "faa6e14a-129a-4bcc-a7f2-eeb34997b0e9",
+                            "98f94048-c075-4824-8486-4648de788840",
+                            "02623360-1844-4265-a937-668b42c32b0d",
+                            "5917b1f3-aaf0-4ced-a153-a2e074aa8df1",
+                            "5793e62c-990b-4cb1-9f8e-1567d06b4a69"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "8352f11e-e12f-4573-9805-f2d220c43d5d",
+                                "title": "Вівсяна каша на кокосовому молоці",
+                                "itemDescription": "Oatmeal on coconut milk",
+                                "price": 3500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "faa6e14a-129a-4bcc-a7f2-eeb34997b0e9",
+                                "title": "Картопляне пюре з фрикадельками",
+                                "itemDescription": "Mashed potatoes with meatballs",
+                                "price": 8000,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "98f94048-c075-4824-8486-4648de788840",
+                                "title": "Курячий бульйон з локшиною ",
+                                "itemDescription": "Chicken broth with noodles",
+                                "price": 4500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "02623360-1844-4265-a937-668b42c32b0d",
+                                "title": "Дитячі сирники",
+                                "itemDescription": "Baby Sweets",
+                                "price": 4500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "5917b1f3-aaf0-4ced-a153-a2e074aa8df1",
+                                "title": "Паста з куркою у вершково-сирному соусі",
+                                "itemDescription": "Chicken Pasta with Cream Cheese Sauce",
+                                "price": 8000,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "5793e62c-990b-4cb1-9f8e-1567d06b4a69",
+                                "title": "Паста з сиром пармезан та вершками",
+                                "itemDescription": "Pasta with parmesan cheese and cream",
+                                "price": 8000,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            },
+            "ffb78cbb-3471-4797-99ad-fa89daccdb02": {
+                "decoratedSubsections": []
+            },
+            "5ebd3eb7-26fc-40bf-bda5-1e52b62b80ff": {
+                "itemsMap": {
+                    "c3a8036d-a07d-43a7-b8a5-855e3c596a7b": {
+                        "uuid": "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
+                        "title": "Croissant with confiture and butter",
+                        "itemDescription": "120 g",
+                        "price": 7000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6": {
+                        "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                        "title": "Cottage cheese cakes with vanilla sauce",
+                        "itemDescription": "250 g.",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/88ee6526-0df7-4b1a-ad16-c9cdd2a8fdd8"
+                    },
+                    "48702e86-ddc8-416f-ac13-5c36616247cb": {
+                        "uuid": "48702e86-ddc8-416f-ac13-5c36616247cb",
+                        "title": "Omelette with harissa, and goat cheese",
+                        "itemDescription": "220 g.",
+                        "price": 9500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        },
+                        "customizationUuids": [
+                            "cce16b34-6264-4ae8-891b-667425f91b4c"
+                        ]
+                    },
+                    "5aaf874b-7f05-41a4-9083-672f85f3485e": {
+                        "uuid": "5aaf874b-7f05-41a4-9083-672f85f3485e",
+                        "title": "Toast with avocado and soft boiled  egg",
+                        "itemDescription": "",
+                        "price": 9900,
+                        "nutritionalInfo": {}
+                    },
+                    "a4b0aed0-abee-438f-9020-e13866ad48fd": {
+                        "uuid": "a4b0aed0-abee-438f-9020-e13866ad48fd",
+                        "title": "Smothie bowl with black currant and mango",
+                        "itemDescription": "300 g.",
+                        "price": 13500,
+                        "nutritionalInfo": {}
+                    },
+                    "96013d06-343d-4f59-9e10-2e14931e8eee": {
+                        "uuid": "96013d06-343d-4f59-9e10-2e14931e8eee",
+                        "title": "Toast with avocado, salmon and egg",
+                        "itemDescription": "350 g.",
+                        "price": 14500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        },
+                        "customizationUuids": [
+                            "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+                        ]
+                    },
+                    "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b": {
+                        "uuid": "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
+                        "title": "Omelette with leek, and feta cheese",
+                        "itemDescription": "285 g.",
+                        "price": 9500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        },
+                        "customizationUuids": [
+                            "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+                        ]
+                    },
+                    "6542ebd3-e3a2-4b20-90b8-05c1c84e5836": {
+                        "uuid": "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
+                        "title": "Avocado sandwich with poached egg",
+                        "itemDescription": "350 g.",
+                        "price": 14500,
+                        "customizationUuids": [
+                            "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+                        ]
+                    },
+                    "bbe830a8-b497-42b3-89cb-e65d6d96a506": {
+                        "uuid": "bbe830a8-b497-42b3-89cb-e65d6d96a506",
+                        "title": "Pancakes with bananas and miso caramel",
+                        "itemDescription": "300 g.",
+                        "price": 8500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "98fee506-05f7-4728-be35-701046e54b67": {
+                        "uuid": "98fee506-05f7-4728-be35-701046e54b67",
+                        "title": "Oatmeal with feta and mushrooms",
+                        "itemDescription": "380 g.",
+                        "price": 6900,
+                        "nutritionalInfo": {}
+                    },
+                    "069cd152-7bb4-4a43-a21f-3827bf06d13f": {
+                        "uuid": "069cd152-7bb4-4a43-a21f-3827bf06d13f",
+                        "title": "Granola with fruit, and Greek yogurt",
+                        "itemDescription": "290 g.",
+                        "price": 9900,
+                        "suspendUntil": 8640000000,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "7e096882-f3f4-4d27-bec7-64032d822737": {
+                        "uuid": "7e096882-f3f4-4d27-bec7-64032d822737",
+                        "title": "Oatmeal with caramelized banana",
+                        "itemDescription": "300 g.\n",
+                        "price": 8500
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "5d76e0d6-330b-42c9-b0fd-0440414551ce",
+                        "title": "Breakfasts",
+                        "itemUuids": [
+                            "069cd152-7bb4-4a43-a21f-3827bf06d13f",
+                            "bbe830a8-b497-42b3-89cb-e65d6d96a506",
+                            "7e096882-f3f4-4d27-bec7-64032d822737",
+                            "48702e86-ddc8-416f-ac13-5c36616247cb",
+                            "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
+                            "96013d06-343d-4f59-9e10-2e14931e8eee",
+                            "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
+                            "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
+                            "98fee506-05f7-4728-be35-701046e54b67",
+                            "a4b0aed0-abee-438f-9020-e13866ad48fd",
+                            "5aaf874b-7f05-41a4-9083-672f85f3485e",
+                            "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "069cd152-7bb4-4a43-a21f-3827bf06d13f",
+                                "title": "Granola with fruit, and Greek yogurt",
+                                "itemDescription": "290 g.",
+                                "price": 9900,
+                                "suspendUntil": 8640000000,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "bbe830a8-b497-42b3-89cb-e65d6d96a506",
+                                "title": "Pancakes with bananas and miso caramel",
+                                "itemDescription": "300 g.",
+                                "price": 8500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "7e096882-f3f4-4d27-bec7-64032d822737",
+                                "title": "Oatmeal with caramelized banana",
+                                "itemDescription": "300 g.\n",
+                                "price": 8500
+                            },
+                            {
+                                "uuid": "48702e86-ddc8-416f-ac13-5c36616247cb",
+                                "title": "Omelette with harissa, and goat cheese",
+                                "itemDescription": "220 g.",
+                                "price": 9500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                },
+                                "customizationUuids": [
+                                    "cce16b34-6264-4ae8-891b-667425f91b4c"
+                                ]
+                            },
+                            {
+                                "uuid": "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
+                                "title": "Omelette with leek, and feta cheese",
+                                "itemDescription": "285 g.",
+                                "price": 9500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                },
+                                "customizationUuids": [
+                                    "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+                                ]
+                            },
+                            {
+                                "uuid": "96013d06-343d-4f59-9e10-2e14931e8eee",
+                                "title": "Toast with avocado, salmon and egg",
+                                "itemDescription": "350 g.",
+                                "price": 14500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                },
+                                "customizationUuids": [
+                                    "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+                                ]
+                            },
+                            {
+                                "uuid": "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
+                                "title": "Avocado sandwich with poached egg",
+                                "itemDescription": "350 g.",
+                                "price": 14500,
+                                "customizationUuids": [
+                                    "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+                                ]
+                            },
+                            {
+                                "uuid": "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
+                                "title": "Croissant with confiture and butter",
+                                "itemDescription": "120 g",
+                                "price": 7000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "98fee506-05f7-4728-be35-701046e54b67",
+                                "title": "Oatmeal with feta and mushrooms",
+                                "itemDescription": "380 g.",
+                                "price": 6900,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "a4b0aed0-abee-438f-9020-e13866ad48fd",
+                                "title": "Smothie bowl with black currant and mango",
+                                "itemDescription": "300 g.",
+                                "price": 13500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "5aaf874b-7f05-41a4-9083-672f85f3485e",
+                                "title": "Toast with avocado and soft boiled  egg",
+                                "itemDescription": "",
+                                "price": 9900,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                                "title": "Cottage cheese cakes with vanilla sauce",
+                                "itemDescription": "250 g.",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/88ee6526-0df7-4b1a-ad16-c9cdd2a8fdd8"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "b893a3d2-8fda-46db-bbcf-8973a92f48c4": {
+                "decoratedSubsections": []
+            },
+            "cbfdec93-c388-4183-b0ee-c4b644f6dbd9": {
+                "itemsMap": {
+                    "c6d2bf60-bc45-426a-9881-63e970a41c4d": {
+                        "uuid": "c6d2bf60-bc45-426a-9881-63e970a41c4d",
+                        "title": "Tomato salad",
+                        "itemDescription": "230 g.",
+                        "price": 9500,
+                        "nutritionalInfo": {}
+                    },
+                    "0997d45c-841e-4ef2-aad1-b66a66dd293a": {
+                        "uuid": "0997d45c-841e-4ef2-aad1-b66a66dd293a",
+                        "title": "Edamame avocado mousse",
+                        "itemDescription": "140 g.",
+                        "price": 8500,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "de3ba432-55f9-4ed2-bbe3-5ba2f8092f68": {
+                        "uuid": "de3ba432-55f9-4ed2-bbe3-5ba2f8092f68",
+                        "title": "Chia with coconut milk, and mango",
+                        "itemDescription": "180 g.",
+                        "price": 9000,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Vegetarian",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "8e23e4db-142d-4ed4-9a5c-f8a98ea463f4": {
+                        "uuid": "8e23e4db-142d-4ed4-9a5c-f8a98ea463f4",
+                        "title": "Potato gnocchi with blue cheese sauce",
+                        "itemDescription": "300 g.",
+                        "price": 9900,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "6b803081-e173-459a-ae9e-4b6e59813d6c": {
+                        "uuid": "6b803081-e173-459a-ae9e-4b6e59813d6c",
+                        "title": "Hummus with nut, carrot, and spinach",
+                        "itemDescription": "250 g.",
+                        "price": 8000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/90b8fbe5-791a-4a16-afcb-23a0937f8630",
+                        "suspendUntil": 8640000000
+                    },
+                    "011b06f9-c5a1-4318-9241-8e89908c1107": {
+                        "uuid": "011b06f9-c5a1-4318-9241-8e89908c1107",
+                        "title": "Masala chicken with green salad",
+                        "itemDescription": "Served with green lettuce. 350 g.",
+                        "price": 14900,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a1f2657-a8fd-4295-84ab-fede1eec335d"
+                    },
+                    "ae6569d8-bf54-4153-8fcf-11e2056829a7": {
+                        "uuid": "ae6569d8-bf54-4153-8fcf-11e2056829a7",
+                        "title": "Green vegetable salad",
+                        "itemDescription": "200 g.",
+                        "price": 9500,
+                        "nutritionalInfo": {}
+                    },
+                    "45a6c89d-257e-41cc-88c4-a059f14ff6fa": {
+                        "uuid": "45a6c89d-257e-41cc-88c4-a059f14ff6fa",
+                        "title": "Chichen broth",
+                        "itemDescription": "300 g.",
+                        "price": 5500,
+                        "nutritionalInfo": {}
+                    },
+                    "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6": {
+                        "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                        "title": "Cottage cheese cakes with vanilla sauce",
+                        "itemDescription": "250 g.",
+                        "price": 9500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/88ee6526-0df7-4b1a-ad16-c9cdd2a8fdd8"
+                    },
+                    "3f335cff-6d5f-4256-9b63-0b4eb8995e63": {
+                        "uuid": "3f335cff-6d5f-4256-9b63-0b4eb8995e63",
+                        "title": "Blue Cheese Cheesecake",
+                        "itemDescription": "80 g.",
+                        "price": 7500,
+                        "nutritionalInfo": {}
+                    },
+                    "db9cd8df-6271-48f4-88d9-3edc229ab824": {
+                        "uuid": "db9cd8df-6271-48f4-88d9-3edc229ab824",
+                        "title": "Poke bowl with tuna, rice, and avocado",
+                        "itemDescription": " 350 g.",
+                        "price": 16500,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/48a381b8-590b-454f-9906-b698d6c6b67d"
+                    },
+                    "79dcf41a-f9a9-46d3-9b09-463b4da728e7": {
+                        "uuid": "79dcf41a-f9a9-46d3-9b09-463b4da728e7",
+                        "title": "Mousse of beans with peppers",
+                        "itemDescription": "130 g.",
+                        "price": 9000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "b7e26768-f5a2-4cdd-a9e9-f86dbd68631b": {
+                        "uuid": "b7e26768-f5a2-4cdd-a9e9-f86dbd68631b",
+                        "title": "Salad with chiken and romaine",
+                        "itemDescription": "240 g.",
+                        "price": 9900,
+                        "nutritionalInfo": {}
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "c0f49cf8-4c60-454a-9de0-134314d14587",
+                        "title": "Snacks and salads",
+                        "itemUuids": [
+                            "6b803081-e173-459a-ae9e-4b6e59813d6c",
+                            "0997d45c-841e-4ef2-aad1-b66a66dd293a",
+                            "79dcf41a-f9a9-46d3-9b09-463b4da728e7",
+                            "ae6569d8-bf54-4153-8fcf-11e2056829a7",
+                            "c6d2bf60-bc45-426a-9881-63e970a41c4d",
+                            "b7e26768-f5a2-4cdd-a9e9-f86dbd68631b"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "6b803081-e173-459a-ae9e-4b6e59813d6c",
+                                "title": "Hummus with nut, carrot, and spinach",
+                                "itemDescription": "250 g.",
+                                "price": 8000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/90b8fbe5-791a-4a16-afcb-23a0937f8630",
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "0997d45c-841e-4ef2-aad1-b66a66dd293a",
+                                "title": "Edamame avocado mousse",
+                                "itemDescription": "140 g.",
+                                "price": 8500,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "79dcf41a-f9a9-46d3-9b09-463b4da728e7",
+                                "title": "Mousse of beans with peppers",
+                                "itemDescription": "130 g.",
+                                "price": 9000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "ae6569d8-bf54-4153-8fcf-11e2056829a7",
+                                "title": "Green vegetable salad",
+                                "itemDescription": "200 g.",
+                                "price": 9500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "c6d2bf60-bc45-426a-9881-63e970a41c4d",
+                                "title": "Tomato salad",
+                                "itemDescription": "230 g.",
+                                "price": 9500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "b7e26768-f5a2-4cdd-a9e9-f86dbd68631b",
+                                "title": "Salad with chiken and romaine",
+                                "itemDescription": "240 g.",
+                                "price": 9900,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "f7343c37-e779-4df9-b356-f4d1dcb3215c",
+                        "title": "Main courses",
+                        "itemUuids": [
+                            "db9cd8df-6271-48f4-88d9-3edc229ab824",
+                            "011b06f9-c5a1-4318-9241-8e89908c1107",
+                            "8e23e4db-142d-4ed4-9a5c-f8a98ea463f4"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "db9cd8df-6271-48f4-88d9-3edc229ab824",
+                                "title": "Poke bowl with tuna, rice, and avocado",
+                                "itemDescription": " 350 g.",
+                                "price": 16500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/48a381b8-590b-454f-9906-b698d6c6b67d"
+                            },
+                            {
+                                "uuid": "011b06f9-c5a1-4318-9241-8e89908c1107",
+                                "title": "Masala chicken with green salad",
+                                "itemDescription": "Served with green lettuce. 350 g.",
+                                "price": 14900,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a1f2657-a8fd-4295-84ab-fede1eec335d"
+                            },
+                            {
+                                "uuid": "8e23e4db-142d-4ed4-9a5c-f8a98ea463f4",
+                                "title": "Potato gnocchi with blue cheese sauce",
+                                "itemDescription": "300 g.",
+                                "price": 9900,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "9b70f251-102f-43b5-a99f-ff8dc660be84",
+                        "title": "Soups",
+                        "itemUuids": [
+                            "45a6c89d-257e-41cc-88c4-a059f14ff6fa"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "45a6c89d-257e-41cc-88c4-a059f14ff6fa",
+                                "title": "Chichen broth",
+                                "itemDescription": "300 g.",
+                                "price": 5500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "b5d93de9-e7d3-4cea-9449-650f20ad2d15",
+                        "title": "Desserts",
+                        "itemUuids": [
+                            "de3ba432-55f9-4ed2-bbe3-5ba2f8092f68",
+                            "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                            "3f335cff-6d5f-4256-9b63-0b4eb8995e63"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "de3ba432-55f9-4ed2-bbe3-5ba2f8092f68",
+                                "title": "Chia with coconut milk, and mango",
+                                "itemDescription": "180 g.",
+                                "price": 9000,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Vegetarian",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                                "title": "Cottage cheese cakes with vanilla sauce",
+                                "itemDescription": "250 g.",
+                                "price": 9500,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/88ee6526-0df7-4b1a-ad16-c9cdd2a8fdd8"
+                            },
+                            {
+                                "uuid": "3f335cff-6d5f-4256-9b63-0b4eb8995e63",
+                                "title": "Blue Cheese Cheesecake",
+                                "itemDescription": "80 g.",
+                                "price": 7500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            },
+            "48ffae1f-fdfb-4a29-845a-3c42c2ef20e6": {
+                "decoratedSubsections": []
+            },
+            "40982530-adfe-4ca6-b9bb-6146d0b566f0": {
+                "itemsMap": {
+                    "3b60cf39-3173-4a35-ba1f-0af97357a3e2": {
+                        "uuid": "3b60cf39-3173-4a35-ba1f-0af97357a3e2",
+                        "title": "Тост с гуакамолє, яйцем та бобами",
+                        "itemDescription": "200 г.",
+                        "price": 9900,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        },
+                        "customizationUuids": [
+                            "e2d748c7-246d-4c39-9c24-718124103cf6"
+                        ]
+                    },
+                    "082afe82-b79c-4a54-be94-993117a50802": {
+                        "uuid": "082afe82-b79c-4a54-be94-993117a50802",
+                        "title": "Панкейки з бананами та місо-карамеллю",
+                        "itemDescription": "",
+                        "price": 8500,
+                        "nutritionalInfo": {}
+                    },
+                    "d5677913-43b3-44c8-a2a9-cffdc30cc036": {
+                        "uuid": "d5677913-43b3-44c8-a2a9-cffdc30cc036",
+                        "title": "Круасан з конфітюром та вершковим маслом",
+                        "itemDescription": "",
+                        "price": 7000,
+                        "nutritionalInfo": {},
+                        "suspendUntil": 8640000000
+                    },
+                    "6784636b-e1b1-4889-93d0-c8564912c894": {
+                        "uuid": "6784636b-e1b1-4889-93d0-c8564912c894",
+                        "title": "Вівсяна каша з карамелізованим бананом",
+                        "itemDescription": "300 г.\n",
+                        "price": 8500
+                    },
+                    "c20c147d-9839-4e4c-85cf-3c1506a971ed": {
+                        "uuid": "c20c147d-9839-4e4c-85cf-3c1506a971ed",
+                        "title": "Сендвіч з авокадо та яйцями пашот",
+                        "itemDescription": "",
+                        "price": 14500,
+                        "nutritionalInfo": {}
+                    },
+                    "5e1f3177-39b8-473f-a921-ea9c0b965113": {
+                        "uuid": "5e1f3177-39b8-473f-a921-ea9c0b965113",
+                        "title": "Омлет з пореєм та сиром фета",
+                        "itemDescription": "220 г.",
+                        "price": 9500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        },
+                        "customizationUuids": [
+                            "e2d748c7-246d-4c39-9c24-718124103cf6"
+                        ]
+                    },
+                    "76077c18-fd63-4276-91b0-2681a671b8e6": {
+                        "uuid": "76077c18-fd63-4276-91b0-2681a671b8e6",
+                        "title": "Гранола з фруктами та грецьким йогуртом",
+                        "itemDescription": "280 г.",
+                        "price": 9900,
+                        "suspendUntil": 8640000000,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетеріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        }
+                    },
+                    "ba8dc3f2-ca41-4b1a-8fdf-632b07621ed7": {
+                        "uuid": "ba8dc3f2-ca41-4b1a-8fdf-632b07621ed7",
+                        "title": "Вівсяна каша з фетою та грибами",
+                        "itemDescription": "",
+                        "price": 6900,
+                        "nutritionalInfo": {}
+                    },
+                    "6f07550b-843c-4465-b4ec-0d6ee329ab78": {
+                        "uuid": "6f07550b-843c-4465-b4ec-0d6ee329ab78",
+                        "title": "Смузі боул зі смородини та манго",
+                        "itemDescription": "",
+                        "price": 13500,
+                        "nutritionalInfo": {}
+                    },
+                    "64a7cc37-b83b-4881-b498-31690be513f9": {
+                        "uuid": "64a7cc37-b83b-4881-b498-31690be513f9",
+                        "title": "Омлет з козиним сиром та харісою",
+                        "itemDescription": "220 г.",
+                        "price": 9500,
+                        "endorsement": {
+                            "backgroundColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconColor": {
+                                "alpha": 1,
+                                "color": "59BD5A"
+                            },
+                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                            "text": "Вегетаріанська страва",
+                            "textColor": {
+                                "alpha": 1,
+                                "color": "FFFFFF"
+                            }
+                        },
+                        "customizationUuids": [
+                            "b78313ab-aa3d-4f26-8fb5-289973116c5e"
+                        ]
+                    },
+                    "78389fd3-9faa-4aeb-b565-73a99f8ba525": {
+                        "uuid": "78389fd3-9faa-4aeb-b565-73a99f8ba525",
+                        "title": "Лосось з авокадо та яйцем на тості",
+                        "itemDescription": "",
+                        "price": 14500,
+                        "nutritionalInfo": {}
+                    },
+                    "20275e7b-a54c-406f-88de-cc7cf6246111": {
+                        "uuid": "20275e7b-a54c-406f-88de-cc7cf6246111",
+                        "title": "Сирники з ванільним соусом",
+                        "itemDescription": "",
+                        "price": 9500,
+                        "nutritionalInfo": {}
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "43e0535d-910c-4394-aa42-482f3ffe41b6",
+                        "title": "Сніданки",
+                        "itemUuids": [
+                            "76077c18-fd63-4276-91b0-2681a671b8e6",
+                            "6784636b-e1b1-4889-93d0-c8564912c894",
+                            "64a7cc37-b83b-4881-b498-31690be513f9",
+                            "5e1f3177-39b8-473f-a921-ea9c0b965113",
+                            "3b60cf39-3173-4a35-ba1f-0af97357a3e2",
+                            "d5677913-43b3-44c8-a2a9-cffdc30cc036",
+                            "ba8dc3f2-ca41-4b1a-8fdf-632b07621ed7",
+                            "c20c147d-9839-4e4c-85cf-3c1506a971ed",
+                            "082afe82-b79c-4a54-be94-993117a50802",
+                            "20275e7b-a54c-406f-88de-cc7cf6246111",
+                            "78389fd3-9faa-4aeb-b565-73a99f8ba525",
+                            "6f07550b-843c-4465-b4ec-0d6ee329ab78"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "76077c18-fd63-4276-91b0-2681a671b8e6",
+                                "title": "Гранола з фруктами та грецьким йогуртом",
+                                "itemDescription": "280 г.",
+                                "price": 9900,
+                                "suspendUntil": 8640000000,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетеріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                }
+                            },
+                            {
+                                "uuid": "6784636b-e1b1-4889-93d0-c8564912c894",
+                                "title": "Вівсяна каша з карамелізованим бананом",
+                                "itemDescription": "300 г.\n",
+                                "price": 8500
+                            },
+                            {
+                                "uuid": "64a7cc37-b83b-4881-b498-31690be513f9",
+                                "title": "Омлет з козиним сиром та харісою",
+                                "itemDescription": "220 г.",
+                                "price": 9500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                },
+                                "customizationUuids": [
+                                    "b78313ab-aa3d-4f26-8fb5-289973116c5e"
+                                ]
+                            },
+                            {
+                                "uuid": "5e1f3177-39b8-473f-a921-ea9c0b965113",
+                                "title": "Омлет з пореєм та сиром фета",
+                                "itemDescription": "220 г.",
+                                "price": 9500,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                },
+                                "customizationUuids": [
+                                    "e2d748c7-246d-4c39-9c24-718124103cf6"
+                                ]
+                            },
+                            {
+                                "uuid": "3b60cf39-3173-4a35-ba1f-0af97357a3e2",
+                                "title": "Тост с гуакамолє, яйцем та бобами",
+                                "itemDescription": "200 г.",
+                                "price": 9900,
+                                "endorsement": {
+                                    "backgroundColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconColor": {
+                                        "alpha": 1,
+                                        "color": "59BD5A"
+                                    },
+                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                                    "text": "Вегетаріанська страва",
+                                    "textColor": {
+                                        "alpha": 1,
+                                        "color": "FFFFFF"
+                                    }
+                                },
+                                "customizationUuids": [
+                                    "e2d748c7-246d-4c39-9c24-718124103cf6"
+                                ]
+                            },
+                            {
+                                "uuid": "d5677913-43b3-44c8-a2a9-cffdc30cc036",
+                                "title": "Круасан з конфітюром та вершковим маслом",
+                                "itemDescription": "",
+                                "price": 7000,
+                                "nutritionalInfo": {},
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "ba8dc3f2-ca41-4b1a-8fdf-632b07621ed7",
+                                "title": "Вівсяна каша з фетою та грибами",
+                                "itemDescription": "",
+                                "price": 6900,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "c20c147d-9839-4e4c-85cf-3c1506a971ed",
+                                "title": "Сендвіч з авокадо та яйцями пашот",
+                                "itemDescription": "",
+                                "price": 14500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "082afe82-b79c-4a54-be94-993117a50802",
+                                "title": "Панкейки з бананами та місо-карамеллю",
+                                "itemDescription": "",
+                                "price": 8500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "20275e7b-a54c-406f-88de-cc7cf6246111",
+                                "title": "Сирники з ванільним соусом",
+                                "itemDescription": "",
+                                "price": 9500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "78389fd3-9faa-4aeb-b565-73a99f8ba525",
+                                "title": "Лосось з авокадо та яйцем на тості",
+                                "itemDescription": "",
+                                "price": 14500,
+                                "nutritionalInfo": {}
+                            },
+                            {
+                                "uuid": "6f07550b-843c-4465-b4ec-0d6ee329ab78",
+                                "title": "Смузі боул зі смородини та манго",
+                                "itemDescription": "",
+                                "price": 13500,
+                                "nutritionalInfo": {}
+                            }
+                        ]
+                    }
+                ]
+            },
+            "5bf3f188-11ee-4966-a173-be0883286f1e": {
+                "decoratedSubsections": []
+            },
+            "f5af6a85-d9ad-4039-a97e-94fc99131a8c": {
+                "decoratedSubsections": []
+            }
+        },
+        "subsectionsMap": {
+            "7b61b771-da92-41f9-89f7-522cb06a2c20": {
+                "uuid": "7b61b771-da92-41f9-89f7-522cb06a2c20",
+                "title": "Дитяче меню / Children's menu ",
+                "itemUuids": [
+                    "8352f11e-e12f-4573-9805-f2d220c43d5d",
+                    "faa6e14a-129a-4bcc-a7f2-eeb34997b0e9",
+                    "98f94048-c075-4824-8486-4648de788840",
+                    "02623360-1844-4265-a937-668b42c32b0d",
+                    "5917b1f3-aaf0-4ced-a153-a2e074aa8df1",
+                    "5793e62c-990b-4cb1-9f8e-1567d06b4a69"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8352f11e-e12f-4573-9805-f2d220c43d5d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "faa6e14a-129a-4bcc-a7f2-eeb34997b0e9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "98f94048-c075-4824-8486-4648de788840",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "02623360-1844-4265-a937-668b42c32b0d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5917b1f3-aaf0-4ced-a153-a2e074aa8df1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5793e62c-990b-4cb1-9f8e-1567d06b4a69",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "d2f6b2f6-df56-4b51-8198-0769c78259de": {
+                "uuid": "d2f6b2f6-df56-4b51-8198-0769c78259de",
+                "title": "Основні страви",
+                "itemUuids": [
+                    "04277178-31f7-416e-900f-f7f4dc89fd6c",
+                    "63c9b205-0609-4dbc-9d8f-db896cb346f9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "04277178-31f7-416e-900f-f7f4dc89fd6c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "63c9b205-0609-4dbc-9d8f-db896cb346f9",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "1ee45aa2-04f2-42b7-ba05-1cb4cb49f55b": {
+                "uuid": "1ee45aa2-04f2-42b7-ba05-1cb4cb49f55b",
+                "title": "Заскуски і салати",
+                "itemUuids": [
+                    "bc093eeb-30f3-4a23-bde9-114a5963f78b",
+                    "32eba16c-fd01-4c13-ad9c-be502e06c9f8",
+                    "c8aca8a6-081b-469a-b4e7-144581e3e5fc",
+                    "2f75b254-af3f-4035-b087-e8c2eb7ae836",
+                    "40ab2477-85aa-4d24-9c85-674c1389c964",
+                    "9a1bc392-45ab-4cb5-a268-d92fb35f1d69"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "bc093eeb-30f3-4a23-bde9-114a5963f78b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "32eba16c-fd01-4c13-ad9c-be502e06c9f8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c8aca8a6-081b-469a-b4e7-144581e3e5fc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2f75b254-af3f-4035-b087-e8c2eb7ae836",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "40ab2477-85aa-4d24-9c85-674c1389c964",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "9a1bc392-45ab-4cb5-a268-d92fb35f1d69",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "b5d93de9-e7d3-4cea-9449-650f20ad2d15": {
+                "uuid": "b5d93de9-e7d3-4cea-9449-650f20ad2d15",
+                "title": "Desserts",
+                "itemUuids": [
+                    "de3ba432-55f9-4ed2-bbe3-5ba2f8092f68",
+                    "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                    "3f335cff-6d5f-4256-9b63-0b4eb8995e63"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "de3ba432-55f9-4ed2-bbe3-5ba2f8092f68",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3f335cff-6d5f-4256-9b63-0b4eb8995e63",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "43e0535d-910c-4394-aa42-482f3ffe41b6": {
+                "uuid": "43e0535d-910c-4394-aa42-482f3ffe41b6",
+                "title": "Сніданки",
+                "itemUuids": [
+                    "76077c18-fd63-4276-91b0-2681a671b8e6",
+                    "6784636b-e1b1-4889-93d0-c8564912c894",
+                    "64a7cc37-b83b-4881-b498-31690be513f9",
+                    "5e1f3177-39b8-473f-a921-ea9c0b965113",
+                    "3b60cf39-3173-4a35-ba1f-0af97357a3e2",
+                    "d5677913-43b3-44c8-a2a9-cffdc30cc036",
+                    "ba8dc3f2-ca41-4b1a-8fdf-632b07621ed7",
+                    "c20c147d-9839-4e4c-85cf-3c1506a971ed",
+                    "082afe82-b79c-4a54-be94-993117a50802",
+                    "20275e7b-a54c-406f-88de-cc7cf6246111",
+                    "78389fd3-9faa-4aeb-b565-73a99f8ba525",
+                    "6f07550b-843c-4465-b4ec-0d6ee329ab78"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "76077c18-fd63-4276-91b0-2681a671b8e6",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6784636b-e1b1-4889-93d0-c8564912c894",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "64a7cc37-b83b-4881-b498-31690be513f9",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5e1f3177-39b8-473f-a921-ea9c0b965113",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3b60cf39-3173-4a35-ba1f-0af97357a3e2",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d5677913-43b3-44c8-a2a9-cffdc30cc036",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ba8dc3f2-ca41-4b1a-8fdf-632b07621ed7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c20c147d-9839-4e4c-85cf-3c1506a971ed",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "082afe82-b79c-4a54-be94-993117a50802",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "20275e7b-a54c-406f-88de-cc7cf6246111",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "78389fd3-9faa-4aeb-b565-73a99f8ba525",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6f07550b-843c-4465-b4ec-0d6ee329ab78",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "f7343c37-e779-4df9-b356-f4d1dcb3215c": {
+                "uuid": "f7343c37-e779-4df9-b356-f4d1dcb3215c",
+                "title": "Main courses",
+                "itemUuids": [
+                    "db9cd8df-6271-48f4-88d9-3edc229ab824",
+                    "011b06f9-c5a1-4318-9241-8e89908c1107",
+                    "8e23e4db-142d-4ed4-9a5c-f8a98ea463f4"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "db9cd8df-6271-48f4-88d9-3edc229ab824",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "011b06f9-c5a1-4318-9241-8e89908c1107",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "8e23e4db-142d-4ed4-9a5c-f8a98ea463f4",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "330a7fe3-5bf3-4436-aa52-67f43fe2aa93": {
+                "uuid": "330a7fe3-5bf3-4436-aa52-67f43fe2aa93",
+                "title": "Популярне",
+                "itemUuids": [
+                    "04277178-31f7-416e-900f-f7f4dc89fd6c"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "04277178-31f7-416e-900f-f7f4dc89fd6c",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "42f15b08-558b-40f2-a12b-3086b9927b27": {
+                "uuid": "42f15b08-558b-40f2-a12b-3086b9927b27",
+                "title": "Супи",
+                "itemUuids": [
+                    "8aa48d3e-da48-4819-9dee-b6bae8a95302"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "8aa48d3e-da48-4819-9dee-b6bae8a95302",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "976800a9-7f0f-4c04-ad69-5284021488b1": {
+                "uuid": "976800a9-7f0f-4c04-ad69-5284021488b1",
+                "title": "Пиво",
+                "itemUuids": [
+                    "34cc8374-dbe1-4ce4-8d27-d5b5643aa008"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "34cc8374-dbe1-4ce4-8d27-d5b5643aa008",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "c0f49cf8-4c60-454a-9de0-134314d14587": {
+                "uuid": "c0f49cf8-4c60-454a-9de0-134314d14587",
+                "title": "Snacks and salads",
+                "itemUuids": [
+                    "6b803081-e173-459a-ae9e-4b6e59813d6c",
+                    "0997d45c-841e-4ef2-aad1-b66a66dd293a",
+                    "79dcf41a-f9a9-46d3-9b09-463b4da728e7",
+                    "ae6569d8-bf54-4153-8fcf-11e2056829a7",
+                    "c6d2bf60-bc45-426a-9881-63e970a41c4d",
+                    "b7e26768-f5a2-4cdd-a9e9-f86dbd68631b"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "6b803081-e173-459a-ae9e-4b6e59813d6c",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "0997d45c-841e-4ef2-aad1-b66a66dd293a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "79dcf41a-f9a9-46d3-9b09-463b4da728e7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ae6569d8-bf54-4153-8fcf-11e2056829a7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c6d2bf60-bc45-426a-9881-63e970a41c4d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b7e26768-f5a2-4cdd-a9e9-f86dbd68631b",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "9b70f251-102f-43b5-a99f-ff8dc660be84": {
+                "uuid": "9b70f251-102f-43b5-a99f-ff8dc660be84",
+                "title": "Soups",
+                "itemUuids": [
+                    "45a6c89d-257e-41cc-88c4-a059f14ff6fa"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "45a6c89d-257e-41cc-88c4-a059f14ff6fa",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "5d76e0d6-330b-42c9-b0fd-0440414551ce": {
+                "uuid": "5d76e0d6-330b-42c9-b0fd-0440414551ce",
+                "title": "Breakfasts",
+                "itemUuids": [
+                    "069cd152-7bb4-4a43-a21f-3827bf06d13f",
+                    "bbe830a8-b497-42b3-89cb-e65d6d96a506",
+                    "7e096882-f3f4-4d27-bec7-64032d822737",
+                    "48702e86-ddc8-416f-ac13-5c36616247cb",
+                    "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
+                    "96013d06-343d-4f59-9e10-2e14931e8eee",
+                    "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
+                    "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
+                    "98fee506-05f7-4728-be35-701046e54b67",
+                    "a4b0aed0-abee-438f-9020-e13866ad48fd",
+                    "5aaf874b-7f05-41a4-9083-672f85f3485e",
+                    "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "069cd152-7bb4-4a43-a21f-3827bf06d13f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bbe830a8-b497-42b3-89cb-e65d6d96a506",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7e096882-f3f4-4d27-bec7-64032d822737",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "48702e86-ddc8-416f-ac13-5c36616247cb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "96013d06-343d-4f59-9e10-2e14931e8eee",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "98fee506-05f7-4728-be35-701046e54b67",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "a4b0aed0-abee-438f-9020-e13866ad48fd",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5aaf874b-7f05-41a4-9083-672f85f3485e",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "0455607f-fa72-42fd-800a-513e95f5d22b": {
+                "uuid": "0455607f-fa72-42fd-800a-513e95f5d22b",
+                "title": "Десерти",
+                "itemUuids": [
+                    "880599b1-c06c-47a3-bc9d-7d027acfc6c7",
+                    "cc46c101-e687-4850-98a7-738ee63b6f42",
+                    "ea0402ca-2a04-43a5-adba-ef5e5d4feffb",
+                    "20275e7b-a54c-406f-88de-cc7cf6246111"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "880599b1-c06c-47a3-bc9d-7d027acfc6c7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cc46c101-e687-4850-98a7-738ee63b6f42",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ea0402ca-2a04-43a5-adba-ef5e5d4feffb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "20275e7b-a54c-406f-88de-cc7cf6246111",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.4490952,
+            "longitude": 30.52041839999999,
+            "address": {
+                "address1": "Borysa Hrinchenka St, 9",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Borysa Hrinchenka St, 9, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380631618400"
+        },
+        "priceBucket": "₴₴",
+        "slug": "urban-space-500",
+        "isOrderable": true,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/a9b9d0e8-3f88-4806-a3f4-6f16714863e5",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/4bd1dbfd-adac-42a3-b272-8b07a5e18b55",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/9afc2d23-3870-44f1-8c37-04fb9b44c8c8",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/08df95f4-39b4-49d8-bad9-481c24cc1065",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.8 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(100)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.8 out of 5 stars based on 100 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴₴ • Healthy • Modern European • Vegetarian</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "35–45 MINS",
+                "textFormat": "<span>35–45 MINS</span>",
+                "accessibilityText": "Delivered in 35 to 45 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 35,
+            "max": 45,
+            "raw": 40
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Sunday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 840,
+                            "title": "BREAKFAST MENU (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 840,
+                            "title": "BREAKFAST MENU (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "Дитяче меню / Children's menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Monday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 700,
+                            "endTime": 960,
+                            "title": "ОБІД В ПОНЕДІЛОК \\ ON MONDAY"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "Дитяче меню / Children's menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Tuesday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 700,
+                            "endTime": 960,
+                            "title": "ОБІД У ВІВТОРОК \\ ON TUESDAY"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "Дитяче меню / Children's menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Wednesday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 700,
+                            "endTime": 960,
+                            "title": "ОБІД В СЕРЕДУ \\ ON WEDNESDAY"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "Дитяче меню / Children's menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Thursday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 700,
+                            "endTime": 960,
+                            "title": "ОБІД У ЧЕТВЕР \\ ON THURSDAY"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "Дитяче меню / Children's menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Friday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 720,
+                            "title": "BREAKFAST MENU (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 700,
+                            "endTime": 960,
+                            "title": "ОБІД В П'ЯТНИЦЮ \\ ON FRIDAY "
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "Дитяче меню / Children's menu"
+                        }
+                    ]
+                },
+                {
+                    "dayRange": "Saturday",
+                    "sectionHours": [
+                        {
+                            "startTime": 600,
+                            "endTime": 840,
+                            "title": "BREAKFAST MENU (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 840,
+                            "title": "BREAKFAST MENU (ENG)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1320,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        },
+                        {
+                            "startTime": 600,
+                            "endTime": 1320,
+                            "title": "Дитяче меню / Children's menu"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}

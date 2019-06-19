@@ -1,0 +1,1379 @@
+{
+    "store": {
+        "uuid": "3e4d17c9-e135-425f-ad14-c5a31d8fc5c0",
+        "title": "П.Пельмені",
+        "regionId": 943,
+        "categories": [
+            {
+                "uuid": "EasternEuropean",
+                "name": "Східноєвропейська",
+                "keyName": "EasternEuropean"
+            },
+            {
+                "uuid": "Ukrainian",
+                "name": "Українська",
+                "keyName": "Ukrainian"
+            },
+            {
+                "uuid": "ComfortFood",
+                "name": "Традиційна їжа",
+                "keyName": "ComfortFood"
+            }
+        ],
+        "sections": [
+            {
+                "uuid": "a00ae2f8-ee11-4b39-8a5f-e1b7bb3070be",
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "12:00 PM – 8:20 PM",
+                "isTop": true,
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "622551ca-94fa-4e2c-aa04-0a870c2b8acd",
+                    "6a595493-3868-4e60-a85b-2e7273d924dd"
+                ]
+            },
+            {
+                "uuid": "fe374018-0fb3-45ae-bc14-1787223aa7fa",
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "12:00 PM – 8:20 PM",
+                "isOnSale": true,
+                "subsectionUuids": [
+                    "ccc41848-dbe9-4eb7-ab3b-b7b97e979842",
+                    "23830dea-f342-41ed-b924-2a673ae65e89"
+                ]
+            }
+        ],
+        "sectionEntitiesMap": {
+            "a00ae2f8-ee11-4b39-8a5f-e1b7bb3070be": {
+                "itemsMap": {
+                    "055063f8-ee1b-4612-8749-ff5705e19650": {
+                        "uuid": "055063f8-ee1b-4612-8749-ff5705e19650",
+                        "title": "Fuzetea limone",
+                        "itemDescription": "0.5",
+                        "price": 3500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "512f52bc-d567-4744-86af-c66cfd9effe8": {
+                        "uuid": "512f52bc-d567-4744-86af-c66cfd9effe8",
+                        "title": "Яловичина",
+                        "itemDescription": "200г.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbed73da-b0ed-436f-8568-f375c2a48d1f",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "5df49624-5f47-420d-8eb4-21f454bb197a": {
+                        "uuid": "5df49624-5f47-420d-8eb4-21f454bb197a",
+                        "title": "Sprite",
+                        "itemDescription": "0.33",
+                        "price": 2500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "2911088c-71f3-4173-800b-595c10d9e7e0": {
+                        "uuid": "2911088c-71f3-4173-800b-595c10d9e7e0",
+                        "title": "Творог",
+                        "itemDescription": "200г.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/08a4bf6f-4519-46d9-a304-61b9fcf0bbec",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "ff7868a4-229e-4f1a-a7db-ba83b5f0122f"
+                        ]
+                    },
+                    "56a89594-6593-47cf-82ee-4c83d866649d": {
+                        "uuid": "56a89594-6593-47cf-82ee-4c83d866649d",
+                        "title": "BonAqua б/г",
+                        "itemDescription": "0.5",
+                        "price": 3000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "5b2b686c-3208-467c-a926-a08c404ce7cb": {
+                        "uuid": "5b2b686c-3208-467c-a926-a08c404ce7cb",
+                        "title": "Green",
+                        "itemDescription": "Рікотта + грано-падано + шпинат + базилік, автоматически входит соус Green (200г).",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef86165-ef4a-42bd-8cc2-f524e82c0c9f",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "db4a64b5-4e6b-4a9e-b58a-8dc819264ef4": {
+                        "uuid": "db4a64b5-4e6b-4a9e-b58a-8dc819264ef4",
+                        "title": "MIX (4 сира + лосось)",
+                        "itemDescription": "200г.",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8f88c34-2966-4e9a-94b1-eab06c01ba69",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "b7865e80-ab47-4968-b8d2-084de81a419f": {
+                        "uuid": "b7865e80-ab47-4968-b8d2-084de81a419f",
+                        "title": "Dr.Pepper",
+                        "itemDescription": "0.33",
+                        "price": 5000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "46baef98-d8fd-4e94-b250-09078116bb37": {
+                        "uuid": "46baef98-d8fd-4e94-b250-09078116bb37",
+                        "title": "Томатний сік",
+                        "itemDescription": "500мл.",
+                        "price": 3500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "167dc30f-5f6e-428e-9e66-fb67b6a36fcc": {
+                        "uuid": "167dc30f-5f6e-428e-9e66-fb67b6a36fcc",
+                        "title": "Fuzetea peach",
+                        "itemDescription": "0.5",
+                        "price": 3500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "bd665de9-d341-4ca0-abec-67ee7de6494f": {
+                        "uuid": "bd665de9-d341-4ca0-abec-67ee7de6494f",
+                        "title": "Coca cola zero",
+                        "itemDescription": "0.33",
+                        "price": 2500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "39dfd1e8-92cd-49f2-a515-b9e160343af8": {
+                        "uuid": "39dfd1e8-92cd-49f2-a515-b9e160343af8",
+                        "title": "Курка",
+                        "itemDescription": "200г.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3bca65ef-4f96-469f-b997-d64f082ceb2b",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "cf07e0d2-3ab7-43ff-90c3-a972e30b3d0f": {
+                        "uuid": "cf07e0d2-3ab7-43ff-90c3-a972e30b3d0f",
+                        "title": "Coca Cola zero vanilla",
+                        "itemDescription": "0.33",
+                        "price": 2500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "30451810-47c1-4c29-a9f7-877dc5e2bfa0": {
+                        "uuid": "30451810-47c1-4c29-a9f7-877dc5e2bfa0",
+                        "title": "Dr.Pepper cherry",
+                        "itemDescription": "0.33",
+                        "price": 5000,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000
+                    },
+                    "31062a1f-8248-4d9b-8f14-43e4c1b568dc": {
+                        "uuid": "31062a1f-8248-4d9b-8f14-43e4c1b568dc",
+                        "title": "Black (Лосось)",
+                        "itemDescription": "200г.",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/35b8ebcc-ec25-43af-9d34-67c0afe05f0f",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "b888cc4b-b294-496f-a4cd-070854256609": {
+                        "uuid": "b888cc4b-b294-496f-a4cd-070854256609",
+                        "title": "Fanta shokata",
+                        "itemDescription": "0.33",
+                        "price": 2500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "84ed6873-e65e-4fd1-a353-ceb9d99e4de0": {
+                        "uuid": "84ed6873-e65e-4fd1-a353-ceb9d99e4de0",
+                        "title": "Картопля",
+                        "itemDescription": "200г.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/03ff92bf-eb1e-42f5-88dc-02dc490917a5",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "10590222-0b81-4ccf-bc00-06361190129b": {
+                        "uuid": "10590222-0b81-4ccf-bc00-06361190129b",
+                        "title": "Coca Cola",
+                        "itemDescription": "0.33",
+                        "price": 2500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "98673321-ef17-42ae-a99f-5a0584b0e040": {
+                        "uuid": "98673321-ef17-42ae-a99f-5a0584b0e040",
+                        "title": "Індичка",
+                        "itemDescription": "200г.",
+                        "price": 10000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7606354a-8234-4991-8e55-302710129cf7",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "cc1c1c19-da66-44b2-ae98-4c8fc2057db5": {
+                        "uuid": "cc1c1c19-da66-44b2-ae98-4c8fc2057db5",
+                        "title": "Yellow (4 сира)",
+                        "itemDescription": "200г.",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0d4cb31-e51b-436f-aa0a-6ca75637c625",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "4968efda-0055-464f-a461-fe1c6b3c5aff": {
+                        "uuid": "4968efda-0055-464f-a461-fe1c6b3c5aff",
+                        "title": "Фірмові",
+                        "itemDescription": "Свинина + яловичина (200г).",
+                        "price": 10000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cabe0e67-9037-4142-b27d-eed3cec413f7",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                        ]
+                    },
+                    "918e9def-8622-4c4e-ad32-d7ba06f2bb10": {
+                        "uuid": "918e9def-8622-4c4e-ad32-d7ba06f2bb10",
+                        "title": "Fanta",
+                        "itemDescription": "0.33",
+                        "price": 2500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "622551ca-94fa-4e2c-aa04-0a870c2b8acd",
+                        "title": "Пельмені",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "4968efda-0055-464f-a461-fe1c6b3c5aff",
+                            "5b2b686c-3208-467c-a926-a08c404ce7cb",
+                            "512f52bc-d567-4744-86af-c66cfd9effe8",
+                            "39dfd1e8-92cd-49f2-a515-b9e160343af8",
+                            "84ed6873-e65e-4fd1-a353-ceb9d99e4de0",
+                            "2911088c-71f3-4173-800b-595c10d9e7e0",
+                            "cc1c1c19-da66-44b2-ae98-4c8fc2057db5",
+                            "31062a1f-8248-4d9b-8f14-43e4c1b568dc",
+                            "db4a64b5-4e6b-4a9e-b58a-8dc819264ef4",
+                            "98673321-ef17-42ae-a99f-5a0584b0e040"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "4968efda-0055-464f-a461-fe1c6b3c5aff",
+                                "title": "Фірмові",
+                                "itemDescription": "Свинина + яловичина (200г).",
+                                "price": 10000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cabe0e67-9037-4142-b27d-eed3cec413f7",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "5b2b686c-3208-467c-a926-a08c404ce7cb",
+                                "title": "Green",
+                                "itemDescription": "Рікотта + грано-падано + шпинат + базилік, автоматически входит соус Green (200г).",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef86165-ef4a-42bd-8cc2-f524e82c0c9f",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "512f52bc-d567-4744-86af-c66cfd9effe8",
+                                "title": "Яловичина",
+                                "itemDescription": "200г.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbed73da-b0ed-436f-8568-f375c2a48d1f",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "39dfd1e8-92cd-49f2-a515-b9e160343af8",
+                                "title": "Курка",
+                                "itemDescription": "200г.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3bca65ef-4f96-469f-b997-d64f082ceb2b",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "84ed6873-e65e-4fd1-a353-ceb9d99e4de0",
+                                "title": "Картопля",
+                                "itemDescription": "200г.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/03ff92bf-eb1e-42f5-88dc-02dc490917a5",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "2911088c-71f3-4173-800b-595c10d9e7e0",
+                                "title": "Творог",
+                                "itemDescription": "200г.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/08a4bf6f-4519-46d9-a304-61b9fcf0bbec",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "ff7868a4-229e-4f1a-a7db-ba83b5f0122f"
+                                ]
+                            },
+                            {
+                                "uuid": "cc1c1c19-da66-44b2-ae98-4c8fc2057db5",
+                                "title": "Yellow (4 сира)",
+                                "itemDescription": "200г.",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0d4cb31-e51b-436f-aa0a-6ca75637c625",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "31062a1f-8248-4d9b-8f14-43e4c1b568dc",
+                                "title": "Black (Лосось)",
+                                "itemDescription": "200г.",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/35b8ebcc-ec25-43af-9d34-67c0afe05f0f",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "db4a64b5-4e6b-4a9e-b58a-8dc819264ef4",
+                                "title": "MIX (4 сира + лосось)",
+                                "itemDescription": "200г.",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8f88c34-2966-4e9a-94b1-eab06c01ba69",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            },
+                            {
+                                "uuid": "98673321-ef17-42ae-a99f-5a0584b0e040",
+                                "title": "Індичка",
+                                "itemDescription": "200г.",
+                                "price": 10000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7606354a-8234-4991-8e55-302710129cf7",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "f14f1053-5d62-4cfb-a348-8b347f0ea7e2"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "6a595493-3868-4e60-a85b-2e7273d924dd",
+                        "title": "Напої",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "46baef98-d8fd-4e94-b250-09078116bb37",
+                            "10590222-0b81-4ccf-bc00-06361190129b",
+                            "cf07e0d2-3ab7-43ff-90c3-a972e30b3d0f",
+                            "bd665de9-d341-4ca0-abec-67ee7de6494f",
+                            "918e9def-8622-4c4e-ad32-d7ba06f2bb10",
+                            "b888cc4b-b294-496f-a4cd-070854256609",
+                            "5df49624-5f47-420d-8eb4-21f454bb197a",
+                            "055063f8-ee1b-4612-8749-ff5705e19650",
+                            "167dc30f-5f6e-428e-9e66-fb67b6a36fcc",
+                            "56a89594-6593-47cf-82ee-4c83d866649d",
+                            "b7865e80-ab47-4968-b8d2-084de81a419f",
+                            "30451810-47c1-4c29-a9f7-877dc5e2bfa0"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "46baef98-d8fd-4e94-b250-09078116bb37",
+                                "title": "Томатний сік",
+                                "itemDescription": "500мл.",
+                                "price": 3500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "10590222-0b81-4ccf-bc00-06361190129b",
+                                "title": "Coca Cola",
+                                "itemDescription": "0.33",
+                                "price": 2500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "cf07e0d2-3ab7-43ff-90c3-a972e30b3d0f",
+                                "title": "Coca Cola zero vanilla",
+                                "itemDescription": "0.33",
+                                "price": 2500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "bd665de9-d341-4ca0-abec-67ee7de6494f",
+                                "title": "Coca cola zero",
+                                "itemDescription": "0.33",
+                                "price": 2500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "918e9def-8622-4c4e-ad32-d7ba06f2bb10",
+                                "title": "Fanta",
+                                "itemDescription": "0.33",
+                                "price": 2500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "b888cc4b-b294-496f-a4cd-070854256609",
+                                "title": "Fanta shokata",
+                                "itemDescription": "0.33",
+                                "price": 2500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "5df49624-5f47-420d-8eb4-21f454bb197a",
+                                "title": "Sprite",
+                                "itemDescription": "0.33",
+                                "price": 2500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "055063f8-ee1b-4612-8749-ff5705e19650",
+                                "title": "Fuzetea limone",
+                                "itemDescription": "0.5",
+                                "price": 3500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "167dc30f-5f6e-428e-9e66-fb67b6a36fcc",
+                                "title": "Fuzetea peach",
+                                "itemDescription": "0.5",
+                                "price": 3500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "56a89594-6593-47cf-82ee-4c83d866649d",
+                                "title": "BonAqua б/г",
+                                "itemDescription": "0.5",
+                                "price": 3000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            },
+                            {
+                                "uuid": "b7865e80-ab47-4968-b8d2-084de81a419f",
+                                "title": "Dr.Pepper",
+                                "itemDescription": "0.33",
+                                "price": 5000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            },
+                            {
+                                "uuid": "30451810-47c1-4c29-a9f7-877dc5e2bfa0",
+                                "title": "Dr.Pepper cherry",
+                                "itemDescription": "0.33",
+                                "price": 5000,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000
+                            }
+                        ]
+                    }
+                ]
+            },
+            "fe374018-0fb3-45ae-bc14-1787223aa7fa": {
+                "itemsMap": {
+                    "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51": {
+                        "uuid": "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51",
+                        "title": "Tomato Juice",
+                        "itemDescription": "500ml.",
+                        "price": 3500,
+                        "imageUrl": "",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        }
+                    },
+                    "44abf0dd-45d5-4800-99ec-a36eb0be1742": {
+                        "uuid": "44abf0dd-45d5-4800-99ec-a36eb0be1742",
+                        "title": "Brand",
+                        "itemDescription": "Pork + beef (200g).",
+                        "price": 10000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad5e2ca8-f858-4bdf-a3bf-8fb77d5d1845",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "7cdb7a2d-8650-4923-9825-e5a589a77f55": {
+                        "uuid": "7cdb7a2d-8650-4923-9825-e5a589a77f55",
+                        "title": "Black (Salmon)",
+                        "itemDescription": "200g.",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/144f39b6-8102-4471-af10-0fe2a2991a24",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9": {
+                        "uuid": "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9",
+                        "title": "Turkey",
+                        "itemDescription": "200g.",
+                        "price": 10000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7606354a-8234-4991-8e55-302710129cf7",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "ad5a068f-29ad-447c-b498-d66791d2f9a0": {
+                        "uuid": "ad5a068f-29ad-447c-b498-d66791d2f9a0",
+                        "title": "Yellow (4 cheeses)",
+                        "itemDescription": "200g.",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0d4cb31-e51b-436f-aa0a-6ca75637c625",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "2c11900f-f410-4021-a1b5-12b8d1f0563f": {
+                        "uuid": "2c11900f-f410-4021-a1b5-12b8d1f0563f",
+                        "title": "Green",
+                        "itemDescription": "Ricotta + Gran Padano + spinach basil + sauce Green (200g).",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef86165-ef4a-42bd-8cc2-f524e82c0c9f",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "5114f919-6079-4b0d-ab00-701f0d8ad2b1": {
+                        "uuid": "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
+                        "title": "Chicken",
+                        "itemDescription": "200g.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9edec36c-4b73-4912-bc15-797730b5bd08",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "b9621c44-2b6c-45d0-be48-d6df3e18f4cc": {
+                        "uuid": "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
+                        "title": "Potato",
+                        "itemDescription": "200g.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6d25141-4b86-4d7d-b9fc-4e24574259d3",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "cb328199-4733-44d2-a56a-af2ebd368f9f": {
+                        "uuid": "cb328199-4733-44d2-a56a-af2ebd368f9f",
+                        "title": "Cottage cheese",
+                        "itemDescription": "200g.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/08a4bf6f-4519-46d9-a304-61b9fcf0bbec",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "6289665f-9cc2-4015-85b2-4e24f53e1839"
+                        ]
+                    },
+                    "60cc94fa-0642-4bc8-b359-a66311c7d38d": {
+                        "uuid": "60cc94fa-0642-4bc8-b359-a66311c7d38d",
+                        "title": "Beef",
+                        "itemDescription": "200g.",
+                        "price": 9000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef6462a5-3a61-4b6e-8e6e-1c9cffb13661",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    },
+                    "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7": {
+                        "uuid": "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
+                        "title": "MIX (4 cheeses + salmon)",
+                        "itemDescription": "200g.",
+                        "price": 12000,
+                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8f88c34-2966-4e9a-94b1-eab06c01ba69",
+                        "nutritionalInfo": {
+                            "allergens": [
+                                ""
+                            ]
+                        },
+                        "suspendUntil": 8640000000,
+                        "customizationUuids": [
+                            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                        ]
+                    }
+                },
+                "decoratedSubsections": [
+                    {
+                        "uuid": "ccc41848-dbe9-4eb7-ab3b-b7b97e979842",
+                        "title": "Pelmeni",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "44abf0dd-45d5-4800-99ec-a36eb0be1742",
+                            "2c11900f-f410-4021-a1b5-12b8d1f0563f",
+                            "60cc94fa-0642-4bc8-b359-a66311c7d38d",
+                            "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
+                            "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
+                            "cb328199-4733-44d2-a56a-af2ebd368f9f",
+                            "ad5a068f-29ad-447c-b498-d66791d2f9a0",
+                            "7cdb7a2d-8650-4923-9825-e5a589a77f55",
+                            "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
+                            "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "44abf0dd-45d5-4800-99ec-a36eb0be1742",
+                                "title": "Brand",
+                                "itemDescription": "Pork + beef (200g).",
+                                "price": 10000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad5e2ca8-f858-4bdf-a3bf-8fb77d5d1845",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "2c11900f-f410-4021-a1b5-12b8d1f0563f",
+                                "title": "Green",
+                                "itemDescription": "Ricotta + Gran Padano + spinach basil + sauce Green (200g).",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef86165-ef4a-42bd-8cc2-f524e82c0c9f",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "60cc94fa-0642-4bc8-b359-a66311c7d38d",
+                                "title": "Beef",
+                                "itemDescription": "200g.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef6462a5-3a61-4b6e-8e6e-1c9cffb13661",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
+                                "title": "Chicken",
+                                "itemDescription": "200g.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9edec36c-4b73-4912-bc15-797730b5bd08",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
+                                "title": "Potato",
+                                "itemDescription": "200g.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6d25141-4b86-4d7d-b9fc-4e24574259d3",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "cb328199-4733-44d2-a56a-af2ebd368f9f",
+                                "title": "Cottage cheese",
+                                "itemDescription": "200g.",
+                                "price": 9000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/08a4bf6f-4519-46d9-a304-61b9fcf0bbec",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "6289665f-9cc2-4015-85b2-4e24f53e1839"
+                                ]
+                            },
+                            {
+                                "uuid": "ad5a068f-29ad-447c-b498-d66791d2f9a0",
+                                "title": "Yellow (4 cheeses)",
+                                "itemDescription": "200g.",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0d4cb31-e51b-436f-aa0a-6ca75637c625",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "7cdb7a2d-8650-4923-9825-e5a589a77f55",
+                                "title": "Black (Salmon)",
+                                "itemDescription": "200g.",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/144f39b6-8102-4471-af10-0fe2a2991a24",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
+                                "title": "MIX (4 cheeses + salmon)",
+                                "itemDescription": "200g.",
+                                "price": 12000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8f88c34-2966-4e9a-94b1-eab06c01ba69",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            },
+                            {
+                                "uuid": "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9",
+                                "title": "Turkey",
+                                "itemDescription": "200g.",
+                                "price": 10000,
+                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7606354a-8234-4991-8e55-302710129cf7",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                },
+                                "suspendUntil": 8640000000,
+                                "customizationUuids": [
+                                    "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "uuid": "23830dea-f342-41ed-b924-2a673ae65e89",
+                        "title": "Beverages",
+                        "subtitle": "",
+                        "itemUuids": [
+                            "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51"
+                        ],
+                        "displayItems": [
+                            {
+                                "uuid": "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51",
+                                "title": "Tomato Juice",
+                                "itemDescription": "500ml.",
+                                "price": 3500,
+                                "imageUrl": "",
+                                "nutritionalInfo": {
+                                    "allergens": [
+                                        ""
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "subsectionsMap": {
+            "ccc41848-dbe9-4eb7-ab3b-b7b97e979842": {
+                "uuid": "ccc41848-dbe9-4eb7-ab3b-b7b97e979842",
+                "title": "Pelmeni",
+                "subtitle": "",
+                "itemUuids": [
+                    "44abf0dd-45d5-4800-99ec-a36eb0be1742",
+                    "2c11900f-f410-4021-a1b5-12b8d1f0563f",
+                    "60cc94fa-0642-4bc8-b359-a66311c7d38d",
+                    "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
+                    "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
+                    "cb328199-4733-44d2-a56a-af2ebd368f9f",
+                    "ad5a068f-29ad-447c-b498-d66791d2f9a0",
+                    "7cdb7a2d-8650-4923-9825-e5a589a77f55",
+                    "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
+                    "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "44abf0dd-45d5-4800-99ec-a36eb0be1742",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2c11900f-f410-4021-a1b5-12b8d1f0563f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "60cc94fa-0642-4bc8-b359-a66311c7d38d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cb328199-4733-44d2-a56a-af2ebd368f9f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "ad5a068f-29ad-447c-b498-d66791d2f9a0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "7cdb7a2d-8650-4923-9825-e5a589a77f55",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "23830dea-f342-41ed-b924-2a673ae65e89": {
+                "uuid": "23830dea-f342-41ed-b924-2a673ae65e89",
+                "title": "Beverages",
+                "subtitle": "",
+                "itemUuids": [
+                    "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "622551ca-94fa-4e2c-aa04-0a870c2b8acd": {
+                "uuid": "622551ca-94fa-4e2c-aa04-0a870c2b8acd",
+                "title": "Пельмені",
+                "subtitle": "",
+                "itemUuids": [
+                    "4968efda-0055-464f-a461-fe1c6b3c5aff",
+                    "5b2b686c-3208-467c-a926-a08c404ce7cb",
+                    "512f52bc-d567-4744-86af-c66cfd9effe8",
+                    "39dfd1e8-92cd-49f2-a515-b9e160343af8",
+                    "84ed6873-e65e-4fd1-a353-ceb9d99e4de0",
+                    "2911088c-71f3-4173-800b-595c10d9e7e0",
+                    "cc1c1c19-da66-44b2-ae98-4c8fc2057db5",
+                    "31062a1f-8248-4d9b-8f14-43e4c1b568dc",
+                    "db4a64b5-4e6b-4a9e-b58a-8dc819264ef4",
+                    "98673321-ef17-42ae-a99f-5a0584b0e040"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "4968efda-0055-464f-a461-fe1c6b3c5aff",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5b2b686c-3208-467c-a926-a08c404ce7cb",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "512f52bc-d567-4744-86af-c66cfd9effe8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "39dfd1e8-92cd-49f2-a515-b9e160343af8",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "84ed6873-e65e-4fd1-a353-ceb9d99e4de0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "2911088c-71f3-4173-800b-595c10d9e7e0",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cc1c1c19-da66-44b2-ae98-4c8fc2057db5",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "31062a1f-8248-4d9b-8f14-43e4c1b568dc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "db4a64b5-4e6b-4a9e-b58a-8dc819264ef4",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "98673321-ef17-42ae-a99f-5a0584b0e040",
+                        "type": "ITEM"
+                    }
+                ]
+            },
+            "6a595493-3868-4e60-a85b-2e7273d924dd": {
+                "uuid": "6a595493-3868-4e60-a85b-2e7273d924dd",
+                "title": "Напої",
+                "subtitle": "",
+                "itemUuids": [
+                    "46baef98-d8fd-4e94-b250-09078116bb37",
+                    "10590222-0b81-4ccf-bc00-06361190129b",
+                    "cf07e0d2-3ab7-43ff-90c3-a972e30b3d0f",
+                    "bd665de9-d341-4ca0-abec-67ee7de6494f",
+                    "918e9def-8622-4c4e-ad32-d7ba06f2bb10",
+                    "b888cc4b-b294-496f-a4cd-070854256609",
+                    "5df49624-5f47-420d-8eb4-21f454bb197a",
+                    "055063f8-ee1b-4612-8749-ff5705e19650",
+                    "167dc30f-5f6e-428e-9e66-fb67b6a36fcc",
+                    "56a89594-6593-47cf-82ee-4c83d866649d",
+                    "b7865e80-ab47-4968-b8d2-084de81a419f",
+                    "30451810-47c1-4c29-a9f7-877dc5e2bfa0"
+                ],
+                "displayItems": [
+                    {
+                        "uuid": "46baef98-d8fd-4e94-b250-09078116bb37",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "10590222-0b81-4ccf-bc00-06361190129b",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "cf07e0d2-3ab7-43ff-90c3-a972e30b3d0f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "bd665de9-d341-4ca0-abec-67ee7de6494f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "918e9def-8622-4c4e-ad32-d7ba06f2bb10",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b888cc4b-b294-496f-a4cd-070854256609",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "5df49624-5f47-420d-8eb4-21f454bb197a",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "055063f8-ee1b-4612-8749-ff5705e19650",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "167dc30f-5f6e-428e-9e66-fb67b6a36fcc",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "56a89594-6593-47cf-82ee-4c83d866649d",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "b7865e80-ab47-4968-b8d2-084de81a419f",
+                        "type": "ITEM"
+                    },
+                    {
+                        "uuid": "30451810-47c1-4c29-a9f7-877dc5e2bfa0",
+                        "type": "ITEM"
+                    }
+                ]
+            }
+        },
+        "location": {
+            "latitude": 50.442465017329766,
+            "longitude": 30.52185985260985,
+            "address": {
+                "address1": "Bessarabs'ka Square, 2",
+                "aptOrSuite": "",
+                "city": "Kyiv",
+                "country": "UA",
+                "postalCode": "02000",
+                "region": "",
+                "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
+            }
+        },
+        "publicContact": {
+            "publicPhoneNumber": "+380633740510"
+        },
+        "priceBucket": "₴",
+        "slug": "ппельмені",
+        "isOrderable": true,
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "supportedDiningModes": [
+            "DELIVERY"
+        ],
+        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
+        "heroImage": {
+            "items": [
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0",
+                    "width": 2880,
+                    "height": 2304
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/a5bf5ac8-84fd-4928-ae42-c0174b84930d",
+                    "width": 1080,
+                    "height": 864
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/00f55ed8-09d2-47e6-a086-96ff39c60356",
+                    "width": 750,
+                    "height": 600
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/697ff65e-3600-424b-b2a3-80c941e81e16",
+                    "width": 640,
+                    "height": 512
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
+                    "width": 550,
+                    "height": 440
+                },
+                {
+                    "url": "https://d1ralsognjng37.cloudfront.net/31f99a8e-1431-4c5b-9489-23fa5c19ec6d",
+                    "width": 240,
+                    "height": 192
+                }
+            ]
+        },
+        "closedEtaMessage": "Currently unavailable",
+        "notOrderableMessage": "Currently unavailable",
+        "storeBadges": {
+            "disclaimerBadge": {
+                "textFormat": ""
+            },
+            "ratingBadge": {
+                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(206)</span></span>",
+                "accessibilityText": "A top-rated restaurant with 4.5 out of 5 stars based on 206 reviews."
+            },
+            "taglineBadge": {
+                "textFormat": "<span>₴ • Eastern European • Ukrainian • Comfort Food</span>"
+            },
+            "etaBadge": {
+                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+                "text": "20–30 MINS",
+                "textFormat": "<span>20–30 MINS</span>",
+                "accessibilityText": "Delivered in 20 to 30 MINS"
+            }
+        },
+        "etaRange": {
+            "min": 20,
+            "max": 30,
+            "raw": 25
+        },
+        "fareInfo": {
+            "serviceFee": 30
+        },
+        "eaterFields": {},
+        "meta": {
+            "sectionHoursInfo": [
+                {
+                    "dayRange": "Every day",
+                    "sectionHours": [
+                        {
+                            "startTime": 720,
+                            "endTime": 1220,
+                            "title": "SWITCH LANGUAGE (UKR)"
+                        },
+                        {
+                            "startTime": 720,
+                            "endTime": 1220,
+                            "title": "SWITCH LANGUAGE (ENG)"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nuggets": [],
+        "displayConfig": {
+            "regionalDisplayType": "DEFAULT"
+        },
+        "enabledFulfillmentTypes": [
+            "DELIVERY"
+        ],
+        "citySlug": "kyiv",
+        "cityName": "Kyiv",
+        "currencyCode": "UAH",
+        "currencyNumDigitsAfterDecimal": 2
+    }
+}
