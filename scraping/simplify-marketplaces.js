@@ -7,7 +7,8 @@ let marketplaces = JSON.parse(rawdata);
 
 
 marketplaces.feed = marketplaces.feed.map((feedItem) => {
-  feedItem.location.address = feedItem.location.address.address1;
+  feedItem.priceBucket = feedItem.priceLevel;
+  delete feedItem.priceLevel;
 
   return feedItem;
 });
