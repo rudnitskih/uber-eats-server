@@ -133,7 +133,7 @@
     "max": 45,
     "raw": 40
   },
-  "imageUrl": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203.jpg",
   "tags": [
     {
       "uuid": "Japanese",
@@ -156,14 +156,14 @@
     "storeRatingScore": 4.425531914893617,
     "ratingCount": "188"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/38852d9a-bcc9-40e5-a57b-32633b46821d",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/38852d9a-bcc9-40e5-a57b-32633b46821d.jpg",
   "items": {
     "1ff87f3a-6aeb-4ea1-a9a6-b7736ffb0d46": {
       "uuid": "1ff87f3a-6aeb-4ea1-a9a6-b7736ffb0d46",
       "title": "Spaisu salmon tempura maki",
       "itemDescription": "Warm roll with salmon in spicy sauce, avocado, cucumbers, tobiko, and cream cheese (190g).",
       "price": 15500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/94d833a5-4e66-474f-a7e8-6e646bb7ddb4",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/94d833a5-4e66-474f-a7e8-6e646bb7ddb4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -187,7 +187,7 @@
       "title": "Sake krim maki",
       "itemDescription": "Roll with spicy salmon, Philadelphia cheese, onion sauce, and salmon caviar (205g).",
       "price": 21500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d236a844-1059-4afd-a8ba-1df776f8e869",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/d236a844-1059-4afd-a8ba-1df776f8e869.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -238,7 +238,7 @@
       "title": "Kunsei Philadelphia",
       "itemDescription": "Roll with smoked salmon, cream cheese, avocado, cucumbers, green onions, and sesame seeds (220g).",
       "price": 20500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e9559297-554a-46e3-b2fa-c46b47c8a6f1",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/e9559297-554a-46e3-b2fa-c46b47c8a6f1.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -253,7 +253,7 @@
       "title": "Hit of the season",
       "itemDescription": "Warm roll with salmon, smoked eel, avocados, cream cheese, and fried onions (180g).",
       "price": 14500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/56997b81-6669-4222-a98b-5a4e7c244e17",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/56997b81-6669-4222-a98b-5a4e7c244e17.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -280,7 +280,7 @@
       "title": "Kunsei tempura",
       "itemDescription": "Roll with roast prawn, smoked salmon, cucumbers, omelette, green onions, cream cheese, and spaisu sauce (210g).",
       "price": 16800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/136f611e-ca37-4db2-93dd-515932e9aebf",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/136f611e-ca37-4db2-93dd-515932e9aebf.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -295,7 +295,7 @@
       "title": "Fukunigi maki",
       "itemDescription": "Roll with eel, salmon, cucumbers, cream cheese, and tobiko caviar (170g).",
       "price": 12400,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3df3febd-f7ed-45b2-a563-5c75b3829848",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/3df3febd-f7ed-45b2-a563-5c75b3829848.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -334,7 +334,7 @@
       "title": "California with smoked salmon",
       "itemDescription": "Roll with smoked salmon, avocado, cucumbers, tobiko, and cream cheese (180g).",
       "price": 13500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/63cd7fa4-c27f-40d5-bec3-34de03a9e552",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/63cd7fa4-c27f-40d5-bec3-34de03a9e552.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -349,7 +349,7 @@
       "title": "Zan sushi maki",
       "itemDescription": "Roll with wakame seaweed, shiitake mushrooms, cucumbers, sweet peppers, avocado, tofu cheese, and arugula (185g).",
       "price": 8800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/39aff944-fdbf-458d-8c5d-95ce0df945d8",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/39aff944-fdbf-458d-8c5d-95ce0df945d8.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -364,7 +364,7 @@
       "title": "Yellow Sea",
       "itemDescription": "Special roll with salmon, cucumbers, sesame seeds, and parsley (185g).",
       "price": 19800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c904044a-499c-426d-8d12-8b4d83b50f99",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/c904044a-499c-426d-8d12-8b4d83b50f99.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -379,7 +379,7 @@
       "title": "Arugula with shrimps",
       "itemDescription": "Fried shrimps, broth, fresh tomatoes, avocados, and walnuts with special olive sauce (145g).",
       "price": 21500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c15688da-6b10-4a46-bb5f-736d72aed6df",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/c15688da-6b10-4a46-bb5f-736d72aed6df.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -391,7 +391,7 @@
       "title": "Maki assorted",
       "itemDescription": "",
       "price": 4600,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc4afa16-1d67-405b-818c-1ddd022e9b95",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/dc4afa16-1d67-405b-818c-1ddd022e9b95.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -407,7 +407,7 @@
       "title": "Tokyo maki",
       "itemDescription": "Roll with salmon, smoked eel, tobiko, cream cheese, cucumbers, avocado, and green onions (185g).",
       "price": 19800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/49fcd586-aabf-4176-8597-7b0d18165279",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/49fcd586-aabf-4176-8597-7b0d18165279.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -422,7 +422,7 @@
       "title": "Sake Philadelphia",
       "itemDescription": "Roll with salmon, cream cheese, avocado, cucumbers, and green onions (250g).",
       "price": 24800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff2ee426-60aa-4cd0-b781-3c6bb96729ef",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ff2ee426-60aa-4cd0-b781-3c6bb96729ef.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -437,7 +437,7 @@
       "title": "Kunsei maki",
       "itemDescription": "Roll with smoked salmon, tobiko, avocado, cucumbers, cream cheese, omelette, spaisu sauce, and green onions (180g).",
       "price": 13500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e2f9f74-79f0-4f1a-a750-33688f6b6938",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/7e2f9f74-79f0-4f1a-a750-33688f6b6938.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -464,7 +464,7 @@
       "title": "Red dragon",
       "itemDescription": "Roll with eel, salmon, shrimp tempura, cream cheese, and avocado (230g).",
       "price": 23500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e440600a-5690-4182-9afc-7fa2dd0c1f2e",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/e440600a-5690-4182-9afc-7fa2dd0c1f2e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -491,7 +491,7 @@
       "title": "Golden dragon",
       "itemDescription": "Roll with salmon, eel, cucumbers, avocado, cream cheese, tobiko, and unagi sauce (235g).",
       "price": 24800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a927da1-4205-4bd6-84aa-1ffcdb6fbf45",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/5a927da1-4205-4bd6-84aa-1ffcdb6fbf45.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -506,7 +506,7 @@
       "title": "Miami maki",
       "itemDescription": "Roll with shrimp, avocado, cucumbers, arugula, crispy noodles, and Japanese mayonnaise (195g).",
       "price": 12000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/30d5864a-3a40-4f4e-ae66-b17ee3149433",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/30d5864a-3a40-4f4e-ae66-b17ee3149433.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -545,7 +545,7 @@
       "title": "Hoiri maki",
       "itemDescription": "Roll with eel, salmon, avocado, cream cheese, sesame seeds, and unagi sauce (150g).",
       "price": 15200,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0dbfb8bd-3551-4e2c-b5a1-5d8794252dc5",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/0dbfb8bd-3551-4e2c-b5a1-5d8794252dc5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -560,7 +560,7 @@
       "title": "Green dragon",
       "itemDescription": "Roll with roast shrimp, cucumbers, spicy sauce, and avocado with wasabi sauce (190g).",
       "price": 14500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e0075b1-33b4-4a14-83be-1ed41103d581",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/5e0075b1-33b4-4a14-83be-1ed41103d581.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -575,7 +575,7 @@
       "title": "Kitami maki",
       "itemDescription": "Roll with fried mussels, cucumbers, green onions, tuna shavings, and supaisu sauce (150g).",
       "price": 8000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8b53601-9473-44f4-b1db-4f9dd909cdd7",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/d8b53601-9473-44f4-b1db-4f9dd909cdd7.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -590,7 +590,7 @@
       "title": "Sushi assorted",
       "itemDescription": "25g.",
       "price": 1800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd9cfbf2-0a76-41ce-b336-2ca6b69db0c2",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/fd9cfbf2-0a76-41ce-b336-2ca6b69db0c2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -618,7 +618,7 @@
       "title": "Sake tadzuke",
       "itemDescription": "Fish soup with pieces of salmon, rice, green onions, nori seaweeds, sesame seeds, and wasabi (335/3g).",
       "price": 12800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0dc6c9c5-d57e-4bcf-8180-35ef5a863a11",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/0dc6c9c5-d57e-4bcf-8180-35ef5a863a11.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -630,7 +630,7 @@
       "title": "Supaisu sushi assorted",
       "itemDescription": "30g.",
       "price": 3200,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fab8b3a-47ec-4f93-84ad-06699131ffae",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/7fab8b3a-47ec-4f93-84ad-06699131ffae.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -658,7 +658,7 @@
       "title": "Felix assorted",
       "itemDescription": "42g.",
       "price": 4200,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/97285908-a561-457a-87d4-4b61ec50bbe4",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/97285908-a561-457a-87d4-4b61ec50bbe4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -674,7 +674,7 @@
       "title": "Sashimi assorted",
       "itemDescription": "",
       "price": 6800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4c4f7a5f-f171-4877-a032-01bf58455fb3",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4c4f7a5f-f171-4877-a032-01bf58455fb3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -690,7 +690,7 @@
       "title": "King maki",
       "itemDescription": "Warm roll with eel, salmon, spinach, cream cheese, tobiko, and unagi sauce (180g).",
       "price": 29500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4735dc2a-84c3-4d83-a00b-6de20e718621",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4735dc2a-84c3-4d83-a00b-6de20e718621.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -702,7 +702,7 @@
       "title": "Unagi spider maki",
       "itemDescription": "Roll with smoked eel, salmon, cream cheese, avocado, and cucumbers (150g).",
       "price": 19800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/be03c305-dd38-4e46-80db-6f9b55c4e5da",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/be03c305-dd38-4e46-80db-6f9b55c4e5da.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -741,7 +741,7 @@
       "title": "Sifudo tepan",
       "itemDescription": "Fried shrimps, salmon, octopus, scallop, squid, vegetables, and kanishi sauce (110/125/30g).",
       "price": 28500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/964bb6eb-97f6-4a41-947b-a51f2510682d",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/964bb6eb-97f6-4a41-947b-a51f2510682d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -753,7 +753,7 @@
       "title": "Roll \"Samurai\"",
       "itemDescription": "California roll with salmon, and crispy chips (190g).",
       "price": 13200,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7fd8212-8a5d-48af-854f-35a3aeff029c",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/e7fd8212-8a5d-48af-854f-35a3aeff029c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -768,7 +768,7 @@
       "title": "California with tuna",
       "itemDescription": "Roll with tuna, avocado, cucumbers, and tobiko caviar (180g).",
       "price": 12800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2fe8cff3-5a8f-4bd1-9499-95424f395707",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/2fe8cff3-5a8f-4bd1-9499-95424f395707.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -783,7 +783,7 @@
       "title": "Kantai maki",
       "itemDescription": "Warm roll with salmon, eel, cream cheese, and avocado in almond flakes (220g).",
       "price": 29500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/262f6d62-4708-466d-9e04-4562dd54f9f0",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/262f6d62-4708-466d-9e04-4562dd54f9f0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -831,7 +831,7 @@
       "title": "Miso soup with seafood",
       "itemDescription": "Soup with seafood, and noodles udon (230g).",
       "price": 13500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/473fb2ea-5d23-4f18-9cf8-d6b682c433a4",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/473fb2ea-5d23-4f18-9cf8-d6b682c433a4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -843,7 +843,7 @@
       "title": "Dragon maki",
       "itemDescription": "Roll with smoked eel, cream cheese, avocado, green onions, spicy sauce, tobiko, and tuna shavings (175g).",
       "price": 16800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff27db72-dac7-4edc-8d22-d5cdd3830d9a",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ff27db72-dac7-4edc-8d22-d5cdd3830d9a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -858,7 +858,7 @@
       "title": "Supaisu tempura",
       "itemDescription": "Roll with roasted shrimp, cucumbers, tobiko, and spicy sauce (170g).",
       "price": 13500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b26edf0b-f867-48db-a235-59a491b8edf1",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b26edf0b-f867-48db-a235-59a491b8edf1.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -873,7 +873,7 @@
       "title": "Yamato roll",
       "itemDescription": "Roll with smoked eel, omelette, cream cheese, tobiko, and green onions (220g).",
       "price": 17500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9160b4d1-b1cc-4cad-aa73-8f00da65f8b0",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/9160b4d1-b1cc-4cad-aa73-8f00da65f8b0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -888,7 +888,7 @@
       "title": "Chizu-sai maki",
       "itemDescription": "Roll in dill butter with two kinds of cheese (Philadelphia and feta), dried tomatoes, olives, cucumbers, and shallots (170g).",
       "price": 9000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3cbe57a3-6630-4eed-a31e-9170eb757935",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/3cbe57a3-6630-4eed-a31e-9170eb757935.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -903,7 +903,7 @@
       "title": "Kaito maki",
       "itemDescription": "Roll with spicy tuna, omelette, tobiko, avocado, green onions, and chili sauce (190g).",
       "price": 15500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/42ad9e0e-ab22-4cd8-99f8-6966e09095e5",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/42ad9e0e-ab22-4cd8-99f8-6966e09095e5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

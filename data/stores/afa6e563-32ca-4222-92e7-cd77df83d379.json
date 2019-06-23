@@ -74,7 +74,7 @@
     "max": 25,
     "raw": 20
   },
-  "imageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/53adbc2a-c8b0-47ad-b06f-ace1b3027e55.jpg",
   "tags": [
     {
       "uuid": "Vegetarian",
@@ -97,14 +97,14 @@
     "storeRatingScore": 4.704,
     "ratingCount": "125"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/f61dbac3-bb85-4a0f-a093-43e1d226df8e.jpg",
   "items": {
     "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c": {
       "uuid": "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
       "title": "Raw Chia dessert mango",
       "itemDescription": "Chia in coconut milk, mango puree, honey, and orange (150g).",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e2e840f-b081-4e47-9f64-88629fb3141e"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1e2e840f-b081-4e47-9f64-88629fb3141e.jpg"
     },
     "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f": {
       "uuid": "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f",
@@ -162,7 +162,7 @@
       "title": "Vegan Thai soup",
       "itemDescription": "Bean noodles-funchoza, tofu, wakame seaweed, cilantro, sesame seeds, and chili slices in a separate package (400g).",
       "price": 10500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a12e19c-d596-4b0d-aff6-ea8e9fe1e83c",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1a12e19c-d596-4b0d-aff6-ea8e9fe1e83c.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -191,7 +191,7 @@
       "title": "Raw Tabbouleh with sprouted buckwheat",
       "itemDescription": "Sprouted buckwheat, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecba9324-2532-457e-b690-78cae7433d59",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ecba9324-2532-457e-b690-78cae7433d59.jpg",
       "suspendUntil": 8640000000
     },
     "a265f5e7-bef8-4064-8ead-1d3163f609a2": {
@@ -199,7 +199,7 @@
       "title": "Vegan Bowl English breakfast",
       "itemDescription": "Soy tomato sausage, tofu omelet, couscous, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (370g).",
       "price": 11500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/282e6257-a921-44b0-8877-34f1c9bc2299",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/282e6257-a921-44b0-8877-34f1c9bc2299.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -223,7 +223,7 @@
       "title": "Vegan Bowl with sweet tofu",
       "itemDescription": "Buckwheat noodles, sweet tofu, nori, tomatoes, spinach, dressing and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (350g).",
       "price": 12000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/03766cf2-a1fd-4a57-88d6-7e0214ffd304",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/03766cf2-a1fd-4a57-88d6-7e0214ffd304.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -246,7 +246,7 @@
       "title": "Vegan Ramen",
       "itemDescription": "Rice noodles, shiitake mushrooms; soy chops, cilantro, sesame seeds, and chili slices in a separate package (475g).",
       "price": 11500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1a0cc06-63d6-4ab0-ab28-219893c980c7",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/c1a0cc06-63d6-4ab0-ab28-219893c980c7.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -269,7 +269,7 @@
       "title": "Vegan Bowl Quinoa",
       "itemDescription": "Quinoa bulgur, stewed eggplant, soy steak, spinach, tomatoes, red cabbage, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
       "price": 10500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/770c30e1-945b-4ac4-9dae-d085bb4047d9",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/770c30e1-945b-4ac4-9dae-d085bb4047d9.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -292,7 +292,7 @@
       "title": "Vegan Chocolate trifle",
       "itemDescription": "Chocolate biscuit, chocolate cream, cherry, and mint (150g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bca432c-b950-48ea-8cfa-c66194f90540",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/8bca432c-b950-48ea-8cfa-c66194f90540.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -315,7 +315,7 @@
       "title": "Vegan Super-salad with beet hummus",
       "itemDescription": "Beetroot hummus, chickpeas, spinach, slices of vegetables, tomatoes, olives, and celery (150g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/01849431-e6ae-497b-b447-e1ca9be64ac5",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/01849431-e6ae-497b-b447-e1ca9be64ac5.jpg",
       "suspendUntil": 8640000000,
       "endorsement": {
         "backgroundColor": {
@@ -346,7 +346,7 @@
       "title": "Vegan Bowl Couscous",
       "itemDescription": "Crumbly couscous, shiitake mushrooms, wakame seaweed, spinach, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
       "price": 10500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/df41f76e-8730-4107-a2b6-6eef368239da",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/df41f76e-8730-4107-a2b6-6eef368239da.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,

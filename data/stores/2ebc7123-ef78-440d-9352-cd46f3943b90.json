@@ -134,7 +134,7 @@
     "max": 45,
     "raw": 40
   },
-  "imageUrl": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/a14185e1-ee88-43e1-a2ca-a5444c022c4a.jpg",
   "tags": [
     {
       "uuid": "Salad",
@@ -157,7 +157,7 @@
     "storeRatingScore": 4.662921348314606,
     "ratingCount": "89"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1708aef6-eaf7-4755-9ba7-eaf5f669e965",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/1708aef6-eaf7-4755-9ba7-eaf5f669e965.jpg",
   "items": {
     "0c8bf02f-3319-4e73-85cd-69d2a7a7e458": {
       "uuid": "0c8bf02f-3319-4e73-85cd-69d2a7a7e458",
@@ -176,7 +176,7 @@
       "title": "Sichuan lamb dumplings",
       "itemDescription": "Soothe the activity of the mind and promote relaxation. Main spice: sichuan pepper (hot).",
       "price": 13000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc9aef92-1f36-4196-8fd4-f0ca26fd72c6",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/fc9aef92-1f36-4196-8fd4-f0ca26fd72c6.jpg",
       "suspendUntil": 8640000000
     },
     "5175c81a-3def-4231-8925-c534a1ff34ab": {
@@ -202,7 +202,7 @@
       "title": "Peking chicken with truffle",
       "itemDescription": "Strongly sates, promotes calmness and relaxation. Main spice: truffle (sweet and umami).",
       "price": 19900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d44a1799-2cc3-446e-ab6f-e50801128d2c"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/d44a1799-2cc3-446e-ab6f-e50801128d2c.jpg"
     },
     "d416715f-6902-4c62-a587-9cc32498d66b": {
       "uuid": "d416715f-6902-4c62-a587-9cc32498d66b",
@@ -215,7 +215,7 @@
       "title": "Pad thai",
       "itemDescription": "Explodes the emotions and calms at the same time, pleasantly sates. Main spice: tamarind (sweet and astringent).",
       "price": 19900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b1ad081-55e4-4d9c-a2d1-794e5415ca3c"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1b1ad081-55e4-4d9c-a2d1-794e5415ca3c.jpg"
     },
     "15a456cf-618c-4e99-af7f-b63195ebdd0b": {
       "uuid": "15a456cf-618c-4e99-af7f-b63195ebdd0b",
@@ -258,7 +258,7 @@
       "title": "Nasi goreng",
       "itemDescription": "Gives happiness, changes the look of what’s going on around. Main taste: kafir (hot and sweet).",
       "price": 20900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c785fcf-8cc0-445b-8db4-1e5cd341255d"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/5c785fcf-8cc0-445b-8db4-1e5cd341255d.jpg"
     },
     "b273cabb-7e62-40c7-811d-2d9d9434d615": {
       "uuid": "b273cabb-7e62-40c7-811d-2d9d9434d615",
@@ -283,7 +283,7 @@
       "title": "Catfish in teriyaki sauce with vegetables",
       "itemDescription": "Strengthen the concentration and ability to go to the bottom of things. Main spice: tarragon (sweet).",
       "price": 20900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b47a2f07-3a92-482f-bf07-93f3eca209aa"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b47a2f07-3a92-482f-bf07-93f3eca209aa.jpg"
     },
     "f317890c-5e86-49fe-96bd-c6e70849d269": {
       "uuid": "f317890c-5e86-49fe-96bd-c6e70849d269",
@@ -326,7 +326,7 @@
       "title": "Seaweed, apple, and zucchini salad",
       "itemDescription": "Can be served with eel. Refreshes the awareness of the circumstanc-es and speeds up the metabolism. Main flavor: cashew (bitter).",
       "price": 19200,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0066542c-ed2b-4990-8a6f-399860cd3e9b",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/0066542c-ed2b-4990-8a6f-399860cd3e9b.jpg",
       "customizationUuids": [
         "f570d19e-e7b8-495d-8286-6ec79934abbd"
       ]
@@ -336,7 +336,7 @@
       "title": "Wok fried mushrooms",
       "itemDescription": "Refresh, give strength and self-confidence. Main spice: garlic (hot).",
       "price": 12500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/52317e55-2a6e-42ed-8856-d0f809a6a172"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/52317e55-2a6e-42ed-8856-d0f809a6a172.jpg"
     },
     "baa6951b-5109-4b28-a3c6-3ae6e61ec5ea": {
       "uuid": "baa6951b-5109-4b28-a3c6-3ae6e61ec5ea",
@@ -361,14 +361,14 @@
       "title": "Lazy sushi with salmon",
       "itemDescription": "Sets up energy and delights. Main spice: chili (taste umami).",
       "price": 19500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/57acd186-62ce-42a4-b1cc-f141dec6495c"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/57acd186-62ce-42a4-b1cc-f141dec6495c.jpg"
     },
     "8267507d-c8a1-4032-9ffa-70eb1dd5b506": {
       "uuid": "8267507d-c8a1-4032-9ffa-70eb1dd5b506",
       "title": "Chicken and shrimp laksa",
       "itemDescription": "Calms and promotes relaxation. Main flavor: coconut (hot).",
       "price": 19900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca75f27b-74d5-4936-a7ba-a320e5909992"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ca75f27b-74d5-4936-a7ba-a320e5909992.jpg"
     },
     "e70cf332-789f-45a6-8a9c-2b3ced062a7c": {
       "uuid": "e70cf332-789f-45a6-8a9c-2b3ced062a7c",

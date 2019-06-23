@@ -147,7 +147,7 @@
     "max": 40,
     "raw": 35
   },
-  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w550-01.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/1543928198626-w550-01.jpg",
   "tags": [
     {
       "uuid": "Shawarma",
@@ -175,14 +175,14 @@
     "storeRatingScore": 4.595057034220532,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w2880-2b.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/1543928198626-w2880-2b.jpg",
   "items": {
     "febbc585-b75b-4661-bd17-ed96521007fd": {
       "uuid": "febbc585-b75b-4661-bd17-ed96521007fd",
       "title": "Veal Soup with Noodles",
       "itemDescription": "Hot, transparent veal broth with meat, and quail egg, and with homemade noodles (270g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/497df8e0-51c4-42a6-9462-4232d206e1a0"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/497df8e0-51c4-42a6-9462-4232d206e1a0.jpg"
     },
     "3f449cff-d22b-4001-addf-f6c77de40036": {
       "uuid": "3f449cff-d22b-4001-addf-f6c77de40036",
@@ -201,7 +201,7 @@
       "title": "Caesar salad with chicken",
       "itemDescription": "Iceberg lettuce with tomatoes, chicken, wheat bread croutons, and parmesan cheese. Dressed with Caesar sauce (210g).",
       "price": 7000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5655a0f-3565-4c02-81c5-a12e68f7266d"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b5655a0f-3565-4c02-81c5-a12e68f7266d.jpg"
     },
     "c352ee52-383c-4a26-8a4c-a3742177e376": {
       "uuid": "c352ee52-383c-4a26-8a4c-a3742177e376",
@@ -220,14 +220,14 @@
       "title": "Fried tiger prawns with two sauces",
       "itemDescription": "Fried crispy tiger prawns served with Cocktail sauce (400g).",
       "price": 13500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2cc7a32-e299-4947-9dee-5098f1e0b388"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/a2cc7a32-e299-4947-9dee-5098f1e0b388.jpg"
     },
     "7a201000-2af6-4a79-9419-d44f55496bed": {
       "uuid": "7a201000-2af6-4a79-9419-d44f55496bed",
       "title": "Tombik German with chicken",
       "itemDescription": "Germans were so fond of the tombiks, that invented their own youth version of the rich snack - in addition to meat in Turkish bun, we also add cheese, and French fries. Super rich snack for real youth (430g).",
       "price": 9500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/59085177-4951-4d4c-a9ec-c13f3d3e5915",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/59085177-4951-4d4c-a9ec-c13f3d3e5915.jpg",
       "suspendUntil": 1559509199
     },
     "50226bf6-0eb1-40a2-bc54-a42e50c548ff": {
@@ -235,7 +235,7 @@
       "title": "Kofte Durum Turkey",
       "itemDescription": "Lula kebab with delicate turkey, marinated onions, tomatoes, and mix of salads with red sauce. Served in flat bread (260g).",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7f0ab03d-1a79-444a-9edb-fb1f01d0339e",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/7f0ab03d-1a79-444a-9edb-fb1f01d0339e.jpg",
       "suspendUntil": 1559509199
     },
     "9eee530f-c5bc-4223-b728-608dde419e80": {
@@ -243,7 +243,7 @@
       "title": "Fish Roll Durum",
       "itemDescription": "Durum in flat bread with whitefish, cream cheese, mix of vegetables, and white sauce (270g).",
       "price": 10500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2fdf488-f6c4-486f-bd92-2f077eb47cf1",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/f2fdf488-f6c4-486f-bd92-2f077eb47cf1.jpg",
       "suspendUntil": 1559509199
     },
     "9fc0d8e7-9818-4cf3-9805-5e3b7ffec21f": {
@@ -251,7 +251,7 @@
       "title": "Tombik Berliner with veal",
       "itemDescription": "The tombik invented in the 1970s in Berlin by Turkish emigrant Kadir Nurman. Doner veal meat served in a lightly toasted triangle- shaped kefir bun with vegetables, and sauce. Taste of Berlin right now (360g).",
       "price": 9500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cc1442f-6d01-46c5-9a58-45aeb65ce46b"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/8cc1442f-6d01-46c5-9a58-45aeb65ce46b.jpg"
     },
     "86c010d6-f7f5-40f1-b445-0c408d345e86": {
       "uuid": "86c010d6-f7f5-40f1-b445-0c408d345e86",
@@ -264,7 +264,7 @@
       "title": "Durum Doner Caesar",
       "itemDescription": "Поєднання дюрум донера та салату Цезар. Ніжне м'ясо курки донер з салатом айсберг, сиром пармезан, томатами черрі, зеленню та вершковим соусом Цезар. Подається в лаваші (350g).",
       "price": 9000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/78e1aa97-d70b-43b1-a7a9-0f90e2d62dac"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/78e1aa97-d70b-43b1-a7a9-0f90e2d62dac.jpg"
     },
     "b10192f2-92c5-4b83-bd3c-556077ddae58": {
       "uuid": "b10192f2-92c5-4b83-bd3c-556077ddae58",
@@ -277,28 +277,28 @@
       "title": "Doner Box Fitness XL Chicken",
       "itemDescription": "This box is for those who watches the weight precisely - chicken meat in a box with salad mix garnish (5 kinds), tomatoes, and cucumbers. So light, so tasty, so fitness (300g).",
       "price": 11000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ba9165c-2db8-4fc2-9a37-4e4f50988fac"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/8ba9165c-2db8-4fc2-9a37-4e4f50988fac.jpg"
     },
     "e08771d0-f388-4586-9038-69d3b920379c": {
       "uuid": "e08771d0-f388-4586-9038-69d3b920379c",
       "title": "Durum Doner Chicken",
       "itemDescription": "Classics of the genre - durum doner in flat bread with juicy chicken, lettuce, cucumbers, tomatoes, and special hot tomato sauce (330g).",
       "price": 8500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/417d24f8-1b5b-453d-bf44-405d69b4988b"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/417d24f8-1b5b-453d-bf44-405d69b4988b.jpg"
     },
     "3bb5d114-1c61-471e-931e-e052dd98a32c": {
       "uuid": "3bb5d114-1c61-471e-931e-e052dd98a32c",
       "title": "Caesar salad with veal",
       "itemDescription": "Iceberg lettuce with tomatoes, veal, wheat bread croutons, and parmesan cheese. Dressed with Caesar sauce (210g).",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a43d0fb0-34b6-46f4-b38f-c799738d9bb2"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/a43d0fb0-34b6-46f4-b38f-c799738d9bb2.jpg"
     },
     "a61c165f-21cf-4767-b08f-05b1ed6366f5": {
       "uuid": "a61c165f-21cf-4767-b08f-05b1ed6366f5",
       "title": "Tombik German with veal",
       "itemDescription": "Germans were so fond of the tombiks, that invented their own youth version of the rich snack - in addition to meat in Turkish bun, we also add cheese, and French fries. Super rich snack for real youth (430g).",
       "price": 10500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e22f9265-4eae-49ca-b3de-181e7c5a7cef",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/e22f9265-4eae-49ca-b3de-181e7c5a7cef.jpg",
       "suspendUntil": 1559509199
     },
     "2b31d4d6-1eba-4a8f-8b6c-3ce4a313f007": {
@@ -306,14 +306,14 @@
       "title": "Doner Box Fitness Beef XL",
       "itemDescription": "This box is for those who watches the weight precisely - veal meat in a box with salad mix garnish (5 kinds), tomatoes, and cucumbers. So light, so tasty, so fitness (300g).",
       "price": 12000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a04bb5e1-f3b7-4f3b-82e9-23b7630fd986"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/a04bb5e1-f3b7-4f3b-82e9-23b7630fd986.jpg"
     },
     "c80384b6-3b31-49c3-a509-8077879b9d6b": {
       "uuid": "c80384b6-3b31-49c3-a509-8077879b9d6b",
       "title": "Cheese sticks",
       "itemDescription": "Cheese sticks, fried in a crispy golden batter with flaxseeds (240g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/21dbc09d-a424-4823-99ed-b7a014491195",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/21dbc09d-a424-4823-99ed-b7a014491195.jpg",
       "suspendUntil": 1559509199
     },
     "773faad0-d7c8-48ca-90a6-7ad0993f134b": {
@@ -321,28 +321,28 @@
       "title": "Cordon Bleu (for children)",
       "itemDescription": "Delicious crispy chicken in bread crumbs with bacon, and cheese inside. Served in a box with French fries. That`s exactly what your child wants (250g).",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9fa4651d-609c-4134-af13-71fbece6c6d8"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/9fa4651d-609c-4134-af13-71fbece6c6d8.jpg"
     },
     "75234d38-9ff7-40f9-a325-c75f30bddccf": {
       "uuid": "75234d38-9ff7-40f9-a325-c75f30bddccf",
       "title": "Coleslaw salad",
       "itemDescription": "Classic American salad of cabbages, carrots, and celery. Dressed with Provencal sauce (210g).",
       "price": 5500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0107c8f7-743a-4428-a25f-7b4d9d2f24fa"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/0107c8f7-743a-4428-a25f-7b4d9d2f24fa.jpg"
     },
     "e04da976-2d57-42ec-8996-fd794964ad26": {
       "uuid": "e04da976-2d57-42ec-8996-fd794964ad26",
       "title": "Durum Doner Veal",
       "itemDescription": "Classics of the genre - durum doner in flat bread with juicy veal, lettuce, cucumbers, tomatoes, and special hot tomato sauce (330g).",
       "price": 9500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/41eb9aa6-3696-4868-ba0b-d6bacf14a913"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/41eb9aa6-3696-4868-ba0b-d6bacf14a913.jpg"
     },
     "b679a374-88f3-41d1-abf2-14fb04a322f2": {
       "uuid": "b679a374-88f3-41d1-abf2-14fb04a322f2",
       "title": "Falafel servings",
       "itemDescription": "Falafel cooked according to Arabic recipe. With vegetables, and special cream sauce (270g).",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/09e2cd18-7009-41f2-9372-92439ea65b1f",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/09e2cd18-7009-41f2-9372-92439ea65b1f.jpg",
       "suspendUntil": 1559509199
     },
     "36026387-3228-4705-89ad-20a6e67b5e85": {
@@ -350,14 +350,14 @@
       "title": "Fattoush salad",
       "itemDescription": "Chicken meat, crispy chips of flat bread, tomatoes, cucumbers, sweet peppers, and lettuce mix (5 kinds). Dressed with light sauce (210g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6437086c-d299-4920-ad89-9f8369a76956"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/6437086c-d299-4920-ad89-9f8369a76956.jpg"
     },
     "79b0afdf-c8fd-4bf1-917b-fceb7a62ed21": {
       "uuid": "79b0afdf-c8fd-4bf1-917b-fceb7a62ed21",
       "title": "Falafel in flat bread",
       "itemDescription": "Falafel cooked according to Arabic recipe. Served in flat bred with lettuce, cucumbers, and tomatoes, and special cream sauce (360g).",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9790bc8e-e647-4207-887e-972ca0e5154d",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/9790bc8e-e647-4207-887e-972ca0e5154d.jpg",
       "suspendUntil": 1559509199
     },
     "4d744e9b-de86-41ea-a866-e0caa5b7121a": {
@@ -378,14 +378,14 @@
       "title": "Potato balls",
       "itemDescription": "Fried crispy potato balls.",
       "price": 4500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e9d3042-6090-4318-a0a2-aec354c638d9"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/7e9d3042-6090-4318-a0a2-aec354c638d9.jpg"
     },
     "60bc82a9-127f-4ca1-b9bd-55a697170d9d": {
       "uuid": "60bc82a9-127f-4ca1-b9bd-55a697170d9d",
       "title": "Kofte Durum Veal",
       "itemDescription": "Kebab in the form of sausage of chopped veal with pickled onions, tomatoes, and greens mix with red sauce. Served in flat bread (240g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/82140b6a-5348-49f0-9d92-5679bfe7e955",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/82140b6a-5348-49f0-9d92-5679bfe7e955.jpg",
       "suspendUntil": 1559509199
     },
     "836a73ce-cca6-44c7-82e8-efd1a6a732df": {
@@ -406,7 +406,7 @@
       "title": "Tombik Berliner with chicken",
       "itemDescription": "The tombik invented in the 1970s in Berlin by Turkish emigrant Kadir Nurman. Doner chicken meat served in a lightly toasted triangle-shaped kefir bun with vegetables, and sauce. Taste of Berlin right now (350g).",
       "price": 8500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a088917d-7c26-4db8-aa25-11e9c42cd405"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/a088917d-7c26-4db8-aa25-11e9c42cd405.jpg"
     },
     "7d7c1ddf-7998-4f16-b929-6be1cace1f12": {
       "uuid": "7d7c1ddf-7998-4f16-b929-6be1cace1f12",
@@ -419,14 +419,14 @@
       "title": "Chips of flat bread with spices HOMEMADE",
       "itemDescription": "Our special homemade chips of flat bread with spices. Cooked with feeling. Munch crunch! (50g).",
       "price": 2500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5797a38a-6095-418a-8af0-3ffd8ad694f9"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/5797a38a-6095-418a-8af0-3ffd8ad694f9.jpg"
     },
     "702fd0f3-596f-41ab-8a64-f10081f6b039": {
       "uuid": "702fd0f3-596f-41ab-8a64-f10081f6b039",
       "title": "Tomato Kharcho Soup",
       "itemDescription": "A thick classic kharcho tomato soup from our chef with veal, and rice (a little bit hot as it should be), 270g.",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/470e35c3-4c20-4073-b583-1506927f911a"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/470e35c3-4c20-4073-b583-1506927f911a.jpg"
     },
     "4188466d-c1d7-4076-960c-1ea3fe29baa6": {
       "uuid": "4188466d-c1d7-4076-960c-1ea3fe29baa6",
@@ -440,28 +440,28 @@
       "title": "Doner Box Rise XL Veal",
       "itemDescription": "Meat of veal in a box with a side dish, and two sauces: white, and red. The box comes with rice, and vegetables (green peas, kidney beans, corn, and carrots), (350g).",
       "price": 12000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f9ba5be-5400-4a25-88b1-63d54949f459"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4f9ba5be-5400-4a25-88b1-63d54949f459.jpg"
     },
     "6c663c4f-48ae-402d-bc85-55060f3e8fc0": {
       "uuid": "6c663c4f-48ae-402d-bc85-55060f3e8fc0",
       "title": "Greek salad",
       "itemDescription": "Feta cheese, black olives, tomatoes, cucumbers, sweet peppers, and lettuce mix (5 kinds). Dressed with light sauce (210g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1775b4cd-cbf0-4934-8f86-842c03003163"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1775b4cd-cbf0-4934-8f86-842c03003163.jpg"
     },
     "3615730b-d8bc-4983-9227-2f09199184e6": {
       "uuid": "3615730b-d8bc-4983-9227-2f09199184e6",
       "title": "Doner Box Rise XL Chicken",
       "itemDescription": "Meat of chicken in a box with a side dish, and two sauces: white, and red. The box comes with rice, and vegetables (green peas, kidney beans, corn, and carrots), (350g).",
       "price": 11000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ab7566e-1550-445b-8bf2-b2677aa938d9"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4ab7566e-1550-445b-8bf2-b2677aa938d9.jpg"
     },
     "af6aaadd-3505-4870-a21f-fe467d798f9e": {
       "uuid": "af6aaadd-3505-4870-a21f-fe467d798f9e",
       "title": "Chicken Soup with Noodles",
       "itemDescription": "Hot, transparent chicken broth with meat, and quail egg, and with homemade noodles (270g).",
       "price": 5500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e345fa64-36fe-41d2-a0aa-96e63e2cfb47"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/e345fa64-36fe-41d2-a0aa-96e63e2cfb47.jpg"
     },
     "1f91bf0f-b95f-4130-9602-b38602737430": {
       "uuid": "1f91bf0f-b95f-4130-9602-b38602737430",
@@ -475,7 +475,7 @@
       "title": "Tombik Turkish with chicken",
       "itemDescription": "Large tombik in Turkish bun for those who like more meat! Chicken with greens mix, tomatoes, and special sauce. For true meat hooligans (400g).",
       "price": 11000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3887a696-23eb-4226-9a73-f870d86eea29",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/3887a696-23eb-4226-9a73-f870d86eea29.jpg",
       "suspendUntil": 1559509199
     },
     "cdee1ad5-2e66-4520-9d2a-847ce10dca0c": {
@@ -483,7 +483,7 @@
       "title": "Tombik Turkish with veal",
       "itemDescription": "Large tombik in Turkish bun for those who like more meat! Veal with greens mix, tomatoes, and special sauce. For true meat hooligans (400g).",
       "price": 12000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff6fb03f-81a1-4b1e-bc8b-768cebc9fb2c",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ff6fb03f-81a1-4b1e-bc8b-768cebc9fb2c.jpg",
       "suspendUntil": 1559509199
     },
     "dd1a93f1-45a9-43c4-a798-3b949489c323": {
@@ -491,14 +491,14 @@
       "title": "Doner Box Fries XL Chicken",
       "itemDescription": "Meat of chicken in a box with a side dish, and two sauces: white, and red. The box comes with crispy French fries (310g).",
       "price": 11000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7462df42-70e5-4988-ace6-614b5cf6e836"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/7462df42-70e5-4988-ace6-614b5cf6e836.jpg"
     },
     "8050f248-7462-4f47-b581-25c6cd4d2e25": {
       "uuid": "8050f248-7462-4f47-b581-25c6cd4d2e25",
       "title": "Fish & Chips",
       "itemDescription": "Традиційна британська фаст-фуд страва для смачного перекусу (290 грамів).",
       "price": 9900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b1f48d8f-f701-4ec7-8830-d999856ffb53",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b1f48d8f-f701-4ec7-8830-d999856ffb53.jpg",
       "suspendUntil": 1559509199
     },
     "4581d3f2-5905-4785-b723-6eb0c616b51a": {
@@ -506,7 +506,7 @@
       "title": "Tabbouleh salad",
       "itemDescription": "Chicken meat, bulgur, tomatoes, cucumbers, sweet peppers, and lettuce mix (5 kinds). Dressed with light sauce (210g).",
       "price": 6500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/06c9e23a-c852-40c7-ac54-585287dd8f44"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/06c9e23a-c852-40c7-ac54-585287dd8f44.jpg"
     },
     "5e9ee5fd-41ed-48f9-af62-9daafb3cf971": {
       "uuid": "5e9ee5fd-41ed-48f9-af62-9daafb3cf971",
@@ -526,21 +526,21 @@
       "title": "Doner Box Fries XL Veal",
       "itemDescription": "Meat of veal in a box with a side dish, and two sauces: white, and red. The box comes with crispy French fries (310g).",
       "price": 12000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/595681e5-6fbc-42ea-9208-6f39a4817a2c"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/595681e5-6fbc-42ea-9208-6f39a4817a2c.jpg"
     },
     "c0cb221b-bc22-42aa-9b7d-aff9186a5844": {
       "uuid": "c0cb221b-bc22-42aa-9b7d-aff9186a5844",
       "title": "Onion rings",
       "itemDescription": "Crispy coated onion rings according to the classic recipe, served with tartar sauce (150g).",
       "price": 4500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/95430c2d-d7ae-4763-9771-49ac44905a6f"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/95430c2d-d7ae-4763-9771-49ac44905a6f.jpg"
     },
     "4854140d-894a-40bd-86ea-1013cc425feb": {
       "uuid": "4854140d-894a-40bd-86ea-1013cc425feb",
       "title": "Burger Arizona",
       "itemDescription": "Наш єдиний та унікальний справжній американець у меню. Аризона це бургер з великою\nсоковитою телячою котлетою з сиром та міксом салату. Цікава деталь - ви ніколи не вгадаєте -\nякий колір булки вам дістанеться - це сюрприз (250 грамів).",
       "price": 9500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5738e09-29d0-455a-8013-57ae290340ae",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b5738e09-29d0-455a-8013-57ae290340ae.jpg",
       "suspendUntil": 1559509199
     },
     "fd9b30ab-d225-4e51-8b43-08f3122f01f1": {
@@ -548,7 +548,7 @@
       "title": "Mushroom cream soup",
       "itemDescription": "Cream soup with champignon, and porcini mushrooms. Delicious, dietetic, vegetarian (270g).",
       "price": 7000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b049d10-d3d8-4def-ac21-0f137c24118f"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1b049d10-d3d8-4def-ac21-0f137c24118f.jpg"
     }
   }
 }

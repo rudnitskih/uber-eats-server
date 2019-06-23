@@ -93,7 +93,7 @@
     "max": 45,
     "raw": 40
   },
-  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/1544698474444-w550-13.jpg",
   "tags": [
     {
       "uuid": "Vegetarian",
@@ -116,7 +116,7 @@
     "storeRatingScore": 4.572192513368984,
     "ratingCount": "187"
   },
-  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/1544698474444-w2880-39.jpg",
   "items": {
     "a64a84ae-8fa0-4ccf-af25-13b53c055767": {
       "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
@@ -160,7 +160,7 @@
       "title": "Rice noodles with chicken",
       "itemDescription": "Chinese rice noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n\n",
       "price": 11900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbea604f-b278-4e9e-8798-14cc8dc4eb47",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/bbea604f-b278-4e9e-8798-14cc8dc4eb47.jpg",
       "customizationUuids": [
         "ff18d7df-60b7-4f81-b242-dcb6628329da"
       ]
@@ -185,7 +185,7 @@
       "title": "Egg noodles with beef",
       "itemDescription": "Egg noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n",
       "price": 12900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679.jpg",
       "customizationUuids": [
         "c6d85c27-b441-439b-9ef5-5fa046a9ab7d"
       ]
@@ -195,7 +195,7 @@
       "title": "Burger with Grilled Lamb",
       "itemDescription": "Sesame bun, lamb cutlet, sauce with Feta cheese and herbs, - handmade by Furgoneta, green and black olives, tomato slice, cucumber, and red onion (S-200g/XL-350g). Size to choose from.\n",
       "price": 11300,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/577fed00-4682-48b2-a34b-c71270918c40",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/577fed00-4682-48b2-a34b-c71270918c40.jpg",
       "suspendUntil": 8640000000,
       "customizationUuids": [
         "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
@@ -214,7 +214,7 @@
       "title": "Chicken fried rice",
       "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
       "price": 8900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a7ce300-fc23-459c-8ede-5fbff9b2cffa",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/0a7ce300-fc23-459c-8ede-5fbff9b2cffa.jpg",
       "customizationUuids": [
         "ff18d7df-60b7-4f81-b242-dcb6628329da"
       ]
@@ -247,7 +247,7 @@
       "title": "Grilled Chicken Burger",
       "itemDescription": "Sesame seed bun, chicken breast, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce Sesame Tomato Sauce (S-200g/XL-300g). Size to choose from.\n",
       "price": 7900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bebdb3d4-5959-470b-9e01-5145958bfaed",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/bebdb3d4-5959-470b-9e01-5145958bfaed.jpg",
       "customizationUuids": [
         "76980b20-9035-40fa-846d-8783a6a947f5"
       ]
@@ -271,7 +271,7 @@
       "title": "Grilled Beef Burger",
       "itemDescription": "Sesame seed bun, beef, bacon, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce BBQ (S-200g/XL-300g). Size to choose from.\n\n",
       "price": 9700,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f5e3115-6858-48af-8dd3-7baed9271c2a",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1f5e3115-6858-48af-8dd3-7baed9271c2a.jpg",
       "customizationUuids": [
         "a8c16b79-1011-460c-9f71-5a52c44c60b0"
       ]
@@ -357,7 +357,7 @@
       "title": "Egg noodles with chicken",
       "itemDescription": "Egg noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
       "price": 9700,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/65958e69-84e2-4183-88c0-e7e07c41f0b9",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/65958e69-84e2-4183-88c0-e7e07c41f0b9.jpg",
       "customizationUuids": [
         "a8c16b79-1011-460c-9f71-5a52c44c60b0"
       ]

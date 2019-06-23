@@ -111,7 +111,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://d1ralsognjng37.cloudfront.net/b25926dd-02a8-4a75-8f81-1f25a08c8be0",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/b25926dd-02a8-4a75-8f81-1f25a08c8be0.jpg",
   "endorsement": "Сендвіч-бар здорової їжі",
   "tags": [
     {
@@ -135,28 +135,28 @@
     "storeRatingScore": 4.768777614138439,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3356bf0b-4f8a-4117-92ea-d2fc4e11159a",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/3356bf0b-4f8a-4117-92ea-d2fc4e11159a.jpg",
   "items": {
     "ad2104f6-3fa3-4353-8778-6b1d1b856e07": {
       "uuid": "ad2104f6-3fa3-4353-8778-6b1d1b856e07",
       "title": "Basil + lemonade",
       "itemDescription": "Basil, lemon, lime, fructose, and water.",
       "price": 5500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/77931a16-4352-4eae-ae29-24d066bff107"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/77931a16-4352-4eae-ae29-24d066bff107.jpg"
     },
     "cebcf854-6b59-43ca-b5c4-306ed9304661": {
       "uuid": "cebcf854-6b59-43ca-b5c4-306ed9304661",
       "title": "Chia + mango",
       "itemDescription": "Mango, chia seeds, coconut milk, apple topping, lemon juice, fructose.",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa6aa98d-28f7-45cb-ba2c-fbaa7d8148bb"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/aa6aa98d-28f7-45cb-ba2c-fbaa7d8148bb.jpg"
     },
     "57b8fab3-5c59-482d-975f-5ac6bd053b76": {
       "uuid": "57b8fab3-5c59-482d-975f-5ac6bd053b76",
       "title": "Шипшина + бодян",
       "itemDescription": "Шипшина, бодян, фруктоза, вода.",
       "price": 4000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee6643d6-ffdc-4725-b6f6-18db8a302494",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ee6643d6-ffdc-4725-b6f6-18db8a302494.jpg",
       "suspendUntil": 8640000000
     },
     "6af2e5ad-3fd1-4802-84ac-d2b23a34eacd": {
@@ -164,7 +164,7 @@
       "title": "Smoke + nori",
       "itemDescription": "Flat bread, nori seaweed, suluguni smoked cheese, baked paneer cheese, fresh cucumbers, ginger, sesame sauce, vegan mayonnaise.",
       "price": 9800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b34f427e-908c-4189-8949-cb1e9cb22790",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b34f427e-908c-4189-8949-cb1e9cb22790.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -188,7 +188,7 @@
       "title": "Tofu + kaiso",
       "itemDescription": "Caramelized tofu cheese, kaiso seaweed, sesame seeds, fresh cucumbers, iceberg lettuce, olive oil.",
       "price": 7800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a764aa37-c15e-4e6f-bc28-4f854e95d4f0",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/a764aa37-c15e-4e6f-bc28-4f854e95d4f0.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -211,7 +211,7 @@
       "title": "Vegetables + chili",
       "itemDescription": "Cucumbers, tomatoes, spices, olive oil, parsley, celery stalk, tabasco, ginger root, lemon, water.",
       "price": 6800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ffc45c0-2899-456b-b00f-b021df2966ac"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/3ffc45c0-2899-456b-b00f-b021df2966ac.jpg"
     },
     "f44c9b4b-2b83-49e0-b220-99d252cd4464": {
       "uuid": "f44c9b4b-2b83-49e0-b220-99d252cd4464",
@@ -225,7 +225,7 @@
       "title": "Seitan + BBQ",
       "itemDescription": "Homemade bun, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, BBQ sauce, vegan mayonnaise.",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a67a2747-019a-41d3-b2fa-f7d766e8a531",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/a67a2747-019a-41d3-b2fa-f7d766e8a531.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -249,28 +249,28 @@
       "title": "Базилік + лимонад",
       "itemDescription": "Базилік, лимон, лайм, фруктоза, вода.",
       "price": 5500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/77931a16-4352-4eae-ae29-24d066bff107"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/77931a16-4352-4eae-ae29-24d066bff107.jpg"
     },
     "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611": {
       "uuid": "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611",
       "title": "Імбир + лимон",
       "itemDescription": "Корінь імбиру, сік лимонний, вода.",
       "price": 3500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/94c408b5-cbcf-4b60-a869-6a9264563eb9"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/94c408b5-cbcf-4b60-a869-6a9264563eb9.jpg"
     },
     "9bee19ad-f29c-464f-a0c4-55d215eca52c": {
       "uuid": "9bee19ad-f29c-464f-a0c4-55d215eca52c",
       "title": "Coconut + milk",
       "itemDescription": "Condensed milk, coconut shavings.",
       "price": 2500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d3f4d723-5b6b-4430-aa91-ee32a8938329"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/d3f4d723-5b6b-4430-aa91-ee32a8938329.jpg"
     },
     "89906516-2049-4630-a322-47449950a550": {
       "uuid": "89906516-2049-4630-a322-47449950a550",
       "title": "Shawarma + seitan",
       "itemDescription": "Flat bread, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, parsley, ketchup sauce, vegan mayonnaise.",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/32b91ac9-a4d5-4451-b734-4ac98c384d3b",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/32b91ac9-a4d5-4451-b734-4ac98c384d3b.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -294,14 +294,14 @@
       "title": "Nuts + caramel",
       "itemDescription": "Shortcrust dough, hazelnuts, walnuts, condensed milk, boiled condensed milk, dry milk, carob.",
       "price": 2500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/974c8d13-1082-4dec-b624-367ccb103533"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/974c8d13-1082-4dec-b624-367ccb103533.jpg"
     },
     "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b": {
       "uuid": "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b",
       "title": "Keshew + orange",
       "itemDescription": "Cashew, sunflower seeds, dates, orange, chia seeds, sesame, lemon.",
       "price": 2000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0fa97c9-371d-478d-b67b-289e35ddb0ed",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/e0fa97c9-371d-478d-b67b-289e35ddb0ed.jpg",
       "suspendUntil": 8640000000
     },
     "994198a5-22ea-4198-a6cc-3c72f8f0871c": {
@@ -309,7 +309,7 @@
       "title": "Steak + dijon",
       "itemDescription": "Flat bread, soy steak, pickled cucumbers, iceberg lettuce, Dijon mustard, ketchup sauce, vegan mayonnaise.",
       "price": 7800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f312724-a664-4b4b-a7e7-dd3d4731e6c8",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4f312724-a664-4b4b-a7e7-dd3d4731e6c8.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -333,7 +333,7 @@
       "title": "Viburnum + raspberry",
       "itemDescription": "Viburnum, raspberries, water.",
       "price": 4000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d65ecac-2f1d-4626-a0dc-07d45680d9c9",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4d65ecac-2f1d-4626-a0dc-07d45680d9c9.jpg",
       "suspendUntil": 8640000000
     },
     "663083c8-c11d-46eb-ab5c-7ad4232752f3": {
@@ -347,21 +347,21 @@
       "title": "Ginger + lemon",
       "itemDescription": "Ginger root, lemon juice, water.",
       "price": 3500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1887142a-8433-48dd-92b1-128f422ab711"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1887142a-8433-48dd-92b1-128f422ab711.jpg"
     },
     "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2": {
       "uuid": "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2",
       "title": "Mango + orange",
       "itemDescription": "Mango, orange, banana, honey, lemon, water.",
       "price": 8000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4bc55893-c693-4de6-af89-5a1d311c48e2"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4bc55893-c693-4de6-af89-5a1d311c48e2.jpg"
     },
     "f2837f31-b1d8-4fdc-8005-63adee37c054": {
       "uuid": "f2837f31-b1d8-4fdc-8005-63adee37c054",
       "title": "Tofu + mango",
       "itemDescription": "Homemade bun, baked tofu cheese, fresh paprika, fresh cucumbers, fresh lettuce, mango sauce, vegan mayonnaise.",
       "price": 8500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c7658e75-b545-4df8-a492-7d13bbc2b6f5",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/c7658e75-b545-4df8-a492-7d13bbc2b6f5.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -385,49 +385,49 @@
       "title": "Rosehip + aniseed",
       "itemDescription": "Rosehip, aniseed, fructose, water.",
       "price": 4000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/84dc384c-c4e0-4246-9a0f-97ab5377c115"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/84dc384c-c4e0-4246-9a0f-97ab5377c115.jpg"
     },
     "9358b33b-00e7-4b37-8ef2-989d7671bd67": {
       "uuid": "9358b33b-00e7-4b37-8ef2-989d7671bd67",
       "title": "Coconut puff",
       "itemDescription": "Puff pastry, coconut milk, non dairy cream, black currants, vanilla sugar, fructose.",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecd26708-b48d-49ae-929b-9b9582f33926"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ecd26708-b48d-49ae-929b-9b9582f33926.jpg"
     },
     "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2": {
       "uuid": "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2",
       "title": "Pineapple + spirulina",
       "itemDescription": "Pineapple, spirulina seaweed, banana, apples, ginger root, lemon, water.",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd638160-4f5d-4c61-b3c2-7c662e8827ea"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/bd638160-4f5d-4c61-b3c2-7c662e8827ea.jpg"
     },
     "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b": {
       "uuid": "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b",
       "title": "Blueberry + pomegranate",
       "itemDescription": "Pomegranate, blueberries, banana, apples, lemon, water.",
       "price": 6900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2494bfd9-578a-45b3-b1e7-6a1e335de82f"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/2494bfd9-578a-45b3-b1e7-6a1e335de82f.jpg"
     },
     "c7222b37-003c-4c79-8228-a5f622701cdc": {
       "uuid": "c7222b37-003c-4c79-8228-a5f622701cdc",
       "title": "Hemp + coconut",
       "itemDescription": "Hemp seeds, pineapple, coconut milk, banana, honey, lemon, water.",
       "price": 7500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5699585-9900-4db6-9215-0928d6b8c50e"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/a5699585-9900-4db6-9215-0928d6b8c50e.jpg"
     },
     "0c772357-16b4-4f36-beeb-f66ba68def94": {
       "uuid": "0c772357-16b4-4f36-beeb-f66ba68def94",
       "title": "Grapefruit + pineapple",
       "itemDescription": "Pineapple, grapefruit, apples, honey, water.",
       "price": 7000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4945882-93d7-45ee-9213-e8f6a705dbc5"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/d4945882-93d7-45ee-9213-e8f6a705dbc5.jpg"
     },
     "92880e8c-23f4-4971-b8cc-da70fbeaeeb3": {
       "uuid": "92880e8c-23f4-4971-b8cc-da70fbeaeeb3",
       "title": "Paneer + pesto",
       "itemDescription": "Homemade bun, baked paneer cheese, tomatoes, pickled cucumbers, iceberg lettuce, pesto sauce, vegan mayonnaise.",
       "price": 10800,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc541e6d-e728-456e-a5b4-cd8fa6cef1d6",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/bc541e6d-e728-456e-a5b4-cd8fa6cef1d6.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -451,7 +451,7 @@
       "title": "Falafel + eggplant",
       "itemDescription": "Homemade bun, baked falafel, tomatoes, baked eggplant, iceberg lettuce, ketchup sauce, vegan mayonnaise.",
       "price": 8900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2daf5820-083e-4297-a813-b01b2953a172",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/2daf5820-083e-4297-a813-b01b2953a172.jpg",
       "nutritionalInfo": {},
       "endorsement": {
         "backgroundColor": {
@@ -475,7 +475,7 @@
       "title": "Кероб + банан",
       "itemDescription": "Банан, кероб, молоко, фруктоза, вода.",
       "price": 6000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/db70842a-e43d-47f8-ba8e-2d4b903aaf6b"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/db70842a-e43d-47f8-ba8e-2d4b903aaf6b.jpg"
     },
     "a1584a11-8d43-4445-9ff7-7501e0fbfe59": {
       "uuid": "a1584a11-8d43-4445-9ff7-7501e0fbfe59",
@@ -489,7 +489,7 @@
       "title": "Humus + vegetables",
       "itemDescription": "Sesame seeds, chickpea, spices, sunflower oil, fresh cucumbers, lemon juice, carrots, celery stalk, cracker with sesame seeds, olive oil.",
       "price": 6000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f9cd5be-f8b5-4d21-a3cd-83be5de2df2f",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/1f9cd5be-f8b5-4d21-a3cd-83be5de2df2f.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -512,14 +512,14 @@
       "title": "Carob + banana",
       "itemDescription": "Banana, carob, milk, fructose, and water.",
       "price": 6000,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/db70842a-e43d-47f8-ba8e-2d4b903aaf6b"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/db70842a-e43d-47f8-ba8e-2d4b903aaf6b.jpg"
     },
     "b66219e6-b73b-48f8-a7e9-f8e7baa14916": {
       "uuid": "b66219e6-b73b-48f8-a7e9-f8e7baa14916",
       "title": "Tofu + nori",
       "itemDescription": "Homemade bun, nori seaweed, baked tofu cheese, tomatoes, pickled cucumbers, iceberg lettuce, ginger, sesame sauce, vegan mayonnaise.",
       "price": 8400,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/822b8c3a-b323-4101-a6b4-05317bb79b3d",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/822b8c3a-b323-4101-a6b4-05317bb79b3d.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,

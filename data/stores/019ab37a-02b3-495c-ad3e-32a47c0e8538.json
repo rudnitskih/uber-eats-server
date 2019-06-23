@@ -128,7 +128,7 @@
     "max": 30,
     "raw": 25
   },
-  "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbe421-5942-40fe-88d3-0991c3721d1a",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/03fbe421-5942-40fe-88d3-0991c3721d1a.jpg",
   "endorsement": "Збалансовані страви з натуральних продуктів",
   "tags": [
     {
@@ -157,7 +157,7 @@
     "storeRatingScore": 4.845360824742268,
     "ratingCount": "97"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1c546e51-efca-4b70-acc8-678245724f39",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/1c546e51-efca-4b70-acc8-678245724f39.jpg",
   "items": {
     "82415e54-726c-4c54-9339-6382c0b887ca": {
       "uuid": "82415e54-726c-4c54-9339-6382c0b887ca",
@@ -170,7 +170,7 @@
       "title": "Chicken salad",
       "itemDescription": "Baked chicken fillet, iceberg lettuce, spinach, fresh cucumber, cherry tomato, black pepper, vegetable oil, parmesan cheese, spicy lean mayonnaise(flax seeds, mustard, honey, vegetable oil, sea salt, lemon fresh), Worcestershire sause(230+40g).",
       "price": 14100,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4eb372e9-a667-40b3-9190-265323fe41e8",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4eb372e9-a667-40b3-9190-265323fe41e8.jpg",
       "suspendUntil": 1559509199
     },
     "072ba287-57f4-4c2f-83a9-6c58c21ca170": {
@@ -185,7 +185,7 @@
       "title": "Vegan wrap",
       "itemDescription": "Батат, тофу, хумус, чука, шпинат, гарбуз, кіноа, соус із тахіни та льону, лаваш (390г).",
       "price": 9900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a82f35f-319f-45b3-ae04-d45f090a6651",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/8a82f35f-319f-45b3-ae04-d45f090a6651.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -208,14 +208,14 @@
       "title": "Set of sweets salt caramel (3 pieces)",
       "itemDescription": "SALT CARAMEL: cocoa grated, cocoa butter, peanut butter, dates, and sea salt Fleur de Sol (75g).",
       "price": 7900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/97b8e89d-93d8-42ec-9b34-0d0c1d69d6e4"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/97b8e89d-93d8-42ec-9b34-0d0c1d69d6e4.jpg"
     },
     "d265356f-5222-4e36-82a2-1d3470050b1b": {
       "uuid": "d265356f-5222-4e36-82a2-1d3470050b1b",
       "title": "Veal with soba noodles",
       "itemDescription": "Veal, soba noodles, tomatoes, asparagus, and sesame seeds (330g).\n",
       "price": 12900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/90fac09e-0ef8-4cda-ac16-586626dc34d7",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/90fac09e-0ef8-4cda-ac16-586626dc34d7.jpg",
       "suspendUntil": 1559509199,
       "customizationUuids": [
         "f2612fe8-28e7-4268-8fef-34f8656f2f07"
@@ -233,7 +233,7 @@
       "title": "Bowl with prawns",
       "itemDescription": "Tiger prawns, bulgur, vegetables in coconut and tomato sauce, baby corn, green beans, broccoli, and sweet peppers (270g).",
       "price": 18900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b255950-ca73-4060-bed4-1a7fbdf5f8f7",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/4b255950-ca73-4060-bed4-1a7fbdf5f8f7.jpg",
       "suspendUntil": 1559509199,
       "customizationUuids": [
         "ee191ebb-119d-4a89-9510-81f463d1a8da"
@@ -250,7 +250,7 @@
       "title": "Roasted vegetables salad",
       "itemDescription": "Baked cauliflower, baked tomatoes, cucumbers, carrots, cashew, and mustard sauce (200g).",
       "price": 7900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/38340737-626a-4a5d-99c1-1e91fc16c250",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/38340737-626a-4a5d-99c1-1e91fc16c250.jpg",
       "suspendUntil": 1559509199,
       "endorsement": {
         "backgroundColor": {
@@ -281,7 +281,7 @@
       "title": "Salmon sandwich",
       "itemDescription": "Light-salted salmon, rye bread, Philadelphia cream cheese, and cucumber`s dill (240g).",
       "price": 12900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9257971a-cde7-4145-8a4e-1937c7ebce68"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/9257971a-cde7-4145-8a4e-1937c7ebce68.jpg"
     },
     "45b81b82-32f3-42f3-8763-5a16e9cc1fe8": {
       "uuid": "45b81b82-32f3-42f3-8763-5a16e9cc1fe8",
@@ -301,21 +301,21 @@
       "title": "Quinoa-spinach-hummus",
       "itemDescription": "Quinoa, spinach, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil), eggs, pesto sauce (200g).",
       "price": 6900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8206d811-aba7-4501-ab3f-3742ce9dad1c"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/8206d811-aba7-4501-ab3f-3742ce9dad1c.jpg"
     },
     "78415788-8b1a-48c5-9844-a2c41e95bafe": {
       "uuid": "78415788-8b1a-48c5-9844-a2c41e95bafe",
       "title": "Tuna sandwich",
       "itemDescription": "Tuna, boiled egg, lettuce, Dijon mustard, and oatmeal bread (160g).",
       "price": 10900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/11ff455b-c572-4e60-b4bd-d163d5292726"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/11ff455b-c572-4e60-b4bd-d163d5292726.jpg"
     },
     "539f8122-a7fa-48fa-b518-24980a56ee8e": {
       "uuid": "539f8122-a7fa-48fa-b518-24980a56ee8e",
       "title": "Chicken curry with rice",
       "itemDescription": "Brown rice, chicken fillet, peas, curry sauce(260g).",
       "price": 12900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b19bff9c-2baa-4669-8a49-cee54720fe90"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b19bff9c-2baa-4669-8a49-cee54720fe90.jpg"
     },
     "273b158e-73ef-4f02-8ac8-c9af5418104b": {
       "uuid": "273b158e-73ef-4f02-8ac8-c9af5418104b",
@@ -348,7 +348,7 @@
       "title": "Chicken wrap",
       "itemDescription": "Запечене куряче філе, морква, перець печений, капуста пекінська, соус з льону та тахіни, гірчиця, лаваш (310г).",
       "price": 10500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/28614190-0e98-4c85-930c-327a39a4b6b5",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/28614190-0e98-4c85-930c-327a39a4b6b5.jpg",
       "suspendUntil": 1559509199
     },
     "d9492011-986e-40bb-9885-6eb3004ea60d": {
@@ -356,7 +356,7 @@
       "title": "Fish wrap",
       "itemDescription": "Canned tuna, flatbread, tomatoes, spinach, wakame seaweed, avocado, tahini and flax sauce, and mustard (340g).",
       "price": 14900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfb80447-a6d3-429b-bda5-2cb31776d627",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/cfb80447-a6d3-429b-bda5-2cb31776d627.jpg",
       "suspendUntil": 1559509199
     },
     "c6a242f0-176f-49b6-a2d8-024b72dd84df": {
@@ -371,7 +371,7 @@
       "title": "Coconut cakes",
       "itemDescription": "Coconut, coconut milk, honey, dates, beets, strawberries, currants, and vanilla (280g).",
       "price": 12900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/914327c4-c7a5-4292-8c5b-58f1f510af7e"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/914327c4-c7a5-4292-8c5b-58f1f510af7e.jpg"
     },
     "5708d205-e6eb-48af-bcd4-a4bc40dc3d50": {
       "uuid": "5708d205-e6eb-48af-bcd4-a4bc40dc3d50",
@@ -385,14 +385,14 @@
       "title": "Banana pudding",
       "itemDescription": "Banana, milk, eggs, rice flour, stevia, and cocoa (150g).",
       "price": 5900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbe0d0de-d2d2-4445-b0c8-173ed76ce3d6"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/bbe0d0de-d2d2-4445-b0c8-173ed76ce3d6.jpg"
     },
     "5f136fda-963f-4eec-a0cf-fadb0f8215bd": {
       "uuid": "5f136fda-963f-4eec-a0cf-fadb0f8215bd",
       "title": "Salmon with quinoa",
       "itemDescription": "Baked salmon, quinoa and green peas (220g).",
       "price": 17900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/52773ec4-4e4f-4124-94ee-31b0c976862e",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/52773ec4-4e4f-4124-94ee-31b0c976862e.jpg",
       "customizationUuids": [
         "ee191ebb-119d-4a89-9510-81f463d1a8da"
       ]
@@ -402,7 +402,7 @@
       "title": "Tuna salad",
       "itemDescription": "Tuna, mix of lettuce (lolo biondo, frisi, arugula), tomatoes, cucumber, egg, honey and mustard sauce (mustard, vegetable oil, honey, lemon fresh) (250g).",
       "price": 14900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed4c5417-b158-4e36-984c-da04ac3da299",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/ed4c5417-b158-4e36-984c-da04ac3da299.jpg",
       "suspendUntil": 1559509199
     },
     "025690ac-87c7-4d42-979c-d6966b3cbe4f": {
@@ -410,7 +410,7 @@
       "title": "Chicken sandwich",
       "itemDescription": "Baked chicken, oatmeal bread, tomato, lettuce, Lean sauce with cheese, and basil (260g).",
       "price": 9900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ebf5b9e-4299-41a4-84fe-32654d9e6578"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/5ebf5b9e-4299-41a4-84fe-32654d9e6578.jpg"
     },
     "ba84ab2c-1575-4df9-9f1b-36c740b307ac": {
       "uuid": "ba84ab2c-1575-4df9-9f1b-36c740b307ac",
@@ -468,14 +468,14 @@
       "title": "Tomato cream soup",
       "itemDescription": "Peeled tomatoes, sweet peppers, celery, feta cheese and garlic (200ml).",
       "price": 5400,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/81037a55-c8da-4a80-ac0e-5442f65d05d5"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/81037a55-c8da-4a80-ac0e-5442f65d05d5.jpg"
     },
     "5c0af74f-6770-4fca-8108-425b068a10a8": {
       "uuid": "5c0af74f-6770-4fca-8108-425b068a10a8",
       "title": "Hummus sandwich",
       "itemDescription": "Hummus, rye bread, spinach, and sweet peppers (170g).",
       "price": 8900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/535082ee-09e4-4861-a001-799a4645f1d8",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/535082ee-09e4-4861-a001-799a4645f1d8.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
@@ -498,7 +498,7 @@
       "title": "Lentil cream soup",
       "itemDescription": "Lentil, carrots, onion, salt, black pepper (200ml).",
       "price": 3900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d71de0e-0f2e-4cea-bda8-84d77f959705",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/0d71de0e-0f2e-4cea-bda8-84d77f959705.jpg",
       "suspendUntil": 1559509199
     },
     "1a95a7a5-2888-4ccb-ab94-9655c1f642a9": {
@@ -513,14 +513,14 @@
       "title": "Flaxseeds porridge",
       "itemDescription": "Flax seeds, coconut milk, honey, and dried apricots and almonds (185g).",
       "price": 6700,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6dfa6738-a5c3-416e-bca7-18570349e4ee"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/6dfa6738-a5c3-416e-bca7-18570349e4ee.jpg"
     },
     "ef9d5295-2179-4a30-b434-635a55b7f8bc": {
       "uuid": "ef9d5295-2179-4a30-b434-635a55b7f8bc",
       "title": "Mushroom cream soup with rice milk",
       "itemDescription": "Champignon, oyster mushroom, onion, and rice milk (200ml).",
       "price": 4900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/02ba46c6-f813-4cb2-8482-d97505a14768"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/02ba46c6-f813-4cb2-8482-d97505a14768.jpg"
     },
     "36355106-42df-447a-83d8-682574f3e209": {
       "uuid": "36355106-42df-447a-83d8-682574f3e209",
@@ -540,14 +540,14 @@
       "title": "Set of sweets coconut (3 pieces)",
       "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, and cocoa grated (75g).",
       "price": 7900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/49dba044-e9c7-4d4a-86e2-e2f672b1e841"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/49dba044-e9c7-4d4a-86e2-e2f672b1e841.jpg"
     },
     "176f854a-dcb4-4e60-ac54-86a2b776217f": {
       "uuid": "176f854a-dcb4-4e60-ac54-86a2b776217f",
       "title": "Oatmeal cookies",
       "itemDescription": "Oat flakes, apple, cinnamon, raisins, and almonds (40g).",
       "price": 1500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/31550253-0e37-46bc-b1ba-624ec911052a"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/31550253-0e37-46bc-b1ba-624ec911052a.jpg"
     },
     "24332a45-72ec-40b1-8c82-af93eae3d216": {
       "uuid": "24332a45-72ec-40b1-8c82-af93eae3d216",
@@ -560,7 +560,7 @@
       "title": "Pumpkin cream soup with prawns and Parmesan",
       "itemDescription": "Pumpkin, celery, turmeric, garlic, onion, rosemary, coriander, non-dairy cream, prawns, and Parmesan (250ml).",
       "price": 9500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/92c81238-ce31-41b8-b099-c67dd77dbb71",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/92c81238-ce31-41b8-b099-c67dd77dbb71.jpg",
       "suspendUntil": 1559509199
     },
     "3374f542-fb4e-4ae5-bb19-0b4cac2b67c6": {
@@ -568,7 +568,7 @@
       "title": "Chicken cutlets with quinoa",
       "itemDescription": "Chicken cutlets: fillet, cream, onion, black and white quinoa, baked peppers, and pesto sauce (230g).",
       "price": 11500,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4c92d2e-50ee-4d97-ae6a-c34daec7d860",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/e4c92d2e-50ee-4d97-ae6a-c34daec7d860.jpg",
       "customizationUuids": [
         "2294e341-7f4e-4077-80a8-87da55c060bd"
       ]
@@ -578,7 +578,7 @@
       "title": "Vegetable Mix",
       "itemDescription": "Cucumber, bell pepper, сelery, сarrot, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil) (180g).",
       "price": 4900,
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8f987a1-dc52-4fd4-a5b9-d816fe96da8b",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/b8f987a1-dc52-4fd4-a5b9-d816fe96da8b.jpg",
       "endorsement": {
         "backgroundColor": {
           "alpha": 1,
