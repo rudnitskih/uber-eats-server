@@ -118,7 +118,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf.jpg",
   "tags": [
     {
       "uuid": "Vegan",
@@ -136,7 +136,7 @@
     "storeRatingScore": 4.71304347826087,
     "ratingCount": "115"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/0b01c6d6-d78c-46df-90dc-ef2fce60e1a8.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/0b01c6d6-d78c-46df-90dc-ef2fce60e1a8.jpg",
   "items": {
     "ee03f7a4-de4a-45cc-a860-3cfe0d7d4211": {
       "uuid": "ee03f7a4-de4a-45cc-a860-3cfe0d7d4211",
@@ -206,14 +206,14 @@
       "title": "Burrito with chesse cticks and bell pepper",
       "itemDescription": "Flax pita, lettuce, cashew cheese, cucumber, bell pepper, cashew mayonnaise (240g)",
       "price": 11500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/3de6a2dc-c2a6-47ed-a235-812dbf3db03a.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/3de6a2dc-c2a6-47ed-a235-812dbf3db03a.jpg"
     },
     "68437d26-7618-4f06-ba98-b49d4c513d23": {
       "uuid": "68437d26-7618-4f06-ba98-b49d4c513d23",
       "title": "Corn soup",
       "itemDescription": "corn, carrot, coconut milk, garlic, sea salt, onion, sunflower oil (240g)",
       "price": 6000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c5442e4e-324c-474f-9dc9-ac6f1f572231.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c5442e4e-324c-474f-9dc9-ac6f1f572231.jpg"
     },
     "7b90092a-4795-4dd0-abb8-e930c28a453b": {
       "uuid": "7b90092a-4795-4dd0-abb8-e930c28a453b",
@@ -262,7 +262,7 @@
       "title": "Open cheese pie",
       "itemDescription": "cashew cheese, tomato, bell pepper, cucumber, honey  (120g)",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cc07bf28-ff7b-4187-872b-9155cb49207d.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cc07bf28-ff7b-4187-872b-9155cb49207d.jpg"
     },
     "b085982d-4af8-454f-8be1-5410cdf60f85": {
       "uuid": "b085982d-4af8-454f-8be1-5410cdf60f85",
@@ -315,7 +315,7 @@
       "title": "Salad with arugula, cherry, avocado and grapes",
       "itemDescription": "Iceberg, arugula, grapes, cherry, avocado, cheese cashew cutlet, salad dressing, sprouted black sesame (220g)",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/892aeb10-ed97-443c-a8b1-e3900f7bb393.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/892aeb10-ed97-443c-a8b1-e3900f7bb393.jpg"
     },
     "3f2ccbb6-c0e2-4e8b-8554-9aeeb50d144c": {
       "uuid": "3f2ccbb6-c0e2-4e8b-8554-9aeeb50d144c",
@@ -349,7 +349,7 @@
       "title": "Strawberry Lava cake",
       "itemDescription": "almond, coconut, dates, strawberry,\nvanilla, chocolate glaze (150g)\n",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/292902d5-52d8-4eb7-b3c2-dfdaf835cde7.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/292902d5-52d8-4eb7-b3c2-dfdaf835cde7.jpg"
     },
     "6a882331-314d-47f3-ae23-4780cc3d2f3e": {
       "uuid": "6a882331-314d-47f3-ae23-4780cc3d2f3e",
@@ -362,7 +362,7 @@
       "title": "Blueberry cake",
       "itemDescription": "walnut, cocoa, cashew, coconut, honey, fresh lemon juice, blueberres, butter coconu (135g)",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/85370b8d-e36d-4036-ac70-54ed4f0bb15e.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/85370b8d-e36d-4036-ac70-54ed4f0bb15e.jpg"
     },
     "c050ac09-685b-4f9f-b1f4-6c19ba088660": {
       "uuid": "c050ac09-685b-4f9f-b1f4-6c19ba088660",
@@ -381,7 +381,7 @@
       "title": "Dragon roll",
       "itemDescription": "seaweed nori, cauliflower, avocado, zucchini,cashew cheese sticks, black sesame (210/30 g)",
       "price": 11500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7c800a5b-c643-4225-913a-548a2974fd35.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7c800a5b-c643-4225-913a-548a2974fd35.jpg"
     },
     "37025b42-5934-4ba7-9d77-cf7cbeb56885": {
       "uuid": "37025b42-5934-4ba7-9d77-cf7cbeb56885",
@@ -400,7 +400,7 @@
       "title": "Banana napoleon",
       "itemDescription": "Banana, condensed cashew milk, honey (110g)",
       "price": 10500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4cc1a025-1b8c-4530-b0cd-3598693ac32c.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4cc1a025-1b8c-4530-b0cd-3598693ac32c.jpg"
     },
     "2bb7b2eb-a136-44e9-9587-7446eeaf17fa": {
       "uuid": "2bb7b2eb-a136-44e9-9587-7446eeaf17fa",
@@ -438,7 +438,7 @@
       "title": "Pizza with cashew cheese and dried pepper",
       "itemDescription": "Flax cracker with tomato, onion, cashew cheese, tomato sauce, Pesto sauce dried pepper, corn, cauliflower (350g)",
       "price": 17000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ed142a9b-def9-40da-9065-3aeafb766ffe.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ed142a9b-def9-40da-9065-3aeafb766ffe.jpg"
     }
   }
 }

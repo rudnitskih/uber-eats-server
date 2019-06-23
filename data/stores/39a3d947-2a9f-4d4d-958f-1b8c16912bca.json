@@ -99,7 +99,7 @@
     "max": 35,
     "raw": 30
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/2b03ef80-e0c6-41ea-b89e-260545158014.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2b03ef80-e0c6-41ea-b89e-260545158014.jpg",
   "tags": [
     {
       "uuid": "Italian",
@@ -122,14 +122,14 @@
     "storeRatingScore": 4.5966386554621845,
     "ratingCount": "119"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7.jpg",
   "items": {
     "e443f561-6f5b-4792-9d42-7b87b37cfd3e": {
       "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
       "title": "Alpina",
       "itemDescription": "Mozzarella, caciocavallo, bacon, smoked ricotta and mushrooms (530g).",
       "price": 24500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/557bc507-240a-4b6d-ae46-b85a7d52606b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/557bc507-240a-4b6d-ae46-b85a7d52606b.jpg",
       "nutritionalInfo": {}
     },
     "e5e4380a-8a20-4504-b5d1-322a685be147": {
@@ -158,14 +158,14 @@
       "title": "Pizza Prosciutto with mushrooms",
       "itemDescription": "Tomato sauce, ham, champignons, and mozzarella cheese (500g).",
       "price": 21000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2be67bf8-2dcf-40d6-af8a-483f6ab0b68f.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2be67bf8-2dcf-40d6-af8a-483f6ab0b68f.jpg"
     },
     "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114": {
       "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
       "title": "Pizza with prawns, and spinach",
       "itemDescription": "Ricotta, cream, prawns, and spinach (560g).",
       "price": 29000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/56059da0-40bb-4987-8662-41305238608b.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/56059da0-40bb-4987-8662-41305238608b.jpg"
     },
     "752ef292-9653-4f4c-8ffc-7053f56e594b": {
       "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
@@ -193,7 +193,7 @@
       "title": "Focaccia pesto, and parmesan",
       "itemDescription": "Traditional Italian bread with pesto, and Parmesan (240g).",
       "price": 18300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9ca2ba05-be51-40c2-a1e1-56a3d8b775ee.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9ca2ba05-be51-40c2-a1e1-56a3d8b775ee.jpg"
     },
     "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff": {
       "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
@@ -217,7 +217,7 @@
       "title": "Pear & Gorgonzola pizza",
       "itemDescription": "Cream, mozzarella, gorgonzola and pear (550g).",
       "price": 25500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5d3982f0-74aa-444d-9d80-d6579dc9c894.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5d3982f0-74aa-444d-9d80-d6579dc9c894.jpg",
       "nutritionalInfo": {}
     },
     "bf399e1a-2070-4033-8042-1d2030ceb9d2": {
@@ -232,7 +232,7 @@
       "title": "Pizza Diablo",
       "itemDescription": "Tomato sauce, mozzarella cheese, and spicy salami (450g).",
       "price": 22000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6731e385-6b09-4227-b32f-64dbef0aa6fb.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6731e385-6b09-4227-b32f-64dbef0aa6fb.jpg"
     },
     "f7098dff-5970-434e-8c39-9495e761faa6": {
       "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
@@ -246,7 +246,7 @@
       "title": "Pizza Al Faro",
       "itemDescription": "Mozzarella, tomato sauce, arugula, bresaola, cherry tomatoes, truffle oil, and parmesan cheese (600g).",
       "price": 32000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c88e1ef5-f5f0-4bf5-88ce-f6a5a3c1c213.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c88e1ef5-f5f0-4bf5-88ce-f6a5a3c1c213.jpg"
     },
     "8141fbfd-5e57-49dc-85cf-691bd5d4efc7": {
       "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
@@ -274,7 +274,7 @@
       "title": "Pizza Four cheese",
       "itemDescription": "Mozzarella, ricotta, gorgonzola, caciocavallo, and сream (460g).",
       "price": 24500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/aa14db6f-36f0-4961-bce6-ff76c3913365.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/aa14db6f-36f0-4961-bce6-ff76c3913365.jpg"
     },
     "4be7c573-8abd-424c-8ea0-805c72cc41b4": {
       "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
@@ -302,14 +302,14 @@
       "title": "Pizza Prosciutto crudo",
       "itemDescription": "Ricotta, parmesan, mozzarella, and prosciutto crudo (460g).",
       "price": 23500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c261fcaa-3985-4b14-85fc-61694118f855.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c261fcaa-3985-4b14-85fc-61694118f855.jpg"
     },
     "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de": {
       "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
       "title": "Pizza with wild mushrooms, and Italian cheese",
       "itemDescription": "Porcini mushrooms, chanterelles, champignons, caciocavallo, mozzarella, and truffle oil (450g).",
       "price": 29500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/245194f9-5855-4b02-8f44-16f9d1713b26.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/245194f9-5855-4b02-8f44-16f9d1713b26.jpg"
     },
     "7e4198fe-d5c7-4365-a287-32582366cdb9": {
       "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
@@ -365,7 +365,7 @@
       "title": "Pizza Margarita",
       "itemDescription": "Tomato sauce, mozzarella, and basil (450g).",
       "price": 15500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2c063795-2b74-42b9-b9be-8c986b3c231f.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2c063795-2b74-42b9-b9be-8c986b3c231f.jpg"
     }
   }
 }

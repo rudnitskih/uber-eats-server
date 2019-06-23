@@ -100,7 +100,7 @@
     "max": 35,
     "raw": 30
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/48efae80-7609-44a2-bec8-afbae76fab98.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/48efae80-7609-44a2-bec8-afbae76fab98.jpg",
   "tags": [
     {
       "uuid": "Burger",
@@ -123,14 +123,14 @@
     "storeRatingScore": 4.722222222222222,
     "ratingCount": "180"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/100bb3e2-6a60-40cd-b503-444a68118c6d.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/100bb3e2-6a60-40cd-b503-444a68118c6d.jpg",
   "items": {
     "8767182f-03f5-4d58-aa0f-16197fd9cec9": {
       "uuid": "8767182f-03f5-4d58-aa0f-16197fd9cec9",
       "title": "Halloumi Fried",
       "itemDescription": "Slices of fried halloumi cheese with curry and chili pepper served with cranberry sauce (168g).",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/721b3c19-04b2-4a90-9c05-9d71aed5594b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/721b3c19-04b2-4a90-9c05-9d71aed5594b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -157,7 +157,7 @@
       "title": "Chicken Burger",
       "itemDescription": "Chicken thigh grilled in soy and thyme marinade, bacon, pumpkin, spinach, mustard and honey sauce (282g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/991d654a-bf1e-4910-a7cb-ac11c934ee61.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/991d654a-bf1e-4910-a7cb-ac11c934ee61.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -170,7 +170,7 @@
       "title": "Salad with halloumi cheese",
       "itemDescription": "Baby spinach, mache salad, beetroot leaves, pumpkin, halloumi cheese, mustard and honey sauce (230g).",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bebf6b8d-d984-4b02-86b6-2d4a9d39cb81.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bebf6b8d-d984-4b02-86b6-2d4a9d39cb81.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -182,7 +182,7 @@
       "title": "Chicken wings",
       "itemDescription": "Roasted chicken wings in unagi sauce with sesame seeds (334g).",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ea9fb005-5a70-4535-9b88-3028e8f8c6c4.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ea9fb005-5a70-4535-9b88-3028e8f8c6c4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -197,7 +197,7 @@
       "title": "Salad with chicken",
       "itemDescription": "Baby spinach, mache lettuce, beetroot leaves, pumpkin, chicken, mustard and honey sauce (230g).",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d20ea651-0622-4eea-aee2-6f61debc5dfc.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d20ea651-0622-4eea-aee2-6f61debc5dfc.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -209,7 +209,7 @@
       "title": "Underwood brewery beer",
       "itemDescription": "330ml.",
       "price": 6500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/3de376f1-bf50-4c2f-acb4-d1a02b125b2d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/3de376f1-bf50-4c2f-acb4-d1a02b125b2d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -221,7 +221,7 @@
       "title": "Falafel bolls",
       "itemDescription": "Falafel bolls with mint hummus (160g).",
       "price": 5000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/034ea544-9701-4821-b27d-ab3c5fd5889b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/034ea544-9701-4821-b27d-ab3c5fd5889b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -233,7 +233,7 @@
       "title": "Double Beef & Cheese Burger",
       "itemDescription": "Double beef cutlet, double cheese, and relish sauce (340g).\n",
       "price": 13500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/43178945-6964-432c-8a76-b379cf680e58.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/43178945-6964-432c-8a76-b379cf680e58.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -245,7 +245,7 @@
       "title": "Pulled Pork Burger",
       "itemDescription": "Home-smoked pork in BBQ and jalapeno sauce (256g).",
       "price": 12500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a0de1a80-a65f-4754-9ab2-1a0d1efdcf8a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a0de1a80-a65f-4754-9ab2-1a0d1efdcf8a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -258,7 +258,7 @@
       "title": "Club Cola",
       "itemDescription": "330ml.",
       "price": 7000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d5f11e65-43ba-435f-9135-62c1606133ac.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d5f11e65-43ba-435f-9135-62c1606133ac.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -271,7 +271,7 @@
       "title": "Club Mate",
       "itemDescription": "330ml.",
       "price": 7000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9d555f32-9838-4e8b-96c8-1403fa1dec4d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9d555f32-9838-4e8b-96c8-1403fa1dec4d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -284,7 +284,7 @@
       "title": "Wostok Lemonade",
       "itemDescription": "330ml.",
       "price": 7000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5c5ac700-4d30-423d-a555-579931b444a9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5c5ac700-4d30-423d-a555-579931b444a9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -296,7 +296,7 @@
       "title": "Salad with pulled pork",
       "itemDescription": "Baby spinach, mache salad, beetroot leaves, pumpkin, pulled pork, mustard and honey sauce (270g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/aa9158c8-e5fd-45f7-9e7d-0324fab47959.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/aa9158c8-e5fd-45f7-9e7d-0324fab47959.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -308,7 +308,7 @@
       "title": "Mexico Burger",
       "itemDescription": "Beef cutlet, jalapeno sauce, hot pepper, and Cheddar cheese (285g).",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e54291cb-b379-4058-bc98-e99aa9a0ff6d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e54291cb-b379-4058-bc98-e99aa9a0ff6d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -320,7 +320,7 @@
       "title": "Vegetable sticks",
       "itemDescription": "Carrots, celery, sweet pepper. Served with blue cheese sauce (115g).",
       "price": 4500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/78eefd07-fc65-4077-bd37-28a28463677f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/78eefd07-fc65-4077-bd37-28a28463677f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -332,7 +332,7 @@
       "title": "Full Up Farmer Burger",
       "itemDescription": "Big burger XXL with beef cutlet, cheddar cheese, egg, bacon, tomato, lettuce, pickled cucumber, sweet onion, ranch and BBQ sauces (335g).",
       "price": 13000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cd83fc28-6906-4a57-9ad8-a6c3f1b2ca15.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cd83fc28-6906-4a57-9ad8-a6c3f1b2ca15.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -344,7 +344,7 @@
       "title": "Fries",
       "itemDescription": "With greens (dried cilantro, parsley and dill) and mix of spices (paprika, smoked paprika and chili peppers) - 200g.",
       "price": 4500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/84fe2275-150d-4a44-b537-739703e07359.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/84fe2275-150d-4a44-b537-739703e07359.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -356,7 +356,7 @@
       "title": "Salad with bacon",
       "itemDescription": "Baby spinach, mache salad, beetroot leaves, pumpkin, bacon, mustard and honey sauce (165g).",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a9868e7c-a98c-4213-87c8-0575582830f5.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a9868e7c-a98c-4213-87c8-0575582830f5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -368,7 +368,7 @@
       "title": "Chilli Con Carne",
       "itemDescription": "Texas course of chopped beef with kidney beans, chili, bitter chocolate. Served with cucumber and mint spread and tortilla with cheese (328g).",
       "price": 7500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b28db923-d2ce-4aa7-b6b4-d1da1b56aa97.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b28db923-d2ce-4aa7-b6b4-d1da1b56aa97.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -381,7 +381,7 @@
       "title": "Falafel Burger",
       "itemDescription": "Cutlet of chickpea and greens, cucumber and mint spread, soybean sprouts, cucumber, sweet pepper, and walnut sauce (242g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/deb9a3a6-6f19-40b0-b15e-566c40396f7c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/deb9a3a6-6f19-40b0-b15e-566c40396f7c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -393,7 +393,7 @@
       "title": "Potatoes country style",
       "itemDescription": "Potatoes country style served with ranch sauce (200g).",
       "price": 4500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1678f76d-c4a9-4d64-9493-0a6ef89d1718.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1678f76d-c4a9-4d64-9493-0a6ef89d1718.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -405,7 +405,7 @@
       "title": "Blue Cheese Burger",
       "itemDescription": "Beef cutlet, blue cheese, cranberry sauce, slice of apple, and French mustard sauce (255g).",
       "price": 13500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/62c7f670-f4c4-451e-bda5-019f3739c0a0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/62c7f670-f4c4-451e-bda5-019f3739c0a0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -417,7 +417,7 @@
       "title": "Ribs BBQ",
       "itemDescription": "Home-smoked pork ribs with BBQ sauce, served with potatoes and carrots (624g).",
       "price": 19000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8d41c786-865f-4118-ac8e-5600292fc018.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8d41c786-865f-4118-ac8e-5600292fc018.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -433,7 +433,7 @@
       "title": "Fritz Lemonade",
       "itemDescription": "330ml.",
       "price": 7000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8a0d26ff-261a-4dc4-8f43-2c025766ca4e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8a0d26ff-261a-4dc4-8f43-2c025766ca4e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -445,7 +445,7 @@
       "title": "Indi Farm Burger",
       "itemDescription": "Turkey cutlet, caramelized onion, sweet pepper, spinach, and onion sauce (260g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5624093f-e770-4745-af3f-166293e56f6b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5624093f-e770-4745-af3f-166293e56f6b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -457,7 +457,7 @@
       "title": "Vegan Burger",
       "itemDescription": "Tofu with rosemary and mushrooms grill, beetroot pesto, spinach, cucumbers, and tomatoes (233g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b75ad8f1-b87f-484c-81a0-5411cba618f3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b75ad8f1-b87f-484c-81a0-5411cba618f3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -482,7 +482,7 @@
       "title": "Chicken Fried Burger",
       "itemDescription": "Chicken breast in breadcrumbs, poached pineapple, and lettuce leaves (228g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c648e586-2325-4f6f-b905-3fd8b821295f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c648e586-2325-4f6f-b905-3fd8b821295f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

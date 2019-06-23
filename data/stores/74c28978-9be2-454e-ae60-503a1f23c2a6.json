@@ -86,7 +86,7 @@
     "max": 35,
     "raw": 30
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/e9a2cc00-1f08-4770-8398-a98630aa098b.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e9a2cc00-1f08-4770-8398-a98630aa098b.jpg",
   "tags": [
     {
       "uuid": "Taco",
@@ -109,7 +109,7 @@
     "storeRatingScore": 4.043478260869565,
     "ratingCount": "69"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/239a2c92-6748-482e-b6e7-85bb1d12583d.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/239a2c92-6748-482e-b6e7-85bb1d12583d.jpg",
   "items": {
     "11ce5daa-04de-4edb-a16c-3890d8743e53": {
       "uuid": "11ce5daa-04de-4edb-a16c-3890d8743e53",
@@ -155,7 +155,7 @@
       "title": "Quesadilla with chicken   ",
       "itemDescription": "Wheat tortilla, chicken steak, cheese mix, sweet peppers, greens, and salsa sauce (280g).",
       "price": 6000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/dc35780d-d649-430c-a637-962734db7a21.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/dc35780d-d649-430c-a637-962734db7a21.jpg",
       "nutritionalInfo": {}
     },
     "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff": {
@@ -173,7 +173,7 @@
       "title": "Taco with veal ",
       "itemDescription": "Corn and wheat tortilla, stewed veal, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
       "price": 4500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/da042e23-2eec-40cc-aae3-7cdca31a90cd.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/da042e23-2eec-40cc-aae3-7cdca31a90cd.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 8640000000
     },
@@ -199,7 +199,7 @@
       "title": "Nachos chips with salsa ",
       "itemDescription": "Corn chips and salsa sauce (70g).",
       "price": 2500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5e4cc052-3a80-41fe-8a89-797700166692.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5e4cc052-3a80-41fe-8a89-797700166692.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 8640000000
     },
@@ -208,7 +208,7 @@
       "title": "Burrito with chicken  ",
       "itemDescription": "Wheat tortilla, chicken steak, Mexican beans, Mexican rice, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
       "price": 6000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a1f075d0-cbc9-4385-81ee-07ad6edecbd2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a1f075d0-cbc9-4385-81ee-07ad6edecbd2.jpg",
       "nutritionalInfo": {}
     },
     "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf": {
@@ -231,7 +231,7 @@
       "title": "Taco with chicken ",
       "itemDescription": "Corn and wheat tortilla, chicken steak, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
       "price": 4000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b944fef1-a08d-4332-b853-2d67e5859cb6.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b944fef1-a08d-4332-b853-2d67e5859cb6.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 8640000000
     }

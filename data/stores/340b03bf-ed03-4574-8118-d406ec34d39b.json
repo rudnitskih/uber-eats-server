@@ -135,7 +135,7 @@
     "max": 30,
     "raw": 25
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/8eac1eb0-db4a-499e-afd5-116b92a03a7b.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8eac1eb0-db4a-499e-afd5-116b92a03a7b.jpg",
   "tags": [
     {
       "uuid": "Noodle",
@@ -168,14 +168,14 @@
     "storeRatingScore": 4.684210526315789,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/0971e3f6-322e-4872-ad3d-277d16ca91d9.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/0971e3f6-322e-4872-ad3d-277d16ca91d9.jpg",
   "items": {
     "ce3b2a60-bc93-4b9f-b305-65b0445569ea": {
       "uuid": "ce3b2a60-bc93-4b9f-b305-65b0445569ea",
       "title": "Lemonade Grenadine",
       "itemDescription": "250ml. Seven up, syrup",
       "price": 3900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/fda4ac5d-9d03-43d2-ab3a-4daf03f98b1c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/fda4ac5d-9d03-43d2-ab3a-4daf03f98b1c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -187,7 +187,7 @@
       "title": "Fried rice with shrimps and vegetables",
       "itemDescription": "450g. Basmati rice fried in soy sauce with shrimps, eggi, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f786fe09-0b7e-4745-857a-dd8b8b969a41.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f786fe09-0b7e-4745-857a-dd8b8b969a41.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -199,7 +199,7 @@
       "title": "Noodle Soup with noodles and seafood",
       "itemDescription": "450g. Spicy soup with egg noodles, shrimps, squid, eggs, shiitake mushrooms, spinach. ",
       "price": 12900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5235021e-b523-467f-b992-d1fb354ccc6b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5235021e-b523-467f-b992-d1fb354ccc6b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -211,7 +211,7 @@
       "title": "Coconut Noodle Soup with chicken",
       "itemDescription": "400g. Coconut soup with spicy curry paste, bean noodles, chicken, mushroom, shiitake mushrooms, tomatoes, spinach. ",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9d6415a3-3f34-4be5-b4f2-7e1e826fff9e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9d6415a3-3f34-4be5-b4f2-7e1e826fff9e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -239,7 +239,7 @@
       "title": "Noodle Tom Yam Soup with chicken",
       "itemDescription": "400g. Spicy coconut curry soup with bean noodles, chicken, mushrooms, shiitake mushrooms, corn, peas.",
       "price": 10500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6d535559-bec7-4a12-9e6b-567f4471a25e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6d535559-bec7-4a12-9e6b-567f4471a25e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -267,7 +267,7 @@
       "title": "Fried rice with chicken and vegetables",
       "itemDescription": "450g. Basmati rice fried in soy sauce with chicken, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0c61ab2a-5cc1-4088-9688-5983563afec6.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0c61ab2a-5cc1-4088-9688-5983563afec6.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -282,7 +282,7 @@
       "title": "Noodle Soup Udon",
       "itemDescription": "500g. Bouillon, chicken, crab meat, rice noodles, egg, shiitake mushrooms, nori, green onions, sesame seeds.",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b5652976-73ad-433d-8ad5-b8649c110a55.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b5652976-73ad-433d-8ad5-b8649c110a55.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -294,7 +294,7 @@
       "title": "Hiashi algae with vegetables",
       "itemDescription": "220g. Hiashi, carrots, cucumber, walnut sauce, sesame. ",
       "price": 6500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f4947a99-79c3-43dc-a728-ea8b7f2c714c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f4947a99-79c3-43dc-a728-ea8b7f2c714c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -306,7 +306,7 @@
       "title": "Vegetables in Teriyaki sauce",
       "itemDescription": "390g. Mix of vegetables: Bulgarian pepper, corn-mini, mushrooms champignons, carrots, broccoli, onions.",
       "price": 4400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e3c2dfc9-92a0-4c17-b519-30410ee96a19.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e3c2dfc9-92a0-4c17-b519-30410ee96a19.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -337,7 +337,7 @@
       "title": "Fried rice with duck and vegetables",
       "itemDescription": "450g. Basmati rice fried in soy sauce with duck, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
       "price": 13500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e4abc599-26d7-4e94-bcd8-04c997e07408.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e4abc599-26d7-4e94-bcd8-04c997e07408.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -367,7 +367,7 @@
       "title": "Duck with vegetables in Teriyaki sauce",
       "itemDescription": "350g. Sweetish taste. Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
       "price": 10000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/fd09e80c-d951-422a-9dff-8645b49c685a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/fd09e80c-d951-422a-9dff-8645b49c685a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -383,7 +383,7 @@
       "title": "Chicken with vegetables in spicy mushroom sauce",
       "itemDescription": "390g. Pungent taste. Bulgarian pepper, corn-mini, carrots, green beans, mushroom, onions.",
       "price": 5400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/52c31962-9d11-4b09-afbe-404c6652e132.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/52c31962-9d11-4b09-afbe-404c6652e132.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -399,7 +399,7 @@
       "title": "Vegetable salad",
       "itemDescription": "230g. Mixed salad, pea chickpeas, carrots, mushroom, shiitake mushroom, tomato, cucumber, sesame.",
       "price": 6500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5e56e9aa-7f59-4cad-bb62-177b677ac0ed.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5e56e9aa-7f59-4cad-bb62-177b677ac0ed.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -411,7 +411,7 @@
       "title": "Noodle Soup with Chicken’s dumplings",
       "itemDescription": "450g. Soup with egg noodles, Gedza dumplings with chicken, egg, shiitake mushrooms, mushroom, green onions, spinach, nori, sesame.",
       "price": 7900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/39bc0bdb-c21d-4d65-848a-7676e395d43c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/39bc0bdb-c21d-4d65-848a-7676e395d43c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -423,7 +423,7 @@
       "title": "Salad with mango, avocado, and noodles",
       "itemDescription": "210g. Mixed salads, pea chickpeas, carrots, mushrooms, cucumber, avocado (40 gr), mango (40 gr), noodles, peanuts.",
       "price": 8900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7273d1d8-e8ef-4c02-844e-0a4320401730.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7273d1d8-e8ef-4c02-844e-0a4320401730.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -451,7 +451,7 @@
       "title": "Noodle Tom Yam Soup with seafood",
       "itemDescription": "400g. Spicy coconut curry soup with bean noodles, shrimps, squid, mushrooms, shiitake mushrooms, corn, peas.",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c6bf59ab-992c-4829-a39c-e0003d63689a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c6bf59ab-992c-4829-a39c-e0003d63689a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -479,7 +479,7 @@
       "title": "Noodle Soup with noodles and duck",
       "itemDescription": "450g. Spicy soup with egg noodles, duck, eggs, shiitake mushrooms, spinach. ",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0d522414-6c58-4978-a27d-20d9448dd85a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0d522414-6c58-4978-a27d-20d9448dd85a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -491,7 +491,7 @@
       "title": "Duck with vegetables in Kim Chi sauce",
       "itemDescription": "300g. Spicy pungent taste with a sweet and sour aftertaste. Carrots, peppers, shiitake mushrooms, pea chickpeas, onions.",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b96ddf5e-7bad-4312-af5c-af2559f1248b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b96ddf5e-7bad-4312-af5c-af2559f1248b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -523,7 +523,7 @@
       "title": "Seafood with vegetables in Teriyaki sauce",
       "itemDescription": "400g. Sweetish taste. Shrimps, squid, pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ae48c07c-253a-4035-a2ac-1d8e05920e9d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ae48c07c-253a-4035-a2ac-1d8e05920e9d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -539,7 +539,7 @@
       "title": "Miso soup with seafood",
       "itemDescription": "450g. Miso soup with bean noodles, shrimps, squid, shiitake mushrooms, tree mushrooms, corn, spinach, wakame, sesame.",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/3326eb22-ef88-45ee-bace-869fab501bce.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/3326eb22-ef88-45ee-bace-869fab501bce.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -551,7 +551,7 @@
       "title": "Beef with vegetables in Sichuan sauce",
       "itemDescription": "350g. The aftertaste of hot pepper. Corn-mini, string beans, onion, Bulgarian pepper, wood mushroom, carrots, Szechuan pepper.",
       "price": 7400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9c382804-eacf-4b04-9332-d777ebe9ac71.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9c382804-eacf-4b04-9332-d777ebe9ac71.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -583,7 +583,7 @@
       "title": "Coconut Noodle Soup with shrimps",
       "itemDescription": "400g. Coconut soup with spicy curry paste, bean noodles, shrimps, mushrooms, shiitake mushrooms, tomato and spinach. ",
       "price": 11500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/50e36973-a518-478a-a57e-396587289065.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/50e36973-a518-478a-a57e-396587289065.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -611,7 +611,7 @@
       "title": "Lemonade Mango",
       "itemDescription": "250ml. Seven ap, syrup, mango",
       "price": 3900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e30b7d79-85d5-4244-87e4-d2d0b75186de.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e30b7d79-85d5-4244-87e4-d2d0b75186de.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -623,7 +623,7 @@
       "title": "Beef with vegetables in Black Pepper sauce",
       "itemDescription": "390g. Pungent taste. Bulgarian pepper, corn-mini, carrots, green beans, mushroom, onions.",
       "price": 7400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8dca1a65-84f9-417a-8382-a718ed4a313b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8dca1a65-84f9-417a-8382-a718ed4a313b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -655,7 +655,7 @@
       "title": "Fried dumplings with shrimps",
       "itemDescription": "130g. Fried Gedza dumplings with shrimps, Teriyaki sauce, pea shoots.",
       "price": 8900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d97bd4aa-4068-4c43-9b60-5e8ec6c53e2b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d97bd4aa-4068-4c43-9b60-5e8ec6c53e2b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -670,7 +670,7 @@
       "title": "Miso soup with chicken",
       "itemDescription": "450g. Miso soup with bean noodles, chicken, shiitake mushrooms, mushrooms, corn, spinach, wakame, sesame seeds.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bfcf83e1-d478-47ec-85fd-24757621b2c9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bfcf83e1-d478-47ec-85fd-24757621b2c9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -682,7 +682,7 @@
       "title": "Seafood with vegetables in Kung Pao sauce",
       "itemDescription": "400g. Spicy with a faintly tasted taste. Shrimps, squid, corn-mini, Bulgarian pepper, chili, onion, mushroom, string beans.",
       "price": 10400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1dab3d96-73e6-43b7-ae2a-294d47d3a111.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1dab3d96-73e6-43b7-ae2a-294d47d3a111.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -714,7 +714,7 @@
       "title": "Miso soup with vegetables",
       "itemDescription": "400g. Miso soup with bean noodles, shiitake mushrooms, mushrooms, corn, spinach, wakame, sesame seeds.",
       "price": 7900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/295df6e8-72cb-42a5-9b30-c3dc3d334af0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/295df6e8-72cb-42a5-9b30-c3dc3d334af0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -742,7 +742,7 @@
       "title": "Salad NoodlesCaesar with chicken",
       "itemDescription": "330g. Mixed salad, chicken, tomatoes, parmesan, eggs, croutons, Caesar dressing.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/02d96bff-ce06-4957-8c74-4763c426cea7.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/02d96bff-ce06-4957-8c74-4763c426cea7.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -754,7 +754,7 @@
       "title": "Aqua Minerale",
       "itemDescription": "500 ml, without gas",
       "price": 2900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7fb8c433-3a81-4701-9468-c383c193a234.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7fb8c433-3a81-4701-9468-c383c193a234.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -766,7 +766,7 @@
       "title": "Chicken with vegetables in Teriyaki sauce",
       "itemDescription": "360g. Sweetish taste. Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
       "price": 6400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/560e8acb-a727-4f1d-9ad6-17d081774fc5.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/560e8acb-a727-4f1d-9ad6-17d081774fc5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -782,7 +782,7 @@
       "title": "Chicken with vegetables in oyster sauce",
       "itemDescription": "390g. Spicy taste with a sweet and sour aftertaste. Broccoli, corn-mini, carrots, champignon mushrooms, shiitake, Bulgarian pepper.",
       "price": 6000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1c8910df-d35f-4358-8ce4-2fd28758aa25.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1c8910df-d35f-4358-8ce4-2fd28758aa25.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -798,7 +798,7 @@
       "title": "Chicken with vegetables in Kung Pao sauce",
       "itemDescription": "350g. Spicy with sweet taste. Red bell pepper, green haricot, chili, peanut, green onion. ",
       "price": 4000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5facd653-d5b6-4445-9905-a6f75800ee8e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5facd653-d5b6-4445-9905-a6f75800ee8e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -830,7 +830,7 @@
       "title": "Beef with vegetables in Kim Chi sauce",
       "itemDescription": "300g. Spicy pungent taste with a sweet and sour aftertaste. Carrots, peppers, shiitake mushrooms, pea chickpeas, onions.",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/767bc3b3-0d3e-4909-9e89-35eef48f79bc.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/767bc3b3-0d3e-4909-9e89-35eef48f79bc.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -862,7 +862,7 @@
       "title": "Pepsi",
       "itemDescription": "330 ml",
       "price": 2900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c3ac030b-1900-4812-b88f-a6f3c5b56283.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c3ac030b-1900-4812-b88f-a6f3c5b56283.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -874,7 +874,7 @@
       "title": "Beef with vegetables in Teriyaki sauce",
       "itemDescription": "390g. Slightish aftertaste. Corn-mini, string beans, onion, bell pepper, mushroom, shiitake mushroom.",
       "price": 9400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e9dc8f67-f77a-4fb4-b22c-1bb173bf86f3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e9dc8f67-f77a-4fb4-b22c-1bb173bf86f3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -890,7 +890,7 @@
       "title": "Fried rice with beef and vegetables",
       "itemDescription": "450g. Basmati rice fried in soy sauce with beef, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7bb64f5e-bc12-404b-b688-7fe0872ed32f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7bb64f5e-bc12-404b-b688-7fe0872ed32f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -905,7 +905,7 @@
       "title": "Salad with mango, avocado, and chicken",
       "itemDescription": "270g. Mixed salads, pea chickpeas, carrots, mushrooms, cucumber, avocado (30 gr), mango (30 gr), chicken.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/235c11a0-bab5-4367-863f-02301fec1d68.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/235c11a0-bab5-4367-863f-02301fec1d68.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -917,7 +917,7 @@
       "title": "Crab's salad ",
       "itemDescription": "240g. Mixed salad, carrots, cucumber, mushrooms, crab meat, walnut sauce, sesame seeds.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6ad15565-510e-46bb-94ce-826d4904fd51.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6ad15565-510e-46bb-94ce-826d4904fd51.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -929,7 +929,7 @@
       "title": "Fried dumplings with beef",
       "itemDescription": "130g. Fried Gedza dumplings with beef, Teriyaki sauce, pea shoots.",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ea328d2b-e79c-43a9-a622-f4c14f48d5b6.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ea328d2b-e79c-43a9-a622-f4c14f48d5b6.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -944,7 +944,7 @@
       "title": "Fried rice with vegetables",
       "itemDescription": "450g. Basmati rice fried in soy sauce with broccoli, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
       "price": 7500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/048e7129-ad4c-42ef-be39-e0e4f7a63c46.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/048e7129-ad4c-42ef-be39-e0e4f7a63c46.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -959,7 +959,7 @@
       "title": "Shrimps with vegetables in Teriyaki sauce",
       "itemDescription": "350g. Sweetish taste.Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
       "price": 10000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/78848101-ea0b-4525-889d-9fd4a82ae718.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/78848101-ea0b-4525-889d-9fd4a82ae718.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -975,7 +975,7 @@
       "title": "Fried dumplings with chicken",
       "itemDescription": "130g. Fried Gedza dumplings with chicken, Teriyaki sauce, pea shoots.",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/015d2ce3-ae87-47fb-8830-55d1c4e6ef25.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/015d2ce3-ae87-47fb-8830-55d1c4e6ef25.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -990,7 +990,7 @@
       "title": "Noodle Soup with noodles and chicken",
       "itemDescription": "450g. Spicy soup with egg noodles, chicken, eggs, shiitake mushrooms, spinach, nori.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/eeffbd60-f696-4245-ba59-8742fb081f61.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/eeffbd60-f696-4245-ba59-8742fb081f61.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

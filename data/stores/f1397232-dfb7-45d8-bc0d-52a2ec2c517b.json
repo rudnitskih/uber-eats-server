@@ -147,7 +147,7 @@
     "max": 40,
     "raw": 35
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/b1ec01e3-404b-4836-bf26-fc7825abae12.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b1ec01e3-404b-4836-bf26-fc7825abae12.jpg",
   "tags": [
     {
       "uuid": "Salad",
@@ -170,7 +170,7 @@
     "storeRatingScore": 4.647058823529412,
     "ratingCount": "153"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/4fdf7121-0d26-4309-b654-d6c989db9208.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/4fdf7121-0d26-4309-b654-d6c989db9208.jpg",
   "items": {
     "af711cf2-ba8d-4a8b-aa55-3576f60ef5e9": {
       "uuid": "af711cf2-ba8d-4a8b-aa55-3576f60ef5e9",
@@ -189,7 +189,7 @@
       "title": "Coco pho with chicken",
       "itemDescription": "Ginger root, lemongrass, coconut milk, chicken fillet, chicken broth, rice, soy sprouts, pumpkin seeds, and chili peppers.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d28e1d12-0dec-41b9-b5ec-2b4aeee2b2ae.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d28e1d12-0dec-41b9-b5ec-2b4aeee2b2ae.jpg"
     },
     "0cce0d10-54a3-44da-9488-bafccf9a3678": {
       "uuid": "0cce0d10-54a3-44da-9488-bafccf9a3678",
@@ -208,7 +208,7 @@
       "title": "Sushirrito with falafel",
       "itemDescription": "Rice, nori seaweed, romaine lettuce, cucumber, honey-mustard sauce, bell pepper, and tomato.",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/fe0f3678-3a23-401d-b272-9c3ec4074d6f.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/fe0f3678-3a23-401d-b272-9c3ec4074d6f.jpg"
     },
     "4f930dd2-2346-4d67-813f-36082a7b2960": {
       "uuid": "4f930dd2-2346-4d67-813f-36082a7b2960",
@@ -249,7 +249,7 @@
       "title": "Silk Road",
       "itemDescription": "White bread, tomato, dried apricots sauce, mixed salad, and chicken fillet.",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1aee93cf-ba3d-46f6-8773-15f2a096b9b9.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1aee93cf-ba3d-46f6-8773-15f2a096b9b9.jpg"
     },
     "c8a682f3-5877-468e-bbc0-47a08675af8b": {
       "uuid": "c8a682f3-5877-468e-bbc0-47a08675af8b",
@@ -262,7 +262,7 @@
       "title": "Dark knight",
       "itemDescription": "Feta cheese, egg, spinach, butter, black tortilla, black olives, and green olives.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1720629a-bf29-4fbd-ac71-b4f58e27e51c.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1720629a-bf29-4fbd-ac71-b4f58e27e51c.jpg"
     },
     "9621c475-d040-4dbf-b4cd-d15ec416b66d": {
       "uuid": "9621c475-d040-4dbf-b4cd-d15ec416b66d",
@@ -275,7 +275,7 @@
       "title": "Daal",
       "itemDescription": "Beans, lentil, carrot, ginger, celery, garlic, chili peppers, tomatoes, coconut milk, leek, and bell pepper.",
       "price": 5000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b5d53bbf-1e96-4caa-b01e-d323926a3784.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b5d53bbf-1e96-4caa-b01e-d323926a3784.jpg"
     },
     "6346f2f0-73a4-4f26-b923-e4a17a71262f": {
       "uuid": "6346f2f0-73a4-4f26-b923-e4a17a71262f",
@@ -297,7 +297,7 @@
       "title": "Tuscan",
       "itemDescription": "Chicken fillet, egg, Parmesan cheese, cherry tomatoes, ranch sauce. To choose from L or XL.",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8a11b64d-789a-4287-800c-b4d69972a61a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8a11b64d-789a-4287-800c-b4d69972a61a.jpg",
       "customizationUuids": [
         "a554c865-d99a-461b-8386-8113fa0de910"
       ]
@@ -307,7 +307,7 @@
       "title": "Nicoise",
       "itemDescription": "Tuna, egg, cherry tomatoes, salad, lemon, beans, olives, and onion. To choose from L or XL.",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/510f4038-ec99-4e3f-94bc-fbcdcbd8b689.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/510f4038-ec99-4e3f-94bc-fbcdcbd8b689.jpg",
       "customizationUuids": [
         "0a1904dc-87b4-4b71-a553-3375e2adb6cf"
       ]
@@ -323,7 +323,7 @@
       "title": "Wok with sea bass",
       "itemDescription": "Sea bass, caramelized pumpkin, Thai sauce to fish, rice, sesame, onion, beans, spinach, and chili pepper. To choose from L or XL.",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/26c2eb03-ac12-4e3a-abc7-e9412f4af775.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/26c2eb03-ac12-4e3a-abc7-e9412f4af775.jpg",
       "customizationUuids": [
         "e713d8c2-7d08-444c-be93-47e2635c7ee5"
       ]
@@ -345,7 +345,7 @@
       "title": "Chia mango",
       "itemDescription": "Coconut milk, chia seeds, mango, sugar, and mint.",
       "price": 7000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/52929f5b-b1ee-4d00-8cec-34420347f513.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/52929f5b-b1ee-4d00-8cec-34420347f513.jpg"
     },
     "2506f5e7-2285-4795-93cb-0f3d861f2665": {
       "uuid": "2506f5e7-2285-4795-93cb-0f3d861f2665",
@@ -358,7 +358,7 @@
       "title": "Green roll",
       "itemDescription": "Tortilla, spinach, tofu, bell pepper, eggplant, zucchini, cucumber, peanut sauce, soy sauce, and sunflower oil.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ab653dda-7993-4022-9fa0-5e0603f371af.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ab653dda-7993-4022-9fa0-5e0603f371af.jpg"
     },
     "a1758c0b-d3b4-4375-9b20-d6118b82f35d": {
       "uuid": "a1758c0b-d3b4-4375-9b20-d6118b82f35d",
@@ -381,14 +381,14 @@
       "title": "Coco pho with tofu",
       "itemDescription": "Spinach, pumpkin seeds, marinated tofu, rice, lemongrass, coconut milk, ginger, and lime leaves.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9976de14-5991-4ada-87df-96e4522c2db2.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9976de14-5991-4ada-87df-96e4522c2db2.jpg"
     },
     "9c4cb605-c2b9-4c6c-b8c1-c9cfb7bf19fc": {
       "uuid": "9c4cb605-c2b9-4c6c-b8c1-c9cfb7bf19fc",
       "title": "Jambalaya",
       "itemDescription": "Cream, chicken, chicken broth, bell pepper, bechamel sauce, sriracha sauce, and couscous. To choose from L or XL.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/3f36def1-ad12-4584-b708-501e7b43b165.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/3f36def1-ad12-4584-b708-501e7b43b165.jpg",
       "customizationUuids": [
         "758fdcf7-a839-4f6c-9d63-e74592119b19"
       ]
@@ -418,7 +418,7 @@
       "title": "Submarine",
       "itemDescription": "Rice, nori, iceberg lettuce, tartar sauce, spinach, cucumber, salad, egg, wakame, peanut sauce, sriracha sauce.",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e0f71907-7f8b-48bb-9d2a-50e79ffacb25.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e0f71907-7f8b-48bb-9d2a-50e79ffacb25.jpg"
     },
     "0186c236-5751-40d0-99fc-28ebad5d8aab": {
       "uuid": "0186c236-5751-40d0-99fc-28ebad5d8aab",
@@ -445,7 +445,7 @@
       "title": "Wok with turkey",
       "itemDescription": "Turkey fillet, bell pepper, pumpkin bean, soy seeds, onions, rice noodles, and oyster sauce. To choose from L or XL.",
       "price": 9000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0d0492bf-3823-434a-b941-f4b347b1d819.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0d0492bf-3823-434a-b941-f4b347b1d819.jpg",
       "customizationUuids": [
         "6d5751b9-af87-4feb-bdd1-5b52a288c0de"
       ]
@@ -469,7 +469,7 @@
       "title": "Sabzi with falafel",
       "itemDescription": "Falafel, lentil garnish (onion, beans, celery, canned beans, and carrots).",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7937c412-fba2-49c8-bea2-0dd6418b891b.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7937c412-fba2-49c8-bea2-0dd6418b891b.jpg"
     },
     "a3dfc774-4355-4dd1-9a44-020c35277357": {
       "uuid": "a3dfc774-4355-4dd1-9a44-020c35277357",
@@ -488,7 +488,7 @@
       "title": "Carrot cake with hazelnuts",
       "itemDescription": "Carrots, flour, ginger, cinnamon, ginger, sunflower oil, and hazelnuts.",
       "price": 4000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a846740d-1566-46f5-935a-6022f85ad858.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a846740d-1566-46f5-935a-6022f85ad858.jpg"
     },
     "8ec49624-87c5-4175-a967-e303792aeb4c": {
       "uuid": "8ec49624-87c5-4175-a967-e303792aeb4c",
@@ -508,7 +508,7 @@
       "title": "Chicken cherry",
       "itemDescription": "Caramelized chicken liver, salad, cherry tomatoes. To choose from L or XL.",
       "price": 6500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/81666d1e-18ed-4e92-8356-1bdcb9bdf11c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/81666d1e-18ed-4e92-8356-1bdcb9bdf11c.jpg",
       "customizationUuids": [
         "7830656f-689c-4273-a4e7-17c928a140c5"
       ]

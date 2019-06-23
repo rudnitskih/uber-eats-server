@@ -145,7 +145,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/f643aaaa-c2ee-4828-9cdf-55f2450e068b.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f643aaaa-c2ee-4828-9cdf-55f2450e068b.jpg",
   "endorsement": "Справжні японські суші",
   "tags": [
     {
@@ -174,14 +174,14 @@
     "storeRatingScore": 4.18,
     "ratingCount": "150"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/0e02cf62-72ab-48dc-948c-78d83faa895e.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/0e02cf62-72ab-48dc-948c-78d83faa895e.jpg",
   "items": {
     "59955aad-5d50-4e3d-869f-1619f240d893": {
       "uuid": "59955aad-5d50-4e3d-869f-1619f240d893",
       "title": "Philadelphia with shrimp",
       "itemDescription": "Rice, shrimp tempura, cream cheese, bell pepper, cucumber, and nori.",
       "price": 8900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bd1ba870-4e5a-412d-8373-1a88bd1ccd50.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bd1ba870-4e5a-412d-8373-1a88bd1ccd50.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -196,7 +196,7 @@
       "title": "California with flying fish roe and salmon",
       "itemDescription": "Rice, salmon, cucumber, flying fish roe, avocado, and nori.",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d8c03be6-a79b-48ae-a7b1-c0f26983eccf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d8c03be6-a79b-48ae-a7b1-c0f26983eccf.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -211,7 +211,7 @@
       "title": "Fried gedza dumplings with chicken and salad",
       "itemDescription": "Gedza with chicken, Asian salad, daikon, tempura sauce, green onion, and sesame. To choose from 125 or 160 g.",
       "price": 8400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bc44ebb6-ea7e-437a-adc6-422d1216a984.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bc44ebb6-ea7e-437a-adc6-422d1216a984.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -226,7 +226,7 @@
       "title": "Beijing chicken salad",
       "itemDescription": "Chinese cabbage, chicken fillet, radicchio salad, tomatoes, cucumber, lemon-nut sauce, fried rice noodles, sesame, and cilantro.",
       "price": 7400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7a971f42-438a-49ff-9d94-69a2cd807e69.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7a971f42-438a-49ff-9d94-69a2cd807e69.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -238,7 +238,7 @@
       "title": "Udon noodle with veal",
       "itemDescription": "Udon noodle, veal, champignons, bell pepper, corn, black pepper sauce, tonkatsu sauce, leeks, and garlic.",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/efa2d936-6fdb-4700-914d-2680cb7a355d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/efa2d936-6fdb-4700-914d-2680cb7a355d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -250,7 +250,7 @@
       "title": "Crab roll with hiyashi",
       "itemDescription": "Rice, crab mix with masago roe and mayonnaise, hiyashi, nut sauce, daikon, and nori.",
       "price": 10400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e9b8e66a-88df-46a3-8172-625ff157adfb.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e9b8e66a-88df-46a3-8172-625ff157adfb.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -265,7 +265,7 @@
       "title": "Miso soup",
       "itemDescription": "Miso broth, tofu, wakame, and green onion.",
       "price": 3400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2ee2bc53-3cd6-4916-ba5a-ebd18c4ac130.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2ee2bc53-3cd6-4916-ba5a-ebd18c4ac130.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -277,7 +277,7 @@
       "title": "Philadelphia deluxe with salmon",
       "itemDescription": "Rice, salmon, cream cheese, avocado, flying fish roe, and nori.",
       "price": 14400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d14d8b60-9225-4dd0-aa72-8ec49f914a5a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d14d8b60-9225-4dd0-aa72-8ec49f914a5a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -292,7 +292,7 @@
       "title": "Ramen soup with Chashu pork",
       "itemDescription": "Ramen broth, pork Chashu, ramen noodles, pickled egg, onion, cilantro, nori, and chili oil. To choose from 440 or 570 g.",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/18446c8e-b5c6-4c22-b027-51cf9a7fe6e0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/18446c8e-b5c6-4c22-b027-51cf9a7fe6e0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -307,7 +307,7 @@
       "title": "De Lux Set",
       "itemDescription": "Philadelphia deluxe with Salmon, Green Dragon, Shrimp tempura crunch, Smile roll, Spicy roll with tuna (950g) ",
       "price": 63900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6c6d7f2b-92ba-4674-8831-33198e1ca4f3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6c6d7f2b-92ba-4674-8831-33198e1ca4f3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -322,7 +322,7 @@
       "title": "Salmon miso soup",
       "itemDescription": "Miso broth, salmon, tofu, wakame, and green onion.",
       "price": 4400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5b5160d1-dbb8-4422-bf40-db98d67b0711.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5b5160d1-dbb8-4422-bf40-db98d67b0711.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -334,7 +334,7 @@
       "title": "Philadelphia green with salmon",
       "itemDescription": "Rice, cucumber, cream cheese, salmon, avocado, salmon roe, and nori.",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/646a6f20-e76f-4d95-acaa-83bd584c1f1c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/646a6f20-e76f-4d95-acaa-83bd584c1f1c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -349,7 +349,7 @@
       "title": "Sweet and sour pork",
       "itemDescription": "Pork, steamed rice, broccoli, champignons, bell pepper, paprika sauce, kimchi sauce, onion, cilantro, and sesame.",
       "price": 13400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/687f9b30-f588-4f14-b526-fe634c904dae.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/687f9b30-f588-4f14-b526-fe634c904dae.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -361,7 +361,7 @@
       "title": "Big Fish Set",
       "itemDescription": "Rainbow Big Fish roll, Philadelphia Big Fish with smoked salmon and tuna, Philadelphia Big Fish with salmon, Felix sushi with sea bass, Felix sushi with salmon (650g)",
       "price": 60900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d2cf5f91-83a6-49a2-955f-e4329560413c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d2cf5f91-83a6-49a2-955f-e4329560413c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -376,7 +376,7 @@
       "title": "Shrimp fried rice",
       "itemDescription": "Rice, shrimp, egg, soy sauce, hondashi, and sesame.",
       "price": 7400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c6e0e61d-d798-4c98-b040-6cd6bdd6490d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c6e0e61d-d798-4c98-b040-6cd6bdd6490d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -388,7 +388,7 @@
       "title": "Kampai Set",
       "itemDescription": "Unagi Philadelphia, Philadelphia with shrimp, Classic California with flying fish roe, California with sesame and salmon, Chicken roll, California with roe and yellowtail, Spicy roll with tuna, Roll with mussels (1500 g) ",
       "price": 74900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/16931bc1-954f-4846-b4d7-3a2b46a73914.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/16931bc1-954f-4846-b4d7-3a2b46a73914.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -403,7 +403,7 @@
       "title": "Green dragon",
       "itemDescription": "Rice, eel, avocado, tamago, cucumber, unagi sauce, sesame, and nori.",
       "price": 17900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ec582e67-c7a2-4007-8202-5037c7946c09.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ec582e67-c7a2-4007-8202-5037c7946c09.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -418,7 +418,7 @@
       "title": "Philadelphia with sesame and smoked salmon",
       "itemDescription": "Rice, smoked salmon, cream cheese, cucumber, avocado, sesame, and nori.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cd6c2f95-cf86-4bce-85d0-23a0fca29f36.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cd6c2f95-cf86-4bce-85d0-23a0fca29f36.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -433,7 +433,7 @@
       "title": "Chicken curry with steamed rice",
       "itemDescription": "Chicken, steamed rice, chicken broth, coconut milk, bell pepper, zucchini, champignons, curry paste, fish sauce, ginger, chilli cilantro, and sesame.",
       "price": 12900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0fffeec2-c67e-4f86-b22c-d1a0ec6f7184.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0fffeec2-c67e-4f86-b22c-d1a0ec6f7184.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -445,7 +445,7 @@
       "title": "Colored rice chips",
       "itemDescription": "Rice chips and sunflower oil.",
       "price": 2900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7f2b9864-c63d-49f0-bf3c-705dcafd191f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7f2b9864-c63d-49f0-bf3c-705dcafd191f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -457,7 +457,7 @@
       "title": "Egg noodles with chicken and vegetables",
       "itemDescription": "Egg noodles, chicken fillet, vegetable mix, sesame, teriyaki sauce, and kimchi sauce (wok).",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9dd4c755-8db9-41b2-9e5d-9b185fe7ae44.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9dd4c755-8db9-41b2-9e5d-9b185fe7ae44.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -469,7 +469,7 @@
       "title": "Vegetable fried rice",
       "itemDescription": "Rice, mushrooms, bell pepper, onion, soy sauce, hondashi, and sesame.",
       "price": 4900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d8dacdda-601f-47f5-b6bb-c4d6f8b97e18.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d8dacdda-601f-47f5-b6bb-c4d6f8b97e18.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -481,7 +481,7 @@
       "title": "Thai rice with Chashu pork",
       "itemDescription": "Steamed rise, Chashu pork, egg, carrot, soy sauce, onion, and hondash.",
       "price": 7400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d716e837-1f7b-4c51-9826-7c1e77db685c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d716e837-1f7b-4c51-9826-7c1e77db685c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -493,7 +493,7 @@
       "title": "Classic California with flying fish roe",
       "itemDescription": "Rice, cucumber, crab stick, flying fish roe, avocado, mayonnaise, and nori.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bb9f60b1-ac72-4327-8096-1fdfad871d67.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bb9f60b1-ac72-4327-8096-1fdfad871d67.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -508,7 +508,7 @@
       "title": "Futomaki with smoked tuna",
       "itemDescription": "Rice, smoked tuna, broccoli, lollo biondo salad, spice sauce, and nori.",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f2f0bcf2-0ba0-4f84-ab84-ef74682fa6ad.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f2f0bcf2-0ba0-4f84-ab84-ef74682fa6ad.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -523,7 +523,7 @@
       "title": "Philadelphia Set Middle",
       "itemDescription": "Philadelphia deluxe with salmon, Philadelphia with shrimp, Smile roll, Crunch with salmon Well Done (820п)",
       "price": 47900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5bd6b29d-72be-4fd3-9295-5f239bd09e63.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5bd6b29d-72be-4fd3-9295-5f239bd09e63.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -538,7 +538,7 @@
       "title": "Eel miso soup",
       "itemDescription": "Miso broth, eel, tofu, wakame, green onion.",
       "price": 5400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/11786b21-736f-40ce-8805-4fa7725cded6.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/11786b21-736f-40ce-8805-4fa7725cded6.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -550,7 +550,7 @@
       "title": "Chicken fried rice",
       "itemDescription": "Rice, chicken fillet, egg, soy sauce, and sesame.",
       "price": 6400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a815cc23-5bd0-4bb9-b448-b8bf65c418d0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a815cc23-5bd0-4bb9-b448-b8bf65c418d0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -562,7 +562,7 @@
       "title": "Seafood salad",
       "itemDescription": "Shrimps, octopus, shell mussels, salad mix, peas microgreen, mango, and spinach sauce.",
       "price": 12900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a84c697d-baa0-416a-b425-4e1d49380c28.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a84c697d-baa0-416a-b425-4e1d49380c28.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -574,7 +574,7 @@
       "title": "Salmon salad",
       "itemDescription": "Salmon, quinoa, salad mix, and citrus-mustard sauce.",
       "price": 12900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/75a185b4-1aa6-4040-a853-e9a6217a3b0e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/75a185b4-1aa6-4040-a853-e9a6217a3b0e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -586,7 +586,7 @@
       "title": "Glass noodles with seafood",
       "itemDescription": "Glass noodles, seafood mix, vegetable mix, tonkatsu sauce, oyster sauce, and garlic (wok).",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/90a185ab-7693-4563-a3b1-f28eb94c8da2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/90a185ab-7693-4563-a3b1-f28eb94c8da2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -598,7 +598,7 @@
       "title": "Sea Max Set",
       "itemDescription": "Philadelphia with salmon, Shrimp tempura crunch, California with roe and yellowtail, Crab roll with hiyashi, Spicy roll with tuna (1010g) ",
       "price": 46900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1c34ddeb-5b89-4be0-9161-7c4e22180cad.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1c34ddeb-5b89-4be0-9161-7c4e22180cad.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -625,7 +625,7 @@
       "title": "Udon soup with chicken and shrimp",
       "itemDescription": "Cler broth, glass noodles, chicken fillet, shrimp tempura, egg, shiitake mushrooms, wakame, and green onions.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/10cef4f7-5fba-48b6-ad96-cd414d916bad.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/10cef4f7-5fba-48b6-ad96-cd414d916bad.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -637,7 +637,7 @@
       "title": "Pumpkin cheesecake",
       "itemDescription": "Pumpkin puree, cream cheese, cookies, butter, sugar, mint, cinnamon, cocoa powder.",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d60927ea-964a-414f-ba31-e693aeefacd9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d60927ea-964a-414f-ba31-e693aeefacd9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -649,7 +649,7 @@
       "title": "Yakitori chicken",
       "itemDescription": "Chicken, steamed rice, teriyaki sauce, wine, leeks, sesame, cilantro.",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e778ff8d-05f7-4cfd-bab4-9ea20ea14cfe.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e778ff8d-05f7-4cfd-bab4-9ea20ea14cfe.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -661,7 +661,7 @@
       "title": "Philadelphia with sesame and salmon",
       "itemDescription": "Rice, salmon, cream cheese, cucumber, avocado, sesame, and nori.",
       "price": 9400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/80745d78-892c-4fc7-bdfc-12e88d65348e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/80745d78-892c-4fc7-bdfc-12e88d65348e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -676,7 +676,7 @@
       "title": "Chicken miso soup",
       "itemDescription": "Miso broth, egg noodles, chicken fillet, quail egg, wakame, sesame, and green onions.",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/781a2bc8-d0b1-4007-8111-3be1810ddd2f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/781a2bc8-d0b1-4007-8111-3be1810ddd2f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -688,7 +688,7 @@
       "title": "Philadelphia Set Max",
       "itemDescription": "Philadelphia deluxe with salmon, Unagi Philadelphia, Philadelphia with shrimp, Sushiya rainbow roll, Cheddar roll (1010 g) ",
       "price": 56900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6ca98f86-d7dd-446e-bc2d-88674d774207.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6ca98f86-d7dd-446e-bc2d-88674d774207.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -703,7 +703,7 @@
       "title": "Matcha cream mousse",
       "itemDescription": "Cream, cream cheese, matcha tea, biscuit, fresh lime juice, yuzu juice, chocolate cookies, lime, and powdered sugar, mint.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f8e2915e-7387-40c0-96cd-87ac20d5de82.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f8e2915e-7387-40c0-96cd-87ac20d5de82.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -715,7 +715,7 @@
       "title": "Red dragon",
       "itemDescription": "Rice, salmon, eel, tamago, cucumber, masago roe, mayonnaise, and nori.",
       "price": 18900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/18a3658b-9b55-469d-8c02-a8a01c4e71af.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/18a3658b-9b55-469d-8c02-a8a01c4e71af.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -730,7 +730,7 @@
       "title": "Classic rice chips",
       "itemDescription": "Rice chips and sunflower oil.",
       "price": 2900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8b45a429-d160-4b6e-bc7a-d0f1c770533d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8b45a429-d160-4b6e-bc7a-d0f1c770533d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -742,7 +742,7 @@
       "title": "Hiyashi seaweed with sesame",
       "itemDescription": "Hiyashi and sesame.",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/605dfc1c-3907-409a-b294-26d68cd9f433.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/605dfc1c-3907-409a-b294-26d68cd9f433.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -754,7 +754,7 @@
       "title": "Sea Set Middle",
       "itemDescription": "Spicy roll with tuna, Roll with crab and salmon, Roll with mussels, Cheddar roll (740g)",
       "price": 34900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/00b6803d-ec4d-4722-93cd-84dfe024b8e4.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/00b6803d-ec4d-4722-93cd-84dfe024b8e4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -769,7 +769,7 @@
       "title": "California with sesame and salmon",
       "itemDescription": "Rice, salmon, cucumber, sesame, avocado, and nori.",
       "price": 9400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/75fc1728-5c5a-4d18-8a42-c9dbb3bdc7cf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/75fc1728-5c5a-4d18-8a42-c9dbb3bdc7cf.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -784,7 +784,7 @@
       "title": "Roll with tuna felix",
       "itemDescription": "Rice, tuna, flying fish roe, Japanese mayonnaise, cucumber, takuan, green onions, and nori.",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d7459f84-eaa3-4e63-a6b8-de8426ee564c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d7459f84-eaa3-4e63-a6b8-de8426ee564c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -799,7 +799,7 @@
       "title": "Fusion Set",
       "itemDescription": "Spicy roll with tuna, Roll with duck in daikon, Roll with smoked salmon, Roll with crab and salmon, Roll with mussels, Cheddar roll (1110 g) ",
       "price": 57900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/68577750-57c9-47ca-ad92-1f0c6ee1c499.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/68577750-57c9-47ca-ad92-1f0c6ee1c499.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -814,7 +814,7 @@
       "title": "Chicken roll",
       "itemDescription": "Rice, chicken, cream cheese, flying fish roe, nori, sesame, cucumber, takuan, green onion, and spice sauce.",
       "price": 8900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/22f99814-2ced-4031-9f3d-aef915c2c2c8.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/22f99814-2ced-4031-9f3d-aef915c2c2c8.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -829,7 +829,7 @@
       "title": "Unagi Philadelphia",
       "itemDescription": "Rice, eel, cream cheese, cucumber, sesame, masago roe, and nori.",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/55a8a47d-89e6-44a4-80ad-61c6af2fb4ed.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/55a8a47d-89e6-44a4-80ad-61c6af2fb4ed.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -844,7 +844,7 @@
       "title": "California with flying fish roe and smoked salmon",
       "itemDescription": "Rice, smoked salmon, cucumber, flying roe, avocado, and nori.",
       "price": 11400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/eeb725b5-3e8e-49cc-b095-db4a581a0437.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/eeb725b5-3e8e-49cc-b095-db4a581a0437.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -859,7 +859,7 @@
       "title": "Mango mousse",
       "itemDescription": "Cream, cream cheese, mango, chocolate biscuits, mint, fresh lime juice, yuzu juice, powdered sugar.",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7c6d6c21-4fee-4837-b9c1-1b27d4a3d47a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7c6d6c21-4fee-4837-b9c1-1b27d4a3d47a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -871,7 +871,7 @@
       "title": "Golden unagi dragon",
       "itemDescription": "Rice, eel, tamago, cucumber, unagi sauce, sesame, and nori.",
       "price": 19400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8dba1af2-1dfb-4c8f-be35-d588d1f61d1c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8dba1af2-1dfb-4c8f-be35-d588d1f61d1c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -886,7 +886,7 @@
       "title": "Fried gedza dumplings with veal and salad",
       "itemDescription": "Veal gedza, Asian salad, daikon, tempura sauce, green onion, and sesame. To choose from 125 or 160 g.",
       "price": 8400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4245f215-c618-4145-ab74-5d294f8a2af3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4245f215-c618-4145-ab74-5d294f8a2af3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -901,7 +901,7 @@
       "title": "Philadelphia deluxe with smoked salmon",
       "itemDescription": "Rice, smoked salmon, cream cheese, avocado flying fish roe, and nori.",
       "price": 15900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5c9d246b-a700-4625-a5d5-1cf5ea6af377.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5c9d246b-a700-4625-a5d5-1cf5ea6af377.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -916,7 +916,7 @@
       "title": "Tom yam soup",
       "itemDescription": "Chicken broth, shrimp, coconut milk, Tom Yam paste, champignons, lime, fungus mushrooms, fish sauce, onion, ginger, lemongrass, chilli pepper, basil, and hondashi.",
       "price": 14900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/677ff2b0-35e8-401b-96a7-693ea47f271b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/677ff2b0-35e8-401b-96a7-693ea47f271b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

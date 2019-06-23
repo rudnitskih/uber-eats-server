@@ -91,7 +91,7 @@
     "max": 30,
     "raw": 25
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/2d3df769-97e8-4d3a-820c-000d40662070.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2d3df769-97e8-4d3a-820c-000d40662070.jpg",
   "tags": [
     {
       "uuid": "FastFood",
@@ -114,7 +114,7 @@
     "storeRatingScore": 4.06993006993007,
     "ratingCount": "143"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/d81ce12e-a552-428f-b4b3-2d1b1321920c.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/d81ce12e-a552-428f-b4b3-2d1b1321920c.jpg",
   "items": {
     "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe": {
       "uuid": "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe",
@@ -127,7 +127,7 @@
       "title": "Wok with chicken and vegetables",
       "itemDescription": "With wheat noodles, Chinese-style vegetables, and sauce to choose.",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/86d49997-d10b-4431-b3b5-02fb82980023.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/86d49997-d10b-4431-b3b5-02fb82980023.jpg",
       "customizationUuids": [
         "0b0acc33-5f52-45cf-9d9a-2d5b7118b3d8",
         "82816826-2862-4d57-885e-f92e2927f652"
@@ -229,7 +229,7 @@
       "title": "Frenchman",
       "itemDescription": "Hunter sausage, grilled bun, and sauces.",
       "price": 2900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e137dcf7-95d6-4a00-8546-319a53d51f2d.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e137dcf7-95d6-4a00-8546-319a53d51f2d.jpg"
     },
     "fa444ba1-55f3-4835-a5dc-3ad891881bd7": {
       "uuid": "fa444ba1-55f3-4835-a5dc-3ad891881bd7",
@@ -278,14 +278,14 @@
       "title": "Chicken burger",
       "itemDescription": "Grilled bun, chicken cutlet, toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
       "price": 4900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e35b4c7c-1e6b-454a-8c7e-774fccf28222.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e35b4c7c-1e6b-454a-8c7e-774fccf28222.jpg"
     },
     "cd83451b-3feb-40b5-85d6-dd3b37e89151": {
       "uuid": "cd83451b-3feb-40b5-85d6-dd3b37e89151",
       "title": "German",
       "itemDescription": "Bavarian sausage with greens, grilled bun, seasonal vegetables, and sauces.",
       "price": 3900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/73d49d3c-ae4e-4e1b-9756-1b82d65ce219.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/73d49d3c-ae4e-4e1b-9756-1b82d65ce219.jpg"
     },
     "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a": {
       "uuid": "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a",
@@ -310,7 +310,7 @@
       "title": "Chicken nuggets",
       "itemDescription": "",
       "price": 4400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/dba99ba5-cea1-48fd-93f4-b478a957909e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/dba99ba5-cea1-48fd-93f4-b478a957909e.jpg",
       "customizationUuids": [
         "8118b856-ea34-481c-9c68-930bdc1b9509"
       ]
@@ -347,7 +347,7 @@
       "title": "Fries",
       "itemDescription": "",
       "price": 2500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/af1c823b-aff5-4e55-a5f6-f5a4b8330370.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/af1c823b-aff5-4e55-a5f6-f5a4b8330370.jpg",
       "customizationUuids": [
         "e5fabc1a-aa9b-4925-9a0a-89f64fbac1d5"
       ]

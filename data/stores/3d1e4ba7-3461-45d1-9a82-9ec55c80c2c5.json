@@ -138,7 +138,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/2cfe6bc9-0bff-4f46-85d6-75c9b2392016.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2cfe6bc9-0bff-4f46-85d6-75c9b2392016.jpg",
   "tags": [
     {
       "uuid": "Georgian",
@@ -161,14 +161,14 @@
     "storeRatingScore": 4.7447698744769875,
     "ratingCount": "239"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/8463171f-3c1f-4269-a6ab-3ec076b61f04.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/8463171f-3c1f-4269-a6ab-3ec076b61f04.jpg",
   "items": {
     "ca3b0177-43b8-459b-8e7b-8266cb528b09": {
       "uuid": "ca3b0177-43b8-459b-8e7b-8266cb528b09",
       "title": "Khinkali with pork and beef mix",
       "itemDescription": "4 pieces per serving.",
       "price": 7300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6d4e4ca7-b38a-49a6-a22c-2eb3d6e19993.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6d4e4ca7-b38a-49a6-a22c-2eb3d6e19993.jpg"
     },
     "e166b5fe-5314-40e0-b358-65dc54e64fee": {
       "uuid": "e166b5fe-5314-40e0-b358-65dc54e64fee",
@@ -182,7 +182,7 @@
       "title": "Tuna salad",
       "itemDescription": "Tuna with Parmesan, cherry tomatoes, capers, lettuce, and green shpinach.",
       "price": 12000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bdbc60c037aa8bd1e1c0b63a65c31cb6.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bdbc60c037aa8bd1e1c0b63a65c31cb6.jpg",
       "nutritionalInfo": {}
     },
     "0924e0d8-565c-4f71-aa94-b4e669b5c199": {
@@ -218,7 +218,7 @@
       "title": "Sun in a plate",
       "itemDescription": "Adjarian khachapuri (500g).",
       "price": 13300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ffc62bf437bbf46d01728ab22d693ede.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ffc62bf437bbf46d01728ab22d693ede.jpg",
       "nutritionalInfo": {},
       "customizationUuids": [
         "aa71d837-5ef3-4f37-8edf-4e2108d656ab",
@@ -311,7 +311,7 @@
       "title": "Lamb kebab",
       "itemDescription": "200g per serving.",
       "price": 19300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b6c250ab77f64ebdda274e5292a68e8c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b6c250ab77f64ebdda274e5292a68e8c.jpg",
       "nutritionalInfo": {},
       "customizationUuids": [
         "aa71d837-5ef3-4f37-8edf-4e2108d656ab",
@@ -323,7 +323,7 @@
       "title": "Chakhokhbili",
       "itemDescription": "Chicken stewed with tomatoes, onions, sweet peppers and herbs (300g).",
       "price": 10300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/511aad27-3357-492f-90dd-67d962d3c549.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/511aad27-3357-492f-90dd-67d962d3c549.jpg",
       "customizationUuids": [
         "aa71d837-5ef3-4f37-8edf-4e2108d656ab",
         "4b1448b0-6092-4104-b3b8-3e8a69bc0402"
@@ -462,14 +462,14 @@
       "title": "Pkhali",
       "itemDescription": "Balls with beets, green beans and spinach (150g).",
       "price": 8100,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/259d66b8-31cf-4f6f-8913-ee8ed045e7fc.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/259d66b8-31cf-4f6f-8913-ee8ed045e7fc.jpg"
     },
     "47169def-10da-439b-9c61-86d9057e779d": {
       "uuid": "47169def-10da-439b-9c61-86d9057e779d",
       "title": "Tsiskari",
       "itemDescription": "Pork cooked in cream sauce and baked with suluguni cheese, and champignons (300g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d6206191-e952-4f2e-99b6-b25347095e55.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d6206191-e952-4f2e-99b6-b25347095e55.jpg",
       "customizationUuids": [
         "aa71d837-5ef3-4f37-8edf-4e2108d656ab",
         "4b1448b0-6092-4104-b3b8-3e8a69bc0402"
@@ -655,7 +655,7 @@
       "title": "Eggplant with walnut",
       "itemDescription": "Roasted eggplant staffed with walnut filling with spices (150g).",
       "price": 10000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/45c3c381-9c8a-4042-abe5-ebb88117964b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/45c3c381-9c8a-4042-abe5-ebb88117964b.jpg",
       "nutritionalInfo": {}
     },
     "633f1f61-1715-4d33-a358-081b781c1f88": {
@@ -663,7 +663,7 @@
       "title": "Pork shashlik",
       "itemDescription": "200g per serving.",
       "price": 20100,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2113ad73c3cb624cc7c10167f91157d2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2113ad73c3cb624cc7c10167f91157d2.jpg",
       "nutritionalInfo": {},
       "customizationUuids": [
         "aa71d837-5ef3-4f37-8edf-4e2108d656ab",

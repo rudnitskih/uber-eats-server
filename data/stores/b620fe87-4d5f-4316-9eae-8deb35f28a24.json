@@ -51,7 +51,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4.jpg",
   "tags": [
     {
       "uuid": "Burger",
@@ -69,14 +69,14 @@
     "storeRatingScore": 4.407407407407407,
     "ratingCount": "81"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/b342db12-da65-4547-aa2a-16effe08e056.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/b342db12-da65-4547-aa2a-16effe08e056.jpg",
   "items": {
     "f306c97d-87be-40fc-80cd-103238c9bd71": {
       "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
       "title": "Мідії чилійські (чищені)",
       "itemDescription": "",
       "price": 5500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2722bbef-330c-4835-b18e-70255a9d06fb.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2722bbef-330c-4835-b18e-70255a9d06fb.jpg"
     },
     "64c7b96d-7e17-47da-9d6f-442eb79ec72f": {
       "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
@@ -96,7 +96,7 @@
       "title": "Лангустин",
       "itemDescription": "Аргентинська креветка (1 шт).",
       "price": 4400,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0.jpg",
       "nutritionalInfo": {}
     }
   }

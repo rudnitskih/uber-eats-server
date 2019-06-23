@@ -66,7 +66,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/8fe50d84-eee6-47dc-ab6b-22218d9910ca.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8fe50d84-eee6-47dc-ab6b-22218d9910ca.jpg",
   "tags": [
     {
       "uuid": "Pizza",
@@ -99,14 +99,14 @@
     "storeRatingScore": 4.300813008130081,
     "ratingCount": "123"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/be3bae86-fa56-490e-b0fd-db0e68fbbddc.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/be3bae86-fa56-490e-b0fd-db0e68fbbddc.jpg",
   "items": {
     "7992ee86-e622-4ad7-b5fc-37e79a4b96b5": {
       "uuid": "7992ee86-e622-4ad7-b5fc-37e79a4b96b5",
       "title": "Pizza Margarita",
       "itemDescription": "Sauce, mozzarella, tomatoes, and oregano.\n",
       "price": 16900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b38fabb2-758f-4760-9777-0e7f073b9136.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b38fabb2-758f-4760-9777-0e7f073b9136.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -130,7 +130,7 @@
       "title": "Pizza Ranch",
       "itemDescription": "Creamy sauce, mozzarella, ham, bacon, garlic, tomatoes, and Caesar sauce.",
       "price": 22900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/94c31de9-5914-400f-9a8d-bbb742befcc3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/94c31de9-5914-400f-9a8d-bbb742befcc3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -154,7 +154,7 @@
       "title": "Pizza Vegetariano",
       "itemDescription": "Sauce, mozzarella, olives, sweet pepper, onion, tomatoes, champignons, cheddar, and oregano.",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b53d0dcc-9ab5-4cd4-8afd-65680176ce29.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b53d0dcc-9ab5-4cd4-8afd-65680176ce29.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -166,7 +166,7 @@
       "title": "Pizza Quattro Formaggi",
       "itemDescription": "Creamy sauce, mozzarella, Parmesan, gouda cheese, cheddar, and oregano.",
       "price": 21900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/71e23dfa-b375-4bf6-9e5c-9d3c7bb74eae.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/71e23dfa-b375-4bf6-9e5c-9d3c7bb74eae.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -178,7 +178,7 @@
       "title": "Pizza Capricciosa",
       "itemDescription": "Sauce, mozzarella, ham, champignons, and olives.",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cb60a703-9d7c-4fd4-b31d-541e045c88c5.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cb60a703-9d7c-4fd4-b31d-541e045c88c5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -190,7 +190,7 @@
       "title": "Pizza Tradizionale",
       "itemDescription": "Sauce, mozzarella, pepperoni, ham, and champignons.",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b0c0c7df-8c61-4c6d-a846-7d363dd6cd02.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b0c0c7df-8c61-4c6d-a846-7d363dd6cd02.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -217,7 +217,7 @@
       "title": "Pizza Frutti di Mare (Lagoon)",
       "itemDescription": "Sauce, mozzarella, and sea cocktail.",
       "price": 27900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/62873483-400a-4885-bcaf-056e9c3edf4b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/62873483-400a-4885-bcaf-056e9c3edf4b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -229,7 +229,7 @@
       "title": "Pizza Pepperoni",
       "itemDescription": "Sauce, pepperoni, and mozzarella.",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d31edeea-eccb-4bda-9e04-8df5286f90c0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d31edeea-eccb-4bda-9e04-8df5286f90c0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -253,7 +253,7 @@
       "title": "Pizza Diablo",
       "itemDescription": "Chili sauce, mozzarella, salami, hunter's (smoked) sausages, and Parmesan.",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0155a3a3-186a-401c-85ab-3d4704e2b9c4.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0155a3a3-186a-401c-85ab-3d4704e2b9c4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -265,7 +265,7 @@
       "title": "Greek salad",
       "itemDescription": "Red onion, olives (black), cucumbers, sweet pepper, tomatoes, and feta cheese.",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c299978f-9f94-4ee1-ab1a-c8911d8f2f26.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c299978f-9f94-4ee1-ab1a-c8911d8f2f26.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

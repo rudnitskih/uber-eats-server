@@ -123,7 +123,7 @@
     "max": 30,
     "raw": 25
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/d2f73d66-2f80-43d2-814b-d666c8d2240b.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d2f73d66-2f80-43d2-814b-d666c8d2240b.jpg",
   "endorsement": "Десерти, про які всі говорять",
   "tags": [
     {
@@ -142,7 +142,7 @@
     "storeRatingScore": 4.840740740740741,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/cd0ed1c1-d96e-4d94-978f-aef68e8724ee.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/cd0ed1c1-d96e-4d94-978f-aef68e8724ee.jpg",
   "items": {
     "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4": {
       "uuid": "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4",
@@ -155,7 +155,7 @@
       "title": "Miso Cake",
       "itemDescription": "Бісквітні коржі з додаванням місо-пасти, крему на основі сиру Філадельфії та Маскарпоне та свіжої груші.",
       "price": 11500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/58df5559-5d86-43b6-a026-7b8a04f59a4c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/58df5559-5d86-43b6-a026-7b8a04f59a4c.jpg",
       "nutritionalInfo": {},
       "customizationUuids": [
         "234c6036-fd47-4f0b-91ed-f6826dd009b6"
@@ -166,7 +166,7 @@
       "title": "PeanutButter Sandwich",
       "itemDescription": "Peanut Crispy Cookies with Philadelphia Cream and Condensed Milk.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d8b030e9-2dc7-4dc2-a486-2c30d9f73688.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d8b030e9-2dc7-4dc2-a486-2c30d9f73688.jpg",
       "suspendUntil": 8640000000,
       "customizationUuids": [
         "ac9cb89c-55c2-427c-825a-30c9677f69d7"
@@ -200,7 +200,7 @@
       "title": "Seared Salmon",
       "itemDescription": "Salmon with asparagus, broccolini and green beans (430 g).",
       "price": 24500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/38d1c80a-6bce-4b64-89cd-2c91adc760fe.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/38d1c80a-6bce-4b64-89cd-2c91adc760fe.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 1559509199
     },
@@ -209,7 +209,7 @@
       "title": "Rum, Vika, Rum",
       "itemDescription": "Десерт з додаванням полуничного джему з свіжою полуницею з додаванням рому, білого шоколаду та крему Маскарпоне з йогуртом.",
       "price": 13500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/06e7648a-9b25-427c-862b-98f56a20ea9f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/06e7648a-9b25-427c-862b-98f56a20ea9f.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 1559509199,
       "customizationUuids": [
@@ -221,7 +221,7 @@
       "title": "Whoopie Cookie",
       "itemDescription": "Шоколадні бісквіти з кремом Філадельфія та м'яким малиновим мармеладом",
       "price": 10500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/77c492b0-5eac-4019-b439-255e32fa920c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/77c492b0-5eac-4019-b439-255e32fa920c.jpg",
       "suspendUntil": 1559509199,
       "customizationUuids": [
         "ac9cb89c-55c2-427c-825a-30c9677f69d7"
@@ -232,7 +232,7 @@
       "title": "Omelette with chicken",
       "itemDescription": "Omelette with chicken, tomatoes, cheese and fries or green salad as a side ",
       "price": 14500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/979afc04-e449-4d85-ac3c-20ec18bb8717.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/979afc04-e449-4d85-ac3c-20ec18bb8717.jpg",
       "customizationUuids": [
         "2c663f51-2683-4178-bc68-70fdcacbb124"
       ]
@@ -242,7 +242,7 @@
       "title": "Grilled Halloumi Salad",
       "itemDescription": "with sweet potato, Boston salad, broccoli, Parmesan, flax seed, basil and mint-tarragon dressing",
       "price": 15900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b96631b2-c1a3-48e8-9873-9fd27f2542d7.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b96631b2-c1a3-48e8-9873-9fd27f2542d7.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 1559509199
     },
@@ -269,7 +269,7 @@
       "title": "Soup of the week",
       "itemDescription": "Cauliflower cream soup",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/197108d0-b1fd-4eaa-9c5f-ce240043a5b8.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/197108d0-b1fd-4eaa-9c5f-ce240043a5b8.jpg",
       "suspendUntil": 1559509199
     },
     "00141984-30cc-488e-98c8-1773fa28c777": {
@@ -293,7 +293,7 @@
       "title": "Home made Tagliatelle Pasta",
       "itemDescription": "With beans, creamy spinach, romanesco, Parmesan, Philadelphia and fresh mint",
       "price": 19500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2168016f-7604-4517-bf01-cd9536d53606.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2168016f-7604-4517-bf01-cd9536d53606.jpg",
       "suspendUntil": 1559509199
     },
     "6a574d1a-4c33-4536-a665-708fb888128d": {
@@ -301,7 +301,7 @@
       "title": "Prosciutto Waffles",
       "itemDescription": "with Philadelphia cheese,rocket, cherry tomatoes, pumpkin and sesame seeds,",
       "price": 21000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8b190876-c437-4734-a4af-c2ea3f72e340.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8b190876-c437-4734-a4af-c2ea3f72e340.jpg",
       "nutritionalInfo": {}
     },
     "01bf6d0c-832f-4bc1-b741-ff35a6344acf": {
@@ -317,7 +317,7 @@
       "title": "A stack of waffles for two",
       "itemDescription": "With chocolate and nut home-made cream ",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5076beae-df1c-4cd6-884d-2762c716a391.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5076beae-df1c-4cd6-884d-2762c716a391.jpg",
       "customizationUuids": [
         "234c6036-fd47-4f0b-91ed-f6826dd009b6"
       ]
@@ -358,7 +358,7 @@
       "title": "Strawberry Lemonade",
       "itemDescription": "Lemon sponge with the addition of Philadelphia cream, passionfruit and raspberry custard, fresh strawberries and white chocolate.",
       "price": 12500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/728f7615-dfc9-47fa-9d41-9992efbf6b2f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/728f7615-dfc9-47fa-9d41-9992efbf6b2f.jpg",
       "nutritionalInfo": {}
     },
     "9822e98e-06d0-409b-90a9-19de1a2dc164": {
@@ -366,7 +366,7 @@
       "title": "English cheesecake",
       "itemDescription": "Oreo crust, cream of Philadelphia and salted caramel (140 g).\t\t\t\t\t\t\t",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9a42d120-d91e-4b2d-b5c9-e4e2033d4e3d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9a42d120-d91e-4b2d-b5c9-e4e2033d4e3d.jpg",
       "customizationUuids": [
         "234c6036-fd47-4f0b-91ed-f6826dd009b6"
       ]
@@ -383,7 +383,7 @@
       "title": "Gazpacho soup",
       "itemDescription": "Cold tomato soup",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ce3802ac-7838-41c5-bf63-0635b74d5f78.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ce3802ac-7838-41c5-bf63-0635b74d5f78.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 1559509199,
       "customizationUuids": [
@@ -395,7 +395,7 @@
       "title": "Blondie",
       "itemDescription": "White chocolate  (130 g).",
       "price": 7500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7297f003-c2c5-454f-9a15-bf73fdef40cf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7297f003-c2c5-454f-9a15-bf73fdef40cf.jpg",
       "suspendUntil": 1559509199
     },
     "5fe126b7-a5e3-41b7-b164-9cf6b18a615e": {

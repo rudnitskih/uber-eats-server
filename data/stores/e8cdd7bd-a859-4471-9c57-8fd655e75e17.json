@@ -130,7 +130,7 @@
     "max": 35,
     "raw": 30
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b.jpg",
   "tags": [
     {
       "uuid": "Completos",
@@ -158,14 +158,14 @@
     "storeRatingScore": 4.578512396694215,
     "ratingCount": "121"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/15ba986f-e0ec-4a53-8d85-ac9f24e70a7d.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/15ba986f-e0ec-4a53-8d85-ac9f24e70a7d.jpg",
   "items": {
     "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a": {
       "uuid": "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
       "title": "Crispy onions ",
       "itemDescription": "With garlic aioli (150g).",
       "price": 5500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f5098fd4-e46b-433d-9851-a59bccd1bf5a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f5098fd4-e46b-433d-9851-a59bccd1bf5a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -178,7 +178,7 @@
       "title": "BLT",
       "itemDescription": "Bacon lettuce and tomato garlic cream (365-415g).To choose from sausages and side. ",
       "price": 15900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/259ae993-649f-4003-94ab-c90ae8bf2224.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/259ae993-649f-4003-94ab-c90ae8bf2224.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -194,7 +194,7 @@
       "title": "Fish and chips",
       "itemDescription": "250g.",
       "price": 15500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/53b09a35-a424-4bbf-8e91-6ba34fee1593.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/53b09a35-a424-4bbf-8e91-6ba34fee1593.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -206,7 +206,7 @@
       "title": "The Kiev",
       "itemDescription": "Tomato, radishes, and pickled toung cabbage (360-410g).To choose from sausages and side. ",
       "price": 14900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b0941609-4e8a-413e-976c-dbfb48dcb4e9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b0941609-4e8a-413e-976c-dbfb48dcb4e9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -222,7 +222,7 @@
       "title": "Aranciata",
       "itemDescription": "Orange, grapefruit, lemon, fructose syrup, and mineral water (160ml).",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c1961e49-570d-4cc1-b07c-40f37431224e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c1961e49-570d-4cc1-b07c-40f37431224e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -234,7 +234,7 @@
       "title": "Jasmine pearl ",
       "itemDescription": "Jasmin tea, lichi puree, lemon, and fructose syrup (200ml).",
       "price": 12000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e5e69b5a-73be-445c-a5d9-92783301dc78.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e5e69b5a-73be-445c-a5d9-92783301dc78.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -246,7 +246,7 @@
       "title": "Wheat bock",
       "itemDescription": "Pivna duma (330ml).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2debe3d6-2e8d-402f-b45b-59b41c14d096.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2debe3d6-2e8d-402f-b45b-59b41c14d096.jpg",
       "nutritionalInfo": {},
       "suspendUntil": 8640000000
     },
@@ -255,7 +255,7 @@
       "title": "Salmon",
       "itemDescription": "Salmon, greens, and white curry sauce with hondashi (340g). ",
       "price": 32500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/16acb642-6d6c-4ba4-9599-ae8fd27664ed.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/16acb642-6d6c-4ba4-9599-ae8fd27664ed.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -267,7 +267,7 @@
       "title": "The Tokyo",
       "itemDescription": "Teriyaki glazed, wasabi, mayonnaise, and sesame seeds, dried seaweed (350-400g). To choose from sausages and side. ",
       "price": 16500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5a546e1c-4c24-480d-b989-dcd45c7c191a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5a546e1c-4c24-480d-b989-dcd45c7c191a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -283,7 +283,7 @@
       "title": "Сhicken soup ",
       "itemDescription": "With vegetables, home-made pasta, and organic chicken (330g).",
       "price": 7900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5e192339-7b8b-4981-9c54-5032e30f72be.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5e192339-7b8b-4981-9c54-5032e30f72be.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -295,7 +295,7 @@
       "title": "Vegi chips",
       "itemDescription": "150g.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a0b2a58e-323b-46ba-ac28-2684093856bb.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a0b2a58e-323b-46ba-ac28-2684093856bb.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -307,7 +307,7 @@
       "title": "Coleslaw",
       "itemDescription": "With currents apple and green onion (130g).",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/85ff3206-fa9a-4d63-8083-f2c353df2e51.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/85ff3206-fa9a-4d63-8083-f2c353df2e51.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -319,7 +319,7 @@
       "title": "Kale salad with veal ",
       "itemDescription": "Cous-cous, cherry tomatoes, and asparagus ad tuna dressing (300g).",
       "price": 21500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b8784a9c-cb30-4815-9487-9cce73f6acf7.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b8784a9c-cb30-4815-9487-9cce73f6acf7.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -331,7 +331,7 @@
       "title": "Non-alcoholic gin and tonic",
       "itemDescription": "Juniper syrup, lemon, cucmber, and tonic (160ml).",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/623eb819-d915-4982-9d1d-107d5087e6f2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/623eb819-d915-4982-9d1d-107d5087e6f2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -343,7 +343,7 @@
       "title": "Long chocolate",
       "itemDescription": "220g.",
       "price": 12500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f361c190-84e5-42a6-94aa-354e4c4f33e5.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f361c190-84e5-42a6-94aa-354e4c4f33e5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -355,7 +355,7 @@
       "title": "Green see pea",
       "itemDescription": "330ml.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/74b4c7aa-9c47-4309-b5b6-f1056cd5ad7c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/74b4c7aa-9c47-4309-b5b6-f1056cd5ad7c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -368,7 +368,7 @@
       "title": "Cobb salad with chicken",
       "itemDescription": "Avocado and green vegetables (370g).",
       "price": 23500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/661bb86c-5e4a-4e69-9bf2-6bcc33a40273.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/661bb86c-5e4a-4e69-9bf2-6bcc33a40273.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -380,7 +380,7 @@
       "title": "Duo sausage platter",
       "itemDescription": "To choose from two side. To choose from two sausages (more than 200g).",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ba1d0929-d1f1-4e7d-a3cf-c324b81baf95.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ba1d0929-d1f1-4e7d-a3cf-c324b81baf95.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -396,7 +396,7 @@
       "title": "Chicken wings",
       "itemDescription": "To choose from sauce (450g).",
       "price": 18900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a803d939-d5ce-4291-8988-81328e3cd202.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a803d939-d5ce-4291-8988-81328e3cd202.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -411,7 +411,7 @@
       "title": "The sunny side",
       "itemDescription": "Special mustard sauce, Parmesan cheese, fried egg, and onion rings (350-400g).  To choose from sausages and side. ",
       "price": 16900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0193047f-296b-4788-8f57-810bc5bd2826.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0193047f-296b-4788-8f57-810bc5bd2826.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -427,7 +427,7 @@
       "title": "Mini corn dogs",
       "itemDescription": "Special mustard sauce (150g).",
       "price": 12900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f38b0f34-f1fa-4c48-acc9-76aa03aa6724.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f38b0f34-f1fa-4c48-acc9-76aa03aa6724.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -439,7 +439,7 @@
       "title": "Hot chicks",
       "itemDescription": "Chicken breast with aioli and nut sauce, fresh salad with cucumber & tomato (365-415g). To choose from sausages and side. ",
       "price": 16900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/45bed826-95ff-43d7-b628-8beb922928a9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/45bed826-95ff-43d7-b628-8beb922928a9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -454,7 +454,7 @@
       "title": "Fries",
       "itemDescription": "180g.",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b4046e93-3494-4e92-b8b4-3adab479973a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b4046e93-3494-4e92-b8b4-3adab479973a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -466,7 +466,7 @@
       "title": "Churros",
       "itemDescription": "To choose from chocolate or caramel dip (300g).",
       "price": 12500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/97230008-1e79-4021-aeda-c546423dcee1.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/97230008-1e79-4021-aeda-c546423dcee1.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -482,7 +482,7 @@
       "title": "Green salad",
       "itemDescription": "With pumpkin puree, baked beets, goat's cheese, pine nuts, honey, and rosemary dressing (230g).",
       "price": 13500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/86663ab7-baa1-46ed-bdad-a863a95c06d5.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/86663ab7-baa1-46ed-bdad-a863a95c06d5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -494,7 +494,7 @@
       "title": "Pulled beef BBQ",
       "itemDescription": "Stewed veal with herbs in BBQ sauce, spiced marinated cucumber, and sweet onion (355-405g). To choose from sausages and side. ",
       "price": 18500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c01e952e-9f87-47ce-8c35-93bc968e76ce.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c01e952e-9f87-47ce-8c35-93bc968e76ce.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -510,7 +510,7 @@
       "title": "Cauliflower",
       "itemDescription": "330ml.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ecd8e510-e20b-4686-bbfd-fc4dad9f29a8.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ecd8e510-e20b-4686-bbfd-fc4dad9f29a8.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -523,7 +523,7 @@
       "title": "India pale ale",
       "itemDescription": "Pivna duma (330ml).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8ba6d9b2-f2a1-4a7d-a6c7-d8f0decce93f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8ba6d9b2-f2a1-4a7d-a6c7-d8f0decce93f.jpg",
       "nutritionalInfo": {}
     },
     "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9": {
@@ -531,7 +531,7 @@
       "title": "Gazpacho",
       "itemDescription": "Cold tomato soup with Bulgarian pepper, cucumber, Cayenne pepper, tomato juice, salt and pepper. 330g.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/3a8f471e-aa30-4128-a6ac-312617458ecf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/3a8f471e-aa30-4128-a6ac-312617458ecf.jpg",
       "nutritionalInfo": {}
     },
     "8ea264f9-65e2-4f68-9665-3eda0bff7205": {
@@ -539,7 +539,7 @@
       "title": "Curry-pumpkin",
       "itemDescription": "330ml.",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ac29ffd3-18a8-46af-8fa5-1610b242e971.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ac29ffd3-18a8-46af-8fa5-1610b242e971.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -552,7 +552,7 @@
       "title": "Dark beer",
       "itemDescription": "Pivna duma (330ml).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/86fab91c-4574-4873-8538-1b546a376b53.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/86fab91c-4574-4873-8538-1b546a376b53.jpg",
       "nutritionalInfo": {}
     },
     "4c863c0e-7036-46a4-994c-4fa489a337dd": {
@@ -560,7 +560,7 @@
       "title": "Coney Island",
       "itemDescription": "Chili Cheddar cheese & chopped onions (375-425g). To choose from sausages and side. ",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cfa2ae52-349a-4d62-a8c5-99b10fecb37b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cfa2ae52-349a-4d62-a8c5-99b10fecb37b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

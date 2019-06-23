@@ -227,7 +227,7 @@
     "max": 55,
     "raw": 50
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/3c8833d8-ef99-4e45-8d56-f878f6c76f26.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/3c8833d8-ef99-4e45-8d56-f878f6c76f26.jpg",
   "endorsement": "Щовівторка отримуй другу піцу у подарунок! ",
   "tags": [
     {
@@ -271,14 +271,14 @@
     "storeRatingScore": 4.543046357615894,
     "ratingCount": "151"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/3200be26-a76c-4cfd-b061-7f148b02bc8e.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/3200be26-a76c-4cfd-b061-7f148b02bc8e.jpg",
   "items": {
     "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1": {
       "uuid": "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1",
       "title": "Minestrone",
       "itemDescription": "250 g.",
       "price": 8800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0d0d7b18-56b4-449f-aa0b-d545a7fcd027.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0d0d7b18-56b4-449f-aa0b-d545a7fcd027.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -293,7 +293,7 @@
       "title": "Salad with farfalle and cherry tomatoes",
       "itemDescription": "Farfalle pasta, cherry tomatoes, tender Adygei cheese, juicy baby mix lettuce and arugula with Worcester sauce and Italian herbs. 220 g",
       "price": 12800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7fbf5f8e-771d-47f7-8759-2957cfe85eb3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7fbf5f8e-771d-47f7-8759-2957cfe85eb3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -305,7 +305,7 @@
       "title": "Margarita",
       "itemDescription": "Mozzarella cheese, tomatoes, and tomato sauce (440 g).",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c1f92099-4c4e-46bb-8bf0-4ceebab6b59f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c1f92099-4c4e-46bb-8bf0-4ceebab6b59f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -336,7 +336,7 @@
       "title": "Chicken on baked eggplant",
       "itemDescription": "Chicken filet on baked eggplant with creamy sauce and olive topenade.",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/86d89d8b-e264-499b-b04b-bdd7a8fdd0d3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/86d89d8b-e264-499b-b04b-bdd7a8fdd0d3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -348,7 +348,7 @@
       "title": "Burger with chicken",
       "itemDescription": "Served with french fries.",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f56643e5-f053-44b5-8477-695afcbff0cb.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f56643e5-f053-44b5-8477-695afcbff0cb.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -364,7 +364,7 @@
       "title": "Hrissini z Prosciutto",
       "itemDescription": "85 g.",
       "price": 6800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a07a6860-10a3-47b2-80d0-ad7a36207ebf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a07a6860-10a3-47b2-80d0-ad7a36207ebf.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -376,7 +376,7 @@
       "title": "Ravioli with rabbit",
       "itemDescription": "250 g.",
       "price": 11800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/56d0566f-f266-4e90-82c7-c4c510591138.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/56d0566f-f266-4e90-82c7-c4c510591138.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -388,7 +388,7 @@
       "title": "Mussels in cream and saffron sauce",
       "itemDescription": "",
       "price": 24800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ba58adfc-0446-43cc-83d6-6e4b25ff1e29.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ba58adfc-0446-43cc-83d6-6e4b25ff1e29.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -400,7 +400,7 @@
       "title": "Rocchetta Naturale",
       "itemDescription": "",
       "price": 5500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/da2f8800-bda6-402f-b30c-b21a307c83aa.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/da2f8800-bda6-402f-b30c-b21a307c83aa.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -416,7 +416,7 @@
       "title": "Spaghetti with fried shrimp",
       "itemDescription": "Spaghetti with fried shrimp, and cream saffron sauce (280 g).",
       "price": 16800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/988f6f87-355c-436c-94d2-c61bfb3395cb.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/988f6f87-355c-436c-94d2-c61bfb3395cb.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -428,7 +428,7 @@
       "title": "Penne with Bolognese meat sauce",
       "itemDescription": "Penne with meat sauce Bolognese, eggplant, cherry tomatoes and parmesan cheese. 280 g",
       "price": 12800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/69f9b807-4d19-47d7-8eef-c821879575e2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/69f9b807-4d19-47d7-8eef-c821879575e2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -440,7 +440,7 @@
       "title": "Special Pesto burger",
       "itemDescription": "With veal, tomatoes, and Cheddar cheese. Served with french fries.",
       "price": 16800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c66786b5-8409-46b7-8bc6-9a93249e6d75.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c66786b5-8409-46b7-8bc6-9a93249e6d75.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -456,7 +456,7 @@
       "title": "Steamed salmon in ginger and garlic sauce",
       "itemDescription": "Steamed salmon served on spinach and leeks.",
       "price": 29800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1c8ea12f-cbbf-4827-b8c6-eb718112f178.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1c8ea12f-cbbf-4827-b8c6-eb718112f178.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -468,7 +468,7 @@
       "title": "Pork steak",
       "itemDescription": "With marinated onion.",
       "price": 19800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e2e230f4-e149-4ed2-8d47-3c3bb4beb5a3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e2e230f4-e149-4ed2-8d47-3c3bb4beb5a3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -484,7 +484,7 @@
       "title": "Carbonara",
       "itemDescription": "Bacon, Mozzarella cheese, creamy sauce, and yolk (420 g).",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6400411b-dd22-4e2e-a6b2-1c5b99ce6bb0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6400411b-dd22-4e2e-a6b2-1c5b99ce6bb0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -499,7 +499,7 @@
       "title": "Italian chicken bombetta",
       "itemDescription": "Traditional Italian shish kebab. Grilled chicken thigh. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
       "price": 17800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a2a38fb5-abe4-41df-b821-5b3a4573fba1.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a2a38fb5-abe4-41df-b821-5b3a4573fba1.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -511,7 +511,7 @@
       "title": "Rabbit cutlets",
       "itemDescription": "Rabbit cutlets in mushroom sauce with mashed potatoes.",
       "price": 13800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/82052c8a-7dd5-42e4-86b4-87e1cb2e7bf3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/82052c8a-7dd5-42e4-86b4-87e1cb2e7bf3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -523,7 +523,7 @@
       "title": "Bread basket",
       "itemDescription": "",
       "price": 4800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c3a2a4bf-ab0a-4619-8886-0ebc73ce50ff.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c3a2a4bf-ab0a-4619-8886-0ebc73ce50ff.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -535,7 +535,7 @@
       "title": "Four cheeses",
       "itemDescription": "Mix of Italian cheeses: Dorblu, Mozzarella, Maazdam, and Parmesan (380 g).",
       "price": 17800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4f8f7d9f-65e6-4369-9572-2426e06827dc.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4f8f7d9f-65e6-4369-9572-2426e06827dc.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -550,7 +550,7 @@
       "title": "Creamy mushroom soup",
       "itemDescription": "250 g.",
       "price": 6800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/588879b0-e61c-49d9-b97a-133855b1ff14.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/588879b0-e61c-49d9-b97a-133855b1ff14.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -581,7 +581,7 @@
       "title": "Classic cheesecake",
       "itemDescription": "130 g.",
       "price": 8800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/eb61531b-710e-40cf-95ac-2e504e9a7626.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/eb61531b-710e-40cf-95ac-2e504e9a7626.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -593,7 +593,7 @@
       "title": "Ravioli with Ricotta cheese",
       "itemDescription": "With creamy sauce.",
       "price": 11800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2f53b0db-456b-49f1-8822-41e920231d60.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2f53b0db-456b-49f1-8822-41e920231d60.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -621,7 +621,7 @@
       "title": "Pollock with vegetable sauté",
       "itemDescription": "Pollock fillet with vegetable and cream sauce.",
       "price": 19800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2de33750-3378-4140-a7bd-5a1c9af2c90c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2de33750-3378-4140-a7bd-5a1c9af2c90c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -633,7 +633,7 @@
       "title": "Pizza with mushrooms and hum",
       "itemDescription": "Ham, champignons, Parmesan cheese and mozzrella, and cream sauce (450 g).",
       "price": 13800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5818d9e1-01c1-46af-9792-d488c9860f55.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5818d9e1-01c1-46af-9792-d488c9860f55.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -648,7 +648,7 @@
       "title": "Caesar with warm chicken fillet",
       "itemDescription": "Romaine lettuce and parmesan cheese, fried chicken fillet and bacon, flavored with Caesar sauce with crispy garlic croutons, cherry tomatoes, and eggs (220 g).",
       "price": 14300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bc4dba3a-53a9-45c5-85bb-87acd84815c9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bc4dba3a-53a9-45c5-85bb-87acd84815c9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -660,7 +660,7 @@
       "title": "Hawaniian",
       "itemDescription": "Chicken fillet, pineapple, corn, and tomato sauce (460 g).",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5debf144-e3cb-46b2-a1bd-15036d33e0c9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5debf144-e3cb-46b2-a1bd-15036d33e0c9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -675,7 +675,7 @@
       "title": "Veal fillet ",
       "itemDescription": "Served on crispy ciabatta with green butter.\n200/100 output",
       "price": 26800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4f997718-4058-4100-9e62-736c357bec72.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4f997718-4058-4100-9e62-736c357bec72.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -691,7 +691,7 @@
       "title": "4 cheeses",
       "itemDescription": "Arborio rice, mozzarella, dorblu, and maasdam cheeses.",
       "price": 13800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/02112367-01fc-4e25-a3ab-dc82013b03c1.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/02112367-01fc-4e25-a3ab-dc82013b03c1.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -719,7 +719,7 @@
       "title": "French fries",
       "itemDescription": "150 g.",
       "price": 6800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/efd33954-f0c9-4653-b521-74ec501bb824.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/efd33954-f0c9-4653-b521-74ec501bb824.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -731,7 +731,7 @@
       "title": "Homemade cake",
       "itemDescription": "200 g.",
       "price": 8800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/30e2a5c9-3264-420a-adb9-e8e9e769266b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/30e2a5c9-3264-420a-adb9-e8e9e769266b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -743,7 +743,7 @@
       "title": "Salad with veal",
       "itemDescription": "Iceberg lettuce, boiled veal with potatoes, green beans, gherkins, tomatoes, and onion with Vitelo sauce dressing (240 g).",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7aab582a-1250-4b81-b854-c3a1488d8f02.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7aab582a-1250-4b81-b854-c3a1488d8f02.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -755,7 +755,7 @@
       "title": "Salad mix with gravlax salmon",
       "itemDescription": "Salad mix with gravlax salmon slices, tomatoes, avocado. Dressed with mustard, and honey sauce (210 g).",
       "price": 16800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/979b3d92-c533-42b2-9048-f4f2638ae144.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/979b3d92-c533-42b2-9048-f4f2638ae144.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -767,7 +767,7 @@
       "title": "Tagliatelle with chicken fillet and mushrooms",
       "itemDescription": "Tagliatelle cream sauce with chicken filet, with champignons, and Parmesan cheese (280 g).",
       "price": 10800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4b7b24b5-f9a6-43e7-ba27-7ce6e5ad5293.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4b7b24b5-f9a6-43e7-ba27-7ce6e5ad5293.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -779,7 +779,7 @@
       "title": "Hawaiian and Salami",
       "itemDescription": "Two hit pizzas in one: Hawaiian, and Salami (475 g).",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/22731998-b7fe-44b5-a129-17bdeb151457.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/22731998-b7fe-44b5-a129-17bdeb151457.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -794,7 +794,7 @@
       "title": "Fish assorted",
       "itemDescription": "Grilled dorado, salmon fillet, safflower fillet, shrimps, calamari rings, mussels in leaflets. Served with grilled vegetables: potatoes, eggplants, zucchini, sweet peppers, cherry tomatoes. Served with tar tar sauce, lemon&yogurt sauce, marseilles&. 900/500/150 g",
       "price": 149800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8ecc0541-9138-4a50-a48a-2b2e5c2fc797.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8ecc0541-9138-4a50-a48a-2b2e5c2fc797.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -806,7 +806,7 @@
       "title": "Italian style Grissini",
       "itemDescription": "50 g.",
       "price": 3300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a5dadde6-ee9b-4384-ae7c-cfa0ad97cca3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a5dadde6-ee9b-4384-ae7c-cfa0ad97cca3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -818,7 +818,7 @@
       "title": "Vegetable salad with Feta Cheese mousse",
       "itemDescription": "Bell peppers, tomatoes, cucumbers, onion, olives, salad mix, Italian herbs, and Dijon sauce (200 g).",
       "price": 9800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e9f2c8f7-80f7-4276-868d-f421b785b960.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e9f2c8f7-80f7-4276-868d-f421b785b960.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -846,7 +846,7 @@
       "title": "Veal medallions with mashed potatoes",
       "itemDescription": "",
       "price": 26800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2d40b7e3-befa-4210-b806-35854fde6d53.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2d40b7e3-befa-4210-b806-35854fde6d53.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -858,7 +858,7 @@
       "title": "Vegetable sauté",
       "itemDescription": "150 g.",
       "price": 5800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d12a66bc-44f2-4e3b-a9db-f28e51027f91.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d12a66bc-44f2-4e3b-a9db-f28e51027f91.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -886,7 +886,7 @@
       "title": "Pesto special pizza",
       "itemDescription": "Ham, salami, Mozzarella cheese, bazil, and special sauce (410 g).",
       "price": 16800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1c896561-7372-417a-a962-dbafc255ef68.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1c896561-7372-417a-a962-dbafc255ef68.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -901,7 +901,7 @@
       "title": "Coca Cola ",
       "itemDescription": "250 мл",
       "price": 3500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/45b266dd-e5ed-4b54-a185-9cb53c61da4f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/45b266dd-e5ed-4b54-a185-9cb53c61da4f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -913,7 +913,7 @@
       "title": "Coca Cola Zero",
       "itemDescription": "Кола без цукру, 250 мл",
       "price": 3500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ca8f13bf-4515-498c-89c9-50b70d9c3267.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ca8f13bf-4515-498c-89c9-50b70d9c3267.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -925,7 +925,7 @@
       "title": "Cherry Juice Rich",
       "itemDescription": "1000 ml",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/237c0adb-c7d7-4f06-9582-ef3169bcf21c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/237c0adb-c7d7-4f06-9582-ef3169bcf21c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -937,7 +937,7 @@
       "title": "Tomato Juice Rich",
       "itemDescription": "1000 ml",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0e7b81fb-9237-4823-b134-7db0f2243439.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0e7b81fb-9237-4823-b134-7db0f2243439.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -949,7 +949,7 @@
       "title": "Fanta",
       "itemDescription": "250  мл",
       "price": 3500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2e6473aa-6655-4ac3-b0a1-dd2728c3902e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2e6473aa-6655-4ac3-b0a1-dd2728c3902e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -961,7 +961,7 @@
       "title": "Spaghetti with Carbonara sauce",
       "itemDescription": "Pasta in creamy sauce with onion, bacon, Parmezan cheese, and egg (220 g).",
       "price": 9800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7ad3d49d-dd8d-4957-8b3a-a1940397490b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7ad3d49d-dd8d-4957-8b3a-a1940397490b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -988,7 +988,7 @@
       "title": "Dorado with lemon and thyme",
       "itemDescription": "",
       "price": 28800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e454d94f-a489-4f7e-9a11-af8980d200e7.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e454d94f-a489-4f7e-9a11-af8980d200e7.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1000,7 +1000,7 @@
       "title": "Lasagna Bolognese",
       "itemDescription": "Lasagna with Bolognese meat sauce, Mozzarella, and Parmesan cheeses (220 g).",
       "price": 9800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c4326712-c313-4bfd-ae73-07235e27398f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c4326712-c313-4bfd-ae73-07235e27398f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1012,7 +1012,7 @@
       "title": "Focaccia with Parmesan",
       "itemDescription": "With tomatoes, and thyme (250 g).",
       "price": 2800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/188f6e13-3294-47a9-97fe-a73623d20d53.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/188f6e13-3294-47a9-97fe-a73623d20d53.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1024,7 +1024,7 @@
       "title": "Duck leg",
       "itemDescription": "Duck leg with mashed potatoes and caramelised apple.",
       "price": 19800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/fbdbef21-61fa-4161-9ce7-9e7cdcbd24d4.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/fbdbef21-61fa-4161-9ce7-9e7cdcbd24d4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1036,7 +1036,7 @@
       "title": "Apple Juice Rich",
       "itemDescription": "1000 ml",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/22e684b5-2727-49c1-9f54-743ac0ea2f78.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/22e684b5-2727-49c1-9f54-743ac0ea2f78.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1048,7 +1048,7 @@
       "title": "Seafood soup",
       "itemDescription": "250 g.",
       "price": 12800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/253d362d-4d7c-4600-9054-a4c77533f796.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/253d362d-4d7c-4600-9054-a4c77533f796.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1063,7 +1063,7 @@
       "title": "Orange Juice Rich",
       "itemDescription": "1000 ml",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/68004c35-a287-4a39-a5f6-07fc920b6b36.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/68004c35-a287-4a39-a5f6-07fc920b6b36.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1075,7 +1075,7 @@
       "title": "Salami",
       "itemDescription": "Two types of salami: Napoli and Validzhlano, tomato sauce, mozzarella, olives, and arugula (450 g).",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9ce8ca7e-326d-439e-be22-c26869751796.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9ce8ca7e-326d-439e-be22-c26869751796.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1090,7 +1090,7 @@
       "title": "Salmon steak",
       "itemDescription": "",
       "price": 29800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ee6ab6e0-5472-413e-8aba-c474c5ce4c0c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ee6ab6e0-5472-413e-8aba-c474c5ce4c0c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1106,7 +1106,7 @@
       "title": "Ribeye steak",
       "itemDescription": "",
       "price": 29800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/b2315fcc-954d-4108-a34b-b90bad450109.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/b2315fcc-954d-4108-a34b-b90bad450109.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1118,7 +1118,7 @@
       "title": "Grilled corn",
       "itemDescription": "",
       "price": 6800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4facce72-bd26-4654-b317-db702e91c54a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4facce72-bd26-4654-b317-db702e91c54a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1146,7 +1146,7 @@
       "title": "Rabbit in Italian style",
       "itemDescription": "Stewed rabbit a Italian herbs with tomatoes, and olives served with patenta.",
       "price": 18800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/16d345d3-0cf0-40a1-b379-b4348e7901a2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/16d345d3-0cf0-40a1-b379-b4348e7901a2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1158,7 +1158,7 @@
       "title": "Farfalle with prosciutto cotto and cherry tomatoes",
       "itemDescription": "Farfalle pasta with mozzarella, prosciutto cotto, cherry tomatoes with pesto sauce and grated parmesan cheese. 280 g",
       "price": 16800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d027b57a-6ac4-4916-a281-c302742c4939.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d027b57a-6ac4-4916-a281-c302742c4939.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1170,7 +1170,7 @@
       "title": "Focaccia with mozzarella",
       "itemDescription": "With dor blu cheeses (250 g).",
       "price": 7800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/db4221d0-6a71-432e-ae5f-700c3c335a68.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/db4221d0-6a71-432e-ae5f-700c3c335a68.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1182,7 +1182,7 @@
       "title": "Salad with tongue and aragula",
       "itemDescription": "Salad with beef tongue, lettuce lola-rosa and arugula, cherry tomatoes, gherkins, quail eggs, and Mustard sauce (185 g).",
       "price": 15800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1d1231d2-b824-46c8-97c4-1bcf2ee7623f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1d1231d2-b824-46c8-97c4-1bcf2ee7623f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1194,7 +1194,7 @@
       "title": "Pizza with veal",
       "itemDescription": "Veal, canned cucumbers, Mozzarella sauce, onions, and Vetello sauce (485 g).",
       "price": 17800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ef9b87ab-1879-4d02-ab87-394878fd3b33.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ef9b87ab-1879-4d02-ab87-394878fd3b33.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1209,7 +1209,7 @@
       "title": "Veal cheeks with mashed potatoes",
       "itemDescription": "Stewed veal cheeks with mashed potatoes, cherry tomatoes. Served with basil chips.",
       "price": 15800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/41b350f7-6a3a-4867-bf00-fe9ebe680155.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/41b350f7-6a3a-4867-bf00-fe9ebe680155.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1221,7 +1221,7 @@
       "title": "Soup with chicken and homemade pasta",
       "itemDescription": "250 g.",
       "price": 6800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d9ecedcc-0e93-4a30-bda1-2e7719c3ad53.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d9ecedcc-0e93-4a30-bda1-2e7719c3ad53.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1236,7 +1236,7 @@
       "title": "Caesar",
       "itemDescription": "Checken, lettuce, bacon, tomatoes, Parmesan cheese, and Caesar dressing (480 g).",
       "price": 15800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a54ddde9-7339-4212-b532-f01fdc531af0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a54ddde9-7339-4212-b532-f01fdc531af0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1251,7 +1251,7 @@
       "title": "Napoleon",
       "itemDescription": "150 g.",
       "price": 7800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d67334ba-a8dd-44c7-a300-fec9bb7e3d7d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d67334ba-a8dd-44c7-a300-fec9bb7e3d7d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1263,7 +1263,7 @@
       "title": "Mashed potatoes",
       "itemDescription": "150 g.",
       "price": 4800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/96321586-a41a-4efe-875d-e1320f8bf8d7.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/96321586-a41a-4efe-875d-e1320f8bf8d7.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1291,7 +1291,7 @@
       "title": "Sprite",
       "itemDescription": "250 мл",
       "price": 3500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/30b3cf4d-a1da-4f5a-a145-b44dfcf6fb78.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/30b3cf4d-a1da-4f5a-a145-b44dfcf6fb78.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1303,7 +1303,7 @@
       "title": "Burn",
       "itemDescription": "250 мл",
       "price": 5500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/320206d1-be82-4dea-b7bf-1f26f7a9a810.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/320206d1-be82-4dea-b7bf-1f26f7a9a810.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1315,7 +1315,7 @@
       "title": "Tiramisu",
       "itemDescription": "140 g.",
       "price": 8800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/513fd615-35e2-4427-ba3d-ef414e38faf4.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/513fd615-35e2-4427-ba3d-ef414e38faf4.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1327,7 +1327,7 @@
       "title": "Salad with baby mozzarella and cherry tomatoes",
       "itemDescription": "Baby mozzarella, cherry tomatoes, avocado, mix of salads: arugula, lollo. Dressed with Balsamic sauce. 150 g",
       "price": 12800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ddea3393-fe8a-4a67-b66c-da38106242b2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ddea3393-fe8a-4a67-b66c-da38106242b2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1339,7 +1339,7 @@
       "title": "Borjomi",
       "itemDescription": "330 ml.",
       "price": 6800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4985c9d2-a250-47a0-8ccb-082cd182a8c8.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4985c9d2-a250-47a0-8ccb-082cd182a8c8.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1351,7 +1351,7 @@
       "title": "Pizza with prosciutto cotto",
       "itemDescription": "Prosciutto cotto, bacon, olives, cherry tomatoes, mozzarella, arugula, tomato sauce, barbecue sauce. 470 гр",
       "price": 17800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2173e016-e34a-4941-bbca-cc8433af7ae0.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2173e016-e34a-4941-bbca-cc8433af7ae0.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1366,7 +1366,7 @@
       "title": "Italian veal bombetta",
       "itemDescription": "Traditional Italian shish kebab. Grilled veal. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
       "price": 19800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7e707741-4425-434a-b6e4-4a357e205403.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7e707741-4425-434a-b6e4-4a357e205403.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1378,7 +1378,7 @@
       "title": "Vegetable cream soup with chanterelles",
       "itemDescription": "Vegetable cream soup with chanterelles and cream. 250 g",
       "price": 6800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/5cdd9446-83c9-4f4d-888d-842fe9653425.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/5cdd9446-83c9-4f4d-888d-842fe9653425.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1393,7 +1393,7 @@
       "title": "Assorted grill",
       "itemDescription": "Tenderloin of veal, pork neck steak, chicken, grilled potatoes, grilled corn, grilled vegetables, sauces: with cilantro, with mushrooms, barbecues.",
       "price": 89800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/26bcef96-8cbc-4f47-8d21-babc0fa0039e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/26bcef96-8cbc-4f47-8d21-babc0fa0039e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1405,7 +1405,7 @@
       "title": "BonAqua",
       "itemDescription": "330 ml.",
       "price": 3800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4ceb2ba5-4bd9-41af-85f7-9ce52cdb0666.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4ceb2ba5-4bd9-41af-85f7-9ce52cdb0666.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1420,7 +1420,7 @@
       "title": "Italian pork bombetta",
       "itemDescription": "Traditional Italian shish kebab. Grilled pork. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
       "price": 18800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cf212068-5f7c-4559-a603-23fe4bee3f8a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cf212068-5f7c-4559-a603-23fe4bee3f8a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1432,7 +1432,7 @@
       "title": "Tagliatelle with veal",
       "itemDescription": "Tagliatelle with creamy sauce with veal and Parmesan cheese, and basil (220 g).",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0b2b526d-4880-4c45-910e-e5604cbc78a2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0b2b526d-4880-4c45-910e-e5604cbc78a2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1444,7 +1444,7 @@
       "title": "Pizza with veal and Caesar",
       "itemDescription": "Two favorite pizzas in one - Caesar, and veal (480 g).",
       "price": 17300,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/de9bbb82-2e76-4f41-a600-a74b478270d5.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/de9bbb82-2e76-4f41-a600-a74b478270d5.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1460,7 +1460,7 @@
       "title": "Grilled vegetables",
       "itemDescription": "",
       "price": 9800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/80edc856-e086-4994-8084-ee6e36ca4c70.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/80edc856-e086-4994-8084-ee6e36ca4c70.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1488,7 +1488,7 @@
       "title": "Pineapple Juice Rich",
       "itemDescription": "1000 ml",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a8ff69df-fb96-4879-a845-1b4ff203f76c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a8ff69df-fb96-4879-a845-1b4ff203f76c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -1501,7 +1501,7 @@
       "title": "Risotto with Mushrooms",
       "itemDescription": "Arborio rice, cepes, parmesan cheese.",
       "price": 14800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d8f29cfc-0041-4961-8b11-6b5d099ebf2e.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d8f29cfc-0041-4961-8b11-6b5d099ebf2e.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

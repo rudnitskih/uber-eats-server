@@ -84,7 +84,7 @@
     "max": 35,
     "raw": 30
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/0e8d32ee-5f96-45dc-99db-19b17001d4ee.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0e8d32ee-5f96-45dc-99db-19b17001d4ee.jpg",
   "endorsement": "Смачна піца на хрусткому коржі",
   "tags": [
     {
@@ -108,7 +108,7 @@
     "storeRatingScore": 4.6951754385964914,
     "ratingCount": "456"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/18b42e75-d581-42ce-87e6-279c9aa8e62f.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/18b42e75-d581-42ce-87e6-279c9aa8e62f.jpg",
   "items": {
     "83fb206e-0685-432d-b69c-7933463cf234": {
       "uuid": "83fb206e-0685-432d-b69c-7933463cf234",
@@ -127,35 +127,35 @@
       "title": "Pizza Pork fatback, pesto, parmesan, and arugula",
       "itemDescription": "Dough, cream sauce, fatback, pesto, arugula, parmesan, mozzarella, and hot chili peppers + sauce for crust.\n",
       "price": 23500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/33da0948-5449-4e5a-b1d8-349afd5148f9.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/33da0948-5449-4e5a-b1d8-349afd5148f9.jpg"
     },
     "c407a5c6-f5fa-446b-9749-ab2378e20fb0": {
       "uuid": "c407a5c6-f5fa-446b-9749-ab2378e20fb0",
       "title": "Pizza Stracciatella with mushrooms, and arugula",
       "itemDescription": "\nDough, tomato base, mushroom mix (champignons, oyster mushrooms, porcini mushrooms), arugula, mozzarella, stracciatella cheese, onion mix, and truffle oil + sauce for crust.\n",
       "price": 23500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/23b2e561-e9bd-4cee-a782-f0fceb7cd2d8.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/23b2e561-e9bd-4cee-a782-f0fceb7cd2d8.jpg"
     },
     "5ab13130-c082-4a3d-b3b1-2417a37638a3": {
       "uuid": "5ab13130-c082-4a3d-b3b1-2417a37638a3",
       "title": "Pizza Lamb polpette with baked peppers, and tomatoes",
       "itemDescription": "Dough, tomato sauce, minced lamb (with pine nuts), mozzarella cheese, onion mix, baked peppers, zira (cumin), and olive oil + sauce for bumpers.\n",
       "price": 21500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/84c646df-814e-47e1-9bd0-dd3ff7db086d.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/84c646df-814e-47e1-9bd0-dd3ff7db086d.jpg"
     },
     "33c089d8-4498-4c30-a99d-fc4285662797": {
       "uuid": "33c089d8-4498-4c30-a99d-fc4285662797",
       "title": "Lemon Tart",
       "itemDescription": "Shortcrust dough, lemon souffle, and passion fruit sauce.\n",
       "price": 7100,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c88d38d9-eb6a-433b-9b66-543b6f82b6a5.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c88d38d9-eb6a-433b-9b66-543b6f82b6a5.jpg"
     },
     "5a1913b2-aad1-4e92-8bb2-8b5ed3f35411": {
       "uuid": "5a1913b2-aad1-4e92-8bb2-8b5ed3f35411",
       "title": "Pizza Burrata with tomatoes",
       "itemDescription": "Dough, tomato sauce, stracciatella cheese, dried cherries, basil, and olive oil + sauce for crust.\n",
       "price": 16500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/81b6311c-d8ff-40c9-9175-218e1714c364.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/81b6311c-d8ff-40c9-9175-218e1714c364.jpg"
     },
     "7bf9f06f-b3d4-4753-8c59-b1022c0c6039": {
       "uuid": "7bf9f06f-b3d4-4753-8c59-b1022c0c6039",
@@ -168,14 +168,14 @@
       "title": "Salad with trout, quinoa, and tomatoes",
       "itemDescription": "Lettuce mix (arugula, spinach), boiled black quinoa, fresh trout, avocado, tomatoes (pink, yellow), and sorghum sauce (olive-lemon).\n",
       "price": 21500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/83558027-f785-4900-9d9a-e9b57d3ce120.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/83558027-f785-4900-9d9a-e9b57d3ce120.jpg"
     },
     "ebe36290-0b2c-474b-8e94-e760b5bd1ba3": {
       "uuid": "ebe36290-0b2c-474b-8e94-e760b5bd1ba3",
       "title": "Pizza Four cheese, and spicy honey",
       "itemDescription": "\nDough, cream sauce, mozzarella, parmesan, dorblu, and pecorino + spicy honey (served separately).\n",
       "price": 22500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cba2866a-cd4d-4ca5-a6fb-148ab61f4ec5.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cba2866a-cd4d-4ca5-a6fb-148ab61f4ec5.jpg"
     },
     "f8cf4d3e-bc81-46ce-b593-1720eae4c6b7": {
       "uuid": "f8cf4d3e-bc81-46ce-b593-1720eae4c6b7",
@@ -188,56 +188,56 @@
       "title": "Pizza Margarita",
       "itemDescription": "Dough, tomato sauce, buffalo mozzarella, basil, and olive oil + sauce for crust.\n",
       "price": 19200,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/793ef6c3-04c9-498a-bf7b-58442de5e361.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/793ef6c3-04c9-498a-bf7b-58442de5e361.jpg"
     },
     "a5054242-0a0a-4326-b9ff-1a184b6b8e58": {
       "uuid": "a5054242-0a0a-4326-b9ff-1a184b6b8e58",
       "title": "Friedman pizza",
       "itemDescription": "Тісто, томатна основа, моцарела, салямі Мілано, баклажан (смажений), сушений базилік, пекоріно, оливкова олія, чорний перець + соус для бортиків.\n",
       "price": 21500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4513cfb8-c52a-4451-8f62-b5009cfac629.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4513cfb8-c52a-4451-8f62-b5009cfac629.jpg"
     },
     "8c6fa3f7-031c-4786-a72b-a808cbe854a5": {
       "uuid": "8c6fa3f7-031c-4786-a72b-a808cbe854a5",
       "title": "Chicken liver pate with truffle honey",
       "itemDescription": "Homemade chicken liver pate served with caramelized onions and truffle honey. Ciabatta, hazelnuts, and microgreens.\n",
       "price": 11800,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/bb31707f-e581-41f8-b6b7-fd6991db5dc3.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/bb31707f-e581-41f8-b6b7-fd6991db5dc3.jpg"
     },
     "e9e280bb-0f57-48d2-9e68-2dbee112079c": {
       "uuid": "e9e280bb-0f57-48d2-9e68-2dbee112079c",
       "title": "Pizza Chanterelle mushrooms with porcini mushrooms, and spinach",
       "itemDescription": "Dough, cream sauce, mozzarella, chanterelles, porcini mushrooms, spinach, dried cherry, onion mix, and olive oil + sauce for crust.\n",
       "price": 23500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/36c6e156-6a77-49ce-a08e-3d5581c6c4ef.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/36c6e156-6a77-49ce-a08e-3d5581c6c4ef.jpg"
     },
     "68a4697f-3f39-473b-967f-d3e07c17b4b4": {
       "uuid": "68a4697f-3f39-473b-967f-d3e07c17b4b4",
       "title": "Carrot cake",
       "itemDescription": "Carrot sponge cake, caramel impregnation, mascarpone cream, and nuts.\n",
       "price": 8200,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/4044a437-7ac3-4f6e-b7eb-ed069721d2f1.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/4044a437-7ac3-4f6e-b7eb-ed069721d2f1.jpg"
     },
     "1afc674d-aea0-4bd0-a394-f23a5143ba5c": {
       "uuid": "1afc674d-aea0-4bd0-a394-f23a5143ba5c",
       "title": "Pizza Spicy peperonata with salami, and fennel",
       "itemDescription": "Dough, tomato sauce, baked peppers, Nduja mince (salami, chorizo, parma, mortadella, hot peppers, garlic), fennel, and hot red peppers (dried) + sauce for crust.\n",
       "price": 20500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2acfd5ca-4f42-49e7-8867-eea0cef761bb.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2acfd5ca-4f42-49e7-8867-eea0cef761bb.jpg"
     },
     "2400e841-2d43-4a53-b61b-1e41b349528f": {
       "uuid": "2400e841-2d43-4a53-b61b-1e41b349528f",
       "title": "Green salad with avocado, zucchini, and wild mustard",
       "itemDescription": "Honey, and mustard dressing, onions, and walnuts.\n",
       "price": 16700,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/91f4a6a6-1324-4dc2-8cd0-5512a8723336.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/91f4a6a6-1324-4dc2-8cd0-5512a8723336.jpg"
     },
     "1f40c1ec-3a8d-4b89-9419-919d8997b822": {
       "uuid": "1f40c1ec-3a8d-4b89-9419-919d8997b822",
       "title": "Pizza Light-salted salmon, fennel, and cream cheese",
       "itemDescription": "Dough, cream and tomato sauce, light-salted salmon, red onions, fennel, cream cheese, and dill sauce + sauce for crust.\n",
       "price": 25500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/dd9d2c6b-a6d1-4f07-8814-5c1649111ff2.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/dd9d2c6b-a6d1-4f07-8814-5c1649111ff2.jpg"
     }
   }
 }

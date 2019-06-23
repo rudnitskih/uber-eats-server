@@ -112,7 +112,7 @@
     "max": 45,
     "raw": 40
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/f51103dd-acd1-4b10-a87c-6a40c2f5884e.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f51103dd-acd1-4b10-a87c-6a40c2f5884e.jpg",
   "tags": [
     {
       "uuid": "Asian",
@@ -135,14 +135,14 @@
     "storeRatingScore": 4.715773809523809,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/bec69c7d-acef-4362-ab88-b087721305bd.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/bec69c7d-acef-4362-ab88-b087721305bd.jpg",
   "items": {
     "e32e2106-79e5-4fac-a18e-b70032e1af89": {
       "uuid": "e32e2106-79e5-4fac-a18e-b70032e1af89",
       "title": "Coconut cake",
       "itemDescription": "160g.",
       "price": 7500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e55baa12-4b6c-4d15-888c-f9faa8c51faf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e55baa12-4b6c-4d15-888c-f9faa8c51faf.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -154,7 +154,7 @@
       "title": "Dim sum with chicken and prawn",
       "itemDescription": "Shrimps, and canned bamboo (190g).",
       "price": 19900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7fb56e15-bd09-4f43-972f-c8f9ce39967c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7fb56e15-bd09-4f43-972f-c8f9ce39967c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -166,7 +166,7 @@
       "title": "Udon with beef",
       "itemDescription": "Beef, noodles, garlic, green onions, sesame seeds, red onions, kidney beans, sweet peppers, carrots, and sauce (300g).",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d32cc33c-577c-4740-81fd-650d7e9ce4be.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d32cc33c-577c-4740-81fd-650d7e9ce4be.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -178,7 +178,7 @@
       "title": "Fried rice with ginger and vegetables",
       "itemDescription": "Jasmine rice, broccoli, tofu cheese, oyster mushrooms, carrots, leeks, garlic, ginger, chili peppers, coriander, egg, lemon fresh, and sauce (280g).\n",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/525752c2-0904-4529-8dd0-f16996d9e310.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/525752c2-0904-4529-8dd0-f16996d9e310.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -190,7 +190,7 @@
       "title": "Teriyaki chicken on steamy rice",
       "itemDescription": "Rice \"Jasmine\", chicken, green onion, garlic, ginger, cucumbers, \"Teriyaki\" sauce (330g).",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/90ba2bc5-9b90-47e2-9bd6-201da82f7d0c.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/90ba2bc5-9b90-47e2-9bd6-201da82f7d0c.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -202,7 +202,7 @@
       "title": "Bao Chicken BBQ",
       "itemDescription": "Ban Bao, and chicken (130g).",
       "price": 5900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/d3bc97c5-d9be-4906-85ff-d5a91df2a291.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/d3bc97c5-d9be-4906-85ff-d5a91df2a291.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -214,7 +214,7 @@
       "title": "Fried spring rolls with mushrooms",
       "itemDescription": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (180g).",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/978a13c7-d46d-413a-a8c1-66fa95630bcf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/978a13c7-d46d-413a-a8c1-66fa95630bcf.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -226,7 +226,7 @@
       "title": "Warm salad with seafood NEW",
       "itemDescription": "Mussels, prawns, octopus, squid, lollo bionda salad, cucumbers, tomatoes, garlic, rice, Blue Curaçao liqueur, leeks, mint, and Thai sauce (270g).",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/cf7cc854-8d2a-4223-829f-a8c4cc830dc3.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/cf7cc854-8d2a-4223-829f-a8c4cc830dc3.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -238,7 +238,7 @@
       "title": "Tom Yum with shrimps",
       "itemDescription": "Tom Yum broth, prawns, oyster mushrooms, tomatoes, coriander, ginger (450g).",
       "price": 18900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/9f17477a-029c-4783-aeb7-230fdf448a50.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/9f17477a-029c-4783-aeb7-230fdf448a50.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -250,7 +250,7 @@
       "title": "Bao burger with chicken",
       "itemDescription": "Banh bao, tomatoes, cucumbers, lollo bionda salad, tofu cheese, curry paste, sesame sauce, and soy sauce (205g).",
       "price": 7500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7d86042a-902d-4c3d-ba51-d8f81441370a.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7d86042a-902d-4c3d-ba51-d8f81441370a.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -274,7 +274,7 @@
       "title": "Peking salad with duck and plum sauce",
       "itemDescription": "duck, celery, grapefruits, peanuts, lollo bionda salad, plum sauce (140g).",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/449ba548-0fe0-4cb9-ac9e-a82ff9849b84.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/449ba548-0fe0-4cb9-ac9e-a82ff9849b84.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -286,7 +286,7 @@
       "title": "Salad with tofu cheese and vegetables",
       "itemDescription": "Fried tofu cheese, tomatoes, cucumbers, lollo bionda salad, sweet peppers, basil, mint, coriander, chili peppers, and nuts and coconut sauce (185g).",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7a253d0a-9627-4edb-bd44-a3db3b8af8b8.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7a253d0a-9627-4edb-bd44-a3db3b8af8b8.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -310,7 +310,7 @@
       "title": "Fried spring rolls with chicken",
       "itemDescription": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (240g).",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/114425c2-2bb3-4668-b935-fe58ce26b10d.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/114425c2-2bb3-4668-b935-fe58ce26b10d.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -322,7 +322,7 @@
       "title": "Fried rice with chicken",
       "itemDescription": "Jasmine rice, chicken, carrots, leeks, egg, soybean sprouts, green onions, sesame, and sauce (300g).",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a8838c59-e3aa-40f7-9ad8-c73d76eb6d88.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a8838c59-e3aa-40f7-9ad8-c73d76eb6d88.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -334,7 +334,7 @@
       "title": "Dim sum with spinach and tofu",
       "itemDescription": "Spinach, tofu cheese, and corn (190g).",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c8e13c43-de13-4ded-9cfe-a557a7c4ff0b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c8e13c43-de13-4ded-9cfe-a557a7c4ff0b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -346,7 +346,7 @@
       "title": "Ramen with duck",
       "itemDescription": "Ramen broth, duck, soybean sprouts, leeks, carrots, nori, egg, onions, egg noodles (450g).\n",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/59a47446-b1af-4f9d-8c1c-074f6604bda9.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/59a47446-b1af-4f9d-8c1c-074f6604bda9.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -358,7 +358,7 @@
       "title": "Tom Yum with chicken",
       "itemDescription": "Tom Yum broth, chicken, oyster mushrooms, tomatoes, leeks, ginger, coriander (450g).",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/fee5b24b-695d-40f3-86b9-b538f2718bdb.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/fee5b24b-695d-40f3-86b9-b538f2718bdb.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -370,7 +370,7 @@
       "title": "Banh Bao",
       "itemDescription": "Yeast dough steamed bun cooked in bamboo steamer according to ancient traditions (90g).",
       "price": 1700,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8a6e1728-0f1e-4780-954a-6e59ee001b11.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8a6e1728-0f1e-4780-954a-6e59ee001b11.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -382,7 +382,7 @@
       "title": "Fried rice with seafood",
       "itemDescription": "Jasmine rice, octopus, squids, mussels, prawns, ginger, kidney beans, coriander, lemon fresh, chili peppers, soybean sprouts, leeks, sauce (260g).\n",
       "price": 16500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a1af30dc-4079-45fb-be6c-4f4909ca73bf.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a1af30dc-4079-45fb-be6c-4f4909ca73bf.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -394,7 +394,7 @@
       "title": "Dim sum with chicken, and vegetables",
       "itemDescription": "Chicken, carrots, oyster mushrooms, zucchini, and corn (190g).",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e0ee2d68-63d9-446d-8e56-ac1e918e709b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e0ee2d68-63d9-446d-8e56-ac1e918e709b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -406,7 +406,7 @@
       "title": "Dim sum assorted",
       "itemDescription": "210g.",
       "price": 14900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/310173ef-dc3a-4e92-a9f8-4f3e1abe4ca2.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/310173ef-dc3a-4e92-a9f8-4f3e1abe4ca2.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -418,7 +418,7 @@
       "title": "Cellophane noodles with chicken",
       "itemDescription": "Cellophane noodles, chicken, egg, coriander, ginger, sesame, napa (Korean) cabbages, carrots, red onions, celery, and sauce (300g).",
       "price": 10900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/8cf9f3ad-f16d-44f5-a888-c6e979462937.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/8cf9f3ad-f16d-44f5-a888-c6e979462937.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -430,7 +430,7 @@
       "title": "Miso soup",
       "itemDescription": "Miso broth, tofu cheese, sesame, and ginger (450g).",
       "price": 9900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/562da0de-fe53-4236-9885-e0808d31aeef.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/562da0de-fe53-4236-9885-e0808d31aeef.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -454,7 +454,7 @@
       "title": "Jasmine cake with matcha tea",
       "itemDescription": "135g.",
       "price": 6900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/35067fc4-4789-46fd-8311-c83fae3f2e3f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/35067fc4-4789-46fd-8311-c83fae3f2e3f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -466,7 +466,7 @@
       "title": "Bao burger with tofu, and vegetables",
       "itemDescription": "Ban Bao, tomatoes, cucumbers, Lolo Bondo salad, fried tofu cheese, curry paste, soy sauce, and sesame sauce (200g).",
       "price": 6900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/ff0c087a-9a56-4ff4-9c2b-668f0436ff07.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/ff0c087a-9a56-4ff4-9c2b-668f0436ff07.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -478,7 +478,7 @@
       "title": "Fried rice with pork BBQ",
       "itemDescription": "Jasmine rice, pork, garlic, chili peppers, carrots, leeks, egg, lemon fresh, coriander, and sauce (280g).\n",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/6801266d-b7a2-413c-a57d-ce4dab9321fc.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/6801266d-b7a2-413c-a57d-ce4dab9321fc.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -490,7 +490,7 @@
       "title": "Pad Thai with vegetables",
       "itemDescription": "Rice noodles, oyster mushrooms, leeks, tofu cheese, egg, peanuts, soybean sprouts, carrots, and sauce (300g).",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a6f8822f-1db0-4d82-bdf0-43511cc5b78f.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a6f8822f-1db0-4d82-bdf0-43511cc5b78f.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -502,7 +502,7 @@
       "title": "Pad Thai with chicken",
       "itemDescription": "Rice noodles, chicken, egg, soybean sprouts, lemons, coriander, leeks, peanuts, sauce (300g).\n",
       "price": 11900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/30d8abcf-f86e-4315-ba65-9781c68fb13b.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/30d8abcf-f86e-4315-ba65-9781c68fb13b.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""
@@ -514,7 +514,7 @@
       "title": "Ramen with pork",
       "itemDescription": "Ramen broth, pork, soybean sprouts, leeks, carrots, nori, egg, egg noodles, coriander (450g).",
       "price": 13900,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/7e158aeb-c187-4859-a70d-e1a0dcf5baed.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/7e158aeb-c187-4859-a70d-e1a0dcf5baed.jpg",
       "nutritionalInfo": {
         "allergens": [
           ""

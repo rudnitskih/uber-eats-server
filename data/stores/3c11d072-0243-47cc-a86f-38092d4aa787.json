@@ -242,7 +242,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/c45e439b-7208-47fb-9c84-5b8b19067328.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c45e439b-7208-47fb-9c84-5b8b19067328.jpg",
   "tags": [
     {
       "uuid": "Lebanese",
@@ -265,14 +265,14 @@
     "storeRatingScore": 4.449101796407185,
     "ratingCount": "167"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/5b02867f-83ec-486f-ab66-8ccf713ebe57.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/5b02867f-83ec-486f-ab66-8ccf713ebe57.jpg",
   "items": {
     "d8f17276-dce4-46a0-8989-b3211f283a20": {
       "uuid": "d8f17276-dce4-46a0-8989-b3211f283a20",
       "title": "Salad with avocado, arugula, and salted salmon",
       "itemDescription": "250g.",
       "price": 18500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/e4f8873d-8377-4a48-9adb-4d4cf1e7178e.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/e4f8873d-8377-4a48-9adb-4d4cf1e7178e.jpg"
     },
     "765eadc5-938f-4f97-81c5-7c2d12dcab46": {
       "uuid": "765eadc5-938f-4f97-81c5-7c2d12dcab46",
@@ -352,7 +352,7 @@
       "title": "Salad with turkey, Philadelphia and cowberry sauce",
       "itemDescription": "280g.",
       "price": 14000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2d89ca4d-b585-47d5-9ea7-c4414e480a8c.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2d89ca4d-b585-47d5-9ea7-c4414e480a8c.jpg"
     },
     "39aca76c-debd-4a32-9ec2-8ef81d3bcbf7": {
       "uuid": "39aca76c-debd-4a32-9ec2-8ef81d3bcbf7",
@@ -519,7 +519,7 @@
       "title": "Cheesecakes with raisins, sour cream and jam",
       "itemDescription": "250g.",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a325d88c-6e76-4731-bcce-910955c4df0d.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a325d88c-6e76-4731-bcce-910955c4df0d.jpg"
     },
     "ba6157b9-8f0b-49b5-a296-aa011856db78": {
       "uuid": "ba6157b9-8f0b-49b5-a296-aa011856db78",
@@ -583,7 +583,7 @@
       "title": "Tabbouleh",
       "itemDescription": "Parsley, tomatoes, onions,olive oil, and burguli (250g).",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/937b7616-8db4-4a5c-b25a-4aedae67f826.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/937b7616-8db4-4a5c-b25a-4aedae67f826.jpg"
     },
     "6c2d45f3-f42e-4fa8-b647-ad3aaa2ce722": {
       "uuid": "6c2d45f3-f42e-4fa8-b647-ad3aaa2ce722",
@@ -620,7 +620,7 @@
       "title": "Falafel with herbs",
       "itemDescription": "200/100g.",
       "price": 9500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/245fcdc4-54de-43a1-8f8e-883b0333110b.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/245fcdc4-54de-43a1-8f8e-883b0333110b.jpg"
     },
     "fc5e234a-37fc-47f6-b00d-24730a224594": {
       "uuid": "fc5e234a-37fc-47f6-b00d-24730a224594",
@@ -741,7 +741,7 @@
       "title": "Ukrainian borsch",
       "itemDescription": "300g.",
       "price": 8500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/c0da8a95-a332-45ca-b1e0-d17084626e98.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/c0da8a95-a332-45ca-b1e0-d17084626e98.jpg"
     },
     "3530a6db-3e8f-403f-9b53-3335ec97ac11": {
       "uuid": "3530a6db-3e8f-403f-9b53-3335ec97ac11",
@@ -761,7 +761,7 @@
       "title": "Meat Mix Grill with vegetables",
       "itemDescription": "Lulya-kebab, mutton on the bone, shashlik kebab from veal, shishashuk, and half of chicken (800/200g).",
       "price": 50000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/fe21976d-53d7-43b1-807c-f76a317fb68f.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/fe21976d-53d7-43b1-807c-f76a317fb68f.jpg"
     },
     "f0382566-065a-4892-b706-1055786e8743": {
       "uuid": "f0382566-065a-4892-b706-1055786e8743",
@@ -774,7 +774,7 @@
       "title": "Assorted Lebanese appetizers",
       "itemDescription": "Hummus, Baba Ghanouj, Labneh, shanklish, olives, and Lebanese cheese (500g).",
       "price": 18500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1823222b-5794-4f4f-9b4c-eb7ad39e1f01.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1823222b-5794-4f4f-9b4c-eb7ad39e1f01.jpg"
     },
     "0a0eef18-9a77-4d68-9de8-8b6f5076a918": {
       "uuid": "0a0eef18-9a77-4d68-9de8-8b6f5076a918",
@@ -874,7 +874,7 @@
       "title": "Grilled dorado with vegetables",
       "itemDescription": "300/150g.",
       "price": 23000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a28e009f-2307-462d-a4dc-a1d84918c610.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a28e009f-2307-462d-a4dc-a1d84918c610.jpg"
     },
     "049bc2a8-b9b7-4c2f-b346-468105aee2d1": {
       "uuid": "049bc2a8-b9b7-4c2f-b346-468105aee2d1",
@@ -929,7 +929,7 @@
       "title": "Assorted sambushiki",
       "itemDescription": "8 pcs.",
       "price": 8000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/dfd50f56-61a4-4806-9c20-ccef16374495.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/dfd50f56-61a4-4806-9c20-ccef16374495.jpg"
     },
     "8da81d6f-393c-48d7-9e70-0372d4889024": {
       "uuid": "8da81d6f-393c-48d7-9e70-0372d4889024",

@@ -176,7 +176,7 @@
     "max": 50,
     "raw": 45
   },
-  "imageUrl": "https://uber-eats-mates.herokuapp.com/318dda12-2a82-425f-a0c7-d8797f0722a0.jpg",
+  "imageUrl": "https://uber-eats-mates.herokuapp.com/images/318dda12-2a82-425f-a0c7-d8797f0722a0.jpg",
   "tags": [
     {
       "uuid": "Turkish",
@@ -224,7 +224,7 @@
     "storeRatingScore": 4.485981308411215,
     "ratingCount": "107"
   },
-  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/4aabe55f-0530-4e68-97e8-07aa7b27a5e0.jpg",
+  "largeImageUrl": "https://uber-eats-mates.herokuapp.com/images/4aabe55f-0530-4e68-97e8-07aa7b27a5e0.jpg",
   "items": {
     "ddc96c78-b218-4efd-88b0-23d665f5b5ed": {
       "uuid": "ddc96c78-b218-4efd-88b0-23d665f5b5ed",
@@ -243,7 +243,7 @@
       "title": "Classical burger",
       "itemDescription": "Veal burger with tomatoes, cucumbers, lettuce, pickles with cocktail sauce served with coleslaw, and French fries.",
       "price": 13500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/51a1bdbd-6212-4c62-b269-73148e7486a5.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/51a1bdbd-6212-4c62-b269-73148e7486a5.jpg"
     },
     "679ba250-b2ee-42c2-aa0b-f6f074f4c90a": {
       "uuid": "679ba250-b2ee-42c2-aa0b-f6f074f4c90a",
@@ -337,7 +337,7 @@
       "title": "Lavash doner",
       "itemDescription": "Doner meat in lavash with tomatoes, pepper, onion, and potato (200 g).",
       "price": 11500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a571f7f2-907c-4a79-b191-847f29de71c6.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a571f7f2-907c-4a79-b191-847f29de71c6.jpg"
     },
     "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f": {
       "uuid": "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f",
@@ -485,7 +485,7 @@
       "title": "Portion doner",
       "itemDescription": "Doner meat in lavash with tomatoes, and pepper (250 g).",
       "price": 14000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/0f809597-26fa-4c04-a937-10e6039e69f9.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/0f809597-26fa-4c04-a937-10e6039e69f9.jpg"
     },
     "48d33fe4-8b42-42d5-a096-4fcb26e0b287": {
       "uuid": "48d33fe4-8b42-42d5-a096-4fcb26e0b287",
@@ -519,7 +519,7 @@
       "title": "Meat doner salad",
       "itemDescription": "Fried meat with mushrooms in the greenery with onion, Dutch cheese, and balsamic sauce (220 g).",
       "price": 11000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/61a82e75-ad6a-4993-919f-a7c99ba701cc.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/61a82e75-ad6a-4993-919f-a7c99ba701cc.jpg"
     },
     "12aa2432-0499-44c1-8523-77020828b626": {
       "uuid": "12aa2432-0499-44c1-8523-77020828b626",
@@ -546,7 +546,7 @@
       "title": "Grilled chicken",
       "itemDescription": "Grilled chicken with pilaf, onion, tomatoes, pepper, and potato (400 g).",
       "price": 20000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/1e52ed54-7c10-4fae-8486-0099f9b44b9d.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/1e52ed54-7c10-4fae-8486-0099f9b44b9d.jpg"
     },
     "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347": {
       "uuid": "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347",
@@ -578,7 +578,7 @@
       "title": "Baklava with pistachios",
       "itemDescription": "150 g.",
       "price": 14000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/2d6047a1-d6cd-4377-9a64-f0da1fc27109.jpg",
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/2d6047a1-d6cd-4377-9a64-f0da1fc27109.jpg",
       "nutritionalInfo": {}
     },
     "4367375e-62da-4577-8e26-8c88b58c7b23": {
@@ -604,14 +604,14 @@
       "title": "Lentil soup",
       "itemDescription": "250 g.",
       "price": 6500,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/f82833c3-2d0c-4cea-a18f-7bb0e8c1ca44.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/f82833c3-2d0c-4cea-a18f-7bb0e8c1ca44.jpg"
     },
     "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634": {
       "uuid": "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634",
       "title": "Doner with rice",
       "itemDescription": "Doner meat with rice, tomatoes, and pepper (300 g).\n",
       "price": 17000,
-      "imageUrl": "https://uber-eats-mates.herokuapp.com/a72be61d-5bfb-4e72-b3b5-8ee3d40920b6.jpg"
+      "imageUrl": "https://uber-eats-mates.herokuapp.com/images/a72be61d-5bfb-4e72-b3b5-8ee3d40920b6.jpg"
     },
     "de914251-a526-48e8-9f4b-227bb0d0318a": {
       "uuid": "de914251-a526-48e8-9f4b-227bb0d0318a",
