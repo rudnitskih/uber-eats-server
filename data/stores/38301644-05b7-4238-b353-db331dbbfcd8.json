@@ -1,941 +1,939 @@
 {
-    "store": {
-        "uuid": "38301644-05b7-4238-b353-db331dbbfcd8",
-        "title": "Bistro Bistro (вул. І. Франка)",
-        "regionId": 943,
-        "categories": [
-            {
-                "uuid": "American",
-                "name": "Американська",
-                "keyName": "American"
-            },
-            {
-                "uuid": "StreetFood",
-                "name": "Вулична їжа",
-                "keyName": "StreetFood"
-            },
-            {
-                "uuid": "FastFood",
-                "name": "Фастфуд",
-                "keyName": "FastFood"
-            }
-        ],
-        "sections": [
-            {
-                "uuid": "694d3b02-b693-4297-b963-2f02b729f325",
-                "title": "SWITCH LANGUAGE (UKR)",
-                "subtitle": "11:00 AM – 9:00 PM",
-                "isTop": true,
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "046c3948-6a09-4fee-8cf8-85082a084db2",
-                    "819d92f7-df35-464e-9e48-271b17eb826e",
-                    "a3422bac-1ee8-4a83-9e22-2deacb595f39"
-                ]
-            },
-            {
-                "uuid": "a3921e9f-1a35-4226-bda3-bb2a2a6cd66b",
-                "title": "SWITCH LANGUAGE (ENG)",
-                "subtitle": "11:00 AM – 9:00 PM",
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "fecba448-ee14-460d-9a0d-79f67c8e35f2",
-                    "b9da518a-0cd1-4c7d-849b-e82231fd3f1d"
-                ]
-            }
-        ],
-        "sectionEntitiesMap": {
-            "694d3b02-b693-4297-b963-2f02b729f325": {
-                "itemsMap": {
-                    "0c8780cb-c53f-4d72-93f5-3b40e9888522": {
-                        "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                        "title": "Пекін",
-                        "itemDescription": "Молочна сосиска, пекінська капуста, деревні гриби, соєві паростки, морква, устричний соус, соус чилі, кунжутна олія, кунжут.",
-                        "price": 7200,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/44a809d8-8528-456e-a917-c36a3560272f",
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                        ]
-                    },
-                    "6e4dea95-b223-487c-ada4-c834575702f6": {
-                        "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
-                        "title": "Chicago",
-                        "itemDescription": "Молочна сосиска, сирний соус, гострий соус, червоний соус, реліш із солоних огірків і маринованої цибулі, смажений бекон, зелень.",
-                        "price": 7200,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0709848a-7508-44fa-8ddd-9a9fbbe0a4be",
-                        "customizationUuids": [
-                            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                        ]
-                    },
-                    "8e341fd6-befe-4d57-a837-7d34f6c60a1f": {
-                        "uuid": "8e341fd6-befe-4d57-a837-7d34f6c60a1f",
-                        "title": "Бангкок",
-                        "itemDescription": "Баварська ковбаска, соус з кокосової олії, пасти з креветок, пасти з томатів, арахісу, сухого часнику, чилі, цукру, устричного і соєвого соусів, салат з молодої капусти, маринованої моркви, арахісової олії, кінза і м'ята.",
-                        "price": 7000,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "9e340c89-46fe-4770-b625-4ec53e958065"
-                        ]
-                    },
-                    "354ae791-be6f-410e-b1ea-cba1d03d95e3": {
-                        "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                        "title": "Баварія",
-                        "itemDescription": "Баварська ковбаска, червоний фірмовий соус, баварська гірчиця, солоний огірок, смажений бекон, карамелізована цибуля, зелень.",
-                        "price": 7800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/40a11ad8-ecec-409f-8d0b-e86db489301a",
-                        "customizationUuids": [
-                            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                        ]
-                    },
-                    "21f51008-0f05-4342-b0b2-fa8dae1c180a": {
-                        "uuid": "21f51008-0f05-4342-b0b2-fa8dae1c180a",
-                        "title": "Лаціо",
-                        "itemDescription": "Молочна сосиска, соус з вершків, білого вина, бекону та цибулі, плавлений сир, пармезан, базилік, костас, баварська ковбаска, грецький салат з оливками, Каламата, базилік, бальзамічний крем.",
-                        "price": 7800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8e60520-e664-421f-91eb-9cf41e23e3ac",
-                        "customizationUuids": [
-                            "7616f355-5133-4376-9c87-23b812f24bd5"
-                        ]
-                    },
-                    "2f15159f-545a-4715-b0c6-8c6bad9a15f8": {
-                        "uuid": "2f15159f-545a-4715-b0c6-8c6bad9a15f8",
-                        "title": "Кривава Мері ( безалкогольна )",
-                        "itemDescription": "",
-                        "price": 5000,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "0e2e5d17-6dd3-41de-b3fc-c97e32f57c39"
-                        ]
-                    },
-                    "f66235d8-8209-42c5-8c27-4ef4f4d6db96": {
-                        "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                        "title": "Джованні",
-                        "itemDescription": "Сосиска молочна, соус із сирів дорблю і горгондзола, рукола, помідор, тертий сир дорблю.",
-                        "price": 7600,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/42b54d01-12eb-4a73-8516-d8e7dd2ad441",
-                        "customizationUuids": [
-                            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                        ]
-                    },
-                    "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc": {
-                        "uuid": "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
-                        "title": "Костас",
-                        "itemDescription": "Баварська або молочна сосиска, соус із м'якого сиру і йогурту, томати, огірки, болгарський перець, базилік, оливки Каламата, бальзамічна глазур.",
-                        "price": 7600,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8cfe861-c8cc-4c34-9042-9bf0f86e08d2",
-                        "customizationUuids": [
-                            "d7a43578-56a7-47dc-a3a2-bbc663de1fa7",
-                            "7416aa4b-d07a-4ab7-ad11-f8543467bb59"
-                        ]
-                    },
-                    "e27cc42b-30f4-43df-8753-6670f4c1d326": {
-                        "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                        "title": "Pepsi",
-                        "itemDescription": "330ml.",
-                        "price": 2500
-                    },
-                    "6c7101e8-c17d-426e-a89a-69e3381f93ef": {
-                        "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                        "title": "Mirinda",
-                        "itemDescription": "330ml.",
-                        "price": 2500,
-                        "suspendUntil": 8640000000
-                    },
-                    "75e7d617-aee1-470a-b811-b519daf922ef": {
-                        "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
-                        "title": "Нью-Йорк",
-                        "itemDescription": "Молочна сосиска, червоний фірмовий соус, американська гірчиця, квашена капуста, маринована морква, солоний огірок, карамелізована цибуля, зелень.",
-                        "price": 7200,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed585a39-ab7c-420a-bb1f-7791b2b59aab",
-                        "customizationUuids": [
-                            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                        ]
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "046c3948-6a09-4fee-8cf8-85082a084db2",
-                        "title": "Популярне",
-                        "itemUuids": [
-                            "6e4dea95-b223-487c-ada4-c834575702f6",
-                            "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                            "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                            "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                            "75e7d617-aee1-470a-b811-b519daf922ef"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
-                                "title": "Chicago",
-                                "itemDescription": "Молочна сосиска, сирний соус, гострий соус, червоний соус, реліш із солоних огірків і маринованої цибулі, смажений бекон, зелень.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0709848a-7508-44fa-8ddd-9a9fbbe0a4be",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                                "title": "Баварія",
-                                "itemDescription": "Баварська ковбаска, червоний фірмовий соус, баварська гірчиця, солоний огірок, смажений бекон, карамелізована цибуля, зелень.",
-                                "price": 7800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/40a11ad8-ecec-409f-8d0b-e86db489301a",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                                "title": "Джованні",
-                                "itemDescription": "Сосиска молочна, соус із сирів дорблю і горгондзола, рукола, помідор, тертий сир дорблю.",
-                                "price": 7600,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/42b54d01-12eb-4a73-8516-d8e7dd2ad441",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                                "title": "Пекін",
-                                "itemDescription": "Молочна сосиска, пекінська капуста, деревні гриби, соєві паростки, морква, устричний соус, соус чилі, кунжутна олія, кунжут.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/44a809d8-8528-456e-a917-c36a3560272f",
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
-                                "title": "Нью-Йорк",
-                                "itemDescription": "Молочна сосиска, червоний фірмовий соус, американська гірчиця, квашена капуста, маринована морква, солоний огірок, карамелізована цибуля, зелень.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed585a39-ab7c-420a-bb1f-7791b2b59aab",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "819d92f7-df35-464e-9e48-271b17eb826e",
-                        "title": "Хот-доги",
-                        "itemUuids": [
-                            "6e4dea95-b223-487c-ada4-c834575702f6",
-                            "21f51008-0f05-4342-b0b2-fa8dae1c180a",
-                            "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                            "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
-                            "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                            "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                            "75e7d617-aee1-470a-b811-b519daf922ef",
-                            "8e341fd6-befe-4d57-a837-7d34f6c60a1f"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
-                                "title": "Chicago",
-                                "itemDescription": "Молочна сосиска, сирний соус, гострий соус, червоний соус, реліш із солоних огірків і маринованої цибулі, смажений бекон, зелень.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0709848a-7508-44fa-8ddd-9a9fbbe0a4be",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "21f51008-0f05-4342-b0b2-fa8dae1c180a",
-                                "title": "Лаціо",
-                                "itemDescription": "Молочна сосиска, соус з вершків, білого вина, бекону та цибулі, плавлений сир, пармезан, базилік, костас, баварська ковбаска, грецький салат з оливками, Каламата, базилік, бальзамічний крем.",
-                                "price": 7800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8e60520-e664-421f-91eb-9cf41e23e3ac",
-                                "customizationUuids": [
-                                    "7616f355-5133-4376-9c87-23b812f24bd5"
-                                ]
-                            },
-                            {
-                                "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                                "title": "Пекін",
-                                "itemDescription": "Молочна сосиска, пекінська капуста, деревні гриби, соєві паростки, морква, устричний соус, соус чилі, кунжутна олія, кунжут.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/44a809d8-8528-456e-a917-c36a3560272f",
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
-                                "title": "Костас",
-                                "itemDescription": "Баварська або молочна сосиска, соус із м'якого сиру і йогурту, томати, огірки, болгарський перець, базилік, оливки Каламата, бальзамічна глазур.",
-                                "price": 7600,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8cfe861-c8cc-4c34-9042-9bf0f86e08d2",
-                                "customizationUuids": [
-                                    "d7a43578-56a7-47dc-a3a2-bbc663de1fa7",
-                                    "7416aa4b-d07a-4ab7-ad11-f8543467bb59"
-                                ]
-                            },
-                            {
-                                "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                                "title": "Баварія",
-                                "itemDescription": "Баварська ковбаска, червоний фірмовий соус, баварська гірчиця, солоний огірок, смажений бекон, карамелізована цибуля, зелень.",
-                                "price": 7800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/40a11ad8-ecec-409f-8d0b-e86db489301a",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                                "title": "Джованні",
-                                "itemDescription": "Сосиска молочна, соус із сирів дорблю і горгондзола, рукола, помідор, тертий сир дорблю.",
-                                "price": 7600,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/42b54d01-12eb-4a73-8516-d8e7dd2ad441",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
-                                "title": "Нью-Йорк",
-                                "itemDescription": "Молочна сосиска, червоний фірмовий соус, американська гірчиця, квашена капуста, маринована морква, солоний огірок, карамелізована цибуля, зелень.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed585a39-ab7c-420a-bb1f-7791b2b59aab",
-                                "customizationUuids": [
-                                    "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
-                                ]
-                            },
-                            {
-                                "uuid": "8e341fd6-befe-4d57-a837-7d34f6c60a1f",
-                                "title": "Бангкок",
-                                "itemDescription": "Баварська ковбаска, соус з кокосової олії, пасти з креветок, пасти з томатів, арахісу, сухого часнику, чилі, цукру, устричного і соєвого соусів, салат з молодої капусти, маринованої моркви, арахісової олії, кінза і м'ята.",
-                                "price": 7000,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "9e340c89-46fe-4770-b625-4ec53e958065"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "a3422bac-1ee8-4a83-9e22-2deacb595f39",
-                        "title": "Напої",
-                        "itemUuids": [
-                            "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                            "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                            "2f15159f-545a-4715-b0c6-8c6bad9a15f8"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                                "title": "Pepsi",
-                                "itemDescription": "330ml.",
-                                "price": 2500
-                            },
-                            {
-                                "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                                "title": "Mirinda",
-                                "itemDescription": "330ml.",
-                                "price": 2500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "2f15159f-545a-4715-b0c6-8c6bad9a15f8",
-                                "title": "Кривава Мері ( безалкогольна )",
-                                "itemDescription": "",
-                                "price": 5000,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "0e2e5d17-6dd3-41de-b3fc-c97e32f57c39"
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            "a3921e9f-1a35-4226-bda3-bb2a2a6cd66b": {
-                "itemsMap": {
-                    "6f26c8a1-c666-4178-bdb7-0f06640eba6f": {
-                        "uuid": "6f26c8a1-c666-4178-bdb7-0f06640eba6f",
-                        "title": "Bloody Mary (non-alcoholic)",
-                        "itemDescription": "",
-                        "price": 5000,
-                        "customizationUuids": [
-                            "98733e1e-69a9-40ec-ba6a-f0015759eba3"
-                        ]
-                    },
-                    "f8459330-c30c-4190-9686-b405471334f4": {
-                        "uuid": "f8459330-c30c-4190-9686-b405471334f4",
-                        "title": "Chicago",
-                        "itemDescription": "Milk sausages, cheese sauce, hot sauce, red sauce, relish of pickled cucumbers, and marinated onion, fried bacon, and greens.",
-                        "price": 7200,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d032dfdd-63a1-4db3-b848-d540986c8c5d",
-                        "customizationUuids": [
-                            "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-                        ]
-                    },
-                    "0b2c99a9-7ced-4c18-970e-b3c997050b03": {
-                        "uuid": "0b2c99a9-7ced-4c18-970e-b3c997050b03",
-                        "title": "Costas",
-                        "itemDescription": "Bavarian or milk sausage, sauce of soft cheese, and yogurt, tomatoes, cucumbers, sweet peppers, basil, Kalamata olives, and balsamic glaze.",
-                        "price": 7600,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/604e36bc-6f1b-4395-be0a-b90a142261f9",
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "cbbfff9f-099c-4c8e-9f1f-6e971c6a5a60",
-                            "62d674bc-73d4-4738-8388-2ddc817da536"
-                        ]
-                    },
-                    "6c7101e8-c17d-426e-a89a-69e3381f93ef": {
-                        "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                        "title": "Mirinda",
-                        "itemDescription": "330ml.",
-                        "price": 2500,
-                        "suspendUntil": 8640000000
-                    },
-                    "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea": {
-                        "uuid": "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
-                        "title": "Jovanny",
-                        "itemDescription": "Milk sausage, sauce of Dorblu, and Gorgonzola cheese, arugula, tomatoes, and grated Dorblu cheese.",
-                        "price": 7600,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfdeb35f-f4be-4c17-86ce-4cab1c4e0b5c",
-                        "customizationUuids": [
-                            "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-                        ]
-                    },
-                    "851d122b-2f34-42c3-91c2-63a8bc915534": {
-                        "uuid": "851d122b-2f34-42c3-91c2-63a8bc915534",
-                        "title": "Pekin",
-                        "itemDescription": "Milk sausage, napa (Korean) cabbage, wood ear mushrooms, soy beetroot, carrots, oyster sauce, chili sauce, sesame oil, and sesame seeds.",
-                        "price": 7200,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a0a5472-a09d-4554-9e87-ce3defb108ba",
-                        "customizationUuids": [
-                            "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-                        ]
-                    },
-                    "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46": {
-                        "uuid": "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46",
-                        "title": "Bangkok",
-                        "itemDescription": "Bavarian sausage, sauce made from: coconut oil, shrimp paste, tomato paste, peanut, dried garlic, chili, sugar, oyster and soy sauce, salad of young cabbage, pickled carrots, peanut butter, cilantro and mint.",
-                        "price": 7000,
-                        "customizationUuids": [
-                            "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-                        ]
-                    },
-                    "e27cc42b-30f4-43df-8753-6670f4c1d326": {
-                        "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                        "title": "Pepsi",
-                        "itemDescription": "330ml.",
-                        "price": 2500
-                    },
-                    "9643a374-4ece-4a43-90fd-d221a69a8ddb": {
-                        "uuid": "9643a374-4ece-4a43-90fd-d221a69a8ddb",
-                        "title": "Lacio",
-                        "itemDescription": "Milk sausage, cream sauce, white wine, bacon, and onion sauce, fried cheese, Parmesan, basil, kostas, Bavarian sausage, Greek salad with olives, Kalamata, basil, and balsamic cream.",
-                        "price": 7800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/388069a2-7ded-4056-bb41-0634ef3e8427",
-                        "customizationUuids": [
-                            "62d674bc-73d4-4738-8388-2ddc817da536"
-                        ]
-                    },
-                    "c73ad940-23f8-49b1-8307-7c88d09f34a8": {
-                        "uuid": "c73ad940-23f8-49b1-8307-7c88d09f34a8",
-                        "title": "New-York",
-                        "itemDescription": "Milk sausage, special red sauce, American mustard, sauerkraut, pickled carrots, pickled cucumbers, caramelized onions, and greens.",
-                        "price": 7200,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b76c3cd9-5aaa-4a03-bb54-351bbe3417bd",
-                        "customizationUuids": [
-                            "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-                        ]
-                    },
-                    "40bd6602-d2db-445d-b895-0f5000b0ef49": {
-                        "uuid": "40bd6602-d2db-445d-b895-0f5000b0ef49",
-                        "title": "Bavaria",
-                        "itemDescription": "Bavarian sausage, special red sauce, Bavarian mustard, pickled cucumber, fried bacon, caramelized onion, and greens.",
-                        "price": 7800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd6507c0-fd6d-456b-b423-0389f0b24081",
-                        "customizationUuids": [
-                            "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-                        ]
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "fecba448-ee14-460d-9a0d-79f67c8e35f2",
-                        "title": "Hot-dogs",
-                        "itemUuids": [
-                            "f8459330-c30c-4190-9686-b405471334f4",
-                            "9643a374-4ece-4a43-90fd-d221a69a8ddb",
-                            "851d122b-2f34-42c3-91c2-63a8bc915534",
-                            "0b2c99a9-7ced-4c18-970e-b3c997050b03",
-                            "40bd6602-d2db-445d-b895-0f5000b0ef49",
-                            "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
-                            "c73ad940-23f8-49b1-8307-7c88d09f34a8",
-                            "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "f8459330-c30c-4190-9686-b405471334f4",
-                                "title": "Chicago",
-                                "itemDescription": "Milk sausages, cheese sauce, hot sauce, red sauce, relish of pickled cucumbers, and marinated onion, fried bacon, and greens.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d032dfdd-63a1-4db3-b848-d540986c8c5d",
-                                "customizationUuids": [
-                                    "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-                                ]
-                            },
-                            {
-                                "uuid": "9643a374-4ece-4a43-90fd-d221a69a8ddb",
-                                "title": "Lacio",
-                                "itemDescription": "Milk sausage, cream sauce, white wine, bacon, and onion sauce, fried cheese, Parmesan, basil, kostas, Bavarian sausage, Greek salad with olives, Kalamata, basil, and balsamic cream.",
-                                "price": 7800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/388069a2-7ded-4056-bb41-0634ef3e8427",
-                                "customizationUuids": [
-                                    "62d674bc-73d4-4738-8388-2ddc817da536"
-                                ]
-                            },
-                            {
-                                "uuid": "851d122b-2f34-42c3-91c2-63a8bc915534",
-                                "title": "Pekin",
-                                "itemDescription": "Milk sausage, napa (Korean) cabbage, wood ear mushrooms, soy beetroot, carrots, oyster sauce, chili sauce, sesame oil, and sesame seeds.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a0a5472-a09d-4554-9e87-ce3defb108ba",
-                                "customizationUuids": [
-                                    "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-                                ]
-                            },
-                            {
-                                "uuid": "0b2c99a9-7ced-4c18-970e-b3c997050b03",
-                                "title": "Costas",
-                                "itemDescription": "Bavarian or milk sausage, sauce of soft cheese, and yogurt, tomatoes, cucumbers, sweet peppers, basil, Kalamata olives, and balsamic glaze.",
-                                "price": 7600,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/604e36bc-6f1b-4395-be0a-b90a142261f9",
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "cbbfff9f-099c-4c8e-9f1f-6e971c6a5a60",
-                                    "62d674bc-73d4-4738-8388-2ddc817da536"
-                                ]
-                            },
-                            {
-                                "uuid": "40bd6602-d2db-445d-b895-0f5000b0ef49",
-                                "title": "Bavaria",
-                                "itemDescription": "Bavarian sausage, special red sauce, Bavarian mustard, pickled cucumber, fried bacon, caramelized onion, and greens.",
-                                "price": 7800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd6507c0-fd6d-456b-b423-0389f0b24081",
-                                "customizationUuids": [
-                                    "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-                                ]
-                            },
-                            {
-                                "uuid": "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
-                                "title": "Jovanny",
-                                "itemDescription": "Milk sausage, sauce of Dorblu, and Gorgonzola cheese, arugula, tomatoes, and grated Dorblu cheese.",
-                                "price": 7600,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfdeb35f-f4be-4c17-86ce-4cab1c4e0b5c",
-                                "customizationUuids": [
-                                    "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-                                ]
-                            },
-                            {
-                                "uuid": "c73ad940-23f8-49b1-8307-7c88d09f34a8",
-                                "title": "New-York",
-                                "itemDescription": "Milk sausage, special red sauce, American mustard, sauerkraut, pickled carrots, pickled cucumbers, caramelized onions, and greens.",
-                                "price": 7200,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b76c3cd9-5aaa-4a03-bb54-351bbe3417bd",
-                                "customizationUuids": [
-                                    "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-                                ]
-                            },
-                            {
-                                "uuid": "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46",
-                                "title": "Bangkok",
-                                "itemDescription": "Bavarian sausage, sauce made from: coconut oil, shrimp paste, tomato paste, peanut, dried garlic, chili, sugar, oyster and soy sauce, salad of young cabbage, pickled carrots, peanut butter, cilantro and mint.",
-                                "price": 7000,
-                                "customizationUuids": [
-                                    "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "b9da518a-0cd1-4c7d-849b-e82231fd3f1d",
-                        "title": "Beverages",
-                        "itemUuids": [
-                            "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                            "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                            "6f26c8a1-c666-4178-bdb7-0f06640eba6f"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                                "title": "Pepsi",
-                                "itemDescription": "330ml.",
-                                "price": 2500
-                            },
-                            {
-                                "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                                "title": "Mirinda",
-                                "itemDescription": "330ml.",
-                                "price": 2500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "6f26c8a1-c666-4178-bdb7-0f06640eba6f",
-                                "title": "Bloody Mary (non-alcoholic)",
-                                "itemDescription": "",
-                                "price": 5000,
-                                "customizationUuids": [
-                                    "98733e1e-69a9-40ec-ba6a-f0015759eba3"
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        "subsectionsMap": {
-            "a3422bac-1ee8-4a83-9e22-2deacb595f39": {
-                "uuid": "a3422bac-1ee8-4a83-9e22-2deacb595f39",
-                "title": "Напої",
-                "itemUuids": [
-                    "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                    "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                    "2f15159f-545a-4715-b0c6-8c6bad9a15f8"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "2f15159f-545a-4715-b0c6-8c6bad9a15f8",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "fecba448-ee14-460d-9a0d-79f67c8e35f2": {
-                "uuid": "fecba448-ee14-460d-9a0d-79f67c8e35f2",
-                "title": "Hot-dogs",
-                "itemUuids": [
-                    "f8459330-c30c-4190-9686-b405471334f4",
-                    "9643a374-4ece-4a43-90fd-d221a69a8ddb",
-                    "851d122b-2f34-42c3-91c2-63a8bc915534",
-                    "0b2c99a9-7ced-4c18-970e-b3c997050b03",
-                    "40bd6602-d2db-445d-b895-0f5000b0ef49",
-                    "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
-                    "c73ad940-23f8-49b1-8307-7c88d09f34a8",
-                    "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "f8459330-c30c-4190-9686-b405471334f4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9643a374-4ece-4a43-90fd-d221a69a8ddb",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "851d122b-2f34-42c3-91c2-63a8bc915534",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0b2c99a9-7ced-4c18-970e-b3c997050b03",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "40bd6602-d2db-445d-b895-0f5000b0ef49",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c73ad940-23f8-49b1-8307-7c88d09f34a8",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "b9da518a-0cd1-4c7d-849b-e82231fd3f1d": {
-                "uuid": "b9da518a-0cd1-4c7d-849b-e82231fd3f1d",
-                "title": "Beverages",
-                "itemUuids": [
-                    "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                    "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                    "6f26c8a1-c666-4178-bdb7-0f06640eba6f"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6f26c8a1-c666-4178-bdb7-0f06640eba6f",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "046c3948-6a09-4fee-8cf8-85082a084db2": {
-                "uuid": "046c3948-6a09-4fee-8cf8-85082a084db2",
-                "title": "Популярне",
-                "itemUuids": [
-                    "6e4dea95-b223-487c-ada4-c834575702f6",
-                    "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                    "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                    "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                    "75e7d617-aee1-470a-b811-b519daf922ef"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "819d92f7-df35-464e-9e48-271b17eb826e": {
-                "uuid": "819d92f7-df35-464e-9e48-271b17eb826e",
-                "title": "Хот-доги",
-                "itemUuids": [
-                    "6e4dea95-b223-487c-ada4-c834575702f6",
-                    "21f51008-0f05-4342-b0b2-fa8dae1c180a",
-                    "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                    "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
-                    "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                    "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                    "75e7d617-aee1-470a-b811-b519daf922ef",
-                    "8e341fd6-befe-4d57-a837-7d34f6c60a1f"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "21f51008-0f05-4342-b0b2-fa8dae1c180a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8e341fd6-befe-4d57-a837-7d34f6c60a1f",
-                        "type": "ITEM"
-                    }
-                ]
-            }
-        },
-        "location": {
-            "latitude": 50.446334883147344,
-            "longitude": 30.50874306511303,
-            "address": {
-                "address1": "Ivana Franka St, 27",
-                "aptOrSuite": "",
-                "city": "Kyiv",
-                "country": "UA",
-                "postalCode": "02000",
-                "region": "",
-                "formattedAddress": "Ivana Franka St, 27, Kyiv, 02000"
-            }
-        },
-        "publicContact": {
-            "publicPhoneNumber": "+380669068161"
-        },
-        "priceBucket": "₴",
-        "slug": "bistro-bistro-вул-і-франка",
-        "isOrderable": true,
-        "disableCheckoutInstruction": false,
-        "supportedDiningModes": [
-            "DELIVERY"
-        ],
-        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
-        "heroImage": {
-            "items": [
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w2880-99.jpg",
-                    "width": 2880,
-                    "height": 2304
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w240-0e.jpg",
-                    "width": 240,
-                    "height": 192
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
-                    "width": 550,
-                    "height": 440
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w750-7d.jpg",
-                    "width": 750,
-                    "height": 600
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w640-36.jpg",
-                    "width": 640,
-                    "height": 512
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w1080-c8.jpg",
-                    "width": 1080,
-                    "height": 864
-                }
-            ]
-        },
-        "closedEtaMessage": "Currently unavailable",
-        "notOrderableMessage": "Currently unavailable",
-        "storeBadges": {
-            "endorsement": {
-                "backgroundColor": {
-                    "alpha": 1,
-                    "color": "59BD5A"
-                },
-                "iconColor": {
-                    "alpha": 1,
-                    "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-                "text": "Улюблені хот-доги столиці",
-                "textColor": {
-                    "alpha": 1,
-                    "color": "FFFFFF"
-                }
-            },
-            "disclaimerBadge": {
-                "textFormat": ""
-            },
-            "ratingBadge": {
-                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(205)</span></span>",
-                "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 205 reviews."
-            },
-            "taglineBadge": {
-                "textFormat": "<span>₴ • American • Street Food • Fast Food</span>"
-            },
-            "etaBadge": {
-                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-                "text": "40–50 MINS",
-                "textFormat": "<span>40–50 MINS</span>",
-                "accessibilityText": "Delivered in 40 to 50 MINS"
-            }
-        },
-        "etaRange": {
-            "min": 40,
-            "max": 50,
-            "raw": 45
-        },
-        "fareInfo": {
-            "serviceFee": 30
-        },
-        "eaterFields": {},
-        "meta": {
-            "sectionHoursInfo": [
-                {
-                    "dayRange": "Sunday",
-                    "sectionHours": [
-                        {
-                            "startTime": 660,
-                            "endTime": 1260,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 660,
-                            "endTime": 1260,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                },
-                {
-                    "dayRange": "Monday - Friday",
-                    "sectionHours": [
-                        {
-                            "startTime": 660,
-                            "endTime": 690,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 660,
-                            "endTime": 1260,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 660,
-                            "endTime": 1260,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                },
-                {
-                    "dayRange": "Saturday",
-                    "sectionHours": [
-                        {
-                            "startTime": 660,
-                            "endTime": 1260,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 660,
-                            "endTime": 1260,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                }
-            ]
-        },
-        "nuggets": [],
-        "displayConfig": {
-            "regionalDisplayType": "DEFAULT"
-        },
-        "enabledFulfillmentTypes": [
-            "DELIVERY"
-        ],
-        "citySlug": "kyiv",
-        "cityName": "Kyiv",
-        "currencyCode": "UAH",
-        "currencyNumDigitsAfterDecimal": 2
+  "uuid": "38301644-05b7-4238-b353-db331dbbfcd8",
+  "title": "Bistro Bistro (вул. І. Франка)",
+  "regionId": 943,
+  "categories": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
     }
+  ],
+  "sections": [
+    {
+      "uuid": "694d3b02-b693-4297-b963-2f02b729f325",
+      "title": "SWITCH LANGUAGE (UKR)",
+      "subtitle": "11:00 AM – 9:00 PM",
+      "isTop": true,
+      "isOnSale": true,
+      "subsectionUuids": [
+        "046c3948-6a09-4fee-8cf8-85082a084db2",
+        "819d92f7-df35-464e-9e48-271b17eb826e",
+        "a3422bac-1ee8-4a83-9e22-2deacb595f39"
+      ]
+    },
+    {
+      "uuid": "a3921e9f-1a35-4226-bda3-bb2a2a6cd66b",
+      "title": "SWITCH LANGUAGE (ENG)",
+      "subtitle": "11:00 AM – 9:00 PM",
+      "isOnSale": true,
+      "subsectionUuids": [
+        "fecba448-ee14-460d-9a0d-79f67c8e35f2",
+        "b9da518a-0cd1-4c7d-849b-e82231fd3f1d"
+      ]
+    }
+  ],
+  "sectionEntitiesMap": {
+    "694d3b02-b693-4297-b963-2f02b729f325": {
+      "itemsMap": {
+        "0c8780cb-c53f-4d72-93f5-3b40e9888522": {
+          "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+          "title": "Пекін",
+          "itemDescription": "Молочна сосиска, пекінська капуста, деревні гриби, соєві паростки, морква, устричний соус, соус чилі, кунжутна олія, кунжут.",
+          "price": 7200,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/44a809d8-8528-456e-a917-c36a3560272f",
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+          ]
+        },
+        "6e4dea95-b223-487c-ada4-c834575702f6": {
+          "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
+          "title": "Chicago",
+          "itemDescription": "Молочна сосиска, сирний соус, гострий соус, червоний соус, реліш із солоних огірків і маринованої цибулі, смажений бекон, зелень.",
+          "price": 7200,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0709848a-7508-44fa-8ddd-9a9fbbe0a4be",
+          "customizationUuids": [
+            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+          ]
+        },
+        "8e341fd6-befe-4d57-a837-7d34f6c60a1f": {
+          "uuid": "8e341fd6-befe-4d57-a837-7d34f6c60a1f",
+          "title": "Бангкок",
+          "itemDescription": "Баварська ковбаска, соус з кокосової олії, пасти з креветок, пасти з томатів, арахісу, сухого часнику, чилі, цукру, устричного і соєвого соусів, салат з молодої капусти, маринованої моркви, арахісової олії, кінза і м'ята.",
+          "price": 7000,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "9e340c89-46fe-4770-b625-4ec53e958065"
+          ]
+        },
+        "354ae791-be6f-410e-b1ea-cba1d03d95e3": {
+          "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+          "title": "Баварія",
+          "itemDescription": "Баварська ковбаска, червоний фірмовий соус, баварська гірчиця, солоний огірок, смажений бекон, карамелізована цибуля, зелень.",
+          "price": 7800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/40a11ad8-ecec-409f-8d0b-e86db489301a",
+          "customizationUuids": [
+            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+          ]
+        },
+        "21f51008-0f05-4342-b0b2-fa8dae1c180a": {
+          "uuid": "21f51008-0f05-4342-b0b2-fa8dae1c180a",
+          "title": "Лаціо",
+          "itemDescription": "Молочна сосиска, соус з вершків, білого вина, бекону та цибулі, плавлений сир, пармезан, базилік, костас, баварська ковбаска, грецький салат з оливками, Каламата, базилік, бальзамічний крем.",
+          "price": 7800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8e60520-e664-421f-91eb-9cf41e23e3ac",
+          "customizationUuids": [
+            "7616f355-5133-4376-9c87-23b812f24bd5"
+          ]
+        },
+        "2f15159f-545a-4715-b0c6-8c6bad9a15f8": {
+          "uuid": "2f15159f-545a-4715-b0c6-8c6bad9a15f8",
+          "title": "Кривава Мері ( безалкогольна )",
+          "itemDescription": "",
+          "price": 5000,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "0e2e5d17-6dd3-41de-b3fc-c97e32f57c39"
+          ]
+        },
+        "f66235d8-8209-42c5-8c27-4ef4f4d6db96": {
+          "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+          "title": "Джованні",
+          "itemDescription": "Сосиска молочна, соус із сирів дорблю і горгондзола, рукола, помідор, тертий сир дорблю.",
+          "price": 7600,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/42b54d01-12eb-4a73-8516-d8e7dd2ad441",
+          "customizationUuids": [
+            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+          ]
+        },
+        "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc": {
+          "uuid": "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
+          "title": "Костас",
+          "itemDescription": "Баварська або молочна сосиска, соус із м'якого сиру і йогурту, томати, огірки, болгарський перець, базилік, оливки Каламата, бальзамічна глазур.",
+          "price": 7600,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8cfe861-c8cc-4c34-9042-9bf0f86e08d2",
+          "customizationUuids": [
+            "d7a43578-56a7-47dc-a3a2-bbc663de1fa7",
+            "7416aa4b-d07a-4ab7-ad11-f8543467bb59"
+          ]
+        },
+        "e27cc42b-30f4-43df-8753-6670f4c1d326": {
+          "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
+          "title": "Pepsi",
+          "itemDescription": "330ml.",
+          "price": 2500
+        },
+        "6c7101e8-c17d-426e-a89a-69e3381f93ef": {
+          "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+          "title": "Mirinda",
+          "itemDescription": "330ml.",
+          "price": 2500,
+          "suspendUntil": 8640000000
+        },
+        "75e7d617-aee1-470a-b811-b519daf922ef": {
+          "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
+          "title": "Нью-Йорк",
+          "itemDescription": "Молочна сосиска, червоний фірмовий соус, американська гірчиця, квашена капуста, маринована морква, солоний огірок, карамелізована цибуля, зелень.",
+          "price": 7200,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed585a39-ab7c-420a-bb1f-7791b2b59aab",
+          "customizationUuids": [
+            "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+          ]
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "046c3948-6a09-4fee-8cf8-85082a084db2",
+          "title": "Популярне",
+          "itemUuids": [
+            "6e4dea95-b223-487c-ada4-c834575702f6",
+            "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+            "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+            "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+            "75e7d617-aee1-470a-b811-b519daf922ef"
+          ],
+          "displayItems": [
+            {
+              "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
+              "title": "Chicago",
+              "itemDescription": "Молочна сосиска, сирний соус, гострий соус, червоний соус, реліш із солоних огірків і маринованої цибулі, смажений бекон, зелень.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0709848a-7508-44fa-8ddd-9a9fbbe0a4be",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+              "title": "Баварія",
+              "itemDescription": "Баварська ковбаска, червоний фірмовий соус, баварська гірчиця, солоний огірок, смажений бекон, карамелізована цибуля, зелень.",
+              "price": 7800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/40a11ad8-ecec-409f-8d0b-e86db489301a",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+              "title": "Джованні",
+              "itemDescription": "Сосиска молочна, соус із сирів дорблю і горгондзола, рукола, помідор, тертий сир дорблю.",
+              "price": 7600,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/42b54d01-12eb-4a73-8516-d8e7dd2ad441",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+              "title": "Пекін",
+              "itemDescription": "Молочна сосиска, пекінська капуста, деревні гриби, соєві паростки, морква, устричний соус, соус чилі, кунжутна олія, кунжут.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/44a809d8-8528-456e-a917-c36a3560272f",
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
+              "title": "Нью-Йорк",
+              "itemDescription": "Молочна сосиска, червоний фірмовий соус, американська гірчиця, квашена капуста, маринована морква, солоний огірок, карамелізована цибуля, зелень.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed585a39-ab7c-420a-bb1f-7791b2b59aab",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "819d92f7-df35-464e-9e48-271b17eb826e",
+          "title": "Хот-доги",
+          "itemUuids": [
+            "6e4dea95-b223-487c-ada4-c834575702f6",
+            "21f51008-0f05-4342-b0b2-fa8dae1c180a",
+            "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+            "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
+            "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+            "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+            "75e7d617-aee1-470a-b811-b519daf922ef",
+            "8e341fd6-befe-4d57-a837-7d34f6c60a1f"
+          ],
+          "displayItems": [
+            {
+              "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
+              "title": "Chicago",
+              "itemDescription": "Молочна сосиска, сирний соус, гострий соус, червоний соус, реліш із солоних огірків і маринованої цибулі, смажений бекон, зелень.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0709848a-7508-44fa-8ddd-9a9fbbe0a4be",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "21f51008-0f05-4342-b0b2-fa8dae1c180a",
+              "title": "Лаціо",
+              "itemDescription": "Молочна сосиска, соус з вершків, білого вина, бекону та цибулі, плавлений сир, пармезан, базилік, костас, баварська ковбаска, грецький салат з оливками, Каламата, базилік, бальзамічний крем.",
+              "price": 7800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8e60520-e664-421f-91eb-9cf41e23e3ac",
+              "customizationUuids": [
+                "7616f355-5133-4376-9c87-23b812f24bd5"
+              ]
+            },
+            {
+              "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+              "title": "Пекін",
+              "itemDescription": "Молочна сосиска, пекінська капуста, деревні гриби, соєві паростки, морква, устричний соус, соус чилі, кунжутна олія, кунжут.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/44a809d8-8528-456e-a917-c36a3560272f",
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
+              "title": "Костас",
+              "itemDescription": "Баварська або молочна сосиска, соус із м'якого сиру і йогурту, томати, огірки, болгарський перець, базилік, оливки Каламата, бальзамічна глазур.",
+              "price": 7600,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8cfe861-c8cc-4c34-9042-9bf0f86e08d2",
+              "customizationUuids": [
+                "d7a43578-56a7-47dc-a3a2-bbc663de1fa7",
+                "7416aa4b-d07a-4ab7-ad11-f8543467bb59"
+              ]
+            },
+            {
+              "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+              "title": "Баварія",
+              "itemDescription": "Баварська ковбаска, червоний фірмовий соус, баварська гірчиця, солоний огірок, смажений бекон, карамелізована цибуля, зелень.",
+              "price": 7800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/40a11ad8-ecec-409f-8d0b-e86db489301a",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+              "title": "Джованні",
+              "itemDescription": "Сосиска молочна, соус із сирів дорблю і горгондзола, рукола, помідор, тертий сир дорблю.",
+              "price": 7600,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/42b54d01-12eb-4a73-8516-d8e7dd2ad441",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
+              "title": "Нью-Йорк",
+              "itemDescription": "Молочна сосиска, червоний фірмовий соус, американська гірчиця, квашена капуста, маринована морква, солоний огірок, карамелізована цибуля, зелень.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed585a39-ab7c-420a-bb1f-7791b2b59aab",
+              "customizationUuids": [
+                "1801f232-7c7f-47cf-acdb-3e343f89cbb7"
+              ]
+            },
+            {
+              "uuid": "8e341fd6-befe-4d57-a837-7d34f6c60a1f",
+              "title": "Бангкок",
+              "itemDescription": "Баварська ковбаска, соус з кокосової олії, пасти з креветок, пасти з томатів, арахісу, сухого часнику, чилі, цукру, устричного і соєвого соусів, салат з молодої капусти, маринованої моркви, арахісової олії, кінза і м'ята.",
+              "price": 7000,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "9e340c89-46fe-4770-b625-4ec53e958065"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "a3422bac-1ee8-4a83-9e22-2deacb595f39",
+          "title": "Напої",
+          "itemUuids": [
+            "e27cc42b-30f4-43df-8753-6670f4c1d326",
+            "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+            "2f15159f-545a-4715-b0c6-8c6bad9a15f8"
+          ],
+          "displayItems": [
+            {
+              "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
+              "title": "Pepsi",
+              "itemDescription": "330ml.",
+              "price": 2500
+            },
+            {
+              "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+              "title": "Mirinda",
+              "itemDescription": "330ml.",
+              "price": 2500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "2f15159f-545a-4715-b0c6-8c6bad9a15f8",
+              "title": "Кривава Мері ( безалкогольна )",
+              "itemDescription": "",
+              "price": 5000,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "0e2e5d17-6dd3-41de-b3fc-c97e32f57c39"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "a3921e9f-1a35-4226-bda3-bb2a2a6cd66b": {
+      "itemsMap": {
+        "6f26c8a1-c666-4178-bdb7-0f06640eba6f": {
+          "uuid": "6f26c8a1-c666-4178-bdb7-0f06640eba6f",
+          "title": "Bloody Mary (non-alcoholic)",
+          "itemDescription": "",
+          "price": 5000,
+          "customizationUuids": [
+            "98733e1e-69a9-40ec-ba6a-f0015759eba3"
+          ]
+        },
+        "f8459330-c30c-4190-9686-b405471334f4": {
+          "uuid": "f8459330-c30c-4190-9686-b405471334f4",
+          "title": "Chicago",
+          "itemDescription": "Milk sausages, cheese sauce, hot sauce, red sauce, relish of pickled cucumbers, and marinated onion, fried bacon, and greens.",
+          "price": 7200,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d032dfdd-63a1-4db3-b848-d540986c8c5d",
+          "customizationUuids": [
+            "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
+          ]
+        },
+        "0b2c99a9-7ced-4c18-970e-b3c997050b03": {
+          "uuid": "0b2c99a9-7ced-4c18-970e-b3c997050b03",
+          "title": "Costas",
+          "itemDescription": "Bavarian or milk sausage, sauce of soft cheese, and yogurt, tomatoes, cucumbers, sweet peppers, basil, Kalamata olives, and balsamic glaze.",
+          "price": 7600,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/604e36bc-6f1b-4395-be0a-b90a142261f9",
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "cbbfff9f-099c-4c8e-9f1f-6e971c6a5a60",
+            "62d674bc-73d4-4738-8388-2ddc817da536"
+          ]
+        },
+        "6c7101e8-c17d-426e-a89a-69e3381f93ef": {
+          "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+          "title": "Mirinda",
+          "itemDescription": "330ml.",
+          "price": 2500,
+          "suspendUntil": 8640000000
+        },
+        "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea": {
+          "uuid": "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
+          "title": "Jovanny",
+          "itemDescription": "Milk sausage, sauce of Dorblu, and Gorgonzola cheese, arugula, tomatoes, and grated Dorblu cheese.",
+          "price": 7600,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfdeb35f-f4be-4c17-86ce-4cab1c4e0b5c",
+          "customizationUuids": [
+            "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
+          ]
+        },
+        "851d122b-2f34-42c3-91c2-63a8bc915534": {
+          "uuid": "851d122b-2f34-42c3-91c2-63a8bc915534",
+          "title": "Pekin",
+          "itemDescription": "Milk sausage, napa (Korean) cabbage, wood ear mushrooms, soy beetroot, carrots, oyster sauce, chili sauce, sesame oil, and sesame seeds.",
+          "price": 7200,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a0a5472-a09d-4554-9e87-ce3defb108ba",
+          "customizationUuids": [
+            "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
+          ]
+        },
+        "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46": {
+          "uuid": "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46",
+          "title": "Bangkok",
+          "itemDescription": "Bavarian sausage, sauce made from: coconut oil, shrimp paste, tomato paste, peanut, dried garlic, chili, sugar, oyster and soy sauce, salad of young cabbage, pickled carrots, peanut butter, cilantro and mint.",
+          "price": 7000,
+          "customizationUuids": [
+            "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
+          ]
+        },
+        "e27cc42b-30f4-43df-8753-6670f4c1d326": {
+          "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
+          "title": "Pepsi",
+          "itemDescription": "330ml.",
+          "price": 2500
+        },
+        "9643a374-4ece-4a43-90fd-d221a69a8ddb": {
+          "uuid": "9643a374-4ece-4a43-90fd-d221a69a8ddb",
+          "title": "Lacio",
+          "itemDescription": "Milk sausage, cream sauce, white wine, bacon, and onion sauce, fried cheese, Parmesan, basil, kostas, Bavarian sausage, Greek salad with olives, Kalamata, basil, and balsamic cream.",
+          "price": 7800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/388069a2-7ded-4056-bb41-0634ef3e8427",
+          "customizationUuids": [
+            "62d674bc-73d4-4738-8388-2ddc817da536"
+          ]
+        },
+        "c73ad940-23f8-49b1-8307-7c88d09f34a8": {
+          "uuid": "c73ad940-23f8-49b1-8307-7c88d09f34a8",
+          "title": "New-York",
+          "itemDescription": "Milk sausage, special red sauce, American mustard, sauerkraut, pickled carrots, pickled cucumbers, caramelized onions, and greens.",
+          "price": 7200,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b76c3cd9-5aaa-4a03-bb54-351bbe3417bd",
+          "customizationUuids": [
+            "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
+          ]
+        },
+        "40bd6602-d2db-445d-b895-0f5000b0ef49": {
+          "uuid": "40bd6602-d2db-445d-b895-0f5000b0ef49",
+          "title": "Bavaria",
+          "itemDescription": "Bavarian sausage, special red sauce, Bavarian mustard, pickled cucumber, fried bacon, caramelized onion, and greens.",
+          "price": 7800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd6507c0-fd6d-456b-b423-0389f0b24081",
+          "customizationUuids": [
+            "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
+          ]
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "fecba448-ee14-460d-9a0d-79f67c8e35f2",
+          "title": "Hot-dogs",
+          "itemUuids": [
+            "f8459330-c30c-4190-9686-b405471334f4",
+            "9643a374-4ece-4a43-90fd-d221a69a8ddb",
+            "851d122b-2f34-42c3-91c2-63a8bc915534",
+            "0b2c99a9-7ced-4c18-970e-b3c997050b03",
+            "40bd6602-d2db-445d-b895-0f5000b0ef49",
+            "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
+            "c73ad940-23f8-49b1-8307-7c88d09f34a8",
+            "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46"
+          ],
+          "displayItems": [
+            {
+              "uuid": "f8459330-c30c-4190-9686-b405471334f4",
+              "title": "Chicago",
+              "itemDescription": "Milk sausages, cheese sauce, hot sauce, red sauce, relish of pickled cucumbers, and marinated onion, fried bacon, and greens.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d032dfdd-63a1-4db3-b848-d540986c8c5d",
+              "customizationUuids": [
+                "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
+              ]
+            },
+            {
+              "uuid": "9643a374-4ece-4a43-90fd-d221a69a8ddb",
+              "title": "Lacio",
+              "itemDescription": "Milk sausage, cream sauce, white wine, bacon, and onion sauce, fried cheese, Parmesan, basil, kostas, Bavarian sausage, Greek salad with olives, Kalamata, basil, and balsamic cream.",
+              "price": 7800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/388069a2-7ded-4056-bb41-0634ef3e8427",
+              "customizationUuids": [
+                "62d674bc-73d4-4738-8388-2ddc817da536"
+              ]
+            },
+            {
+              "uuid": "851d122b-2f34-42c3-91c2-63a8bc915534",
+              "title": "Pekin",
+              "itemDescription": "Milk sausage, napa (Korean) cabbage, wood ear mushrooms, soy beetroot, carrots, oyster sauce, chili sauce, sesame oil, and sesame seeds.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a0a5472-a09d-4554-9e87-ce3defb108ba",
+              "customizationUuids": [
+                "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
+              ]
+            },
+            {
+              "uuid": "0b2c99a9-7ced-4c18-970e-b3c997050b03",
+              "title": "Costas",
+              "itemDescription": "Bavarian or milk sausage, sauce of soft cheese, and yogurt, tomatoes, cucumbers, sweet peppers, basil, Kalamata olives, and balsamic glaze.",
+              "price": 7600,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/604e36bc-6f1b-4395-be0a-b90a142261f9",
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "cbbfff9f-099c-4c8e-9f1f-6e971c6a5a60",
+                "62d674bc-73d4-4738-8388-2ddc817da536"
+              ]
+            },
+            {
+              "uuid": "40bd6602-d2db-445d-b895-0f5000b0ef49",
+              "title": "Bavaria",
+              "itemDescription": "Bavarian sausage, special red sauce, Bavarian mustard, pickled cucumber, fried bacon, caramelized onion, and greens.",
+              "price": 7800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd6507c0-fd6d-456b-b423-0389f0b24081",
+              "customizationUuids": [
+                "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
+              ]
+            },
+            {
+              "uuid": "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
+              "title": "Jovanny",
+              "itemDescription": "Milk sausage, sauce of Dorblu, and Gorgonzola cheese, arugula, tomatoes, and grated Dorblu cheese.",
+              "price": 7600,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfdeb35f-f4be-4c17-86ce-4cab1c4e0b5c",
+              "customizationUuids": [
+                "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
+              ]
+            },
+            {
+              "uuid": "c73ad940-23f8-49b1-8307-7c88d09f34a8",
+              "title": "New-York",
+              "itemDescription": "Milk sausage, special red sauce, American mustard, sauerkraut, pickled carrots, pickled cucumbers, caramelized onions, and greens.",
+              "price": 7200,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b76c3cd9-5aaa-4a03-bb54-351bbe3417bd",
+              "customizationUuids": [
+                "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
+              ]
+            },
+            {
+              "uuid": "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46",
+              "title": "Bangkok",
+              "itemDescription": "Bavarian sausage, sauce made from: coconut oil, shrimp paste, tomato paste, peanut, dried garlic, chili, sugar, oyster and soy sauce, salad of young cabbage, pickled carrots, peanut butter, cilantro and mint.",
+              "price": 7000,
+              "customizationUuids": [
+                "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "b9da518a-0cd1-4c7d-849b-e82231fd3f1d",
+          "title": "Beverages",
+          "itemUuids": [
+            "e27cc42b-30f4-43df-8753-6670f4c1d326",
+            "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+            "6f26c8a1-c666-4178-bdb7-0f06640eba6f"
+          ],
+          "displayItems": [
+            {
+              "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
+              "title": "Pepsi",
+              "itemDescription": "330ml.",
+              "price": 2500
+            },
+            {
+              "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+              "title": "Mirinda",
+              "itemDescription": "330ml.",
+              "price": 2500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "6f26c8a1-c666-4178-bdb7-0f06640eba6f",
+              "title": "Bloody Mary (non-alcoholic)",
+              "itemDescription": "",
+              "price": 5000,
+              "customizationUuids": [
+                "98733e1e-69a9-40ec-ba6a-f0015759eba3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "subsectionsMap": {
+    "a3422bac-1ee8-4a83-9e22-2deacb595f39": {
+      "uuid": "a3422bac-1ee8-4a83-9e22-2deacb595f39",
+      "title": "Напої",
+      "itemUuids": [
+        "e27cc42b-30f4-43df-8753-6670f4c1d326",
+        "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+        "2f15159f-545a-4715-b0c6-8c6bad9a15f8"
+      ],
+      "displayItems": [
+        {
+          "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "2f15159f-545a-4715-b0c6-8c6bad9a15f8",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "fecba448-ee14-460d-9a0d-79f67c8e35f2": {
+      "uuid": "fecba448-ee14-460d-9a0d-79f67c8e35f2",
+      "title": "Hot-dogs",
+      "itemUuids": [
+        "f8459330-c30c-4190-9686-b405471334f4",
+        "9643a374-4ece-4a43-90fd-d221a69a8ddb",
+        "851d122b-2f34-42c3-91c2-63a8bc915534",
+        "0b2c99a9-7ced-4c18-970e-b3c997050b03",
+        "40bd6602-d2db-445d-b895-0f5000b0ef49",
+        "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
+        "c73ad940-23f8-49b1-8307-7c88d09f34a8",
+        "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46"
+      ],
+      "displayItems": [
+        {
+          "uuid": "f8459330-c30c-4190-9686-b405471334f4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9643a374-4ece-4a43-90fd-d221a69a8ddb",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "851d122b-2f34-42c3-91c2-63a8bc915534",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0b2c99a9-7ced-4c18-970e-b3c997050b03",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "40bd6602-d2db-445d-b895-0f5000b0ef49",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c73ad940-23f8-49b1-8307-7c88d09f34a8",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "b9da518a-0cd1-4c7d-849b-e82231fd3f1d": {
+      "uuid": "b9da518a-0cd1-4c7d-849b-e82231fd3f1d",
+      "title": "Beverages",
+      "itemUuids": [
+        "e27cc42b-30f4-43df-8753-6670f4c1d326",
+        "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+        "6f26c8a1-c666-4178-bdb7-0f06640eba6f"
+      ],
+      "displayItems": [
+        {
+          "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6f26c8a1-c666-4178-bdb7-0f06640eba6f",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "046c3948-6a09-4fee-8cf8-85082a084db2": {
+      "uuid": "046c3948-6a09-4fee-8cf8-85082a084db2",
+      "title": "Популярне",
+      "itemUuids": [
+        "6e4dea95-b223-487c-ada4-c834575702f6",
+        "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+        "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+        "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+        "75e7d617-aee1-470a-b811-b519daf922ef"
+      ],
+      "displayItems": [
+        {
+          "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "819d92f7-df35-464e-9e48-271b17eb826e": {
+      "uuid": "819d92f7-df35-464e-9e48-271b17eb826e",
+      "title": "Хот-доги",
+      "itemUuids": [
+        "6e4dea95-b223-487c-ada4-c834575702f6",
+        "21f51008-0f05-4342-b0b2-fa8dae1c180a",
+        "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+        "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
+        "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+        "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+        "75e7d617-aee1-470a-b811-b519daf922ef",
+        "8e341fd6-befe-4d57-a837-7d34f6c60a1f"
+      ],
+      "displayItems": [
+        {
+          "uuid": "6e4dea95-b223-487c-ada4-c834575702f6",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "21f51008-0f05-4342-b0b2-fa8dae1c180a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0c8780cb-c53f-4d72-93f5-3b40e9888522",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e2fa6eb8-2ba6-4289-a5cc-07d154b31abc",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "354ae791-be6f-410e-b1ea-cba1d03d95e3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f66235d8-8209-42c5-8c27-4ef4f4d6db96",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "75e7d617-aee1-470a-b811-b519daf922ef",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8e341fd6-befe-4d57-a837-7d34f6c60a1f",
+          "type": "ITEM"
+        }
+      ]
+    }
+  },
+  "location": {
+    "latitude": 50.446334883147344,
+    "longitude": 30.50874306511303,
+    "address": {
+      "address1": "Ivana Franka St, 27",
+      "aptOrSuite": "",
+      "city": "Kyiv",
+      "country": "UA",
+      "postalCode": "02000",
+      "region": "",
+      "formattedAddress": "Ivana Franka St, 27, Kyiv, 02000"
+    }
+  },
+  "publicContact": {
+    "publicPhoneNumber": "+380669068161"
+  },
+  "priceBucket": "₴",
+  "slug": "bistro-bistro-вул-і-франка",
+  "isOrderable": true,
+  "disableCheckoutInstruction": false,
+  "supportedDiningModes": [
+    "DELIVERY"
+  ],
+  "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
+  "heroImage": {
+    "items": [
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w2880-99.jpg",
+        "width": 2880,
+        "height": 2304
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w240-0e.jpg",
+        "width": 240,
+        "height": 192
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
+        "width": 550,
+        "height": 440
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w750-7d.jpg",
+        "width": 750,
+        "height": 600
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w640-36.jpg",
+        "width": 640,
+        "height": 512
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w1080-c8.jpg",
+        "width": 1080,
+        "height": 864
+      }
+    ]
+  },
+  "closedEtaMessage": "Currently unavailable",
+  "notOrderableMessage": "Currently unavailable",
+  "storeBadges": {
+    "endorsement": {
+      "backgroundColor": {
+        "alpha": 1,
+        "color": "59BD5A"
+      },
+      "iconColor": {
+        "alpha": 1,
+        "color": "59BD5A"
+      },
+      "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+      "text": "Улюблені хот-доги столиці",
+      "textColor": {
+        "alpha": 1,
+        "color": "FFFFFF"
+      }
+    },
+    "disclaimerBadge": {
+      "textFormat": ""
+    },
+    "ratingBadge": {
+      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(205)</span></span>",
+      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 205 reviews."
+    },
+    "taglineBadge": {
+      "textFormat": "<span>₴ • American • Street Food • Fast Food</span>"
+    },
+    "etaBadge": {
+      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+      "text": "40–50 MINS",
+      "textFormat": "<span>40–50 MINS</span>",
+      "accessibilityText": "Delivered in 40 to 50 MINS"
+    }
+  },
+  "etaRange": {
+    "min": 40,
+    "max": 50,
+    "raw": 45
+  },
+  "fareInfo": {
+    "serviceFee": 30
+  },
+  "eaterFields": {},
+  "meta": {
+    "sectionHoursInfo": [
+      {
+        "dayRange": "Sunday",
+        "sectionHours": [
+          {
+            "startTime": 660,
+            "endTime": 1260,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 660,
+            "endTime": 1260,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      },
+      {
+        "dayRange": "Monday - Friday",
+        "sectionHours": [
+          {
+            "startTime": 660,
+            "endTime": 690,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 660,
+            "endTime": 1260,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 660,
+            "endTime": 1260,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      },
+      {
+        "dayRange": "Saturday",
+        "sectionHours": [
+          {
+            "startTime": 660,
+            "endTime": 1260,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 660,
+            "endTime": 1260,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      }
+    ]
+  },
+  "nuggets": [],
+  "displayConfig": {
+    "regionalDisplayType": "DEFAULT"
+  },
+  "enabledFulfillmentTypes": [
+    "DELIVERY"
+  ],
+  "citySlug": "kyiv",
+  "cityName": "Kyiv",
+  "currencyCode": "UAH",
+  "currencyNumDigitsAfterDecimal": 2
 }

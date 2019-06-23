@@ -1,1825 +1,1823 @@
 {
-    "store": {
-        "uuid": "39a3d947-2a9f-4d4d-958f-1b8c16912bca",
-        "title": "Al Faro",
-        "regionId": 943,
-        "categories": [
-            {
-                "uuid": "Italian",
-                "name": "Італійська",
-                "keyName": "Italian"
-            },
-            {
-                "uuid": "European",
-                "name": "Європейська",
-                "keyName": "European"
-            },
-            {
-                "uuid": "Pizza",
-                "name": "Піца",
-                "keyName": "Pizza"
-            }
-        ],
-        "sections": [
-            {
-                "uuid": "5a6dc463-3dfd-441f-b051-53a9159115d4",
-                "title": "SWITCH LANGUAGE (UKR)",
-                "subtitle": "11:00 AM – 10:00 PM",
-                "isTop": true,
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "4afea7a1-5b62-4f17-a626-148c460e02fa",
-                    "22912fc8-9b94-41ec-b844-f71faa0317ca",
-                    "ebea07cf-55c3-4a0b-9710-14e8f7a128e7",
-                    "d0294559-b593-486b-91b0-f4989d4617f1",
-                    "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c",
-                    "d78f167a-602a-44bd-80ae-19d0e8817a92"
-                ]
-            },
-            {
-                "uuid": "eea54422-be0a-4f79-8913-06d6afc79ff3",
-                "title": "SWITCH LANGUAGE (ENG)",
-                "subtitle": "11:00 AM – 10:00 PM",
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "7abd8d1e-afa7-4095-9ac9-7a459e3b697e",
-                    "3c91fe1e-6fe2-4115-9a18-d08da34b28de",
-                    "9cdc787a-62cb-4413-84d7-168d2867bc38",
-                    "07480d19-e642-4b7d-8be7-ad0527856dc1",
-                    "c99fcbde-56c3-47a9-bf11-82f8f747753b"
-                ]
-            }
-        ],
-        "sectionEntitiesMap": {
-            "5a6dc463-3dfd-441f-b051-53a9159115d4": {
-                "itemsMap": {
-                    "411c093c-6205-49c2-8cbe-2621cd53c83b": {
-                        "uuid": "411c093c-6205-49c2-8cbe-2621cd53c83b",
-                        "title": "Спагеті Карбонара",
-                        "itemDescription": "",
-                        "price": 18500,
-                        "nutritionalInfo": {}
-                    },
-                    "ea96cfbc-a49d-440d-80eb-0b02e4a40907": {
-                        "uuid": "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
-                        "title": "Салат Цезароне",
-                        "itemDescription": "куряче філе, креветки гриль, томати чері,\nлистя салату у хрусткій фокачі та соус цезароне\n",
-                        "price": 25500,
-                        "nutritionalInfo": {}
-                    },
-                    "da4432ec-0401-43a5-b5b5-3d149e025121": {
-                        "uuid": "da4432ec-0401-43a5-b5b5-3d149e025121",
-                        "title": "Піца с креветками та артишоками",
-                        "itemDescription": "700 г ",
-                        "price": 41500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/102c6b4e-d311-42ac-8738-cf9d786c22ca",
-                        "nutritionalInfo": {}
-                    },
-                    "892a4b13-f580-4f34-a0e1-89dd8765cd12": {
-                        "uuid": "892a4b13-f580-4f34-a0e1-89dd8765cd12",
-                        "title": "Альпіна",
-                        "itemDescription": "Сир моцарела, качаковало, спек, копчений сир, рікота, печериці (530г).",
-                        "price": 24500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/526cbabf-37f6-4270-86f2-3382bc4d2b2c",
-                        "nutritionalInfo": {}
-                    },
-                    "7874b625-f93f-4366-b551-d9346c690505": {
-                        "uuid": "7874b625-f93f-4366-b551-d9346c690505",
-                        "title": "Домашній лимонад класичний власного приготування ",
-                        "itemDescription": "250мл.",
-                        "price": 6500,
-                        "nutritionalInfo": {},
-                        "customizationUuids": [
-                            "f46f5487-df80-4ee6-8295-ae40b275c652"
-                        ]
-                    },
-                    "5672d248-da8e-463a-a581-75c4275a28c9": {
-                        "uuid": "5672d248-da8e-463a-a581-75c4275a28c9",
-                        "title": "Піца з грушею та горгонзолою",
-                        "itemDescription": "Вершки, моцарела, горгонзола, груша (550г).",
-                        "price": 25500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/11e6578d-9b3d-4cde-830a-bbf3edb08388",
-                        "nutritionalInfo": {}
-                    },
-                    "647d3008-334a-4040-802c-b4022290bdc0": {
-                        "uuid": "647d3008-334a-4040-802c-b4022290bdc0",
-                        "title": "Чізкейк",
-                        "itemDescription": "",
-                        "price": 13500,
-                        "nutritionalInfo": {}
-                    },
-                    "b0b7c35e-683f-44f3-a91e-b367b06fac3f": {
-                        "uuid": "b0b7c35e-683f-44f3-a91e-b367b06fac3f",
-                        "title": "Бізнес ланч 2",
-                        "itemDescription": "Салат з грильованим курчам та овочами, Кабачковий суп пюре,\nФіле яловичини з тушкованими овочами\n, чіабата.",
-                        "price": 22000,
-                        "nutritionalInfo": {}
-                    },
-                    "9572c5a7-04b1-46dd-bf06-58571d01dd4b": {
-                        "uuid": "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
-                        "title": "Равіолі з лісовими грибами та фуа-гра під трюфельним соусом",
-                        "itemDescription": "",
-                        "price": 21900,
-                        "nutritionalInfo": {}
-                    },
-                    "6ff5d181-c91d-4da2-87bf-2741284b3b1d": {
-                        "uuid": "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
-                        "title": "Піца з креветками та шпинатом",
-                        "itemDescription": "Рікота, вершки, креветки, шпинат (560г).",
-                        "price": 29000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ef16ee0-fa71-484d-8d8b-1ee22eb7883b"
-                    },
-                    "adfbc2a2-d424-40b4-8232-e75de15c15df": {
-                        "uuid": "adfbc2a2-d424-40b4-8232-e75de15c15df",
-                        "title": "Базиліковий лимонад",
-                        "itemDescription": "",
-                        "price": 6500,
-                        "nutritionalInfo": {}
-                    },
-                    "21d1a21a-960a-4036-8f27-f93e74112a2f": {
-                        "uuid": "21d1a21a-960a-4036-8f27-f93e74112a2f",
-                        "title": "Імбирний лимонад",
-                        "itemDescription": "",
-                        "price": 6500,
-                        "nutritionalInfo": {}
-                    },
-                    "cb88e7a3-aeeb-4646-b738-49642deb1d73": {
-                        "uuid": "cb88e7a3-aeeb-4646-b738-49642deb1d73",
-                        "title": "Піца Чотири сири",
-                        "itemDescription": "Моцарела рікота, горгонзола, качокавалло та вершки (460г).",
-                        "price": 24500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9ea103e-f47f-4c81-b50a-6044b6caab15"
-                    },
-                    "1d08d67e-4d8f-48fe-ab67-c0970f9626e0": {
-                        "uuid": "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
-                        "title": "Папарделе з креветками у ніжному вершково-трюфельному соусі",
-                        "itemDescription": "",
-                        "price": 26000,
-                        "nutritionalInfo": {}
-                    },
-                    "d4ce6cd6-812f-492d-a38a-f612b1837b08": {
-                        "uuid": "d4ce6cd6-812f-492d-a38a-f612b1837b08",
-                        "title": "Фокача Песто та Пармезан",
-                        "itemDescription": "Традиційна італійська паляничка з песто та пармезаном (240г).",
-                        "price": 18300,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/db84ebb7-b040-41e9-af03-3db06390baec"
-                    },
-                    "6191819e-e50b-44f9-a5e9-71d111cb89a6": {
-                        "uuid": "6191819e-e50b-44f9-a5e9-71d111cb89a6",
-                        "title": "Салат з пряним лососем та ніжним вершковим сиром ",
-                        "itemDescription": "",
-                        "price": 23500,
-                        "nutritionalInfo": {}
-                    },
-                    "9b94acaa-9f0e-4b4f-897b-46acba98b8a6": {
-                        "uuid": "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
-                        "title": "Лазанья класична",
-                        "itemDescription": "",
-                        "price": 18500,
-                        "nutritionalInfo": {}
-                    },
-                    "2c8fc828-faae-46db-8af2-180251723670": {
-                        "uuid": "2c8fc828-faae-46db-8af2-180251723670",
-                        "title": "   Бізнес ланч 1                                                     ",
-                        "itemDescription": "Салат зі маринованої  макрелі та овочами, Курячий бульйон з фрикадельками,  Бургер \"Італьяно\" з картоплею по-домашньому, чіабата.",
-                        "price": 22000,
-                        "nutritionalInfo": {}
-                    },
-                    "6ddf4953-21e8-4c02-807b-dbe4fdb94737": {
-                        "uuid": "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
-                        "title": "Піца Прошуто з грибами",
-                        "itemDescription": "Томатний соус, шинка, печериці, сир моцарела (500г).",
-                        "price": 21000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a629a5c-6a81-467c-919e-d6a0bc2ce654"
-                    },
-                    "dd505f7d-6447-4547-a333-e2171ed1359c": {
-                        "uuid": "dd505f7d-6447-4547-a333-e2171ed1359c",
-                        "title": "Тирамісу",
-                        "itemDescription": "",
-                        "price": 13000,
-                        "nutritionalInfo": {}
-                    },
-                    "24416d4a-60a1-4d12-a054-2f6e454fdf20": {
-                        "uuid": "24416d4a-60a1-4d12-a054-2f6e454fdf20",
-                        "title": "Салат з качкою, карамелізованою грушею та ягідним соусом",
-                        "itemDescription": "",
-                        "price": 21500,
-                        "nutritionalInfo": {}
-                    },
-                    "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c": {
-                        "uuid": "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
-                        "title": "Корзинка хліба домашньої випічки з грісіні",
-                        "itemDescription": "120г.",
-                        "price": 6500,
-                        "nutritionalInfo": {}
-                    },
-                    "36d1eaf7-d27e-41e6-8f53-a0927c38562a": {
-                        "uuid": "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
-                        "title": "Канолі сет",
-                        "itemDescription": "три хрусткі трубочки з шоколадним та ванільним кремом",
-                        "price": 13500,
-                        "nutritionalInfo": {}
-                    },
-                    "59a87272-3bde-4cfa-b752-74d6068fe85a": {
-                        "uuid": "59a87272-3bde-4cfa-b752-74d6068fe85a",
-                        "title": "Піца Диявола",
-                        "itemDescription": "Томатний соус, сир моцарела, пікантна салямі (450г).",
-                        "price": 22000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/42e93260-a059-4107-b472-1faa41224099"
-                    },
-                    "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7": {
-                        "uuid": "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
-                        "title": "Лазаньєта з лососем, пинатом та соусом бешамель",
-                        "itemDescription": "",
-                        "price": 25900,
-                        "nutritionalInfo": {}
-                    },
-                    "54a44134-1246-4e2d-b92a-2392e0080f74": {
-                        "uuid": "54a44134-1246-4e2d-b92a-2392e0080f74",
-                        "title": "Полуничний лимонад",
-                        "itemDescription": "",
-                        "price": 6500,
-                        "nutritionalInfo": {}
-                    },
-                    "914200db-cdaf-4ff1-aace-ebd10b29dfa4": {
-                        "uuid": "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
-                        "title": "Піца Аль Фаро",
-                        "itemDescription": "Сир моцарела, томатний соус, рукола, брезаола, помідори чері, трюфельна олія та сир Пармезан (600г).",
-                        "price": 32000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab98a1e8-ede2-48c8-a375-f73f12ecb88a"
-                    },
-                    "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc": {
-                        "uuid": "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc",
-                        "title": "Різото з білими грибами",
-                        "itemDescription": "",
-                        "price": 18900,
-                        "nutritionalInfo": {}
-                    },
-                    "d95607a2-07d1-4fb4-b818-287ee46b65b5": {
-                        "uuid": "d95607a2-07d1-4fb4-b818-287ee46b65b5",
-                        "title": "Мусова сфера з солоною карамеллю                                                                  ",
-                        "itemDescription": "",
-                        "price": 13000,
-                        "nutritionalInfo": {}
-                    },
-                    "0d3c9217-7419-4c2e-977c-cae9a0d77d87": {
-                        "uuid": "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
-                        "title": "Піца з лісовими грибами та апулійськими сирами",
-                        "itemDescription": "Гриби білі, лисички, печериці, качокавалло, моцарела, трюфельна олія (450г).",
-                        "price": 29500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f9a97b09-7aea-42ee-ace7-830a3cc6fa1c"
-                    },
-                    "1d9a0da7-2bbc-4351-bc06-a310f4c72660": {
-                        "uuid": "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
-                        "title": "Штрудель грушево-яблучний  \t",
-                        "itemDescription": "",
-                        "price": 12000,
-                        "nutritionalInfo": {}
-                    },
-                    "a305641a-80aa-4890-b5e1-203065fc6156": {
-                        "uuid": "a305641a-80aa-4890-b5e1-203065fc6156",
-                        "title": "Піца Прошуто Крудо",
-                        "itemDescription": "Сир рікота, пармезан, моцарела та прошуто крудо (460г).",
-                        "price": 23500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ade48698-b509-4e91-ab73-912bb3823ffe"
-                    },
-                    "4e059223-4ff5-4ce6-9251-0c60e64afb96": {
-                        "uuid": "4e059223-4ff5-4ce6-9251-0c60e64afb96",
-                        "title": "Тальятеле з ніжним м'ясом кролика та лисичками",
-                        "itemDescription": "",
-                        "price": 23000,
-                        "nutritionalInfo": {}
-                    },
-                    "2f0ca7db-0035-42f9-ab24-24e1127dfc76": {
-                        "uuid": "2f0ca7db-0035-42f9-ab24-24e1127dfc76",
-                        "title": "Наполеон",
-                        "itemDescription": "",
-                        "price": 11000,
-                        "nutritionalInfo": {}
-                    },
-                    "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0": {
-                        "uuid": "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0",
-                        "title": "  Теплий салат з яловичиною та запеченими овочами ",
-                        "itemDescription": "",
-                        "price": 26500,
-                        "nutritionalInfo": {}
-                    },
-                    "284ce114-6f46-4606-ac95-9e5ae679d307": {
-                        "uuid": "284ce114-6f46-4606-ac95-9e5ae679d307",
-                        "title": "Мікс салату з грильованими креветками, кіноа та авокадо",
-                        "itemDescription": "",
-                        "price": 25000,
-                        "nutritionalInfo": {}
-                    },
-                    "0fd61b18-1986-4428-b3c0-77a3a0d8897c": {
-                        "uuid": "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
-                        "title": "Піца Маргарита",
-                        "itemDescription": "Томатний соус, моцарела, базилік (450г).",
-                        "price": 15500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f1db9eb-b456-46d1-b459-a4d37e2bd19a"
-                    },
-                    "460c2ef7-0df3-45b9-85a7-b4056b47283a": {
-                        "uuid": "460c2ef7-0df3-45b9-85a7-b4056b47283a",
-                        "title": "Салат Капрезе",
-                        "itemDescription": "з моцарелою, томатами та базиліком",
-                        "price": 17500,
-                        "nutritionalInfo": {}
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "4afea7a1-5b62-4f17-a626-148c460e02fa",
-                        "title": "Піца/хліб/бургер",
-                        "itemUuids": [
-                            "d4ce6cd6-812f-492d-a38a-f612b1837b08",
-                            "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
-                            "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
-                            "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
-                            "59a87272-3bde-4cfa-b752-74d6068fe85a",
-                            "a305641a-80aa-4890-b5e1-203065fc6156",
-                            "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
-                            "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
-                            "cb88e7a3-aeeb-4646-b738-49642deb1d73",
-                            "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
-                            "892a4b13-f580-4f34-a0e1-89dd8765cd12",
-                            "5672d248-da8e-463a-a581-75c4275a28c9",
-                            "da4432ec-0401-43a5-b5b5-3d149e025121"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "d4ce6cd6-812f-492d-a38a-f612b1837b08",
-                                "title": "Фокача Песто та Пармезан",
-                                "itemDescription": "Традиційна італійська паляничка з песто та пармезаном (240г).",
-                                "price": 18300,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/db84ebb7-b040-41e9-af03-3db06390baec"
-                            },
-                            {
-                                "uuid": "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
-                                "title": "Піца Аль Фаро",
-                                "itemDescription": "Сир моцарела, томатний соус, рукола, брезаола, помідори чері, трюфельна олія та сир Пармезан (600г).",
-                                "price": 32000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab98a1e8-ede2-48c8-a375-f73f12ecb88a"
-                            },
-                            {
-                                "uuid": "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
-                                "title": "Піца Маргарита",
-                                "itemDescription": "Томатний соус, моцарела, базилік (450г).",
-                                "price": 15500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f1db9eb-b456-46d1-b459-a4d37e2bd19a"
-                            },
-                            {
-                                "uuid": "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
-                                "title": "Піца Прошуто з грибами",
-                                "itemDescription": "Томатний соус, шинка, печериці, сир моцарела (500г).",
-                                "price": 21000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a629a5c-6a81-467c-919e-d6a0bc2ce654"
-                            },
-                            {
-                                "uuid": "59a87272-3bde-4cfa-b752-74d6068fe85a",
-                                "title": "Піца Диявола",
-                                "itemDescription": "Томатний соус, сир моцарела, пікантна салямі (450г).",
-                                "price": 22000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/42e93260-a059-4107-b472-1faa41224099"
-                            },
-                            {
-                                "uuid": "a305641a-80aa-4890-b5e1-203065fc6156",
-                                "title": "Піца Прошуто Крудо",
-                                "itemDescription": "Сир рікота, пармезан, моцарела та прошуто крудо (460г).",
-                                "price": 23500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ade48698-b509-4e91-ab73-912bb3823ffe"
-                            },
-                            {
-                                "uuid": "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
-                                "title": "Піца з лісовими грибами та апулійськими сирами",
-                                "itemDescription": "Гриби білі, лисички, печериці, качокавалло, моцарела, трюфельна олія (450г).",
-                                "price": 29500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f9a97b09-7aea-42ee-ace7-830a3cc6fa1c"
-                            },
-                            {
-                                "uuid": "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
-                                "title": "Піца з креветками та шпинатом",
-                                "itemDescription": "Рікота, вершки, креветки, шпинат (560г).",
-                                "price": 29000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ef16ee0-fa71-484d-8d8b-1ee22eb7883b"
-                            },
-                            {
-                                "uuid": "cb88e7a3-aeeb-4646-b738-49642deb1d73",
-                                "title": "Піца Чотири сири",
-                                "itemDescription": "Моцарела рікота, горгонзола, качокавалло та вершки (460г).",
-                                "price": 24500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9ea103e-f47f-4c81-b50a-6044b6caab15"
-                            },
-                            {
-                                "uuid": "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
-                                "title": "Корзинка хліба домашньої випічки з грісіні",
-                                "itemDescription": "120г.",
-                                "price": 6500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "892a4b13-f580-4f34-a0e1-89dd8765cd12",
-                                "title": "Альпіна",
-                                "itemDescription": "Сир моцарела, качаковало, спек, копчений сир, рікота, печериці (530г).",
-                                "price": 24500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/526cbabf-37f6-4270-86f2-3382bc4d2b2c",
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "5672d248-da8e-463a-a581-75c4275a28c9",
-                                "title": "Піца з грушею та горгонзолою",
-                                "itemDescription": "Вершки, моцарела, горгонзола, груша (550г).",
-                                "price": 25500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/11e6578d-9b3d-4cde-830a-bbf3edb08388",
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "da4432ec-0401-43a5-b5b5-3d149e025121",
-                                "title": "Піца с креветками та артишоками",
-                                "itemDescription": "700 г ",
-                                "price": 41500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/102c6b4e-d311-42ac-8738-cf9d786c22ca",
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "22912fc8-9b94-41ec-b844-f71faa0317ca",
-                        "title": "Салати ",
-                        "itemUuids": [
-                            "6191819e-e50b-44f9-a5e9-71d111cb89a6",
-                            "284ce114-6f46-4606-ac95-9e5ae679d307",
-                            "460c2ef7-0df3-45b9-85a7-b4056b47283a",
-                            "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
-                            "24416d4a-60a1-4d12-a054-2f6e454fdf20",
-                            "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "6191819e-e50b-44f9-a5e9-71d111cb89a6",
-                                "title": "Салат з пряним лососем та ніжним вершковим сиром ",
-                                "itemDescription": "",
-                                "price": 23500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "284ce114-6f46-4606-ac95-9e5ae679d307",
-                                "title": "Мікс салату з грильованими креветками, кіноа та авокадо",
-                                "itemDescription": "",
-                                "price": 25000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "460c2ef7-0df3-45b9-85a7-b4056b47283a",
-                                "title": "Салат Капрезе",
-                                "itemDescription": "з моцарелою, томатами та базиліком",
-                                "price": 17500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
-                                "title": "Салат Цезароне",
-                                "itemDescription": "куряче філе, креветки гриль, томати чері,\nлистя салату у хрусткій фокачі та соус цезароне\n",
-                                "price": 25500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "24416d4a-60a1-4d12-a054-2f6e454fdf20",
-                                "title": "Салат з качкою, карамелізованою грушею та ягідним соусом",
-                                "itemDescription": "",
-                                "price": 21500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0",
-                                "title": "  Теплий салат з яловичиною та запеченими овочами ",
-                                "itemDescription": "",
-                                "price": 26500,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "ebea07cf-55c3-4a0b-9710-14e8f7a128e7",
-                        "title": "ДОМАШНЯ ПАСТА ТА  РІЗОТО",
-                        "itemUuids": [
-                            "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
-                            "411c093c-6205-49c2-8cbe-2621cd53c83b",
-                            "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
-                            "4e059223-4ff5-4ce6-9251-0c60e64afb96",
-                            "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
-                            "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
-                            "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
-                                "title": "Папарделе з креветками у ніжному вершково-трюфельному соусі",
-                                "itemDescription": "",
-                                "price": 26000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "411c093c-6205-49c2-8cbe-2621cd53c83b",
-                                "title": "Спагеті Карбонара",
-                                "itemDescription": "",
-                                "price": 18500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
-                                "title": "Равіолі з лісовими грибами та фуа-гра під трюфельним соусом",
-                                "itemDescription": "",
-                                "price": 21900,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "4e059223-4ff5-4ce6-9251-0c60e64afb96",
-                                "title": "Тальятеле з ніжним м'ясом кролика та лисичками",
-                                "itemDescription": "",
-                                "price": 23000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
-                                "title": "Лазанья класична",
-                                "itemDescription": "",
-                                "price": 18500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
-                                "title": "Лазаньєта з лососем, пинатом та соусом бешамель",
-                                "itemDescription": "",
-                                "price": 25900,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc",
-                                "title": "Різото з білими грибами",
-                                "itemDescription": "",
-                                "price": 18900,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "d0294559-b593-486b-91b0-f4989d4617f1",
-                        "title": "Безалкогольні напоії",
-                        "itemUuids": [
-                            "7874b625-f93f-4366-b551-d9346c690505",
-                            "adfbc2a2-d424-40b4-8232-e75de15c15df",
-                            "54a44134-1246-4e2d-b92a-2392e0080f74",
-                            "21d1a21a-960a-4036-8f27-f93e74112a2f"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "7874b625-f93f-4366-b551-d9346c690505",
-                                "title": "Домашній лимонад класичний власного приготування ",
-                                "itemDescription": "250мл.",
-                                "price": 6500,
-                                "nutritionalInfo": {},
-                                "customizationUuids": [
-                                    "f46f5487-df80-4ee6-8295-ae40b275c652"
-                                ]
-                            },
-                            {
-                                "uuid": "adfbc2a2-d424-40b4-8232-e75de15c15df",
-                                "title": "Базиліковий лимонад",
-                                "itemDescription": "",
-                                "price": 6500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "54a44134-1246-4e2d-b92a-2392e0080f74",
-                                "title": "Полуничний лимонад",
-                                "itemDescription": "",
-                                "price": 6500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "21d1a21a-960a-4036-8f27-f93e74112a2f",
-                                "title": "Імбирний лимонад",
-                                "itemDescription": "",
-                                "price": 6500,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c",
-                        "title": "Десерти",
-                        "itemUuids": [
-                            "dd505f7d-6447-4547-a333-e2171ed1359c",
-                            "647d3008-334a-4040-802c-b4022290bdc0",
-                            "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
-                            "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
-                            "d95607a2-07d1-4fb4-b818-287ee46b65b5",
-                            "2f0ca7db-0035-42f9-ab24-24e1127dfc76"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "dd505f7d-6447-4547-a333-e2171ed1359c",
-                                "title": "Тирамісу",
-                                "itemDescription": "",
-                                "price": 13000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "647d3008-334a-4040-802c-b4022290bdc0",
-                                "title": "Чізкейк",
-                                "itemDescription": "",
-                                "price": 13500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
-                                "title": "Штрудель грушево-яблучний  \t",
-                                "itemDescription": "",
-                                "price": 12000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
-                                "title": "Канолі сет",
-                                "itemDescription": "три хрусткі трубочки з шоколадним та ванільним кремом",
-                                "price": 13500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "d95607a2-07d1-4fb4-b818-287ee46b65b5",
-                                "title": "Мусова сфера з солоною карамеллю                                                                  ",
-                                "itemDescription": "",
-                                "price": 13000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "2f0ca7db-0035-42f9-ab24-24e1127dfc76",
-                                "title": "Наполеон",
-                                "itemDescription": "",
-                                "price": 11000,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "d78f167a-602a-44bd-80ae-19d0e8817a92",
-                        "title": "Бізнес ланч 12:00-16:00",
-                        "itemUuids": [
-                            "2c8fc828-faae-46db-8af2-180251723670",
-                            "b0b7c35e-683f-44f3-a91e-b367b06fac3f"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "2c8fc828-faae-46db-8af2-180251723670",
-                                "title": "   Бізнес ланч 1                                                     ",
-                                "itemDescription": "Салат зі маринованої  макрелі та овочами, Курячий бульйон з фрикадельками,  Бургер \"Італьяно\" з картоплею по-домашньому, чіабата.",
-                                "price": 22000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "b0b7c35e-683f-44f3-a91e-b367b06fac3f",
-                                "title": "Бізнес ланч 2",
-                                "itemDescription": "Салат з грильованим курчам та овочами, Кабачковий суп пюре,\nФіле яловичини з тушкованими овочами\n, чіабата.",
-                                "price": 22000,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    }
-                ]
-            },
-            "eea54422-be0a-4f79-8913-06d6afc79ff3": {
-                "itemsMap": {
-                    "e443f561-6f5b-4792-9d42-7b87b37cfd3e": {
-                        "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
-                        "title": "Alpina",
-                        "itemDescription": "Mozzarella, caciocavallo, bacon, smoked ricotta and mushrooms (530g).",
-                        "price": 24500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/557bc507-240a-4b6d-ae46-b85a7d52606b",
-                        "nutritionalInfo": {}
-                    },
-                    "e5e4380a-8a20-4504-b5d1-322a685be147": {
-                        "uuid": "e5e4380a-8a20-4504-b5d1-322a685be147",
-                        "title": "Spaghetti carbonara",
-                        "itemDescription": "",
-                        "price": 18500,
-                        "nutritionalInfo": {}
-                    },
-                    "30983f85-77c5-4243-a817-633a3c20252d": {
-                        "uuid": "30983f85-77c5-4243-a817-633a3c20252d",
-                        "title": "Salad with shrims, avocado and quinoa",
-                        "itemDescription": "",
-                        "price": 25000,
-                        "nutritionalInfo": {}
-                    },
-                    "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87": {
-                        "uuid": "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
-                        "title": "Tagliatelle with chanterelles mushrooms and rabbit",
-                        "itemDescription": "",
-                        "price": 23000,
-                        "nutritionalInfo": {}
-                    },
-                    "5d7e8a93-2ccd-41d5-a833-c318e2df604e": {
-                        "uuid": "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
-                        "title": "Pizza Prosciutto with mushrooms",
-                        "itemDescription": "Tomato sauce, ham, champignons, and mozzarella cheese (500g).",
-                        "price": 21000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2be67bf8-2dcf-40d6-af8a-483f6ab0b68f"
-                    },
-                    "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114": {
-                        "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
-                        "title": "Pizza with prawns, and spinach",
-                        "itemDescription": "Ricotta, cream, prawns, and spinach (560g).",
-                        "price": 29000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/56059da0-40bb-4987-8662-41305238608b"
-                    },
-                    "752ef292-9653-4f4c-8ffc-7053f56e594b": {
-                        "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
-                        "title": "Tiramisu ",
-                        "itemDescription": "",
-                        "price": 13000,
-                        "nutritionalInfo": {}
-                    },
-                    "130f3ea8-fec2-402e-b19d-ac33e772d5f0": {
-                        "uuid": "130f3ea8-fec2-402e-b19d-ac33e772d5f0",
-                        "title": "Homemade Italian bread with grissini",
-                        "itemDescription": "120 g",
-                        "price": 6500,
-                        "nutritionalInfo": {}
-                    },
-                    "13dd15db-6b8e-4c86-adec-9dd83765d1c4": {
-                        "uuid": "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
-                        "title": "Pappardelle with shrimps with cream truffle sauce",
-                        "itemDescription": "",
-                        "price": 26000,
-                        "nutritionalInfo": {}
-                    },
-                    "c1776c66-82ae-4607-83ca-0badf11ed9ea": {
-                        "uuid": "c1776c66-82ae-4607-83ca-0badf11ed9ea",
-                        "title": "Focaccia pesto, and parmesan",
-                        "itemDescription": "Traditional Italian bread with pesto, and Parmesan (240g).",
-                        "price": 18300,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ca2ba05-be51-40c2-a1e1-56a3d8b775ee"
-                    },
-                    "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff": {
-                        "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
-                        "title": "Business Lunch 2",
-                        "itemDescription": "Salad with mackerel fish and vegetables, chicken broth with meatballs, chicken fillet with muschroom souce, ciabatta.",
-                        "price": 22000,
-                        "nutritionalInfo": {}
-                    },
-                    "496aac2b-5189-4d3d-bcbc-80589363fb43": {
-                        "uuid": "496aac2b-5189-4d3d-bcbc-80589363fb43",
-                        "title": "Home-made lemonade",
-                        "itemDescription": "250ml.",
-                        "price": 6500,
-                        "nutritionalInfo": {},
-                        "customizationUuids": [
-                            "295e58c1-6e82-4491-99f9-54a89c8843aa"
-                        ]
-                    },
-                    "0dd24c03-2cfb-479a-b90d-11d949bff9c5": {
-                        "uuid": "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
-                        "title": "Pear & Gorgonzola pizza",
-                        "itemDescription": "Cream, mozzarella, gorgonzola and pear (550g).",
-                        "price": 25500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d3982f0-74aa-444d-9d80-d6579dc9c894",
-                        "nutritionalInfo": {}
-                    },
-                    "bf399e1a-2070-4033-8042-1d2030ceb9d2": {
-                        "uuid": "bf399e1a-2070-4033-8042-1d2030ceb9d2",
-                        "title": "Risotto with white mushrooms and parmesan cheese",
-                        "itemDescription": "",
-                        "price": 18900,
-                        "nutritionalInfo": {}
-                    },
-                    "cee66d2f-26ee-4920-bb05-01ccc745b077": {
-                        "uuid": "cee66d2f-26ee-4920-bb05-01ccc745b077",
-                        "title": "Pizza Diablo",
-                        "itemDescription": "Tomato sauce, mozzarella cheese, and spicy salami (450g).",
-                        "price": 22000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6731e385-6b09-4227-b32f-64dbef0aa6fb"
-                    },
-                    "f7098dff-5970-434e-8c39-9495e761faa6": {
-                        "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
-                        "title": "Napoleon cake",
-                        "itemDescription": "",
-                        "price": 11000,
-                        "nutritionalInfo": {}
-                    },
-                    "3fb272e8-5533-4a76-8a27-fd32e7126313": {
-                        "uuid": "3fb272e8-5533-4a76-8a27-fd32e7126313",
-                        "title": "Pizza Al Faro",
-                        "itemDescription": "Mozzarella, tomato sauce, arugula, bresaola, cherry tomatoes, truffle oil, and parmesan cheese (600g).",
-                        "price": 32000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c88e1ef5-f5f0-4bf5-88ce-f6a5a3c1c213"
-                    },
-                    "8141fbfd-5e57-49dc-85cf-691bd5d4efc7": {
-                        "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
-                        "title": "Pear & Apple Strudel",
-                        "itemDescription": "",
-                        "price": 12000,
-                        "nutritionalInfo": {}
-                    },
-                    "031294b5-3566-4013-9f8a-08fab35701a3": {
-                        "uuid": "031294b5-3566-4013-9f8a-08fab35701a3",
-                        "title": "Lasagna with salmon, spinach and bechamel sauce",
-                        "itemDescription": "",
-                        "price": 25900,
-                        "nutritionalInfo": {}
-                    },
-                    "d4d4c8d6-0a45-4018-9451-e39aaadf0821": {
-                        "uuid": "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
-                        "title": "Muscular sphere with salted caramel",
-                        "itemDescription": "",
-                        "price": 13000,
-                        "nutritionalInfo": {}
-                    },
-                    "f08896a9-35c6-4b0e-ab74-d632b351af26": {
-                        "uuid": "f08896a9-35c6-4b0e-ab74-d632b351af26",
-                        "title": "Pizza Four cheese",
-                        "itemDescription": "Mozzarella, ricotta, gorgonzola, caciocavallo, and сream (460g).",
-                        "price": 24500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa14db6f-36f0-4961-bce6-ff76c3913365"
-                    },
-                    "4be7c573-8abd-424c-8ea0-805c72cc41b4": {
-                        "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
-                        "title": "Lasagna",
-                        "itemDescription": "",
-                        "price": 18500,
-                        "nutritionalInfo": {}
-                    },
-                    "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb": {
-                        "uuid": "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
-                        "title": "Salad with duck, caramelized pear and berry sauce",
-                        "itemDescription": "",
-                        "price": 21500,
-                        "nutritionalInfo": {}
-                    },
-                    "addafc80-f803-49cc-a08a-b7c8a0ffd9ec": {
-                        "uuid": "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
-                        "title": "Salad with salmon and goat cheese",
-                        "itemDescription": "",
-                        "price": 23500,
-                        "nutritionalInfo": {}
-                    },
-                    "ca9d57fe-da10-4d01-a74b-911c7f59e39f": {
-                        "uuid": "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
-                        "title": "Pizza Prosciutto crudo",
-                        "itemDescription": "Ricotta, parmesan, mozzarella, and prosciutto crudo (460g).",
-                        "price": 23500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/c261fcaa-3985-4b14-85fc-61694118f855"
-                    },
-                    "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de": {
-                        "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
-                        "title": "Pizza with wild mushrooms, and Italian cheese",
-                        "itemDescription": "Porcini mushrooms, chanterelles, champignons, caciocavallo, mozzarella, and truffle oil (450g).",
-                        "price": 29500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/245194f9-5855-4b02-8f44-16f9d1713b26"
-                    },
-                    "7e4198fe-d5c7-4365-a287-32582366cdb9": {
-                        "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
-                        "title": "Caprese salad",
-                        "itemDescription": "mozzarella, tomatoes and basil",
-                        "price": 17500,
-                        "nutritionalInfo": {}
-                    },
-                    "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf": {
-                        "uuid": "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
-                        "title": "Business Lunch 1",
-                        "itemDescription": "Salad with grilled chicken and vegetables, cream of pumpkin soup, polpette beef and potatoes with delicate ricotta, ciabatta.",
-                        "price": 22000,
-                        "nutritionalInfo": {}
-                    },
-                    "b1b092a4-70b5-4c1a-a96f-598e70b09b30": {
-                        "uuid": "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
-                        "title": "Cesarone salad",
-                        "itemDescription": "chicken fillet, grilled shrimps, cherry tomatoes served in a crispy focaccia with cerasone sauce",
-                        "price": 25500,
-                        "nutritionalInfo": {}
-                    },
-                    "873d458d-64b5-47ba-8b0f-e1c8e4bae061": {
-                        "uuid": "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
-                        "title": "Ravioli pasta with wild mushrooms and truffles",
-                        "itemDescription": "",
-                        "price": 21900,
-                        "nutritionalInfo": {}
-                    },
-                    "6f04f56b-6b97-4773-a0f7-cb967f5f98ac": {
-                        "uuid": "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
-                        "title": "Cannoli: crispy pastries with chocolate and vanilla cream ",
-                        "itemDescription": "",
-                        "price": 13500,
-                        "nutritionalInfo": {}
-                    },
-                    "d0ee2fb4-acd0-4166-b718-09a9305beb22": {
-                        "uuid": "d0ee2fb4-acd0-4166-b718-09a9305beb22",
-                        "title": "Cheesecake",
-                        "itemDescription": "",
-                        "price": 13500,
-                        "nutritionalInfo": {}
-                    },
-                    "c39a5b35-63d6-4064-9d1b-2067c2070c30": {
-                        "uuid": "c39a5b35-63d6-4064-9d1b-2067c2070c30",
-                        "title": "Warm salad with beef and baked vegetables",
-                        "itemDescription": "",
-                        "price": 26500,
-                        "nutritionalInfo": {}
-                    },
-                    "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a": {
-                        "uuid": "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
-                        "title": "Pizza Margarita",
-                        "itemDescription": "Tomato sauce, mozzarella, and basil (450g).",
-                        "price": 15500,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c063795-2b74-42b9-b9be-8c986b3c231f"
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "7abd8d1e-afa7-4095-9ac9-7a459e3b697e",
-                        "title": "Pizza, and bread",
-                        "itemUuids": [
-                            "c1776c66-82ae-4607-83ca-0badf11ed9ea",
-                            "3fb272e8-5533-4a76-8a27-fd32e7126313",
-                            "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
-                            "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
-                            "cee66d2f-26ee-4920-bb05-01ccc745b077",
-                            "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
-                            "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
-                            "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
-                            "f08896a9-35c6-4b0e-ab74-d632b351af26",
-                            "496aac2b-5189-4d3d-bcbc-80589363fb43",
-                            "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
-                            "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
-                            "130f3ea8-fec2-402e-b19d-ac33e772d5f0"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "c1776c66-82ae-4607-83ca-0badf11ed9ea",
-                                "title": "Focaccia pesto, and parmesan",
-                                "itemDescription": "Traditional Italian bread with pesto, and Parmesan (240g).",
-                                "price": 18300,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ca2ba05-be51-40c2-a1e1-56a3d8b775ee"
-                            },
-                            {
-                                "uuid": "3fb272e8-5533-4a76-8a27-fd32e7126313",
-                                "title": "Pizza Al Faro",
-                                "itemDescription": "Mozzarella, tomato sauce, arugula, bresaola, cherry tomatoes, truffle oil, and parmesan cheese (600g).",
-                                "price": 32000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c88e1ef5-f5f0-4bf5-88ce-f6a5a3c1c213"
-                            },
-                            {
-                                "uuid": "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
-                                "title": "Pizza Margarita",
-                                "itemDescription": "Tomato sauce, mozzarella, and basil (450g).",
-                                "price": 15500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c063795-2b74-42b9-b9be-8c986b3c231f"
-                            },
-                            {
-                                "uuid": "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
-                                "title": "Pizza Prosciutto with mushrooms",
-                                "itemDescription": "Tomato sauce, ham, champignons, and mozzarella cheese (500g).",
-                                "price": 21000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/2be67bf8-2dcf-40d6-af8a-483f6ab0b68f"
-                            },
-                            {
-                                "uuid": "cee66d2f-26ee-4920-bb05-01ccc745b077",
-                                "title": "Pizza Diablo",
-                                "itemDescription": "Tomato sauce, mozzarella cheese, and spicy salami (450g).",
-                                "price": 22000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6731e385-6b09-4227-b32f-64dbef0aa6fb"
-                            },
-                            {
-                                "uuid": "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
-                                "title": "Pizza Prosciutto crudo",
-                                "itemDescription": "Ricotta, parmesan, mozzarella, and prosciutto crudo (460g).",
-                                "price": 23500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/c261fcaa-3985-4b14-85fc-61694118f855"
-                            },
-                            {
-                                "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
-                                "title": "Pizza with wild mushrooms, and Italian cheese",
-                                "itemDescription": "Porcini mushrooms, chanterelles, champignons, caciocavallo, mozzarella, and truffle oil (450g).",
-                                "price": 29500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/245194f9-5855-4b02-8f44-16f9d1713b26"
-                            },
-                            {
-                                "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
-                                "title": "Pizza with prawns, and spinach",
-                                "itemDescription": "Ricotta, cream, prawns, and spinach (560g).",
-                                "price": 29000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/56059da0-40bb-4987-8662-41305238608b"
-                            },
-                            {
-                                "uuid": "f08896a9-35c6-4b0e-ab74-d632b351af26",
-                                "title": "Pizza Four cheese",
-                                "itemDescription": "Mozzarella, ricotta, gorgonzola, caciocavallo, and сream (460g).",
-                                "price": 24500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa14db6f-36f0-4961-bce6-ff76c3913365"
-                            },
-                            {
-                                "uuid": "496aac2b-5189-4d3d-bcbc-80589363fb43",
-                                "title": "Home-made lemonade",
-                                "itemDescription": "250ml.",
-                                "price": 6500,
-                                "nutritionalInfo": {},
-                                "customizationUuids": [
-                                    "295e58c1-6e82-4491-99f9-54a89c8843aa"
-                                ]
-                            },
-                            {
-                                "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
-                                "title": "Alpina",
-                                "itemDescription": "Mozzarella, caciocavallo, bacon, smoked ricotta and mushrooms (530g).",
-                                "price": 24500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/557bc507-240a-4b6d-ae46-b85a7d52606b",
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
-                                "title": "Pear & Gorgonzola pizza",
-                                "itemDescription": "Cream, mozzarella, gorgonzola and pear (550g).",
-                                "price": 25500,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d3982f0-74aa-444d-9d80-d6579dc9c894",
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "130f3ea8-fec2-402e-b19d-ac33e772d5f0",
-                                "title": "Homemade Italian bread with grissini",
-                                "itemDescription": "120 g",
-                                "price": 6500,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "3c91fe1e-6fe2-4115-9a18-d08da34b28de",
-                        "title": "Business Lunch from 12:00 to 16:00",
-                        "itemUuids": [
-                            "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
-                            "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
-                                "title": "Business Lunch 1",
-                                "itemDescription": "Salad with grilled chicken and vegetables, cream of pumpkin soup, polpette beef and potatoes with delicate ricotta, ciabatta.",
-                                "price": 22000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
-                                "title": "Business Lunch 2",
-                                "itemDescription": "Salad with mackerel fish and vegetables, chicken broth with meatballs, chicken fillet with muschroom souce, ciabatta.",
-                                "price": 22000,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "9cdc787a-62cb-4413-84d7-168d2867bc38",
-                        "title": "SALADS",
-                        "itemUuids": [
-                            "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
-                            "30983f85-77c5-4243-a817-633a3c20252d",
-                            "7e4198fe-d5c7-4365-a287-32582366cdb9",
-                            "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
-                            "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
-                            "c39a5b35-63d6-4064-9d1b-2067c2070c30"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
-                                "title": "Salad with salmon and goat cheese",
-                                "itemDescription": "",
-                                "price": 23500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "30983f85-77c5-4243-a817-633a3c20252d",
-                                "title": "Salad with shrims, avocado and quinoa",
-                                "itemDescription": "",
-                                "price": 25000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
-                                "title": "Caprese salad",
-                                "itemDescription": "mozzarella, tomatoes and basil",
-                                "price": 17500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
-                                "title": "Cesarone salad",
-                                "itemDescription": "chicken fillet, grilled shrimps, cherry tomatoes served in a crispy focaccia with cerasone sauce",
-                                "price": 25500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
-                                "title": "Salad with duck, caramelized pear and berry sauce",
-                                "itemDescription": "",
-                                "price": 21500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "c39a5b35-63d6-4064-9d1b-2067c2070c30",
-                                "title": "Warm salad with beef and baked vegetables",
-                                "itemDescription": "",
-                                "price": 26500,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "07480d19-e642-4b7d-8be7-ad0527856dc1",
-                        "title": "PASTA / RISOTTO",
-                        "itemUuids": [
-                            "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
-                            "e5e4380a-8a20-4504-b5d1-322a685be147",
-                            "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
-                            "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
-                            "4be7c573-8abd-424c-8ea0-805c72cc41b4",
-                            "031294b5-3566-4013-9f8a-08fab35701a3",
-                            "bf399e1a-2070-4033-8042-1d2030ceb9d2"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
-                                "title": "Pappardelle with shrimps with cream truffle sauce",
-                                "itemDescription": "",
-                                "price": 26000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "e5e4380a-8a20-4504-b5d1-322a685be147",
-                                "title": "Spaghetti carbonara",
-                                "itemDescription": "",
-                                "price": 18500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
-                                "title": "Tagliatelle with chanterelles mushrooms and rabbit",
-                                "itemDescription": "",
-                                "price": 23000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
-                                "title": "Ravioli pasta with wild mushrooms and truffles",
-                                "itemDescription": "",
-                                "price": 21900,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
-                                "title": "Lasagna",
-                                "itemDescription": "",
-                                "price": 18500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "031294b5-3566-4013-9f8a-08fab35701a3",
-                                "title": "Lasagna with salmon, spinach and bechamel sauce",
-                                "itemDescription": "",
-                                "price": 25900,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "bf399e1a-2070-4033-8042-1d2030ceb9d2",
-                                "title": "Risotto with white mushrooms and parmesan cheese",
-                                "itemDescription": "",
-                                "price": 18900,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "c99fcbde-56c3-47a9-bf11-82f8f747753b",
-                        "title": "DESSERTS",
-                        "itemUuids": [
-                            "752ef292-9653-4f4c-8ffc-7053f56e594b",
-                            "d0ee2fb4-acd0-4166-b718-09a9305beb22",
-                            "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
-                            "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
-                            "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
-                            "f7098dff-5970-434e-8c39-9495e761faa6"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
-                                "title": "Tiramisu ",
-                                "itemDescription": "",
-                                "price": 13000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "d0ee2fb4-acd0-4166-b718-09a9305beb22",
-                                "title": "Cheesecake",
-                                "itemDescription": "",
-                                "price": 13500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
-                                "title": "Pear & Apple Strudel",
-                                "itemDescription": "",
-                                "price": 12000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
-                                "title": "Cannoli: crispy pastries with chocolate and vanilla cream ",
-                                "itemDescription": "",
-                                "price": 13500,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
-                                "title": "Muscular sphere with salted caramel",
-                                "itemDescription": "",
-                                "price": 13000,
-                                "nutritionalInfo": {}
-                            },
-                            {
-                                "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
-                                "title": "Napoleon cake",
-                                "itemDescription": "",
-                                "price": 11000,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        "subsectionsMap": {
-            "9cdc787a-62cb-4413-84d7-168d2867bc38": {
-                "uuid": "9cdc787a-62cb-4413-84d7-168d2867bc38",
-                "title": "SALADS",
-                "itemUuids": [
-                    "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
-                    "30983f85-77c5-4243-a817-633a3c20252d",
-                    "7e4198fe-d5c7-4365-a287-32582366cdb9",
-                    "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
-                    "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
-                    "c39a5b35-63d6-4064-9d1b-2067c2070c30"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "30983f85-77c5-4243-a817-633a3c20252d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c39a5b35-63d6-4064-9d1b-2067c2070c30",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "22912fc8-9b94-41ec-b844-f71faa0317ca": {
-                "uuid": "22912fc8-9b94-41ec-b844-f71faa0317ca",
-                "title": "Салати ",
-                "itemUuids": [
-                    "6191819e-e50b-44f9-a5e9-71d111cb89a6",
-                    "284ce114-6f46-4606-ac95-9e5ae679d307",
-                    "460c2ef7-0df3-45b9-85a7-b4056b47283a",
-                    "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
-                    "24416d4a-60a1-4d12-a054-2f6e454fdf20",
-                    "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "6191819e-e50b-44f9-a5e9-71d111cb89a6",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "284ce114-6f46-4606-ac95-9e5ae679d307",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "460c2ef7-0df3-45b9-85a7-b4056b47283a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "24416d4a-60a1-4d12-a054-2f6e454fdf20",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "4afea7a1-5b62-4f17-a626-148c460e02fa": {
-                "uuid": "4afea7a1-5b62-4f17-a626-148c460e02fa",
-                "title": "Піца/хліб/бургер",
-                "itemUuids": [
-                    "d4ce6cd6-812f-492d-a38a-f612b1837b08",
-                    "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
-                    "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
-                    "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
-                    "59a87272-3bde-4cfa-b752-74d6068fe85a",
-                    "a305641a-80aa-4890-b5e1-203065fc6156",
-                    "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
-                    "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
-                    "cb88e7a3-aeeb-4646-b738-49642deb1d73",
-                    "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
-                    "892a4b13-f580-4f34-a0e1-89dd8765cd12",
-                    "5672d248-da8e-463a-a581-75c4275a28c9",
-                    "da4432ec-0401-43a5-b5b5-3d149e025121"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "d4ce6cd6-812f-492d-a38a-f612b1837b08",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "59a87272-3bde-4cfa-b752-74d6068fe85a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a305641a-80aa-4890-b5e1-203065fc6156",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cb88e7a3-aeeb-4646-b738-49642deb1d73",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "892a4b13-f580-4f34-a0e1-89dd8765cd12",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5672d248-da8e-463a-a581-75c4275a28c9",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "da4432ec-0401-43a5-b5b5-3d149e025121",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c": {
-                "uuid": "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c",
-                "title": "Десерти",
-                "itemUuids": [
-                    "dd505f7d-6447-4547-a333-e2171ed1359c",
-                    "647d3008-334a-4040-802c-b4022290bdc0",
-                    "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
-                    "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
-                    "d95607a2-07d1-4fb4-b818-287ee46b65b5",
-                    "2f0ca7db-0035-42f9-ab24-24e1127dfc76"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "dd505f7d-6447-4547-a333-e2171ed1359c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "647d3008-334a-4040-802c-b4022290bdc0",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d95607a2-07d1-4fb4-b818-287ee46b65b5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "2f0ca7db-0035-42f9-ab24-24e1127dfc76",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "c99fcbde-56c3-47a9-bf11-82f8f747753b": {
-                "uuid": "c99fcbde-56c3-47a9-bf11-82f8f747753b",
-                "title": "DESSERTS",
-                "itemUuids": [
-                    "752ef292-9653-4f4c-8ffc-7053f56e594b",
-                    "d0ee2fb4-acd0-4166-b718-09a9305beb22",
-                    "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
-                    "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
-                    "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
-                    "f7098dff-5970-434e-8c39-9495e761faa6"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d0ee2fb4-acd0-4166-b718-09a9305beb22",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "07480d19-e642-4b7d-8be7-ad0527856dc1": {
-                "uuid": "07480d19-e642-4b7d-8be7-ad0527856dc1",
-                "title": "PASTA / RISOTTO",
-                "itemUuids": [
-                    "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
-                    "e5e4380a-8a20-4504-b5d1-322a685be147",
-                    "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
-                    "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
-                    "4be7c573-8abd-424c-8ea0-805c72cc41b4",
-                    "031294b5-3566-4013-9f8a-08fab35701a3",
-                    "bf399e1a-2070-4033-8042-1d2030ceb9d2"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e5e4380a-8a20-4504-b5d1-322a685be147",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "031294b5-3566-4013-9f8a-08fab35701a3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "bf399e1a-2070-4033-8042-1d2030ceb9d2",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "d0294559-b593-486b-91b0-f4989d4617f1": {
-                "uuid": "d0294559-b593-486b-91b0-f4989d4617f1",
-                "title": "Безалкогольні напоії",
-                "itemUuids": [
-                    "7874b625-f93f-4366-b551-d9346c690505",
-                    "adfbc2a2-d424-40b4-8232-e75de15c15df",
-                    "54a44134-1246-4e2d-b92a-2392e0080f74",
-                    "21d1a21a-960a-4036-8f27-f93e74112a2f"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "7874b625-f93f-4366-b551-d9346c690505",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "adfbc2a2-d424-40b4-8232-e75de15c15df",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "54a44134-1246-4e2d-b92a-2392e0080f74",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "21d1a21a-960a-4036-8f27-f93e74112a2f",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "ebea07cf-55c3-4a0b-9710-14e8f7a128e7": {
-                "uuid": "ebea07cf-55c3-4a0b-9710-14e8f7a128e7",
-                "title": "ДОМАШНЯ ПАСТА ТА  РІЗОТО",
-                "itemUuids": [
-                    "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
-                    "411c093c-6205-49c2-8cbe-2621cd53c83b",
-                    "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
-                    "4e059223-4ff5-4ce6-9251-0c60e64afb96",
-                    "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
-                    "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
-                    "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "411c093c-6205-49c2-8cbe-2621cd53c83b",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4e059223-4ff5-4ce6-9251-0c60e64afb96",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "3c91fe1e-6fe2-4115-9a18-d08da34b28de": {
-                "uuid": "3c91fe1e-6fe2-4115-9a18-d08da34b28de",
-                "title": "Business Lunch from 12:00 to 16:00",
-                "itemUuids": [
-                    "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
-                    "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "d78f167a-602a-44bd-80ae-19d0e8817a92": {
-                "uuid": "d78f167a-602a-44bd-80ae-19d0e8817a92",
-                "title": "Бізнес ланч 12:00-16:00",
-                "itemUuids": [
-                    "2c8fc828-faae-46db-8af2-180251723670",
-                    "b0b7c35e-683f-44f3-a91e-b367b06fac3f"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "2c8fc828-faae-46db-8af2-180251723670",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b0b7c35e-683f-44f3-a91e-b367b06fac3f",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "7abd8d1e-afa7-4095-9ac9-7a459e3b697e": {
-                "uuid": "7abd8d1e-afa7-4095-9ac9-7a459e3b697e",
-                "title": "Pizza, and bread",
-                "itemUuids": [
-                    "c1776c66-82ae-4607-83ca-0badf11ed9ea",
-                    "3fb272e8-5533-4a76-8a27-fd32e7126313",
-                    "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
-                    "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
-                    "cee66d2f-26ee-4920-bb05-01ccc745b077",
-                    "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
-                    "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
-                    "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
-                    "f08896a9-35c6-4b0e-ab74-d632b351af26",
-                    "496aac2b-5189-4d3d-bcbc-80589363fb43",
-                    "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
-                    "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
-                    "130f3ea8-fec2-402e-b19d-ac33e772d5f0"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "c1776c66-82ae-4607-83ca-0badf11ed9ea",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3fb272e8-5533-4a76-8a27-fd32e7126313",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cee66d2f-26ee-4920-bb05-01ccc745b077",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f08896a9-35c6-4b0e-ab74-d632b351af26",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "496aac2b-5189-4d3d-bcbc-80589363fb43",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "130f3ea8-fec2-402e-b19d-ac33e772d5f0",
-                        "type": "ITEM"
-                    }
-                ]
-            }
-        },
-        "location": {
-            "latitude": 50.4344514,
-            "longitude": 30.5164521,
-            "address": {
-                "address1": "Velyka Vasylkivska St, 49А",
-                "aptOrSuite": "",
-                "city": "Kyiv",
-                "country": "UA",
-                "postalCode": "02000",
-                "region": "",
-                "formattedAddress": "Velyka Vasylkivska St, 49а, Kyiv, 02000"
-            }
-        },
-        "publicContact": {
-            "publicPhoneNumber": "+380981143300"
-        },
-        "priceBucket": "₴₴",
-        "slug": "al-faro",
-        "isOrderable": true,
-        "disableCheckoutInstruction": false,
-        "supportedDiningModes": [
-            "DELIVERY"
-        ],
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
-        "heroImage": {
-            "items": [
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7",
-                    "width": 2880,
-                    "height": 2304
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/0ab6dc2f-0065-4988-a07f-cd700a938b65",
-                    "width": 1080,
-                    "height": 864
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/5750158e-2165-4cd4-b330-2ef592d39082",
-                    "width": 750,
-                    "height": 600
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/93c70c20-bb67-4aa2-88cf-ef15d2a12b26",
-                    "width": 640,
-                    "height": 512
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
-                    "width": 550,
-                    "height": 440
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/6b542e39-f9c6-4f33-a97d-641540f0e95a",
-                    "width": 240,
-                    "height": 192
-                }
-            ]
-        },
-        "closedEtaMessage": "Currently unavailable",
-        "notOrderableMessage": "Currently unavailable",
-        "storeBadges": {
-            "disclaimerBadge": {
-                "textFormat": ""
-            },
-            "ratingBadge": {
-                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(119)</span></span>",
-                "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 119 reviews."
-            },
-            "taglineBadge": {
-                "textFormat": "<span>₴₴ • Italian • European • Pizza</span>"
-            },
-            "etaBadge": {
-                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-                "text": "25–35 MINS",
-                "textFormat": "<span>25–35 MINS</span>",
-                "accessibilityText": "Delivered in 25 to 35 MINS"
-            }
-        },
-        "etaRange": {
-            "min": 25,
-            "max": 35,
-            "raw": 30
-        },
-        "fareInfo": {
-            "serviceFee": 30
-        },
-        "eaterFields": {},
-        "meta": {
-            "sectionHoursInfo": [
-                {
-                    "dayRange": "Every day",
-                    "sectionHours": [
-                        {
-                            "startTime": 660,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 660,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                }
-            ]
-        },
-        "nuggets": [],
-        "displayConfig": {
-            "regionalDisplayType": "DEFAULT"
-        },
-        "enabledFulfillmentTypes": [
-            "DELIVERY"
-        ],
-        "citySlug": "kyiv",
-        "cityName": "Kyiv",
-        "currencyCode": "UAH",
-        "currencyNumDigitsAfterDecimal": 2
+  "uuid": "39a3d947-2a9f-4d4d-958f-1b8c16912bca",
+  "title": "Al Faro",
+  "regionId": 943,
+  "categories": [
+    {
+      "uuid": "Italian",
+      "name": "Італійська",
+      "keyName": "Italian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Pizza",
+      "name": "Піца",
+      "keyName": "Pizza"
     }
+  ],
+  "sections": [
+    {
+      "uuid": "5a6dc463-3dfd-441f-b051-53a9159115d4",
+      "title": "SWITCH LANGUAGE (UKR)",
+      "subtitle": "11:00 AM – 10:00 PM",
+      "isTop": true,
+      "isOnSale": true,
+      "subsectionUuids": [
+        "4afea7a1-5b62-4f17-a626-148c460e02fa",
+        "22912fc8-9b94-41ec-b844-f71faa0317ca",
+        "ebea07cf-55c3-4a0b-9710-14e8f7a128e7",
+        "d0294559-b593-486b-91b0-f4989d4617f1",
+        "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c",
+        "d78f167a-602a-44bd-80ae-19d0e8817a92"
+      ]
+    },
+    {
+      "uuid": "eea54422-be0a-4f79-8913-06d6afc79ff3",
+      "title": "SWITCH LANGUAGE (ENG)",
+      "subtitle": "11:00 AM – 10:00 PM",
+      "isOnSale": true,
+      "subsectionUuids": [
+        "7abd8d1e-afa7-4095-9ac9-7a459e3b697e",
+        "3c91fe1e-6fe2-4115-9a18-d08da34b28de",
+        "9cdc787a-62cb-4413-84d7-168d2867bc38",
+        "07480d19-e642-4b7d-8be7-ad0527856dc1",
+        "c99fcbde-56c3-47a9-bf11-82f8f747753b"
+      ]
+    }
+  ],
+  "sectionEntitiesMap": {
+    "5a6dc463-3dfd-441f-b051-53a9159115d4": {
+      "itemsMap": {
+        "411c093c-6205-49c2-8cbe-2621cd53c83b": {
+          "uuid": "411c093c-6205-49c2-8cbe-2621cd53c83b",
+          "title": "Спагеті Карбонара",
+          "itemDescription": "",
+          "price": 18500,
+          "nutritionalInfo": {}
+        },
+        "ea96cfbc-a49d-440d-80eb-0b02e4a40907": {
+          "uuid": "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
+          "title": "Салат Цезароне",
+          "itemDescription": "куряче філе, креветки гриль, томати чері,\nлистя салату у хрусткій фокачі та соус цезароне\n",
+          "price": 25500,
+          "nutritionalInfo": {}
+        },
+        "da4432ec-0401-43a5-b5b5-3d149e025121": {
+          "uuid": "da4432ec-0401-43a5-b5b5-3d149e025121",
+          "title": "Піца с креветками та артишоками",
+          "itemDescription": "700 г ",
+          "price": 41500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/102c6b4e-d311-42ac-8738-cf9d786c22ca",
+          "nutritionalInfo": {}
+        },
+        "892a4b13-f580-4f34-a0e1-89dd8765cd12": {
+          "uuid": "892a4b13-f580-4f34-a0e1-89dd8765cd12",
+          "title": "Альпіна",
+          "itemDescription": "Сир моцарела, качаковало, спек, копчений сир, рікота, печериці (530г).",
+          "price": 24500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/526cbabf-37f6-4270-86f2-3382bc4d2b2c",
+          "nutritionalInfo": {}
+        },
+        "7874b625-f93f-4366-b551-d9346c690505": {
+          "uuid": "7874b625-f93f-4366-b551-d9346c690505",
+          "title": "Домашній лимонад класичний власного приготування ",
+          "itemDescription": "250мл.",
+          "price": 6500,
+          "nutritionalInfo": {},
+          "customizationUuids": [
+            "f46f5487-df80-4ee6-8295-ae40b275c652"
+          ]
+        },
+        "5672d248-da8e-463a-a581-75c4275a28c9": {
+          "uuid": "5672d248-da8e-463a-a581-75c4275a28c9",
+          "title": "Піца з грушею та горгонзолою",
+          "itemDescription": "Вершки, моцарела, горгонзола, груша (550г).",
+          "price": 25500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/11e6578d-9b3d-4cde-830a-bbf3edb08388",
+          "nutritionalInfo": {}
+        },
+        "647d3008-334a-4040-802c-b4022290bdc0": {
+          "uuid": "647d3008-334a-4040-802c-b4022290bdc0",
+          "title": "Чізкейк",
+          "itemDescription": "",
+          "price": 13500,
+          "nutritionalInfo": {}
+        },
+        "b0b7c35e-683f-44f3-a91e-b367b06fac3f": {
+          "uuid": "b0b7c35e-683f-44f3-a91e-b367b06fac3f",
+          "title": "Бізнес ланч 2",
+          "itemDescription": "Салат з грильованим курчам та овочами, Кабачковий суп пюре,\nФіле яловичини з тушкованими овочами\n, чіабата.",
+          "price": 22000,
+          "nutritionalInfo": {}
+        },
+        "9572c5a7-04b1-46dd-bf06-58571d01dd4b": {
+          "uuid": "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
+          "title": "Равіолі з лісовими грибами та фуа-гра під трюфельним соусом",
+          "itemDescription": "",
+          "price": 21900,
+          "nutritionalInfo": {}
+        },
+        "6ff5d181-c91d-4da2-87bf-2741284b3b1d": {
+          "uuid": "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
+          "title": "Піца з креветками та шпинатом",
+          "itemDescription": "Рікота, вершки, креветки, шпинат (560г).",
+          "price": 29000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ef16ee0-fa71-484d-8d8b-1ee22eb7883b"
+        },
+        "adfbc2a2-d424-40b4-8232-e75de15c15df": {
+          "uuid": "adfbc2a2-d424-40b4-8232-e75de15c15df",
+          "title": "Базиліковий лимонад",
+          "itemDescription": "",
+          "price": 6500,
+          "nutritionalInfo": {}
+        },
+        "21d1a21a-960a-4036-8f27-f93e74112a2f": {
+          "uuid": "21d1a21a-960a-4036-8f27-f93e74112a2f",
+          "title": "Імбирний лимонад",
+          "itemDescription": "",
+          "price": 6500,
+          "nutritionalInfo": {}
+        },
+        "cb88e7a3-aeeb-4646-b738-49642deb1d73": {
+          "uuid": "cb88e7a3-aeeb-4646-b738-49642deb1d73",
+          "title": "Піца Чотири сири",
+          "itemDescription": "Моцарела рікота, горгонзола, качокавалло та вершки (460г).",
+          "price": 24500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9ea103e-f47f-4c81-b50a-6044b6caab15"
+        },
+        "1d08d67e-4d8f-48fe-ab67-c0970f9626e0": {
+          "uuid": "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
+          "title": "Папарделе з креветками у ніжному вершково-трюфельному соусі",
+          "itemDescription": "",
+          "price": 26000,
+          "nutritionalInfo": {}
+        },
+        "d4ce6cd6-812f-492d-a38a-f612b1837b08": {
+          "uuid": "d4ce6cd6-812f-492d-a38a-f612b1837b08",
+          "title": "Фокача Песто та Пармезан",
+          "itemDescription": "Традиційна італійська паляничка з песто та пармезаном (240г).",
+          "price": 18300,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/db84ebb7-b040-41e9-af03-3db06390baec"
+        },
+        "6191819e-e50b-44f9-a5e9-71d111cb89a6": {
+          "uuid": "6191819e-e50b-44f9-a5e9-71d111cb89a6",
+          "title": "Салат з пряним лососем та ніжним вершковим сиром ",
+          "itemDescription": "",
+          "price": 23500,
+          "nutritionalInfo": {}
+        },
+        "9b94acaa-9f0e-4b4f-897b-46acba98b8a6": {
+          "uuid": "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
+          "title": "Лазанья класична",
+          "itemDescription": "",
+          "price": 18500,
+          "nutritionalInfo": {}
+        },
+        "2c8fc828-faae-46db-8af2-180251723670": {
+          "uuid": "2c8fc828-faae-46db-8af2-180251723670",
+          "title": "   Бізнес ланч 1                                                     ",
+          "itemDescription": "Салат зі маринованої  макрелі та овочами, Курячий бульйон з фрикадельками,  Бургер \"Італьяно\" з картоплею по-домашньому, чіабата.",
+          "price": 22000,
+          "nutritionalInfo": {}
+        },
+        "6ddf4953-21e8-4c02-807b-dbe4fdb94737": {
+          "uuid": "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
+          "title": "Піца Прошуто з грибами",
+          "itemDescription": "Томатний соус, шинка, печериці, сир моцарела (500г).",
+          "price": 21000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a629a5c-6a81-467c-919e-d6a0bc2ce654"
+        },
+        "dd505f7d-6447-4547-a333-e2171ed1359c": {
+          "uuid": "dd505f7d-6447-4547-a333-e2171ed1359c",
+          "title": "Тирамісу",
+          "itemDescription": "",
+          "price": 13000,
+          "nutritionalInfo": {}
+        },
+        "24416d4a-60a1-4d12-a054-2f6e454fdf20": {
+          "uuid": "24416d4a-60a1-4d12-a054-2f6e454fdf20",
+          "title": "Салат з качкою, карамелізованою грушею та ягідним соусом",
+          "itemDescription": "",
+          "price": 21500,
+          "nutritionalInfo": {}
+        },
+        "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c": {
+          "uuid": "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
+          "title": "Корзинка хліба домашньої випічки з грісіні",
+          "itemDescription": "120г.",
+          "price": 6500,
+          "nutritionalInfo": {}
+        },
+        "36d1eaf7-d27e-41e6-8f53-a0927c38562a": {
+          "uuid": "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
+          "title": "Канолі сет",
+          "itemDescription": "три хрусткі трубочки з шоколадним та ванільним кремом",
+          "price": 13500,
+          "nutritionalInfo": {}
+        },
+        "59a87272-3bde-4cfa-b752-74d6068fe85a": {
+          "uuid": "59a87272-3bde-4cfa-b752-74d6068fe85a",
+          "title": "Піца Диявола",
+          "itemDescription": "Томатний соус, сир моцарела, пікантна салямі (450г).",
+          "price": 22000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/42e93260-a059-4107-b472-1faa41224099"
+        },
+        "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7": {
+          "uuid": "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
+          "title": "Лазаньєта з лососем, пинатом та соусом бешамель",
+          "itemDescription": "",
+          "price": 25900,
+          "nutritionalInfo": {}
+        },
+        "54a44134-1246-4e2d-b92a-2392e0080f74": {
+          "uuid": "54a44134-1246-4e2d-b92a-2392e0080f74",
+          "title": "Полуничний лимонад",
+          "itemDescription": "",
+          "price": 6500,
+          "nutritionalInfo": {}
+        },
+        "914200db-cdaf-4ff1-aace-ebd10b29dfa4": {
+          "uuid": "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
+          "title": "Піца Аль Фаро",
+          "itemDescription": "Сир моцарела, томатний соус, рукола, брезаола, помідори чері, трюфельна олія та сир Пармезан (600г).",
+          "price": 32000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab98a1e8-ede2-48c8-a375-f73f12ecb88a"
+        },
+        "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc": {
+          "uuid": "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc",
+          "title": "Різото з білими грибами",
+          "itemDescription": "",
+          "price": 18900,
+          "nutritionalInfo": {}
+        },
+        "d95607a2-07d1-4fb4-b818-287ee46b65b5": {
+          "uuid": "d95607a2-07d1-4fb4-b818-287ee46b65b5",
+          "title": "Мусова сфера з солоною карамеллю                                                                  ",
+          "itemDescription": "",
+          "price": 13000,
+          "nutritionalInfo": {}
+        },
+        "0d3c9217-7419-4c2e-977c-cae9a0d77d87": {
+          "uuid": "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
+          "title": "Піца з лісовими грибами та апулійськими сирами",
+          "itemDescription": "Гриби білі, лисички, печериці, качокавалло, моцарела, трюфельна олія (450г).",
+          "price": 29500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f9a97b09-7aea-42ee-ace7-830a3cc6fa1c"
+        },
+        "1d9a0da7-2bbc-4351-bc06-a310f4c72660": {
+          "uuid": "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
+          "title": "Штрудель грушево-яблучний  \t",
+          "itemDescription": "",
+          "price": 12000,
+          "nutritionalInfo": {}
+        },
+        "a305641a-80aa-4890-b5e1-203065fc6156": {
+          "uuid": "a305641a-80aa-4890-b5e1-203065fc6156",
+          "title": "Піца Прошуто Крудо",
+          "itemDescription": "Сир рікота, пармезан, моцарела та прошуто крудо (460г).",
+          "price": 23500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ade48698-b509-4e91-ab73-912bb3823ffe"
+        },
+        "4e059223-4ff5-4ce6-9251-0c60e64afb96": {
+          "uuid": "4e059223-4ff5-4ce6-9251-0c60e64afb96",
+          "title": "Тальятеле з ніжним м'ясом кролика та лисичками",
+          "itemDescription": "",
+          "price": 23000,
+          "nutritionalInfo": {}
+        },
+        "2f0ca7db-0035-42f9-ab24-24e1127dfc76": {
+          "uuid": "2f0ca7db-0035-42f9-ab24-24e1127dfc76",
+          "title": "Наполеон",
+          "itemDescription": "",
+          "price": 11000,
+          "nutritionalInfo": {}
+        },
+        "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0": {
+          "uuid": "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0",
+          "title": "  Теплий салат з яловичиною та запеченими овочами ",
+          "itemDescription": "",
+          "price": 26500,
+          "nutritionalInfo": {}
+        },
+        "284ce114-6f46-4606-ac95-9e5ae679d307": {
+          "uuid": "284ce114-6f46-4606-ac95-9e5ae679d307",
+          "title": "Мікс салату з грильованими креветками, кіноа та авокадо",
+          "itemDescription": "",
+          "price": 25000,
+          "nutritionalInfo": {}
+        },
+        "0fd61b18-1986-4428-b3c0-77a3a0d8897c": {
+          "uuid": "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
+          "title": "Піца Маргарита",
+          "itemDescription": "Томатний соус, моцарела, базилік (450г).",
+          "price": 15500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f1db9eb-b456-46d1-b459-a4d37e2bd19a"
+        },
+        "460c2ef7-0df3-45b9-85a7-b4056b47283a": {
+          "uuid": "460c2ef7-0df3-45b9-85a7-b4056b47283a",
+          "title": "Салат Капрезе",
+          "itemDescription": "з моцарелою, томатами та базиліком",
+          "price": 17500,
+          "nutritionalInfo": {}
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "4afea7a1-5b62-4f17-a626-148c460e02fa",
+          "title": "Піца/хліб/бургер",
+          "itemUuids": [
+            "d4ce6cd6-812f-492d-a38a-f612b1837b08",
+            "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
+            "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
+            "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
+            "59a87272-3bde-4cfa-b752-74d6068fe85a",
+            "a305641a-80aa-4890-b5e1-203065fc6156",
+            "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
+            "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
+            "cb88e7a3-aeeb-4646-b738-49642deb1d73",
+            "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
+            "892a4b13-f580-4f34-a0e1-89dd8765cd12",
+            "5672d248-da8e-463a-a581-75c4275a28c9",
+            "da4432ec-0401-43a5-b5b5-3d149e025121"
+          ],
+          "displayItems": [
+            {
+              "uuid": "d4ce6cd6-812f-492d-a38a-f612b1837b08",
+              "title": "Фокача Песто та Пармезан",
+              "itemDescription": "Традиційна італійська паляничка з песто та пармезаном (240г).",
+              "price": 18300,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/db84ebb7-b040-41e9-af03-3db06390baec"
+            },
+            {
+              "uuid": "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
+              "title": "Піца Аль Фаро",
+              "itemDescription": "Сир моцарела, томатний соус, рукола, брезаола, помідори чері, трюфельна олія та сир Пармезан (600г).",
+              "price": 32000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab98a1e8-ede2-48c8-a375-f73f12ecb88a"
+            },
+            {
+              "uuid": "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
+              "title": "Піца Маргарита",
+              "itemDescription": "Томатний соус, моцарела, базилік (450г).",
+              "price": 15500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f1db9eb-b456-46d1-b459-a4d37e2bd19a"
+            },
+            {
+              "uuid": "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
+              "title": "Піца Прошуто з грибами",
+              "itemDescription": "Томатний соус, шинка, печериці, сир моцарела (500г).",
+              "price": 21000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a629a5c-6a81-467c-919e-d6a0bc2ce654"
+            },
+            {
+              "uuid": "59a87272-3bde-4cfa-b752-74d6068fe85a",
+              "title": "Піца Диявола",
+              "itemDescription": "Томатний соус, сир моцарела, пікантна салямі (450г).",
+              "price": 22000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/42e93260-a059-4107-b472-1faa41224099"
+            },
+            {
+              "uuid": "a305641a-80aa-4890-b5e1-203065fc6156",
+              "title": "Піца Прошуто Крудо",
+              "itemDescription": "Сир рікота, пармезан, моцарела та прошуто крудо (460г).",
+              "price": 23500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ade48698-b509-4e91-ab73-912bb3823ffe"
+            },
+            {
+              "uuid": "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
+              "title": "Піца з лісовими грибами та апулійськими сирами",
+              "itemDescription": "Гриби білі, лисички, печериці, качокавалло, моцарела, трюфельна олія (450г).",
+              "price": 29500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f9a97b09-7aea-42ee-ace7-830a3cc6fa1c"
+            },
+            {
+              "uuid": "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
+              "title": "Піца з креветками та шпинатом",
+              "itemDescription": "Рікота, вершки, креветки, шпинат (560г).",
+              "price": 29000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ef16ee0-fa71-484d-8d8b-1ee22eb7883b"
+            },
+            {
+              "uuid": "cb88e7a3-aeeb-4646-b738-49642deb1d73",
+              "title": "Піца Чотири сири",
+              "itemDescription": "Моцарела рікота, горгонзола, качокавалло та вершки (460г).",
+              "price": 24500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9ea103e-f47f-4c81-b50a-6044b6caab15"
+            },
+            {
+              "uuid": "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
+              "title": "Корзинка хліба домашньої випічки з грісіні",
+              "itemDescription": "120г.",
+              "price": 6500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "892a4b13-f580-4f34-a0e1-89dd8765cd12",
+              "title": "Альпіна",
+              "itemDescription": "Сир моцарела, качаковало, спек, копчений сир, рікота, печериці (530г).",
+              "price": 24500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/526cbabf-37f6-4270-86f2-3382bc4d2b2c",
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "5672d248-da8e-463a-a581-75c4275a28c9",
+              "title": "Піца з грушею та горгонзолою",
+              "itemDescription": "Вершки, моцарела, горгонзола, груша (550г).",
+              "price": 25500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/11e6578d-9b3d-4cde-830a-bbf3edb08388",
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "da4432ec-0401-43a5-b5b5-3d149e025121",
+              "title": "Піца с креветками та артишоками",
+              "itemDescription": "700 г ",
+              "price": 41500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/102c6b4e-d311-42ac-8738-cf9d786c22ca",
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "22912fc8-9b94-41ec-b844-f71faa0317ca",
+          "title": "Салати ",
+          "itemUuids": [
+            "6191819e-e50b-44f9-a5e9-71d111cb89a6",
+            "284ce114-6f46-4606-ac95-9e5ae679d307",
+            "460c2ef7-0df3-45b9-85a7-b4056b47283a",
+            "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
+            "24416d4a-60a1-4d12-a054-2f6e454fdf20",
+            "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0"
+          ],
+          "displayItems": [
+            {
+              "uuid": "6191819e-e50b-44f9-a5e9-71d111cb89a6",
+              "title": "Салат з пряним лососем та ніжним вершковим сиром ",
+              "itemDescription": "",
+              "price": 23500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "284ce114-6f46-4606-ac95-9e5ae679d307",
+              "title": "Мікс салату з грильованими креветками, кіноа та авокадо",
+              "itemDescription": "",
+              "price": 25000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "460c2ef7-0df3-45b9-85a7-b4056b47283a",
+              "title": "Салат Капрезе",
+              "itemDescription": "з моцарелою, томатами та базиліком",
+              "price": 17500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
+              "title": "Салат Цезароне",
+              "itemDescription": "куряче філе, креветки гриль, томати чері,\nлистя салату у хрусткій фокачі та соус цезароне\n",
+              "price": 25500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "24416d4a-60a1-4d12-a054-2f6e454fdf20",
+              "title": "Салат з качкою, карамелізованою грушею та ягідним соусом",
+              "itemDescription": "",
+              "price": 21500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0",
+              "title": "  Теплий салат з яловичиною та запеченими овочами ",
+              "itemDescription": "",
+              "price": 26500,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "ebea07cf-55c3-4a0b-9710-14e8f7a128e7",
+          "title": "ДОМАШНЯ ПАСТА ТА  РІЗОТО",
+          "itemUuids": [
+            "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
+            "411c093c-6205-49c2-8cbe-2621cd53c83b",
+            "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
+            "4e059223-4ff5-4ce6-9251-0c60e64afb96",
+            "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
+            "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
+            "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc"
+          ],
+          "displayItems": [
+            {
+              "uuid": "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
+              "title": "Папарделе з креветками у ніжному вершково-трюфельному соусі",
+              "itemDescription": "",
+              "price": 26000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "411c093c-6205-49c2-8cbe-2621cd53c83b",
+              "title": "Спагеті Карбонара",
+              "itemDescription": "",
+              "price": 18500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
+              "title": "Равіолі з лісовими грибами та фуа-гра під трюфельним соусом",
+              "itemDescription": "",
+              "price": 21900,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "4e059223-4ff5-4ce6-9251-0c60e64afb96",
+              "title": "Тальятеле з ніжним м'ясом кролика та лисичками",
+              "itemDescription": "",
+              "price": 23000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
+              "title": "Лазанья класична",
+              "itemDescription": "",
+              "price": 18500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
+              "title": "Лазаньєта з лососем, пинатом та соусом бешамель",
+              "itemDescription": "",
+              "price": 25900,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc",
+              "title": "Різото з білими грибами",
+              "itemDescription": "",
+              "price": 18900,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "d0294559-b593-486b-91b0-f4989d4617f1",
+          "title": "Безалкогольні напоії",
+          "itemUuids": [
+            "7874b625-f93f-4366-b551-d9346c690505",
+            "adfbc2a2-d424-40b4-8232-e75de15c15df",
+            "54a44134-1246-4e2d-b92a-2392e0080f74",
+            "21d1a21a-960a-4036-8f27-f93e74112a2f"
+          ],
+          "displayItems": [
+            {
+              "uuid": "7874b625-f93f-4366-b551-d9346c690505",
+              "title": "Домашній лимонад класичний власного приготування ",
+              "itemDescription": "250мл.",
+              "price": 6500,
+              "nutritionalInfo": {},
+              "customizationUuids": [
+                "f46f5487-df80-4ee6-8295-ae40b275c652"
+              ]
+            },
+            {
+              "uuid": "adfbc2a2-d424-40b4-8232-e75de15c15df",
+              "title": "Базиліковий лимонад",
+              "itemDescription": "",
+              "price": 6500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "54a44134-1246-4e2d-b92a-2392e0080f74",
+              "title": "Полуничний лимонад",
+              "itemDescription": "",
+              "price": 6500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "21d1a21a-960a-4036-8f27-f93e74112a2f",
+              "title": "Імбирний лимонад",
+              "itemDescription": "",
+              "price": 6500,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c",
+          "title": "Десерти",
+          "itemUuids": [
+            "dd505f7d-6447-4547-a333-e2171ed1359c",
+            "647d3008-334a-4040-802c-b4022290bdc0",
+            "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
+            "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
+            "d95607a2-07d1-4fb4-b818-287ee46b65b5",
+            "2f0ca7db-0035-42f9-ab24-24e1127dfc76"
+          ],
+          "displayItems": [
+            {
+              "uuid": "dd505f7d-6447-4547-a333-e2171ed1359c",
+              "title": "Тирамісу",
+              "itemDescription": "",
+              "price": 13000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "647d3008-334a-4040-802c-b4022290bdc0",
+              "title": "Чізкейк",
+              "itemDescription": "",
+              "price": 13500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
+              "title": "Штрудель грушево-яблучний  \t",
+              "itemDescription": "",
+              "price": 12000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
+              "title": "Канолі сет",
+              "itemDescription": "три хрусткі трубочки з шоколадним та ванільним кремом",
+              "price": 13500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "d95607a2-07d1-4fb4-b818-287ee46b65b5",
+              "title": "Мусова сфера з солоною карамеллю                                                                  ",
+              "itemDescription": "",
+              "price": 13000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "2f0ca7db-0035-42f9-ab24-24e1127dfc76",
+              "title": "Наполеон",
+              "itemDescription": "",
+              "price": 11000,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "d78f167a-602a-44bd-80ae-19d0e8817a92",
+          "title": "Бізнес ланч 12:00-16:00",
+          "itemUuids": [
+            "2c8fc828-faae-46db-8af2-180251723670",
+            "b0b7c35e-683f-44f3-a91e-b367b06fac3f"
+          ],
+          "displayItems": [
+            {
+              "uuid": "2c8fc828-faae-46db-8af2-180251723670",
+              "title": "   Бізнес ланч 1                                                     ",
+              "itemDescription": "Салат зі маринованої  макрелі та овочами, Курячий бульйон з фрикадельками,  Бургер \"Італьяно\" з картоплею по-домашньому, чіабата.",
+              "price": 22000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "b0b7c35e-683f-44f3-a91e-b367b06fac3f",
+              "title": "Бізнес ланч 2",
+              "itemDescription": "Салат з грильованим курчам та овочами, Кабачковий суп пюре,\nФіле яловичини з тушкованими овочами\n, чіабата.",
+              "price": 22000,
+              "nutritionalInfo": {}
+            }
+          ]
+        }
+      ]
+    },
+    "eea54422-be0a-4f79-8913-06d6afc79ff3": {
+      "itemsMap": {
+        "e443f561-6f5b-4792-9d42-7b87b37cfd3e": {
+          "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
+          "title": "Alpina",
+          "itemDescription": "Mozzarella, caciocavallo, bacon, smoked ricotta and mushrooms (530g).",
+          "price": 24500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/557bc507-240a-4b6d-ae46-b85a7d52606b",
+          "nutritionalInfo": {}
+        },
+        "e5e4380a-8a20-4504-b5d1-322a685be147": {
+          "uuid": "e5e4380a-8a20-4504-b5d1-322a685be147",
+          "title": "Spaghetti carbonara",
+          "itemDescription": "",
+          "price": 18500,
+          "nutritionalInfo": {}
+        },
+        "30983f85-77c5-4243-a817-633a3c20252d": {
+          "uuid": "30983f85-77c5-4243-a817-633a3c20252d",
+          "title": "Salad with shrims, avocado and quinoa",
+          "itemDescription": "",
+          "price": 25000,
+          "nutritionalInfo": {}
+        },
+        "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87": {
+          "uuid": "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
+          "title": "Tagliatelle with chanterelles mushrooms and rabbit",
+          "itemDescription": "",
+          "price": 23000,
+          "nutritionalInfo": {}
+        },
+        "5d7e8a93-2ccd-41d5-a833-c318e2df604e": {
+          "uuid": "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
+          "title": "Pizza Prosciutto with mushrooms",
+          "itemDescription": "Tomato sauce, ham, champignons, and mozzarella cheese (500g).",
+          "price": 21000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2be67bf8-2dcf-40d6-af8a-483f6ab0b68f"
+        },
+        "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114": {
+          "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
+          "title": "Pizza with prawns, and spinach",
+          "itemDescription": "Ricotta, cream, prawns, and spinach (560g).",
+          "price": 29000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/56059da0-40bb-4987-8662-41305238608b"
+        },
+        "752ef292-9653-4f4c-8ffc-7053f56e594b": {
+          "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
+          "title": "Tiramisu ",
+          "itemDescription": "",
+          "price": 13000,
+          "nutritionalInfo": {}
+        },
+        "130f3ea8-fec2-402e-b19d-ac33e772d5f0": {
+          "uuid": "130f3ea8-fec2-402e-b19d-ac33e772d5f0",
+          "title": "Homemade Italian bread with grissini",
+          "itemDescription": "120 g",
+          "price": 6500,
+          "nutritionalInfo": {}
+        },
+        "13dd15db-6b8e-4c86-adec-9dd83765d1c4": {
+          "uuid": "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
+          "title": "Pappardelle with shrimps with cream truffle sauce",
+          "itemDescription": "",
+          "price": 26000,
+          "nutritionalInfo": {}
+        },
+        "c1776c66-82ae-4607-83ca-0badf11ed9ea": {
+          "uuid": "c1776c66-82ae-4607-83ca-0badf11ed9ea",
+          "title": "Focaccia pesto, and parmesan",
+          "itemDescription": "Traditional Italian bread with pesto, and Parmesan (240g).",
+          "price": 18300,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ca2ba05-be51-40c2-a1e1-56a3d8b775ee"
+        },
+        "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff": {
+          "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
+          "title": "Business Lunch 2",
+          "itemDescription": "Salad with mackerel fish and vegetables, chicken broth with meatballs, chicken fillet with muschroom souce, ciabatta.",
+          "price": 22000,
+          "nutritionalInfo": {}
+        },
+        "496aac2b-5189-4d3d-bcbc-80589363fb43": {
+          "uuid": "496aac2b-5189-4d3d-bcbc-80589363fb43",
+          "title": "Home-made lemonade",
+          "itemDescription": "250ml.",
+          "price": 6500,
+          "nutritionalInfo": {},
+          "customizationUuids": [
+            "295e58c1-6e82-4491-99f9-54a89c8843aa"
+          ]
+        },
+        "0dd24c03-2cfb-479a-b90d-11d949bff9c5": {
+          "uuid": "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
+          "title": "Pear & Gorgonzola pizza",
+          "itemDescription": "Cream, mozzarella, gorgonzola and pear (550g).",
+          "price": 25500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d3982f0-74aa-444d-9d80-d6579dc9c894",
+          "nutritionalInfo": {}
+        },
+        "bf399e1a-2070-4033-8042-1d2030ceb9d2": {
+          "uuid": "bf399e1a-2070-4033-8042-1d2030ceb9d2",
+          "title": "Risotto with white mushrooms and parmesan cheese",
+          "itemDescription": "",
+          "price": 18900,
+          "nutritionalInfo": {}
+        },
+        "cee66d2f-26ee-4920-bb05-01ccc745b077": {
+          "uuid": "cee66d2f-26ee-4920-bb05-01ccc745b077",
+          "title": "Pizza Diablo",
+          "itemDescription": "Tomato sauce, mozzarella cheese, and spicy salami (450g).",
+          "price": 22000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6731e385-6b09-4227-b32f-64dbef0aa6fb"
+        },
+        "f7098dff-5970-434e-8c39-9495e761faa6": {
+          "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
+          "title": "Napoleon cake",
+          "itemDescription": "",
+          "price": 11000,
+          "nutritionalInfo": {}
+        },
+        "3fb272e8-5533-4a76-8a27-fd32e7126313": {
+          "uuid": "3fb272e8-5533-4a76-8a27-fd32e7126313",
+          "title": "Pizza Al Faro",
+          "itemDescription": "Mozzarella, tomato sauce, arugula, bresaola, cherry tomatoes, truffle oil, and parmesan cheese (600g).",
+          "price": 32000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c88e1ef5-f5f0-4bf5-88ce-f6a5a3c1c213"
+        },
+        "8141fbfd-5e57-49dc-85cf-691bd5d4efc7": {
+          "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
+          "title": "Pear & Apple Strudel",
+          "itemDescription": "",
+          "price": 12000,
+          "nutritionalInfo": {}
+        },
+        "031294b5-3566-4013-9f8a-08fab35701a3": {
+          "uuid": "031294b5-3566-4013-9f8a-08fab35701a3",
+          "title": "Lasagna with salmon, spinach and bechamel sauce",
+          "itemDescription": "",
+          "price": 25900,
+          "nutritionalInfo": {}
+        },
+        "d4d4c8d6-0a45-4018-9451-e39aaadf0821": {
+          "uuid": "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
+          "title": "Muscular sphere with salted caramel",
+          "itemDescription": "",
+          "price": 13000,
+          "nutritionalInfo": {}
+        },
+        "f08896a9-35c6-4b0e-ab74-d632b351af26": {
+          "uuid": "f08896a9-35c6-4b0e-ab74-d632b351af26",
+          "title": "Pizza Four cheese",
+          "itemDescription": "Mozzarella, ricotta, gorgonzola, caciocavallo, and сream (460g).",
+          "price": 24500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa14db6f-36f0-4961-bce6-ff76c3913365"
+        },
+        "4be7c573-8abd-424c-8ea0-805c72cc41b4": {
+          "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
+          "title": "Lasagna",
+          "itemDescription": "",
+          "price": 18500,
+          "nutritionalInfo": {}
+        },
+        "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb": {
+          "uuid": "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
+          "title": "Salad with duck, caramelized pear and berry sauce",
+          "itemDescription": "",
+          "price": 21500,
+          "nutritionalInfo": {}
+        },
+        "addafc80-f803-49cc-a08a-b7c8a0ffd9ec": {
+          "uuid": "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
+          "title": "Salad with salmon and goat cheese",
+          "itemDescription": "",
+          "price": 23500,
+          "nutritionalInfo": {}
+        },
+        "ca9d57fe-da10-4d01-a74b-911c7f59e39f": {
+          "uuid": "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
+          "title": "Pizza Prosciutto crudo",
+          "itemDescription": "Ricotta, parmesan, mozzarella, and prosciutto crudo (460g).",
+          "price": 23500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c261fcaa-3985-4b14-85fc-61694118f855"
+        },
+        "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de": {
+          "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
+          "title": "Pizza with wild mushrooms, and Italian cheese",
+          "itemDescription": "Porcini mushrooms, chanterelles, champignons, caciocavallo, mozzarella, and truffle oil (450g).",
+          "price": 29500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/245194f9-5855-4b02-8f44-16f9d1713b26"
+        },
+        "7e4198fe-d5c7-4365-a287-32582366cdb9": {
+          "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
+          "title": "Caprese salad",
+          "itemDescription": "mozzarella, tomatoes and basil",
+          "price": 17500,
+          "nutritionalInfo": {}
+        },
+        "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf": {
+          "uuid": "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
+          "title": "Business Lunch 1",
+          "itemDescription": "Salad with grilled chicken and vegetables, cream of pumpkin soup, polpette beef and potatoes with delicate ricotta, ciabatta.",
+          "price": 22000,
+          "nutritionalInfo": {}
+        },
+        "b1b092a4-70b5-4c1a-a96f-598e70b09b30": {
+          "uuid": "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
+          "title": "Cesarone salad",
+          "itemDescription": "chicken fillet, grilled shrimps, cherry tomatoes served in a crispy focaccia with cerasone sauce",
+          "price": 25500,
+          "nutritionalInfo": {}
+        },
+        "873d458d-64b5-47ba-8b0f-e1c8e4bae061": {
+          "uuid": "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
+          "title": "Ravioli pasta with wild mushrooms and truffles",
+          "itemDescription": "",
+          "price": 21900,
+          "nutritionalInfo": {}
+        },
+        "6f04f56b-6b97-4773-a0f7-cb967f5f98ac": {
+          "uuid": "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
+          "title": "Cannoli: crispy pastries with chocolate and vanilla cream ",
+          "itemDescription": "",
+          "price": 13500,
+          "nutritionalInfo": {}
+        },
+        "d0ee2fb4-acd0-4166-b718-09a9305beb22": {
+          "uuid": "d0ee2fb4-acd0-4166-b718-09a9305beb22",
+          "title": "Cheesecake",
+          "itemDescription": "",
+          "price": 13500,
+          "nutritionalInfo": {}
+        },
+        "c39a5b35-63d6-4064-9d1b-2067c2070c30": {
+          "uuid": "c39a5b35-63d6-4064-9d1b-2067c2070c30",
+          "title": "Warm salad with beef and baked vegetables",
+          "itemDescription": "",
+          "price": 26500,
+          "nutritionalInfo": {}
+        },
+        "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a": {
+          "uuid": "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
+          "title": "Pizza Margarita",
+          "itemDescription": "Tomato sauce, mozzarella, and basil (450g).",
+          "price": 15500,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c063795-2b74-42b9-b9be-8c986b3c231f"
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "7abd8d1e-afa7-4095-9ac9-7a459e3b697e",
+          "title": "Pizza, and bread",
+          "itemUuids": [
+            "c1776c66-82ae-4607-83ca-0badf11ed9ea",
+            "3fb272e8-5533-4a76-8a27-fd32e7126313",
+            "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
+            "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
+            "cee66d2f-26ee-4920-bb05-01ccc745b077",
+            "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
+            "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
+            "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
+            "f08896a9-35c6-4b0e-ab74-d632b351af26",
+            "496aac2b-5189-4d3d-bcbc-80589363fb43",
+            "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
+            "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
+            "130f3ea8-fec2-402e-b19d-ac33e772d5f0"
+          ],
+          "displayItems": [
+            {
+              "uuid": "c1776c66-82ae-4607-83ca-0badf11ed9ea",
+              "title": "Focaccia pesto, and parmesan",
+              "itemDescription": "Traditional Italian bread with pesto, and Parmesan (240g).",
+              "price": 18300,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ca2ba05-be51-40c2-a1e1-56a3d8b775ee"
+            },
+            {
+              "uuid": "3fb272e8-5533-4a76-8a27-fd32e7126313",
+              "title": "Pizza Al Faro",
+              "itemDescription": "Mozzarella, tomato sauce, arugula, bresaola, cherry tomatoes, truffle oil, and parmesan cheese (600g).",
+              "price": 32000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c88e1ef5-f5f0-4bf5-88ce-f6a5a3c1c213"
+            },
+            {
+              "uuid": "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
+              "title": "Pizza Margarita",
+              "itemDescription": "Tomato sauce, mozzarella, and basil (450g).",
+              "price": 15500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c063795-2b74-42b9-b9be-8c986b3c231f"
+            },
+            {
+              "uuid": "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
+              "title": "Pizza Prosciutto with mushrooms",
+              "itemDescription": "Tomato sauce, ham, champignons, and mozzarella cheese (500g).",
+              "price": 21000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2be67bf8-2dcf-40d6-af8a-483f6ab0b68f"
+            },
+            {
+              "uuid": "cee66d2f-26ee-4920-bb05-01ccc745b077",
+              "title": "Pizza Diablo",
+              "itemDescription": "Tomato sauce, mozzarella cheese, and spicy salami (450g).",
+              "price": 22000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6731e385-6b09-4227-b32f-64dbef0aa6fb"
+            },
+            {
+              "uuid": "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
+              "title": "Pizza Prosciutto crudo",
+              "itemDescription": "Ricotta, parmesan, mozzarella, and prosciutto crudo (460g).",
+              "price": 23500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c261fcaa-3985-4b14-85fc-61694118f855"
+            },
+            {
+              "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
+              "title": "Pizza with wild mushrooms, and Italian cheese",
+              "itemDescription": "Porcini mushrooms, chanterelles, champignons, caciocavallo, mozzarella, and truffle oil (450g).",
+              "price": 29500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/245194f9-5855-4b02-8f44-16f9d1713b26"
+            },
+            {
+              "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
+              "title": "Pizza with prawns, and spinach",
+              "itemDescription": "Ricotta, cream, prawns, and spinach (560g).",
+              "price": 29000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/56059da0-40bb-4987-8662-41305238608b"
+            },
+            {
+              "uuid": "f08896a9-35c6-4b0e-ab74-d632b351af26",
+              "title": "Pizza Four cheese",
+              "itemDescription": "Mozzarella, ricotta, gorgonzola, caciocavallo, and сream (460g).",
+              "price": 24500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa14db6f-36f0-4961-bce6-ff76c3913365"
+            },
+            {
+              "uuid": "496aac2b-5189-4d3d-bcbc-80589363fb43",
+              "title": "Home-made lemonade",
+              "itemDescription": "250ml.",
+              "price": 6500,
+              "nutritionalInfo": {},
+              "customizationUuids": [
+                "295e58c1-6e82-4491-99f9-54a89c8843aa"
+              ]
+            },
+            {
+              "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
+              "title": "Alpina",
+              "itemDescription": "Mozzarella, caciocavallo, bacon, smoked ricotta and mushrooms (530g).",
+              "price": 24500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/557bc507-240a-4b6d-ae46-b85a7d52606b",
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
+              "title": "Pear & Gorgonzola pizza",
+              "itemDescription": "Cream, mozzarella, gorgonzola and pear (550g).",
+              "price": 25500,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d3982f0-74aa-444d-9d80-d6579dc9c894",
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "130f3ea8-fec2-402e-b19d-ac33e772d5f0",
+              "title": "Homemade Italian bread with grissini",
+              "itemDescription": "120 g",
+              "price": 6500,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "3c91fe1e-6fe2-4115-9a18-d08da34b28de",
+          "title": "Business Lunch from 12:00 to 16:00",
+          "itemUuids": [
+            "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
+            "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff"
+          ],
+          "displayItems": [
+            {
+              "uuid": "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
+              "title": "Business Lunch 1",
+              "itemDescription": "Salad with grilled chicken and vegetables, cream of pumpkin soup, polpette beef and potatoes with delicate ricotta, ciabatta.",
+              "price": 22000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
+              "title": "Business Lunch 2",
+              "itemDescription": "Salad with mackerel fish and vegetables, chicken broth with meatballs, chicken fillet with muschroom souce, ciabatta.",
+              "price": 22000,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "9cdc787a-62cb-4413-84d7-168d2867bc38",
+          "title": "SALADS",
+          "itemUuids": [
+            "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
+            "30983f85-77c5-4243-a817-633a3c20252d",
+            "7e4198fe-d5c7-4365-a287-32582366cdb9",
+            "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
+            "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
+            "c39a5b35-63d6-4064-9d1b-2067c2070c30"
+          ],
+          "displayItems": [
+            {
+              "uuid": "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
+              "title": "Salad with salmon and goat cheese",
+              "itemDescription": "",
+              "price": 23500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "30983f85-77c5-4243-a817-633a3c20252d",
+              "title": "Salad with shrims, avocado and quinoa",
+              "itemDescription": "",
+              "price": 25000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
+              "title": "Caprese salad",
+              "itemDescription": "mozzarella, tomatoes and basil",
+              "price": 17500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
+              "title": "Cesarone salad",
+              "itemDescription": "chicken fillet, grilled shrimps, cherry tomatoes served in a crispy focaccia with cerasone sauce",
+              "price": 25500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
+              "title": "Salad with duck, caramelized pear and berry sauce",
+              "itemDescription": "",
+              "price": 21500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "c39a5b35-63d6-4064-9d1b-2067c2070c30",
+              "title": "Warm salad with beef and baked vegetables",
+              "itemDescription": "",
+              "price": 26500,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "07480d19-e642-4b7d-8be7-ad0527856dc1",
+          "title": "PASTA / RISOTTO",
+          "itemUuids": [
+            "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
+            "e5e4380a-8a20-4504-b5d1-322a685be147",
+            "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
+            "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
+            "4be7c573-8abd-424c-8ea0-805c72cc41b4",
+            "031294b5-3566-4013-9f8a-08fab35701a3",
+            "bf399e1a-2070-4033-8042-1d2030ceb9d2"
+          ],
+          "displayItems": [
+            {
+              "uuid": "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
+              "title": "Pappardelle with shrimps with cream truffle sauce",
+              "itemDescription": "",
+              "price": 26000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "e5e4380a-8a20-4504-b5d1-322a685be147",
+              "title": "Spaghetti carbonara",
+              "itemDescription": "",
+              "price": 18500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
+              "title": "Tagliatelle with chanterelles mushrooms and rabbit",
+              "itemDescription": "",
+              "price": 23000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
+              "title": "Ravioli pasta with wild mushrooms and truffles",
+              "itemDescription": "",
+              "price": 21900,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
+              "title": "Lasagna",
+              "itemDescription": "",
+              "price": 18500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "031294b5-3566-4013-9f8a-08fab35701a3",
+              "title": "Lasagna with salmon, spinach and bechamel sauce",
+              "itemDescription": "",
+              "price": 25900,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "bf399e1a-2070-4033-8042-1d2030ceb9d2",
+              "title": "Risotto with white mushrooms and parmesan cheese",
+              "itemDescription": "",
+              "price": 18900,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "c99fcbde-56c3-47a9-bf11-82f8f747753b",
+          "title": "DESSERTS",
+          "itemUuids": [
+            "752ef292-9653-4f4c-8ffc-7053f56e594b",
+            "d0ee2fb4-acd0-4166-b718-09a9305beb22",
+            "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
+            "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
+            "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
+            "f7098dff-5970-434e-8c39-9495e761faa6"
+          ],
+          "displayItems": [
+            {
+              "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
+              "title": "Tiramisu ",
+              "itemDescription": "",
+              "price": 13000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "d0ee2fb4-acd0-4166-b718-09a9305beb22",
+              "title": "Cheesecake",
+              "itemDescription": "",
+              "price": 13500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
+              "title": "Pear & Apple Strudel",
+              "itemDescription": "",
+              "price": 12000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
+              "title": "Cannoli: crispy pastries with chocolate and vanilla cream ",
+              "itemDescription": "",
+              "price": 13500,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
+              "title": "Muscular sphere with salted caramel",
+              "itemDescription": "",
+              "price": 13000,
+              "nutritionalInfo": {}
+            },
+            {
+              "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
+              "title": "Napoleon cake",
+              "itemDescription": "",
+              "price": 11000,
+              "nutritionalInfo": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "subsectionsMap": {
+    "9cdc787a-62cb-4413-84d7-168d2867bc38": {
+      "uuid": "9cdc787a-62cb-4413-84d7-168d2867bc38",
+      "title": "SALADS",
+      "itemUuids": [
+        "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
+        "30983f85-77c5-4243-a817-633a3c20252d",
+        "7e4198fe-d5c7-4365-a287-32582366cdb9",
+        "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
+        "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
+        "c39a5b35-63d6-4064-9d1b-2067c2070c30"
+      ],
+      "displayItems": [
+        {
+          "uuid": "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "30983f85-77c5-4243-a817-633a3c20252d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c39a5b35-63d6-4064-9d1b-2067c2070c30",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "22912fc8-9b94-41ec-b844-f71faa0317ca": {
+      "uuid": "22912fc8-9b94-41ec-b844-f71faa0317ca",
+      "title": "Салати ",
+      "itemUuids": [
+        "6191819e-e50b-44f9-a5e9-71d111cb89a6",
+        "284ce114-6f46-4606-ac95-9e5ae679d307",
+        "460c2ef7-0df3-45b9-85a7-b4056b47283a",
+        "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
+        "24416d4a-60a1-4d12-a054-2f6e454fdf20",
+        "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0"
+      ],
+      "displayItems": [
+        {
+          "uuid": "6191819e-e50b-44f9-a5e9-71d111cb89a6",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "284ce114-6f46-4606-ac95-9e5ae679d307",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "460c2ef7-0df3-45b9-85a7-b4056b47283a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ea96cfbc-a49d-440d-80eb-0b02e4a40907",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "24416d4a-60a1-4d12-a054-2f6e454fdf20",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b89dd72b-0ed0-45e7-acd2-e2f5d82d70e0",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "4afea7a1-5b62-4f17-a626-148c460e02fa": {
+      "uuid": "4afea7a1-5b62-4f17-a626-148c460e02fa",
+      "title": "Піца/хліб/бургер",
+      "itemUuids": [
+        "d4ce6cd6-812f-492d-a38a-f612b1837b08",
+        "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
+        "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
+        "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
+        "59a87272-3bde-4cfa-b752-74d6068fe85a",
+        "a305641a-80aa-4890-b5e1-203065fc6156",
+        "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
+        "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
+        "cb88e7a3-aeeb-4646-b738-49642deb1d73",
+        "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
+        "892a4b13-f580-4f34-a0e1-89dd8765cd12",
+        "5672d248-da8e-463a-a581-75c4275a28c9",
+        "da4432ec-0401-43a5-b5b5-3d149e025121"
+      ],
+      "displayItems": [
+        {
+          "uuid": "d4ce6cd6-812f-492d-a38a-f612b1837b08",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "914200db-cdaf-4ff1-aace-ebd10b29dfa4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0fd61b18-1986-4428-b3c0-77a3a0d8897c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6ddf4953-21e8-4c02-807b-dbe4fdb94737",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "59a87272-3bde-4cfa-b752-74d6068fe85a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a305641a-80aa-4890-b5e1-203065fc6156",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0d3c9217-7419-4c2e-977c-cae9a0d77d87",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6ff5d181-c91d-4da2-87bf-2741284b3b1d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cb88e7a3-aeeb-4646-b738-49642deb1d73",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7aff83d4-0ec9-46ad-83ec-2e79cf8c7c1c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "892a4b13-f580-4f34-a0e1-89dd8765cd12",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5672d248-da8e-463a-a581-75c4275a28c9",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "da4432ec-0401-43a5-b5b5-3d149e025121",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c": {
+      "uuid": "c7f9c1bb-41bf-4136-9e41-9e02cb9af72c",
+      "title": "Десерти",
+      "itemUuids": [
+        "dd505f7d-6447-4547-a333-e2171ed1359c",
+        "647d3008-334a-4040-802c-b4022290bdc0",
+        "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
+        "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
+        "d95607a2-07d1-4fb4-b818-287ee46b65b5",
+        "2f0ca7db-0035-42f9-ab24-24e1127dfc76"
+      ],
+      "displayItems": [
+        {
+          "uuid": "dd505f7d-6447-4547-a333-e2171ed1359c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "647d3008-334a-4040-802c-b4022290bdc0",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1d9a0da7-2bbc-4351-bc06-a310f4c72660",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "36d1eaf7-d27e-41e6-8f53-a0927c38562a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d95607a2-07d1-4fb4-b818-287ee46b65b5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "2f0ca7db-0035-42f9-ab24-24e1127dfc76",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "c99fcbde-56c3-47a9-bf11-82f8f747753b": {
+      "uuid": "c99fcbde-56c3-47a9-bf11-82f8f747753b",
+      "title": "DESSERTS",
+      "itemUuids": [
+        "752ef292-9653-4f4c-8ffc-7053f56e594b",
+        "d0ee2fb4-acd0-4166-b718-09a9305beb22",
+        "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
+        "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
+        "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
+        "f7098dff-5970-434e-8c39-9495e761faa6"
+      ],
+      "displayItems": [
+        {
+          "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d0ee2fb4-acd0-4166-b718-09a9305beb22",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "07480d19-e642-4b7d-8be7-ad0527856dc1": {
+      "uuid": "07480d19-e642-4b7d-8be7-ad0527856dc1",
+      "title": "PASTA / RISOTTO",
+      "itemUuids": [
+        "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
+        "e5e4380a-8a20-4504-b5d1-322a685be147",
+        "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
+        "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
+        "4be7c573-8abd-424c-8ea0-805c72cc41b4",
+        "031294b5-3566-4013-9f8a-08fab35701a3",
+        "bf399e1a-2070-4033-8042-1d2030ceb9d2"
+      ],
+      "displayItems": [
+        {
+          "uuid": "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e5e4380a-8a20-4504-b5d1-322a685be147",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "031294b5-3566-4013-9f8a-08fab35701a3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "bf399e1a-2070-4033-8042-1d2030ceb9d2",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "d0294559-b593-486b-91b0-f4989d4617f1": {
+      "uuid": "d0294559-b593-486b-91b0-f4989d4617f1",
+      "title": "Безалкогольні напоії",
+      "itemUuids": [
+        "7874b625-f93f-4366-b551-d9346c690505",
+        "adfbc2a2-d424-40b4-8232-e75de15c15df",
+        "54a44134-1246-4e2d-b92a-2392e0080f74",
+        "21d1a21a-960a-4036-8f27-f93e74112a2f"
+      ],
+      "displayItems": [
+        {
+          "uuid": "7874b625-f93f-4366-b551-d9346c690505",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "adfbc2a2-d424-40b4-8232-e75de15c15df",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "54a44134-1246-4e2d-b92a-2392e0080f74",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "21d1a21a-960a-4036-8f27-f93e74112a2f",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "ebea07cf-55c3-4a0b-9710-14e8f7a128e7": {
+      "uuid": "ebea07cf-55c3-4a0b-9710-14e8f7a128e7",
+      "title": "ДОМАШНЯ ПАСТА ТА  РІЗОТО",
+      "itemUuids": [
+        "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
+        "411c093c-6205-49c2-8cbe-2621cd53c83b",
+        "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
+        "4e059223-4ff5-4ce6-9251-0c60e64afb96",
+        "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
+        "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
+        "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc"
+      ],
+      "displayItems": [
+        {
+          "uuid": "1d08d67e-4d8f-48fe-ab67-c0970f9626e0",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "411c093c-6205-49c2-8cbe-2621cd53c83b",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9572c5a7-04b1-46dd-bf06-58571d01dd4b",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4e059223-4ff5-4ce6-9251-0c60e64afb96",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9b94acaa-9f0e-4b4f-897b-46acba98b8a6",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ee194a85-d0b0-4aa6-9eca-3aa7396ebae7",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c60ec5fb-5da4-476f-a5d8-cad4dbfc44bc",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "3c91fe1e-6fe2-4115-9a18-d08da34b28de": {
+      "uuid": "3c91fe1e-6fe2-4115-9a18-d08da34b28de",
+      "title": "Business Lunch from 12:00 to 16:00",
+      "itemUuids": [
+        "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
+        "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff"
+      ],
+      "displayItems": [
+        {
+          "uuid": "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "d78f167a-602a-44bd-80ae-19d0e8817a92": {
+      "uuid": "d78f167a-602a-44bd-80ae-19d0e8817a92",
+      "title": "Бізнес ланч 12:00-16:00",
+      "itemUuids": [
+        "2c8fc828-faae-46db-8af2-180251723670",
+        "b0b7c35e-683f-44f3-a91e-b367b06fac3f"
+      ],
+      "displayItems": [
+        {
+          "uuid": "2c8fc828-faae-46db-8af2-180251723670",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b0b7c35e-683f-44f3-a91e-b367b06fac3f",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "7abd8d1e-afa7-4095-9ac9-7a459e3b697e": {
+      "uuid": "7abd8d1e-afa7-4095-9ac9-7a459e3b697e",
+      "title": "Pizza, and bread",
+      "itemUuids": [
+        "c1776c66-82ae-4607-83ca-0badf11ed9ea",
+        "3fb272e8-5533-4a76-8a27-fd32e7126313",
+        "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
+        "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
+        "cee66d2f-26ee-4920-bb05-01ccc745b077",
+        "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
+        "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
+        "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
+        "f08896a9-35c6-4b0e-ab74-d632b351af26",
+        "496aac2b-5189-4d3d-bcbc-80589363fb43",
+        "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
+        "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
+        "130f3ea8-fec2-402e-b19d-ac33e772d5f0"
+      ],
+      "displayItems": [
+        {
+          "uuid": "c1776c66-82ae-4607-83ca-0badf11ed9ea",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3fb272e8-5533-4a76-8a27-fd32e7126313",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cee66d2f-26ee-4920-bb05-01ccc745b077",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f08896a9-35c6-4b0e-ab74-d632b351af26",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "496aac2b-5189-4d3d-bcbc-80589363fb43",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "130f3ea8-fec2-402e-b19d-ac33e772d5f0",
+          "type": "ITEM"
+        }
+      ]
+    }
+  },
+  "location": {
+    "latitude": 50.4344514,
+    "longitude": 30.5164521,
+    "address": {
+      "address1": "Velyka Vasylkivska St, 49А",
+      "aptOrSuite": "",
+      "city": "Kyiv",
+      "country": "UA",
+      "postalCode": "02000",
+      "region": "",
+      "formattedAddress": "Velyka Vasylkivska St, 49а, Kyiv, 02000"
+    }
+  },
+  "publicContact": {
+    "publicPhoneNumber": "+380981143300"
+  },
+  "priceBucket": "₴₴",
+  "slug": "al-faro",
+  "isOrderable": true,
+  "disableCheckoutInstruction": false,
+  "supportedDiningModes": [
+    "DELIVERY"
+  ],
+  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
+  "heroImage": {
+    "items": [
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7",
+        "width": 2880,
+        "height": 2304
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/0ab6dc2f-0065-4988-a07f-cd700a938b65",
+        "width": 1080,
+        "height": 864
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/5750158e-2165-4cd4-b330-2ef592d39082",
+        "width": 750,
+        "height": 600
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/93c70c20-bb67-4aa2-88cf-ef15d2a12b26",
+        "width": 640,
+        "height": 512
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
+        "width": 550,
+        "height": 440
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/6b542e39-f9c6-4f33-a97d-641540f0e95a",
+        "width": 240,
+        "height": 192
+      }
+    ]
+  },
+  "closedEtaMessage": "Currently unavailable",
+  "notOrderableMessage": "Currently unavailable",
+  "storeBadges": {
+    "disclaimerBadge": {
+      "textFormat": ""
+    },
+    "ratingBadge": {
+      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(119)</span></span>",
+      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 119 reviews."
+    },
+    "taglineBadge": {
+      "textFormat": "<span>₴₴ • Italian • European • Pizza</span>"
+    },
+    "etaBadge": {
+      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+      "text": "25–35 MINS",
+      "textFormat": "<span>25–35 MINS</span>",
+      "accessibilityText": "Delivered in 25 to 35 MINS"
+    }
+  },
+  "etaRange": {
+    "min": 25,
+    "max": 35,
+    "raw": 30
+  },
+  "fareInfo": {
+    "serviceFee": 30
+  },
+  "eaterFields": {},
+  "meta": {
+    "sectionHoursInfo": [
+      {
+        "dayRange": "Every day",
+        "sectionHours": [
+          {
+            "startTime": 660,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 660,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      }
+    ]
+  },
+  "nuggets": [],
+  "displayConfig": {
+    "regionalDisplayType": "DEFAULT"
+  },
+  "enabledFulfillmentTypes": [
+    "DELIVERY"
+  ],
+  "citySlug": "kyiv",
+  "cityName": "Kyiv",
+  "currencyCode": "UAH",
+  "currencyNumDigitsAfterDecimal": 2
 }

@@ -1,2055 +1,2053 @@
 {
-    "store": {
-        "uuid": "5b8e0d3e-dad5-45ce-aefb-5d418c68c826",
-        "title": "Остання Барикада",
-        "regionId": 943,
-        "categories": [
-            {
-                "uuid": "Ukrainian",
-                "name": "Українська",
-                "keyName": "Ukrainian"
-            },
-            {
-                "uuid": "European",
-                "name": "Європейська",
-                "keyName": "European"
-            },
-            {
-                "uuid": "Seafood",
-                "name": "Морепродукти",
-                "keyName": "Seafood"
-            }
-        ],
-        "sections": [
-            {
-                "uuid": "4235baf7-c462-4a9d-8f6d-35b32b6fd7f6",
-                "title": "SWITCH LANGUAGE (UKR)",
-                "subtitle": "10:00 AM – 10:00 PM",
-                "isTop": true,
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "67086c4b-234f-47f3-8ba5-8b60e78708e9",
-                    "6ca74af5-a300-465a-b2d2-c6d4e49d3b88",
-                    "a928f4b6-4583-44fa-aa8c-92179322c7cb",
-                    "fd6d22cd-7635-4de4-9100-589f62c59785",
-                    "bfef5454-3970-4dc2-9e1e-2279e6752612",
-                    "dda025f4-5e46-4dff-9824-8f3b42eb8753",
-                    "78b23c3a-3952-4065-b4e1-e90ae01ed5ee",
-                    "35082391-53e6-45c8-a75e-fb8678f80d09",
-                    "694e5d4b-d51d-4404-85e9-6284f4fbeabf",
-                    "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4",
-                    "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea"
-                ]
-            },
-            {
-                "uuid": "285c08c5-57c1-4bcc-a78a-a5bd046082c7",
-                "title": "SWITCH LANGUAGE (ENG)",
-                "subtitle": "10:00 AM – 10:00 PM",
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "9e2e7193-c86c-4d9e-847a-52648d377cc2",
-                    "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
-                    "517da1b0-7280-4212-b6a6-f70f381ccf93",
-                    "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
-                    "7073690f-2109-4da5-b397-0c64658beb0e",
-                    "27afcc8e-dd00-4454-b763-d241373383eb",
-                    "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
-                    "5e560ec2-ad5f-4a84-8123-350b746a82dc",
-                    "d6c20943-91eb-45c8-8308-3aad6f3e9360",
-                    "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02"
-                ]
-            }
-        ],
-        "sectionEntitiesMap": {
-            "4235baf7-c462-4a9d-8f6d-35b32b6fd7f6": {
-                "itemsMap": {
-                    "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75": {
-                        "uuid": "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
-                        "title": "Кров'янка смажена",
-                        "itemDescription": "120/100г.",
-                        "price": 9900
-                    },
-                    "445c939b-810b-4713-8243-bed2fbc5cf22": {
-                        "uuid": "445c939b-810b-4713-8243-bed2fbc5cf22",
-                        "title": "Бургер із мармурової яловичини",
-                        "itemDescription": "300г.",
-                        "price": 13800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a6ba46e-52b6-48f1-b75a-97938875609d"
-                    },
-                    "a77d436a-6b5a-40be-8dfc-598f085eec85": {
-                        "uuid": "a77d436a-6b5a-40be-8dfc-598f085eec85",
-                        "title": "Кров'янка",
-                        "itemDescription": "50г.",
-                        "price": 4900
-                    },
-                    "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6": {
-                        "uuid": "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6",
-                        "title": "М'ясний сет: сало, бекон, солонина, кров'янка",
-                        "itemDescription": "200/60г.",
-                        "price": 14900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f0baa51-da28-4eb8-82fb-decc475543a8"
-                    },
-                    "609ef67c-b206-4732-b2a6-b6f1bf86e83f": {
-                        "uuid": "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
-                        "title": "Сало солоне",
-                        "itemDescription": "50г.",
-                        "price": 4900
-                    },
-                    "e5edfbd0-4b2a-4582-b315-729898153fbd": {
-                        "uuid": "e5edfbd0-4b2a-4582-b315-729898153fbd",
-                        "title": "Салат з в`яленими, копченими та свіжимитоматами та хлібом",
-                        "itemDescription": "250г.",
-                        "price": 9800
-                    },
-                    "0aeb6176-ee80-485d-bbd9-3d46a4801d0f": {
-                        "uuid": "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
-                        "title": "Бекон",
-                        "itemDescription": "50г.",
-                        "price": 4900
-                    },
-                    "f6c94f1d-47f1-4811-a8ea-8b053a60593a": {
-                        "uuid": "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
-                        "title": "Копчена ципа",
-                        "itemDescription": "360г.",
-                        "price": 12800
-                    },
-                    "17e89ae2-fb20-4268-9d76-e332de935b02": {
-                        "uuid": "17e89ae2-fb20-4268-9d76-e332de935b02",
-                        "title": "Гусяча ніжка з печеним яблуком",
-                        "itemDescription": "220г",
-                        "price": 19800,
-                        "nutritionalInfo": {}
-                    },
-                    "5dfee693-1d5a-4689-b10f-9cfff1c48df6": {
-                        "uuid": "5dfee693-1d5a-4689-b10f-9cfff1c48df6",
-                        "title": "Стерлядь",
-                        "itemDescription": "500г.",
-                        "price": 38900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0652bb6e-738c-4e89-bc83-dedf3dc1e7be",
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "74a2bbe5-726c-4678-927b-88fe67ab93ba": {
-                        "uuid": "74a2bbe5-726c-4678-927b-88fe67ab93ba",
-                        "title": "Молода картопля з кропом",
-                        "itemDescription": "150г.",
-                        "price": 4900
-                    },
-                    "9709194d-84e4-49f5-9dbe-75259613fefe": {
-                        "uuid": "9709194d-84e4-49f5-9dbe-75259613fefe",
-                        "title": "Оселедець з картоплею",
-                        "itemDescription": "100/80/30г.",
-                        "price": 9800
-                    },
-                    "c40f7892-2f87-4c74-901d-be47f5f6d15b": {
-                        "uuid": "c40f7892-2f87-4c74-901d-be47f5f6d15b",
-                        "title": "Зелений борщ",
-                        "itemDescription": "300г",
-                        "price": 7900,
-                        "nutritionalInfo": {}
-                    },
-                    "007be10f-dc79-4435-bd66-04b2d121ce37": {
-                        "uuid": "007be10f-dc79-4435-bd66-04b2d121ce37",
-                        "title": "Тюлька слабосолена з канапками",
-                        "itemDescription": "90/100/30г.",
-                        "price": 6900
-                    },
-                    "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d": {
-                        "uuid": "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d",
-                        "title": "Філе міньйон",
-                        "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (150г).",
-                        "price": 29900,
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "6210dcca-9681-4a1f-b727-72ea7c93f1e8": {
-                        "uuid": "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
-                        "title": "Томлене козеня",
-                        "itemDescription": "300г.",
-                        "price": 19900,
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "0395f556-5675-4040-b5fa-39a83d669917": {
-                        "uuid": "0395f556-5675-4040-b5fa-39a83d669917",
-                        "title": "Бульйон курячий зі шпинатом та редискою",
-                        "itemDescription": "250г.",
-                        "price": 6900
-                    },
-                    "e3520831-b759-4da5-aa0e-fd0cfafbc701": {
-                        "uuid": "e3520831-b759-4da5-aa0e-fd0cfafbc701",
-                        "title": "Українська моцарела з томатами",
-                        "itemDescription": "180г.",
-                        "price": 9800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a383564e-fc93-4a34-8dcc-bb540c53869a"
-                    },
-                    "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25": {
-                        "uuid": "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25",
-                        "title": "Овочевий салат з копченою яловичиною",
-                        "itemDescription": "200г",
-                        "price": 9800
-                    },
-                    "acb22565-7cb0-48b1-9157-23c477df859d": {
-                        "uuid": "acb22565-7cb0-48b1-9157-23c477df859d",
-                        "title": "Філе сома",
-                        "itemDescription": "300г.",
-                        "price": 19800,
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "1492064e-f553-485f-a080-0920b02557ba": {
-                        "uuid": "1492064e-f553-485f-a080-0920b02557ba",
-                        "title": "Річкова форель з овочами",
-                        "itemDescription": "300г",
-                        "price": 19900,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "63d42167-6ab5-4238-bba5-bc7052243d79": {
-                        "uuid": "63d42167-6ab5-4238-bba5-bc7052243d79",
-                        "title": "Салат зі шпинатом та копченою ципою",
-                        "itemDescription": "150г.",
-                        "price": 9800
-                    },
-                    "8b6a85b9-7328-4f55-b6a6-0d62fefc53de": {
-                        "uuid": "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
-                        "title": "Паштет з української фуа-гра",
-                        "itemDescription": "100/30г.",
-                        "price": 14800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/35899531-a9f3-443c-b26e-0f3d62b3141c"
-                    },
-                    "4ab49d94-5242-474b-a1e2-2c73ab6c9837": {
-                        "uuid": "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
-                        "title": "Солонина (пастрамі)",
-                        "itemDescription": "50г.",
-                        "price": 4900
-                    },
-                    "09557c0f-14e0-4e2b-85af-2f40fb5bad8c": {
-                        "uuid": "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
-                        "title": "Овочі з горіховим кремом",
-                        "itemDescription": "80/220г.",
-                        "price": 7900
-                    },
-                    "bb1d2053-746c-46ec-b01c-f92ed4908c42": {
-                        "uuid": "bb1d2053-746c-46ec-b01c-f92ed4908c42",
-                        "title": "Хліб",
-                        "itemDescription": "100г.",
-                        "price": 1900
-                    },
-                    "75556789-8cb6-4214-9ebf-1b8b272aca5e": {
-                        "uuid": "75556789-8cb6-4214-9ebf-1b8b272aca5e",
-                        "title": "Червоний борщ",
-                        "itemDescription": "300г.",
-                        "price": 6900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/7767729d-d92d-43e1-b5ac-7c1581e0970f"
-                    },
-                    "43cdb1b3-46fd-4bc9-a724-255095e9f8cd": {
-                        "uuid": "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
-                        "title": "Ципа з медом",
-                        "itemDescription": "250г.",
-                        "price": 14800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/3284d7ba-314c-40e2-b419-d705ffd5ffd4",
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "eca414ca-21f3-402d-b76a-c57262d4d606": {
-                        "uuid": "eca414ca-21f3-402d-b76a-c57262d4d606",
-                        "title": "Ковбаса домашня",
-                        "itemDescription": "50г.",
-                        "price": 4900
-                    },
-                    "5c919ca4-747b-4961-b227-105b06c4e635": {
-                        "uuid": "5c919ca4-747b-4961-b227-105b06c4e635",
-                        "title": "Малосоли та квашення",
-                        "itemDescription": "300г.",
-                        "price": 8900
-                    },
-                    "c9fc96be-b463-4cea-809b-a16e8aa42811": {
-                        "uuid": "c9fc96be-b463-4cea-809b-a16e8aa42811",
-                        "title": "Бургер зі рваною свининою",
-                        "itemDescription": "300г.",
-                        "price": 12800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a778853-a1a1-42e1-8299-c1ac82919175"
-                    },
-                    "f91d384a-34c2-43b3-a266-9523e99e1d9b": {
-                        "uuid": "f91d384a-34c2-43b3-a266-9523e99e1d9b",
-                        "title": "Домашня смажена ковбаса",
-                        "itemDescription": "150/100г.",
-                        "price": 9900
-                    },
-                    "6c6b9018-7ff4-4643-bc30-c35e6dce3f94": {
-                        "uuid": "6c6b9018-7ff4-4643-bc30-c35e6dce3f94",
-                        "title": "Чізкейк",
-                        "itemDescription": "120г.",
-                        "price": 8900
-                    },
-                    "0189df2e-1b3e-44b3-b8dc-2e71f4591112": {
-                        "uuid": "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
-                        "title": "Київський торт",
-                        "itemDescription": "120г.",
-                        "price": 8900
-                    },
-                    "a14e48c4-fb04-4ac7-8ef8-358cdf843441": {
-                        "uuid": "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
-                        "title": "Стейк рібай",
-                        "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (250г).",
-                        "price": 34900,
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "85e00244-e998-4157-8b71-19db9f877902": {
-                        "uuid": "85e00244-e998-4157-8b71-19db9f877902",
-                        "title": "Українська фуа-гра",
-                        "itemDescription": "100/50г.",
-                        "price": 19900
-                    },
-                    "df37ed10-57ea-4d3e-85cc-ca938f3563e5": {
-                        "uuid": "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
-                        "title": "Медовик",
-                        "itemDescription": "120г.",
-                        "price": 8900
-                    },
-                    "99319f98-1ee7-42fa-b495-f70c93a19483": {
-                        "uuid": "99319f98-1ee7-42fa-b495-f70c93a19483",
-                        "title": "Сендвіч з пастрамі",
-                        "itemDescription": "300г.",
-                        "price": 13800
-                    },
-                    "eee26493-2af1-4564-8335-fb11c0b093da": {
-                        "uuid": "eee26493-2af1-4564-8335-fb11c0b093da",
-                        "title": "New potatoes with dill",
-                        "itemDescription": "150g",
-                        "price": 4900,
-                        "nutritionalInfo": {}
-                    },
-                    "0a4c7cbf-b9fb-4351-a826-4387e1de2090": {
-                        "uuid": "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
-                        "title": "Chicken Kyiv",
-                        "itemDescription": "250г.",
-                        "price": 13800,
-                        "suspendUntil": 1559509199,
-                        "customizationUuids": [
-                            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                        ]
-                    },
-                    "0216e88b-2ed4-45cf-9a6d-dbd0297c9624": {
-                        "uuid": "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
-                        "title": "Форшмак",
-                        "itemDescription": "120г.",
-                        "price": 9900
-                    },
-                    "8f7c2988-6326-45d8-bb29-fa05ea1e8728": {
-                        "uuid": "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
-                        "title": "Спаржа",
-                        "itemDescription": "80г",
-                        "price": 4900
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "67086c4b-234f-47f3-8ba5-8b60e78708e9",
-                        "title": "Холодні закуски",
-                        "itemUuids": [
-                            "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
-                            "5c919ca4-747b-4961-b227-105b06c4e635",
-                            "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
-                            "007be10f-dc79-4435-bd66-04b2d121ce37",
-                            "9709194d-84e4-49f5-9dbe-75259613fefe",
-                            "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
-                            "bb1d2053-746c-46ec-b01c-f92ed4908c42"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
-                                "title": "Овочі з горіховим кремом",
-                                "itemDescription": "80/220г.",
-                                "price": 7900
-                            },
-                            {
-                                "uuid": "5c919ca4-747b-4961-b227-105b06c4e635",
-                                "title": "Малосоли та квашення",
-                                "itemDescription": "300г.",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
-                                "title": "Форшмак",
-                                "itemDescription": "120г.",
-                                "price": 9900
-                            },
-                            {
-                                "uuid": "007be10f-dc79-4435-bd66-04b2d121ce37",
-                                "title": "Тюлька слабосолена з канапками",
-                                "itemDescription": "90/100/30г.",
-                                "price": 6900
-                            },
-                            {
-                                "uuid": "9709194d-84e4-49f5-9dbe-75259613fefe",
-                                "title": "Оселедець з картоплею",
-                                "itemDescription": "100/80/30г.",
-                                "price": 9800
-                            },
-                            {
-                                "uuid": "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
-                                "title": "Паштет з української фуа-гра",
-                                "itemDescription": "100/30г.",
-                                "price": 14800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/35899531-a9f3-443c-b26e-0f3d62b3141c"
-                            },
-                            {
-                                "uuid": "bb1d2053-746c-46ec-b01c-f92ed4908c42",
-                                "title": "Хліб",
-                                "itemDescription": "100г.",
-                                "price": 1900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "6ca74af5-a300-465a-b2d2-c6d4e49d3b88",
-                        "title": "Гарячі закуски",
-                        "itemUuids": [
-                            "85e00244-e998-4157-8b71-19db9f877902",
-                            "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
-                            "f91d384a-34c2-43b3-a266-9523e99e1d9b"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "85e00244-e998-4157-8b71-19db9f877902",
-                                "title": "Українська фуа-гра",
-                                "itemDescription": "100/50г.",
-                                "price": 19900
-                            },
-                            {
-                                "uuid": "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
-                                "title": "Кров'янка смажена",
-                                "itemDescription": "120/100г.",
-                                "price": 9900
-                            },
-                            {
-                                "uuid": "f91d384a-34c2-43b3-a266-9523e99e1d9b",
-                                "title": "Домашня смажена ковбаса",
-                                "itemDescription": "150/100г.",
-                                "price": 9900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "a928f4b6-4583-44fa-aa8c-92179322c7cb",
-                        "title": "Салати",
-                        "itemUuids": [
-                            "63d42167-6ab5-4238-bba5-bc7052243d79",
-                            "e5edfbd0-4b2a-4582-b315-729898153fbd",
-                            "e3520831-b759-4da5-aa0e-fd0cfafbc701",
-                            "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "63d42167-6ab5-4238-bba5-bc7052243d79",
-                                "title": "Салат зі шпинатом та копченою ципою",
-                                "itemDescription": "150г.",
-                                "price": 9800
-                            },
-                            {
-                                "uuid": "e5edfbd0-4b2a-4582-b315-729898153fbd",
-                                "title": "Салат з в`яленими, копченими та свіжимитоматами та хлібом",
-                                "itemDescription": "250г.",
-                                "price": 9800
-                            },
-                            {
-                                "uuid": "e3520831-b759-4da5-aa0e-fd0cfafbc701",
-                                "title": "Українська моцарела з томатами",
-                                "itemDescription": "180г.",
-                                "price": 9800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a383564e-fc93-4a34-8dcc-bb540c53869a"
-                            },
-                            {
-                                "uuid": "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25",
-                                "title": "Овочевий салат з копченою яловичиною",
-                                "itemDescription": "200г",
-                                "price": 9800
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "fd6d22cd-7635-4de4-9100-589f62c59785",
-                        "title": "М'ясо, сало, ковбаса",
-                        "itemUuids": [
-                            "a77d436a-6b5a-40be-8dfc-598f085eec85",
-                            "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
-                            "eca414ca-21f3-402d-b76a-c57262d4d606",
-                            "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
-                            "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
-                            "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
-                            "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "a77d436a-6b5a-40be-8dfc-598f085eec85",
-                                "title": "Кров'янка",
-                                "itemDescription": "50г.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
-                                "title": "Копчена ципа",
-                                "itemDescription": "360г.",
-                                "price": 12800
-                            },
-                            {
-                                "uuid": "eca414ca-21f3-402d-b76a-c57262d4d606",
-                                "title": "Ковбаса домашня",
-                                "itemDescription": "50г.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
-                                "title": "Бекон",
-                                "itemDescription": "50г.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
-                                "title": "Солонина (пастрамі)",
-                                "itemDescription": "50г.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
-                                "title": "Сало солоне",
-                                "itemDescription": "50г.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6",
-                                "title": "М'ясний сет: сало, бекон, солонина, кров'янка",
-                                "itemDescription": "200/60г.",
-                                "price": 14900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f0baa51-da28-4eb8-82fb-decc475543a8"
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "bfef5454-3970-4dc2-9e1e-2279e6752612",
-                        "title": "М'ясо&хліб",
-                        "itemUuids": [
-                            "445c939b-810b-4713-8243-bed2fbc5cf22",
-                            "c9fc96be-b463-4cea-809b-a16e8aa42811",
-                            "99319f98-1ee7-42fa-b495-f70c93a19483"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "445c939b-810b-4713-8243-bed2fbc5cf22",
-                                "title": "Бургер із мармурової яловичини",
-                                "itemDescription": "300г.",
-                                "price": 13800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a6ba46e-52b6-48f1-b75a-97938875609d"
-                            },
-                            {
-                                "uuid": "c9fc96be-b463-4cea-809b-a16e8aa42811",
-                                "title": "Бургер зі рваною свининою",
-                                "itemDescription": "300г.",
-                                "price": 12800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a778853-a1a1-42e1-8299-c1ac82919175"
-                            },
-                            {
-                                "uuid": "99319f98-1ee7-42fa-b495-f70c93a19483",
-                                "title": "Сендвіч з пастрамі",
-                                "itemDescription": "300г.",
-                                "price": 13800
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "dda025f4-5e46-4dff-9824-8f3b42eb8753",
-                        "title": "Стейки",
-                        "itemUuids": [
-                            "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
-                            "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
-                                "title": "Стейк рібай",
-                                "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (250г).",
-                                "price": 34900,
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            },
-                            {
-                                "uuid": "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d",
-                                "title": "Філе міньйон",
-                                "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (150г).",
-                                "price": 29900,
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "78b23c3a-3952-4065-b4e1-e90ae01ed5ee",
-                        "title": "Основні страви",
-                        "itemUuids": [
-                            "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
-                            "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
-                            "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
-                            "17e89ae2-fb20-4268-9d76-e332de935b02"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
-                                "title": "Chicken Kyiv",
-                                "itemDescription": "250г.",
-                                "price": 13800,
-                                "suspendUntil": 1559509199,
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            },
-                            {
-                                "uuid": "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
-                                "title": "Ципа з медом",
-                                "itemDescription": "250г.",
-                                "price": 14800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/3284d7ba-314c-40e2-b419-d705ffd5ffd4",
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            },
-                            {
-                                "uuid": "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
-                                "title": "Томлене козеня",
-                                "itemDescription": "300г.",
-                                "price": 19900,
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            },
-                            {
-                                "uuid": "17e89ae2-fb20-4268-9d76-e332de935b02",
-                                "title": "Гусяча ніжка з печеним яблуком",
-                                "itemDescription": "220г",
-                                "price": 19800,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "35082391-53e6-45c8-a75e-fb8678f80d09",
-                        "title": "Риба",
-                        "itemUuids": [
-                            "1492064e-f553-485f-a080-0920b02557ba",
-                            "acb22565-7cb0-48b1-9157-23c477df859d",
-                            "5dfee693-1d5a-4689-b10f-9cfff1c48df6"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "1492064e-f553-485f-a080-0920b02557ba",
-                                "title": "Річкова форель з овочами",
-                                "itemDescription": "300г",
-                                "price": 19900,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            },
-                            {
-                                "uuid": "acb22565-7cb0-48b1-9157-23c477df859d",
-                                "title": "Філе сома",
-                                "itemDescription": "300г.",
-                                "price": 19800,
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            },
-                            {
-                                "uuid": "5dfee693-1d5a-4689-b10f-9cfff1c48df6",
-                                "title": "Стерлядь",
-                                "itemDescription": "500г.",
-                                "price": 38900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0652bb6e-738c-4e89-bc83-dedf3dc1e7be",
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "21ff4656-6ace-42d9-8f16-d216fd2b4572"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "694e5d4b-d51d-4404-85e9-6284f4fbeabf",
-                        "title": "Перші страви",
-                        "itemUuids": [
-                            "75556789-8cb6-4214-9ebf-1b8b272aca5e",
-                            "0395f556-5675-4040-b5fa-39a83d669917",
-                            "c40f7892-2f87-4c74-901d-be47f5f6d15b"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "75556789-8cb6-4214-9ebf-1b8b272aca5e",
-                                "title": "Червоний борщ",
-                                "itemDescription": "300г.",
-                                "price": 6900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/7767729d-d92d-43e1-b5ac-7c1581e0970f"
-                            },
-                            {
-                                "uuid": "0395f556-5675-4040-b5fa-39a83d669917",
-                                "title": "Бульйон курячий зі шпинатом та редискою",
-                                "itemDescription": "250г.",
-                                "price": 6900
-                            },
-                            {
-                                "uuid": "c40f7892-2f87-4c74-901d-be47f5f6d15b",
-                                "title": "Зелений борщ",
-                                "itemDescription": "300г",
-                                "price": 7900,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4",
-                        "title": "Гарніри",
-                        "itemUuids": [
-                            "74a2bbe5-726c-4678-927b-88fe67ab93ba",
-                            "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
-                            "eee26493-2af1-4564-8335-fb11c0b093da"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "74a2bbe5-726c-4678-927b-88fe67ab93ba",
-                                "title": "Молода картопля з кропом",
-                                "itemDescription": "150г.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
-                                "title": "Спаржа",
-                                "itemDescription": "80г",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "eee26493-2af1-4564-8335-fb11c0b093da",
-                                "title": "New potatoes with dill",
-                                "itemDescription": "150g",
-                                "price": 4900,
-                                "nutritionalInfo": {}
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea",
-                        "title": "Солодке",
-                        "itemUuids": [
-                            "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
-                            "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
-                            "6c6b9018-7ff4-4643-bc30-c35e6dce3f94"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
-                                "title": "Київський торт",
-                                "itemDescription": "120г.",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
-                                "title": "Медовик",
-                                "itemDescription": "120г.",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "6c6b9018-7ff4-4643-bc30-c35e6dce3f94",
-                                "title": "Чізкейк",
-                                "itemDescription": "120г.",
-                                "price": 8900
-                            }
-                        ]
-                    }
-                ]
-            },
-            "285c08c5-57c1-4bcc-a78a-a5bd046082c7": {
-                "itemsMap": {
-                    "7b7c3297-56b3-424e-9461-f82a3f4027f5": {
-                        "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
-                        "title": "Smoked chicken",
-                        "itemDescription": "360g.",
-                        "price": 12800
-                    },
-                    "bb341fc9-5bc9-4115-a49a-a13e17e7b908": {
-                        "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
-                        "title": "Foie gras pate",
-                        "itemDescription": "100/30g.",
-                        "price": 14800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c78939-67d4-4f76-a4e0-76244df2ca89"
-                    },
-                    "99efa044-cbac-4a8a-8b63-c343cd5cd1d1": {
-                        "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
-                        "title": "Chicken Kyiv",
-                        "itemDescription": "250g.",
-                        "price": 13800,
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "51331986-bea4-4ff0-be54-66670de07e62": {
-                        "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
-                        "title": "Cheesecake",
-                        "itemDescription": "120g.",
-                        "price": 8900
-                    },
-                    "e5b36668-5c4d-4776-a558-f7fab12ce461": {
-                        "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
-                        "title": "Vorschmack",
-                        "itemDescription": "120g.",
-                        "price": 9900
-                    },
-                    "3f0347a8-7ab9-4110-9311-7553d8f0ec3c": {
-                        "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
-                        "title": "Rib eye steak",
-                        "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (250g).",
-                        "price": 34900,
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "17b780ab-8d3a-43f8-9dda-2c7a638321ac": {
-                        "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
-                        "title": "Chicken noodle soup with spinach and radish",
-                        "itemDescription": "300g.",
-                        "price": 6900
-                    },
-                    "cc143339-2d74-4450-9ffb-837d6d989d5f": {
-                        "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
-                        "title": "Bacon",
-                        "itemDescription": "50g.",
-                        "price": 4900
-                    },
-                    "dfb7a256-6650-4b56-a3e4-0de742737e40": {
-                        "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
-                        "title": "Red borscht",
-                        "itemDescription": "300g.",
-                        "price": 6900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/10491552-9be3-4525-8828-01beeb9d3d75"
-                    },
-                    "311e2ccb-cf53-401a-99c0-60afba855e34": {
-                        "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
-                        "title": "Foie gras",
-                        "itemDescription": "100/50g.",
-                        "price": 19900
-                    },
-                    "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca": {
-                        "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
-                        "title": "Pastrami sandwich",
-                        "itemDescription": "300g.",
-                        "price": 13800
-                    },
-                    "c741224d-5c4a-4e13-8378-60566e79574a": {
-                        "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
-                        "title": "Bread",
-                        "itemDescription": "100g.",
-                        "price": 1900
-                    },
-                    "9fa7025b-cfe6-4e4d-a821-e40ebb853414": {
-                        "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
-                        "title": "Catfish fillet",
-                        "itemDescription": "300g.",
-                        "price": 19800,
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "951dad28-76e1-4acc-9bce-02a0ac0e9a25": {
-                        "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
-                        "title": "Honey cream pie",
-                        "itemDescription": "120g.",
-                        "price": 8900
-                    },
-                    "ec92e02f-e3a9-400a-92d3-98484eb14fdb": {
-                        "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
-                        "title": "Marbled beef burger",
-                        "itemDescription": "300g.",
-                        "price": 13800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5c29deb-fd84-4ae0-aa86-0eeebec81c74"
-                    },
-                    "f4c4c37a-9435-487e-a938-2b8737c6e195": {
-                        "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
-                        "title": "Black pudding",
-                        "itemDescription": "50g.",
-                        "price": 4900
-                    },
-                    "4b4fbf50-2b0b-4717-baef-6cc50d4262a8": {
-                        "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
-                        "title": "Black pudding",
-                        "itemDescription": "120/100g.",
-                        "price": 9900
-                    },
-                    "624107f0-9658-43a9-992c-dd8a7b75cb70": {
-                        "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
-                        "title": "River trout with vegetables",
-                        "itemDescription": "300g",
-                        "price": 19900,
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194": {
-                        "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
-                        "title": "Pulled pork burger",
-                        "itemDescription": "300g.",
-                        "price": 12800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/e99d71fe-2dd5-471a-bc92-6ec1c6307349"
-                    },
-                    "d6493732-49e0-4d25-9022-94172d6b596d": {
-                        "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
-                        "title": "Vegetables with nut cream",
-                        "itemDescription": "80/220g.",
-                        "price": 7900
-                    },
-                    "58ea0376-e5d7-46e7-af14-15b9fd1c2765": {
-                        "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
-                        "title": "Smoked beef salad",
-                        "itemDescription": "150g.",
-                        "price": 9800
-                    },
-                    "88e4b48e-b724-42fa-b211-5ca87a886157": {
-                        "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
-                        "title": "Pastrami",
-                        "itemDescription": "50g.",
-                        "price": 4900
-                    },
-                    "1b33e3ef-98bb-4777-bae6-a386056a766c": {
-                        "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
-                        "title": "Pickled and sour vegetables",
-                        "itemDescription": "300g.",
-                        "price": 8900
-                    },
-                    "34554ada-d493-4f43-92b1-0882c7bc1aa5": {
-                        "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
-                        "title": "Chicken with honey sauce",
-                        "itemDescription": "250g.",
-                        "price": 14800,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7625258-f2f1-4892-863b-dd16a1e513af",
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "e0dee223-3fc4-4c76-8120-f7376961e919": {
-                        "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
-                        "title": "Homemade fried sausage",
-                        "itemDescription": "150/100g.",
-                        "price": 9900
-                    },
-                    "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0": {
-                        "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
-                        "title": "Stewed young goat meat",
-                        "itemDescription": "300g.",
-                        "price": 19900,
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "5bf88beb-9017-439a-9846-bbba124e3a75": {
-                        "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
-                        "title": "Sterlet",
-                        "itemDescription": "500g.",
-                        "price": 38900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/21faedd6-7b45-4999-96e1-d97e1f349bc7",
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "824e5afb-cd37-44d0-a6d9-d1334f29d229": {
-                        "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
-                        "title": "Soft salted sprats with canapes",
-                        "itemDescription": "90/100/30g.",
-                        "price": 6900
-                    },
-                    "6cf322ba-4d9a-428f-8023-f43935033db2": {
-                        "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
-                        "title": "Kyiv cake",
-                        "itemDescription": "120g.",
-                        "price": 8900
-                    },
-                    "ce60e09c-44ec-41eb-9160-dfa8ceda892f": {
-                        "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
-                        "title": "Filet mignon",
-                        "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (150g).",
-                        "price": 29900,
-                        "customizationUuids": [
-                            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                        ]
-                    },
-                    "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421": {
-                        "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
-                        "title": "Herring with potatoes",
-                        "itemDescription": "100/80/30g.",
-                        "price": 9800
-                    },
-                    "8691a1df-5c5e-4b7e-9be5-174bf50dce8f": {
-                        "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
-                        "title": "Homemade sausage",
-                        "itemDescription": "50g.",
-                        "price": 4900
-                    },
-                    "392f069b-a854-409d-8b19-98d83eb47907": {
-                        "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
-                        "title": "Meat set: salo, bacon, pastrami, and black pudding",
-                        "itemDescription": "200/60g.",
-                        "price": 14900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0208323e-0980-478d-ab27-d2d9332cb7cf"
-                    },
-                    "61391680-3027-48e4-9bd8-4fc4e2f2c68d": {
-                        "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
-                        "title": "Salted salo",
-                        "itemDescription": "50g.",
-                        "price": 4900
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "9e2e7193-c86c-4d9e-847a-52648d377cc2",
-                        "title": "Cold appetizers",
-                        "itemUuids": [
-                            "d6493732-49e0-4d25-9022-94172d6b596d",
-                            "1b33e3ef-98bb-4777-bae6-a386056a766c",
-                            "e5b36668-5c4d-4776-a558-f7fab12ce461",
-                            "824e5afb-cd37-44d0-a6d9-d1334f29d229",
-                            "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
-                            "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
-                            "c741224d-5c4a-4e13-8378-60566e79574a"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
-                                "title": "Vegetables with nut cream",
-                                "itemDescription": "80/220g.",
-                                "price": 7900
-                            },
-                            {
-                                "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
-                                "title": "Pickled and sour vegetables",
-                                "itemDescription": "300g.",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
-                                "title": "Vorschmack",
-                                "itemDescription": "120g.",
-                                "price": 9900
-                            },
-                            {
-                                "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
-                                "title": "Soft salted sprats with canapes",
-                                "itemDescription": "90/100/30g.",
-                                "price": 6900
-                            },
-                            {
-                                "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
-                                "title": "Herring with potatoes",
-                                "itemDescription": "100/80/30g.",
-                                "price": 9800
-                            },
-                            {
-                                "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
-                                "title": "Foie gras pate",
-                                "itemDescription": "100/30g.",
-                                "price": 14800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c78939-67d4-4f76-a4e0-76244df2ca89"
-                            },
-                            {
-                                "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
-                                "title": "Bread",
-                                "itemDescription": "100g.",
-                                "price": 1900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
-                        "title": "Hot appetizers",
-                        "itemUuids": [
-                            "311e2ccb-cf53-401a-99c0-60afba855e34",
-                            "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
-                            "e0dee223-3fc4-4c76-8120-f7376961e919"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
-                                "title": "Foie gras",
-                                "itemDescription": "100/50g.",
-                                "price": 19900
-                            },
-                            {
-                                "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
-                                "title": "Black pudding",
-                                "itemDescription": "120/100g.",
-                                "price": 9900
-                            },
-                            {
-                                "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
-                                "title": "Homemade fried sausage",
-                                "itemDescription": "150/100g.",
-                                "price": 9900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "517da1b0-7280-4212-b6a6-f70f381ccf93",
-                        "title": "Salads",
-                        "itemUuids": [
-                            "58ea0376-e5d7-46e7-af14-15b9fd1c2765"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
-                                "title": "Smoked beef salad",
-                                "itemDescription": "150g.",
-                                "price": 9800
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
-                        "title": "Meat, salo, jamon",
-                        "itemUuids": [
-                            "f4c4c37a-9435-487e-a938-2b8737c6e195",
-                            "7b7c3297-56b3-424e-9461-f82a3f4027f5",
-                            "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
-                            "cc143339-2d74-4450-9ffb-837d6d989d5f",
-                            "88e4b48e-b724-42fa-b211-5ca87a886157",
-                            "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
-                            "392f069b-a854-409d-8b19-98d83eb47907"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
-                                "title": "Black pudding",
-                                "itemDescription": "50g.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
-                                "title": "Smoked chicken",
-                                "itemDescription": "360g.",
-                                "price": 12800
-                            },
-                            {
-                                "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
-                                "title": "Homemade sausage",
-                                "itemDescription": "50g.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
-                                "title": "Bacon",
-                                "itemDescription": "50g.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
-                                "title": "Pastrami",
-                                "itemDescription": "50g.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
-                                "title": "Salted salo",
-                                "itemDescription": "50g.",
-                                "price": 4900
-                            },
-                            {
-                                "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
-                                "title": "Meat set: salo, bacon, pastrami, and black pudding",
-                                "itemDescription": "200/60g.",
-                                "price": 14900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0208323e-0980-478d-ab27-d2d9332cb7cf"
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "7073690f-2109-4da5-b397-0c64658beb0e",
-                        "title": "Meat&Bread",
-                        "itemUuids": [
-                            "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
-                            "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
-                            "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
-                                "title": "Marbled beef burger",
-                                "itemDescription": "300g.",
-                                "price": 13800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5c29deb-fd84-4ae0-aa86-0eeebec81c74"
-                            },
-                            {
-                                "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
-                                "title": "Pulled pork burger",
-                                "itemDescription": "300g.",
-                                "price": 12800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/e99d71fe-2dd5-471a-bc92-6ec1c6307349"
-                            },
-                            {
-                                "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
-                                "title": "Pastrami sandwich",
-                                "itemDescription": "300g.",
-                                "price": 13800
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "27afcc8e-dd00-4454-b763-d241373383eb",
-                        "title": "Steaks",
-                        "itemUuids": [
-                            "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
-                            "ce60e09c-44ec-41eb-9160-dfa8ceda892f"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
-                                "title": "Rib eye steak",
-                                "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (250g).",
-                                "price": 34900,
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            },
-                            {
-                                "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
-                                "title": "Filet mignon",
-                                "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (150g).",
-                                "price": 29900,
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
-                        "title": "Main couses",
-                        "itemUuids": [
-                            "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
-                            "34554ada-d493-4f43-92b1-0882c7bc1aa5",
-                            "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
-                                "title": "Chicken Kyiv",
-                                "itemDescription": "250g.",
-                                "price": 13800,
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            },
-                            {
-                                "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
-                                "title": "Chicken with honey sauce",
-                                "itemDescription": "250g.",
-                                "price": 14800,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7625258-f2f1-4892-863b-dd16a1e513af",
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            },
-                            {
-                                "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
-                                "title": "Stewed young goat meat",
-                                "itemDescription": "300g.",
-                                "price": 19900,
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "5e560ec2-ad5f-4a84-8123-350b746a82dc",
-                        "title": "Fish",
-                        "itemUuids": [
-                            "624107f0-9658-43a9-992c-dd8a7b75cb70",
-                            "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
-                            "5bf88beb-9017-439a-9846-bbba124e3a75"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
-                                "title": "River trout with vegetables",
-                                "itemDescription": "300g",
-                                "price": 19900,
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            },
-                            {
-                                "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
-                                "title": "Catfish fillet",
-                                "itemDescription": "300g.",
-                                "price": 19800,
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            },
-                            {
-                                "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
-                                "title": "Sterlet",
-                                "itemDescription": "500g.",
-                                "price": 38900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/21faedd6-7b45-4999-96e1-d97e1f349bc7",
-                                "customizationUuids": [
-                                    "525c8493-2248-495d-b2b0-f3ca31deda2c"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "d6c20943-91eb-45c8-8308-3aad6f3e9360",
-                        "title": "Soups",
-                        "itemUuids": [
-                            "dfb7a256-6650-4b56-a3e4-0de742737e40",
-                            "17b780ab-8d3a-43f8-9dda-2c7a638321ac"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
-                                "title": "Red borscht",
-                                "itemDescription": "300g.",
-                                "price": 6900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/10491552-9be3-4525-8828-01beeb9d3d75"
-                            },
-                            {
-                                "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
-                                "title": "Chicken noodle soup with spinach and radish",
-                                "itemDescription": "300g.",
-                                "price": 6900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02",
-                        "title": "Desserts",
-                        "itemUuids": [
-                            "6cf322ba-4d9a-428f-8023-f43935033db2",
-                            "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
-                            "51331986-bea4-4ff0-be54-66670de07e62"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
-                                "title": "Kyiv cake",
-                                "itemDescription": "120g.",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
-                                "title": "Honey cream pie",
-                                "itemDescription": "120g.",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
-                                "title": "Cheesecake",
-                                "itemDescription": "120g.",
-                                "price": 8900
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        "subsectionsMap": {
-            "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a": {
-                "uuid": "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
-                "title": "Main couses",
-                "itemUuids": [
-                    "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
-                    "34554ada-d493-4f43-92b1-0882c7bc1aa5",
-                    "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc": {
-                "uuid": "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
-                "title": "Hot appetizers",
-                "itemUuids": [
-                    "311e2ccb-cf53-401a-99c0-60afba855e34",
-                    "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
-                    "e0dee223-3fc4-4c76-8120-f7376961e919"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "9e2e7193-c86c-4d9e-847a-52648d377cc2": {
-                "uuid": "9e2e7193-c86c-4d9e-847a-52648d377cc2",
-                "title": "Cold appetizers",
-                "itemUuids": [
-                    "d6493732-49e0-4d25-9022-94172d6b596d",
-                    "1b33e3ef-98bb-4777-bae6-a386056a766c",
-                    "e5b36668-5c4d-4776-a558-f7fab12ce461",
-                    "824e5afb-cd37-44d0-a6d9-d1334f29d229",
-                    "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
-                    "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
-                    "c741224d-5c4a-4e13-8378-60566e79574a"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0": {
-                "uuid": "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
-                "title": "Meat, salo, jamon",
-                "itemUuids": [
-                    "f4c4c37a-9435-487e-a938-2b8737c6e195",
-                    "7b7c3297-56b3-424e-9461-f82a3f4027f5",
-                    "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
-                    "cc143339-2d74-4450-9ffb-837d6d989d5f",
-                    "88e4b48e-b724-42fa-b211-5ca87a886157",
-                    "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
-                    "392f069b-a854-409d-8b19-98d83eb47907"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "67086c4b-234f-47f3-8ba5-8b60e78708e9": {
-                "uuid": "67086c4b-234f-47f3-8ba5-8b60e78708e9",
-                "title": "Холодні закуски",
-                "itemUuids": [
-                    "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
-                    "5c919ca4-747b-4961-b227-105b06c4e635",
-                    "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
-                    "007be10f-dc79-4435-bd66-04b2d121ce37",
-                    "9709194d-84e4-49f5-9dbe-75259613fefe",
-                    "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
-                    "bb1d2053-746c-46ec-b01c-f92ed4908c42"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5c919ca4-747b-4961-b227-105b06c4e635",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "007be10f-dc79-4435-bd66-04b2d121ce37",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9709194d-84e4-49f5-9dbe-75259613fefe",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "bb1d2053-746c-46ec-b01c-f92ed4908c42",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "694e5d4b-d51d-4404-85e9-6284f4fbeabf": {
-                "uuid": "694e5d4b-d51d-4404-85e9-6284f4fbeabf",
-                "title": "Перші страви",
-                "itemUuids": [
-                    "75556789-8cb6-4214-9ebf-1b8b272aca5e",
-                    "0395f556-5675-4040-b5fa-39a83d669917",
-                    "c40f7892-2f87-4c74-901d-be47f5f6d15b"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "75556789-8cb6-4214-9ebf-1b8b272aca5e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0395f556-5675-4040-b5fa-39a83d669917",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c40f7892-2f87-4c74-901d-be47f5f6d15b",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4": {
-                "uuid": "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4",
-                "title": "Гарніри",
-                "itemUuids": [
-                    "74a2bbe5-726c-4678-927b-88fe67ab93ba",
-                    "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
-                    "eee26493-2af1-4564-8335-fb11c0b093da"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "74a2bbe5-726c-4678-927b-88fe67ab93ba",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "eee26493-2af1-4564-8335-fb11c0b093da",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "fd6d22cd-7635-4de4-9100-589f62c59785": {
-                "uuid": "fd6d22cd-7635-4de4-9100-589f62c59785",
-                "title": "М'ясо, сало, ковбаса",
-                "itemUuids": [
-                    "a77d436a-6b5a-40be-8dfc-598f085eec85",
-                    "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
-                    "eca414ca-21f3-402d-b76a-c57262d4d606",
-                    "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
-                    "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
-                    "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
-                    "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "a77d436a-6b5a-40be-8dfc-598f085eec85",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "eca414ca-21f3-402d-b76a-c57262d4d606",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "5e560ec2-ad5f-4a84-8123-350b746a82dc": {
-                "uuid": "5e560ec2-ad5f-4a84-8123-350b746a82dc",
-                "title": "Fish",
-                "itemUuids": [
-                    "624107f0-9658-43a9-992c-dd8a7b75cb70",
-                    "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
-                    "5bf88beb-9017-439a-9846-bbba124e3a75"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "d6c20943-91eb-45c8-8308-3aad6f3e9360": {
-                "uuid": "d6c20943-91eb-45c8-8308-3aad6f3e9360",
-                "title": "Soups",
-                "itemUuids": [
-                    "dfb7a256-6650-4b56-a3e4-0de742737e40",
-                    "17b780ab-8d3a-43f8-9dda-2c7a638321ac"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "bfef5454-3970-4dc2-9e1e-2279e6752612": {
-                "uuid": "bfef5454-3970-4dc2-9e1e-2279e6752612",
-                "title": "М'ясо&хліб",
-                "itemUuids": [
-                    "445c939b-810b-4713-8243-bed2fbc5cf22",
-                    "c9fc96be-b463-4cea-809b-a16e8aa42811",
-                    "99319f98-1ee7-42fa-b495-f70c93a19483"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "445c939b-810b-4713-8243-bed2fbc5cf22",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c9fc96be-b463-4cea-809b-a16e8aa42811",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "99319f98-1ee7-42fa-b495-f70c93a19483",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "27afcc8e-dd00-4454-b763-d241373383eb": {
-                "uuid": "27afcc8e-dd00-4454-b763-d241373383eb",
-                "title": "Steaks",
-                "itemUuids": [
-                    "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
-                    "ce60e09c-44ec-41eb-9160-dfa8ceda892f"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "7073690f-2109-4da5-b397-0c64658beb0e": {
-                "uuid": "7073690f-2109-4da5-b397-0c64658beb0e",
-                "title": "Meat&Bread",
-                "itemUuids": [
-                    "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
-                    "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
-                    "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "517da1b0-7280-4212-b6a6-f70f381ccf93": {
-                "uuid": "517da1b0-7280-4212-b6a6-f70f381ccf93",
-                "title": "Salads",
-                "itemUuids": [
-                    "58ea0376-e5d7-46e7-af14-15b9fd1c2765"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "dda025f4-5e46-4dff-9824-8f3b42eb8753": {
-                "uuid": "dda025f4-5e46-4dff-9824-8f3b42eb8753",
-                "title": "Стейки",
-                "itemUuids": [
-                    "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
-                    "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "a928f4b6-4583-44fa-aa8c-92179322c7cb": {
-                "uuid": "a928f4b6-4583-44fa-aa8c-92179322c7cb",
-                "title": "Салати",
-                "itemUuids": [
-                    "63d42167-6ab5-4238-bba5-bc7052243d79",
-                    "e5edfbd0-4b2a-4582-b315-729898153fbd",
-                    "e3520831-b759-4da5-aa0e-fd0cfafbc701",
-                    "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "63d42167-6ab5-4238-bba5-bc7052243d79",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e5edfbd0-4b2a-4582-b315-729898153fbd",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e3520831-b759-4da5-aa0e-fd0cfafbc701",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "35082391-53e6-45c8-a75e-fb8678f80d09": {
-                "uuid": "35082391-53e6-45c8-a75e-fb8678f80d09",
-                "title": "Риба",
-                "itemUuids": [
-                    "1492064e-f553-485f-a080-0920b02557ba",
-                    "acb22565-7cb0-48b1-9157-23c477df859d",
-                    "5dfee693-1d5a-4689-b10f-9cfff1c48df6"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "1492064e-f553-485f-a080-0920b02557ba",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "acb22565-7cb0-48b1-9157-23c477df859d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5dfee693-1d5a-4689-b10f-9cfff1c48df6",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea": {
-                "uuid": "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea",
-                "title": "Солодке",
-                "itemUuids": [
-                    "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
-                    "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
-                    "6c6b9018-7ff4-4643-bc30-c35e6dce3f94"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6c6b9018-7ff4-4643-bc30-c35e6dce3f94",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02": {
-                "uuid": "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02",
-                "title": "Desserts",
-                "itemUuids": [
-                    "6cf322ba-4d9a-428f-8023-f43935033db2",
-                    "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
-                    "51331986-bea4-4ff0-be54-66670de07e62"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "78b23c3a-3952-4065-b4e1-e90ae01ed5ee": {
-                "uuid": "78b23c3a-3952-4065-b4e1-e90ae01ed5ee",
-                "title": "Основні страви",
-                "itemUuids": [
-                    "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
-                    "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
-                    "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
-                    "17e89ae2-fb20-4268-9d76-e332de935b02"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "17e89ae2-fb20-4268-9d76-e332de935b02",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "6ca74af5-a300-465a-b2d2-c6d4e49d3b88": {
-                "uuid": "6ca74af5-a300-465a-b2d2-c6d4e49d3b88",
-                "title": "Гарячі закуски",
-                "itemUuids": [
-                    "85e00244-e998-4157-8b71-19db9f877902",
-                    "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
-                    "f91d384a-34c2-43b3-a266-9523e99e1d9b"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "85e00244-e998-4157-8b71-19db9f877902",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f91d384a-34c2-43b3-a266-9523e99e1d9b",
-                        "type": "ITEM"
-                    }
-                ]
-            }
-        },
-        "location": {
-            "latitude": 50.450893,
-            "longitude": 30.5226522,
-            "address": {
-                "address1": "Maidan Nezalezhnosti, 1",
-                "aptOrSuite": "",
-                "city": "Kyiv",
-                "country": "UA",
-                "postalCode": "02000",
-                "region": "",
-                "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
-            }
-        },
-        "publicContact": {
-            "publicPhoneNumber": "+380689071991"
-        },
-        "priceBucket": "₴₴",
-        "slug": "остання-барикада",
-        "isOrderable": true,
-        "disableCheckoutInstruction": false,
-        "supportedDiningModes": [
-            "DELIVERY"
-        ],
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
-        "heroImage": {
-            "items": [
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c",
-                    "width": 2880,
-                    "height": 2304
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/9a981e84-0378-49a5-a293-f7b1a08f609a",
-                    "width": 1080,
-                    "height": 864
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/793ddb47-0e9d-429a-9138-9f4756788543",
-                    "width": 750,
-                    "height": 600
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/5e9d71bd-ef9f-4a45-a33d-8656f5d4182d",
-                    "width": 640,
-                    "height": 512
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
-                    "width": 550,
-                    "height": 440
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/7d6a8a34-7e9e-4697-b1c1-6a71caa96903",
-                    "width": 240,
-                    "height": 192
-                }
-            ]
-        },
-        "closedEtaMessage": "Currently unavailable",
-        "notOrderableMessage": "Currently unavailable",
-        "storeBadges": {
-            "endorsement": {
-                "backgroundColor": {
-                    "alpha": 1,
-                    "color": "59BD5A"
-                },
-                "iconColor": {
-                    "alpha": 1,
-                    "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-                "text": "100% українська гастрономія",
-                "textColor": {
-                    "alpha": 1,
-                    "color": "FFFFFF"
-                }
-            },
-            "disclaimerBadge": {
-                "textFormat": ""
-            },
-            "ratingBadge": {
-                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(56)</span></span>",
-                "accessibilityText": "Rated 4.5 out of 5 stars based on 56 reviews."
-            },
-            "taglineBadge": {
-                "textFormat": "<span>₴₴ • Ukrainian • European • Seafood</span>"
-            },
-            "etaBadge": {
-                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-                "text": "25–35 MINS",
-                "textFormat": "<span>25–35 MINS</span>",
-                "accessibilityText": "Delivered in 25 to 35 MINS"
-            }
-        },
-        "etaRange": {
-            "min": 25,
-            "max": 35,
-            "raw": 30
-        },
-        "fareInfo": {
-            "serviceFee": 30
-        },
-        "eaterFields": {},
-        "meta": {
-            "sectionHoursInfo": [
-                {
-                    "dayRange": "Every day",
-                    "sectionHours": [
-                        {
-                            "startTime": 600,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 600,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                }
-            ]
-        },
-        "nuggets": [],
-        "displayConfig": {
-            "regionalDisplayType": "DEFAULT"
-        },
-        "enabledFulfillmentTypes": [
-            "DELIVERY"
-        ],
-        "citySlug": "kyiv",
-        "cityName": "Kyiv",
-        "currencyCode": "UAH",
-        "currencyNumDigitsAfterDecimal": 2
+  "uuid": "5b8e0d3e-dad5-45ce-aefb-5d418c68c826",
+  "title": "Остання Барикада",
+  "regionId": 943,
+  "categories": [
+    {
+      "uuid": "Ukrainian",
+      "name": "Українська",
+      "keyName": "Ukrainian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Seafood",
+      "name": "Морепродукти",
+      "keyName": "Seafood"
     }
+  ],
+  "sections": [
+    {
+      "uuid": "4235baf7-c462-4a9d-8f6d-35b32b6fd7f6",
+      "title": "SWITCH LANGUAGE (UKR)",
+      "subtitle": "10:00 AM – 10:00 PM",
+      "isTop": true,
+      "isOnSale": true,
+      "subsectionUuids": [
+        "67086c4b-234f-47f3-8ba5-8b60e78708e9",
+        "6ca74af5-a300-465a-b2d2-c6d4e49d3b88",
+        "a928f4b6-4583-44fa-aa8c-92179322c7cb",
+        "fd6d22cd-7635-4de4-9100-589f62c59785",
+        "bfef5454-3970-4dc2-9e1e-2279e6752612",
+        "dda025f4-5e46-4dff-9824-8f3b42eb8753",
+        "78b23c3a-3952-4065-b4e1-e90ae01ed5ee",
+        "35082391-53e6-45c8-a75e-fb8678f80d09",
+        "694e5d4b-d51d-4404-85e9-6284f4fbeabf",
+        "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4",
+        "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea"
+      ]
+    },
+    {
+      "uuid": "285c08c5-57c1-4bcc-a78a-a5bd046082c7",
+      "title": "SWITCH LANGUAGE (ENG)",
+      "subtitle": "10:00 AM – 10:00 PM",
+      "isOnSale": true,
+      "subsectionUuids": [
+        "9e2e7193-c86c-4d9e-847a-52648d377cc2",
+        "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
+        "517da1b0-7280-4212-b6a6-f70f381ccf93",
+        "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
+        "7073690f-2109-4da5-b397-0c64658beb0e",
+        "27afcc8e-dd00-4454-b763-d241373383eb",
+        "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
+        "5e560ec2-ad5f-4a84-8123-350b746a82dc",
+        "d6c20943-91eb-45c8-8308-3aad6f3e9360",
+        "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02"
+      ]
+    }
+  ],
+  "sectionEntitiesMap": {
+    "4235baf7-c462-4a9d-8f6d-35b32b6fd7f6": {
+      "itemsMap": {
+        "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75": {
+          "uuid": "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
+          "title": "Кров'янка смажена",
+          "itemDescription": "120/100г.",
+          "price": 9900
+        },
+        "445c939b-810b-4713-8243-bed2fbc5cf22": {
+          "uuid": "445c939b-810b-4713-8243-bed2fbc5cf22",
+          "title": "Бургер із мармурової яловичини",
+          "itemDescription": "300г.",
+          "price": 13800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a6ba46e-52b6-48f1-b75a-97938875609d"
+        },
+        "a77d436a-6b5a-40be-8dfc-598f085eec85": {
+          "uuid": "a77d436a-6b5a-40be-8dfc-598f085eec85",
+          "title": "Кров'янка",
+          "itemDescription": "50г.",
+          "price": 4900
+        },
+        "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6": {
+          "uuid": "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6",
+          "title": "М'ясний сет: сало, бекон, солонина, кров'янка",
+          "itemDescription": "200/60г.",
+          "price": 14900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f0baa51-da28-4eb8-82fb-decc475543a8"
+        },
+        "609ef67c-b206-4732-b2a6-b6f1bf86e83f": {
+          "uuid": "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
+          "title": "Сало солоне",
+          "itemDescription": "50г.",
+          "price": 4900
+        },
+        "e5edfbd0-4b2a-4582-b315-729898153fbd": {
+          "uuid": "e5edfbd0-4b2a-4582-b315-729898153fbd",
+          "title": "Салат з в`яленими, копченими та свіжимитоматами та хлібом",
+          "itemDescription": "250г.",
+          "price": 9800
+        },
+        "0aeb6176-ee80-485d-bbd9-3d46a4801d0f": {
+          "uuid": "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
+          "title": "Бекон",
+          "itemDescription": "50г.",
+          "price": 4900
+        },
+        "f6c94f1d-47f1-4811-a8ea-8b053a60593a": {
+          "uuid": "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
+          "title": "Копчена ципа",
+          "itemDescription": "360г.",
+          "price": 12800
+        },
+        "17e89ae2-fb20-4268-9d76-e332de935b02": {
+          "uuid": "17e89ae2-fb20-4268-9d76-e332de935b02",
+          "title": "Гусяча ніжка з печеним яблуком",
+          "itemDescription": "220г",
+          "price": 19800,
+          "nutritionalInfo": {}
+        },
+        "5dfee693-1d5a-4689-b10f-9cfff1c48df6": {
+          "uuid": "5dfee693-1d5a-4689-b10f-9cfff1c48df6",
+          "title": "Стерлядь",
+          "itemDescription": "500г.",
+          "price": 38900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0652bb6e-738c-4e89-bc83-dedf3dc1e7be",
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "74a2bbe5-726c-4678-927b-88fe67ab93ba": {
+          "uuid": "74a2bbe5-726c-4678-927b-88fe67ab93ba",
+          "title": "Молода картопля з кропом",
+          "itemDescription": "150г.",
+          "price": 4900
+        },
+        "9709194d-84e4-49f5-9dbe-75259613fefe": {
+          "uuid": "9709194d-84e4-49f5-9dbe-75259613fefe",
+          "title": "Оселедець з картоплею",
+          "itemDescription": "100/80/30г.",
+          "price": 9800
+        },
+        "c40f7892-2f87-4c74-901d-be47f5f6d15b": {
+          "uuid": "c40f7892-2f87-4c74-901d-be47f5f6d15b",
+          "title": "Зелений борщ",
+          "itemDescription": "300г",
+          "price": 7900,
+          "nutritionalInfo": {}
+        },
+        "007be10f-dc79-4435-bd66-04b2d121ce37": {
+          "uuid": "007be10f-dc79-4435-bd66-04b2d121ce37",
+          "title": "Тюлька слабосолена з канапками",
+          "itemDescription": "90/100/30г.",
+          "price": 6900
+        },
+        "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d": {
+          "uuid": "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d",
+          "title": "Філе міньйон",
+          "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (150г).",
+          "price": 29900,
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "6210dcca-9681-4a1f-b727-72ea7c93f1e8": {
+          "uuid": "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
+          "title": "Томлене козеня",
+          "itemDescription": "300г.",
+          "price": 19900,
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "0395f556-5675-4040-b5fa-39a83d669917": {
+          "uuid": "0395f556-5675-4040-b5fa-39a83d669917",
+          "title": "Бульйон курячий зі шпинатом та редискою",
+          "itemDescription": "250г.",
+          "price": 6900
+        },
+        "e3520831-b759-4da5-aa0e-fd0cfafbc701": {
+          "uuid": "e3520831-b759-4da5-aa0e-fd0cfafbc701",
+          "title": "Українська моцарела з томатами",
+          "itemDescription": "180г.",
+          "price": 9800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a383564e-fc93-4a34-8dcc-bb540c53869a"
+        },
+        "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25": {
+          "uuid": "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25",
+          "title": "Овочевий салат з копченою яловичиною",
+          "itemDescription": "200г",
+          "price": 9800
+        },
+        "acb22565-7cb0-48b1-9157-23c477df859d": {
+          "uuid": "acb22565-7cb0-48b1-9157-23c477df859d",
+          "title": "Філе сома",
+          "itemDescription": "300г.",
+          "price": 19800,
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "1492064e-f553-485f-a080-0920b02557ba": {
+          "uuid": "1492064e-f553-485f-a080-0920b02557ba",
+          "title": "Річкова форель з овочами",
+          "itemDescription": "300г",
+          "price": 19900,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "63d42167-6ab5-4238-bba5-bc7052243d79": {
+          "uuid": "63d42167-6ab5-4238-bba5-bc7052243d79",
+          "title": "Салат зі шпинатом та копченою ципою",
+          "itemDescription": "150г.",
+          "price": 9800
+        },
+        "8b6a85b9-7328-4f55-b6a6-0d62fefc53de": {
+          "uuid": "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
+          "title": "Паштет з української фуа-гра",
+          "itemDescription": "100/30г.",
+          "price": 14800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/35899531-a9f3-443c-b26e-0f3d62b3141c"
+        },
+        "4ab49d94-5242-474b-a1e2-2c73ab6c9837": {
+          "uuid": "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
+          "title": "Солонина (пастрамі)",
+          "itemDescription": "50г.",
+          "price": 4900
+        },
+        "09557c0f-14e0-4e2b-85af-2f40fb5bad8c": {
+          "uuid": "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
+          "title": "Овочі з горіховим кремом",
+          "itemDescription": "80/220г.",
+          "price": 7900
+        },
+        "bb1d2053-746c-46ec-b01c-f92ed4908c42": {
+          "uuid": "bb1d2053-746c-46ec-b01c-f92ed4908c42",
+          "title": "Хліб",
+          "itemDescription": "100г.",
+          "price": 1900
+        },
+        "75556789-8cb6-4214-9ebf-1b8b272aca5e": {
+          "uuid": "75556789-8cb6-4214-9ebf-1b8b272aca5e",
+          "title": "Червоний борщ",
+          "itemDescription": "300г.",
+          "price": 6900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7767729d-d92d-43e1-b5ac-7c1581e0970f"
+        },
+        "43cdb1b3-46fd-4bc9-a724-255095e9f8cd": {
+          "uuid": "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
+          "title": "Ципа з медом",
+          "itemDescription": "250г.",
+          "price": 14800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3284d7ba-314c-40e2-b419-d705ffd5ffd4",
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "eca414ca-21f3-402d-b76a-c57262d4d606": {
+          "uuid": "eca414ca-21f3-402d-b76a-c57262d4d606",
+          "title": "Ковбаса домашня",
+          "itemDescription": "50г.",
+          "price": 4900
+        },
+        "5c919ca4-747b-4961-b227-105b06c4e635": {
+          "uuid": "5c919ca4-747b-4961-b227-105b06c4e635",
+          "title": "Малосоли та квашення",
+          "itemDescription": "300г.",
+          "price": 8900
+        },
+        "c9fc96be-b463-4cea-809b-a16e8aa42811": {
+          "uuid": "c9fc96be-b463-4cea-809b-a16e8aa42811",
+          "title": "Бургер зі рваною свининою",
+          "itemDescription": "300г.",
+          "price": 12800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a778853-a1a1-42e1-8299-c1ac82919175"
+        },
+        "f91d384a-34c2-43b3-a266-9523e99e1d9b": {
+          "uuid": "f91d384a-34c2-43b3-a266-9523e99e1d9b",
+          "title": "Домашня смажена ковбаса",
+          "itemDescription": "150/100г.",
+          "price": 9900
+        },
+        "6c6b9018-7ff4-4643-bc30-c35e6dce3f94": {
+          "uuid": "6c6b9018-7ff4-4643-bc30-c35e6dce3f94",
+          "title": "Чізкейк",
+          "itemDescription": "120г.",
+          "price": 8900
+        },
+        "0189df2e-1b3e-44b3-b8dc-2e71f4591112": {
+          "uuid": "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
+          "title": "Київський торт",
+          "itemDescription": "120г.",
+          "price": 8900
+        },
+        "a14e48c4-fb04-4ac7-8ef8-358cdf843441": {
+          "uuid": "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
+          "title": "Стейк рібай",
+          "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (250г).",
+          "price": 34900,
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "85e00244-e998-4157-8b71-19db9f877902": {
+          "uuid": "85e00244-e998-4157-8b71-19db9f877902",
+          "title": "Українська фуа-гра",
+          "itemDescription": "100/50г.",
+          "price": 19900
+        },
+        "df37ed10-57ea-4d3e-85cc-ca938f3563e5": {
+          "uuid": "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
+          "title": "Медовик",
+          "itemDescription": "120г.",
+          "price": 8900
+        },
+        "99319f98-1ee7-42fa-b495-f70c93a19483": {
+          "uuid": "99319f98-1ee7-42fa-b495-f70c93a19483",
+          "title": "Сендвіч з пастрамі",
+          "itemDescription": "300г.",
+          "price": 13800
+        },
+        "eee26493-2af1-4564-8335-fb11c0b093da": {
+          "uuid": "eee26493-2af1-4564-8335-fb11c0b093da",
+          "title": "New potatoes with dill",
+          "itemDescription": "150g",
+          "price": 4900,
+          "nutritionalInfo": {}
+        },
+        "0a4c7cbf-b9fb-4351-a826-4387e1de2090": {
+          "uuid": "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
+          "title": "Chicken Kyiv",
+          "itemDescription": "250г.",
+          "price": 13800,
+          "suspendUntil": 1559509199,
+          "customizationUuids": [
+            "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+          ]
+        },
+        "0216e88b-2ed4-45cf-9a6d-dbd0297c9624": {
+          "uuid": "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
+          "title": "Форшмак",
+          "itemDescription": "120г.",
+          "price": 9900
+        },
+        "8f7c2988-6326-45d8-bb29-fa05ea1e8728": {
+          "uuid": "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
+          "title": "Спаржа",
+          "itemDescription": "80г",
+          "price": 4900
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "67086c4b-234f-47f3-8ba5-8b60e78708e9",
+          "title": "Холодні закуски",
+          "itemUuids": [
+            "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
+            "5c919ca4-747b-4961-b227-105b06c4e635",
+            "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
+            "007be10f-dc79-4435-bd66-04b2d121ce37",
+            "9709194d-84e4-49f5-9dbe-75259613fefe",
+            "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
+            "bb1d2053-746c-46ec-b01c-f92ed4908c42"
+          ],
+          "displayItems": [
+            {
+              "uuid": "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
+              "title": "Овочі з горіховим кремом",
+              "itemDescription": "80/220г.",
+              "price": 7900
+            },
+            {
+              "uuid": "5c919ca4-747b-4961-b227-105b06c4e635",
+              "title": "Малосоли та квашення",
+              "itemDescription": "300г.",
+              "price": 8900
+            },
+            {
+              "uuid": "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
+              "title": "Форшмак",
+              "itemDescription": "120г.",
+              "price": 9900
+            },
+            {
+              "uuid": "007be10f-dc79-4435-bd66-04b2d121ce37",
+              "title": "Тюлька слабосолена з канапками",
+              "itemDescription": "90/100/30г.",
+              "price": 6900
+            },
+            {
+              "uuid": "9709194d-84e4-49f5-9dbe-75259613fefe",
+              "title": "Оселедець з картоплею",
+              "itemDescription": "100/80/30г.",
+              "price": 9800
+            },
+            {
+              "uuid": "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
+              "title": "Паштет з української фуа-гра",
+              "itemDescription": "100/30г.",
+              "price": 14800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/35899531-a9f3-443c-b26e-0f3d62b3141c"
+            },
+            {
+              "uuid": "bb1d2053-746c-46ec-b01c-f92ed4908c42",
+              "title": "Хліб",
+              "itemDescription": "100г.",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "uuid": "6ca74af5-a300-465a-b2d2-c6d4e49d3b88",
+          "title": "Гарячі закуски",
+          "itemUuids": [
+            "85e00244-e998-4157-8b71-19db9f877902",
+            "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
+            "f91d384a-34c2-43b3-a266-9523e99e1d9b"
+          ],
+          "displayItems": [
+            {
+              "uuid": "85e00244-e998-4157-8b71-19db9f877902",
+              "title": "Українська фуа-гра",
+              "itemDescription": "100/50г.",
+              "price": 19900
+            },
+            {
+              "uuid": "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
+              "title": "Кров'янка смажена",
+              "itemDescription": "120/100г.",
+              "price": 9900
+            },
+            {
+              "uuid": "f91d384a-34c2-43b3-a266-9523e99e1d9b",
+              "title": "Домашня смажена ковбаса",
+              "itemDescription": "150/100г.",
+              "price": 9900
+            }
+          ]
+        },
+        {
+          "uuid": "a928f4b6-4583-44fa-aa8c-92179322c7cb",
+          "title": "Салати",
+          "itemUuids": [
+            "63d42167-6ab5-4238-bba5-bc7052243d79",
+            "e5edfbd0-4b2a-4582-b315-729898153fbd",
+            "e3520831-b759-4da5-aa0e-fd0cfafbc701",
+            "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25"
+          ],
+          "displayItems": [
+            {
+              "uuid": "63d42167-6ab5-4238-bba5-bc7052243d79",
+              "title": "Салат зі шпинатом та копченою ципою",
+              "itemDescription": "150г.",
+              "price": 9800
+            },
+            {
+              "uuid": "e5edfbd0-4b2a-4582-b315-729898153fbd",
+              "title": "Салат з в`яленими, копченими та свіжимитоматами та хлібом",
+              "itemDescription": "250г.",
+              "price": 9800
+            },
+            {
+              "uuid": "e3520831-b759-4da5-aa0e-fd0cfafbc701",
+              "title": "Українська моцарела з томатами",
+              "itemDescription": "180г.",
+              "price": 9800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a383564e-fc93-4a34-8dcc-bb540c53869a"
+            },
+            {
+              "uuid": "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25",
+              "title": "Овочевий салат з копченою яловичиною",
+              "itemDescription": "200г",
+              "price": 9800
+            }
+          ]
+        },
+        {
+          "uuid": "fd6d22cd-7635-4de4-9100-589f62c59785",
+          "title": "М'ясо, сало, ковбаса",
+          "itemUuids": [
+            "a77d436a-6b5a-40be-8dfc-598f085eec85",
+            "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
+            "eca414ca-21f3-402d-b76a-c57262d4d606",
+            "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
+            "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
+            "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
+            "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6"
+          ],
+          "displayItems": [
+            {
+              "uuid": "a77d436a-6b5a-40be-8dfc-598f085eec85",
+              "title": "Кров'янка",
+              "itemDescription": "50г.",
+              "price": 4900
+            },
+            {
+              "uuid": "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
+              "title": "Копчена ципа",
+              "itemDescription": "360г.",
+              "price": 12800
+            },
+            {
+              "uuid": "eca414ca-21f3-402d-b76a-c57262d4d606",
+              "title": "Ковбаса домашня",
+              "itemDescription": "50г.",
+              "price": 4900
+            },
+            {
+              "uuid": "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
+              "title": "Бекон",
+              "itemDescription": "50г.",
+              "price": 4900
+            },
+            {
+              "uuid": "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
+              "title": "Солонина (пастрамі)",
+              "itemDescription": "50г.",
+              "price": 4900
+            },
+            {
+              "uuid": "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
+              "title": "Сало солоне",
+              "itemDescription": "50г.",
+              "price": 4900
+            },
+            {
+              "uuid": "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6",
+              "title": "М'ясний сет: сало, бекон, солонина, кров'янка",
+              "itemDescription": "200/60г.",
+              "price": 14900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f0baa51-da28-4eb8-82fb-decc475543a8"
+            }
+          ]
+        },
+        {
+          "uuid": "bfef5454-3970-4dc2-9e1e-2279e6752612",
+          "title": "М'ясо&хліб",
+          "itemUuids": [
+            "445c939b-810b-4713-8243-bed2fbc5cf22",
+            "c9fc96be-b463-4cea-809b-a16e8aa42811",
+            "99319f98-1ee7-42fa-b495-f70c93a19483"
+          ],
+          "displayItems": [
+            {
+              "uuid": "445c939b-810b-4713-8243-bed2fbc5cf22",
+              "title": "Бургер із мармурової яловичини",
+              "itemDescription": "300г.",
+              "price": 13800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a6ba46e-52b6-48f1-b75a-97938875609d"
+            },
+            {
+              "uuid": "c9fc96be-b463-4cea-809b-a16e8aa42811",
+              "title": "Бургер зі рваною свининою",
+              "itemDescription": "300г.",
+              "price": 12800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a778853-a1a1-42e1-8299-c1ac82919175"
+            },
+            {
+              "uuid": "99319f98-1ee7-42fa-b495-f70c93a19483",
+              "title": "Сендвіч з пастрамі",
+              "itemDescription": "300г.",
+              "price": 13800
+            }
+          ]
+        },
+        {
+          "uuid": "dda025f4-5e46-4dff-9824-8f3b42eb8753",
+          "title": "Стейки",
+          "itemUuids": [
+            "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
+            "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d"
+          ],
+          "displayItems": [
+            {
+              "uuid": "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
+              "title": "Стейк рібай",
+              "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (250г).",
+              "price": 34900,
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            },
+            {
+              "uuid": "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d",
+              "title": "Філе міньйон",
+              "itemDescription": "Шмати м'яса, смажені на ватрі,суха витримка  20-40 діб (150г).",
+              "price": 29900,
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "78b23c3a-3952-4065-b4e1-e90ae01ed5ee",
+          "title": "Основні страви",
+          "itemUuids": [
+            "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
+            "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
+            "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
+            "17e89ae2-fb20-4268-9d76-e332de935b02"
+          ],
+          "displayItems": [
+            {
+              "uuid": "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
+              "title": "Chicken Kyiv",
+              "itemDescription": "250г.",
+              "price": 13800,
+              "suspendUntil": 1559509199,
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            },
+            {
+              "uuid": "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
+              "title": "Ципа з медом",
+              "itemDescription": "250г.",
+              "price": 14800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3284d7ba-314c-40e2-b419-d705ffd5ffd4",
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            },
+            {
+              "uuid": "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
+              "title": "Томлене козеня",
+              "itemDescription": "300г.",
+              "price": 19900,
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            },
+            {
+              "uuid": "17e89ae2-fb20-4268-9d76-e332de935b02",
+              "title": "Гусяча ніжка з печеним яблуком",
+              "itemDescription": "220г",
+              "price": 19800,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "35082391-53e6-45c8-a75e-fb8678f80d09",
+          "title": "Риба",
+          "itemUuids": [
+            "1492064e-f553-485f-a080-0920b02557ba",
+            "acb22565-7cb0-48b1-9157-23c477df859d",
+            "5dfee693-1d5a-4689-b10f-9cfff1c48df6"
+          ],
+          "displayItems": [
+            {
+              "uuid": "1492064e-f553-485f-a080-0920b02557ba",
+              "title": "Річкова форель з овочами",
+              "itemDescription": "300г",
+              "price": 19900,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            },
+            {
+              "uuid": "acb22565-7cb0-48b1-9157-23c477df859d",
+              "title": "Філе сома",
+              "itemDescription": "300г.",
+              "price": 19800,
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            },
+            {
+              "uuid": "5dfee693-1d5a-4689-b10f-9cfff1c48df6",
+              "title": "Стерлядь",
+              "itemDescription": "500г.",
+              "price": 38900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0652bb6e-738c-4e89-bc83-dedf3dc1e7be",
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "21ff4656-6ace-42d9-8f16-d216fd2b4572"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "694e5d4b-d51d-4404-85e9-6284f4fbeabf",
+          "title": "Перші страви",
+          "itemUuids": [
+            "75556789-8cb6-4214-9ebf-1b8b272aca5e",
+            "0395f556-5675-4040-b5fa-39a83d669917",
+            "c40f7892-2f87-4c74-901d-be47f5f6d15b"
+          ],
+          "displayItems": [
+            {
+              "uuid": "75556789-8cb6-4214-9ebf-1b8b272aca5e",
+              "title": "Червоний борщ",
+              "itemDescription": "300г.",
+              "price": 6900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7767729d-d92d-43e1-b5ac-7c1581e0970f"
+            },
+            {
+              "uuid": "0395f556-5675-4040-b5fa-39a83d669917",
+              "title": "Бульйон курячий зі шпинатом та редискою",
+              "itemDescription": "250г.",
+              "price": 6900
+            },
+            {
+              "uuid": "c40f7892-2f87-4c74-901d-be47f5f6d15b",
+              "title": "Зелений борщ",
+              "itemDescription": "300г",
+              "price": 7900,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4",
+          "title": "Гарніри",
+          "itemUuids": [
+            "74a2bbe5-726c-4678-927b-88fe67ab93ba",
+            "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
+            "eee26493-2af1-4564-8335-fb11c0b093da"
+          ],
+          "displayItems": [
+            {
+              "uuid": "74a2bbe5-726c-4678-927b-88fe67ab93ba",
+              "title": "Молода картопля з кропом",
+              "itemDescription": "150г.",
+              "price": 4900
+            },
+            {
+              "uuid": "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
+              "title": "Спаржа",
+              "itemDescription": "80г",
+              "price": 4900
+            },
+            {
+              "uuid": "eee26493-2af1-4564-8335-fb11c0b093da",
+              "title": "New potatoes with dill",
+              "itemDescription": "150g",
+              "price": 4900,
+              "nutritionalInfo": {}
+            }
+          ]
+        },
+        {
+          "uuid": "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea",
+          "title": "Солодке",
+          "itemUuids": [
+            "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
+            "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
+            "6c6b9018-7ff4-4643-bc30-c35e6dce3f94"
+          ],
+          "displayItems": [
+            {
+              "uuid": "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
+              "title": "Київський торт",
+              "itemDescription": "120г.",
+              "price": 8900
+            },
+            {
+              "uuid": "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
+              "title": "Медовик",
+              "itemDescription": "120г.",
+              "price": 8900
+            },
+            {
+              "uuid": "6c6b9018-7ff4-4643-bc30-c35e6dce3f94",
+              "title": "Чізкейк",
+              "itemDescription": "120г.",
+              "price": 8900
+            }
+          ]
+        }
+      ]
+    },
+    "285c08c5-57c1-4bcc-a78a-a5bd046082c7": {
+      "itemsMap": {
+        "7b7c3297-56b3-424e-9461-f82a3f4027f5": {
+          "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
+          "title": "Smoked chicken",
+          "itemDescription": "360g.",
+          "price": 12800
+        },
+        "bb341fc9-5bc9-4115-a49a-a13e17e7b908": {
+          "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
+          "title": "Foie gras pate",
+          "itemDescription": "100/30g.",
+          "price": 14800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c78939-67d4-4f76-a4e0-76244df2ca89"
+        },
+        "99efa044-cbac-4a8a-8b63-c343cd5cd1d1": {
+          "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
+          "title": "Chicken Kyiv",
+          "itemDescription": "250g.",
+          "price": 13800,
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "51331986-bea4-4ff0-be54-66670de07e62": {
+          "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
+          "title": "Cheesecake",
+          "itemDescription": "120g.",
+          "price": 8900
+        },
+        "e5b36668-5c4d-4776-a558-f7fab12ce461": {
+          "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
+          "title": "Vorschmack",
+          "itemDescription": "120g.",
+          "price": 9900
+        },
+        "3f0347a8-7ab9-4110-9311-7553d8f0ec3c": {
+          "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
+          "title": "Rib eye steak",
+          "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (250g).",
+          "price": 34900,
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "17b780ab-8d3a-43f8-9dda-2c7a638321ac": {
+          "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
+          "title": "Chicken noodle soup with spinach and radish",
+          "itemDescription": "300g.",
+          "price": 6900
+        },
+        "cc143339-2d74-4450-9ffb-837d6d989d5f": {
+          "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
+          "title": "Bacon",
+          "itemDescription": "50g.",
+          "price": 4900
+        },
+        "dfb7a256-6650-4b56-a3e4-0de742737e40": {
+          "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
+          "title": "Red borscht",
+          "itemDescription": "300g.",
+          "price": 6900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/10491552-9be3-4525-8828-01beeb9d3d75"
+        },
+        "311e2ccb-cf53-401a-99c0-60afba855e34": {
+          "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
+          "title": "Foie gras",
+          "itemDescription": "100/50g.",
+          "price": 19900
+        },
+        "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca": {
+          "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
+          "title": "Pastrami sandwich",
+          "itemDescription": "300g.",
+          "price": 13800
+        },
+        "c741224d-5c4a-4e13-8378-60566e79574a": {
+          "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
+          "title": "Bread",
+          "itemDescription": "100g.",
+          "price": 1900
+        },
+        "9fa7025b-cfe6-4e4d-a821-e40ebb853414": {
+          "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
+          "title": "Catfish fillet",
+          "itemDescription": "300g.",
+          "price": 19800,
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "951dad28-76e1-4acc-9bce-02a0ac0e9a25": {
+          "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
+          "title": "Honey cream pie",
+          "itemDescription": "120g.",
+          "price": 8900
+        },
+        "ec92e02f-e3a9-400a-92d3-98484eb14fdb": {
+          "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
+          "title": "Marbled beef burger",
+          "itemDescription": "300g.",
+          "price": 13800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5c29deb-fd84-4ae0-aa86-0eeebec81c74"
+        },
+        "f4c4c37a-9435-487e-a938-2b8737c6e195": {
+          "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
+          "title": "Black pudding",
+          "itemDescription": "50g.",
+          "price": 4900
+        },
+        "4b4fbf50-2b0b-4717-baef-6cc50d4262a8": {
+          "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
+          "title": "Black pudding",
+          "itemDescription": "120/100g.",
+          "price": 9900
+        },
+        "624107f0-9658-43a9-992c-dd8a7b75cb70": {
+          "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
+          "title": "River trout with vegetables",
+          "itemDescription": "300g",
+          "price": 19900,
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194": {
+          "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
+          "title": "Pulled pork burger",
+          "itemDescription": "300g.",
+          "price": 12800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e99d71fe-2dd5-471a-bc92-6ec1c6307349"
+        },
+        "d6493732-49e0-4d25-9022-94172d6b596d": {
+          "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
+          "title": "Vegetables with nut cream",
+          "itemDescription": "80/220g.",
+          "price": 7900
+        },
+        "58ea0376-e5d7-46e7-af14-15b9fd1c2765": {
+          "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
+          "title": "Smoked beef salad",
+          "itemDescription": "150g.",
+          "price": 9800
+        },
+        "88e4b48e-b724-42fa-b211-5ca87a886157": {
+          "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
+          "title": "Pastrami",
+          "itemDescription": "50g.",
+          "price": 4900
+        },
+        "1b33e3ef-98bb-4777-bae6-a386056a766c": {
+          "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
+          "title": "Pickled and sour vegetables",
+          "itemDescription": "300g.",
+          "price": 8900
+        },
+        "34554ada-d493-4f43-92b1-0882c7bc1aa5": {
+          "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
+          "title": "Chicken with honey sauce",
+          "itemDescription": "250g.",
+          "price": 14800,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7625258-f2f1-4892-863b-dd16a1e513af",
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "e0dee223-3fc4-4c76-8120-f7376961e919": {
+          "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
+          "title": "Homemade fried sausage",
+          "itemDescription": "150/100g.",
+          "price": 9900
+        },
+        "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0": {
+          "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
+          "title": "Stewed young goat meat",
+          "itemDescription": "300g.",
+          "price": 19900,
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "5bf88beb-9017-439a-9846-bbba124e3a75": {
+          "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
+          "title": "Sterlet",
+          "itemDescription": "500g.",
+          "price": 38900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/21faedd6-7b45-4999-96e1-d97e1f349bc7",
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "824e5afb-cd37-44d0-a6d9-d1334f29d229": {
+          "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
+          "title": "Soft salted sprats with canapes",
+          "itemDescription": "90/100/30g.",
+          "price": 6900
+        },
+        "6cf322ba-4d9a-428f-8023-f43935033db2": {
+          "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
+          "title": "Kyiv cake",
+          "itemDescription": "120g.",
+          "price": 8900
+        },
+        "ce60e09c-44ec-41eb-9160-dfa8ceda892f": {
+          "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
+          "title": "Filet mignon",
+          "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (150g).",
+          "price": 29900,
+          "customizationUuids": [
+            "525c8493-2248-495d-b2b0-f3ca31deda2c"
+          ]
+        },
+        "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421": {
+          "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
+          "title": "Herring with potatoes",
+          "itemDescription": "100/80/30g.",
+          "price": 9800
+        },
+        "8691a1df-5c5e-4b7e-9be5-174bf50dce8f": {
+          "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
+          "title": "Homemade sausage",
+          "itemDescription": "50g.",
+          "price": 4900
+        },
+        "392f069b-a854-409d-8b19-98d83eb47907": {
+          "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
+          "title": "Meat set: salo, bacon, pastrami, and black pudding",
+          "itemDescription": "200/60g.",
+          "price": 14900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0208323e-0980-478d-ab27-d2d9332cb7cf"
+        },
+        "61391680-3027-48e4-9bd8-4fc4e2f2c68d": {
+          "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
+          "title": "Salted salo",
+          "itemDescription": "50g.",
+          "price": 4900
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "9e2e7193-c86c-4d9e-847a-52648d377cc2",
+          "title": "Cold appetizers",
+          "itemUuids": [
+            "d6493732-49e0-4d25-9022-94172d6b596d",
+            "1b33e3ef-98bb-4777-bae6-a386056a766c",
+            "e5b36668-5c4d-4776-a558-f7fab12ce461",
+            "824e5afb-cd37-44d0-a6d9-d1334f29d229",
+            "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
+            "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
+            "c741224d-5c4a-4e13-8378-60566e79574a"
+          ],
+          "displayItems": [
+            {
+              "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
+              "title": "Vegetables with nut cream",
+              "itemDescription": "80/220g.",
+              "price": 7900
+            },
+            {
+              "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
+              "title": "Pickled and sour vegetables",
+              "itemDescription": "300g.",
+              "price": 8900
+            },
+            {
+              "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
+              "title": "Vorschmack",
+              "itemDescription": "120g.",
+              "price": 9900
+            },
+            {
+              "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
+              "title": "Soft salted sprats with canapes",
+              "itemDescription": "90/100/30g.",
+              "price": 6900
+            },
+            {
+              "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
+              "title": "Herring with potatoes",
+              "itemDescription": "100/80/30g.",
+              "price": 9800
+            },
+            {
+              "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
+              "title": "Foie gras pate",
+              "itemDescription": "100/30g.",
+              "price": 14800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c78939-67d4-4f76-a4e0-76244df2ca89"
+            },
+            {
+              "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
+              "title": "Bread",
+              "itemDescription": "100g.",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "uuid": "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
+          "title": "Hot appetizers",
+          "itemUuids": [
+            "311e2ccb-cf53-401a-99c0-60afba855e34",
+            "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
+            "e0dee223-3fc4-4c76-8120-f7376961e919"
+          ],
+          "displayItems": [
+            {
+              "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
+              "title": "Foie gras",
+              "itemDescription": "100/50g.",
+              "price": 19900
+            },
+            {
+              "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
+              "title": "Black pudding",
+              "itemDescription": "120/100g.",
+              "price": 9900
+            },
+            {
+              "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
+              "title": "Homemade fried sausage",
+              "itemDescription": "150/100g.",
+              "price": 9900
+            }
+          ]
+        },
+        {
+          "uuid": "517da1b0-7280-4212-b6a6-f70f381ccf93",
+          "title": "Salads",
+          "itemUuids": [
+            "58ea0376-e5d7-46e7-af14-15b9fd1c2765"
+          ],
+          "displayItems": [
+            {
+              "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
+              "title": "Smoked beef salad",
+              "itemDescription": "150g.",
+              "price": 9800
+            }
+          ]
+        },
+        {
+          "uuid": "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
+          "title": "Meat, salo, jamon",
+          "itemUuids": [
+            "f4c4c37a-9435-487e-a938-2b8737c6e195",
+            "7b7c3297-56b3-424e-9461-f82a3f4027f5",
+            "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
+            "cc143339-2d74-4450-9ffb-837d6d989d5f",
+            "88e4b48e-b724-42fa-b211-5ca87a886157",
+            "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
+            "392f069b-a854-409d-8b19-98d83eb47907"
+          ],
+          "displayItems": [
+            {
+              "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
+              "title": "Black pudding",
+              "itemDescription": "50g.",
+              "price": 4900
+            },
+            {
+              "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
+              "title": "Smoked chicken",
+              "itemDescription": "360g.",
+              "price": 12800
+            },
+            {
+              "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
+              "title": "Homemade sausage",
+              "itemDescription": "50g.",
+              "price": 4900
+            },
+            {
+              "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
+              "title": "Bacon",
+              "itemDescription": "50g.",
+              "price": 4900
+            },
+            {
+              "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
+              "title": "Pastrami",
+              "itemDescription": "50g.",
+              "price": 4900
+            },
+            {
+              "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
+              "title": "Salted salo",
+              "itemDescription": "50g.",
+              "price": 4900
+            },
+            {
+              "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
+              "title": "Meat set: salo, bacon, pastrami, and black pudding",
+              "itemDescription": "200/60g.",
+              "price": 14900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0208323e-0980-478d-ab27-d2d9332cb7cf"
+            }
+          ]
+        },
+        {
+          "uuid": "7073690f-2109-4da5-b397-0c64658beb0e",
+          "title": "Meat&Bread",
+          "itemUuids": [
+            "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
+            "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
+            "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca"
+          ],
+          "displayItems": [
+            {
+              "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
+              "title": "Marbled beef burger",
+              "itemDescription": "300g.",
+              "price": 13800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5c29deb-fd84-4ae0-aa86-0eeebec81c74"
+            },
+            {
+              "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
+              "title": "Pulled pork burger",
+              "itemDescription": "300g.",
+              "price": 12800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e99d71fe-2dd5-471a-bc92-6ec1c6307349"
+            },
+            {
+              "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
+              "title": "Pastrami sandwich",
+              "itemDescription": "300g.",
+              "price": 13800
+            }
+          ]
+        },
+        {
+          "uuid": "27afcc8e-dd00-4454-b763-d241373383eb",
+          "title": "Steaks",
+          "itemUuids": [
+            "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
+            "ce60e09c-44ec-41eb-9160-dfa8ceda892f"
+          ],
+          "displayItems": [
+            {
+              "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
+              "title": "Rib eye steak",
+              "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (250g).",
+              "price": 34900,
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            },
+            {
+              "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
+              "title": "Filet mignon",
+              "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (150g).",
+              "price": 29900,
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
+          "title": "Main couses",
+          "itemUuids": [
+            "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
+            "34554ada-d493-4f43-92b1-0882c7bc1aa5",
+            "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0"
+          ],
+          "displayItems": [
+            {
+              "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
+              "title": "Chicken Kyiv",
+              "itemDescription": "250g.",
+              "price": 13800,
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            },
+            {
+              "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
+              "title": "Chicken with honey sauce",
+              "itemDescription": "250g.",
+              "price": 14800,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7625258-f2f1-4892-863b-dd16a1e513af",
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            },
+            {
+              "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
+              "title": "Stewed young goat meat",
+              "itemDescription": "300g.",
+              "price": 19900,
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "5e560ec2-ad5f-4a84-8123-350b746a82dc",
+          "title": "Fish",
+          "itemUuids": [
+            "624107f0-9658-43a9-992c-dd8a7b75cb70",
+            "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
+            "5bf88beb-9017-439a-9846-bbba124e3a75"
+          ],
+          "displayItems": [
+            {
+              "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
+              "title": "River trout with vegetables",
+              "itemDescription": "300g",
+              "price": 19900,
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            },
+            {
+              "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
+              "title": "Catfish fillet",
+              "itemDescription": "300g.",
+              "price": 19800,
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            },
+            {
+              "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
+              "title": "Sterlet",
+              "itemDescription": "500g.",
+              "price": 38900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/21faedd6-7b45-4999-96e1-d97e1f349bc7",
+              "customizationUuids": [
+                "525c8493-2248-495d-b2b0-f3ca31deda2c"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "d6c20943-91eb-45c8-8308-3aad6f3e9360",
+          "title": "Soups",
+          "itemUuids": [
+            "dfb7a256-6650-4b56-a3e4-0de742737e40",
+            "17b780ab-8d3a-43f8-9dda-2c7a638321ac"
+          ],
+          "displayItems": [
+            {
+              "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
+              "title": "Red borscht",
+              "itemDescription": "300g.",
+              "price": 6900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/10491552-9be3-4525-8828-01beeb9d3d75"
+            },
+            {
+              "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
+              "title": "Chicken noodle soup with spinach and radish",
+              "itemDescription": "300g.",
+              "price": 6900
+            }
+          ]
+        },
+        {
+          "uuid": "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02",
+          "title": "Desserts",
+          "itemUuids": [
+            "6cf322ba-4d9a-428f-8023-f43935033db2",
+            "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
+            "51331986-bea4-4ff0-be54-66670de07e62"
+          ],
+          "displayItems": [
+            {
+              "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
+              "title": "Kyiv cake",
+              "itemDescription": "120g.",
+              "price": 8900
+            },
+            {
+              "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
+              "title": "Honey cream pie",
+              "itemDescription": "120g.",
+              "price": 8900
+            },
+            {
+              "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
+              "title": "Cheesecake",
+              "itemDescription": "120g.",
+              "price": 8900
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "subsectionsMap": {
+    "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a": {
+      "uuid": "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
+      "title": "Main couses",
+      "itemUuids": [
+        "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
+        "34554ada-d493-4f43-92b1-0882c7bc1aa5",
+        "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0"
+      ],
+      "displayItems": [
+        {
+          "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc": {
+      "uuid": "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
+      "title": "Hot appetizers",
+      "itemUuids": [
+        "311e2ccb-cf53-401a-99c0-60afba855e34",
+        "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
+        "e0dee223-3fc4-4c76-8120-f7376961e919"
+      ],
+      "displayItems": [
+        {
+          "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "9e2e7193-c86c-4d9e-847a-52648d377cc2": {
+      "uuid": "9e2e7193-c86c-4d9e-847a-52648d377cc2",
+      "title": "Cold appetizers",
+      "itemUuids": [
+        "d6493732-49e0-4d25-9022-94172d6b596d",
+        "1b33e3ef-98bb-4777-bae6-a386056a766c",
+        "e5b36668-5c4d-4776-a558-f7fab12ce461",
+        "824e5afb-cd37-44d0-a6d9-d1334f29d229",
+        "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
+        "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
+        "c741224d-5c4a-4e13-8378-60566e79574a"
+      ],
+      "displayItems": [
+        {
+          "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0": {
+      "uuid": "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
+      "title": "Meat, salo, jamon",
+      "itemUuids": [
+        "f4c4c37a-9435-487e-a938-2b8737c6e195",
+        "7b7c3297-56b3-424e-9461-f82a3f4027f5",
+        "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
+        "cc143339-2d74-4450-9ffb-837d6d989d5f",
+        "88e4b48e-b724-42fa-b211-5ca87a886157",
+        "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
+        "392f069b-a854-409d-8b19-98d83eb47907"
+      ],
+      "displayItems": [
+        {
+          "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "67086c4b-234f-47f3-8ba5-8b60e78708e9": {
+      "uuid": "67086c4b-234f-47f3-8ba5-8b60e78708e9",
+      "title": "Холодні закуски",
+      "itemUuids": [
+        "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
+        "5c919ca4-747b-4961-b227-105b06c4e635",
+        "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
+        "007be10f-dc79-4435-bd66-04b2d121ce37",
+        "9709194d-84e4-49f5-9dbe-75259613fefe",
+        "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
+        "bb1d2053-746c-46ec-b01c-f92ed4908c42"
+      ],
+      "displayItems": [
+        {
+          "uuid": "09557c0f-14e0-4e2b-85af-2f40fb5bad8c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5c919ca4-747b-4961-b227-105b06c4e635",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0216e88b-2ed4-45cf-9a6d-dbd0297c9624",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "007be10f-dc79-4435-bd66-04b2d121ce37",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9709194d-84e4-49f5-9dbe-75259613fefe",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8b6a85b9-7328-4f55-b6a6-0d62fefc53de",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "bb1d2053-746c-46ec-b01c-f92ed4908c42",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "694e5d4b-d51d-4404-85e9-6284f4fbeabf": {
+      "uuid": "694e5d4b-d51d-4404-85e9-6284f4fbeabf",
+      "title": "Перші страви",
+      "itemUuids": [
+        "75556789-8cb6-4214-9ebf-1b8b272aca5e",
+        "0395f556-5675-4040-b5fa-39a83d669917",
+        "c40f7892-2f87-4c74-901d-be47f5f6d15b"
+      ],
+      "displayItems": [
+        {
+          "uuid": "75556789-8cb6-4214-9ebf-1b8b272aca5e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0395f556-5675-4040-b5fa-39a83d669917",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c40f7892-2f87-4c74-901d-be47f5f6d15b",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4": {
+      "uuid": "b1de3b06-8d30-4b9a-9fd0-6e1c976708b4",
+      "title": "Гарніри",
+      "itemUuids": [
+        "74a2bbe5-726c-4678-927b-88fe67ab93ba",
+        "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
+        "eee26493-2af1-4564-8335-fb11c0b093da"
+      ],
+      "displayItems": [
+        {
+          "uuid": "74a2bbe5-726c-4678-927b-88fe67ab93ba",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8f7c2988-6326-45d8-bb29-fa05ea1e8728",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "eee26493-2af1-4564-8335-fb11c0b093da",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "fd6d22cd-7635-4de4-9100-589f62c59785": {
+      "uuid": "fd6d22cd-7635-4de4-9100-589f62c59785",
+      "title": "М'ясо, сало, ковбаса",
+      "itemUuids": [
+        "a77d436a-6b5a-40be-8dfc-598f085eec85",
+        "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
+        "eca414ca-21f3-402d-b76a-c57262d4d606",
+        "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
+        "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
+        "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
+        "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6"
+      ],
+      "displayItems": [
+        {
+          "uuid": "a77d436a-6b5a-40be-8dfc-598f085eec85",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f6c94f1d-47f1-4811-a8ea-8b053a60593a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "eca414ca-21f3-402d-b76a-c57262d4d606",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0aeb6176-ee80-485d-bbd9-3d46a4801d0f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4ab49d94-5242-474b-a1e2-2c73ab6c9837",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "609ef67c-b206-4732-b2a6-b6f1bf86e83f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "fd17d7fb-d5c8-4e62-a2c0-d0d508f7c7a6",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "5e560ec2-ad5f-4a84-8123-350b746a82dc": {
+      "uuid": "5e560ec2-ad5f-4a84-8123-350b746a82dc",
+      "title": "Fish",
+      "itemUuids": [
+        "624107f0-9658-43a9-992c-dd8a7b75cb70",
+        "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
+        "5bf88beb-9017-439a-9846-bbba124e3a75"
+      ],
+      "displayItems": [
+        {
+          "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "d6c20943-91eb-45c8-8308-3aad6f3e9360": {
+      "uuid": "d6c20943-91eb-45c8-8308-3aad6f3e9360",
+      "title": "Soups",
+      "itemUuids": [
+        "dfb7a256-6650-4b56-a3e4-0de742737e40",
+        "17b780ab-8d3a-43f8-9dda-2c7a638321ac"
+      ],
+      "displayItems": [
+        {
+          "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "bfef5454-3970-4dc2-9e1e-2279e6752612": {
+      "uuid": "bfef5454-3970-4dc2-9e1e-2279e6752612",
+      "title": "М'ясо&хліб",
+      "itemUuids": [
+        "445c939b-810b-4713-8243-bed2fbc5cf22",
+        "c9fc96be-b463-4cea-809b-a16e8aa42811",
+        "99319f98-1ee7-42fa-b495-f70c93a19483"
+      ],
+      "displayItems": [
+        {
+          "uuid": "445c939b-810b-4713-8243-bed2fbc5cf22",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c9fc96be-b463-4cea-809b-a16e8aa42811",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "99319f98-1ee7-42fa-b495-f70c93a19483",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "27afcc8e-dd00-4454-b763-d241373383eb": {
+      "uuid": "27afcc8e-dd00-4454-b763-d241373383eb",
+      "title": "Steaks",
+      "itemUuids": [
+        "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
+        "ce60e09c-44ec-41eb-9160-dfa8ceda892f"
+      ],
+      "displayItems": [
+        {
+          "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "7073690f-2109-4da5-b397-0c64658beb0e": {
+      "uuid": "7073690f-2109-4da5-b397-0c64658beb0e",
+      "title": "Meat&Bread",
+      "itemUuids": [
+        "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
+        "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
+        "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca"
+      ],
+      "displayItems": [
+        {
+          "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "517da1b0-7280-4212-b6a6-f70f381ccf93": {
+      "uuid": "517da1b0-7280-4212-b6a6-f70f381ccf93",
+      "title": "Salads",
+      "itemUuids": [
+        "58ea0376-e5d7-46e7-af14-15b9fd1c2765"
+      ],
+      "displayItems": [
+        {
+          "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "dda025f4-5e46-4dff-9824-8f3b42eb8753": {
+      "uuid": "dda025f4-5e46-4dff-9824-8f3b42eb8753",
+      "title": "Стейки",
+      "itemUuids": [
+        "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
+        "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d"
+      ],
+      "displayItems": [
+        {
+          "uuid": "a14e48c4-fb04-4ac7-8ef8-358cdf843441",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d644d41c-a20f-4bc9-a4b1-bae3bfa1900d",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "a928f4b6-4583-44fa-aa8c-92179322c7cb": {
+      "uuid": "a928f4b6-4583-44fa-aa8c-92179322c7cb",
+      "title": "Салати",
+      "itemUuids": [
+        "63d42167-6ab5-4238-bba5-bc7052243d79",
+        "e5edfbd0-4b2a-4582-b315-729898153fbd",
+        "e3520831-b759-4da5-aa0e-fd0cfafbc701",
+        "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25"
+      ],
+      "displayItems": [
+        {
+          "uuid": "63d42167-6ab5-4238-bba5-bc7052243d79",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e5edfbd0-4b2a-4582-b315-729898153fbd",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e3520831-b759-4da5-aa0e-fd0cfafbc701",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f5c8d0cd-94b6-4bd6-a308-cab75d88ae25",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "35082391-53e6-45c8-a75e-fb8678f80d09": {
+      "uuid": "35082391-53e6-45c8-a75e-fb8678f80d09",
+      "title": "Риба",
+      "itemUuids": [
+        "1492064e-f553-485f-a080-0920b02557ba",
+        "acb22565-7cb0-48b1-9157-23c477df859d",
+        "5dfee693-1d5a-4689-b10f-9cfff1c48df6"
+      ],
+      "displayItems": [
+        {
+          "uuid": "1492064e-f553-485f-a080-0920b02557ba",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "acb22565-7cb0-48b1-9157-23c477df859d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5dfee693-1d5a-4689-b10f-9cfff1c48df6",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea": {
+      "uuid": "8433947c-6c30-4ec1-b1b5-cf9b7ccd4fea",
+      "title": "Солодке",
+      "itemUuids": [
+        "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
+        "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
+        "6c6b9018-7ff4-4643-bc30-c35e6dce3f94"
+      ],
+      "displayItems": [
+        {
+          "uuid": "0189df2e-1b3e-44b3-b8dc-2e71f4591112",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "df37ed10-57ea-4d3e-85cc-ca938f3563e5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6c6b9018-7ff4-4643-bc30-c35e6dce3f94",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02": {
+      "uuid": "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02",
+      "title": "Desserts",
+      "itemUuids": [
+        "6cf322ba-4d9a-428f-8023-f43935033db2",
+        "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
+        "51331986-bea4-4ff0-be54-66670de07e62"
+      ],
+      "displayItems": [
+        {
+          "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "78b23c3a-3952-4065-b4e1-e90ae01ed5ee": {
+      "uuid": "78b23c3a-3952-4065-b4e1-e90ae01ed5ee",
+      "title": "Основні страви",
+      "itemUuids": [
+        "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
+        "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
+        "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
+        "17e89ae2-fb20-4268-9d76-e332de935b02"
+      ],
+      "displayItems": [
+        {
+          "uuid": "0a4c7cbf-b9fb-4351-a826-4387e1de2090",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "43cdb1b3-46fd-4bc9-a724-255095e9f8cd",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6210dcca-9681-4a1f-b727-72ea7c93f1e8",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "17e89ae2-fb20-4268-9d76-e332de935b02",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "6ca74af5-a300-465a-b2d2-c6d4e49d3b88": {
+      "uuid": "6ca74af5-a300-465a-b2d2-c6d4e49d3b88",
+      "title": "Гарячі закуски",
+      "itemUuids": [
+        "85e00244-e998-4157-8b71-19db9f877902",
+        "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
+        "f91d384a-34c2-43b3-a266-9523e99e1d9b"
+      ],
+      "displayItems": [
+        {
+          "uuid": "85e00244-e998-4157-8b71-19db9f877902",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1e510eaa-dfdf-4bb9-9b63-7cdc6390ac75",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f91d384a-34c2-43b3-a266-9523e99e1d9b",
+          "type": "ITEM"
+        }
+      ]
+    }
+  },
+  "location": {
+    "latitude": 50.450893,
+    "longitude": 30.5226522,
+    "address": {
+      "address1": "Maidan Nezalezhnosti, 1",
+      "aptOrSuite": "",
+      "city": "Kyiv",
+      "country": "UA",
+      "postalCode": "02000",
+      "region": "",
+      "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
+    }
+  },
+  "publicContact": {
+    "publicPhoneNumber": "+380689071991"
+  },
+  "priceBucket": "₴₴",
+  "slug": "остання-барикада",
+  "isOrderable": true,
+  "disableCheckoutInstruction": false,
+  "supportedDiningModes": [
+    "DELIVERY"
+  ],
+  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
+  "heroImage": {
+    "items": [
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c",
+        "width": 2880,
+        "height": 2304
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/9a981e84-0378-49a5-a293-f7b1a08f609a",
+        "width": 1080,
+        "height": 864
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/793ddb47-0e9d-429a-9138-9f4756788543",
+        "width": 750,
+        "height": 600
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/5e9d71bd-ef9f-4a45-a33d-8656f5d4182d",
+        "width": 640,
+        "height": 512
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
+        "width": 550,
+        "height": 440
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/7d6a8a34-7e9e-4697-b1c1-6a71caa96903",
+        "width": 240,
+        "height": 192
+      }
+    ]
+  },
+  "closedEtaMessage": "Currently unavailable",
+  "notOrderableMessage": "Currently unavailable",
+  "storeBadges": {
+    "endorsement": {
+      "backgroundColor": {
+        "alpha": 1,
+        "color": "59BD5A"
+      },
+      "iconColor": {
+        "alpha": 1,
+        "color": "59BD5A"
+      },
+      "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+      "text": "100% українська гастрономія",
+      "textColor": {
+        "alpha": 1,
+        "color": "FFFFFF"
+      }
+    },
+    "disclaimerBadge": {
+      "textFormat": ""
+    },
+    "ratingBadge": {
+      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(56)</span></span>",
+      "accessibilityText": "Rated 4.5 out of 5 stars based on 56 reviews."
+    },
+    "taglineBadge": {
+      "textFormat": "<span>₴₴ • Ukrainian • European • Seafood</span>"
+    },
+    "etaBadge": {
+      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+      "text": "25–35 MINS",
+      "textFormat": "<span>25–35 MINS</span>",
+      "accessibilityText": "Delivered in 25 to 35 MINS"
+    }
+  },
+  "etaRange": {
+    "min": 25,
+    "max": 35,
+    "raw": 30
+  },
+  "fareInfo": {
+    "serviceFee": 30
+  },
+  "eaterFields": {},
+  "meta": {
+    "sectionHoursInfo": [
+      {
+        "dayRange": "Every day",
+        "sectionHours": [
+          {
+            "startTime": 600,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 600,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      }
+    ]
+  },
+  "nuggets": [],
+  "displayConfig": {
+    "regionalDisplayType": "DEFAULT"
+  },
+  "enabledFulfillmentTypes": [
+    "DELIVERY"
+  ],
+  "citySlug": "kyiv",
+  "cityName": "Kyiv",
+  "currencyCode": "UAH",
+  "currencyNumDigitsAfterDecimal": 2
 }

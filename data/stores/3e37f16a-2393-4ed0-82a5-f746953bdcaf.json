@@ -1,1056 +1,1054 @@
 {
-    "store": {
-        "uuid": "3e37f16a-2393-4ed0-82a5-f746953bdcaf",
-        "title": "Dogz&Burgerz (ТЦ Globus)",
-        "regionId": 943,
-        "categories": [
-            {
-                "uuid": "American",
-                "name": "Американська",
-                "keyName": "American"
-            },
-            {
-                "uuid": "FastFood",
-                "name": "Фастфуд",
-                "keyName": "FastFood"
-            },
-            {
-                "uuid": "StreetFood",
-                "name": "Вулична їжа",
-                "keyName": "StreetFood"
-            }
-        ],
-        "sections": [
-            {
-                "uuid": "7dee56b2-e8b3-4ca7-a765-6d219ab1a01b",
-                "title": "SWITCH LANGUAGE (UKR)",
-                "subtitle": "10:00 AM – 10:00 PM",
-                "isTop": true,
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "82b4a149-d017-49eb-912a-a4688016cbe7",
-                    "741f841a-8037-4657-8636-faf2e6fd263a",
-                    "6f95ed16-1f65-440a-b23b-b1498ab1f995",
-                    "dc5c4689-e5bf-4c31-af26-615e6d5ee16a"
-                ]
-            },
-            {
-                "uuid": "7d09268a-9c61-4059-b224-6536a7352758",
-                "title": "SWITCH LANGUAGE (ENG)",
-                "subtitle": "10:00 AM – 10:00 PM",
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
-                    "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
-                    "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
-                    "a33a1971-f588-4532-887b-f4691a2d982c"
-                ]
-            }
-        ],
-        "sectionEntitiesMap": {
-            "7dee56b2-e8b3-4ca7-a765-6d219ab1a01b": {
-                "itemsMap": {
-                    "16a27ee9-56bd-48ad-9709-5bcedba500ca": {
-                        "uuid": "16a27ee9-56bd-48ad-9709-5bcedba500ca",
-                        "title": "Меню хот-дог вега",
-                        "itemDescription": "Хот дог вега (155г). картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                        "price": 9900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c658d3e-7bc1-4ebe-9755-48faecfb55fe",
-                        "endorsement": {
-                            "backgroundColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                            "text": "Вегетаріанська страва",
-                            "textColor": {
-                                "alpha": 1,
-                                "color": "FFFFFF"
-                            }
-                        },
-                        "customizationUuids": [
-                            "287d0f77-ea68-49f8-95df-401defb7cceb"
-                        ]
-                    },
-                    "b8191e36-2282-4541-b337-f083d197fa7d": {
-                        "uuid": "b8191e36-2282-4541-b337-f083d197fa7d",
-                        "title": "Бургер Surf&Turf з котлетою та креветками",
-                        "itemDescription": "155г.",
-                        "price": 5900
-                    },
-                    "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa": {
-                        "uuid": "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
-                        "title": "Меню даблдог",
-                        "itemDescription": "Даблдог класичний (235г), картопля діпз з сирним соусом (170г, Кока-кола (330мл).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddae4399-24d5-44d3-a4f7-cf8f9a238360",
-                        "customizationUuids": [
-                            "287d0f77-ea68-49f8-95df-401defb7cceb"
-                        ]
-                    },
-                    "df8169f4-05e6-46df-bcfd-f4dcfed1af20": {
-                        "uuid": "df8169f4-05e6-46df-bcfd-f4dcfed1af20",
-                        "title": "Меню даблдог вега",
-                        "itemDescription": "Даблдог вега (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0bc8d86-12e7-41c7-a5c3-6d77ec5385ee",
-                        "endorsement": {
-                            "backgroundColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                            "text": "Вегетаріанська страва",
-                            "textColor": {
-                                "alpha": 1,
-                                "color": "FFFFFF"
-                            }
-                        },
-                        "customizationUuids": [
-                            "287d0f77-ea68-49f8-95df-401defb7cceb"
-                        ]
-                    },
-                    "adafa0de-1741-4903-b215-1ccd4fb2f8b5": {
-                        "uuid": "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
-                        "title": "Картопля діпз з сирним соусом",
-                        "itemDescription": "170г.",
-                        "price": 3900
-                    },
-                    "b1cf691a-ce4a-48f4-9729-d589a6f96c66": {
-                        "uuid": "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
-                        "title": "Вода негазована",
-                        "itemDescription": "330мл.",
-                        "price": 2900
-                    },
-                    "edc5c561-d933-428a-9fb0-a4d84d2ffe9c": {
-                        "uuid": "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
-                        "title": "Креветка гриль",
-                        "itemDescription": "65г.",
-                        "price": 3900
-                    },
-                    "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db": {
-                        "uuid": "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db",
-                        "title": "Пиріг з яблуками",
-                        "itemDescription": "150г.",
-                        "price": 2900
-                    },
-                    "58ccf3aa-5398-47a3-a2ba-f379f2e492e1": {
-                        "uuid": "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
-                        "title": "Меню голий бургер",
-                        "itemDescription": "Голий бургер з подвійною котлетою (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/50acb4d5-45f6-4053-b9ab-5893f6297341",
-                        "nutritionalInfo": {},
-                        "customizationUuids": [
-                            "90e7505f-e477-495a-a8fc-1ec6ca232509",
-                            "287d0f77-ea68-49f8-95df-401defb7cceb"
-                        ]
-                    },
-                    "111f3723-e9f4-47c1-933c-59725b069b1d": {
-                        "uuid": "111f3723-e9f4-47c1-933c-59725b069b1d",
-                        "title": "Кока Кола",
-                        "itemDescription": "330мл.",
-                        "price": 2900
-                    },
-                    "73a6c784-075d-4ffb-96c2-929139d5f19a": {
-                        "uuid": "73a6c784-075d-4ffb-96c2-929139d5f19a",
-                        "title": "Пиріг з куркою",
-                        "itemDescription": "170г.",
-                        "price": 2900
-                    },
-                    "edc2cfc5-3f47-427c-9cc6-4902e787c911": {
-                        "uuid": "edc2cfc5-3f47-427c-9cc6-4902e787c911",
-                        "title": "Меню бургер",
-                        "itemDescription": "Бургер з подвійною котлетою (180г), картопля діпз з сирним соусом(170г), Кока-кола (330мл).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d17b84d9-7752-4f85-bc53-bfdaeef2b16f",
-                        "nutritionalInfo": {},
-                        "customizationUuids": [
-                            "90e7505f-e477-495a-a8fc-1ec6ca232509",
-                            "287d0f77-ea68-49f8-95df-401defb7cceb"
-                        ]
-                    },
-                    "529885f6-0d2a-4ede-8ab0-70d7ec32731f": {
-                        "uuid": "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
-                        "title": "Меню хот-дог",
-                        "itemDescription": "Хот дог класичний (170г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                        "price": 9900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6c9e7a0-dba4-4aa6-b733-e6c8c465e259",
-                        "customizationUuids": [
-                            "287d0f77-ea68-49f8-95df-401defb7cceb"
-                        ]
-                    },
-                    "cf64a48e-9e60-4d15-92d3-4637169a4944": {
-                        "uuid": "cf64a48e-9e60-4d15-92d3-4637169a4944",
-                        "title": "Вода газована",
-                        "itemDescription": "330мл.",
-                        "price": 2900
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "82b4a149-d017-49eb-912a-a4688016cbe7",
-                        "title": "Набори меню",
-                        "itemUuids": [
-                            "edc2cfc5-3f47-427c-9cc6-4902e787c911",
-                            "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
-                            "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
-                            "16a27ee9-56bd-48ad-9709-5bcedba500ca",
-                            "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
-                            "df8169f4-05e6-46df-bcfd-f4dcfed1af20"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "edc2cfc5-3f47-427c-9cc6-4902e787c911",
-                                "title": "Меню бургер",
-                                "itemDescription": "Бургер з подвійною котлетою (180г), картопля діпз з сирним соусом(170г), Кока-кола (330мл).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d17b84d9-7752-4f85-bc53-bfdaeef2b16f",
-                                "nutritionalInfo": {},
-                                "customizationUuids": [
-                                    "90e7505f-e477-495a-a8fc-1ec6ca232509",
-                                    "287d0f77-ea68-49f8-95df-401defb7cceb"
-                                ]
-                            },
-                            {
-                                "uuid": "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
-                                "title": "Меню голий бургер",
-                                "itemDescription": "Голий бургер з подвійною котлетою (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/50acb4d5-45f6-4053-b9ab-5893f6297341",
-                                "nutritionalInfo": {},
-                                "customizationUuids": [
-                                    "90e7505f-e477-495a-a8fc-1ec6ca232509",
-                                    "287d0f77-ea68-49f8-95df-401defb7cceb"
-                                ]
-                            },
-                            {
-                                "uuid": "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
-                                "title": "Меню хот-дог",
-                                "itemDescription": "Хот дог класичний (170г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                                "price": 9900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6c9e7a0-dba4-4aa6-b733-e6c8c465e259",
-                                "customizationUuids": [
-                                    "287d0f77-ea68-49f8-95df-401defb7cceb"
-                                ]
-                            },
-                            {
-                                "uuid": "16a27ee9-56bd-48ad-9709-5bcedba500ca",
-                                "title": "Меню хот-дог вега",
-                                "itemDescription": "Хот дог вега (155г). картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                                "price": 9900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c658d3e-7bc1-4ebe-9755-48faecfb55fe",
-                                "endorsement": {
-                                    "backgroundColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                                    "text": "Вегетаріанська страва",
-                                    "textColor": {
-                                        "alpha": 1,
-                                        "color": "FFFFFF"
-                                    }
-                                },
-                                "customizationUuids": [
-                                    "287d0f77-ea68-49f8-95df-401defb7cceb"
-                                ]
-                            },
-                            {
-                                "uuid": "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
-                                "title": "Меню даблдог",
-                                "itemDescription": "Даблдог класичний (235г), картопля діпз з сирним соусом (170г, Кока-кола (330мл).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddae4399-24d5-44d3-a4f7-cf8f9a238360",
-                                "customizationUuids": [
-                                    "287d0f77-ea68-49f8-95df-401defb7cceb"
-                                ]
-                            },
-                            {
-                                "uuid": "df8169f4-05e6-46df-bcfd-f4dcfed1af20",
-                                "title": "Меню даблдог вега",
-                                "itemDescription": "Даблдог вега (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0bc8d86-12e7-41c7-a5c3-6d77ec5385ee",
-                                "endorsement": {
-                                    "backgroundColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                                    "text": "Вегетаріанська страва",
-                                    "textColor": {
-                                        "alpha": 1,
-                                        "color": "FFFFFF"
-                                    }
-                                },
-                                "customizationUuids": [
-                                    "287d0f77-ea68-49f8-95df-401defb7cceb"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "741f841a-8037-4657-8636-faf2e6fd263a",
-                        "title": "Снеки",
-                        "itemUuids": [
-                            "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
-                            "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
-                            "73a6c784-075d-4ffb-96c2-929139d5f19a",
-                            "b8191e36-2282-4541-b337-f083d197fa7d"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
-                                "title": "Картопля діпз з сирним соусом",
-                                "itemDescription": "170г.",
-                                "price": 3900
-                            },
-                            {
-                                "uuid": "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
-                                "title": "Креветка гриль",
-                                "itemDescription": "65г.",
-                                "price": 3900
-                            },
-                            {
-                                "uuid": "73a6c784-075d-4ffb-96c2-929139d5f19a",
-                                "title": "Пиріг з куркою",
-                                "itemDescription": "170г.",
-                                "price": 2900
-                            },
-                            {
-                                "uuid": "b8191e36-2282-4541-b337-f083d197fa7d",
-                                "title": "Бургер Surf&Turf з котлетою та креветками",
-                                "itemDescription": "155г.",
-                                "price": 5900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "6f95ed16-1f65-440a-b23b-b1498ab1f995",
-                        "title": "Десерти",
-                        "itemUuids": [
-                            "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db",
-                                "title": "Пиріг з яблуками",
-                                "itemDescription": "150г.",
-                                "price": 2900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "dc5c4689-e5bf-4c31-af26-615e6d5ee16a",
-                        "title": "Напої",
-                        "itemUuids": [
-                            "111f3723-e9f4-47c1-933c-59725b069b1d",
-                            "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
-                            "cf64a48e-9e60-4d15-92d3-4637169a4944"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "111f3723-e9f4-47c1-933c-59725b069b1d",
-                                "title": "Кока Кола",
-                                "itemDescription": "330мл.",
-                                "price": 2900
-                            },
-                            {
-                                "uuid": "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
-                                "title": "Вода негазована",
-                                "itemDescription": "330мл.",
-                                "price": 2900
-                            },
-                            {
-                                "uuid": "cf64a48e-9e60-4d15-92d3-4637169a4944",
-                                "title": "Вода газована",
-                                "itemDescription": "330мл.",
-                                "price": 2900
-                            }
-                        ]
-                    }
-                ]
-            },
-            "7d09268a-9c61-4059-b224-6536a7352758": {
-                "itemsMap": {
-                    "8fb54491-ba06-41b9-9da8-b27196bbc2e2": {
-                        "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
-                        "title": "Burger menu",
-                        "itemDescription": "Double burger (180g), Potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba31abdb-3e94-491f-8430-da46bf5e87b2",
-                        "nutritionalInfo": {},
-                        "customizationUuids": [
-                            "80a1aa9f-c8e8-4aae-9551-1833f9505e6a",
-                            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                        ]
-                    },
-                    "f0edd938-4de7-460d-947a-afd2f39aec0d": {
-                        "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
-                        "title": "Vega Double dog Menu",
-                        "itemDescription": "Vega double dog (200g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d535d9fd-2b3c-4966-8648-196d4ada9ceb",
-                        "endorsement": {
-                            "backgroundColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                            "text": "Vegan",
-                            "textColor": {
-                                "alpha": 1,
-                                "color": "FFFFFF"
-                            }
-                        },
-                        "customizationUuids": [
-                            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                        ]
-                    },
-                    "d8875a96-1943-46e5-b778-32af63b04f6c": {
-                        "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
-                        "title": "Chicken pie",
-                        "itemDescription": "170g.",
-                        "price": 2900
-                    },
-                    "805d66d1-2aa4-49ff-9d66-ceec3b43d594": {
-                        "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
-                        "title": "Double dog menu",
-                        "itemDescription": "Double dog (235g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                        "price": 9900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/202668ad-5536-4f6f-8edb-54f07f42cfe0",
-                        "endorsement": {
-                            "backgroundColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                            "text": "Vegan",
-                            "textColor": {
-                                "alpha": 1,
-                                "color": "FFFFFF"
-                            }
-                        },
-                        "customizationUuids": [
-                            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                        ]
-                    },
-                    "38e28889-5fe2-4784-bcb7-368cfdff5a2d": {
-                        "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
-                        "title": "Grilled shrimps",
-                        "itemDescription": "65g.",
-                        "price": 3900
-                    },
-                    "4baa7a4f-a72f-4b11-b594-c504988b81a7": {
-                        "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
-                        "title": "Surf & Turf Burger with cutlet and shrimps",
-                        "itemDescription": "155g.",
-                        "price": 5900
-                    },
-                    "215b2f51-1b1b-470f-9f5b-bfa06500fa7e": {
-                        "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
-                        "title": "Sparkling water",
-                        "itemDescription": "330ml.",
-                        "price": 2900
-                    },
-                    "339d61ae-615e-4413-9141-a67a2b4d06ca": {
-                        "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
-                        "title": "Still water",
-                        "itemDescription": "330ml.",
-                        "price": 2900
-                    },
-                    "2e735467-5582-4cc3-bb9f-83a500241c52": {
-                        "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
-                        "title": "Meat hot-dog menu",
-                        "itemDescription": "Meat hot-dog (170g), potato dips with cheese sauce  (170g), and Coca-cola (330ml).",
-                        "price": 9900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/304c3ebe-3c21-464d-9f8d-55f38e38848f",
-                        "customizationUuids": [
-                            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                        ]
-                    },
-                    "0a79ad8b-3858-4fb1-af1a-6f4a47e46851": {
-                        "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
-                        "title": "Apple pie",
-                        "itemDescription": "150g.",
-                        "price": 2900
-                    },
-                    "a497ed36-1a87-49e4-b1ae-e288a16ebc2d": {
-                        "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
-                        "title": "Naked burger menu",
-                        "itemDescription": "Naked HP double burger (200g), potato dips with cheese sauce (170g), and Coca-cola (330мл).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/613dde57-9680-4097-a411-8ecc81ba1dfe",
-                        "nutritionalInfo": {},
-                        "customizationUuids": [
-                            "ed2af4e4-c26f-48fd-b888-ec7551f9baf8",
-                            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                        ]
-                    },
-                    "d57829e1-4516-4946-bbd1-c73b6414f548": {
-                        "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
-                        "title": "Vega hot dog menu",
-                        "itemDescription": "Vega hot dog (155g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                        "price": 10900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/77051c75-c81d-4662-affe-3ae3c364a834",
-                        "customizationUuids": [
-                            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                        ]
-                    },
-                    "482db4b0-b1b1-440e-a587-636b4a906542": {
-                        "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
-                        "title": "Coca Cola",
-                        "itemDescription": "330ml.",
-                        "price": 2900
-                    },
-                    "ca3fa025-9ee8-4959-bec6-cafcd85b1020": {
-                        "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
-                        "title": "Potato dips with cheese sauce",
-                        "itemDescription": "170g.",
-                        "price": 3900
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
-                        "title": "Menu sets",
-                        "itemUuids": [
-                            "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
-                            "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
-                            "d57829e1-4516-4946-bbd1-c73b6414f548",
-                            "2e735467-5582-4cc3-bb9f-83a500241c52",
-                            "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
-                            "f0edd938-4de7-460d-947a-afd2f39aec0d"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
-                                "title": "Burger menu",
-                                "itemDescription": "Double burger (180g), Potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba31abdb-3e94-491f-8430-da46bf5e87b2",
-                                "nutritionalInfo": {},
-                                "customizationUuids": [
-                                    "80a1aa9f-c8e8-4aae-9551-1833f9505e6a",
-                                    "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                                ]
-                            },
-                            {
-                                "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
-                                "title": "Naked burger menu",
-                                "itemDescription": "Naked HP double burger (200g), potato dips with cheese sauce (170g), and Coca-cola (330мл).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/613dde57-9680-4097-a411-8ecc81ba1dfe",
-                                "nutritionalInfo": {},
-                                "customizationUuids": [
-                                    "ed2af4e4-c26f-48fd-b888-ec7551f9baf8",
-                                    "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                                ]
-                            },
-                            {
-                                "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
-                                "title": "Vega hot dog menu",
-                                "itemDescription": "Vega hot dog (155g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/77051c75-c81d-4662-affe-3ae3c364a834",
-                                "customizationUuids": [
-                                    "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                                ]
-                            },
-                            {
-                                "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
-                                "title": "Meat hot-dog menu",
-                                "itemDescription": "Meat hot-dog (170g), potato dips with cheese sauce  (170g), and Coca-cola (330ml).",
-                                "price": 9900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/304c3ebe-3c21-464d-9f8d-55f38e38848f",
-                                "customizationUuids": [
-                                    "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                                ]
-                            },
-                            {
-                                "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
-                                "title": "Double dog menu",
-                                "itemDescription": "Double dog (235g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                                "price": 9900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/202668ad-5536-4f6f-8edb-54f07f42cfe0",
-                                "endorsement": {
-                                    "backgroundColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                                    "text": "Vegan",
-                                    "textColor": {
-                                        "alpha": 1,
-                                        "color": "FFFFFF"
-                                    }
-                                },
-                                "customizationUuids": [
-                                    "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                                ]
-                            },
-                            {
-                                "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
-                                "title": "Vega Double dog Menu",
-                                "itemDescription": "Vega double dog (200g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-                                "price": 10900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d535d9fd-2b3c-4966-8648-196d4ada9ceb",
-                                "endorsement": {
-                                    "backgroundColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                                    "text": "Vegan",
-                                    "textColor": {
-                                        "alpha": 1,
-                                        "color": "FFFFFF"
-                                    }
-                                },
-                                "customizationUuids": [
-                                    "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
-                        "title": "Snacks",
-                        "itemUuids": [
-                            "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
-                            "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
-                            "d8875a96-1943-46e5-b778-32af63b04f6c",
-                            "4baa7a4f-a72f-4b11-b594-c504988b81a7"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
-                                "title": "Potato dips with cheese sauce",
-                                "itemDescription": "170g.",
-                                "price": 3900
-                            },
-                            {
-                                "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
-                                "title": "Grilled shrimps",
-                                "itemDescription": "65g.",
-                                "price": 3900
-                            },
-                            {
-                                "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
-                                "title": "Chicken pie",
-                                "itemDescription": "170g.",
-                                "price": 2900
-                            },
-                            {
-                                "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
-                                "title": "Surf & Turf Burger with cutlet and shrimps",
-                                "itemDescription": "155g.",
-                                "price": 5900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
-                        "title": "Desserts",
-                        "itemUuids": [
-                            "0a79ad8b-3858-4fb1-af1a-6f4a47e46851"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
-                                "title": "Apple pie",
-                                "itemDescription": "150g.",
-                                "price": 2900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "a33a1971-f588-4532-887b-f4691a2d982c",
-                        "title": "Beverages",
-                        "itemUuids": [
-                            "482db4b0-b1b1-440e-a587-636b4a906542",
-                            "339d61ae-615e-4413-9141-a67a2b4d06ca",
-                            "215b2f51-1b1b-470f-9f5b-bfa06500fa7e"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
-                                "title": "Coca Cola",
-                                "itemDescription": "330ml.",
-                                "price": 2900
-                            },
-                            {
-                                "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
-                                "title": "Still water",
-                                "itemDescription": "330ml.",
-                                "price": 2900
-                            },
-                            {
-                                "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
-                                "title": "Sparkling water",
-                                "itemDescription": "330ml.",
-                                "price": 2900
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        "subsectionsMap": {
-            "82b4a149-d017-49eb-912a-a4688016cbe7": {
-                "uuid": "82b4a149-d017-49eb-912a-a4688016cbe7",
-                "title": "Набори меню",
-                "itemUuids": [
-                    "edc2cfc5-3f47-427c-9cc6-4902e787c911",
-                    "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
-                    "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
-                    "16a27ee9-56bd-48ad-9709-5bcedba500ca",
-                    "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
-                    "df8169f4-05e6-46df-bcfd-f4dcfed1af20"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "edc2cfc5-3f47-427c-9cc6-4902e787c911",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "16a27ee9-56bd-48ad-9709-5bcedba500ca",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "df8169f4-05e6-46df-bcfd-f4dcfed1af20",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "6f95ed16-1f65-440a-b23b-b1498ab1f995": {
-                "uuid": "6f95ed16-1f65-440a-b23b-b1498ab1f995",
-                "title": "Десерти",
-                "itemUuids": [
-                    "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "dc5c4689-e5bf-4c31-af26-615e6d5ee16a": {
-                "uuid": "dc5c4689-e5bf-4c31-af26-615e6d5ee16a",
-                "title": "Напої",
-                "itemUuids": [
-                    "111f3723-e9f4-47c1-933c-59725b069b1d",
-                    "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
-                    "cf64a48e-9e60-4d15-92d3-4637169a4944"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "111f3723-e9f4-47c1-933c-59725b069b1d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cf64a48e-9e60-4d15-92d3-4637169a4944",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "741f841a-8037-4657-8636-faf2e6fd263a": {
-                "uuid": "741f841a-8037-4657-8636-faf2e6fd263a",
-                "title": "Снеки",
-                "itemUuids": [
-                    "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
-                    "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
-                    "73a6c784-075d-4ffb-96c2-929139d5f19a",
-                    "b8191e36-2282-4541-b337-f083d197fa7d"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "73a6c784-075d-4ffb-96c2-929139d5f19a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b8191e36-2282-4541-b337-f083d197fa7d",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "be3e198b-c24b-4b09-9c3c-64e54f72bdbc": {
-                "uuid": "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
-                "title": "Menu sets",
-                "itemUuids": [
-                    "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
-                    "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
-                    "d57829e1-4516-4946-bbd1-c73b6414f548",
-                    "2e735467-5582-4cc3-bb9f-83a500241c52",
-                    "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
-                    "f0edd938-4de7-460d-947a-afd2f39aec0d"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "0b84a30b-6ece-4081-beb6-471dbfd28e7c": {
-                "uuid": "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
-                "title": "Desserts",
-                "itemUuids": [
-                    "0a79ad8b-3858-4fb1-af1a-6f4a47e46851"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "a33a1971-f588-4532-887b-f4691a2d982c": {
-                "uuid": "a33a1971-f588-4532-887b-f4691a2d982c",
-                "title": "Beverages",
-                "itemUuids": [
-                    "482db4b0-b1b1-440e-a587-636b4a906542",
-                    "339d61ae-615e-4413-9141-a67a2b4d06ca",
-                    "215b2f51-1b1b-470f-9f5b-bfa06500fa7e"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "6ba1d0f9-7494-4e5b-a6dd-213925be7c09": {
-                "uuid": "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
-                "title": "Snacks",
-                "itemUuids": [
-                    "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
-                    "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
-                    "d8875a96-1943-46e5-b778-32af63b04f6c",
-                    "4baa7a4f-a72f-4b11-b594-c504988b81a7"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
-                        "type": "ITEM"
-                    }
-                ]
-            }
-        },
-        "location": {
-            "latitude": 50.450893,
-            "longitude": 30.5226522,
-            "address": {
-                "address1": "Maidan Nezalezhnosti, 1",
-                "aptOrSuite": "",
-                "city": "Kyiv",
-                "country": "UA",
-                "postalCode": "02000",
-                "region": "",
-                "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
-            }
-        },
-        "publicContact": {
-            "publicPhoneNumber": "+380684134219"
-        },
-        "priceBucket": "₴",
-        "slug": "dogz&burgerz-тц-globus",
-        "isOrderable": true,
-        "disableCheckoutInstruction": false,
-        "supportedDiningModes": [
-            "DELIVERY"
-        ],
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
-        "heroImage": {
-            "items": [
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b",
-                    "width": 2880,
-                    "height": 2304
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/228350b2-bc82-4bc5-9a57-461132989340",
-                    "width": 1080,
-                    "height": 864
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/39d7b361-b81b-4594-80bb-9d9e7afcc081",
-                    "width": 750,
-                    "height": 600
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/e6e6563d-1a7e-4187-8aac-205aaa17e811",
-                    "width": 640,
-                    "height": 512
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
-                    "width": 550,
-                    "height": 440
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/131484ef-0df5-4ff6-bfba-6f690454b6b7",
-                    "width": 240,
-                    "height": 192
-                }
-            ]
-        },
-        "closedEtaMessage": "Currently unavailable",
-        "notOrderableMessage": "Currently unavailable",
-        "storeBadges": {
-            "disclaimerBadge": {
-                "textFormat": ""
-            },
-            "ratingBadge": {
-                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(37)</span></span>",
-                "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 37 reviews."
-            },
-            "taglineBadge": {
-                "textFormat": "<span>₴ • American • Fast Food • Street Food</span>"
-            },
-            "etaBadge": {
-                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-                "text": "35–45 MINS",
-                "textFormat": "<span>35–45 MINS</span>",
-                "accessibilityText": "Delivered in 35 to 45 MINS"
-            }
-        },
-        "etaRange": {
-            "min": 35,
-            "max": 45,
-            "raw": 40
-        },
-        "fareInfo": {
-            "serviceFee": 30
-        },
-        "eaterFields": {},
-        "meta": {
-            "sectionHoursInfo": [
-                {
-                    "dayRange": "Every day",
-                    "sectionHours": [
-                        {
-                            "startTime": 600,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 600,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                }
-            ]
-        },
-        "nuggets": [],
-        "displayConfig": {
-            "regionalDisplayType": "DEFAULT"
-        },
-        "enabledFulfillmentTypes": [
-            "DELIVERY"
-        ],
-        "citySlug": "kyiv",
-        "cityName": "Kyiv",
-        "currencyCode": "UAH",
-        "currencyNumDigitsAfterDecimal": 2
+  "uuid": "3e37f16a-2393-4ed0-82a5-f746953bdcaf",
+  "title": "Dogz&Burgerz (ТЦ Globus)",
+  "regionId": 943,
+  "categories": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
     }
+  ],
+  "sections": [
+    {
+      "uuid": "7dee56b2-e8b3-4ca7-a765-6d219ab1a01b",
+      "title": "SWITCH LANGUAGE (UKR)",
+      "subtitle": "10:00 AM – 10:00 PM",
+      "isTop": true,
+      "isOnSale": true,
+      "subsectionUuids": [
+        "82b4a149-d017-49eb-912a-a4688016cbe7",
+        "741f841a-8037-4657-8636-faf2e6fd263a",
+        "6f95ed16-1f65-440a-b23b-b1498ab1f995",
+        "dc5c4689-e5bf-4c31-af26-615e6d5ee16a"
+      ]
+    },
+    {
+      "uuid": "7d09268a-9c61-4059-b224-6536a7352758",
+      "title": "SWITCH LANGUAGE (ENG)",
+      "subtitle": "10:00 AM – 10:00 PM",
+      "isOnSale": true,
+      "subsectionUuids": [
+        "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
+        "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
+        "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
+        "a33a1971-f588-4532-887b-f4691a2d982c"
+      ]
+    }
+  ],
+  "sectionEntitiesMap": {
+    "7dee56b2-e8b3-4ca7-a765-6d219ab1a01b": {
+      "itemsMap": {
+        "16a27ee9-56bd-48ad-9709-5bcedba500ca": {
+          "uuid": "16a27ee9-56bd-48ad-9709-5bcedba500ca",
+          "title": "Меню хот-дог вега",
+          "itemDescription": "Хот дог вега (155г). картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+          "price": 9900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c658d3e-7bc1-4ebe-9755-48faecfb55fe",
+          "endorsement": {
+            "backgroundColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+            "text": "Вегетаріанська страва",
+            "textColor": {
+              "alpha": 1,
+              "color": "FFFFFF"
+            }
+          },
+          "customizationUuids": [
+            "287d0f77-ea68-49f8-95df-401defb7cceb"
+          ]
+        },
+        "b8191e36-2282-4541-b337-f083d197fa7d": {
+          "uuid": "b8191e36-2282-4541-b337-f083d197fa7d",
+          "title": "Бургер Surf&Turf з котлетою та креветками",
+          "itemDescription": "155г.",
+          "price": 5900
+        },
+        "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa": {
+          "uuid": "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
+          "title": "Меню даблдог",
+          "itemDescription": "Даблдог класичний (235г), картопля діпз з сирним соусом (170г, Кока-кола (330мл).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddae4399-24d5-44d3-a4f7-cf8f9a238360",
+          "customizationUuids": [
+            "287d0f77-ea68-49f8-95df-401defb7cceb"
+          ]
+        },
+        "df8169f4-05e6-46df-bcfd-f4dcfed1af20": {
+          "uuid": "df8169f4-05e6-46df-bcfd-f4dcfed1af20",
+          "title": "Меню даблдог вега",
+          "itemDescription": "Даблдог вега (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0bc8d86-12e7-41c7-a5c3-6d77ec5385ee",
+          "endorsement": {
+            "backgroundColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+            "text": "Вегетаріанська страва",
+            "textColor": {
+              "alpha": 1,
+              "color": "FFFFFF"
+            }
+          },
+          "customizationUuids": [
+            "287d0f77-ea68-49f8-95df-401defb7cceb"
+          ]
+        },
+        "adafa0de-1741-4903-b215-1ccd4fb2f8b5": {
+          "uuid": "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
+          "title": "Картопля діпз з сирним соусом",
+          "itemDescription": "170г.",
+          "price": 3900
+        },
+        "b1cf691a-ce4a-48f4-9729-d589a6f96c66": {
+          "uuid": "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
+          "title": "Вода негазована",
+          "itemDescription": "330мл.",
+          "price": 2900
+        },
+        "edc5c561-d933-428a-9fb0-a4d84d2ffe9c": {
+          "uuid": "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
+          "title": "Креветка гриль",
+          "itemDescription": "65г.",
+          "price": 3900
+        },
+        "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db": {
+          "uuid": "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db",
+          "title": "Пиріг з яблуками",
+          "itemDescription": "150г.",
+          "price": 2900
+        },
+        "58ccf3aa-5398-47a3-a2ba-f379f2e492e1": {
+          "uuid": "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
+          "title": "Меню голий бургер",
+          "itemDescription": "Голий бургер з подвійною котлетою (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/50acb4d5-45f6-4053-b9ab-5893f6297341",
+          "nutritionalInfo": {},
+          "customizationUuids": [
+            "90e7505f-e477-495a-a8fc-1ec6ca232509",
+            "287d0f77-ea68-49f8-95df-401defb7cceb"
+          ]
+        },
+        "111f3723-e9f4-47c1-933c-59725b069b1d": {
+          "uuid": "111f3723-e9f4-47c1-933c-59725b069b1d",
+          "title": "Кока Кола",
+          "itemDescription": "330мл.",
+          "price": 2900
+        },
+        "73a6c784-075d-4ffb-96c2-929139d5f19a": {
+          "uuid": "73a6c784-075d-4ffb-96c2-929139d5f19a",
+          "title": "Пиріг з куркою",
+          "itemDescription": "170г.",
+          "price": 2900
+        },
+        "edc2cfc5-3f47-427c-9cc6-4902e787c911": {
+          "uuid": "edc2cfc5-3f47-427c-9cc6-4902e787c911",
+          "title": "Меню бургер",
+          "itemDescription": "Бургер з подвійною котлетою (180г), картопля діпз з сирним соусом(170г), Кока-кола (330мл).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d17b84d9-7752-4f85-bc53-bfdaeef2b16f",
+          "nutritionalInfo": {},
+          "customizationUuids": [
+            "90e7505f-e477-495a-a8fc-1ec6ca232509",
+            "287d0f77-ea68-49f8-95df-401defb7cceb"
+          ]
+        },
+        "529885f6-0d2a-4ede-8ab0-70d7ec32731f": {
+          "uuid": "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
+          "title": "Меню хот-дог",
+          "itemDescription": "Хот дог класичний (170г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+          "price": 9900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6c9e7a0-dba4-4aa6-b733-e6c8c465e259",
+          "customizationUuids": [
+            "287d0f77-ea68-49f8-95df-401defb7cceb"
+          ]
+        },
+        "cf64a48e-9e60-4d15-92d3-4637169a4944": {
+          "uuid": "cf64a48e-9e60-4d15-92d3-4637169a4944",
+          "title": "Вода газована",
+          "itemDescription": "330мл.",
+          "price": 2900
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "82b4a149-d017-49eb-912a-a4688016cbe7",
+          "title": "Набори меню",
+          "itemUuids": [
+            "edc2cfc5-3f47-427c-9cc6-4902e787c911",
+            "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
+            "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
+            "16a27ee9-56bd-48ad-9709-5bcedba500ca",
+            "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
+            "df8169f4-05e6-46df-bcfd-f4dcfed1af20"
+          ],
+          "displayItems": [
+            {
+              "uuid": "edc2cfc5-3f47-427c-9cc6-4902e787c911",
+              "title": "Меню бургер",
+              "itemDescription": "Бургер з подвійною котлетою (180г), картопля діпз з сирним соусом(170г), Кока-кола (330мл).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d17b84d9-7752-4f85-bc53-bfdaeef2b16f",
+              "nutritionalInfo": {},
+              "customizationUuids": [
+                "90e7505f-e477-495a-a8fc-1ec6ca232509",
+                "287d0f77-ea68-49f8-95df-401defb7cceb"
+              ]
+            },
+            {
+              "uuid": "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
+              "title": "Меню голий бургер",
+              "itemDescription": "Голий бургер з подвійною котлетою (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/50acb4d5-45f6-4053-b9ab-5893f6297341",
+              "nutritionalInfo": {},
+              "customizationUuids": [
+                "90e7505f-e477-495a-a8fc-1ec6ca232509",
+                "287d0f77-ea68-49f8-95df-401defb7cceb"
+              ]
+            },
+            {
+              "uuid": "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
+              "title": "Меню хот-дог",
+              "itemDescription": "Хот дог класичний (170г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+              "price": 9900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6c9e7a0-dba4-4aa6-b733-e6c8c465e259",
+              "customizationUuids": [
+                "287d0f77-ea68-49f8-95df-401defb7cceb"
+              ]
+            },
+            {
+              "uuid": "16a27ee9-56bd-48ad-9709-5bcedba500ca",
+              "title": "Меню хот-дог вега",
+              "itemDescription": "Хот дог вега (155г). картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+              "price": 9900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c658d3e-7bc1-4ebe-9755-48faecfb55fe",
+              "endorsement": {
+                "backgroundColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                "text": "Вегетаріанська страва",
+                "textColor": {
+                  "alpha": 1,
+                  "color": "FFFFFF"
+                }
+              },
+              "customizationUuids": [
+                "287d0f77-ea68-49f8-95df-401defb7cceb"
+              ]
+            },
+            {
+              "uuid": "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
+              "title": "Меню даблдог",
+              "itemDescription": "Даблдог класичний (235г), картопля діпз з сирним соусом (170г, Кока-кола (330мл).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddae4399-24d5-44d3-a4f7-cf8f9a238360",
+              "customizationUuids": [
+                "287d0f77-ea68-49f8-95df-401defb7cceb"
+              ]
+            },
+            {
+              "uuid": "df8169f4-05e6-46df-bcfd-f4dcfed1af20",
+              "title": "Меню даблдог вега",
+              "itemDescription": "Даблдог вега (200г), картопля діпз з сирним соусом (170г), Кока-кола (330мл).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0bc8d86-12e7-41c7-a5c3-6d77ec5385ee",
+              "endorsement": {
+                "backgroundColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                "text": "Вегетаріанська страва",
+                "textColor": {
+                  "alpha": 1,
+                  "color": "FFFFFF"
+                }
+              },
+              "customizationUuids": [
+                "287d0f77-ea68-49f8-95df-401defb7cceb"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "741f841a-8037-4657-8636-faf2e6fd263a",
+          "title": "Снеки",
+          "itemUuids": [
+            "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
+            "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
+            "73a6c784-075d-4ffb-96c2-929139d5f19a",
+            "b8191e36-2282-4541-b337-f083d197fa7d"
+          ],
+          "displayItems": [
+            {
+              "uuid": "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
+              "title": "Картопля діпз з сирним соусом",
+              "itemDescription": "170г.",
+              "price": 3900
+            },
+            {
+              "uuid": "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
+              "title": "Креветка гриль",
+              "itemDescription": "65г.",
+              "price": 3900
+            },
+            {
+              "uuid": "73a6c784-075d-4ffb-96c2-929139d5f19a",
+              "title": "Пиріг з куркою",
+              "itemDescription": "170г.",
+              "price": 2900
+            },
+            {
+              "uuid": "b8191e36-2282-4541-b337-f083d197fa7d",
+              "title": "Бургер Surf&Turf з котлетою та креветками",
+              "itemDescription": "155г.",
+              "price": 5900
+            }
+          ]
+        },
+        {
+          "uuid": "6f95ed16-1f65-440a-b23b-b1498ab1f995",
+          "title": "Десерти",
+          "itemUuids": [
+            "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db"
+          ],
+          "displayItems": [
+            {
+              "uuid": "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db",
+              "title": "Пиріг з яблуками",
+              "itemDescription": "150г.",
+              "price": 2900
+            }
+          ]
+        },
+        {
+          "uuid": "dc5c4689-e5bf-4c31-af26-615e6d5ee16a",
+          "title": "Напої",
+          "itemUuids": [
+            "111f3723-e9f4-47c1-933c-59725b069b1d",
+            "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
+            "cf64a48e-9e60-4d15-92d3-4637169a4944"
+          ],
+          "displayItems": [
+            {
+              "uuid": "111f3723-e9f4-47c1-933c-59725b069b1d",
+              "title": "Кока Кола",
+              "itemDescription": "330мл.",
+              "price": 2900
+            },
+            {
+              "uuid": "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
+              "title": "Вода негазована",
+              "itemDescription": "330мл.",
+              "price": 2900
+            },
+            {
+              "uuid": "cf64a48e-9e60-4d15-92d3-4637169a4944",
+              "title": "Вода газована",
+              "itemDescription": "330мл.",
+              "price": 2900
+            }
+          ]
+        }
+      ]
+    },
+    "7d09268a-9c61-4059-b224-6536a7352758": {
+      "itemsMap": {
+        "8fb54491-ba06-41b9-9da8-b27196bbc2e2": {
+          "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
+          "title": "Burger menu",
+          "itemDescription": "Double burger (180g), Potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba31abdb-3e94-491f-8430-da46bf5e87b2",
+          "nutritionalInfo": {},
+          "customizationUuids": [
+            "80a1aa9f-c8e8-4aae-9551-1833f9505e6a",
+            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+          ]
+        },
+        "f0edd938-4de7-460d-947a-afd2f39aec0d": {
+          "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
+          "title": "Vega Double dog Menu",
+          "itemDescription": "Vega double dog (200g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d535d9fd-2b3c-4966-8648-196d4ada9ceb",
+          "endorsement": {
+            "backgroundColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+            "text": "Vegan",
+            "textColor": {
+              "alpha": 1,
+              "color": "FFFFFF"
+            }
+          },
+          "customizationUuids": [
+            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+          ]
+        },
+        "d8875a96-1943-46e5-b778-32af63b04f6c": {
+          "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
+          "title": "Chicken pie",
+          "itemDescription": "170g.",
+          "price": 2900
+        },
+        "805d66d1-2aa4-49ff-9d66-ceec3b43d594": {
+          "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
+          "title": "Double dog menu",
+          "itemDescription": "Double dog (235g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+          "price": 9900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/202668ad-5536-4f6f-8edb-54f07f42cfe0",
+          "endorsement": {
+            "backgroundColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+            "text": "Vegan",
+            "textColor": {
+              "alpha": 1,
+              "color": "FFFFFF"
+            }
+          },
+          "customizationUuids": [
+            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+          ]
+        },
+        "38e28889-5fe2-4784-bcb7-368cfdff5a2d": {
+          "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
+          "title": "Grilled shrimps",
+          "itemDescription": "65g.",
+          "price": 3900
+        },
+        "4baa7a4f-a72f-4b11-b594-c504988b81a7": {
+          "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
+          "title": "Surf & Turf Burger with cutlet and shrimps",
+          "itemDescription": "155g.",
+          "price": 5900
+        },
+        "215b2f51-1b1b-470f-9f5b-bfa06500fa7e": {
+          "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
+          "title": "Sparkling water",
+          "itemDescription": "330ml.",
+          "price": 2900
+        },
+        "339d61ae-615e-4413-9141-a67a2b4d06ca": {
+          "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
+          "title": "Still water",
+          "itemDescription": "330ml.",
+          "price": 2900
+        },
+        "2e735467-5582-4cc3-bb9f-83a500241c52": {
+          "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
+          "title": "Meat hot-dog menu",
+          "itemDescription": "Meat hot-dog (170g), potato dips with cheese sauce  (170g), and Coca-cola (330ml).",
+          "price": 9900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/304c3ebe-3c21-464d-9f8d-55f38e38848f",
+          "customizationUuids": [
+            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+          ]
+        },
+        "0a79ad8b-3858-4fb1-af1a-6f4a47e46851": {
+          "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
+          "title": "Apple pie",
+          "itemDescription": "150g.",
+          "price": 2900
+        },
+        "a497ed36-1a87-49e4-b1ae-e288a16ebc2d": {
+          "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
+          "title": "Naked burger menu",
+          "itemDescription": "Naked HP double burger (200g), potato dips with cheese sauce (170g), and Coca-cola (330мл).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/613dde57-9680-4097-a411-8ecc81ba1dfe",
+          "nutritionalInfo": {},
+          "customizationUuids": [
+            "ed2af4e4-c26f-48fd-b888-ec7551f9baf8",
+            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+          ]
+        },
+        "d57829e1-4516-4946-bbd1-c73b6414f548": {
+          "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
+          "title": "Vega hot dog menu",
+          "itemDescription": "Vega hot dog (155g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+          "price": 10900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/77051c75-c81d-4662-affe-3ae3c364a834",
+          "customizationUuids": [
+            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+          ]
+        },
+        "482db4b0-b1b1-440e-a587-636b4a906542": {
+          "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
+          "title": "Coca Cola",
+          "itemDescription": "330ml.",
+          "price": 2900
+        },
+        "ca3fa025-9ee8-4959-bec6-cafcd85b1020": {
+          "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
+          "title": "Potato dips with cheese sauce",
+          "itemDescription": "170g.",
+          "price": 3900
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
+          "title": "Menu sets",
+          "itemUuids": [
+            "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
+            "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
+            "d57829e1-4516-4946-bbd1-c73b6414f548",
+            "2e735467-5582-4cc3-bb9f-83a500241c52",
+            "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
+            "f0edd938-4de7-460d-947a-afd2f39aec0d"
+          ],
+          "displayItems": [
+            {
+              "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
+              "title": "Burger menu",
+              "itemDescription": "Double burger (180g), Potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba31abdb-3e94-491f-8430-da46bf5e87b2",
+              "nutritionalInfo": {},
+              "customizationUuids": [
+                "80a1aa9f-c8e8-4aae-9551-1833f9505e6a",
+                "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+              ]
+            },
+            {
+              "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
+              "title": "Naked burger menu",
+              "itemDescription": "Naked HP double burger (200g), potato dips with cheese sauce (170g), and Coca-cola (330мл).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/613dde57-9680-4097-a411-8ecc81ba1dfe",
+              "nutritionalInfo": {},
+              "customizationUuids": [
+                "ed2af4e4-c26f-48fd-b888-ec7551f9baf8",
+                "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+              ]
+            },
+            {
+              "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
+              "title": "Vega hot dog menu",
+              "itemDescription": "Vega hot dog (155g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/77051c75-c81d-4662-affe-3ae3c364a834",
+              "customizationUuids": [
+                "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+              ]
+            },
+            {
+              "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
+              "title": "Meat hot-dog menu",
+              "itemDescription": "Meat hot-dog (170g), potato dips with cheese sauce  (170g), and Coca-cola (330ml).",
+              "price": 9900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/304c3ebe-3c21-464d-9f8d-55f38e38848f",
+              "customizationUuids": [
+                "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+              ]
+            },
+            {
+              "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
+              "title": "Double dog menu",
+              "itemDescription": "Double dog (235g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+              "price": 9900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/202668ad-5536-4f6f-8edb-54f07f42cfe0",
+              "endorsement": {
+                "backgroundColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                "text": "Vegan",
+                "textColor": {
+                  "alpha": 1,
+                  "color": "FFFFFF"
+                }
+              },
+              "customizationUuids": [
+                "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+              ]
+            },
+            {
+              "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
+              "title": "Vega Double dog Menu",
+              "itemDescription": "Vega double dog (200g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+              "price": 10900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d535d9fd-2b3c-4966-8648-196d4ada9ceb",
+              "endorsement": {
+                "backgroundColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                "text": "Vegan",
+                "textColor": {
+                  "alpha": 1,
+                  "color": "FFFFFF"
+                }
+              },
+              "customizationUuids": [
+                "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
+          "title": "Snacks",
+          "itemUuids": [
+            "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
+            "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
+            "d8875a96-1943-46e5-b778-32af63b04f6c",
+            "4baa7a4f-a72f-4b11-b594-c504988b81a7"
+          ],
+          "displayItems": [
+            {
+              "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
+              "title": "Potato dips with cheese sauce",
+              "itemDescription": "170g.",
+              "price": 3900
+            },
+            {
+              "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
+              "title": "Grilled shrimps",
+              "itemDescription": "65g.",
+              "price": 3900
+            },
+            {
+              "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
+              "title": "Chicken pie",
+              "itemDescription": "170g.",
+              "price": 2900
+            },
+            {
+              "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
+              "title": "Surf & Turf Burger with cutlet and shrimps",
+              "itemDescription": "155g.",
+              "price": 5900
+            }
+          ]
+        },
+        {
+          "uuid": "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
+          "title": "Desserts",
+          "itemUuids": [
+            "0a79ad8b-3858-4fb1-af1a-6f4a47e46851"
+          ],
+          "displayItems": [
+            {
+              "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
+              "title": "Apple pie",
+              "itemDescription": "150g.",
+              "price": 2900
+            }
+          ]
+        },
+        {
+          "uuid": "a33a1971-f588-4532-887b-f4691a2d982c",
+          "title": "Beverages",
+          "itemUuids": [
+            "482db4b0-b1b1-440e-a587-636b4a906542",
+            "339d61ae-615e-4413-9141-a67a2b4d06ca",
+            "215b2f51-1b1b-470f-9f5b-bfa06500fa7e"
+          ],
+          "displayItems": [
+            {
+              "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
+              "title": "Coca Cola",
+              "itemDescription": "330ml.",
+              "price": 2900
+            },
+            {
+              "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
+              "title": "Still water",
+              "itemDescription": "330ml.",
+              "price": 2900
+            },
+            {
+              "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
+              "title": "Sparkling water",
+              "itemDescription": "330ml.",
+              "price": 2900
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "subsectionsMap": {
+    "82b4a149-d017-49eb-912a-a4688016cbe7": {
+      "uuid": "82b4a149-d017-49eb-912a-a4688016cbe7",
+      "title": "Набори меню",
+      "itemUuids": [
+        "edc2cfc5-3f47-427c-9cc6-4902e787c911",
+        "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
+        "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
+        "16a27ee9-56bd-48ad-9709-5bcedba500ca",
+        "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
+        "df8169f4-05e6-46df-bcfd-f4dcfed1af20"
+      ],
+      "displayItems": [
+        {
+          "uuid": "edc2cfc5-3f47-427c-9cc6-4902e787c911",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "58ccf3aa-5398-47a3-a2ba-f379f2e492e1",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "529885f6-0d2a-4ede-8ab0-70d7ec32731f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "16a27ee9-56bd-48ad-9709-5bcedba500ca",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4b1f7d5c-8ff0-4388-bbde-0fffbe6913fa",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "df8169f4-05e6-46df-bcfd-f4dcfed1af20",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "6f95ed16-1f65-440a-b23b-b1498ab1f995": {
+      "uuid": "6f95ed16-1f65-440a-b23b-b1498ab1f995",
+      "title": "Десерти",
+      "itemUuids": [
+        "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db"
+      ],
+      "displayItems": [
+        {
+          "uuid": "c8cfcffa-7832-4d31-8c6b-06b0fbdf08db",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "dc5c4689-e5bf-4c31-af26-615e6d5ee16a": {
+      "uuid": "dc5c4689-e5bf-4c31-af26-615e6d5ee16a",
+      "title": "Напої",
+      "itemUuids": [
+        "111f3723-e9f4-47c1-933c-59725b069b1d",
+        "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
+        "cf64a48e-9e60-4d15-92d3-4637169a4944"
+      ],
+      "displayItems": [
+        {
+          "uuid": "111f3723-e9f4-47c1-933c-59725b069b1d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b1cf691a-ce4a-48f4-9729-d589a6f96c66",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cf64a48e-9e60-4d15-92d3-4637169a4944",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "741f841a-8037-4657-8636-faf2e6fd263a": {
+      "uuid": "741f841a-8037-4657-8636-faf2e6fd263a",
+      "title": "Снеки",
+      "itemUuids": [
+        "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
+        "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
+        "73a6c784-075d-4ffb-96c2-929139d5f19a",
+        "b8191e36-2282-4541-b337-f083d197fa7d"
+      ],
+      "displayItems": [
+        {
+          "uuid": "adafa0de-1741-4903-b215-1ccd4fb2f8b5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "edc5c561-d933-428a-9fb0-a4d84d2ffe9c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "73a6c784-075d-4ffb-96c2-929139d5f19a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b8191e36-2282-4541-b337-f083d197fa7d",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "be3e198b-c24b-4b09-9c3c-64e54f72bdbc": {
+      "uuid": "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
+      "title": "Menu sets",
+      "itemUuids": [
+        "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
+        "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
+        "d57829e1-4516-4946-bbd1-c73b6414f548",
+        "2e735467-5582-4cc3-bb9f-83a500241c52",
+        "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
+        "f0edd938-4de7-460d-947a-afd2f39aec0d"
+      ],
+      "displayItems": [
+        {
+          "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "0b84a30b-6ece-4081-beb6-471dbfd28e7c": {
+      "uuid": "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
+      "title": "Desserts",
+      "itemUuids": [
+        "0a79ad8b-3858-4fb1-af1a-6f4a47e46851"
+      ],
+      "displayItems": [
+        {
+          "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "a33a1971-f588-4532-887b-f4691a2d982c": {
+      "uuid": "a33a1971-f588-4532-887b-f4691a2d982c",
+      "title": "Beverages",
+      "itemUuids": [
+        "482db4b0-b1b1-440e-a587-636b4a906542",
+        "339d61ae-615e-4413-9141-a67a2b4d06ca",
+        "215b2f51-1b1b-470f-9f5b-bfa06500fa7e"
+      ],
+      "displayItems": [
+        {
+          "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "6ba1d0f9-7494-4e5b-a6dd-213925be7c09": {
+      "uuid": "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
+      "title": "Snacks",
+      "itemUuids": [
+        "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
+        "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
+        "d8875a96-1943-46e5-b778-32af63b04f6c",
+        "4baa7a4f-a72f-4b11-b594-c504988b81a7"
+      ],
+      "displayItems": [
+        {
+          "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
+          "type": "ITEM"
+        }
+      ]
+    }
+  },
+  "location": {
+    "latitude": 50.450893,
+    "longitude": 30.5226522,
+    "address": {
+      "address1": "Maidan Nezalezhnosti, 1",
+      "aptOrSuite": "",
+      "city": "Kyiv",
+      "country": "UA",
+      "postalCode": "02000",
+      "region": "",
+      "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
+    }
+  },
+  "publicContact": {
+    "publicPhoneNumber": "+380684134219"
+  },
+  "priceBucket": "₴",
+  "slug": "dogz&burgerz-тц-globus",
+  "isOrderable": true,
+  "disableCheckoutInstruction": false,
+  "supportedDiningModes": [
+    "DELIVERY"
+  ],
+  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
+  "heroImage": {
+    "items": [
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b",
+        "width": 2880,
+        "height": 2304
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/228350b2-bc82-4bc5-9a57-461132989340",
+        "width": 1080,
+        "height": 864
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/39d7b361-b81b-4594-80bb-9d9e7afcc081",
+        "width": 750,
+        "height": 600
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/e6e6563d-1a7e-4187-8aac-205aaa17e811",
+        "width": 640,
+        "height": 512
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
+        "width": 550,
+        "height": 440
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/131484ef-0df5-4ff6-bfba-6f690454b6b7",
+        "width": 240,
+        "height": 192
+      }
+    ]
+  },
+  "closedEtaMessage": "Currently unavailable",
+  "notOrderableMessage": "Currently unavailable",
+  "storeBadges": {
+    "disclaimerBadge": {
+      "textFormat": ""
+    },
+    "ratingBadge": {
+      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(37)</span></span>",
+      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 37 reviews."
+    },
+    "taglineBadge": {
+      "textFormat": "<span>₴ • American • Fast Food • Street Food</span>"
+    },
+    "etaBadge": {
+      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+      "text": "35–45 MINS",
+      "textFormat": "<span>35–45 MINS</span>",
+      "accessibilityText": "Delivered in 35 to 45 MINS"
+    }
+  },
+  "etaRange": {
+    "min": 35,
+    "max": 45,
+    "raw": 40
+  },
+  "fareInfo": {
+    "serviceFee": 30
+  },
+  "eaterFields": {},
+  "meta": {
+    "sectionHoursInfo": [
+      {
+        "dayRange": "Every day",
+        "sectionHours": [
+          {
+            "startTime": 600,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 600,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      }
+    ]
+  },
+  "nuggets": [],
+  "displayConfig": {
+    "regionalDisplayType": "DEFAULT"
+  },
+  "enabledFulfillmentTypes": [
+    "DELIVERY"
+  ],
+  "citySlug": "kyiv",
+  "cityName": "Kyiv",
+  "currencyCode": "UAH",
+  "currencyNumDigitsAfterDecimal": 2
 }

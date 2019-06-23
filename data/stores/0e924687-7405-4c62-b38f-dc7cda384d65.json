@@ -1,1717 +1,1715 @@
 {
-    "store": {
-        "uuid": "0e924687-7405-4c62-b38f-dc7cda384d65",
-        "title": "Furgoneta",
-        "regionId": 943,
-        "categories": [
-            {
-                "uuid": "Vegetarian",
-                "name": "Для вегетаріанців",
-                "keyName": "Vegetarian"
-            },
-            {
-                "uuid": "Burger",
-                "name": "Бургери",
-                "keyName": "Burger"
-            },
-            {
-                "uuid": "Asian",
-                "name": "Азіатська",
-                "keyName": "Asian"
-            },
-            {
-                "uuid": "FastFood",
-                "name": "Фастфуд",
-                "keyName": "FastFood"
-            }
-        ],
-        "sections": [
-            {
-                "uuid": "2999c364-1d48-4895-ab6f-f398faad5502",
-                "title": "SWITCH LANGUAGE (UKR)",
-                "subtitle": "10:00 AM – 10:00 PM",
-                "isTop": true,
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "d4778009-98a3-4d92-b384-93468e77d18f",
-                    "e664700b-37c5-4553-a609-ba6056f9a5ec",
-                    "6c06d3d7-efef-40bf-b40f-1e60c54d8296",
-                    "bc7f711c-1476-423b-b4cd-9db4e8da9656",
-                    "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae"
-                ]
-            },
-            {
-                "uuid": "1162579b-bffb-49ae-b175-5aad33b33394",
-                "title": "SWITCH LANGUAGE (ENG)",
-                "subtitle": "10:00 AM – 10:00 PM",
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "648dd082-ee36-4c6a-bf80-91d88823b338",
-                    "4cd34c2a-e5c0-410f-803c-b135bec5920e",
-                    "1b4124d8-f095-4fa4-8851-f677c106e4a9",
-                    "acaafa3e-fe50-404c-83b6-569c589c0ee4"
-                ]
-            }
-        ],
-        "sectionEntitiesMap": {
-            "2999c364-1d48-4895-ab6f-f398faad5502": {
-                "itemsMap": {
-                    "9dcd50e2-2217-4eed-a2f0-baec587ea5b4": {
-                        "uuid": "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
-                        "title": "Боржомі",
-                        "itemDescription": "500мл.",
-                        "price": 4800
-                    },
-                    "06aa9967-1b9c-418a-8d24-c77f3d594600": {
-                        "uuid": "06aa9967-1b9c-418a-8d24-c77f3d594600",
-                        "title": "Морс з сезонних ягід",
-                        "itemDescription": "500мл.",
-                        "price": 4500
-                    },
-                    "9a1ea039-d79c-4900-8095-cdb18b1af5db": {
-                        "uuid": "9a1ea039-d79c-4900-8095-cdb18b1af5db",
-                        "title": "Смажений рис з яловичиною",
-                        "itemDescription": "Рис, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                        "price": 11900,
-                        "customizationUuids": [
-                            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                        ]
-                    },
-                    "716e191f-5b83-432e-b9c6-c2ef301a7212": {
-                        "uuid": "716e191f-5b83-432e-b9c6-c2ef301a7212",
-                        "title": "Лате",
-                        "itemDescription": "",
-                        "price": 3800,
-                        "suspendUntil": 8640000000
-                    },
-                    "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26": {
-                        "uuid": "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
-                        "title": "Яєчна локшина з овочами",
-                        "itemDescription": "Домашня яєчна локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                        "price": 7900,
-                        "customizationUuids": [
-                            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                        ]
-                    },
-                    "74aa1623-0769-4334-82e1-c72e84cabb16": {
-                        "uuid": "74aa1623-0769-4334-82e1-c72e84cabb16",
-                        "title": "Евервес Тонік",
-                        "itemDescription": "",
-                        "price": 4200
-                    },
-                    "d87113ab-2888-40a6-80ac-55882ccfa8fa": {
-                        "uuid": "d87113ab-2888-40a6-80ac-55882ccfa8fa",
-                        "title": "Моршинська",
-                        "itemDescription": "500мл.",
-                        "price": 3000
-                    },
-                    "d9edaa9e-7df7-4ec6-b97d-40a316705683": {
-                        "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                        "title": "Бургер з яловичиною-гриль",
-                        "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, бекон власного виробницвта, сир Чеддер, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус «BBQ» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.\n",
-                        "price": 9700,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3203383-19e4-4e1f-a608-d0d7de34c2f8",
-                        "customizationUuids": [
-                            "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
-                        ]
-                    },
-                    "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986": {
-                        "uuid": "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
-                        "title": "Копчений бургер",
-                        "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку та копченого бекону власного виробницвта, пекінська капуста “Кім Чи”, вершковий соус з анчоусоми та кінзою - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
-                        "price": 9700,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "eb05465a-60e0-44e4-9670-124e59bd8eea"
-                        ]
-                    },
-                    "b28e39b7-d4d2-4db6-a1e0-500d018d314a": {
-                        "uuid": "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
-                        "title": "Рисова локшина з куркою",
-                        "itemDescription": "Китайська рисова локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n\n\n",
-                        "price": 11900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2c99b62-1431-4ff2-a488-406ca8ce0cc0",
-                        "customizationUuids": [
-                            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                        ]
-                    },
-                    "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356": {
-                        "uuid": "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
-                        "title": "Еспресо",
-                        "itemDescription": "",
-                        "price": 2500,
-                        "suspendUntil": 8640000000
-                    },
-                    "704726a8-dc54-4689-adab-95c11c681808": {
-                        "uuid": "704726a8-dc54-4689-adab-95c11c681808",
-                        "title": "Салат з куркою гриль",
-                        "itemDescription": "Листя салату, курка смажена на мангалі,  помідор, рукола, огірок та соус часниковий власне виробництво",
-                        "price": 7900,
-                        "nutritionalInfo": {},
-                        "suspendUntil": 8640000000
-                    },
-                    "869e78b7-4f59-479c-b55b-86fddf151ed3": {
-                        "uuid": "869e78b7-4f59-479c-b55b-86fddf151ed3",
-                        "title": "Лимонад цитрус-манго \"Фургонета\"",
-                        "itemDescription": "500мл.",
-                        "price": 6000
-                    },
-                    "8ae765f1-b149-48c3-9764-5d494e6c5692": {
-                        "uuid": "8ae765f1-b149-48c3-9764-5d494e6c5692",
-                        "title": "Капучіно",
-                        "itemDescription": "",
-                        "price": 3400,
-                        "suspendUntil": 8640000000
-                    },
-                    "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa": {
-                        "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
-                        "title": "Бургер Ківі",
-                        "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
-                        "price": 15900,
-                        "nutritionalInfo": {},
-                        "suspendUntil": 8640000000
-                    },
-                    "1180e961-ca0d-4c1c-8cb1-22acb5050403": {
-                        "uuid": "1180e961-ca0d-4c1c-8cb1-22acb5050403",
-                        "title": "Смажений рис з овочами",
-                        "itemDescription": "Рис, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                        "price": 7300,
-                        "customizationUuids": [
-                            "1239bf25-72c2-4964-a24f-92e816f0a3a4"
-                        ]
-                    },
-                    "2970352d-76e8-4944-8670-1b1d865bdd77": {
-                        "uuid": "2970352d-76e8-4944-8670-1b1d865bdd77",
-                        "title": "Яєчна локшина з яловичиною",
-                        "itemDescription": "Домашня яєчна локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-97г/XL-450г). Розмір на вибір.\n\n",
-                        "price": 12900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8657817-0302-4534-a698-46270d43998b",
-                        "customizationUuids": [
-                            "bd6fddec-dafd-4d59-ad4f-f1abfed4bf42"
-                        ]
-                    },
-                    "670ae373-ff49-49f2-a9d8-9e75c58b5e1d": {
-                        "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                        "title": "Бургер з бараниною-гриль",
-                        "itemDescription": "Булочка з кунжутом, соковита котлета з м’якоти баранини, соус на основі сиру Фета з додаванням трав - handmade by Furgoneta, оливки, маслини, свіжий томат, свіжий огірок, червона цибуля (S-200г/XL-350г). Розмір на вибір.",
-                        "price": 11300,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b88e8c-d858-4100-981d-3e861ff3b0b7",
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "eb05465a-60e0-44e4-9670-124e59bd8eea"
-                        ]
-                    },
-                    "c26cf28e-bee7-4b45-bb17-27dca8918774": {
-                        "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                        "title": "Бургер з куркою-гриль",
-                        "itemDescription": "Булочка з кунжутом, смажене куряче філе, сир Чеддер, фірмовий салат «Коул-Слоу», топлене масло з часником, фіромвий соус «Томатно-кунжутний» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
-                        "price": 7900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d85473a0-9abf-444c-b172-d20c7009c7b7",
-                        "customizationUuids": [
-                            "8e54340a-b66d-4827-b121-d49db2945ffb"
-                        ]
-                    },
-                    "8979a7a0-ed0c-48cc-bac4-0630606676db": {
-                        "uuid": "8979a7a0-ed0c-48cc-bac4-0630606676db",
-                        "title": "Пепсі",
-                        "itemDescription": "300мл.",
-                        "price": 3000
-                    },
-                    "af58b439-fedf-490b-8535-e47173ad1359": {
-                        "uuid": "af58b439-fedf-490b-8535-e47173ad1359",
-                        "title": "Матя-бургер",
-                        "itemDescription": "Булочка з кунжутом, дві соковиті котлети з яловичини вищого гатунку, подвійний бекон власного виробництва, подвійний сир Чеддер, яєчня-глазунья, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус “BBQ» - handmade by Furgoneta (XL-480г).\n",
-                        "price": 29700
-                    },
-                    "d2cc4d20-4cdd-4002-a58d-d7e765e24c54": {
-                        "uuid": "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
-                        "title": "Американо з молоком",
-                        "itemDescription": "",
-                        "price": 2700,
-                        "suspendUntil": 8640000000
-                    },
-                    "9829aa33-685a-4043-abed-5ba020ac2a61": {
-                        "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
-                        "title": "Яєчна локшина з куркою",
-                        "itemDescription": "Домашня яєчна локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                        "price": 9700,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0d98199-8f3e-4dbd-a60a-6ef071058950",
-                        "customizationUuids": [
-                            "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
-                        ]
-                    },
-                    "558a9979-26cf-4804-9a27-364bab44f26d": {
-                        "uuid": "558a9979-26cf-4804-9a27-364bab44f26d",
-                        "title": "Американо",
-                        "itemDescription": "",
-                        "price": 2500,
-                        "suspendUntil": 8640000000
-                    },
-                    "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec": {
-                        "uuid": "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
-                        "title": "Рисова локшина з овочами",
-                        "itemDescription": "Китайська рисова локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/ХL–450г), Розмір на вибір.",
-                        "price": 9900,
-                        "customizationUuids": [
-                            "bba13f68-5c3d-45a1-8f46-90c9d8b0f795"
-                        ]
-                    },
-                    "833c4291-a91d-454b-99da-53bc5af03334": {
-                        "uuid": "833c4291-a91d-454b-99da-53bc5af03334",
-                        "title": "Ред булл",
-                        "itemDescription": "",
-                        "price": 6900
-                    },
-                    "95ada6dd-6eeb-4079-83da-ad15f781bd21": {
-                        "uuid": "95ada6dd-6eeb-4079-83da-ad15f781bd21",
-                        "title": "Рисова локшина з яловичиною",
-                        "itemDescription": "Китайська рисова локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                        "price": 14700,
-                        "customizationUuids": [
-                            "2e3cab2c-0142-45e6-9488-328dc988789b"
-                        ]
-                    },
-                    "ae540f02-ee3c-497b-9a7f-a9073c92f7be": {
-                        "uuid": "ae540f02-ee3c-497b-9a7f-a9073c92f7be",
-                        "title": "Фреш",
-                        "itemDescription": "Смаки на вибір",
-                        "price": 1700,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "6aebc093-92e9-44ab-8208-1c9b169378c8"
-                        ]
-                    },
-                    "fda6a724-4336-4086-b220-bb072fc5fff1": {
-                        "uuid": "fda6a724-4336-4086-b220-bb072fc5fff1",
-                        "title": "Смажений рис з куркою",
-                        "itemDescription": "Рис, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                        "price": 8900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab722d97-bce2-449e-9ed2-fa4acaf138b3",
-                        "customizationUuids": [
-                            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                        ]
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "d4778009-98a3-4d92-b384-93468e77d18f",
-                        "title": "Популярне",
-                        "itemUuids": [
-                            "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                            "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                            "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                            "9829aa33-685a-4043-abed-5ba020ac2a61",
-                            "704726a8-dc54-4689-adab-95c11c681808"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                                "title": "Бургер з куркою-гриль",
-                                "itemDescription": "Булочка з кунжутом, смажене куряче філе, сир Чеддер, фірмовий салат «Коул-Слоу», топлене масло з часником, фіромвий соус «Томатно-кунжутний» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
-                                "price": 7900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d85473a0-9abf-444c-b172-d20c7009c7b7",
-                                "customizationUuids": [
-                                    "8e54340a-b66d-4827-b121-d49db2945ffb"
-                                ]
-                            },
-                            {
-                                "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                                "title": "Бургер з бараниною-гриль",
-                                "itemDescription": "Булочка з кунжутом, соковита котлета з м’якоти баранини, соус на основі сиру Фета з додаванням трав - handmade by Furgoneta, оливки, маслини, свіжий томат, свіжий огірок, червона цибуля (S-200г/XL-350г). Розмір на вибір.",
-                                "price": 11300,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b88e8c-d858-4100-981d-3e861ff3b0b7",
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "eb05465a-60e0-44e4-9670-124e59bd8eea"
-                                ]
-                            },
-                            {
-                                "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                                "title": "Бургер з яловичиною-гриль",
-                                "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, бекон власного виробницвта, сир Чеддер, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус «BBQ» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.\n",
-                                "price": 9700,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3203383-19e4-4e1f-a608-d0d7de34c2f8",
-                                "customizationUuids": [
-                                    "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
-                                ]
-                            },
-                            {
-                                "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
-                                "title": "Яєчна локшина з куркою",
-                                "itemDescription": "Домашня яєчна локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                                "price": 9700,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0d98199-8f3e-4dbd-a60a-6ef071058950",
-                                "customizationUuids": [
-                                    "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
-                                ]
-                            },
-                            {
-                                "uuid": "704726a8-dc54-4689-adab-95c11c681808",
-                                "title": "Салат з куркою гриль",
-                                "itemDescription": "Листя салату, курка смажена на мангалі,  помідор, рукола, огірок та соус часниковий власне виробництво",
-                                "price": 7900,
-                                "nutritionalInfo": {},
-                                "suspendUntil": 8640000000
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "e664700b-37c5-4553-a609-ba6056f9a5ec",
-                        "title": "Бургери",
-                        "itemUuids": [
-                            "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                            "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                            "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
-                            "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                            "af58b439-fedf-490b-8535-e47173ad1359",
-                            "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                                "title": "Бургер з куркою-гриль",
-                                "itemDescription": "Булочка з кунжутом, смажене куряче філе, сир Чеддер, фірмовий салат «Коул-Слоу», топлене масло з часником, фіромвий соус «Томатно-кунжутний» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
-                                "price": 7900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d85473a0-9abf-444c-b172-d20c7009c7b7",
-                                "customizationUuids": [
-                                    "8e54340a-b66d-4827-b121-d49db2945ffb"
-                                ]
-                            },
-                            {
-                                "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                                "title": "Бургер з яловичиною-гриль",
-                                "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, бекон власного виробницвта, сир Чеддер, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус «BBQ» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.\n",
-                                "price": 9700,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3203383-19e4-4e1f-a608-d0d7de34c2f8",
-                                "customizationUuids": [
-                                    "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
-                                ]
-                            },
-                            {
-                                "uuid": "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
-                                "title": "Копчений бургер",
-                                "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку та копченого бекону власного виробницвта, пекінська капуста “Кім Чи”, вершковий соус з анчоусоми та кінзою - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
-                                "price": 9700,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "eb05465a-60e0-44e4-9670-124e59bd8eea"
-                                ]
-                            },
-                            {
-                                "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                                "title": "Бургер з бараниною-гриль",
-                                "itemDescription": "Булочка з кунжутом, соковита котлета з м’якоти баранини, соус на основі сиру Фета з додаванням трав - handmade by Furgoneta, оливки, маслини, свіжий томат, свіжий огірок, червона цибуля (S-200г/XL-350г). Розмір на вибір.",
-                                "price": 11300,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b88e8c-d858-4100-981d-3e861ff3b0b7",
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "eb05465a-60e0-44e4-9670-124e59bd8eea"
-                                ]
-                            },
-                            {
-                                "uuid": "af58b439-fedf-490b-8535-e47173ad1359",
-                                "title": "Матя-бургер",
-                                "itemDescription": "Булочка з кунжутом, дві соковиті котлети з яловичини вищого гатунку, подвійний бекон власного виробництва, подвійний сир Чеддер, яєчня-глазунья, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус “BBQ» - handmade by Furgoneta (XL-480г).\n",
-                                "price": 29700
-                            },
-                            {
-                                "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
-                                "title": "Бургер Ківі",
-                                "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
-                                "price": 15900,
-                                "nutritionalInfo": {},
-                                "suspendUntil": 8640000000
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "6c06d3d7-efef-40bf-b40f-1e60c54d8296",
-                        "title": "Страви WOK",
-                        "itemUuids": [
-                            "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
-                            "9829aa33-685a-4043-abed-5ba020ac2a61",
-                            "2970352d-76e8-4944-8670-1b1d865bdd77",
-                            "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
-                            "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
-                            "95ada6dd-6eeb-4079-83da-ad15f781bd21",
-                            "1180e961-ca0d-4c1c-8cb1-22acb5050403",
-                            "fda6a724-4336-4086-b220-bb072fc5fff1",
-                            "9a1ea039-d79c-4900-8095-cdb18b1af5db"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
-                                "title": "Яєчна локшина з овочами",
-                                "itemDescription": "Домашня яєчна локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                                "price": 7900,
-                                "customizationUuids": [
-                                    "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                                ]
-                            },
-                            {
-                                "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
-                                "title": "Яєчна локшина з куркою",
-                                "itemDescription": "Домашня яєчна локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                                "price": 9700,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0d98199-8f3e-4dbd-a60a-6ef071058950",
-                                "customizationUuids": [
-                                    "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
-                                ]
-                            },
-                            {
-                                "uuid": "2970352d-76e8-4944-8670-1b1d865bdd77",
-                                "title": "Яєчна локшина з яловичиною",
-                                "itemDescription": "Домашня яєчна локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-97г/XL-450г). Розмір на вибір.\n\n",
-                                "price": 12900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8657817-0302-4534-a698-46270d43998b",
-                                "customizationUuids": [
-                                    "bd6fddec-dafd-4d59-ad4f-f1abfed4bf42"
-                                ]
-                            },
-                            {
-                                "uuid": "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
-                                "title": "Рисова локшина з овочами",
-                                "itemDescription": "Китайська рисова локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/ХL–450г), Розмір на вибір.",
-                                "price": 9900,
-                                "customizationUuids": [
-                                    "bba13f68-5c3d-45a1-8f46-90c9d8b0f795"
-                                ]
-                            },
-                            {
-                                "uuid": "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
-                                "title": "Рисова локшина з куркою",
-                                "itemDescription": "Китайська рисова локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n\n\n",
-                                "price": 11900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2c99b62-1431-4ff2-a488-406ca8ce0cc0",
-                                "customizationUuids": [
-                                    "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                                ]
-                            },
-                            {
-                                "uuid": "95ada6dd-6eeb-4079-83da-ad15f781bd21",
-                                "title": "Рисова локшина з яловичиною",
-                                "itemDescription": "Китайська рисова локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                                "price": 14700,
-                                "customizationUuids": [
-                                    "2e3cab2c-0142-45e6-9488-328dc988789b"
-                                ]
-                            },
-                            {
-                                "uuid": "1180e961-ca0d-4c1c-8cb1-22acb5050403",
-                                "title": "Смажений рис з овочами",
-                                "itemDescription": "Рис, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                                "price": 7300,
-                                "customizationUuids": [
-                                    "1239bf25-72c2-4964-a24f-92e816f0a3a4"
-                                ]
-                            },
-                            {
-                                "uuid": "fda6a724-4336-4086-b220-bb072fc5fff1",
-                                "title": "Смажений рис з куркою",
-                                "itemDescription": "Рис, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                                "price": 8900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab722d97-bce2-449e-9ed2-fa4acaf138b3",
-                                "customizationUuids": [
-                                    "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                                ]
-                            },
-                            {
-                                "uuid": "9a1ea039-d79c-4900-8095-cdb18b1af5db",
-                                "title": "Смажений рис з яловичиною",
-                                "itemDescription": "Рис, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
-                                "price": 11900,
-                                "customizationUuids": [
-                                    "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "bc7f711c-1476-423b-b4cd-9db4e8da9656",
-                        "title": "Кава",
-                        "itemUuids": [
-                            "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
-                            "558a9979-26cf-4804-9a27-364bab44f26d",
-                            "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
-                            "8ae765f1-b149-48c3-9764-5d494e6c5692",
-                            "716e191f-5b83-432e-b9c6-c2ef301a7212"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
-                                "title": "Еспресо",
-                                "itemDescription": "",
-                                "price": 2500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "558a9979-26cf-4804-9a27-364bab44f26d",
-                                "title": "Американо",
-                                "itemDescription": "",
-                                "price": 2500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
-                                "title": "Американо з молоком",
-                                "itemDescription": "",
-                                "price": 2700,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "8ae765f1-b149-48c3-9764-5d494e6c5692",
-                                "title": "Капучіно",
-                                "itemDescription": "",
-                                "price": 3400,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "716e191f-5b83-432e-b9c6-c2ef301a7212",
-                                "title": "Лате",
-                                "itemDescription": "",
-                                "price": 3800,
-                                "suspendUntil": 8640000000
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae",
-                        "title": "Напої",
-                        "itemUuids": [
-                            "869e78b7-4f59-479c-b55b-86fddf151ed3",
-                            "06aa9967-1b9c-418a-8d24-c77f3d594600",
-                            "8979a7a0-ed0c-48cc-bac4-0630606676db",
-                            "d87113ab-2888-40a6-80ac-55882ccfa8fa",
-                            "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
-                            "74aa1623-0769-4334-82e1-c72e84cabb16",
-                            "833c4291-a91d-454b-99da-53bc5af03334",
-                            "ae540f02-ee3c-497b-9a7f-a9073c92f7be"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "869e78b7-4f59-479c-b55b-86fddf151ed3",
-                                "title": "Лимонад цитрус-манго \"Фургонета\"",
-                                "itemDescription": "500мл.",
-                                "price": 6000
-                            },
-                            {
-                                "uuid": "06aa9967-1b9c-418a-8d24-c77f3d594600",
-                                "title": "Морс з сезонних ягід",
-                                "itemDescription": "500мл.",
-                                "price": 4500
-                            },
-                            {
-                                "uuid": "8979a7a0-ed0c-48cc-bac4-0630606676db",
-                                "title": "Пепсі",
-                                "itemDescription": "300мл.",
-                                "price": 3000
-                            },
-                            {
-                                "uuid": "d87113ab-2888-40a6-80ac-55882ccfa8fa",
-                                "title": "Моршинська",
-                                "itemDescription": "500мл.",
-                                "price": 3000
-                            },
-                            {
-                                "uuid": "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
-                                "title": "Боржомі",
-                                "itemDescription": "500мл.",
-                                "price": 4800
-                            },
-                            {
-                                "uuid": "74aa1623-0769-4334-82e1-c72e84cabb16",
-                                "title": "Евервес Тонік",
-                                "itemDescription": "",
-                                "price": 4200
-                            },
-                            {
-                                "uuid": "833c4291-a91d-454b-99da-53bc5af03334",
-                                "title": "Ред булл",
-                                "itemDescription": "",
-                                "price": 6900
-                            },
-                            {
-                                "uuid": "ae540f02-ee3c-497b-9a7f-a9073c92f7be",
-                                "title": "Фреш",
-                                "itemDescription": "Смаки на вибір",
-                                "price": 1700,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "6aebc093-92e9-44ab-8208-1c9b169378c8"
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            "1162579b-bffb-49ae-b175-5aad33b33394": {
-                "itemsMap": {
-                    "a64a84ae-8fa0-4ccf-af25-13b53c055767": {
-                        "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
-                        "title": "Vegetable fried rice",
-                        "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                        "price": 7300,
-                        "customizationUuids": [
-                            "19a21429-16e6-4538-afa7-27d1023ab491"
-                        ]
-                    },
-                    "f645e9fe-758d-4521-ab0c-dc4b1749ffc5": {
-                        "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
-                        "title": "MATYA Burger",
-                        "itemDescription": "Sesame bun, double beef cutlet, double bacon, double Chedder, fried egg, Coleslaw salad, drawn butter \nwith garlic, and «BBQ» sauce, and - handmade by Furgonet (XL-480g).\n",
-                        "price": 29700
-                    },
-                    "cc11988b-986d-4df6-8a8c-d87ff15ef675": {
-                        "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
-                        "title": "Smoked Burger",
-                        "itemDescription": "Sesame bun, beef cutlet with baked beacon, napa cabbage Kimchi, cream sauce with anchovy, and cilantro - handmade by Furgoneta (S-200g/XL-300g). Size to choose from.\n",
-                        "price": 9700,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
-                        ]
-                    },
-                    "4d475860-3bbe-47f9-b18a-32a45c6a79ee": {
-                        "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
-                        "title": "Red Bull",
-                        "itemDescription": "",
-                        "price": 6900
-                    },
-                    "0ba0d913-9933-41e9-a305-3d128d94cd11": {
-                        "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
-                        "title": "Water",
-                        "itemDescription": "500ml.",
-                        "price": 3000
-                    },
-                    "26dfc360-68ba-4736-ab89-15de7f41c905": {
-                        "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
-                        "title": "Rice noodles with chicken",
-                        "itemDescription": "Chinese rice noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n\n",
-                        "price": 11900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbea604f-b278-4e9e-8798-14cc8dc4eb47",
-                        "customizationUuids": [
-                            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                        ]
-                    },
-                    "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b": {
-                        "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
-                        "title": "Seasonal fruit drink",
-                        "itemDescription": "500ml.",
-                        "price": 4500
-                    },
-                    "51958266-64ad-4c6d-8074-df9e8761ca14": {
-                        "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
-                        "title": "Beef fried rice",
-                        "itemDescription": "Rice, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                        "price": 11900,
-                        "customizationUuids": [
-                            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                        ]
-                    },
-                    "d7ffd128-1209-4149-a5ec-37046575fefa": {
-                        "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
-                        "title": "Egg noodles with beef",
-                        "itemDescription": "Egg noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n",
-                        "price": 12900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679",
-                        "customizationUuids": [
-                            "c6d85c27-b441-439b-9ef5-5fa046a9ab7d"
-                        ]
-                    },
-                    "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348": {
-                        "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
-                        "title": "Burger with Grilled Lamb",
-                        "itemDescription": "Sesame bun, lamb cutlet, sauce with Feta cheese and herbs, - handmade by Furgoneta, green and black olives, tomato slice, cucumber, and red onion (S-200g/XL-350g). Size to choose from.\n",
-                        "price": 11300,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/577fed00-4682-48b2-a34b-c71270918c40",
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
-                        ]
-                    },
-                    "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa": {
-                        "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
-                        "title": "Бургер Ківі",
-                        "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
-                        "price": 15900,
-                        "nutritionalInfo": {},
-                        "suspendUntil": 8640000000
-                    },
-                    "066b749d-b5fb-4fdb-946b-19c84f609343": {
-                        "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
-                        "title": "Chicken fried rice",
-                        "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                        "price": 8900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a7ce300-fc23-459c-8ede-5fbff9b2cffa",
-                        "customizationUuids": [
-                            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                        ]
-                    },
-                    "610aae91-b2c8-40ba-8e5a-b881c27c6de0": {
-                        "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
-                        "title": "Espresso",
-                        "itemDescription": "",
-                        "price": 2500,
-                        "suspendUntil": 8640000000
-                    },
-                    "3a5379dc-14be-4f6f-895b-4d826d79d87b": {
-                        "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
-                        "title": "Fresh juice",
-                        "itemDescription": "Flavor to choose",
-                        "price": 1700,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "e2415d09-ad5d-47bb-b18c-747ff6a14f4d"
-                        ]
-                    },
-                    "92230b76-247e-4ddd-8f57-519337ddff94": {
-                        "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
-                        "title": "Evervess Tonic",
-                        "itemDescription": "",
-                        "price": 4200
-                    },
-                    "8cb3339c-297c-4d50-aa58-706fadbe83b5": {
-                        "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
-                        "title": "Grilled Chicken Burger",
-                        "itemDescription": "Sesame seed bun, chicken breast, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce Sesame Tomato Sauce (S-200g/XL-300g). Size to choose from.\n",
-                        "price": 7900,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/bebdb3d4-5959-470b-9e01-5145958bfaed",
-                        "customizationUuids": [
-                            "76980b20-9035-40fa-846d-8783a6a947f5"
-                        ]
-                    },
-                    "412cf43c-7bbf-4a88-9383-d77bb96c4590": {
-                        "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
-                        "title": "Americano with milk",
-                        "itemDescription": "",
-                        "price": 2700,
-                        "suspendUntil": 8640000000
-                    },
-                    "1aec275a-96c7-45ee-a4dd-811b91edc635": {
-                        "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
-                        "title": "Americano",
-                        "itemDescription": "",
-                        "price": 2500,
-                        "suspendUntil": 8640000000
-                    },
-                    "2517a105-8216-47a5-a193-2a279b35dfad": {
-                        "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
-                        "title": "Grilled Beef Burger",
-                        "itemDescription": "Sesame seed bun, beef, bacon, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce BBQ (S-200g/XL-300g). Size to choose from.\n\n",
-                        "price": 9700,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f5e3115-6858-48af-8dd3-7baed9271c2a",
-                        "customizationUuids": [
-                            "a8c16b79-1011-460c-9f71-5a52c44c60b0"
-                        ]
-                    },
-                    "72b5af9e-ff79-4081-ba80-d7cdca5b0df4": {
-                        "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
-                        "title": "Egg noodles with vegetables",
-                        "itemDescription": "Egg noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                        "price": 7900,
-                        "customizationUuids": [
-                            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                        ]
-                    },
-                    "c0207e25-2bed-4526-890b-4f1ce62e8d4f": {
-                        "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
-                        "title": "Rice noodles with beef",
-                        "itemDescription": "Chinese rice noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                        "price": 14700,
-                        "customizationUuids": [
-                            "30d19442-be44-4b71-ab6a-4a10696b106e"
-                        ]
-                    },
-                    "59161214-d30d-4cd5-84f7-afa96d74a433": {
-                        "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
-                        "title": "Rice noodles with vegetables",
-                        "itemDescription": "Chinese rice noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/ХL–450g). Size to choose from.\n",
-                        "price": 9900,
-                        "customizationUuids": [
-                            "14bca678-62fe-46aa-9809-375051d6e513"
-                        ]
-                    },
-                    "b6622460-e448-4fcc-b9a9-ce19e874268d": {
-                        "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
-                        "title": "Lemonade citrus-mango",
-                        "itemDescription": "500ml.",
-                        "price": 6000
-                    },
-                    "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3": {
-                        "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
-                        "title": "Vegetarian burger",
-                        "itemDescription": "Steamed wheat bun, chickpea cutlet with green peas, spinach with light garlic aroma, handmade walnut sauce, hiyashi salad with chili and nut sauce, tofu, fresh cucumber, and fresh tomato (XL-320g).\n",
-                        "price": 14900,
-                        "suspendUntil": 8640000000,
-                        "endorsement": {
-                            "backgroundColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconColor": {
-                                "alpha": 1,
-                                "color": "59BD5A"
-                            },
-                            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                            "text": "Vegetarian ",
-                            "textColor": {
-                                "alpha": 1,
-                                "color": "FFFFFF"
-                            }
-                        }
-                    },
-                    "8081ef16-53e1-4a21-afb6-fdc261584062": {
-                        "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
-                        "title": "Cappuccino",
-                        "itemDescription": "",
-                        "price": 3400,
-                        "suspendUntil": 8640000000
-                    },
-                    "50282151-651e-451f-9f38-1d85209b7c26": {
-                        "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
-                        "title": "Latte",
-                        "itemDescription": "",
-                        "price": 3800,
-                        "suspendUntil": 8640000000
-                    },
-                    "5610946a-f0d7-4ed6-8ace-e2d4205aaf14": {
-                        "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
-                        "title": "Borjomi",
-                        "itemDescription": "300ml.",
-                        "price": 4800
-                    },
-                    "3b7251a8-97c8-4c43-964b-df6367532d1f": {
-                        "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
-                        "title": "Egg noodles with chicken",
-                        "itemDescription": "Egg noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                        "price": 9700,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/65958e69-84e2-4183-88c0-e7e07c41f0b9",
-                        "customizationUuids": [
-                            "a8c16b79-1011-460c-9f71-5a52c44c60b0"
-                        ]
-                    },
-                    "19bf3973-b540-4c0a-9049-7da1df146623": {
-                        "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
-                        "title": "Pepsi",
-                        "itemDescription": "500ml.",
-                        "price": 3000
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "648dd082-ee36-4c6a-bf80-91d88823b338",
-                        "title": "Burgers",
-                        "itemUuids": [
-                            "8cb3339c-297c-4d50-aa58-706fadbe83b5",
-                            "2517a105-8216-47a5-a193-2a279b35dfad",
-                            "cc11988b-986d-4df6-8a8c-d87ff15ef675",
-                            "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
-                            "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
-                            "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
-                            "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
-                                "title": "Grilled Chicken Burger",
-                                "itemDescription": "Sesame seed bun, chicken breast, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce Sesame Tomato Sauce (S-200g/XL-300g). Size to choose from.\n",
-                                "price": 7900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bebdb3d4-5959-470b-9e01-5145958bfaed",
-                                "customizationUuids": [
-                                    "76980b20-9035-40fa-846d-8783a6a947f5"
-                                ]
-                            },
-                            {
-                                "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
-                                "title": "Grilled Beef Burger",
-                                "itemDescription": "Sesame seed bun, beef, bacon, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce BBQ (S-200g/XL-300g). Size to choose from.\n\n",
-                                "price": 9700,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f5e3115-6858-48af-8dd3-7baed9271c2a",
-                                "customizationUuids": [
-                                    "a8c16b79-1011-460c-9f71-5a52c44c60b0"
-                                ]
-                            },
-                            {
-                                "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
-                                "title": "Smoked Burger",
-                                "itemDescription": "Sesame bun, beef cutlet with baked beacon, napa cabbage Kimchi, cream sauce with anchovy, and cilantro - handmade by Furgoneta (S-200g/XL-300g). Size to choose from.\n",
-                                "price": 9700,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
-                                ]
-                            },
-                            {
-                                "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
-                                "title": "Burger with Grilled Lamb",
-                                "itemDescription": "Sesame bun, lamb cutlet, sauce with Feta cheese and herbs, - handmade by Furgoneta, green and black olives, tomato slice, cucumber, and red onion (S-200g/XL-350g). Size to choose from.\n",
-                                "price": 11300,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/577fed00-4682-48b2-a34b-c71270918c40",
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
-                                ]
-                            },
-                            {
-                                "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
-                                "title": "MATYA Burger",
-                                "itemDescription": "Sesame bun, double beef cutlet, double bacon, double Chedder, fried egg, Coleslaw salad, drawn butter \nwith garlic, and «BBQ» sauce, and - handmade by Furgonet (XL-480g).\n",
-                                "price": 29700
-                            },
-                            {
-                                "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
-                                "title": "Vegetarian burger",
-                                "itemDescription": "Steamed wheat bun, chickpea cutlet with green peas, spinach with light garlic aroma, handmade walnut sauce, hiyashi salad with chili and nut sauce, tofu, fresh cucumber, and fresh tomato (XL-320g).\n",
-                                "price": 14900,
-                                "suspendUntil": 8640000000,
-                                "endorsement": {
-                                    "backgroundColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconColor": {
-                                        "alpha": 1,
-                                        "color": "59BD5A"
-                                    },
-                                    "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                                    "text": "Vegetarian ",
-                                    "textColor": {
-                                        "alpha": 1,
-                                        "color": "FFFFFF"
-                                    }
-                                }
-                            },
-                            {
-                                "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
-                                "title": "Бургер Ківі",
-                                "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
-                                "price": 15900,
-                                "nutritionalInfo": {},
-                                "suspendUntil": 8640000000
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "4cd34c2a-e5c0-410f-803c-b135bec5920e",
-                        "title": "WOK Noodles",
-                        "itemUuids": [
-                            "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
-                            "3b7251a8-97c8-4c43-964b-df6367532d1f",
-                            "d7ffd128-1209-4149-a5ec-37046575fefa",
-                            "59161214-d30d-4cd5-84f7-afa96d74a433",
-                            "26dfc360-68ba-4736-ab89-15de7f41c905",
-                            "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
-                            "a64a84ae-8fa0-4ccf-af25-13b53c055767",
-                            "066b749d-b5fb-4fdb-946b-19c84f609343",
-                            "51958266-64ad-4c6d-8074-df9e8761ca14"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
-                                "title": "Egg noodles with vegetables",
-                                "itemDescription": "Egg noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                                "price": 7900,
-                                "customizationUuids": [
-                                    "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                                ]
-                            },
-                            {
-                                "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
-                                "title": "Egg noodles with chicken",
-                                "itemDescription": "Egg noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                                "price": 9700,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/65958e69-84e2-4183-88c0-e7e07c41f0b9",
-                                "customizationUuids": [
-                                    "a8c16b79-1011-460c-9f71-5a52c44c60b0"
-                                ]
-                            },
-                            {
-                                "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
-                                "title": "Egg noodles with beef",
-                                "itemDescription": "Egg noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n",
-                                "price": 12900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679",
-                                "customizationUuids": [
-                                    "c6d85c27-b441-439b-9ef5-5fa046a9ab7d"
-                                ]
-                            },
-                            {
-                                "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
-                                "title": "Rice noodles with vegetables",
-                                "itemDescription": "Chinese rice noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/ХL–450g). Size to choose from.\n",
-                                "price": 9900,
-                                "customizationUuids": [
-                                    "14bca678-62fe-46aa-9809-375051d6e513"
-                                ]
-                            },
-                            {
-                                "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
-                                "title": "Rice noodles with chicken",
-                                "itemDescription": "Chinese rice noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n\n",
-                                "price": 11900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbea604f-b278-4e9e-8798-14cc8dc4eb47",
-                                "customizationUuids": [
-                                    "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                                ]
-                            },
-                            {
-                                "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
-                                "title": "Rice noodles with beef",
-                                "itemDescription": "Chinese rice noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                                "price": 14700,
-                                "customizationUuids": [
-                                    "30d19442-be44-4b71-ab6a-4a10696b106e"
-                                ]
-                            },
-                            {
-                                "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
-                                "title": "Vegetable fried rice",
-                                "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                                "price": 7300,
-                                "customizationUuids": [
-                                    "19a21429-16e6-4538-afa7-27d1023ab491"
-                                ]
-                            },
-                            {
-                                "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
-                                "title": "Chicken fried rice",
-                                "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                                "price": 8900,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a7ce300-fc23-459c-8ede-5fbff9b2cffa",
-                                "customizationUuids": [
-                                    "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                                ]
-                            },
-                            {
-                                "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
-                                "title": "Beef fried rice",
-                                "itemDescription": "Rice, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-                                "price": 11900,
-                                "customizationUuids": [
-                                    "ff18d7df-60b7-4f81-b242-dcb6628329da"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "1b4124d8-f095-4fa4-8851-f677c106e4a9",
-                        "title": "Cofe",
-                        "itemUuids": [
-                            "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
-                            "1aec275a-96c7-45ee-a4dd-811b91edc635",
-                            "412cf43c-7bbf-4a88-9383-d77bb96c4590",
-                            "8081ef16-53e1-4a21-afb6-fdc261584062",
-                            "50282151-651e-451f-9f38-1d85209b7c26"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
-                                "title": "Espresso",
-                                "itemDescription": "",
-                                "price": 2500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
-                                "title": "Americano",
-                                "itemDescription": "",
-                                "price": 2500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
-                                "title": "Americano with milk",
-                                "itemDescription": "",
-                                "price": 2700,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
-                                "title": "Cappuccino",
-                                "itemDescription": "",
-                                "price": 3400,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
-                                "title": "Latte",
-                                "itemDescription": "",
-                                "price": 3800,
-                                "suspendUntil": 8640000000
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "acaafa3e-fe50-404c-83b6-569c589c0ee4",
-                        "title": "Drinks",
-                        "itemUuids": [
-                            "b6622460-e448-4fcc-b9a9-ce19e874268d",
-                            "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
-                            "19bf3973-b540-4c0a-9049-7da1df146623",
-                            "0ba0d913-9933-41e9-a305-3d128d94cd11",
-                            "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
-                            "92230b76-247e-4ddd-8f57-519337ddff94",
-                            "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
-                            "3a5379dc-14be-4f6f-895b-4d826d79d87b"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
-                                "title": "Lemonade citrus-mango",
-                                "itemDescription": "500ml.",
-                                "price": 6000
-                            },
-                            {
-                                "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
-                                "title": "Seasonal fruit drink",
-                                "itemDescription": "500ml.",
-                                "price": 4500
-                            },
-                            {
-                                "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
-                                "title": "Pepsi",
-                                "itemDescription": "500ml.",
-                                "price": 3000
-                            },
-                            {
-                                "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
-                                "title": "Water",
-                                "itemDescription": "500ml.",
-                                "price": 3000
-                            },
-                            {
-                                "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
-                                "title": "Borjomi",
-                                "itemDescription": "300ml.",
-                                "price": 4800
-                            },
-                            {
-                                "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
-                                "title": "Evervess Tonic",
-                                "itemDescription": "",
-                                "price": 4200
-                            },
-                            {
-                                "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
-                                "title": "Red Bull",
-                                "itemDescription": "",
-                                "price": 6900
-                            },
-                            {
-                                "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
-                                "title": "Fresh juice",
-                                "itemDescription": "Flavor to choose",
-                                "price": 1700,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "e2415d09-ad5d-47bb-b18c-747ff6a14f4d"
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        "subsectionsMap": {
-            "bc7f711c-1476-423b-b4cd-9db4e8da9656": {
-                "uuid": "bc7f711c-1476-423b-b4cd-9db4e8da9656",
-                "title": "Кава",
-                "itemUuids": [
-                    "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
-                    "558a9979-26cf-4804-9a27-364bab44f26d",
-                    "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
-                    "8ae765f1-b149-48c3-9764-5d494e6c5692",
-                    "716e191f-5b83-432e-b9c6-c2ef301a7212"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "558a9979-26cf-4804-9a27-364bab44f26d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8ae765f1-b149-48c3-9764-5d494e6c5692",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "716e191f-5b83-432e-b9c6-c2ef301a7212",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "648dd082-ee36-4c6a-bf80-91d88823b338": {
-                "uuid": "648dd082-ee36-4c6a-bf80-91d88823b338",
-                "title": "Burgers",
-                "itemUuids": [
-                    "8cb3339c-297c-4d50-aa58-706fadbe83b5",
-                    "2517a105-8216-47a5-a193-2a279b35dfad",
-                    "cc11988b-986d-4df6-8a8c-d87ff15ef675",
-                    "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
-                    "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
-                    "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
-                    "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "d4778009-98a3-4d92-b384-93468e77d18f": {
-                "uuid": "d4778009-98a3-4d92-b384-93468e77d18f",
-                "title": "Популярне",
-                "itemUuids": [
-                    "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                    "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                    "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                    "9829aa33-685a-4043-abed-5ba020ac2a61",
-                    "704726a8-dc54-4689-adab-95c11c681808"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "704726a8-dc54-4689-adab-95c11c681808",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "4cd34c2a-e5c0-410f-803c-b135bec5920e": {
-                "uuid": "4cd34c2a-e5c0-410f-803c-b135bec5920e",
-                "title": "WOK Noodles",
-                "itemUuids": [
-                    "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
-                    "3b7251a8-97c8-4c43-964b-df6367532d1f",
-                    "d7ffd128-1209-4149-a5ec-37046575fefa",
-                    "59161214-d30d-4cd5-84f7-afa96d74a433",
-                    "26dfc360-68ba-4736-ab89-15de7f41c905",
-                    "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
-                    "a64a84ae-8fa0-4ccf-af25-13b53c055767",
-                    "066b749d-b5fb-4fdb-946b-19c84f609343",
-                    "51958266-64ad-4c6d-8074-df9e8761ca14"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae": {
-                "uuid": "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae",
-                "title": "Напої",
-                "itemUuids": [
-                    "869e78b7-4f59-479c-b55b-86fddf151ed3",
-                    "06aa9967-1b9c-418a-8d24-c77f3d594600",
-                    "8979a7a0-ed0c-48cc-bac4-0630606676db",
-                    "d87113ab-2888-40a6-80ac-55882ccfa8fa",
-                    "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
-                    "74aa1623-0769-4334-82e1-c72e84cabb16",
-                    "833c4291-a91d-454b-99da-53bc5af03334",
-                    "ae540f02-ee3c-497b-9a7f-a9073c92f7be"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "869e78b7-4f59-479c-b55b-86fddf151ed3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "06aa9967-1b9c-418a-8d24-c77f3d594600",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8979a7a0-ed0c-48cc-bac4-0630606676db",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d87113ab-2888-40a6-80ac-55882ccfa8fa",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "74aa1623-0769-4334-82e1-c72e84cabb16",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "833c4291-a91d-454b-99da-53bc5af03334",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ae540f02-ee3c-497b-9a7f-a9073c92f7be",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "acaafa3e-fe50-404c-83b6-569c589c0ee4": {
-                "uuid": "acaafa3e-fe50-404c-83b6-569c589c0ee4",
-                "title": "Drinks",
-                "itemUuids": [
-                    "b6622460-e448-4fcc-b9a9-ce19e874268d",
-                    "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
-                    "19bf3973-b540-4c0a-9049-7da1df146623",
-                    "0ba0d913-9933-41e9-a305-3d128d94cd11",
-                    "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
-                    "92230b76-247e-4ddd-8f57-519337ddff94",
-                    "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
-                    "3a5379dc-14be-4f6f-895b-4d826d79d87b"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "e664700b-37c5-4553-a609-ba6056f9a5ec": {
-                "uuid": "e664700b-37c5-4553-a609-ba6056f9a5ec",
-                "title": "Бургери",
-                "itemUuids": [
-                    "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                    "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                    "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
-                    "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                    "af58b439-fedf-490b-8535-e47173ad1359",
-                    "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "af58b439-fedf-490b-8535-e47173ad1359",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "6c06d3d7-efef-40bf-b40f-1e60c54d8296": {
-                "uuid": "6c06d3d7-efef-40bf-b40f-1e60c54d8296",
-                "title": "Страви WOK",
-                "itemUuids": [
-                    "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
-                    "9829aa33-685a-4043-abed-5ba020ac2a61",
-                    "2970352d-76e8-4944-8670-1b1d865bdd77",
-                    "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
-                    "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
-                    "95ada6dd-6eeb-4079-83da-ad15f781bd21",
-                    "1180e961-ca0d-4c1c-8cb1-22acb5050403",
-                    "fda6a724-4336-4086-b220-bb072fc5fff1",
-                    "9a1ea039-d79c-4900-8095-cdb18b1af5db"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "2970352d-76e8-4944-8670-1b1d865bdd77",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "95ada6dd-6eeb-4079-83da-ad15f781bd21",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1180e961-ca0d-4c1c-8cb1-22acb5050403",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "fda6a724-4336-4086-b220-bb072fc5fff1",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9a1ea039-d79c-4900-8095-cdb18b1af5db",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "1b4124d8-f095-4fa4-8851-f677c106e4a9": {
-                "uuid": "1b4124d8-f095-4fa4-8851-f677c106e4a9",
-                "title": "Cofe",
-                "itemUuids": [
-                    "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
-                    "1aec275a-96c7-45ee-a4dd-811b91edc635",
-                    "412cf43c-7bbf-4a88-9383-d77bb96c4590",
-                    "8081ef16-53e1-4a21-afb6-fdc261584062",
-                    "50282151-651e-451f-9f38-1d85209b7c26"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
-                        "type": "ITEM"
-                    }
-                ]
-            }
-        },
-        "location": {
-            "latitude": 50.440267,
-            "longitude": 30.523493,
-            "address": {
-                "address1": "Baseina St, 13",
-                "aptOrSuite": "",
-                "city": "Kyiv",
-                "country": "UA",
-                "postalCode": "02000",
-                "region": "Kyiv city",
-                "formattedAddress": "Baseina St, 13, Kyiv, Kyiv city 02000"
-            }
-        },
-        "publicContact": {
-            "publicPhoneNumber": "+380501498999"
-        },
-        "priceBucket": "₴",
-        "slug": "furgoneta",
-        "isOrderable": true,
-        "disableCheckoutInstruction": false,
-        "supportedDiningModes": [
-            "DELIVERY"
-        ],
-        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
-        "heroImage": {
-            "items": [
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg",
-                    "width": 2880,
-                    "height": 2304
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w240-63.jpg",
-                    "width": 240,
-                    "height": 192
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
-                    "width": 550,
-                    "height": 440
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w750-3c.jpg",
-                    "width": 750,
-                    "height": 600
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w640-4f.jpg",
-                    "width": 640,
-                    "height": 512
-                },
-                {
-                    "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w1080-88.jpg",
-                    "width": 1080,
-                    "height": 864
-                }
-            ]
-        },
-        "closedEtaMessage": "Currently unavailable",
-        "notOrderableMessage": "Currently unavailable",
-        "storeBadges": {
-            "disclaimerBadge": {
-                "textFormat": ""
-            },
-            "ratingBadge": {
-                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(187)</span></span>",
-                "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 187 reviews."
-            },
-            "taglineBadge": {
-                "textFormat": "<span>₴ • Vegetarian • Burger • Asian • Fast Food</span>"
-            },
-            "etaBadge": {
-                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-                "text": "35–45 MINS",
-                "textFormat": "<span>35–45 MINS</span>",
-                "accessibilityText": "Delivered in 35 to 45 MINS"
-            }
-        },
-        "etaRange": {
-            "min": 35,
-            "max": 45,
-            "raw": 40
-        },
-        "fareInfo": {
-            "serviceFee": 30
-        },
-        "eaterFields": {},
-        "meta": {
-            "sectionHoursInfo": [
-                {
-                    "dayRange": "Every day",
-                    "sectionHours": [
-                        {
-                            "startTime": 600,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 600,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                }
-            ]
-        },
-        "nuggets": [],
-        "displayConfig": {
-            "regionalDisplayType": "DEFAULT"
-        },
-        "enabledFulfillmentTypes": [
-            "DELIVERY"
-        ],
-        "citySlug": "kyiv",
-        "cityName": "Kyiv",
-        "currencyCode": "UAH",
-        "currencyNumDigitsAfterDecimal": 2
+  "uuid": "0e924687-7405-4c62-b38f-dc7cda384d65",
+  "title": "Furgoneta",
+  "regionId": 943,
+  "categories": [
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
     }
+  ],
+  "sections": [
+    {
+      "uuid": "2999c364-1d48-4895-ab6f-f398faad5502",
+      "title": "SWITCH LANGUAGE (UKR)",
+      "subtitle": "10:00 AM – 10:00 PM",
+      "isTop": true,
+      "isOnSale": true,
+      "subsectionUuids": [
+        "d4778009-98a3-4d92-b384-93468e77d18f",
+        "e664700b-37c5-4553-a609-ba6056f9a5ec",
+        "6c06d3d7-efef-40bf-b40f-1e60c54d8296",
+        "bc7f711c-1476-423b-b4cd-9db4e8da9656",
+        "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae"
+      ]
+    },
+    {
+      "uuid": "1162579b-bffb-49ae-b175-5aad33b33394",
+      "title": "SWITCH LANGUAGE (ENG)",
+      "subtitle": "10:00 AM – 10:00 PM",
+      "isOnSale": true,
+      "subsectionUuids": [
+        "648dd082-ee36-4c6a-bf80-91d88823b338",
+        "4cd34c2a-e5c0-410f-803c-b135bec5920e",
+        "1b4124d8-f095-4fa4-8851-f677c106e4a9",
+        "acaafa3e-fe50-404c-83b6-569c589c0ee4"
+      ]
+    }
+  ],
+  "sectionEntitiesMap": {
+    "2999c364-1d48-4895-ab6f-f398faad5502": {
+      "itemsMap": {
+        "9dcd50e2-2217-4eed-a2f0-baec587ea5b4": {
+          "uuid": "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
+          "title": "Боржомі",
+          "itemDescription": "500мл.",
+          "price": 4800
+        },
+        "06aa9967-1b9c-418a-8d24-c77f3d594600": {
+          "uuid": "06aa9967-1b9c-418a-8d24-c77f3d594600",
+          "title": "Морс з сезонних ягід",
+          "itemDescription": "500мл.",
+          "price": 4500
+        },
+        "9a1ea039-d79c-4900-8095-cdb18b1af5db": {
+          "uuid": "9a1ea039-d79c-4900-8095-cdb18b1af5db",
+          "title": "Смажений рис з яловичиною",
+          "itemDescription": "Рис, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+          "price": 11900,
+          "customizationUuids": [
+            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+          ]
+        },
+        "716e191f-5b83-432e-b9c6-c2ef301a7212": {
+          "uuid": "716e191f-5b83-432e-b9c6-c2ef301a7212",
+          "title": "Лате",
+          "itemDescription": "",
+          "price": 3800,
+          "suspendUntil": 8640000000
+        },
+        "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26": {
+          "uuid": "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
+          "title": "Яєчна локшина з овочами",
+          "itemDescription": "Домашня яєчна локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+          "price": 7900,
+          "customizationUuids": [
+            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+          ]
+        },
+        "74aa1623-0769-4334-82e1-c72e84cabb16": {
+          "uuid": "74aa1623-0769-4334-82e1-c72e84cabb16",
+          "title": "Евервес Тонік",
+          "itemDescription": "",
+          "price": 4200
+        },
+        "d87113ab-2888-40a6-80ac-55882ccfa8fa": {
+          "uuid": "d87113ab-2888-40a6-80ac-55882ccfa8fa",
+          "title": "Моршинська",
+          "itemDescription": "500мл.",
+          "price": 3000
+        },
+        "d9edaa9e-7df7-4ec6-b97d-40a316705683": {
+          "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+          "title": "Бургер з яловичиною-гриль",
+          "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, бекон власного виробницвта, сир Чеддер, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус «BBQ» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.\n",
+          "price": 9700,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3203383-19e4-4e1f-a608-d0d7de34c2f8",
+          "customizationUuids": [
+            "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
+          ]
+        },
+        "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986": {
+          "uuid": "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
+          "title": "Копчений бургер",
+          "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку та копченого бекону власного виробницвта, пекінська капуста “Кім Чи”, вершковий соус з анчоусоми та кінзою - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
+          "price": 9700,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "eb05465a-60e0-44e4-9670-124e59bd8eea"
+          ]
+        },
+        "b28e39b7-d4d2-4db6-a1e0-500d018d314a": {
+          "uuid": "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
+          "title": "Рисова локшина з куркою",
+          "itemDescription": "Китайська рисова локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n\n\n",
+          "price": 11900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2c99b62-1431-4ff2-a488-406ca8ce0cc0",
+          "customizationUuids": [
+            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+          ]
+        },
+        "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356": {
+          "uuid": "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
+          "title": "Еспресо",
+          "itemDescription": "",
+          "price": 2500,
+          "suspendUntil": 8640000000
+        },
+        "704726a8-dc54-4689-adab-95c11c681808": {
+          "uuid": "704726a8-dc54-4689-adab-95c11c681808",
+          "title": "Салат з куркою гриль",
+          "itemDescription": "Листя салату, курка смажена на мангалі,  помідор, рукола, огірок та соус часниковий власне виробництво",
+          "price": 7900,
+          "nutritionalInfo": {},
+          "suspendUntil": 8640000000
+        },
+        "869e78b7-4f59-479c-b55b-86fddf151ed3": {
+          "uuid": "869e78b7-4f59-479c-b55b-86fddf151ed3",
+          "title": "Лимонад цитрус-манго \"Фургонета\"",
+          "itemDescription": "500мл.",
+          "price": 6000
+        },
+        "8ae765f1-b149-48c3-9764-5d494e6c5692": {
+          "uuid": "8ae765f1-b149-48c3-9764-5d494e6c5692",
+          "title": "Капучіно",
+          "itemDescription": "",
+          "price": 3400,
+          "suspendUntil": 8640000000
+        },
+        "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa": {
+          "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
+          "title": "Бургер Ківі",
+          "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
+          "price": 15900,
+          "nutritionalInfo": {},
+          "suspendUntil": 8640000000
+        },
+        "1180e961-ca0d-4c1c-8cb1-22acb5050403": {
+          "uuid": "1180e961-ca0d-4c1c-8cb1-22acb5050403",
+          "title": "Смажений рис з овочами",
+          "itemDescription": "Рис, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+          "price": 7300,
+          "customizationUuids": [
+            "1239bf25-72c2-4964-a24f-92e816f0a3a4"
+          ]
+        },
+        "2970352d-76e8-4944-8670-1b1d865bdd77": {
+          "uuid": "2970352d-76e8-4944-8670-1b1d865bdd77",
+          "title": "Яєчна локшина з яловичиною",
+          "itemDescription": "Домашня яєчна локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-97г/XL-450г). Розмір на вибір.\n\n",
+          "price": 12900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8657817-0302-4534-a698-46270d43998b",
+          "customizationUuids": [
+            "bd6fddec-dafd-4d59-ad4f-f1abfed4bf42"
+          ]
+        },
+        "670ae373-ff49-49f2-a9d8-9e75c58b5e1d": {
+          "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+          "title": "Бургер з бараниною-гриль",
+          "itemDescription": "Булочка з кунжутом, соковита котлета з м’якоти баранини, соус на основі сиру Фета з додаванням трав - handmade by Furgoneta, оливки, маслини, свіжий томат, свіжий огірок, червона цибуля (S-200г/XL-350г). Розмір на вибір.",
+          "price": 11300,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b88e8c-d858-4100-981d-3e861ff3b0b7",
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "eb05465a-60e0-44e4-9670-124e59bd8eea"
+          ]
+        },
+        "c26cf28e-bee7-4b45-bb17-27dca8918774": {
+          "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
+          "title": "Бургер з куркою-гриль",
+          "itemDescription": "Булочка з кунжутом, смажене куряче філе, сир Чеддер, фірмовий салат «Коул-Слоу», топлене масло з часником, фіромвий соус «Томатно-кунжутний» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
+          "price": 7900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d85473a0-9abf-444c-b172-d20c7009c7b7",
+          "customizationUuids": [
+            "8e54340a-b66d-4827-b121-d49db2945ffb"
+          ]
+        },
+        "8979a7a0-ed0c-48cc-bac4-0630606676db": {
+          "uuid": "8979a7a0-ed0c-48cc-bac4-0630606676db",
+          "title": "Пепсі",
+          "itemDescription": "300мл.",
+          "price": 3000
+        },
+        "af58b439-fedf-490b-8535-e47173ad1359": {
+          "uuid": "af58b439-fedf-490b-8535-e47173ad1359",
+          "title": "Матя-бургер",
+          "itemDescription": "Булочка з кунжутом, дві соковиті котлети з яловичини вищого гатунку, подвійний бекон власного виробництва, подвійний сир Чеддер, яєчня-глазунья, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус “BBQ» - handmade by Furgoneta (XL-480г).\n",
+          "price": 29700
+        },
+        "d2cc4d20-4cdd-4002-a58d-d7e765e24c54": {
+          "uuid": "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
+          "title": "Американо з молоком",
+          "itemDescription": "",
+          "price": 2700,
+          "suspendUntil": 8640000000
+        },
+        "9829aa33-685a-4043-abed-5ba020ac2a61": {
+          "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
+          "title": "Яєчна локшина з куркою",
+          "itemDescription": "Домашня яєчна локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+          "price": 9700,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0d98199-8f3e-4dbd-a60a-6ef071058950",
+          "customizationUuids": [
+            "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
+          ]
+        },
+        "558a9979-26cf-4804-9a27-364bab44f26d": {
+          "uuid": "558a9979-26cf-4804-9a27-364bab44f26d",
+          "title": "Американо",
+          "itemDescription": "",
+          "price": 2500,
+          "suspendUntil": 8640000000
+        },
+        "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec": {
+          "uuid": "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
+          "title": "Рисова локшина з овочами",
+          "itemDescription": "Китайська рисова локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/ХL–450г), Розмір на вибір.",
+          "price": 9900,
+          "customizationUuids": [
+            "bba13f68-5c3d-45a1-8f46-90c9d8b0f795"
+          ]
+        },
+        "833c4291-a91d-454b-99da-53bc5af03334": {
+          "uuid": "833c4291-a91d-454b-99da-53bc5af03334",
+          "title": "Ред булл",
+          "itemDescription": "",
+          "price": 6900
+        },
+        "95ada6dd-6eeb-4079-83da-ad15f781bd21": {
+          "uuid": "95ada6dd-6eeb-4079-83da-ad15f781bd21",
+          "title": "Рисова локшина з яловичиною",
+          "itemDescription": "Китайська рисова локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+          "price": 14700,
+          "customizationUuids": [
+            "2e3cab2c-0142-45e6-9488-328dc988789b"
+          ]
+        },
+        "ae540f02-ee3c-497b-9a7f-a9073c92f7be": {
+          "uuid": "ae540f02-ee3c-497b-9a7f-a9073c92f7be",
+          "title": "Фреш",
+          "itemDescription": "Смаки на вибір",
+          "price": 1700,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "6aebc093-92e9-44ab-8208-1c9b169378c8"
+          ]
+        },
+        "fda6a724-4336-4086-b220-bb072fc5fff1": {
+          "uuid": "fda6a724-4336-4086-b220-bb072fc5fff1",
+          "title": "Смажений рис з куркою",
+          "itemDescription": "Рис, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+          "price": 8900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab722d97-bce2-449e-9ed2-fa4acaf138b3",
+          "customizationUuids": [
+            "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+          ]
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "d4778009-98a3-4d92-b384-93468e77d18f",
+          "title": "Популярне",
+          "itemUuids": [
+            "c26cf28e-bee7-4b45-bb17-27dca8918774",
+            "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+            "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+            "9829aa33-685a-4043-abed-5ba020ac2a61",
+            "704726a8-dc54-4689-adab-95c11c681808"
+          ],
+          "displayItems": [
+            {
+              "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
+              "title": "Бургер з куркою-гриль",
+              "itemDescription": "Булочка з кунжутом, смажене куряче філе, сир Чеддер, фірмовий салат «Коул-Слоу», топлене масло з часником, фіромвий соус «Томатно-кунжутний» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
+              "price": 7900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d85473a0-9abf-444c-b172-d20c7009c7b7",
+              "customizationUuids": [
+                "8e54340a-b66d-4827-b121-d49db2945ffb"
+              ]
+            },
+            {
+              "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+              "title": "Бургер з бараниною-гриль",
+              "itemDescription": "Булочка з кунжутом, соковита котлета з м’якоти баранини, соус на основі сиру Фета з додаванням трав - handmade by Furgoneta, оливки, маслини, свіжий томат, свіжий огірок, червона цибуля (S-200г/XL-350г). Розмір на вибір.",
+              "price": 11300,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b88e8c-d858-4100-981d-3e861ff3b0b7",
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "eb05465a-60e0-44e4-9670-124e59bd8eea"
+              ]
+            },
+            {
+              "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+              "title": "Бургер з яловичиною-гриль",
+              "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, бекон власного виробницвта, сир Чеддер, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус «BBQ» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.\n",
+              "price": 9700,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3203383-19e4-4e1f-a608-d0d7de34c2f8",
+              "customizationUuids": [
+                "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
+              ]
+            },
+            {
+              "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
+              "title": "Яєчна локшина з куркою",
+              "itemDescription": "Домашня яєчна локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+              "price": 9700,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0d98199-8f3e-4dbd-a60a-6ef071058950",
+              "customizationUuids": [
+                "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
+              ]
+            },
+            {
+              "uuid": "704726a8-dc54-4689-adab-95c11c681808",
+              "title": "Салат з куркою гриль",
+              "itemDescription": "Листя салату, курка смажена на мангалі,  помідор, рукола, огірок та соус часниковий власне виробництво",
+              "price": 7900,
+              "nutritionalInfo": {},
+              "suspendUntil": 8640000000
+            }
+          ]
+        },
+        {
+          "uuid": "e664700b-37c5-4553-a609-ba6056f9a5ec",
+          "title": "Бургери",
+          "itemUuids": [
+            "c26cf28e-bee7-4b45-bb17-27dca8918774",
+            "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+            "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
+            "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+            "af58b439-fedf-490b-8535-e47173ad1359",
+            "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
+          ],
+          "displayItems": [
+            {
+              "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
+              "title": "Бургер з куркою-гриль",
+              "itemDescription": "Булочка з кунжутом, смажене куряче філе, сир Чеддер, фірмовий салат «Коул-Слоу», топлене масло з часником, фіромвий соус «Томатно-кунжутний» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
+              "price": 7900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d85473a0-9abf-444c-b172-d20c7009c7b7",
+              "customizationUuids": [
+                "8e54340a-b66d-4827-b121-d49db2945ffb"
+              ]
+            },
+            {
+              "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+              "title": "Бургер з яловичиною-гриль",
+              "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, бекон власного виробницвта, сир Чеддер, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус «BBQ» - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.\n",
+              "price": 9700,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3203383-19e4-4e1f-a608-d0d7de34c2f8",
+              "customizationUuids": [
+                "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
+              ]
+            },
+            {
+              "uuid": "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
+              "title": "Копчений бургер",
+              "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку та копченого бекону власного виробницвта, пекінська капуста “Кім Чи”, вершковий соус з анчоусоми та кінзою - handmade by Furgoneta (S-200г/XL-300г). Розмір на вибір.",
+              "price": 9700,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "eb05465a-60e0-44e4-9670-124e59bd8eea"
+              ]
+            },
+            {
+              "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+              "title": "Бургер з бараниною-гриль",
+              "itemDescription": "Булочка з кунжутом, соковита котлета з м’якоти баранини, соус на основі сиру Фета з додаванням трав - handmade by Furgoneta, оливки, маслини, свіжий томат, свіжий огірок, червона цибуля (S-200г/XL-350г). Розмір на вибір.",
+              "price": 11300,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b88e8c-d858-4100-981d-3e861ff3b0b7",
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "eb05465a-60e0-44e4-9670-124e59bd8eea"
+              ]
+            },
+            {
+              "uuid": "af58b439-fedf-490b-8535-e47173ad1359",
+              "title": "Матя-бургер",
+              "itemDescription": "Булочка з кунжутом, дві соковиті котлети з яловичини вищого гатунку, подвійний бекон власного виробництва, подвійний сир Чеддер, яєчня-глазунья, фірмовий салат “Коул-Слоу”, топлене масло з часником, фірмовий соус “BBQ» - handmade by Furgoneta (XL-480г).\n",
+              "price": 29700
+            },
+            {
+              "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
+              "title": "Бургер Ківі",
+              "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
+              "price": 15900,
+              "nutritionalInfo": {},
+              "suspendUntil": 8640000000
+            }
+          ]
+        },
+        {
+          "uuid": "6c06d3d7-efef-40bf-b40f-1e60c54d8296",
+          "title": "Страви WOK",
+          "itemUuids": [
+            "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
+            "9829aa33-685a-4043-abed-5ba020ac2a61",
+            "2970352d-76e8-4944-8670-1b1d865bdd77",
+            "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
+            "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
+            "95ada6dd-6eeb-4079-83da-ad15f781bd21",
+            "1180e961-ca0d-4c1c-8cb1-22acb5050403",
+            "fda6a724-4336-4086-b220-bb072fc5fff1",
+            "9a1ea039-d79c-4900-8095-cdb18b1af5db"
+          ],
+          "displayItems": [
+            {
+              "uuid": "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
+              "title": "Яєчна локшина з овочами",
+              "itemDescription": "Домашня яєчна локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+              "price": 7900,
+              "customizationUuids": [
+                "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+              ]
+            },
+            {
+              "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
+              "title": "Яєчна локшина з куркою",
+              "itemDescription": "Домашня яєчна локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+              "price": 9700,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0d98199-8f3e-4dbd-a60a-6ef071058950",
+              "customizationUuids": [
+                "52d7bdc1-324a-4457-9ec1-caaefd3d6f9c"
+              ]
+            },
+            {
+              "uuid": "2970352d-76e8-4944-8670-1b1d865bdd77",
+              "title": "Яєчна локшина з яловичиною",
+              "itemDescription": "Домашня яєчна локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-97г/XL-450г). Розмір на вибір.\n\n",
+              "price": 12900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8657817-0302-4534-a698-46270d43998b",
+              "customizationUuids": [
+                "bd6fddec-dafd-4d59-ad4f-f1abfed4bf42"
+              ]
+            },
+            {
+              "uuid": "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
+              "title": "Рисова локшина з овочами",
+              "itemDescription": "Китайська рисова локшина, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/ХL–450г), Розмір на вибір.",
+              "price": 9900,
+              "customizationUuids": [
+                "bba13f68-5c3d-45a1-8f46-90c9d8b0f795"
+              ]
+            },
+            {
+              "uuid": "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
+              "title": "Рисова локшина з куркою",
+              "itemDescription": "Китайська рисова локшина, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n\n\n",
+              "price": 11900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2c99b62-1431-4ff2-a488-406ca8ce0cc0",
+              "customizationUuids": [
+                "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+              ]
+            },
+            {
+              "uuid": "95ada6dd-6eeb-4079-83da-ad15f781bd21",
+              "title": "Рисова локшина з яловичиною",
+              "itemDescription": "Китайська рисова локшина, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+              "price": 14700,
+              "customizationUuids": [
+                "2e3cab2c-0142-45e6-9488-328dc988789b"
+              ]
+            },
+            {
+              "uuid": "1180e961-ca0d-4c1c-8cb1-22acb5050403",
+              "title": "Смажений рис з овочами",
+              "itemDescription": "Рис, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+              "price": 7300,
+              "customizationUuids": [
+                "1239bf25-72c2-4964-a24f-92e816f0a3a4"
+              ]
+            },
+            {
+              "uuid": "fda6a724-4336-4086-b220-bb072fc5fff1",
+              "title": "Смажений рис з куркою",
+              "itemDescription": "Рис, куряче філе, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+              "price": 8900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab722d97-bce2-449e-9ed2-fa4acaf138b3",
+              "customizationUuids": [
+                "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+              ]
+            },
+            {
+              "uuid": "9a1ea039-d79c-4900-8095-cdb18b1af5db",
+              "title": "Смажений рис з яловичиною",
+              "itemDescription": "Рис, яловичина Тясю, куряче яйце, цибуля, морква, пекінська капуста, брокколі, кольорова капуста, стручкова квастоля, часникове пюре, насіння кунжуту, соуси handmade by Furgoneta, зелена цибуля, арахіс (S-225г/XL-450г). Розмір на вибір.\n",
+              "price": 11900,
+              "customizationUuids": [
+                "c70c9cfe-43d1-451f-b2d9-cc2d57d6353a"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "bc7f711c-1476-423b-b4cd-9db4e8da9656",
+          "title": "Кава",
+          "itemUuids": [
+            "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
+            "558a9979-26cf-4804-9a27-364bab44f26d",
+            "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
+            "8ae765f1-b149-48c3-9764-5d494e6c5692",
+            "716e191f-5b83-432e-b9c6-c2ef301a7212"
+          ],
+          "displayItems": [
+            {
+              "uuid": "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
+              "title": "Еспресо",
+              "itemDescription": "",
+              "price": 2500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "558a9979-26cf-4804-9a27-364bab44f26d",
+              "title": "Американо",
+              "itemDescription": "",
+              "price": 2500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
+              "title": "Американо з молоком",
+              "itemDescription": "",
+              "price": 2700,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "8ae765f1-b149-48c3-9764-5d494e6c5692",
+              "title": "Капучіно",
+              "itemDescription": "",
+              "price": 3400,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "716e191f-5b83-432e-b9c6-c2ef301a7212",
+              "title": "Лате",
+              "itemDescription": "",
+              "price": 3800,
+              "suspendUntil": 8640000000
+            }
+          ]
+        },
+        {
+          "uuid": "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae",
+          "title": "Напої",
+          "itemUuids": [
+            "869e78b7-4f59-479c-b55b-86fddf151ed3",
+            "06aa9967-1b9c-418a-8d24-c77f3d594600",
+            "8979a7a0-ed0c-48cc-bac4-0630606676db",
+            "d87113ab-2888-40a6-80ac-55882ccfa8fa",
+            "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
+            "74aa1623-0769-4334-82e1-c72e84cabb16",
+            "833c4291-a91d-454b-99da-53bc5af03334",
+            "ae540f02-ee3c-497b-9a7f-a9073c92f7be"
+          ],
+          "displayItems": [
+            {
+              "uuid": "869e78b7-4f59-479c-b55b-86fddf151ed3",
+              "title": "Лимонад цитрус-манго \"Фургонета\"",
+              "itemDescription": "500мл.",
+              "price": 6000
+            },
+            {
+              "uuid": "06aa9967-1b9c-418a-8d24-c77f3d594600",
+              "title": "Морс з сезонних ягід",
+              "itemDescription": "500мл.",
+              "price": 4500
+            },
+            {
+              "uuid": "8979a7a0-ed0c-48cc-bac4-0630606676db",
+              "title": "Пепсі",
+              "itemDescription": "300мл.",
+              "price": 3000
+            },
+            {
+              "uuid": "d87113ab-2888-40a6-80ac-55882ccfa8fa",
+              "title": "Моршинська",
+              "itemDescription": "500мл.",
+              "price": 3000
+            },
+            {
+              "uuid": "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
+              "title": "Боржомі",
+              "itemDescription": "500мл.",
+              "price": 4800
+            },
+            {
+              "uuid": "74aa1623-0769-4334-82e1-c72e84cabb16",
+              "title": "Евервес Тонік",
+              "itemDescription": "",
+              "price": 4200
+            },
+            {
+              "uuid": "833c4291-a91d-454b-99da-53bc5af03334",
+              "title": "Ред булл",
+              "itemDescription": "",
+              "price": 6900
+            },
+            {
+              "uuid": "ae540f02-ee3c-497b-9a7f-a9073c92f7be",
+              "title": "Фреш",
+              "itemDescription": "Смаки на вибір",
+              "price": 1700,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "6aebc093-92e9-44ab-8208-1c9b169378c8"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "1162579b-bffb-49ae-b175-5aad33b33394": {
+      "itemsMap": {
+        "a64a84ae-8fa0-4ccf-af25-13b53c055767": {
+          "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
+          "title": "Vegetable fried rice",
+          "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+          "price": 7300,
+          "customizationUuids": [
+            "19a21429-16e6-4538-afa7-27d1023ab491"
+          ]
+        },
+        "f645e9fe-758d-4521-ab0c-dc4b1749ffc5": {
+          "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
+          "title": "MATYA Burger",
+          "itemDescription": "Sesame bun, double beef cutlet, double bacon, double Chedder, fried egg, Coleslaw salad, drawn butter \nwith garlic, and «BBQ» sauce, and - handmade by Furgonet (XL-480g).\n",
+          "price": 29700
+        },
+        "cc11988b-986d-4df6-8a8c-d87ff15ef675": {
+          "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
+          "title": "Smoked Burger",
+          "itemDescription": "Sesame bun, beef cutlet with baked beacon, napa cabbage Kimchi, cream sauce with anchovy, and cilantro - handmade by Furgoneta (S-200g/XL-300g). Size to choose from.\n",
+          "price": 9700,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
+          ]
+        },
+        "4d475860-3bbe-47f9-b18a-32a45c6a79ee": {
+          "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
+          "title": "Red Bull",
+          "itemDescription": "",
+          "price": 6900
+        },
+        "0ba0d913-9933-41e9-a305-3d128d94cd11": {
+          "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
+          "title": "Water",
+          "itemDescription": "500ml.",
+          "price": 3000
+        },
+        "26dfc360-68ba-4736-ab89-15de7f41c905": {
+          "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
+          "title": "Rice noodles with chicken",
+          "itemDescription": "Chinese rice noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n\n",
+          "price": 11900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbea604f-b278-4e9e-8798-14cc8dc4eb47",
+          "customizationUuids": [
+            "ff18d7df-60b7-4f81-b242-dcb6628329da"
+          ]
+        },
+        "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b": {
+          "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
+          "title": "Seasonal fruit drink",
+          "itemDescription": "500ml.",
+          "price": 4500
+        },
+        "51958266-64ad-4c6d-8074-df9e8761ca14": {
+          "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
+          "title": "Beef fried rice",
+          "itemDescription": "Rice, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+          "price": 11900,
+          "customizationUuids": [
+            "ff18d7df-60b7-4f81-b242-dcb6628329da"
+          ]
+        },
+        "d7ffd128-1209-4149-a5ec-37046575fefa": {
+          "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
+          "title": "Egg noodles with beef",
+          "itemDescription": "Egg noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n",
+          "price": 12900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679",
+          "customizationUuids": [
+            "c6d85c27-b441-439b-9ef5-5fa046a9ab7d"
+          ]
+        },
+        "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348": {
+          "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
+          "title": "Burger with Grilled Lamb",
+          "itemDescription": "Sesame bun, lamb cutlet, sauce with Feta cheese and herbs, - handmade by Furgoneta, green and black olives, tomato slice, cucumber, and red onion (S-200g/XL-350g). Size to choose from.\n",
+          "price": 11300,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/577fed00-4682-48b2-a34b-c71270918c40",
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
+          ]
+        },
+        "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa": {
+          "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
+          "title": "Бургер Ківі",
+          "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
+          "price": 15900,
+          "nutritionalInfo": {},
+          "suspendUntil": 8640000000
+        },
+        "066b749d-b5fb-4fdb-946b-19c84f609343": {
+          "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
+          "title": "Chicken fried rice",
+          "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+          "price": 8900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a7ce300-fc23-459c-8ede-5fbff9b2cffa",
+          "customizationUuids": [
+            "ff18d7df-60b7-4f81-b242-dcb6628329da"
+          ]
+        },
+        "610aae91-b2c8-40ba-8e5a-b881c27c6de0": {
+          "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
+          "title": "Espresso",
+          "itemDescription": "",
+          "price": 2500,
+          "suspendUntil": 8640000000
+        },
+        "3a5379dc-14be-4f6f-895b-4d826d79d87b": {
+          "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
+          "title": "Fresh juice",
+          "itemDescription": "Flavor to choose",
+          "price": 1700,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "e2415d09-ad5d-47bb-b18c-747ff6a14f4d"
+          ]
+        },
+        "92230b76-247e-4ddd-8f57-519337ddff94": {
+          "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
+          "title": "Evervess Tonic",
+          "itemDescription": "",
+          "price": 4200
+        },
+        "8cb3339c-297c-4d50-aa58-706fadbe83b5": {
+          "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
+          "title": "Grilled Chicken Burger",
+          "itemDescription": "Sesame seed bun, chicken breast, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce Sesame Tomato Sauce (S-200g/XL-300g). Size to choose from.\n",
+          "price": 7900,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bebdb3d4-5959-470b-9e01-5145958bfaed",
+          "customizationUuids": [
+            "76980b20-9035-40fa-846d-8783a6a947f5"
+          ]
+        },
+        "412cf43c-7bbf-4a88-9383-d77bb96c4590": {
+          "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
+          "title": "Americano with milk",
+          "itemDescription": "",
+          "price": 2700,
+          "suspendUntil": 8640000000
+        },
+        "1aec275a-96c7-45ee-a4dd-811b91edc635": {
+          "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
+          "title": "Americano",
+          "itemDescription": "",
+          "price": 2500,
+          "suspendUntil": 8640000000
+        },
+        "2517a105-8216-47a5-a193-2a279b35dfad": {
+          "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
+          "title": "Grilled Beef Burger",
+          "itemDescription": "Sesame seed bun, beef, bacon, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce BBQ (S-200g/XL-300g). Size to choose from.\n\n",
+          "price": 9700,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f5e3115-6858-48af-8dd3-7baed9271c2a",
+          "customizationUuids": [
+            "a8c16b79-1011-460c-9f71-5a52c44c60b0"
+          ]
+        },
+        "72b5af9e-ff79-4081-ba80-d7cdca5b0df4": {
+          "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
+          "title": "Egg noodles with vegetables",
+          "itemDescription": "Egg noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+          "price": 7900,
+          "customizationUuids": [
+            "ff18d7df-60b7-4f81-b242-dcb6628329da"
+          ]
+        },
+        "c0207e25-2bed-4526-890b-4f1ce62e8d4f": {
+          "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
+          "title": "Rice noodles with beef",
+          "itemDescription": "Chinese rice noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+          "price": 14700,
+          "customizationUuids": [
+            "30d19442-be44-4b71-ab6a-4a10696b106e"
+          ]
+        },
+        "59161214-d30d-4cd5-84f7-afa96d74a433": {
+          "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
+          "title": "Rice noodles with vegetables",
+          "itemDescription": "Chinese rice noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/ХL–450g). Size to choose from.\n",
+          "price": 9900,
+          "customizationUuids": [
+            "14bca678-62fe-46aa-9809-375051d6e513"
+          ]
+        },
+        "b6622460-e448-4fcc-b9a9-ce19e874268d": {
+          "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
+          "title": "Lemonade citrus-mango",
+          "itemDescription": "500ml.",
+          "price": 6000
+        },
+        "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3": {
+          "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
+          "title": "Vegetarian burger",
+          "itemDescription": "Steamed wheat bun, chickpea cutlet with green peas, spinach with light garlic aroma, handmade walnut sauce, hiyashi salad with chili and nut sauce, tofu, fresh cucumber, and fresh tomato (XL-320g).\n",
+          "price": 14900,
+          "suspendUntil": 8640000000,
+          "endorsement": {
+            "backgroundColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconColor": {
+              "alpha": 1,
+              "color": "59BD5A"
+            },
+            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+            "text": "Vegetarian ",
+            "textColor": {
+              "alpha": 1,
+              "color": "FFFFFF"
+            }
+          }
+        },
+        "8081ef16-53e1-4a21-afb6-fdc261584062": {
+          "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
+          "title": "Cappuccino",
+          "itemDescription": "",
+          "price": 3400,
+          "suspendUntil": 8640000000
+        },
+        "50282151-651e-451f-9f38-1d85209b7c26": {
+          "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
+          "title": "Latte",
+          "itemDescription": "",
+          "price": 3800,
+          "suspendUntil": 8640000000
+        },
+        "5610946a-f0d7-4ed6-8ace-e2d4205aaf14": {
+          "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
+          "title": "Borjomi",
+          "itemDescription": "300ml.",
+          "price": 4800
+        },
+        "3b7251a8-97c8-4c43-964b-df6367532d1f": {
+          "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
+          "title": "Egg noodles with chicken",
+          "itemDescription": "Egg noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+          "price": 9700,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/65958e69-84e2-4183-88c0-e7e07c41f0b9",
+          "customizationUuids": [
+            "a8c16b79-1011-460c-9f71-5a52c44c60b0"
+          ]
+        },
+        "19bf3973-b540-4c0a-9049-7da1df146623": {
+          "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
+          "title": "Pepsi",
+          "itemDescription": "500ml.",
+          "price": 3000
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "648dd082-ee36-4c6a-bf80-91d88823b338",
+          "title": "Burgers",
+          "itemUuids": [
+            "8cb3339c-297c-4d50-aa58-706fadbe83b5",
+            "2517a105-8216-47a5-a193-2a279b35dfad",
+            "cc11988b-986d-4df6-8a8c-d87ff15ef675",
+            "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
+            "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
+            "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
+            "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
+          ],
+          "displayItems": [
+            {
+              "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
+              "title": "Grilled Chicken Burger",
+              "itemDescription": "Sesame seed bun, chicken breast, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce Sesame Tomato Sauce (S-200g/XL-300g). Size to choose from.\n",
+              "price": 7900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/bebdb3d4-5959-470b-9e01-5145958bfaed",
+              "customizationUuids": [
+                "76980b20-9035-40fa-846d-8783a6a947f5"
+              ]
+            },
+            {
+              "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
+              "title": "Grilled Beef Burger",
+              "itemDescription": "Sesame seed bun, beef, bacon, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce BBQ (S-200g/XL-300g). Size to choose from.\n\n",
+              "price": 9700,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f5e3115-6858-48af-8dd3-7baed9271c2a",
+              "customizationUuids": [
+                "a8c16b79-1011-460c-9f71-5a52c44c60b0"
+              ]
+            },
+            {
+              "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
+              "title": "Smoked Burger",
+              "itemDescription": "Sesame bun, beef cutlet with baked beacon, napa cabbage Kimchi, cream sauce with anchovy, and cilantro - handmade by Furgoneta (S-200g/XL-300g). Size to choose from.\n",
+              "price": 9700,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
+              ]
+            },
+            {
+              "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
+              "title": "Burger with Grilled Lamb",
+              "itemDescription": "Sesame bun, lamb cutlet, sauce with Feta cheese and herbs, - handmade by Furgoneta, green and black olives, tomato slice, cucumber, and red onion (S-200g/XL-350g). Size to choose from.\n",
+              "price": 11300,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/577fed00-4682-48b2-a34b-c71270918c40",
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
+              ]
+            },
+            {
+              "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
+              "title": "MATYA Burger",
+              "itemDescription": "Sesame bun, double beef cutlet, double bacon, double Chedder, fried egg, Coleslaw salad, drawn butter \nwith garlic, and «BBQ» sauce, and - handmade by Furgonet (XL-480g).\n",
+              "price": 29700
+            },
+            {
+              "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
+              "title": "Vegetarian burger",
+              "itemDescription": "Steamed wheat bun, chickpea cutlet with green peas, spinach with light garlic aroma, handmade walnut sauce, hiyashi salad with chili and nut sauce, tofu, fresh cucumber, and fresh tomato (XL-320g).\n",
+              "price": 14900,
+              "suspendUntil": 8640000000,
+              "endorsement": {
+                "backgroundColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconColor": {
+                  "alpha": 1,
+                  "color": "59BD5A"
+                },
+                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+                "text": "Vegetarian ",
+                "textColor": {
+                  "alpha": 1,
+                  "color": "FFFFFF"
+                }
+              }
+            },
+            {
+              "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
+              "title": "Бургер Ківі",
+              "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
+              "price": 15900,
+              "nutritionalInfo": {},
+              "suspendUntil": 8640000000
+            }
+          ]
+        },
+        {
+          "uuid": "4cd34c2a-e5c0-410f-803c-b135bec5920e",
+          "title": "WOK Noodles",
+          "itemUuids": [
+            "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
+            "3b7251a8-97c8-4c43-964b-df6367532d1f",
+            "d7ffd128-1209-4149-a5ec-37046575fefa",
+            "59161214-d30d-4cd5-84f7-afa96d74a433",
+            "26dfc360-68ba-4736-ab89-15de7f41c905",
+            "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
+            "a64a84ae-8fa0-4ccf-af25-13b53c055767",
+            "066b749d-b5fb-4fdb-946b-19c84f609343",
+            "51958266-64ad-4c6d-8074-df9e8761ca14"
+          ],
+          "displayItems": [
+            {
+              "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
+              "title": "Egg noodles with vegetables",
+              "itemDescription": "Egg noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+              "price": 7900,
+              "customizationUuids": [
+                "ff18d7df-60b7-4f81-b242-dcb6628329da"
+              ]
+            },
+            {
+              "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
+              "title": "Egg noodles with chicken",
+              "itemDescription": "Egg noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+              "price": 9700,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/65958e69-84e2-4183-88c0-e7e07c41f0b9",
+              "customizationUuids": [
+                "a8c16b79-1011-460c-9f71-5a52c44c60b0"
+              ]
+            },
+            {
+              "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
+              "title": "Egg noodles with beef",
+              "itemDescription": "Egg noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n",
+              "price": 12900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679",
+              "customizationUuids": [
+                "c6d85c27-b441-439b-9ef5-5fa046a9ab7d"
+              ]
+            },
+            {
+              "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
+              "title": "Rice noodles with vegetables",
+              "itemDescription": "Chinese rice noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/ХL–450g). Size to choose from.\n",
+              "price": 9900,
+              "customizationUuids": [
+                "14bca678-62fe-46aa-9809-375051d6e513"
+              ]
+            },
+            {
+              "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
+              "title": "Rice noodles with chicken",
+              "itemDescription": "Chinese rice noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n\n",
+              "price": 11900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbea604f-b278-4e9e-8798-14cc8dc4eb47",
+              "customizationUuids": [
+                "ff18d7df-60b7-4f81-b242-dcb6628329da"
+              ]
+            },
+            {
+              "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
+              "title": "Rice noodles with beef",
+              "itemDescription": "Chinese rice noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+              "price": 14700,
+              "customizationUuids": [
+                "30d19442-be44-4b71-ab6a-4a10696b106e"
+              ]
+            },
+            {
+              "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
+              "title": "Vegetable fried rice",
+              "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+              "price": 7300,
+              "customizationUuids": [
+                "19a21429-16e6-4538-afa7-27d1023ab491"
+              ]
+            },
+            {
+              "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
+              "title": "Chicken fried rice",
+              "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+              "price": 8900,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a7ce300-fc23-459c-8ede-5fbff9b2cffa",
+              "customizationUuids": [
+                "ff18d7df-60b7-4f81-b242-dcb6628329da"
+              ]
+            },
+            {
+              "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
+              "title": "Beef fried rice",
+              "itemDescription": "Rice, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+              "price": 11900,
+              "customizationUuids": [
+                "ff18d7df-60b7-4f81-b242-dcb6628329da"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "1b4124d8-f095-4fa4-8851-f677c106e4a9",
+          "title": "Cofe",
+          "itemUuids": [
+            "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
+            "1aec275a-96c7-45ee-a4dd-811b91edc635",
+            "412cf43c-7bbf-4a88-9383-d77bb96c4590",
+            "8081ef16-53e1-4a21-afb6-fdc261584062",
+            "50282151-651e-451f-9f38-1d85209b7c26"
+          ],
+          "displayItems": [
+            {
+              "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
+              "title": "Espresso",
+              "itemDescription": "",
+              "price": 2500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
+              "title": "Americano",
+              "itemDescription": "",
+              "price": 2500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
+              "title": "Americano with milk",
+              "itemDescription": "",
+              "price": 2700,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
+              "title": "Cappuccino",
+              "itemDescription": "",
+              "price": 3400,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
+              "title": "Latte",
+              "itemDescription": "",
+              "price": 3800,
+              "suspendUntil": 8640000000
+            }
+          ]
+        },
+        {
+          "uuid": "acaafa3e-fe50-404c-83b6-569c589c0ee4",
+          "title": "Drinks",
+          "itemUuids": [
+            "b6622460-e448-4fcc-b9a9-ce19e874268d",
+            "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
+            "19bf3973-b540-4c0a-9049-7da1df146623",
+            "0ba0d913-9933-41e9-a305-3d128d94cd11",
+            "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
+            "92230b76-247e-4ddd-8f57-519337ddff94",
+            "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
+            "3a5379dc-14be-4f6f-895b-4d826d79d87b"
+          ],
+          "displayItems": [
+            {
+              "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
+              "title": "Lemonade citrus-mango",
+              "itemDescription": "500ml.",
+              "price": 6000
+            },
+            {
+              "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
+              "title": "Seasonal fruit drink",
+              "itemDescription": "500ml.",
+              "price": 4500
+            },
+            {
+              "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
+              "title": "Pepsi",
+              "itemDescription": "500ml.",
+              "price": 3000
+            },
+            {
+              "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
+              "title": "Water",
+              "itemDescription": "500ml.",
+              "price": 3000
+            },
+            {
+              "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
+              "title": "Borjomi",
+              "itemDescription": "300ml.",
+              "price": 4800
+            },
+            {
+              "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
+              "title": "Evervess Tonic",
+              "itemDescription": "",
+              "price": 4200
+            },
+            {
+              "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
+              "title": "Red Bull",
+              "itemDescription": "",
+              "price": 6900
+            },
+            {
+              "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
+              "title": "Fresh juice",
+              "itemDescription": "Flavor to choose",
+              "price": 1700,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "e2415d09-ad5d-47bb-b18c-747ff6a14f4d"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "subsectionsMap": {
+    "bc7f711c-1476-423b-b4cd-9db4e8da9656": {
+      "uuid": "bc7f711c-1476-423b-b4cd-9db4e8da9656",
+      "title": "Кава",
+      "itemUuids": [
+        "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
+        "558a9979-26cf-4804-9a27-364bab44f26d",
+        "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
+        "8ae765f1-b149-48c3-9764-5d494e6c5692",
+        "716e191f-5b83-432e-b9c6-c2ef301a7212"
+      ],
+      "displayItems": [
+        {
+          "uuid": "fbbbe8f0-9710-4ae1-a65e-9e64bfc8e356",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "558a9979-26cf-4804-9a27-364bab44f26d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d2cc4d20-4cdd-4002-a58d-d7e765e24c54",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8ae765f1-b149-48c3-9764-5d494e6c5692",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "716e191f-5b83-432e-b9c6-c2ef301a7212",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "648dd082-ee36-4c6a-bf80-91d88823b338": {
+      "uuid": "648dd082-ee36-4c6a-bf80-91d88823b338",
+      "title": "Burgers",
+      "itemUuids": [
+        "8cb3339c-297c-4d50-aa58-706fadbe83b5",
+        "2517a105-8216-47a5-a193-2a279b35dfad",
+        "cc11988b-986d-4df6-8a8c-d87ff15ef675",
+        "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
+        "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
+        "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
+        "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
+      ],
+      "displayItems": [
+        {
+          "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "d4778009-98a3-4d92-b384-93468e77d18f": {
+      "uuid": "d4778009-98a3-4d92-b384-93468e77d18f",
+      "title": "Популярне",
+      "itemUuids": [
+        "c26cf28e-bee7-4b45-bb17-27dca8918774",
+        "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+        "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+        "9829aa33-685a-4043-abed-5ba020ac2a61",
+        "704726a8-dc54-4689-adab-95c11c681808"
+      ],
+      "displayItems": [
+        {
+          "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "704726a8-dc54-4689-adab-95c11c681808",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "4cd34c2a-e5c0-410f-803c-b135bec5920e": {
+      "uuid": "4cd34c2a-e5c0-410f-803c-b135bec5920e",
+      "title": "WOK Noodles",
+      "itemUuids": [
+        "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
+        "3b7251a8-97c8-4c43-964b-df6367532d1f",
+        "d7ffd128-1209-4149-a5ec-37046575fefa",
+        "59161214-d30d-4cd5-84f7-afa96d74a433",
+        "26dfc360-68ba-4736-ab89-15de7f41c905",
+        "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
+        "a64a84ae-8fa0-4ccf-af25-13b53c055767",
+        "066b749d-b5fb-4fdb-946b-19c84f609343",
+        "51958266-64ad-4c6d-8074-df9e8761ca14"
+      ],
+      "displayItems": [
+        {
+          "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae": {
+      "uuid": "34ccb1ca-6993-4cda-8eaf-b4b5a941b2ae",
+      "title": "Напої",
+      "itemUuids": [
+        "869e78b7-4f59-479c-b55b-86fddf151ed3",
+        "06aa9967-1b9c-418a-8d24-c77f3d594600",
+        "8979a7a0-ed0c-48cc-bac4-0630606676db",
+        "d87113ab-2888-40a6-80ac-55882ccfa8fa",
+        "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
+        "74aa1623-0769-4334-82e1-c72e84cabb16",
+        "833c4291-a91d-454b-99da-53bc5af03334",
+        "ae540f02-ee3c-497b-9a7f-a9073c92f7be"
+      ],
+      "displayItems": [
+        {
+          "uuid": "869e78b7-4f59-479c-b55b-86fddf151ed3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "06aa9967-1b9c-418a-8d24-c77f3d594600",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8979a7a0-ed0c-48cc-bac4-0630606676db",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d87113ab-2888-40a6-80ac-55882ccfa8fa",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9dcd50e2-2217-4eed-a2f0-baec587ea5b4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "74aa1623-0769-4334-82e1-c72e84cabb16",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "833c4291-a91d-454b-99da-53bc5af03334",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ae540f02-ee3c-497b-9a7f-a9073c92f7be",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "acaafa3e-fe50-404c-83b6-569c589c0ee4": {
+      "uuid": "acaafa3e-fe50-404c-83b6-569c589c0ee4",
+      "title": "Drinks",
+      "itemUuids": [
+        "b6622460-e448-4fcc-b9a9-ce19e874268d",
+        "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
+        "19bf3973-b540-4c0a-9049-7da1df146623",
+        "0ba0d913-9933-41e9-a305-3d128d94cd11",
+        "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
+        "92230b76-247e-4ddd-8f57-519337ddff94",
+        "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
+        "3a5379dc-14be-4f6f-895b-4d826d79d87b"
+      ],
+      "displayItems": [
+        {
+          "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "e664700b-37c5-4553-a609-ba6056f9a5ec": {
+      "uuid": "e664700b-37c5-4553-a609-ba6056f9a5ec",
+      "title": "Бургери",
+      "itemUuids": [
+        "c26cf28e-bee7-4b45-bb17-27dca8918774",
+        "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+        "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
+        "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+        "af58b439-fedf-490b-8535-e47173ad1359",
+        "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
+      ],
+      "displayItems": [
+        {
+          "uuid": "c26cf28e-bee7-4b45-bb17-27dca8918774",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d9edaa9e-7df7-4ec6-b97d-40a316705683",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c9bfd6c3-dc6f-44a5-aefc-6e4a9cde4986",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "670ae373-ff49-49f2-a9d8-9e75c58b5e1d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "af58b439-fedf-490b-8535-e47173ad1359",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "6c06d3d7-efef-40bf-b40f-1e60c54d8296": {
+      "uuid": "6c06d3d7-efef-40bf-b40f-1e60c54d8296",
+      "title": "Страви WOK",
+      "itemUuids": [
+        "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
+        "9829aa33-685a-4043-abed-5ba020ac2a61",
+        "2970352d-76e8-4944-8670-1b1d865bdd77",
+        "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
+        "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
+        "95ada6dd-6eeb-4079-83da-ad15f781bd21",
+        "1180e961-ca0d-4c1c-8cb1-22acb5050403",
+        "fda6a724-4336-4086-b220-bb072fc5fff1",
+        "9a1ea039-d79c-4900-8095-cdb18b1af5db"
+      ],
+      "displayItems": [
+        {
+          "uuid": "e8f70fc4-1b3c-4d31-851a-0e8adfa75f26",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9829aa33-685a-4043-abed-5ba020ac2a61",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "2970352d-76e8-4944-8670-1b1d865bdd77",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e25ebcfb-8e66-4bc6-aea8-e6f8561ec1ec",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b28e39b7-d4d2-4db6-a1e0-500d018d314a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "95ada6dd-6eeb-4079-83da-ad15f781bd21",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1180e961-ca0d-4c1c-8cb1-22acb5050403",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "fda6a724-4336-4086-b220-bb072fc5fff1",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9a1ea039-d79c-4900-8095-cdb18b1af5db",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "1b4124d8-f095-4fa4-8851-f677c106e4a9": {
+      "uuid": "1b4124d8-f095-4fa4-8851-f677c106e4a9",
+      "title": "Cofe",
+      "itemUuids": [
+        "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
+        "1aec275a-96c7-45ee-a4dd-811b91edc635",
+        "412cf43c-7bbf-4a88-9383-d77bb96c4590",
+        "8081ef16-53e1-4a21-afb6-fdc261584062",
+        "50282151-651e-451f-9f38-1d85209b7c26"
+      ],
+      "displayItems": [
+        {
+          "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
+          "type": "ITEM"
+        }
+      ]
+    }
+  },
+  "location": {
+    "latitude": 50.440267,
+    "longitude": 30.523493,
+    "address": {
+      "address1": "Baseina St, 13",
+      "aptOrSuite": "",
+      "city": "Kyiv",
+      "country": "UA",
+      "postalCode": "02000",
+      "region": "Kyiv city",
+      "formattedAddress": "Baseina St, 13, Kyiv, Kyiv city 02000"
+    }
+  },
+  "publicContact": {
+    "publicPhoneNumber": "+380501498999"
+  },
+  "priceBucket": "₴",
+  "slug": "furgoneta",
+  "isOrderable": true,
+  "disableCheckoutInstruction": false,
+  "supportedDiningModes": [
+    "DELIVERY"
+  ],
+  "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
+  "heroImage": {
+    "items": [
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg",
+        "width": 2880,
+        "height": 2304
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w240-63.jpg",
+        "width": 240,
+        "height": 192
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
+        "width": 550,
+        "height": 440
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w750-3c.jpg",
+        "width": 750,
+        "height": 600
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w640-4f.jpg",
+        "width": 640,
+        "height": 512
+      },
+      {
+        "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w1080-88.jpg",
+        "width": 1080,
+        "height": 864
+      }
+    ]
+  },
+  "closedEtaMessage": "Currently unavailable",
+  "notOrderableMessage": "Currently unavailable",
+  "storeBadges": {
+    "disclaimerBadge": {
+      "textFormat": ""
+    },
+    "ratingBadge": {
+      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(187)</span></span>",
+      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 187 reviews."
+    },
+    "taglineBadge": {
+      "textFormat": "<span>₴ • Vegetarian • Burger • Asian • Fast Food</span>"
+    },
+    "etaBadge": {
+      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+      "text": "35–45 MINS",
+      "textFormat": "<span>35–45 MINS</span>",
+      "accessibilityText": "Delivered in 35 to 45 MINS"
+    }
+  },
+  "etaRange": {
+    "min": 35,
+    "max": 45,
+    "raw": 40
+  },
+  "fareInfo": {
+    "serviceFee": 30
+  },
+  "eaterFields": {},
+  "meta": {
+    "sectionHoursInfo": [
+      {
+        "dayRange": "Every day",
+        "sectionHours": [
+          {
+            "startTime": 600,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 600,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      }
+    ]
+  },
+  "nuggets": [],
+  "displayConfig": {
+    "regionalDisplayType": "DEFAULT"
+  },
+  "enabledFulfillmentTypes": [
+    "DELIVERY"
+  ],
+  "citySlug": "kyiv",
+  "cityName": "Kyiv",
+  "currencyCode": "UAH",
+  "currencyNumDigitsAfterDecimal": 2
 }

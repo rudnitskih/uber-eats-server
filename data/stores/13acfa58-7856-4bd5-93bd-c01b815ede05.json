@@ -1,2006 +1,2004 @@
 {
-    "store": {
-        "uuid": "13acfa58-7856-4bd5-93bd-c01b815ede05",
-        "title": "Радіо Тбілісі",
-        "regionId": 943,
-        "categories": [
-            {
-                "uuid": "Georgian",
-                "name": "Грузинська",
-                "keyName": "Georgian"
-            },
-            {
-                "uuid": "Pastry",
-                "name": "Випічка",
-                "keyName": "Pastry"
-            },
-            {
-                "uuid": "MiddleEastern",
-                "name": "Близькосхідна",
-                "keyName": "MiddleEastern"
-            }
-        ],
-        "sections": [
-            {
-                "uuid": "e6d2a0e9-314c-4e90-94a9-8c15be6836f6",
-                "title": "SWITCH LANGUAGE (UKR)",
-                "subtitle": "11:00 AM – 10:00 PM",
-                "isTop": true,
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "53bc2fe8-5853-4325-9f05-c000d093bcab",
-                    "9936e983-4fce-4e22-abc5-bd2aabad7f1b",
-                    "82655d76-eeeb-4a53-b3ae-bdc05d62b217",
-                    "e68546b1-806c-4a69-a499-5e07c7f2f92a",
-                    "6c546755-2139-4846-b3b5-509ab00fd3a6",
-                    "bb7162a0-e6b9-476f-946e-d94c24510af3",
-                    "29643d96-80ec-4acb-b5aa-59b6032c7df0",
-                    "0f7de050-4a7c-4031-99d6-473f8a66f3f2",
-                    "584fd584-0429-495b-95f4-c72f25bfb0a6",
-                    "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4"
-                ]
-            },
-            {
-                "uuid": "4d089a49-ab96-4342-bddd-58995be840ee",
-                "title": "SWITCH LANGUAGE (ENG)",
-                "subtitle": "11:00 AM – 10:00 PM",
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "1eb80255-609b-442d-8319-572ce09aec77",
-                    "7121254a-1eb1-40b5-8d49-90fadda3a234",
-                    "b02238eb-67df-48c9-82e7-e61837f8ac69",
-                    "9f399700-d186-43a9-b889-3859190a094c",
-                    "165f38c3-351d-47e2-a226-dd8c2946b2ca",
-                    "28e6a043-d0ac-4780-ad99-e0b21428d0b0",
-                    "7af92ca4-9763-4edf-bbbc-c67b9be1a323",
-                    "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7",
-                    "1bdef48c-3761-4d7f-a5a1-ad25956a2138",
-                    "34e91361-bae4-459b-9fa2-b5580d147714"
-                ]
-            }
-        ],
-        "sectionEntitiesMap": {
-            "e6d2a0e9-314c-4e90-94a9-8c15be6836f6": {
-                "itemsMap": {
-                    "defe990b-b4db-4264-b655-642e1701f3f1": {
-                        "uuid": "defe990b-b4db-4264-b655-642e1701f3f1",
-                        "title": "Люля-кебаб з яловичини",
-                        "itemDescription": "Люля-кебаб з яловичини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
-                        "price": 18000
-                    },
-                    "727510bc-07f2-4845-b434-36974cf54b2e": {
-                        "uuid": "727510bc-07f2-4845-b434-36974cf54b2e",
-                        "title": "Хачапурі по-аджарські",
-                        "itemDescription": "Хачапурі з сиром сулугуні та яєчним жовтком",
-                        "price": 14000
-                    },
-                    "4bc7429a-7780-48b6-b510-b121a999cc36": {
-                        "uuid": "4bc7429a-7780-48b6-b510-b121a999cc36",
-                        "title": "Люля-кебаб з індички та сиру",
-                        "itemDescription": "Люля-кебаб з індички та сиру з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
-                        "price": 18000
-                    },
-                    "14a4fad2-a35f-4e2e-916a-12e726c5c435": {
-                        "uuid": "14a4fad2-a35f-4e2e-916a-12e726c5c435",
-                        "title": "Хінкалі міксом яловичини та свинини",
-                        "itemDescription": "Хінкалі з міксом яловичини та свинини з кінзою ( 4 шт)",
-                        "price": 7600
-                    },
-                    "4d6a2485-acf0-40e8-a2c8-6229abda4331": {
-                        "uuid": "4d6a2485-acf0-40e8-a2c8-6229abda4331",
-                        "title": "Шашлик зі свинячої вирізки",
-                        "itemDescription": "Смажена свиняча вирізка з соусом сацебелі (300/50г.) Ціна вказана за вагусирого м'яса",
-                        "price": 32500,
-                        "imageUrl": ""
-                    },
-                    "32d4e1c6-057d-423d-b368-115b34d8c1e3": {
-                        "uuid": "32d4e1c6-057d-423d-b368-115b34d8c1e3",
-                        "title": "Оджахурі по-дідубськи",
-                        "itemDescription": "Смажена свинина з картоплею, цибулею та часником",
-                        "price": 11900
-                    },
-                    "9f5770a0-497c-4521-9411-290723275e69": {
-                        "uuid": "9f5770a0-497c-4521-9411-290723275e69",
-                        "title": "Курячий бульйон",
-                        "itemDescription": "Бульйон з куркою, домашньою локшиною та яйцем.",
-                        "price": 8400
-                    },
-                    "01b13691-6cb3-43a8-b527-d2ae0c923f30": {
-                        "uuid": "01b13691-6cb3-43a8-b527-d2ae0c923f30",
-                        "title": "Люля-кебаб з баранини",
-                        "itemDescription": "Люля-кебаб з баранини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
-                        "price": 19400,
-                        "imageUrl": ""
-                    },
-                    "edbd96b7-ec92-4d93-971d-b82a0b99ce8c": {
-                        "uuid": "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
-                        "title": "Кубдарі",
-                        "itemDescription": "Пиріг з начинкою з яловичини",
-                        "price": 13500
-                    },
-                    "0c30dc79-0a30-4e4e-aba9-83914030b1b2": {
-                        "uuid": "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
-                        "title": "Долма по-авлабарськи",
-                        "itemDescription": "Загорнутий в виноградне листя фарш з яловичини та свинини з рисом",
-                        "price": 16000
-                    },
-                    "09d3c38c-28e6-46ba-8249-0838704d3c39": {
-                        "uuid": "09d3c38c-28e6-46ba-8249-0838704d3c39",
-                        "title": "Лимонад Натахтарі Виноград 0,5л",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "c27ecd6b-5bed-4708-9394-d498b210ac26": {
-                        "uuid": "c27ecd6b-5bed-4708-9394-d498b210ac26",
-                        "title": "Кабачки тбілі",
-                        "itemDescription": "Смажені кабачки з томатами та майонезом",
-                        "price": 12300
-                    },
-                    "b11f6a39-4e89-4418-aa3d-0272291f16cd": {
-                        "uuid": "b11f6a39-4e89-4418-aa3d-0272291f16cd",
-                        "title": "Курча тапака",
-                        "itemDescription": "Смажене курча заджикою",
-                        "price": 20800
-                    },
-                    "c5491abb-5ac5-49fa-81c5-ddf9faf092df": {
-                        "uuid": "c5491abb-5ac5-49fa-81c5-ddf9faf092df",
-                        "title": "Овочевий бульйон",
-                        "itemDescription": "Бульйон на основі восьми видів овочів",
-                        "price": 7500
-                    },
-                    "50756efa-318a-48d5-b8e5-8f1ac47c2e35": {
-                        "uuid": "50756efa-318a-48d5-b8e5-8f1ac47c2e35",
-                        "title": "Салат міський",
-                        "itemDescription": "Запечені овочі з горіховою пастою та кінзою.",
-                        "price": 12100
-                    },
-                    "f07021d8-cf29-4177-9439-34a60707d557": {
-                        "uuid": "f07021d8-cf29-4177-9439-34a60707d557",
-                        "title": "Лимонад Натахтарі Тархун 0,5л",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "1b47c0ef-f0ae-454a-98f1-4b665782dd15": {
-                        "uuid": "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
-                        "title": "Хачапурі по-мегрельскі",
-                        "itemDescription": "Хачапурі з подвійним сиром сулугуні",
-                        "price": 14200
-                    },
-                    "6bb621ae-5984-4cf5-95ff-1b33b90159cb": {
-                        "uuid": "6bb621ae-5984-4cf5-95ff-1b33b90159cb",
-                        "title": "Боржомі 0,3",
-                        "itemDescription": "",
-                        "price": 5200
-                    },
-                    "f74bbf56-bd9e-4093-8f83-d05e250933d5": {
-                        "uuid": "f74bbf56-bd9e-4093-8f83-d05e250933d5",
-                        "title": "Картопля по-сванськи",
-                        "itemDescription": "Смажена картопля з часником та зеленю",
-                        "price": 5200
-                    },
-                    "7a5ad525-7bf6-4a04-8446-909008be35f5": {
-                        "uuid": "7a5ad525-7bf6-4a04-8446-909008be35f5",
-                        "title": "Чанахі",
-                        "itemDescription": "Смажена свинина з овочами в соусі з томатів",
-                        "price": 10800
-                    },
-                    "0a5e341f-4e04-429c-9fe2-7312757852f8": {
-                        "uuid": "0a5e341f-4e04-429c-9fe2-7312757852f8",
-                        "title": "Лимонад Натахтарі Груша 0,5л",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "920e3253-d85a-44ee-8eef-ab16cb991852": {
-                        "uuid": "920e3253-d85a-44ee-8eef-ab16cb991852",
-                        "title": "Хачапурі лазурі",
-                        "itemDescription": "Пиріг з начинкою з яловичини, з копченим сулугуні та томатами",
-                        "price": 17900
-                    },
-                    "a7e42244-e55e-4423-ab39-fd6b9e7d0501": {
-                        "uuid": "a7e42244-e55e-4423-ab39-fd6b9e7d0501",
-                        "title": "Хінкалі з сиром сулугуні",
-                        "itemDescription": "Хінкалі з сиром сулугуні (4 шт.)",
-                        "price": 7200
-                    },
-                    "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f": {
-                        "uuid": "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
-                        "title": "Шашлик з курячого філе",
-                        "itemDescription": "Смажене куряче філе з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
-                        "price": 20800
-                    },
-                    "caf5bdb9-2259-4a71-8abe-63fcc143cc5d": {
-                        "uuid": "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
-                        "title": "Асорті пхалі",
-                        "itemDescription": "Закуска на основі овочів (зелене любіо, морква, буряк, шпинат) з горіховою пастою та кінзою",
-                        "price": 10700
-                    },
-                    "777b56c1-bb40-4720-9ff4-685afc87ad68": {
-                        "uuid": "777b56c1-bb40-4720-9ff4-685afc87ad68",
-                        "title": "Харчо з телятиною",
-                        "itemDescription": "Суп з телятиною, рисом та зеленню.",
-                        "price": 9000
-                    },
-                    "cd8a3f6d-96cc-4de9-806e-fef88abc3dea": {
-                        "uuid": "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
-                        "title": "Хінкалі з бараниною",
-                        "itemDescription": "Хінкалі з бараниною з кінзою (4 Шт)",
-                        "price": 7600
-                    },
-                    "4b5068d3-60bf-4b08-80f2-947f7fcccdec": {
-                        "uuid": "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
-                        "title": "Шашлик з свинячого ошийку",
-                        "itemDescription": "Смажений свинячий ошийок з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
-                        "price": 22300
-                    },
-                    "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3": {
-                        "uuid": "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3",
-                        "title": "Картопля фрі",
-                        "itemDescription": "Класична фрі з кетчупом",
-                        "price": 5600
-                    },
-                    "1d155297-983e-474a-b2a4-0b93e1c01bc5": {
-                        "uuid": "1d155297-983e-474a-b2a4-0b93e1c01bc5",
-                        "title": "Бадріджані по-мцхетинськи",
-                        "itemDescription": "Смажені баклажани з горіховою пастою",
-                        "price": 12200
-                    },
-                    "aecd4b11-4e5c-4882-8cc2-8900554fe318": {
-                        "uuid": "aecd4b11-4e5c-4882-8cc2-8900554fe318",
-                        "title": "Салат тбіліський",
-                        "itemDescription": "Свіжі овочі з горіховою пастою, цибулею та кінзою.",
-                        "price": 11200
-                    },
-                    "f0fbc54c-6f9c-41df-a85f-75cbeec9176e": {
-                        "uuid": "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
-                        "title": "Пончик ",
-                        "itemDescription": "Тбіліський пончик з заварним кремом",
-                        "price": 6400,
-                        "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
-                    },
-                    "72dc500d-baeb-44cd-831e-ab319112abe2": {
-                        "uuid": "72dc500d-baeb-44cd-831e-ab319112abe2",
-                        "title": "Боржомі 0,5",
-                        "itemDescription": "",
-                        "price": 5800
-                    },
-                    "6e705561-20f6-4c4e-83fa-83e9f84bd38f": {
-                        "uuid": "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
-                        "title": "Хачапурі тбілісурі",
-                        "itemDescription": "Хачапурі з потрійним сиром сулугуні",
-                        "price": 19000
-                    },
-                    "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168": {
-                        "uuid": "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
-                        "title": "Салат ваке",
-                        "itemDescription": "Салат  з філе курчати, печерицями, свіжими овочами та в'яленою журавлиною",
-                        "price": 11800
-                    },
-                    "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf": {
-                        "uuid": "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf",
-                        "title": "Пахлава",
-                        "itemDescription": "Пахлава з горіхами, медом та корицею",
-                        "price": 8500
-                    },
-                    "10b8c553-1726-4e92-8ced-b31cd65c6fa9": {
-                        "uuid": "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
-                        "title": "Хачапурі по-осетинські",
-                        "itemDescription": "Хачапурі з сиром сулугуні та шпинатом",
-                        "price": 11400
-                    },
-                    "35f75e3d-14a4-4cff-bf88-bdf25ef43518": {
-                        "uuid": "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
-                        "title": "Наполеон",
-                        "itemDescription": "Класичний наполеон з заварним кремом",
-                        "price": 9000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fd75fbe-3fe7-462c-9c87-73d25317ce1f"
-                    },
-                    "e4d1f5cc-5640-4958-9a57-84205fa7f95e": {
-                        "uuid": "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
-                        "title": "Хачапурі по-імеретинскі",
-                        "itemDescription": "Класичний хачапурі з сиром сулугуні",
-                        "price": 13500
-                    },
-                    "8309db48-0364-40b2-9790-5dccbead27b8": {
-                        "uuid": "8309db48-0364-40b2-9790-5dccbead27b8",
-                        "title": "Лимонад Натахтарі Фейхоа 0,5л",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "e4d3205a-8bce-4264-ae63-d0da90dc7871": {
-                        "uuid": "e4d3205a-8bce-4264-ae63-d0da90dc7871",
-                        "title": "Лимонад Натахтарі Лимон 0,5л",
-                        "itemDescription": "",
-                        "price": 6500
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "53bc2fe8-5853-4325-9f05-c000d093bcab",
-                        "title": "Суп",
-                        "itemUuids": [
-                            "777b56c1-bb40-4720-9ff4-685afc87ad68",
-                            "9f5770a0-497c-4521-9411-290723275e69",
-                            "c5491abb-5ac5-49fa-81c5-ddf9faf092df"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "777b56c1-bb40-4720-9ff4-685afc87ad68",
-                                "title": "Харчо з телятиною",
-                                "itemDescription": "Суп з телятиною, рисом та зеленню.",
-                                "price": 9000
-                            },
-                            {
-                                "uuid": "9f5770a0-497c-4521-9411-290723275e69",
-                                "title": "Курячий бульйон",
-                                "itemDescription": "Бульйон з куркою, домашньою локшиною та яйцем.",
-                                "price": 8400
-                            },
-                            {
-                                "uuid": "c5491abb-5ac5-49fa-81c5-ddf9faf092df",
-                                "title": "Овочевий бульйон",
-                                "itemDescription": "Бульйон на основі восьми видів овочів",
-                                "price": 7500
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "9936e983-4fce-4e22-abc5-bd2aabad7f1b",
-                        "title": "Салат",
-                        "itemUuids": [
-                            "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
-                            "aecd4b11-4e5c-4882-8cc2-8900554fe318",
-                            "50756efa-318a-48d5-b8e5-8f1ac47c2e35"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
-                                "title": "Салат ваке",
-                                "itemDescription": "Салат  з філе курчати, печерицями, свіжими овочами та в'яленою журавлиною",
-                                "price": 11800
-                            },
-                            {
-                                "uuid": "aecd4b11-4e5c-4882-8cc2-8900554fe318",
-                                "title": "Салат тбіліський",
-                                "itemDescription": "Свіжі овочі з горіховою пастою, цибулею та кінзою.",
-                                "price": 11200
-                            },
-                            {
-                                "uuid": "50756efa-318a-48d5-b8e5-8f1ac47c2e35",
-                                "title": "Салат міський",
-                                "itemDescription": "Запечені овочі з горіховою пастою та кінзою.",
-                                "price": 12100
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "82655d76-eeeb-4a53-b3ae-bdc05d62b217",
-                        "title": "Гарячі страви",
-                        "itemUuids": [
-                            "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
-                            "7a5ad525-7bf6-4a04-8446-909008be35f5",
-                            "b11f6a39-4e89-4418-aa3d-0272291f16cd",
-                            "32d4e1c6-057d-423d-b368-115b34d8c1e3"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
-                                "title": "Долма по-авлабарськи",
-                                "itemDescription": "Загорнутий в виноградне листя фарш з яловичини та свинини з рисом",
-                                "price": 16000
-                            },
-                            {
-                                "uuid": "7a5ad525-7bf6-4a04-8446-909008be35f5",
-                                "title": "Чанахі",
-                                "itemDescription": "Смажена свинина з овочами в соусі з томатів",
-                                "price": 10800
-                            },
-                            {
-                                "uuid": "b11f6a39-4e89-4418-aa3d-0272291f16cd",
-                                "title": "Курча тапака",
-                                "itemDescription": "Смажене курча заджикою",
-                                "price": 20800
-                            },
-                            {
-                                "uuid": "32d4e1c6-057d-423d-b368-115b34d8c1e3",
-                                "title": "Оджахурі по-дідубськи",
-                                "itemDescription": "Смажена свинина з картоплею, цибулею та часником",
-                                "price": 11900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "e68546b1-806c-4a69-a499-5e07c7f2f92a",
-                        "title": "Десерт",
-                        "itemUuids": [
-                            "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
-                            "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
-                            "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
-                                "title": "Наполеон",
-                                "itemDescription": "Класичний наполеон з заварним кремом",
-                                "price": 9000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fd75fbe-3fe7-462c-9c87-73d25317ce1f"
-                            },
-                            {
-                                "uuid": "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
-                                "title": "Пончик ",
-                                "itemDescription": "Тбіліський пончик з заварним кремом",
-                                "price": 6400,
-                                "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
-                            },
-                            {
-                                "uuid": "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf",
-                                "title": "Пахлава",
-                                "itemDescription": "Пахлава з горіхами, медом та корицею",
-                                "price": 8500
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "6c546755-2139-4846-b3b5-509ab00fd3a6",
-                        "title": "Хінкалі",
-                        "itemUuids": [
-                            "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
-                            "14a4fad2-a35f-4e2e-916a-12e726c5c435",
-                            "a7e42244-e55e-4423-ab39-fd6b9e7d0501"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
-                                "title": "Хінкалі з бараниною",
-                                "itemDescription": "Хінкалі з бараниною з кінзою (4 Шт)",
-                                "price": 7600
-                            },
-                            {
-                                "uuid": "14a4fad2-a35f-4e2e-916a-12e726c5c435",
-                                "title": "Хінкалі міксом яловичини та свинини",
-                                "itemDescription": "Хінкалі з міксом яловичини та свинини з кінзою ( 4 шт)",
-                                "price": 7600
-                            },
-                            {
-                                "uuid": "a7e42244-e55e-4423-ab39-fd6b9e7d0501",
-                                "title": "Хінкалі з сиром сулугуні",
-                                "itemDescription": "Хінкалі з сиром сулугуні (4 шт.)",
-                                "price": 7200
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "bb7162a0-e6b9-476f-946e-d94c24510af3",
-                        "title": "Холодні закуски",
-                        "itemUuids": [
-                            "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
-                            "1d155297-983e-474a-b2a4-0b93e1c01bc5",
-                            "c27ecd6b-5bed-4708-9394-d498b210ac26"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
-                                "title": "Асорті пхалі",
-                                "itemDescription": "Закуска на основі овочів (зелене любіо, морква, буряк, шпинат) з горіховою пастою та кінзою",
-                                "price": 10700
-                            },
-                            {
-                                "uuid": "1d155297-983e-474a-b2a4-0b93e1c01bc5",
-                                "title": "Бадріджані по-мцхетинськи",
-                                "itemDescription": "Смажені баклажани з горіховою пастою",
-                                "price": 12200
-                            },
-                            {
-                                "uuid": "c27ecd6b-5bed-4708-9394-d498b210ac26",
-                                "title": "Кабачки тбілі",
-                                "itemDescription": "Смажені кабачки з томатами та майонезом",
-                                "price": 12300
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "29643d96-80ec-4acb-b5aa-59b6032c7df0",
-                        "title": "Хачапурі",
-                        "itemUuids": [
-                            "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
-                            "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
-                            "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
-                            "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
-                            "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
-                            "727510bc-07f2-4845-b434-36974cf54b2e",
-                            "920e3253-d85a-44ee-8eef-ab16cb991852"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
-                                "title": "Кубдарі",
-                                "itemDescription": "Пиріг з начинкою з яловичини",
-                                "price": 13500
-                            },
-                            {
-                                "uuid": "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
-                                "title": "Хачапурі тбілісурі",
-                                "itemDescription": "Хачапурі з потрійним сиром сулугуні",
-                                "price": 19000
-                            },
-                            {
-                                "uuid": "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
-                                "title": "Хачапурі по-мегрельскі",
-                                "itemDescription": "Хачапурі з подвійним сиром сулугуні",
-                                "price": 14200
-                            },
-                            {
-                                "uuid": "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
-                                "title": "Хачапурі по-імеретинскі",
-                                "itemDescription": "Класичний хачапурі з сиром сулугуні",
-                                "price": 13500
-                            },
-                            {
-                                "uuid": "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
-                                "title": "Хачапурі по-осетинські",
-                                "itemDescription": "Хачапурі з сиром сулугуні та шпинатом",
-                                "price": 11400
-                            },
-                            {
-                                "uuid": "727510bc-07f2-4845-b434-36974cf54b2e",
-                                "title": "Хачапурі по-аджарські",
-                                "itemDescription": "Хачапурі з сиром сулугуні та яєчним жовтком",
-                                "price": 14000
-                            },
-                            {
-                                "uuid": "920e3253-d85a-44ee-8eef-ab16cb991852",
-                                "title": "Хачапурі лазурі",
-                                "itemDescription": "Пиріг з начинкою з яловичини, з копченим сулугуні та томатами",
-                                "price": 17900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "0f7de050-4a7c-4031-99d6-473f8a66f3f2",
-                        "title": "Гарніри",
-                        "itemUuids": [
-                            "f74bbf56-bd9e-4093-8f83-d05e250933d5",
-                            "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "f74bbf56-bd9e-4093-8f83-d05e250933d5",
-                                "title": "Картопля по-сванськи",
-                                "itemDescription": "Смажена картопля з часником та зеленю",
-                                "price": 5200
-                            },
-                            {
-                                "uuid": "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3",
-                                "title": "Картопля фрі",
-                                "itemDescription": "Класична фрі з кетчупом",
-                                "price": 5600
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "584fd584-0429-495b-95f4-c72f25bfb0a6",
-                        "title": "Приготовлено на вугіллі",
-                        "itemUuids": [
-                            "4d6a2485-acf0-40e8-a2c8-6229abda4331",
-                            "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
-                            "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
-                            "defe990b-b4db-4264-b655-642e1701f3f1",
-                            "01b13691-6cb3-43a8-b527-d2ae0c923f30",
-                            "4bc7429a-7780-48b6-b510-b121a999cc36"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "4d6a2485-acf0-40e8-a2c8-6229abda4331",
-                                "title": "Шашлик зі свинячої вирізки",
-                                "itemDescription": "Смажена свиняча вирізка з соусом сацебелі (300/50г.) Ціна вказана за вагусирого м'яса",
-                                "price": 32500,
-                                "imageUrl": ""
-                            },
-                            {
-                                "uuid": "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
-                                "title": "Шашлик з свинячого ошийку",
-                                "itemDescription": "Смажений свинячий ошийок з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
-                                "price": 22300
-                            },
-                            {
-                                "uuid": "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
-                                "title": "Шашлик з курячого філе",
-                                "itemDescription": "Смажене куряче філе з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
-                                "price": 20800
-                            },
-                            {
-                                "uuid": "defe990b-b4db-4264-b655-642e1701f3f1",
-                                "title": "Люля-кебаб з яловичини",
-                                "itemDescription": "Люля-кебаб з яловичини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
-                                "price": 18000
-                            },
-                            {
-                                "uuid": "01b13691-6cb3-43a8-b527-d2ae0c923f30",
-                                "title": "Люля-кебаб з баранини",
-                                "itemDescription": "Люля-кебаб з баранини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
-                                "price": 19400,
-                                "imageUrl": ""
-                            },
-                            {
-                                "uuid": "4bc7429a-7780-48b6-b510-b121a999cc36",
-                                "title": "Люля-кебаб з індички та сиру",
-                                "itemDescription": "Люля-кебаб з індички та сиру з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
-                                "price": 18000
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4",
-                        "title": "Напої",
-                        "itemUuids": [
-                            "f07021d8-cf29-4177-9439-34a60707d557",
-                            "0a5e341f-4e04-429c-9fe2-7312757852f8",
-                            "e4d3205a-8bce-4264-ae63-d0da90dc7871",
-                            "8309db48-0364-40b2-9790-5dccbead27b8",
-                            "09d3c38c-28e6-46ba-8249-0838704d3c39",
-                            "72dc500d-baeb-44cd-831e-ab319112abe2",
-                            "6bb621ae-5984-4cf5-95ff-1b33b90159cb"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "f07021d8-cf29-4177-9439-34a60707d557",
-                                "title": "Лимонад Натахтарі Тархун 0,5л",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "0a5e341f-4e04-429c-9fe2-7312757852f8",
-                                "title": "Лимонад Натахтарі Груша 0,5л",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "e4d3205a-8bce-4264-ae63-d0da90dc7871",
-                                "title": "Лимонад Натахтарі Лимон 0,5л",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "8309db48-0364-40b2-9790-5dccbead27b8",
-                                "title": "Лимонад Натахтарі Фейхоа 0,5л",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "09d3c38c-28e6-46ba-8249-0838704d3c39",
-                                "title": "Лимонад Натахтарі Виноград 0,5л",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "72dc500d-baeb-44cd-831e-ab319112abe2",
-                                "title": "Боржомі 0,5",
-                                "itemDescription": "",
-                                "price": 5800
-                            },
-                            {
-                                "uuid": "6bb621ae-5984-4cf5-95ff-1b33b90159cb",
-                                "title": "Боржомі 0,3",
-                                "itemDescription": "",
-                                "price": 5200
-                            }
-                        ]
-                    }
-                ]
-            },
-            "4d089a49-ab96-4342-bddd-58995be840ee": {
-                "itemsMap": {
-                    "f33dbf78-1be6-4ac5-a43f-2b39d2881450": {
-                        "uuid": "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
-                        "title": "Lemonade Natahtari Feijoa",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "675d4173-c63f-4bc0-99d1-ca6c02a2554b": {
-                        "uuid": "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
-                        "title": "Chicken broth",
-                        "itemDescription": "Broth with chicken, handmade noodles and egg",
-                        "price": 8400
-                    },
-                    "bfd52c86-06f8-452c-a14c-6ba5f74b93e0": {
-                        "uuid": "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
-                        "title": "Shashlik from pork shish",
-                        "itemDescription": "Pork shish with satsebeli sause (300/50g.) The price is based on the weight of raw meet",
-                        "price": 32500,
-                        "imageUrl": ""
-                    },
-                    "7b869bbe-071c-42cb-a262-ac77b27c8383": {
-                        "uuid": "7b869bbe-071c-42cb-a262-ac77b27c8383",
-                        "title": "Shashlik from chicken",
-                        "itemDescription": "Chicken with satsebeli sause (250/50г) The price is based on the weight of raw meat",
-                        "price": 20800
-                    },
-                    "cc7167b8-9dc9-4515-858e-85066321d5fb": {
-                        "uuid": "cc7167b8-9dc9-4515-858e-85066321d5fb",
-                        "title": "Lemonade Natahtari Pear 0.5l",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "995ec41e-7c5e-4ecf-8970-b456e012bb0d": {
-                        "uuid": "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
-                        "title": "Kubdari",
-                        "itemDescription": "Pie with beef",
-                        "price": 13500
-                    },
-                    "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8": {
-                        "uuid": "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
-                        "title": "Kharcho with veal",
-                        "itemDescription": "Soup with veal, rice, and herbs",
-                        "price": 9000
-                    },
-                    "b4162bce-ef32-424c-8054-5770a992b12f": {
-                        "uuid": "b4162bce-ef32-424c-8054-5770a992b12f",
-                        "title": "Donut",
-                        "itemDescription": "Tbilisi donut with custard ",
-                        "price": 6400,
-                        "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
-                    },
-                    "308c81c0-8dfd-489c-9445-52e2b8caf0c6": {
-                        "uuid": "308c81c0-8dfd-489c-9445-52e2b8caf0c6",
-                        "title": "Khinkali with cheese",
-                        "itemDescription": "Khinkali with cheese suluguni (4 pc.)",
-                        "price": 7200
-                    },
-                    "219343aa-5956-4943-9c34-75abd181a6d1": {
-                        "uuid": "219343aa-5956-4943-9c34-75abd181a6d1",
-                        "title": "Lemonade Natahtari Tarragon 0.5l",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "61478c36-7c49-4349-ab26-03472210b01f": {
-                        "uuid": "61478c36-7c49-4349-ab26-03472210b01f",
-                        "title": "Avlabari dolma",
-                        "itemDescription": "Beef and pork with rice wrapped in grape leaf",
-                        "price": 16000
-                    },
-                    "76aa2919-9e93-4887-8f2b-6af958f75908": {
-                        "uuid": "76aa2919-9e93-4887-8f2b-6af958f75908",
-                        "title": "Kebab of turkey and cheese",
-                        "itemDescription": "Turkey kebab with cheese and satsebeli sause (200/50г) The price is based on the weight of raw meat",
-                        "price": 18000
-                    },
-                    "c990a3c0-298b-45fb-bb4f-d3830881ceb2": {
-                        "uuid": "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
-                        "title": "Ossetian khachapuri",
-                        "itemDescription": "Khachapuri with suluguni cheese and spinach",
-                        "price": 11400
-                    },
-                    "eb4972f9-4b53-49d4-bac9-0a35c69da455": {
-                        "uuid": "eb4972f9-4b53-49d4-bac9-0a35c69da455",
-                        "title": "Tbili zucchini",
-                        "itemDescription": "Fried zucchini with fresh tomato and mayo",
-                        "price": 12300
-                    },
-                    "c7a83f21-de89-4077-9d00-b8a1b159fe7c": {
-                        "uuid": "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
-                        "title": "Imeruli khachapuri",
-                        "itemDescription": "Khachapuri with suluguni cheese",
-                        "price": 13500
-                    },
-                    "03b08417-83cb-4be9-975c-4affb1eac981": {
-                        "uuid": "03b08417-83cb-4be9-975c-4affb1eac981",
-                        "title": "Baked potatoes",
-                        "itemDescription": "Baked potatoes with garlic and green",
-                        "price": 5200
-                    },
-                    "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361": {
-                        "uuid": "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361",
-                        "title": "Vegetable soup",
-                        "itemDescription": "Soup with eight kinds of vegetables",
-                        "price": 7500
-                    },
-                    "144d4fc4-3994-457f-8756-5fc7c6a3a8a8": {
-                        "uuid": "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
-                        "title": "Lemonade Natahtari Lemon 0.5l",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "15e08d06-f388-4a40-a92a-c5cb43c6fd49": {
-                        "uuid": "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
-                        "title": "Napoleon cake",
-                        "itemDescription": "",
-                        "price": 9000,
-                        "imageUrl": "https://d1ralsognjng37.cloudfront.net/4adf9e74-d3e8-487f-bedc-4b4b3c2e4307"
-                    },
-                    "2cb2f097-fba9-4d3f-bb21-922cd2dd3050": {
-                        "uuid": "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
-                        "title": "Tbilisuri khachapuri",
-                        "itemDescription": "Khachapuri with tripple suluguni cheese",
-                        "price": 19000
-                    },
-                    "9fc9abb6-f7c1-4821-bd88-8c265e3d9866": {
-                        "uuid": "9fc9abb6-f7c1-4821-bd88-8c265e3d9866",
-                        "title": "French fries",
-                        "itemDescription": "French fries with ketchup",
-                        "price": 5600
-                    },
-                    "736b1870-8713-4f45-99a2-952d41625d89": {
-                        "uuid": "736b1870-8713-4f45-99a2-952d41625d89",
-                        "title": "Borjomi 0.5l",
-                        "itemDescription": "",
-                        "price": 5800
-                    },
-                    "172c6650-5f44-483f-b35c-b615f0b474be": {
-                        "uuid": "172c6650-5f44-483f-b35c-b615f0b474be",
-                        "title": "Kebab of lamb",
-                        "itemDescription": "Lamb kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
-                        "price": 19400
-                    },
-                    "58eee4bd-d2a8-42e3-b36f-29696a9124af": {
-                        "uuid": "58eee4bd-d2a8-42e3-b36f-29696a9124af",
-                        "title": "Megruli khachapuri",
-                        "itemDescription": "Khachapuri with double suluguni cheese",
-                        "price": 14200
-                    },
-                    "3212c033-aea3-47a1-9d1d-b8031e97315f": {
-                        "uuid": "3212c033-aea3-47a1-9d1d-b8031e97315f",
-                        "title": "Shashlik from pork tenderloin",
-                        "itemDescription": "Pork tenderloin with satsebeli sause (250/50г) The price is based on the weight of raw meat",
-                        "price": 22300
-                    },
-                    "599dec63-2256-4935-8671-e8e48033a4d7": {
-                        "uuid": "599dec63-2256-4935-8671-e8e48033a4d7",
-                        "title": "Adjaruli khachapuri",
-                        "itemDescription": "Khachapuri with suluguni cheese and yolk",
-                        "price": 14000
-                    },
-                    "4d1950a5-abba-4d1d-9195-03a9583562d7": {
-                        "uuid": "4d1950a5-abba-4d1d-9195-03a9583562d7",
-                        "title": "Baklava",
-                        "itemDescription": "Baklava with walnuts,honey and cinnamon",
-                        "price": 8500
-                    },
-                    "ba1bd79b-8231-4c61-aaaa-919c59efda4e": {
-                        "uuid": "ba1bd79b-8231-4c61-aaaa-919c59efda4e",
-                        "title": "Urban salad",
-                        "itemDescription": "Roasted vegetables with walnut paste and fresh coriander.",
-                        "price": 12100
-                    },
-                    "812c71f4-3854-4105-b63a-6208b541c9e2": {
-                        "uuid": "812c71f4-3854-4105-b63a-6208b541c9e2",
-                        "title": "Vake salad",
-                        "itemDescription": "Salad with chiken fillet, champignons, fresh vegetables and cured cranberry",
-                        "price": 11800
-                    },
-                    "c567265c-73ed-4d2c-9071-37e635089561": {
-                        "uuid": "c567265c-73ed-4d2c-9071-37e635089561",
-                        "title": "Chicken tapaka",
-                        "itemDescription": "Roasted chicken with adjika",
-                        "price": 20800
-                    },
-                    "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299": {
-                        "uuid": "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
-                        "title": "Khinkali with mix of beef and pork",
-                        "itemDescription": "Khinkali with mix of beef and pork, with cilanto (4pc.)",
-                        "price": 7600
-                    },
-                    "286e9ed5-8fbe-4867-99d3-2f13645876df": {
-                        "uuid": "286e9ed5-8fbe-4867-99d3-2f13645876df",
-                        "title": "Tbilisi salad",
-                        "itemDescription": "Fresh vegetables with onion and walnut paste.",
-                        "price": 11200
-                    },
-                    "375233bf-5772-4e47-9668-a6882b1eb82b": {
-                        "uuid": "375233bf-5772-4e47-9668-a6882b1eb82b",
-                        "title": "Pkhali mix",
-                        "itemDescription": "Snack on the basis of vegetables (green lobio, carrot, beetroot, spinach) with with walnut paste and cilantro",
-                        "price": 10700
-                    },
-                    "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a": {
-                        "uuid": "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
-                        "title": "Fried badrijani",
-                        "itemDescription": "Fried eggplants with walnut paste ",
-                        "price": 12200
-                    },
-                    "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f": {
-                        "uuid": "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
-                        "title": "Chanakhi",
-                        "itemDescription": "pork roast with vegetables in tomato sauce",
-                        "price": 10800
-                    },
-                    "80b207eb-29a3-4d67-8274-42244199fae4": {
-                        "uuid": "80b207eb-29a3-4d67-8274-42244199fae4",
-                        "title": "Lemonade Natahtari Saperavi 0.5l",
-                        "itemDescription": "",
-                        "price": 6500
-                    },
-                    "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa": {
-                        "uuid": "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa",
-                        "title": "Lazuri khachapuri",
-                        "itemDescription": "Pie with beef, smoked suluguni cheese and tomatoes",
-                        "price": 17900
-                    },
-                    "99622a32-fa02-4a9c-b78a-6aaf68ff7307": {
-                        "uuid": "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
-                        "title": "Khinkali with lamb",
-                        "itemDescription": "Khinkali with lamb and cilantro (4pc.)",
-                        "price": 7600
-                    },
-                    "e0446900-895e-4deb-bbe6-0aa302279198": {
-                        "uuid": "e0446900-895e-4deb-bbe6-0aa302279198",
-                        "title": "Borjomi 0.3l",
-                        "itemDescription": "",
-                        "price": 5200
-                    },
-                    "6c784003-1e5a-448f-abec-2f4fb0f64f26": {
-                        "uuid": "6c784003-1e5a-448f-abec-2f4fb0f64f26",
-                        "title": "Didube odzhahuri",
-                        "itemDescription": "Pork roast with potatoes, onion and garlic",
-                        "price": 12300
-                    },
-                    "c75b070f-ad16-418d-ab9f-b6f6e322a860": {
-                        "uuid": "c75b070f-ad16-418d-ab9f-b6f6e322a860",
-                        "title": "Kebab of beef",
-                        "itemDescription": "Beef kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
-                        "price": 18000
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "1eb80255-609b-442d-8319-572ce09aec77",
-                        "title": "Soup",
-                        "itemUuids": [
-                            "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
-                            "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
-                            "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
-                                "title": "Kharcho with veal",
-                                "itemDescription": "Soup with veal, rice, and herbs",
-                                "price": 9000
-                            },
-                            {
-                                "uuid": "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
-                                "title": "Chicken broth",
-                                "itemDescription": "Broth with chicken, handmade noodles and egg",
-                                "price": 8400
-                            },
-                            {
-                                "uuid": "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361",
-                                "title": "Vegetable soup",
-                                "itemDescription": "Soup with eight kinds of vegetables",
-                                "price": 7500
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "7121254a-1eb1-40b5-8d49-90fadda3a234",
-                        "title": "Salads",
-                        "itemUuids": [
-                            "812c71f4-3854-4105-b63a-6208b541c9e2",
-                            "286e9ed5-8fbe-4867-99d3-2f13645876df",
-                            "ba1bd79b-8231-4c61-aaaa-919c59efda4e"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "812c71f4-3854-4105-b63a-6208b541c9e2",
-                                "title": "Vake salad",
-                                "itemDescription": "Salad with chiken fillet, champignons, fresh vegetables and cured cranberry",
-                                "price": 11800
-                            },
-                            {
-                                "uuid": "286e9ed5-8fbe-4867-99d3-2f13645876df",
-                                "title": "Tbilisi salad",
-                                "itemDescription": "Fresh vegetables with onion and walnut paste.",
-                                "price": 11200
-                            },
-                            {
-                                "uuid": "ba1bd79b-8231-4c61-aaaa-919c59efda4e",
-                                "title": "Urban salad",
-                                "itemDescription": "Roasted vegetables with walnut paste and fresh coriander.",
-                                "price": 12100
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "b02238eb-67df-48c9-82e7-e61837f8ac69",
-                        "title": "Hot Courses",
-                        "itemUuids": [
-                            "61478c36-7c49-4349-ab26-03472210b01f",
-                            "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
-                            "c567265c-73ed-4d2c-9071-37e635089561",
-                            "6c784003-1e5a-448f-abec-2f4fb0f64f26"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "61478c36-7c49-4349-ab26-03472210b01f",
-                                "title": "Avlabari dolma",
-                                "itemDescription": "Beef and pork with rice wrapped in grape leaf",
-                                "price": 16000
-                            },
-                            {
-                                "uuid": "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
-                                "title": "Chanakhi",
-                                "itemDescription": "pork roast with vegetables in tomato sauce",
-                                "price": 10800
-                            },
-                            {
-                                "uuid": "c567265c-73ed-4d2c-9071-37e635089561",
-                                "title": "Chicken tapaka",
-                                "itemDescription": "Roasted chicken with adjika",
-                                "price": 20800
-                            },
-                            {
-                                "uuid": "6c784003-1e5a-448f-abec-2f4fb0f64f26",
-                                "title": "Didube odzhahuri",
-                                "itemDescription": "Pork roast with potatoes, onion and garlic",
-                                "price": 12300
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "9f399700-d186-43a9-b889-3859190a094c",
-                        "title": "Dessert",
-                        "itemUuids": [
-                            "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
-                            "b4162bce-ef32-424c-8054-5770a992b12f",
-                            "4d1950a5-abba-4d1d-9195-03a9583562d7"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
-                                "title": "Napoleon cake",
-                                "itemDescription": "",
-                                "price": 9000,
-                                "imageUrl": "https://d1ralsognjng37.cloudfront.net/4adf9e74-d3e8-487f-bedc-4b4b3c2e4307"
-                            },
-                            {
-                                "uuid": "b4162bce-ef32-424c-8054-5770a992b12f",
-                                "title": "Donut",
-                                "itemDescription": "Tbilisi donut with custard ",
-                                "price": 6400,
-                                "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
-                            },
-                            {
-                                "uuid": "4d1950a5-abba-4d1d-9195-03a9583562d7",
-                                "title": "Baklava",
-                                "itemDescription": "Baklava with walnuts,honey and cinnamon",
-                                "price": 8500
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "165f38c3-351d-47e2-a226-dd8c2946b2ca",
-                        "title": "Khinkali",
-                        "itemUuids": [
-                            "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
-                            "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
-                            "308c81c0-8dfd-489c-9445-52e2b8caf0c6"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
-                                "title": "Khinkali with lamb",
-                                "itemDescription": "Khinkali with lamb and cilantro (4pc.)",
-                                "price": 7600
-                            },
-                            {
-                                "uuid": "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
-                                "title": "Khinkali with mix of beef and pork",
-                                "itemDescription": "Khinkali with mix of beef and pork, with cilanto (4pc.)",
-                                "price": 7600
-                            },
-                            {
-                                "uuid": "308c81c0-8dfd-489c-9445-52e2b8caf0c6",
-                                "title": "Khinkali with cheese",
-                                "itemDescription": "Khinkali with cheese suluguni (4 pc.)",
-                                "price": 7200
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "28e6a043-d0ac-4780-ad99-e0b21428d0b0",
-                        "title": "Cold snacks",
-                        "itemUuids": [
-                            "375233bf-5772-4e47-9668-a6882b1eb82b",
-                            "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
-                            "eb4972f9-4b53-49d4-bac9-0a35c69da455"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "375233bf-5772-4e47-9668-a6882b1eb82b",
-                                "title": "Pkhali mix",
-                                "itemDescription": "Snack on the basis of vegetables (green lobio, carrot, beetroot, spinach) with with walnut paste and cilantro",
-                                "price": 10700
-                            },
-                            {
-                                "uuid": "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
-                                "title": "Fried badrijani",
-                                "itemDescription": "Fried eggplants with walnut paste ",
-                                "price": 12200
-                            },
-                            {
-                                "uuid": "eb4972f9-4b53-49d4-bac9-0a35c69da455",
-                                "title": "Tbili zucchini",
-                                "itemDescription": "Fried zucchini with fresh tomato and mayo",
-                                "price": 12300
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "7af92ca4-9763-4edf-bbbc-c67b9be1a323",
-                        "title": "Khachapuri",
-                        "itemUuids": [
-                            "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
-                            "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
-                            "58eee4bd-d2a8-42e3-b36f-29696a9124af",
-                            "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
-                            "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
-                            "599dec63-2256-4935-8671-e8e48033a4d7",
-                            "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
-                                "title": "Kubdari",
-                                "itemDescription": "Pie with beef",
-                                "price": 13500
-                            },
-                            {
-                                "uuid": "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
-                                "title": "Tbilisuri khachapuri",
-                                "itemDescription": "Khachapuri with tripple suluguni cheese",
-                                "price": 19000
-                            },
-                            {
-                                "uuid": "58eee4bd-d2a8-42e3-b36f-29696a9124af",
-                                "title": "Megruli khachapuri",
-                                "itemDescription": "Khachapuri with double suluguni cheese",
-                                "price": 14200
-                            },
-                            {
-                                "uuid": "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
-                                "title": "Imeruli khachapuri",
-                                "itemDescription": "Khachapuri with suluguni cheese",
-                                "price": 13500
-                            },
-                            {
-                                "uuid": "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
-                                "title": "Ossetian khachapuri",
-                                "itemDescription": "Khachapuri with suluguni cheese and spinach",
-                                "price": 11400
-                            },
-                            {
-                                "uuid": "599dec63-2256-4935-8671-e8e48033a4d7",
-                                "title": "Adjaruli khachapuri",
-                                "itemDescription": "Khachapuri with suluguni cheese and yolk",
-                                "price": 14000
-                            },
-                            {
-                                "uuid": "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa",
-                                "title": "Lazuri khachapuri",
-                                "itemDescription": "Pie with beef, smoked suluguni cheese and tomatoes",
-                                "price": 17900
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7",
-                        "title": "Side dishes",
-                        "itemUuids": [
-                            "03b08417-83cb-4be9-975c-4affb1eac981",
-                            "9fc9abb6-f7c1-4821-bd88-8c265e3d9866"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "03b08417-83cb-4be9-975c-4affb1eac981",
-                                "title": "Baked potatoes",
-                                "itemDescription": "Baked potatoes with garlic and green",
-                                "price": 5200
-                            },
-                            {
-                                "uuid": "9fc9abb6-f7c1-4821-bd88-8c265e3d9866",
-                                "title": "French fries",
-                                "itemDescription": "French fries with ketchup",
-                                "price": 5600
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "1bdef48c-3761-4d7f-a5a1-ad25956a2138",
-                        "title": "Cooked on the charcoal",
-                        "itemUuids": [
-                            "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
-                            "3212c033-aea3-47a1-9d1d-b8031e97315f",
-                            "7b869bbe-071c-42cb-a262-ac77b27c8383",
-                            "c75b070f-ad16-418d-ab9f-b6f6e322a860",
-                            "172c6650-5f44-483f-b35c-b615f0b474be",
-                            "76aa2919-9e93-4887-8f2b-6af958f75908"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
-                                "title": "Shashlik from pork shish",
-                                "itemDescription": "Pork shish with satsebeli sause (300/50g.) The price is based on the weight of raw meet",
-                                "price": 32500,
-                                "imageUrl": ""
-                            },
-                            {
-                                "uuid": "3212c033-aea3-47a1-9d1d-b8031e97315f",
-                                "title": "Shashlik from pork tenderloin",
-                                "itemDescription": "Pork tenderloin with satsebeli sause (250/50г) The price is based on the weight of raw meat",
-                                "price": 22300
-                            },
-                            {
-                                "uuid": "7b869bbe-071c-42cb-a262-ac77b27c8383",
-                                "title": "Shashlik from chicken",
-                                "itemDescription": "Chicken with satsebeli sause (250/50г) The price is based on the weight of raw meat",
-                                "price": 20800
-                            },
-                            {
-                                "uuid": "c75b070f-ad16-418d-ab9f-b6f6e322a860",
-                                "title": "Kebab of beef",
-                                "itemDescription": "Beef kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
-                                "price": 18000
-                            },
-                            {
-                                "uuid": "172c6650-5f44-483f-b35c-b615f0b474be",
-                                "title": "Kebab of lamb",
-                                "itemDescription": "Lamb kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
-                                "price": 19400
-                            },
-                            {
-                                "uuid": "76aa2919-9e93-4887-8f2b-6af958f75908",
-                                "title": "Kebab of turkey and cheese",
-                                "itemDescription": "Turkey kebab with cheese and satsebeli sause (200/50г) The price is based on the weight of raw meat",
-                                "price": 18000
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "34e91361-bae4-459b-9fa2-b5580d147714",
-                        "title": "Drinks",
-                        "itemUuids": [
-                            "219343aa-5956-4943-9c34-75abd181a6d1",
-                            "cc7167b8-9dc9-4515-858e-85066321d5fb",
-                            "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
-                            "80b207eb-29a3-4d67-8274-42244199fae4",
-                            "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
-                            "736b1870-8713-4f45-99a2-952d41625d89",
-                            "e0446900-895e-4deb-bbe6-0aa302279198"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "219343aa-5956-4943-9c34-75abd181a6d1",
-                                "title": "Lemonade Natahtari Tarragon 0.5l",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "cc7167b8-9dc9-4515-858e-85066321d5fb",
-                                "title": "Lemonade Natahtari Pear 0.5l",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
-                                "title": "Lemonade Natahtari Lemon 0.5l",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "80b207eb-29a3-4d67-8274-42244199fae4",
-                                "title": "Lemonade Natahtari Saperavi 0.5l",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
-                                "title": "Lemonade Natahtari Feijoa",
-                                "itemDescription": "",
-                                "price": 6500
-                            },
-                            {
-                                "uuid": "736b1870-8713-4f45-99a2-952d41625d89",
-                                "title": "Borjomi 0.5l",
-                                "itemDescription": "",
-                                "price": 5800
-                            },
-                            {
-                                "uuid": "e0446900-895e-4deb-bbe6-0aa302279198",
-                                "title": "Borjomi 0.3l",
-                                "itemDescription": "",
-                                "price": 5200
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        "subsectionsMap": {
-            "e68546b1-806c-4a69-a499-5e07c7f2f92a": {
-                "uuid": "e68546b1-806c-4a69-a499-5e07c7f2f92a",
-                "title": "Десерт",
-                "itemUuids": [
-                    "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
-                    "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
-                    "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "9936e983-4fce-4e22-abc5-bd2aabad7f1b": {
-                "uuid": "9936e983-4fce-4e22-abc5-bd2aabad7f1b",
-                "title": "Салат",
-                "itemUuids": [
-                    "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
-                    "aecd4b11-4e5c-4882-8cc2-8900554fe318",
-                    "50756efa-318a-48d5-b8e5-8f1ac47c2e35"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "aecd4b11-4e5c-4882-8cc2-8900554fe318",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "50756efa-318a-48d5-b8e5-8f1ac47c2e35",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "28e6a043-d0ac-4780-ad99-e0b21428d0b0": {
-                "uuid": "28e6a043-d0ac-4780-ad99-e0b21428d0b0",
-                "title": "Cold snacks",
-                "itemUuids": [
-                    "375233bf-5772-4e47-9668-a6882b1eb82b",
-                    "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
-                    "eb4972f9-4b53-49d4-bac9-0a35c69da455"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "375233bf-5772-4e47-9668-a6882b1eb82b",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "eb4972f9-4b53-49d4-bac9-0a35c69da455",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "34e91361-bae4-459b-9fa2-b5580d147714": {
-                "uuid": "34e91361-bae4-459b-9fa2-b5580d147714",
-                "title": "Drinks",
-                "itemUuids": [
-                    "219343aa-5956-4943-9c34-75abd181a6d1",
-                    "cc7167b8-9dc9-4515-858e-85066321d5fb",
-                    "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
-                    "80b207eb-29a3-4d67-8274-42244199fae4",
-                    "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
-                    "736b1870-8713-4f45-99a2-952d41625d89",
-                    "e0446900-895e-4deb-bbe6-0aa302279198"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "219343aa-5956-4943-9c34-75abd181a6d1",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cc7167b8-9dc9-4515-858e-85066321d5fb",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "80b207eb-29a3-4d67-8274-42244199fae4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "736b1870-8713-4f45-99a2-952d41625d89",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e0446900-895e-4deb-bbe6-0aa302279198",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "165f38c3-351d-47e2-a226-dd8c2946b2ca": {
-                "uuid": "165f38c3-351d-47e2-a226-dd8c2946b2ca",
-                "title": "Khinkali",
-                "itemUuids": [
-                    "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
-                    "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
-                    "308c81c0-8dfd-489c-9445-52e2b8caf0c6"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "308c81c0-8dfd-489c-9445-52e2b8caf0c6",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "7af92ca4-9763-4edf-bbbc-c67b9be1a323": {
-                "uuid": "7af92ca4-9763-4edf-bbbc-c67b9be1a323",
-                "title": "Khachapuri",
-                "itemUuids": [
-                    "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
-                    "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
-                    "58eee4bd-d2a8-42e3-b36f-29696a9124af",
-                    "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
-                    "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
-                    "599dec63-2256-4935-8671-e8e48033a4d7",
-                    "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "58eee4bd-d2a8-42e3-b36f-29696a9124af",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "599dec63-2256-4935-8671-e8e48033a4d7",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "b02238eb-67df-48c9-82e7-e61837f8ac69": {
-                "uuid": "b02238eb-67df-48c9-82e7-e61837f8ac69",
-                "title": "Hot Courses",
-                "itemUuids": [
-                    "61478c36-7c49-4349-ab26-03472210b01f",
-                    "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
-                    "c567265c-73ed-4d2c-9071-37e635089561",
-                    "6c784003-1e5a-448f-abec-2f4fb0f64f26"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "61478c36-7c49-4349-ab26-03472210b01f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c567265c-73ed-4d2c-9071-37e635089561",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6c784003-1e5a-448f-abec-2f4fb0f64f26",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "bb7162a0-e6b9-476f-946e-d94c24510af3": {
-                "uuid": "bb7162a0-e6b9-476f-946e-d94c24510af3",
-                "title": "Холодні закуски",
-                "itemUuids": [
-                    "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
-                    "1d155297-983e-474a-b2a4-0b93e1c01bc5",
-                    "c27ecd6b-5bed-4708-9394-d498b210ac26"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1d155297-983e-474a-b2a4-0b93e1c01bc5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c27ecd6b-5bed-4708-9394-d498b210ac26",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "7121254a-1eb1-40b5-8d49-90fadda3a234": {
-                "uuid": "7121254a-1eb1-40b5-8d49-90fadda3a234",
-                "title": "Salads",
-                "itemUuids": [
-                    "812c71f4-3854-4105-b63a-6208b541c9e2",
-                    "286e9ed5-8fbe-4867-99d3-2f13645876df",
-                    "ba1bd79b-8231-4c61-aaaa-919c59efda4e"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "812c71f4-3854-4105-b63a-6208b541c9e2",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "286e9ed5-8fbe-4867-99d3-2f13645876df",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ba1bd79b-8231-4c61-aaaa-919c59efda4e",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "82655d76-eeeb-4a53-b3ae-bdc05d62b217": {
-                "uuid": "82655d76-eeeb-4a53-b3ae-bdc05d62b217",
-                "title": "Гарячі страви",
-                "itemUuids": [
-                    "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
-                    "7a5ad525-7bf6-4a04-8446-909008be35f5",
-                    "b11f6a39-4e89-4418-aa3d-0272291f16cd",
-                    "32d4e1c6-057d-423d-b368-115b34d8c1e3"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7a5ad525-7bf6-4a04-8446-909008be35f5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b11f6a39-4e89-4418-aa3d-0272291f16cd",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "32d4e1c6-057d-423d-b368-115b34d8c1e3",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "9f399700-d186-43a9-b889-3859190a094c": {
-                "uuid": "9f399700-d186-43a9-b889-3859190a094c",
-                "title": "Dessert",
-                "itemUuids": [
-                    "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
-                    "b4162bce-ef32-424c-8054-5770a992b12f",
-                    "4d1950a5-abba-4d1d-9195-03a9583562d7"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b4162bce-ef32-424c-8054-5770a992b12f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4d1950a5-abba-4d1d-9195-03a9583562d7",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7": {
-                "uuid": "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7",
-                "title": "Side dishes",
-                "itemUuids": [
-                    "03b08417-83cb-4be9-975c-4affb1eac981",
-                    "9fc9abb6-f7c1-4821-bd88-8c265e3d9866"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "03b08417-83cb-4be9-975c-4affb1eac981",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9fc9abb6-f7c1-4821-bd88-8c265e3d9866",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "1bdef48c-3761-4d7f-a5a1-ad25956a2138": {
-                "uuid": "1bdef48c-3761-4d7f-a5a1-ad25956a2138",
-                "title": "Cooked on the charcoal",
-                "itemUuids": [
-                    "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
-                    "3212c033-aea3-47a1-9d1d-b8031e97315f",
-                    "7b869bbe-071c-42cb-a262-ac77b27c8383",
-                    "c75b070f-ad16-418d-ab9f-b6f6e322a860",
-                    "172c6650-5f44-483f-b35c-b615f0b474be",
-                    "76aa2919-9e93-4887-8f2b-6af958f75908"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3212c033-aea3-47a1-9d1d-b8031e97315f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7b869bbe-071c-42cb-a262-ac77b27c8383",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c75b070f-ad16-418d-ab9f-b6f6e322a860",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "172c6650-5f44-483f-b35c-b615f0b474be",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "76aa2919-9e93-4887-8f2b-6af958f75908",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4": {
-                "uuid": "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4",
-                "title": "Напої",
-                "itemUuids": [
-                    "f07021d8-cf29-4177-9439-34a60707d557",
-                    "0a5e341f-4e04-429c-9fe2-7312757852f8",
-                    "e4d3205a-8bce-4264-ae63-d0da90dc7871",
-                    "8309db48-0364-40b2-9790-5dccbead27b8",
-                    "09d3c38c-28e6-46ba-8249-0838704d3c39",
-                    "72dc500d-baeb-44cd-831e-ab319112abe2",
-                    "6bb621ae-5984-4cf5-95ff-1b33b90159cb"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "f07021d8-cf29-4177-9439-34a60707d557",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0a5e341f-4e04-429c-9fe2-7312757852f8",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e4d3205a-8bce-4264-ae63-d0da90dc7871",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8309db48-0364-40b2-9790-5dccbead27b8",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "09d3c38c-28e6-46ba-8249-0838704d3c39",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "72dc500d-baeb-44cd-831e-ab319112abe2",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6bb621ae-5984-4cf5-95ff-1b33b90159cb",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "584fd584-0429-495b-95f4-c72f25bfb0a6": {
-                "uuid": "584fd584-0429-495b-95f4-c72f25bfb0a6",
-                "title": "Приготовлено на вугіллі",
-                "itemUuids": [
-                    "4d6a2485-acf0-40e8-a2c8-6229abda4331",
-                    "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
-                    "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
-                    "defe990b-b4db-4264-b655-642e1701f3f1",
-                    "01b13691-6cb3-43a8-b527-d2ae0c923f30",
-                    "4bc7429a-7780-48b6-b510-b121a999cc36"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "4d6a2485-acf0-40e8-a2c8-6229abda4331",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "defe990b-b4db-4264-b655-642e1701f3f1",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "01b13691-6cb3-43a8-b527-d2ae0c923f30",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4bc7429a-7780-48b6-b510-b121a999cc36",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "53bc2fe8-5853-4325-9f05-c000d093bcab": {
-                "uuid": "53bc2fe8-5853-4325-9f05-c000d093bcab",
-                "title": "Суп",
-                "itemUuids": [
-                    "777b56c1-bb40-4720-9ff4-685afc87ad68",
-                    "9f5770a0-497c-4521-9411-290723275e69",
-                    "c5491abb-5ac5-49fa-81c5-ddf9faf092df"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "777b56c1-bb40-4720-9ff4-685afc87ad68",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9f5770a0-497c-4521-9411-290723275e69",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c5491abb-5ac5-49fa-81c5-ddf9faf092df",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "1eb80255-609b-442d-8319-572ce09aec77": {
-                "uuid": "1eb80255-609b-442d-8319-572ce09aec77",
-                "title": "Soup",
-                "itemUuids": [
-                    "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
-                    "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
-                    "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "6c546755-2139-4846-b3b5-509ab00fd3a6": {
-                "uuid": "6c546755-2139-4846-b3b5-509ab00fd3a6",
-                "title": "Хінкалі",
-                "itemUuids": [
-                    "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
-                    "14a4fad2-a35f-4e2e-916a-12e726c5c435",
-                    "a7e42244-e55e-4423-ab39-fd6b9e7d0501"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "14a4fad2-a35f-4e2e-916a-12e726c5c435",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a7e42244-e55e-4423-ab39-fd6b9e7d0501",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "29643d96-80ec-4acb-b5aa-59b6032c7df0": {
-                "uuid": "29643d96-80ec-4acb-b5aa-59b6032c7df0",
-                "title": "Хачапурі",
-                "itemUuids": [
-                    "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
-                    "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
-                    "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
-                    "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
-                    "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
-                    "727510bc-07f2-4845-b434-36974cf54b2e",
-                    "920e3253-d85a-44ee-8eef-ab16cb991852"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "727510bc-07f2-4845-b434-36974cf54b2e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "920e3253-d85a-44ee-8eef-ab16cb991852",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "0f7de050-4a7c-4031-99d6-473f8a66f3f2": {
-                "uuid": "0f7de050-4a7c-4031-99d6-473f8a66f3f2",
-                "title": "Гарніри",
-                "itemUuids": [
-                    "f74bbf56-bd9e-4093-8f83-d05e250933d5",
-                    "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "f74bbf56-bd9e-4093-8f83-d05e250933d5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3",
-                        "type": "ITEM"
-                    }
-                ]
-            }
-        },
-        "location": {
-            "latitude": 50.4494116,
-            "longitude": 30.4914352,
-            "address": {
-                "address1": "Dmytrivska St, 9-11",
-                "aptOrSuite": "",
-                "city": "Kyiv",
-                "country": "UA",
-                "postalCode": "02000",
-                "region": "Kyiv city",
-                "formattedAddress": "Dmytrivska St, 9-11, Kyiv, Kyiv city 02000"
-            }
-        },
-        "publicContact": {
-            "publicPhoneNumber": "+380978853333"
-        },
-        "priceBucket": "₴₴",
-        "slug": "радіо-тбілісі",
-        "isOrderable": true,
-        "disableCheckoutInstruction": false,
-        "supportedDiningModes": [
-            "DELIVERY"
-        ],
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
-        "heroImage": {
-            "items": [
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/a8489c55-f840-4717-9efa-376842e222b5",
-                    "width": 2880,
-                    "height": 2304
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/6ec792b2-0e95-4895-bbe9-0c40929cfddd",
-                    "width": 1080,
-                    "height": 864
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/10ccdff9-3f48-4616-829a-d204545a045a",
-                    "width": 750,
-                    "height": 600
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/e4013182-15d6-4029-a9e7-233122d8375c",
-                    "width": 640,
-                    "height": 512
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
-                    "width": 550,
-                    "height": 440
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/5fd940f4-cb3e-41b3-a672-fdbab08322aa",
-                    "width": 240,
-                    "height": 192
-                }
-            ]
-        },
-        "closedEtaMessage": "Currently unavailable",
-        "notOrderableMessage": "Currently unavailable",
-        "storeBadges": {
-            "disclaimerBadge": {
-                "textFormat": ""
-            },
-            "ratingBadge": {
-                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(109)</span></span>",
-                "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 109 reviews."
-            },
-            "taglineBadge": {
-                "textFormat": "<span>₴₴ • Georgian • Pastry • Middle Eastern</span>"
-            },
-            "etaBadge": {
-                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-                "text": "50–60 MINS",
-                "textFormat": "<span>50–60 MINS</span>",
-                "accessibilityText": "Delivered in 50 to 60 MINS"
-            }
-        },
-        "etaRange": {
-            "min": 50,
-            "max": 60,
-            "raw": 55
-        },
-        "fareInfo": {
-            "serviceFee": 30
-        },
-        "eaterFields": {},
-        "meta": {
-            "sectionHoursInfo": [
-                {
-                    "dayRange": "Every day",
-                    "sectionHours": [
-                        {
-                            "startTime": 660,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 660,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                }
-            ]
-        },
-        "nuggets": [],
-        "displayConfig": {
-            "regionalDisplayType": "DEFAULT"
-        },
-        "enabledFulfillmentTypes": [
-            "DELIVERY"
-        ],
-        "citySlug": "kyiv",
-        "cityName": "Kyiv",
-        "currencyCode": "UAH",
-        "currencyNumDigitsAfterDecimal": 2
+  "uuid": "13acfa58-7856-4bd5-93bd-c01b815ede05",
+  "title": "Радіо Тбілісі",
+  "regionId": 943,
+  "categories": [
+    {
+      "uuid": "Georgian",
+      "name": "Грузинська",
+      "keyName": "Georgian"
+    },
+    {
+      "uuid": "Pastry",
+      "name": "Випічка",
+      "keyName": "Pastry"
+    },
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
     }
+  ],
+  "sections": [
+    {
+      "uuid": "e6d2a0e9-314c-4e90-94a9-8c15be6836f6",
+      "title": "SWITCH LANGUAGE (UKR)",
+      "subtitle": "11:00 AM – 10:00 PM",
+      "isTop": true,
+      "isOnSale": true,
+      "subsectionUuids": [
+        "53bc2fe8-5853-4325-9f05-c000d093bcab",
+        "9936e983-4fce-4e22-abc5-bd2aabad7f1b",
+        "82655d76-eeeb-4a53-b3ae-bdc05d62b217",
+        "e68546b1-806c-4a69-a499-5e07c7f2f92a",
+        "6c546755-2139-4846-b3b5-509ab00fd3a6",
+        "bb7162a0-e6b9-476f-946e-d94c24510af3",
+        "29643d96-80ec-4acb-b5aa-59b6032c7df0",
+        "0f7de050-4a7c-4031-99d6-473f8a66f3f2",
+        "584fd584-0429-495b-95f4-c72f25bfb0a6",
+        "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4"
+      ]
+    },
+    {
+      "uuid": "4d089a49-ab96-4342-bddd-58995be840ee",
+      "title": "SWITCH LANGUAGE (ENG)",
+      "subtitle": "11:00 AM – 10:00 PM",
+      "isOnSale": true,
+      "subsectionUuids": [
+        "1eb80255-609b-442d-8319-572ce09aec77",
+        "7121254a-1eb1-40b5-8d49-90fadda3a234",
+        "b02238eb-67df-48c9-82e7-e61837f8ac69",
+        "9f399700-d186-43a9-b889-3859190a094c",
+        "165f38c3-351d-47e2-a226-dd8c2946b2ca",
+        "28e6a043-d0ac-4780-ad99-e0b21428d0b0",
+        "7af92ca4-9763-4edf-bbbc-c67b9be1a323",
+        "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7",
+        "1bdef48c-3761-4d7f-a5a1-ad25956a2138",
+        "34e91361-bae4-459b-9fa2-b5580d147714"
+      ]
+    }
+  ],
+  "sectionEntitiesMap": {
+    "e6d2a0e9-314c-4e90-94a9-8c15be6836f6": {
+      "itemsMap": {
+        "defe990b-b4db-4264-b655-642e1701f3f1": {
+          "uuid": "defe990b-b4db-4264-b655-642e1701f3f1",
+          "title": "Люля-кебаб з яловичини",
+          "itemDescription": "Люля-кебаб з яловичини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
+          "price": 18000
+        },
+        "727510bc-07f2-4845-b434-36974cf54b2e": {
+          "uuid": "727510bc-07f2-4845-b434-36974cf54b2e",
+          "title": "Хачапурі по-аджарські",
+          "itemDescription": "Хачапурі з сиром сулугуні та яєчним жовтком",
+          "price": 14000
+        },
+        "4bc7429a-7780-48b6-b510-b121a999cc36": {
+          "uuid": "4bc7429a-7780-48b6-b510-b121a999cc36",
+          "title": "Люля-кебаб з індички та сиру",
+          "itemDescription": "Люля-кебаб з індички та сиру з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
+          "price": 18000
+        },
+        "14a4fad2-a35f-4e2e-916a-12e726c5c435": {
+          "uuid": "14a4fad2-a35f-4e2e-916a-12e726c5c435",
+          "title": "Хінкалі міксом яловичини та свинини",
+          "itemDescription": "Хінкалі з міксом яловичини та свинини з кінзою ( 4 шт)",
+          "price": 7600
+        },
+        "4d6a2485-acf0-40e8-a2c8-6229abda4331": {
+          "uuid": "4d6a2485-acf0-40e8-a2c8-6229abda4331",
+          "title": "Шашлик зі свинячої вирізки",
+          "itemDescription": "Смажена свиняча вирізка з соусом сацебелі (300/50г.) Ціна вказана за вагусирого м'яса",
+          "price": 32500,
+          "imageUrl": ""
+        },
+        "32d4e1c6-057d-423d-b368-115b34d8c1e3": {
+          "uuid": "32d4e1c6-057d-423d-b368-115b34d8c1e3",
+          "title": "Оджахурі по-дідубськи",
+          "itemDescription": "Смажена свинина з картоплею, цибулею та часником",
+          "price": 11900
+        },
+        "9f5770a0-497c-4521-9411-290723275e69": {
+          "uuid": "9f5770a0-497c-4521-9411-290723275e69",
+          "title": "Курячий бульйон",
+          "itemDescription": "Бульйон з куркою, домашньою локшиною та яйцем.",
+          "price": 8400
+        },
+        "01b13691-6cb3-43a8-b527-d2ae0c923f30": {
+          "uuid": "01b13691-6cb3-43a8-b527-d2ae0c923f30",
+          "title": "Люля-кебаб з баранини",
+          "itemDescription": "Люля-кебаб з баранини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
+          "price": 19400,
+          "imageUrl": ""
+        },
+        "edbd96b7-ec92-4d93-971d-b82a0b99ce8c": {
+          "uuid": "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
+          "title": "Кубдарі",
+          "itemDescription": "Пиріг з начинкою з яловичини",
+          "price": 13500
+        },
+        "0c30dc79-0a30-4e4e-aba9-83914030b1b2": {
+          "uuid": "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
+          "title": "Долма по-авлабарськи",
+          "itemDescription": "Загорнутий в виноградне листя фарш з яловичини та свинини з рисом",
+          "price": 16000
+        },
+        "09d3c38c-28e6-46ba-8249-0838704d3c39": {
+          "uuid": "09d3c38c-28e6-46ba-8249-0838704d3c39",
+          "title": "Лимонад Натахтарі Виноград 0,5л",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "c27ecd6b-5bed-4708-9394-d498b210ac26": {
+          "uuid": "c27ecd6b-5bed-4708-9394-d498b210ac26",
+          "title": "Кабачки тбілі",
+          "itemDescription": "Смажені кабачки з томатами та майонезом",
+          "price": 12300
+        },
+        "b11f6a39-4e89-4418-aa3d-0272291f16cd": {
+          "uuid": "b11f6a39-4e89-4418-aa3d-0272291f16cd",
+          "title": "Курча тапака",
+          "itemDescription": "Смажене курча заджикою",
+          "price": 20800
+        },
+        "c5491abb-5ac5-49fa-81c5-ddf9faf092df": {
+          "uuid": "c5491abb-5ac5-49fa-81c5-ddf9faf092df",
+          "title": "Овочевий бульйон",
+          "itemDescription": "Бульйон на основі восьми видів овочів",
+          "price": 7500
+        },
+        "50756efa-318a-48d5-b8e5-8f1ac47c2e35": {
+          "uuid": "50756efa-318a-48d5-b8e5-8f1ac47c2e35",
+          "title": "Салат міський",
+          "itemDescription": "Запечені овочі з горіховою пастою та кінзою.",
+          "price": 12100
+        },
+        "f07021d8-cf29-4177-9439-34a60707d557": {
+          "uuid": "f07021d8-cf29-4177-9439-34a60707d557",
+          "title": "Лимонад Натахтарі Тархун 0,5л",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "1b47c0ef-f0ae-454a-98f1-4b665782dd15": {
+          "uuid": "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
+          "title": "Хачапурі по-мегрельскі",
+          "itemDescription": "Хачапурі з подвійним сиром сулугуні",
+          "price": 14200
+        },
+        "6bb621ae-5984-4cf5-95ff-1b33b90159cb": {
+          "uuid": "6bb621ae-5984-4cf5-95ff-1b33b90159cb",
+          "title": "Боржомі 0,3",
+          "itemDescription": "",
+          "price": 5200
+        },
+        "f74bbf56-bd9e-4093-8f83-d05e250933d5": {
+          "uuid": "f74bbf56-bd9e-4093-8f83-d05e250933d5",
+          "title": "Картопля по-сванськи",
+          "itemDescription": "Смажена картопля з часником та зеленю",
+          "price": 5200
+        },
+        "7a5ad525-7bf6-4a04-8446-909008be35f5": {
+          "uuid": "7a5ad525-7bf6-4a04-8446-909008be35f5",
+          "title": "Чанахі",
+          "itemDescription": "Смажена свинина з овочами в соусі з томатів",
+          "price": 10800
+        },
+        "0a5e341f-4e04-429c-9fe2-7312757852f8": {
+          "uuid": "0a5e341f-4e04-429c-9fe2-7312757852f8",
+          "title": "Лимонад Натахтарі Груша 0,5л",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "920e3253-d85a-44ee-8eef-ab16cb991852": {
+          "uuid": "920e3253-d85a-44ee-8eef-ab16cb991852",
+          "title": "Хачапурі лазурі",
+          "itemDescription": "Пиріг з начинкою з яловичини, з копченим сулугуні та томатами",
+          "price": 17900
+        },
+        "a7e42244-e55e-4423-ab39-fd6b9e7d0501": {
+          "uuid": "a7e42244-e55e-4423-ab39-fd6b9e7d0501",
+          "title": "Хінкалі з сиром сулугуні",
+          "itemDescription": "Хінкалі з сиром сулугуні (4 шт.)",
+          "price": 7200
+        },
+        "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f": {
+          "uuid": "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
+          "title": "Шашлик з курячого філе",
+          "itemDescription": "Смажене куряче філе з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
+          "price": 20800
+        },
+        "caf5bdb9-2259-4a71-8abe-63fcc143cc5d": {
+          "uuid": "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
+          "title": "Асорті пхалі",
+          "itemDescription": "Закуска на основі овочів (зелене любіо, морква, буряк, шпинат) з горіховою пастою та кінзою",
+          "price": 10700
+        },
+        "777b56c1-bb40-4720-9ff4-685afc87ad68": {
+          "uuid": "777b56c1-bb40-4720-9ff4-685afc87ad68",
+          "title": "Харчо з телятиною",
+          "itemDescription": "Суп з телятиною, рисом та зеленню.",
+          "price": 9000
+        },
+        "cd8a3f6d-96cc-4de9-806e-fef88abc3dea": {
+          "uuid": "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
+          "title": "Хінкалі з бараниною",
+          "itemDescription": "Хінкалі з бараниною з кінзою (4 Шт)",
+          "price": 7600
+        },
+        "4b5068d3-60bf-4b08-80f2-947f7fcccdec": {
+          "uuid": "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
+          "title": "Шашлик з свинячого ошийку",
+          "itemDescription": "Смажений свинячий ошийок з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
+          "price": 22300
+        },
+        "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3": {
+          "uuid": "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3",
+          "title": "Картопля фрі",
+          "itemDescription": "Класична фрі з кетчупом",
+          "price": 5600
+        },
+        "1d155297-983e-474a-b2a4-0b93e1c01bc5": {
+          "uuid": "1d155297-983e-474a-b2a4-0b93e1c01bc5",
+          "title": "Бадріджані по-мцхетинськи",
+          "itemDescription": "Смажені баклажани з горіховою пастою",
+          "price": 12200
+        },
+        "aecd4b11-4e5c-4882-8cc2-8900554fe318": {
+          "uuid": "aecd4b11-4e5c-4882-8cc2-8900554fe318",
+          "title": "Салат тбіліський",
+          "itemDescription": "Свіжі овочі з горіховою пастою, цибулею та кінзою.",
+          "price": 11200
+        },
+        "f0fbc54c-6f9c-41df-a85f-75cbeec9176e": {
+          "uuid": "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
+          "title": "Пончик ",
+          "itemDescription": "Тбіліський пончик з заварним кремом",
+          "price": 6400,
+          "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
+        },
+        "72dc500d-baeb-44cd-831e-ab319112abe2": {
+          "uuid": "72dc500d-baeb-44cd-831e-ab319112abe2",
+          "title": "Боржомі 0,5",
+          "itemDescription": "",
+          "price": 5800
+        },
+        "6e705561-20f6-4c4e-83fa-83e9f84bd38f": {
+          "uuid": "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
+          "title": "Хачапурі тбілісурі",
+          "itemDescription": "Хачапурі з потрійним сиром сулугуні",
+          "price": 19000
+        },
+        "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168": {
+          "uuid": "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
+          "title": "Салат ваке",
+          "itemDescription": "Салат  з філе курчати, печерицями, свіжими овочами та в'яленою журавлиною",
+          "price": 11800
+        },
+        "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf": {
+          "uuid": "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf",
+          "title": "Пахлава",
+          "itemDescription": "Пахлава з горіхами, медом та корицею",
+          "price": 8500
+        },
+        "10b8c553-1726-4e92-8ced-b31cd65c6fa9": {
+          "uuid": "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
+          "title": "Хачапурі по-осетинські",
+          "itemDescription": "Хачапурі з сиром сулугуні та шпинатом",
+          "price": 11400
+        },
+        "35f75e3d-14a4-4cff-bf88-bdf25ef43518": {
+          "uuid": "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
+          "title": "Наполеон",
+          "itemDescription": "Класичний наполеон з заварним кремом",
+          "price": 9000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fd75fbe-3fe7-462c-9c87-73d25317ce1f"
+        },
+        "e4d1f5cc-5640-4958-9a57-84205fa7f95e": {
+          "uuid": "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
+          "title": "Хачапурі по-імеретинскі",
+          "itemDescription": "Класичний хачапурі з сиром сулугуні",
+          "price": 13500
+        },
+        "8309db48-0364-40b2-9790-5dccbead27b8": {
+          "uuid": "8309db48-0364-40b2-9790-5dccbead27b8",
+          "title": "Лимонад Натахтарі Фейхоа 0,5л",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "e4d3205a-8bce-4264-ae63-d0da90dc7871": {
+          "uuid": "e4d3205a-8bce-4264-ae63-d0da90dc7871",
+          "title": "Лимонад Натахтарі Лимон 0,5л",
+          "itemDescription": "",
+          "price": 6500
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "53bc2fe8-5853-4325-9f05-c000d093bcab",
+          "title": "Суп",
+          "itemUuids": [
+            "777b56c1-bb40-4720-9ff4-685afc87ad68",
+            "9f5770a0-497c-4521-9411-290723275e69",
+            "c5491abb-5ac5-49fa-81c5-ddf9faf092df"
+          ],
+          "displayItems": [
+            {
+              "uuid": "777b56c1-bb40-4720-9ff4-685afc87ad68",
+              "title": "Харчо з телятиною",
+              "itemDescription": "Суп з телятиною, рисом та зеленню.",
+              "price": 9000
+            },
+            {
+              "uuid": "9f5770a0-497c-4521-9411-290723275e69",
+              "title": "Курячий бульйон",
+              "itemDescription": "Бульйон з куркою, домашньою локшиною та яйцем.",
+              "price": 8400
+            },
+            {
+              "uuid": "c5491abb-5ac5-49fa-81c5-ddf9faf092df",
+              "title": "Овочевий бульйон",
+              "itemDescription": "Бульйон на основі восьми видів овочів",
+              "price": 7500
+            }
+          ]
+        },
+        {
+          "uuid": "9936e983-4fce-4e22-abc5-bd2aabad7f1b",
+          "title": "Салат",
+          "itemUuids": [
+            "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
+            "aecd4b11-4e5c-4882-8cc2-8900554fe318",
+            "50756efa-318a-48d5-b8e5-8f1ac47c2e35"
+          ],
+          "displayItems": [
+            {
+              "uuid": "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
+              "title": "Салат ваке",
+              "itemDescription": "Салат  з філе курчати, печерицями, свіжими овочами та в'яленою журавлиною",
+              "price": 11800
+            },
+            {
+              "uuid": "aecd4b11-4e5c-4882-8cc2-8900554fe318",
+              "title": "Салат тбіліський",
+              "itemDescription": "Свіжі овочі з горіховою пастою, цибулею та кінзою.",
+              "price": 11200
+            },
+            {
+              "uuid": "50756efa-318a-48d5-b8e5-8f1ac47c2e35",
+              "title": "Салат міський",
+              "itemDescription": "Запечені овочі з горіховою пастою та кінзою.",
+              "price": 12100
+            }
+          ]
+        },
+        {
+          "uuid": "82655d76-eeeb-4a53-b3ae-bdc05d62b217",
+          "title": "Гарячі страви",
+          "itemUuids": [
+            "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
+            "7a5ad525-7bf6-4a04-8446-909008be35f5",
+            "b11f6a39-4e89-4418-aa3d-0272291f16cd",
+            "32d4e1c6-057d-423d-b368-115b34d8c1e3"
+          ],
+          "displayItems": [
+            {
+              "uuid": "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
+              "title": "Долма по-авлабарськи",
+              "itemDescription": "Загорнутий в виноградне листя фарш з яловичини та свинини з рисом",
+              "price": 16000
+            },
+            {
+              "uuid": "7a5ad525-7bf6-4a04-8446-909008be35f5",
+              "title": "Чанахі",
+              "itemDescription": "Смажена свинина з овочами в соусі з томатів",
+              "price": 10800
+            },
+            {
+              "uuid": "b11f6a39-4e89-4418-aa3d-0272291f16cd",
+              "title": "Курча тапака",
+              "itemDescription": "Смажене курча заджикою",
+              "price": 20800
+            },
+            {
+              "uuid": "32d4e1c6-057d-423d-b368-115b34d8c1e3",
+              "title": "Оджахурі по-дідубськи",
+              "itemDescription": "Смажена свинина з картоплею, цибулею та часником",
+              "price": 11900
+            }
+          ]
+        },
+        {
+          "uuid": "e68546b1-806c-4a69-a499-5e07c7f2f92a",
+          "title": "Десерт",
+          "itemUuids": [
+            "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
+            "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
+            "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf"
+          ],
+          "displayItems": [
+            {
+              "uuid": "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
+              "title": "Наполеон",
+              "itemDescription": "Класичний наполеон з заварним кремом",
+              "price": 9000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fd75fbe-3fe7-462c-9c87-73d25317ce1f"
+            },
+            {
+              "uuid": "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
+              "title": "Пончик ",
+              "itemDescription": "Тбіліський пончик з заварним кремом",
+              "price": 6400,
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
+            },
+            {
+              "uuid": "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf",
+              "title": "Пахлава",
+              "itemDescription": "Пахлава з горіхами, медом та корицею",
+              "price": 8500
+            }
+          ]
+        },
+        {
+          "uuid": "6c546755-2139-4846-b3b5-509ab00fd3a6",
+          "title": "Хінкалі",
+          "itemUuids": [
+            "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
+            "14a4fad2-a35f-4e2e-916a-12e726c5c435",
+            "a7e42244-e55e-4423-ab39-fd6b9e7d0501"
+          ],
+          "displayItems": [
+            {
+              "uuid": "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
+              "title": "Хінкалі з бараниною",
+              "itemDescription": "Хінкалі з бараниною з кінзою (4 Шт)",
+              "price": 7600
+            },
+            {
+              "uuid": "14a4fad2-a35f-4e2e-916a-12e726c5c435",
+              "title": "Хінкалі міксом яловичини та свинини",
+              "itemDescription": "Хінкалі з міксом яловичини та свинини з кінзою ( 4 шт)",
+              "price": 7600
+            },
+            {
+              "uuid": "a7e42244-e55e-4423-ab39-fd6b9e7d0501",
+              "title": "Хінкалі з сиром сулугуні",
+              "itemDescription": "Хінкалі з сиром сулугуні (4 шт.)",
+              "price": 7200
+            }
+          ]
+        },
+        {
+          "uuid": "bb7162a0-e6b9-476f-946e-d94c24510af3",
+          "title": "Холодні закуски",
+          "itemUuids": [
+            "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
+            "1d155297-983e-474a-b2a4-0b93e1c01bc5",
+            "c27ecd6b-5bed-4708-9394-d498b210ac26"
+          ],
+          "displayItems": [
+            {
+              "uuid": "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
+              "title": "Асорті пхалі",
+              "itemDescription": "Закуска на основі овочів (зелене любіо, морква, буряк, шпинат) з горіховою пастою та кінзою",
+              "price": 10700
+            },
+            {
+              "uuid": "1d155297-983e-474a-b2a4-0b93e1c01bc5",
+              "title": "Бадріджані по-мцхетинськи",
+              "itemDescription": "Смажені баклажани з горіховою пастою",
+              "price": 12200
+            },
+            {
+              "uuid": "c27ecd6b-5bed-4708-9394-d498b210ac26",
+              "title": "Кабачки тбілі",
+              "itemDescription": "Смажені кабачки з томатами та майонезом",
+              "price": 12300
+            }
+          ]
+        },
+        {
+          "uuid": "29643d96-80ec-4acb-b5aa-59b6032c7df0",
+          "title": "Хачапурі",
+          "itemUuids": [
+            "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
+            "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
+            "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
+            "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
+            "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
+            "727510bc-07f2-4845-b434-36974cf54b2e",
+            "920e3253-d85a-44ee-8eef-ab16cb991852"
+          ],
+          "displayItems": [
+            {
+              "uuid": "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
+              "title": "Кубдарі",
+              "itemDescription": "Пиріг з начинкою з яловичини",
+              "price": 13500
+            },
+            {
+              "uuid": "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
+              "title": "Хачапурі тбілісурі",
+              "itemDescription": "Хачапурі з потрійним сиром сулугуні",
+              "price": 19000
+            },
+            {
+              "uuid": "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
+              "title": "Хачапурі по-мегрельскі",
+              "itemDescription": "Хачапурі з подвійним сиром сулугуні",
+              "price": 14200
+            },
+            {
+              "uuid": "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
+              "title": "Хачапурі по-імеретинскі",
+              "itemDescription": "Класичний хачапурі з сиром сулугуні",
+              "price": 13500
+            },
+            {
+              "uuid": "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
+              "title": "Хачапурі по-осетинські",
+              "itemDescription": "Хачапурі з сиром сулугуні та шпинатом",
+              "price": 11400
+            },
+            {
+              "uuid": "727510bc-07f2-4845-b434-36974cf54b2e",
+              "title": "Хачапурі по-аджарські",
+              "itemDescription": "Хачапурі з сиром сулугуні та яєчним жовтком",
+              "price": 14000
+            },
+            {
+              "uuid": "920e3253-d85a-44ee-8eef-ab16cb991852",
+              "title": "Хачапурі лазурі",
+              "itemDescription": "Пиріг з начинкою з яловичини, з копченим сулугуні та томатами",
+              "price": 17900
+            }
+          ]
+        },
+        {
+          "uuid": "0f7de050-4a7c-4031-99d6-473f8a66f3f2",
+          "title": "Гарніри",
+          "itemUuids": [
+            "f74bbf56-bd9e-4093-8f83-d05e250933d5",
+            "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3"
+          ],
+          "displayItems": [
+            {
+              "uuid": "f74bbf56-bd9e-4093-8f83-d05e250933d5",
+              "title": "Картопля по-сванськи",
+              "itemDescription": "Смажена картопля з часником та зеленю",
+              "price": 5200
+            },
+            {
+              "uuid": "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3",
+              "title": "Картопля фрі",
+              "itemDescription": "Класична фрі з кетчупом",
+              "price": 5600
+            }
+          ]
+        },
+        {
+          "uuid": "584fd584-0429-495b-95f4-c72f25bfb0a6",
+          "title": "Приготовлено на вугіллі",
+          "itemUuids": [
+            "4d6a2485-acf0-40e8-a2c8-6229abda4331",
+            "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
+            "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
+            "defe990b-b4db-4264-b655-642e1701f3f1",
+            "01b13691-6cb3-43a8-b527-d2ae0c923f30",
+            "4bc7429a-7780-48b6-b510-b121a999cc36"
+          ],
+          "displayItems": [
+            {
+              "uuid": "4d6a2485-acf0-40e8-a2c8-6229abda4331",
+              "title": "Шашлик зі свинячої вирізки",
+              "itemDescription": "Смажена свиняча вирізка з соусом сацебелі (300/50г.) Ціна вказана за вагусирого м'яса",
+              "price": 32500,
+              "imageUrl": ""
+            },
+            {
+              "uuid": "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
+              "title": "Шашлик з свинячого ошийку",
+              "itemDescription": "Смажений свинячий ошийок з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
+              "price": 22300
+            },
+            {
+              "uuid": "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
+              "title": "Шашлик з курячого філе",
+              "itemDescription": "Смажене куряче філе з соусом сацебелі (250/50г). Ціна вказана за вагу сирого м'яса",
+              "price": 20800
+            },
+            {
+              "uuid": "defe990b-b4db-4264-b655-642e1701f3f1",
+              "title": "Люля-кебаб з яловичини",
+              "itemDescription": "Люля-кебаб з яловичини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
+              "price": 18000
+            },
+            {
+              "uuid": "01b13691-6cb3-43a8-b527-d2ae0c923f30",
+              "title": "Люля-кебаб з баранини",
+              "itemDescription": "Люля-кебаб з баранини з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
+              "price": 19400,
+              "imageUrl": ""
+            },
+            {
+              "uuid": "4bc7429a-7780-48b6-b510-b121a999cc36",
+              "title": "Люля-кебаб з індички та сиру",
+              "itemDescription": "Люля-кебаб з індички та сиру з соусом сацебелі (200/50г). Ціна вказана за вагу сирого м'яса",
+              "price": 18000
+            }
+          ]
+        },
+        {
+          "uuid": "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4",
+          "title": "Напої",
+          "itemUuids": [
+            "f07021d8-cf29-4177-9439-34a60707d557",
+            "0a5e341f-4e04-429c-9fe2-7312757852f8",
+            "e4d3205a-8bce-4264-ae63-d0da90dc7871",
+            "8309db48-0364-40b2-9790-5dccbead27b8",
+            "09d3c38c-28e6-46ba-8249-0838704d3c39",
+            "72dc500d-baeb-44cd-831e-ab319112abe2",
+            "6bb621ae-5984-4cf5-95ff-1b33b90159cb"
+          ],
+          "displayItems": [
+            {
+              "uuid": "f07021d8-cf29-4177-9439-34a60707d557",
+              "title": "Лимонад Натахтарі Тархун 0,5л",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "0a5e341f-4e04-429c-9fe2-7312757852f8",
+              "title": "Лимонад Натахтарі Груша 0,5л",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "e4d3205a-8bce-4264-ae63-d0da90dc7871",
+              "title": "Лимонад Натахтарі Лимон 0,5л",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "8309db48-0364-40b2-9790-5dccbead27b8",
+              "title": "Лимонад Натахтарі Фейхоа 0,5л",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "09d3c38c-28e6-46ba-8249-0838704d3c39",
+              "title": "Лимонад Натахтарі Виноград 0,5л",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "72dc500d-baeb-44cd-831e-ab319112abe2",
+              "title": "Боржомі 0,5",
+              "itemDescription": "",
+              "price": 5800
+            },
+            {
+              "uuid": "6bb621ae-5984-4cf5-95ff-1b33b90159cb",
+              "title": "Боржомі 0,3",
+              "itemDescription": "",
+              "price": 5200
+            }
+          ]
+        }
+      ]
+    },
+    "4d089a49-ab96-4342-bddd-58995be840ee": {
+      "itemsMap": {
+        "f33dbf78-1be6-4ac5-a43f-2b39d2881450": {
+          "uuid": "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
+          "title": "Lemonade Natahtari Feijoa",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "675d4173-c63f-4bc0-99d1-ca6c02a2554b": {
+          "uuid": "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
+          "title": "Chicken broth",
+          "itemDescription": "Broth with chicken, handmade noodles and egg",
+          "price": 8400
+        },
+        "bfd52c86-06f8-452c-a14c-6ba5f74b93e0": {
+          "uuid": "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
+          "title": "Shashlik from pork shish",
+          "itemDescription": "Pork shish with satsebeli sause (300/50g.) The price is based on the weight of raw meet",
+          "price": 32500,
+          "imageUrl": ""
+        },
+        "7b869bbe-071c-42cb-a262-ac77b27c8383": {
+          "uuid": "7b869bbe-071c-42cb-a262-ac77b27c8383",
+          "title": "Shashlik from chicken",
+          "itemDescription": "Chicken with satsebeli sause (250/50г) The price is based on the weight of raw meat",
+          "price": 20800
+        },
+        "cc7167b8-9dc9-4515-858e-85066321d5fb": {
+          "uuid": "cc7167b8-9dc9-4515-858e-85066321d5fb",
+          "title": "Lemonade Natahtari Pear 0.5l",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "995ec41e-7c5e-4ecf-8970-b456e012bb0d": {
+          "uuid": "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
+          "title": "Kubdari",
+          "itemDescription": "Pie with beef",
+          "price": 13500
+        },
+        "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8": {
+          "uuid": "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
+          "title": "Kharcho with veal",
+          "itemDescription": "Soup with veal, rice, and herbs",
+          "price": 9000
+        },
+        "b4162bce-ef32-424c-8054-5770a992b12f": {
+          "uuid": "b4162bce-ef32-424c-8054-5770a992b12f",
+          "title": "Donut",
+          "itemDescription": "Tbilisi donut with custard ",
+          "price": 6400,
+          "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
+        },
+        "308c81c0-8dfd-489c-9445-52e2b8caf0c6": {
+          "uuid": "308c81c0-8dfd-489c-9445-52e2b8caf0c6",
+          "title": "Khinkali with cheese",
+          "itemDescription": "Khinkali with cheese suluguni (4 pc.)",
+          "price": 7200
+        },
+        "219343aa-5956-4943-9c34-75abd181a6d1": {
+          "uuid": "219343aa-5956-4943-9c34-75abd181a6d1",
+          "title": "Lemonade Natahtari Tarragon 0.5l",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "61478c36-7c49-4349-ab26-03472210b01f": {
+          "uuid": "61478c36-7c49-4349-ab26-03472210b01f",
+          "title": "Avlabari dolma",
+          "itemDescription": "Beef and pork with rice wrapped in grape leaf",
+          "price": 16000
+        },
+        "76aa2919-9e93-4887-8f2b-6af958f75908": {
+          "uuid": "76aa2919-9e93-4887-8f2b-6af958f75908",
+          "title": "Kebab of turkey and cheese",
+          "itemDescription": "Turkey kebab with cheese and satsebeli sause (200/50г) The price is based on the weight of raw meat",
+          "price": 18000
+        },
+        "c990a3c0-298b-45fb-bb4f-d3830881ceb2": {
+          "uuid": "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
+          "title": "Ossetian khachapuri",
+          "itemDescription": "Khachapuri with suluguni cheese and spinach",
+          "price": 11400
+        },
+        "eb4972f9-4b53-49d4-bac9-0a35c69da455": {
+          "uuid": "eb4972f9-4b53-49d4-bac9-0a35c69da455",
+          "title": "Tbili zucchini",
+          "itemDescription": "Fried zucchini with fresh tomato and mayo",
+          "price": 12300
+        },
+        "c7a83f21-de89-4077-9d00-b8a1b159fe7c": {
+          "uuid": "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
+          "title": "Imeruli khachapuri",
+          "itemDescription": "Khachapuri with suluguni cheese",
+          "price": 13500
+        },
+        "03b08417-83cb-4be9-975c-4affb1eac981": {
+          "uuid": "03b08417-83cb-4be9-975c-4affb1eac981",
+          "title": "Baked potatoes",
+          "itemDescription": "Baked potatoes with garlic and green",
+          "price": 5200
+        },
+        "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361": {
+          "uuid": "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361",
+          "title": "Vegetable soup",
+          "itemDescription": "Soup with eight kinds of vegetables",
+          "price": 7500
+        },
+        "144d4fc4-3994-457f-8756-5fc7c6a3a8a8": {
+          "uuid": "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
+          "title": "Lemonade Natahtari Lemon 0.5l",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "15e08d06-f388-4a40-a92a-c5cb43c6fd49": {
+          "uuid": "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
+          "title": "Napoleon cake",
+          "itemDescription": "",
+          "price": 9000,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4adf9e74-d3e8-487f-bedc-4b4b3c2e4307"
+        },
+        "2cb2f097-fba9-4d3f-bb21-922cd2dd3050": {
+          "uuid": "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
+          "title": "Tbilisuri khachapuri",
+          "itemDescription": "Khachapuri with tripple suluguni cheese",
+          "price": 19000
+        },
+        "9fc9abb6-f7c1-4821-bd88-8c265e3d9866": {
+          "uuid": "9fc9abb6-f7c1-4821-bd88-8c265e3d9866",
+          "title": "French fries",
+          "itemDescription": "French fries with ketchup",
+          "price": 5600
+        },
+        "736b1870-8713-4f45-99a2-952d41625d89": {
+          "uuid": "736b1870-8713-4f45-99a2-952d41625d89",
+          "title": "Borjomi 0.5l",
+          "itemDescription": "",
+          "price": 5800
+        },
+        "172c6650-5f44-483f-b35c-b615f0b474be": {
+          "uuid": "172c6650-5f44-483f-b35c-b615f0b474be",
+          "title": "Kebab of lamb",
+          "itemDescription": "Lamb kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
+          "price": 19400
+        },
+        "58eee4bd-d2a8-42e3-b36f-29696a9124af": {
+          "uuid": "58eee4bd-d2a8-42e3-b36f-29696a9124af",
+          "title": "Megruli khachapuri",
+          "itemDescription": "Khachapuri with double suluguni cheese",
+          "price": 14200
+        },
+        "3212c033-aea3-47a1-9d1d-b8031e97315f": {
+          "uuid": "3212c033-aea3-47a1-9d1d-b8031e97315f",
+          "title": "Shashlik from pork tenderloin",
+          "itemDescription": "Pork tenderloin with satsebeli sause (250/50г) The price is based on the weight of raw meat",
+          "price": 22300
+        },
+        "599dec63-2256-4935-8671-e8e48033a4d7": {
+          "uuid": "599dec63-2256-4935-8671-e8e48033a4d7",
+          "title": "Adjaruli khachapuri",
+          "itemDescription": "Khachapuri with suluguni cheese and yolk",
+          "price": 14000
+        },
+        "4d1950a5-abba-4d1d-9195-03a9583562d7": {
+          "uuid": "4d1950a5-abba-4d1d-9195-03a9583562d7",
+          "title": "Baklava",
+          "itemDescription": "Baklava with walnuts,honey and cinnamon",
+          "price": 8500
+        },
+        "ba1bd79b-8231-4c61-aaaa-919c59efda4e": {
+          "uuid": "ba1bd79b-8231-4c61-aaaa-919c59efda4e",
+          "title": "Urban salad",
+          "itemDescription": "Roasted vegetables with walnut paste and fresh coriander.",
+          "price": 12100
+        },
+        "812c71f4-3854-4105-b63a-6208b541c9e2": {
+          "uuid": "812c71f4-3854-4105-b63a-6208b541c9e2",
+          "title": "Vake salad",
+          "itemDescription": "Salad with chiken fillet, champignons, fresh vegetables and cured cranberry",
+          "price": 11800
+        },
+        "c567265c-73ed-4d2c-9071-37e635089561": {
+          "uuid": "c567265c-73ed-4d2c-9071-37e635089561",
+          "title": "Chicken tapaka",
+          "itemDescription": "Roasted chicken with adjika",
+          "price": 20800
+        },
+        "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299": {
+          "uuid": "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
+          "title": "Khinkali with mix of beef and pork",
+          "itemDescription": "Khinkali with mix of beef and pork, with cilanto (4pc.)",
+          "price": 7600
+        },
+        "286e9ed5-8fbe-4867-99d3-2f13645876df": {
+          "uuid": "286e9ed5-8fbe-4867-99d3-2f13645876df",
+          "title": "Tbilisi salad",
+          "itemDescription": "Fresh vegetables with onion and walnut paste.",
+          "price": 11200
+        },
+        "375233bf-5772-4e47-9668-a6882b1eb82b": {
+          "uuid": "375233bf-5772-4e47-9668-a6882b1eb82b",
+          "title": "Pkhali mix",
+          "itemDescription": "Snack on the basis of vegetables (green lobio, carrot, beetroot, spinach) with with walnut paste and cilantro",
+          "price": 10700
+        },
+        "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a": {
+          "uuid": "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
+          "title": "Fried badrijani",
+          "itemDescription": "Fried eggplants with walnut paste ",
+          "price": 12200
+        },
+        "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f": {
+          "uuid": "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
+          "title": "Chanakhi",
+          "itemDescription": "pork roast with vegetables in tomato sauce",
+          "price": 10800
+        },
+        "80b207eb-29a3-4d67-8274-42244199fae4": {
+          "uuid": "80b207eb-29a3-4d67-8274-42244199fae4",
+          "title": "Lemonade Natahtari Saperavi 0.5l",
+          "itemDescription": "",
+          "price": 6500
+        },
+        "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa": {
+          "uuid": "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa",
+          "title": "Lazuri khachapuri",
+          "itemDescription": "Pie with beef, smoked suluguni cheese and tomatoes",
+          "price": 17900
+        },
+        "99622a32-fa02-4a9c-b78a-6aaf68ff7307": {
+          "uuid": "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
+          "title": "Khinkali with lamb",
+          "itemDescription": "Khinkali with lamb and cilantro (4pc.)",
+          "price": 7600
+        },
+        "e0446900-895e-4deb-bbe6-0aa302279198": {
+          "uuid": "e0446900-895e-4deb-bbe6-0aa302279198",
+          "title": "Borjomi 0.3l",
+          "itemDescription": "",
+          "price": 5200
+        },
+        "6c784003-1e5a-448f-abec-2f4fb0f64f26": {
+          "uuid": "6c784003-1e5a-448f-abec-2f4fb0f64f26",
+          "title": "Didube odzhahuri",
+          "itemDescription": "Pork roast with potatoes, onion and garlic",
+          "price": 12300
+        },
+        "c75b070f-ad16-418d-ab9f-b6f6e322a860": {
+          "uuid": "c75b070f-ad16-418d-ab9f-b6f6e322a860",
+          "title": "Kebab of beef",
+          "itemDescription": "Beef kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
+          "price": 18000
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "1eb80255-609b-442d-8319-572ce09aec77",
+          "title": "Soup",
+          "itemUuids": [
+            "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
+            "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
+            "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361"
+          ],
+          "displayItems": [
+            {
+              "uuid": "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
+              "title": "Kharcho with veal",
+              "itemDescription": "Soup with veal, rice, and herbs",
+              "price": 9000
+            },
+            {
+              "uuid": "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
+              "title": "Chicken broth",
+              "itemDescription": "Broth with chicken, handmade noodles and egg",
+              "price": 8400
+            },
+            {
+              "uuid": "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361",
+              "title": "Vegetable soup",
+              "itemDescription": "Soup with eight kinds of vegetables",
+              "price": 7500
+            }
+          ]
+        },
+        {
+          "uuid": "7121254a-1eb1-40b5-8d49-90fadda3a234",
+          "title": "Salads",
+          "itemUuids": [
+            "812c71f4-3854-4105-b63a-6208b541c9e2",
+            "286e9ed5-8fbe-4867-99d3-2f13645876df",
+            "ba1bd79b-8231-4c61-aaaa-919c59efda4e"
+          ],
+          "displayItems": [
+            {
+              "uuid": "812c71f4-3854-4105-b63a-6208b541c9e2",
+              "title": "Vake salad",
+              "itemDescription": "Salad with chiken fillet, champignons, fresh vegetables and cured cranberry",
+              "price": 11800
+            },
+            {
+              "uuid": "286e9ed5-8fbe-4867-99d3-2f13645876df",
+              "title": "Tbilisi salad",
+              "itemDescription": "Fresh vegetables with onion and walnut paste.",
+              "price": 11200
+            },
+            {
+              "uuid": "ba1bd79b-8231-4c61-aaaa-919c59efda4e",
+              "title": "Urban salad",
+              "itemDescription": "Roasted vegetables with walnut paste and fresh coriander.",
+              "price": 12100
+            }
+          ]
+        },
+        {
+          "uuid": "b02238eb-67df-48c9-82e7-e61837f8ac69",
+          "title": "Hot Courses",
+          "itemUuids": [
+            "61478c36-7c49-4349-ab26-03472210b01f",
+            "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
+            "c567265c-73ed-4d2c-9071-37e635089561",
+            "6c784003-1e5a-448f-abec-2f4fb0f64f26"
+          ],
+          "displayItems": [
+            {
+              "uuid": "61478c36-7c49-4349-ab26-03472210b01f",
+              "title": "Avlabari dolma",
+              "itemDescription": "Beef and pork with rice wrapped in grape leaf",
+              "price": 16000
+            },
+            {
+              "uuid": "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
+              "title": "Chanakhi",
+              "itemDescription": "pork roast with vegetables in tomato sauce",
+              "price": 10800
+            },
+            {
+              "uuid": "c567265c-73ed-4d2c-9071-37e635089561",
+              "title": "Chicken tapaka",
+              "itemDescription": "Roasted chicken with adjika",
+              "price": 20800
+            },
+            {
+              "uuid": "6c784003-1e5a-448f-abec-2f4fb0f64f26",
+              "title": "Didube odzhahuri",
+              "itemDescription": "Pork roast with potatoes, onion and garlic",
+              "price": 12300
+            }
+          ]
+        },
+        {
+          "uuid": "9f399700-d186-43a9-b889-3859190a094c",
+          "title": "Dessert",
+          "itemUuids": [
+            "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
+            "b4162bce-ef32-424c-8054-5770a992b12f",
+            "4d1950a5-abba-4d1d-9195-03a9583562d7"
+          ],
+          "displayItems": [
+            {
+              "uuid": "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
+              "title": "Napoleon cake",
+              "itemDescription": "",
+              "price": 9000,
+              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4adf9e74-d3e8-487f-bedc-4b4b3c2e4307"
+            },
+            {
+              "uuid": "b4162bce-ef32-424c-8054-5770a992b12f",
+              "title": "Donut",
+              "itemDescription": "Tbilisi donut with custard ",
+              "price": 6400,
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
+            },
+            {
+              "uuid": "4d1950a5-abba-4d1d-9195-03a9583562d7",
+              "title": "Baklava",
+              "itemDescription": "Baklava with walnuts,honey and cinnamon",
+              "price": 8500
+            }
+          ]
+        },
+        {
+          "uuid": "165f38c3-351d-47e2-a226-dd8c2946b2ca",
+          "title": "Khinkali",
+          "itemUuids": [
+            "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
+            "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
+            "308c81c0-8dfd-489c-9445-52e2b8caf0c6"
+          ],
+          "displayItems": [
+            {
+              "uuid": "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
+              "title": "Khinkali with lamb",
+              "itemDescription": "Khinkali with lamb and cilantro (4pc.)",
+              "price": 7600
+            },
+            {
+              "uuid": "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
+              "title": "Khinkali with mix of beef and pork",
+              "itemDescription": "Khinkali with mix of beef and pork, with cilanto (4pc.)",
+              "price": 7600
+            },
+            {
+              "uuid": "308c81c0-8dfd-489c-9445-52e2b8caf0c6",
+              "title": "Khinkali with cheese",
+              "itemDescription": "Khinkali with cheese suluguni (4 pc.)",
+              "price": 7200
+            }
+          ]
+        },
+        {
+          "uuid": "28e6a043-d0ac-4780-ad99-e0b21428d0b0",
+          "title": "Cold snacks",
+          "itemUuids": [
+            "375233bf-5772-4e47-9668-a6882b1eb82b",
+            "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
+            "eb4972f9-4b53-49d4-bac9-0a35c69da455"
+          ],
+          "displayItems": [
+            {
+              "uuid": "375233bf-5772-4e47-9668-a6882b1eb82b",
+              "title": "Pkhali mix",
+              "itemDescription": "Snack on the basis of vegetables (green lobio, carrot, beetroot, spinach) with with walnut paste and cilantro",
+              "price": 10700
+            },
+            {
+              "uuid": "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
+              "title": "Fried badrijani",
+              "itemDescription": "Fried eggplants with walnut paste ",
+              "price": 12200
+            },
+            {
+              "uuid": "eb4972f9-4b53-49d4-bac9-0a35c69da455",
+              "title": "Tbili zucchini",
+              "itemDescription": "Fried zucchini with fresh tomato and mayo",
+              "price": 12300
+            }
+          ]
+        },
+        {
+          "uuid": "7af92ca4-9763-4edf-bbbc-c67b9be1a323",
+          "title": "Khachapuri",
+          "itemUuids": [
+            "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
+            "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
+            "58eee4bd-d2a8-42e3-b36f-29696a9124af",
+            "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
+            "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
+            "599dec63-2256-4935-8671-e8e48033a4d7",
+            "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa"
+          ],
+          "displayItems": [
+            {
+              "uuid": "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
+              "title": "Kubdari",
+              "itemDescription": "Pie with beef",
+              "price": 13500
+            },
+            {
+              "uuid": "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
+              "title": "Tbilisuri khachapuri",
+              "itemDescription": "Khachapuri with tripple suluguni cheese",
+              "price": 19000
+            },
+            {
+              "uuid": "58eee4bd-d2a8-42e3-b36f-29696a9124af",
+              "title": "Megruli khachapuri",
+              "itemDescription": "Khachapuri with double suluguni cheese",
+              "price": 14200
+            },
+            {
+              "uuid": "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
+              "title": "Imeruli khachapuri",
+              "itemDescription": "Khachapuri with suluguni cheese",
+              "price": 13500
+            },
+            {
+              "uuid": "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
+              "title": "Ossetian khachapuri",
+              "itemDescription": "Khachapuri with suluguni cheese and spinach",
+              "price": 11400
+            },
+            {
+              "uuid": "599dec63-2256-4935-8671-e8e48033a4d7",
+              "title": "Adjaruli khachapuri",
+              "itemDescription": "Khachapuri with suluguni cheese and yolk",
+              "price": 14000
+            },
+            {
+              "uuid": "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa",
+              "title": "Lazuri khachapuri",
+              "itemDescription": "Pie with beef, smoked suluguni cheese and tomatoes",
+              "price": 17900
+            }
+          ]
+        },
+        {
+          "uuid": "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7",
+          "title": "Side dishes",
+          "itemUuids": [
+            "03b08417-83cb-4be9-975c-4affb1eac981",
+            "9fc9abb6-f7c1-4821-bd88-8c265e3d9866"
+          ],
+          "displayItems": [
+            {
+              "uuid": "03b08417-83cb-4be9-975c-4affb1eac981",
+              "title": "Baked potatoes",
+              "itemDescription": "Baked potatoes with garlic and green",
+              "price": 5200
+            },
+            {
+              "uuid": "9fc9abb6-f7c1-4821-bd88-8c265e3d9866",
+              "title": "French fries",
+              "itemDescription": "French fries with ketchup",
+              "price": 5600
+            }
+          ]
+        },
+        {
+          "uuid": "1bdef48c-3761-4d7f-a5a1-ad25956a2138",
+          "title": "Cooked on the charcoal",
+          "itemUuids": [
+            "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
+            "3212c033-aea3-47a1-9d1d-b8031e97315f",
+            "7b869bbe-071c-42cb-a262-ac77b27c8383",
+            "c75b070f-ad16-418d-ab9f-b6f6e322a860",
+            "172c6650-5f44-483f-b35c-b615f0b474be",
+            "76aa2919-9e93-4887-8f2b-6af958f75908"
+          ],
+          "displayItems": [
+            {
+              "uuid": "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
+              "title": "Shashlik from pork shish",
+              "itemDescription": "Pork shish with satsebeli sause (300/50g.) The price is based on the weight of raw meet",
+              "price": 32500,
+              "imageUrl": ""
+            },
+            {
+              "uuid": "3212c033-aea3-47a1-9d1d-b8031e97315f",
+              "title": "Shashlik from pork tenderloin",
+              "itemDescription": "Pork tenderloin with satsebeli sause (250/50г) The price is based on the weight of raw meat",
+              "price": 22300
+            },
+            {
+              "uuid": "7b869bbe-071c-42cb-a262-ac77b27c8383",
+              "title": "Shashlik from chicken",
+              "itemDescription": "Chicken with satsebeli sause (250/50г) The price is based on the weight of raw meat",
+              "price": 20800
+            },
+            {
+              "uuid": "c75b070f-ad16-418d-ab9f-b6f6e322a860",
+              "title": "Kebab of beef",
+              "itemDescription": "Beef kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
+              "price": 18000
+            },
+            {
+              "uuid": "172c6650-5f44-483f-b35c-b615f0b474be",
+              "title": "Kebab of lamb",
+              "itemDescription": "Lamb kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
+              "price": 19400
+            },
+            {
+              "uuid": "76aa2919-9e93-4887-8f2b-6af958f75908",
+              "title": "Kebab of turkey and cheese",
+              "itemDescription": "Turkey kebab with cheese and satsebeli sause (200/50г) The price is based on the weight of raw meat",
+              "price": 18000
+            }
+          ]
+        },
+        {
+          "uuid": "34e91361-bae4-459b-9fa2-b5580d147714",
+          "title": "Drinks",
+          "itemUuids": [
+            "219343aa-5956-4943-9c34-75abd181a6d1",
+            "cc7167b8-9dc9-4515-858e-85066321d5fb",
+            "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
+            "80b207eb-29a3-4d67-8274-42244199fae4",
+            "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
+            "736b1870-8713-4f45-99a2-952d41625d89",
+            "e0446900-895e-4deb-bbe6-0aa302279198"
+          ],
+          "displayItems": [
+            {
+              "uuid": "219343aa-5956-4943-9c34-75abd181a6d1",
+              "title": "Lemonade Natahtari Tarragon 0.5l",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "cc7167b8-9dc9-4515-858e-85066321d5fb",
+              "title": "Lemonade Natahtari Pear 0.5l",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
+              "title": "Lemonade Natahtari Lemon 0.5l",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "80b207eb-29a3-4d67-8274-42244199fae4",
+              "title": "Lemonade Natahtari Saperavi 0.5l",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
+              "title": "Lemonade Natahtari Feijoa",
+              "itemDescription": "",
+              "price": 6500
+            },
+            {
+              "uuid": "736b1870-8713-4f45-99a2-952d41625d89",
+              "title": "Borjomi 0.5l",
+              "itemDescription": "",
+              "price": 5800
+            },
+            {
+              "uuid": "e0446900-895e-4deb-bbe6-0aa302279198",
+              "title": "Borjomi 0.3l",
+              "itemDescription": "",
+              "price": 5200
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "subsectionsMap": {
+    "e68546b1-806c-4a69-a499-5e07c7f2f92a": {
+      "uuid": "e68546b1-806c-4a69-a499-5e07c7f2f92a",
+      "title": "Десерт",
+      "itemUuids": [
+        "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
+        "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
+        "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf"
+      ],
+      "displayItems": [
+        {
+          "uuid": "35f75e3d-14a4-4cff-bf88-bdf25ef43518",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f0fbc54c-6f9c-41df-a85f-75cbeec9176e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "27a5c3b1-0b11-43b5-814a-b53a2f8ecddf",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "9936e983-4fce-4e22-abc5-bd2aabad7f1b": {
+      "uuid": "9936e983-4fce-4e22-abc5-bd2aabad7f1b",
+      "title": "Салат",
+      "itemUuids": [
+        "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
+        "aecd4b11-4e5c-4882-8cc2-8900554fe318",
+        "50756efa-318a-48d5-b8e5-8f1ac47c2e35"
+      ],
+      "displayItems": [
+        {
+          "uuid": "2af3a2d7-39e7-402f-a2a7-2c04fdcf2168",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "aecd4b11-4e5c-4882-8cc2-8900554fe318",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "50756efa-318a-48d5-b8e5-8f1ac47c2e35",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "28e6a043-d0ac-4780-ad99-e0b21428d0b0": {
+      "uuid": "28e6a043-d0ac-4780-ad99-e0b21428d0b0",
+      "title": "Cold snacks",
+      "itemUuids": [
+        "375233bf-5772-4e47-9668-a6882b1eb82b",
+        "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
+        "eb4972f9-4b53-49d4-bac9-0a35c69da455"
+      ],
+      "displayItems": [
+        {
+          "uuid": "375233bf-5772-4e47-9668-a6882b1eb82b",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "eb4972f9-4b53-49d4-bac9-0a35c69da455",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "34e91361-bae4-459b-9fa2-b5580d147714": {
+      "uuid": "34e91361-bae4-459b-9fa2-b5580d147714",
+      "title": "Drinks",
+      "itemUuids": [
+        "219343aa-5956-4943-9c34-75abd181a6d1",
+        "cc7167b8-9dc9-4515-858e-85066321d5fb",
+        "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
+        "80b207eb-29a3-4d67-8274-42244199fae4",
+        "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
+        "736b1870-8713-4f45-99a2-952d41625d89",
+        "e0446900-895e-4deb-bbe6-0aa302279198"
+      ],
+      "displayItems": [
+        {
+          "uuid": "219343aa-5956-4943-9c34-75abd181a6d1",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cc7167b8-9dc9-4515-858e-85066321d5fb",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "80b207eb-29a3-4d67-8274-42244199fae4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "736b1870-8713-4f45-99a2-952d41625d89",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e0446900-895e-4deb-bbe6-0aa302279198",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "165f38c3-351d-47e2-a226-dd8c2946b2ca": {
+      "uuid": "165f38c3-351d-47e2-a226-dd8c2946b2ca",
+      "title": "Khinkali",
+      "itemUuids": [
+        "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
+        "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
+        "308c81c0-8dfd-489c-9445-52e2b8caf0c6"
+      ],
+      "displayItems": [
+        {
+          "uuid": "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "308c81c0-8dfd-489c-9445-52e2b8caf0c6",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "7af92ca4-9763-4edf-bbbc-c67b9be1a323": {
+      "uuid": "7af92ca4-9763-4edf-bbbc-c67b9be1a323",
+      "title": "Khachapuri",
+      "itemUuids": [
+        "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
+        "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
+        "58eee4bd-d2a8-42e3-b36f-29696a9124af",
+        "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
+        "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
+        "599dec63-2256-4935-8671-e8e48033a4d7",
+        "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa"
+      ],
+      "displayItems": [
+        {
+          "uuid": "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "58eee4bd-d2a8-42e3-b36f-29696a9124af",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "599dec63-2256-4935-8671-e8e48033a4d7",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "b02238eb-67df-48c9-82e7-e61837f8ac69": {
+      "uuid": "b02238eb-67df-48c9-82e7-e61837f8ac69",
+      "title": "Hot Courses",
+      "itemUuids": [
+        "61478c36-7c49-4349-ab26-03472210b01f",
+        "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
+        "c567265c-73ed-4d2c-9071-37e635089561",
+        "6c784003-1e5a-448f-abec-2f4fb0f64f26"
+      ],
+      "displayItems": [
+        {
+          "uuid": "61478c36-7c49-4349-ab26-03472210b01f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c567265c-73ed-4d2c-9071-37e635089561",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6c784003-1e5a-448f-abec-2f4fb0f64f26",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "bb7162a0-e6b9-476f-946e-d94c24510af3": {
+      "uuid": "bb7162a0-e6b9-476f-946e-d94c24510af3",
+      "title": "Холодні закуски",
+      "itemUuids": [
+        "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
+        "1d155297-983e-474a-b2a4-0b93e1c01bc5",
+        "c27ecd6b-5bed-4708-9394-d498b210ac26"
+      ],
+      "displayItems": [
+        {
+          "uuid": "caf5bdb9-2259-4a71-8abe-63fcc143cc5d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1d155297-983e-474a-b2a4-0b93e1c01bc5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c27ecd6b-5bed-4708-9394-d498b210ac26",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "7121254a-1eb1-40b5-8d49-90fadda3a234": {
+      "uuid": "7121254a-1eb1-40b5-8d49-90fadda3a234",
+      "title": "Salads",
+      "itemUuids": [
+        "812c71f4-3854-4105-b63a-6208b541c9e2",
+        "286e9ed5-8fbe-4867-99d3-2f13645876df",
+        "ba1bd79b-8231-4c61-aaaa-919c59efda4e"
+      ],
+      "displayItems": [
+        {
+          "uuid": "812c71f4-3854-4105-b63a-6208b541c9e2",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "286e9ed5-8fbe-4867-99d3-2f13645876df",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ba1bd79b-8231-4c61-aaaa-919c59efda4e",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "82655d76-eeeb-4a53-b3ae-bdc05d62b217": {
+      "uuid": "82655d76-eeeb-4a53-b3ae-bdc05d62b217",
+      "title": "Гарячі страви",
+      "itemUuids": [
+        "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
+        "7a5ad525-7bf6-4a04-8446-909008be35f5",
+        "b11f6a39-4e89-4418-aa3d-0272291f16cd",
+        "32d4e1c6-057d-423d-b368-115b34d8c1e3"
+      ],
+      "displayItems": [
+        {
+          "uuid": "0c30dc79-0a30-4e4e-aba9-83914030b1b2",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7a5ad525-7bf6-4a04-8446-909008be35f5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b11f6a39-4e89-4418-aa3d-0272291f16cd",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "32d4e1c6-057d-423d-b368-115b34d8c1e3",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "9f399700-d186-43a9-b889-3859190a094c": {
+      "uuid": "9f399700-d186-43a9-b889-3859190a094c",
+      "title": "Dessert",
+      "itemUuids": [
+        "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
+        "b4162bce-ef32-424c-8054-5770a992b12f",
+        "4d1950a5-abba-4d1d-9195-03a9583562d7"
+      ],
+      "displayItems": [
+        {
+          "uuid": "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b4162bce-ef32-424c-8054-5770a992b12f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4d1950a5-abba-4d1d-9195-03a9583562d7",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7": {
+      "uuid": "9f4c50b7-b057-4d8c-9bde-8db32e9d08c7",
+      "title": "Side dishes",
+      "itemUuids": [
+        "03b08417-83cb-4be9-975c-4affb1eac981",
+        "9fc9abb6-f7c1-4821-bd88-8c265e3d9866"
+      ],
+      "displayItems": [
+        {
+          "uuid": "03b08417-83cb-4be9-975c-4affb1eac981",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9fc9abb6-f7c1-4821-bd88-8c265e3d9866",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "1bdef48c-3761-4d7f-a5a1-ad25956a2138": {
+      "uuid": "1bdef48c-3761-4d7f-a5a1-ad25956a2138",
+      "title": "Cooked on the charcoal",
+      "itemUuids": [
+        "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
+        "3212c033-aea3-47a1-9d1d-b8031e97315f",
+        "7b869bbe-071c-42cb-a262-ac77b27c8383",
+        "c75b070f-ad16-418d-ab9f-b6f6e322a860",
+        "172c6650-5f44-483f-b35c-b615f0b474be",
+        "76aa2919-9e93-4887-8f2b-6af958f75908"
+      ],
+      "displayItems": [
+        {
+          "uuid": "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3212c033-aea3-47a1-9d1d-b8031e97315f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7b869bbe-071c-42cb-a262-ac77b27c8383",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c75b070f-ad16-418d-ab9f-b6f6e322a860",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "172c6650-5f44-483f-b35c-b615f0b474be",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "76aa2919-9e93-4887-8f2b-6af958f75908",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4": {
+      "uuid": "fdcd0269-22ce-4b3b-b7f4-2b2b635172d4",
+      "title": "Напої",
+      "itemUuids": [
+        "f07021d8-cf29-4177-9439-34a60707d557",
+        "0a5e341f-4e04-429c-9fe2-7312757852f8",
+        "e4d3205a-8bce-4264-ae63-d0da90dc7871",
+        "8309db48-0364-40b2-9790-5dccbead27b8",
+        "09d3c38c-28e6-46ba-8249-0838704d3c39",
+        "72dc500d-baeb-44cd-831e-ab319112abe2",
+        "6bb621ae-5984-4cf5-95ff-1b33b90159cb"
+      ],
+      "displayItems": [
+        {
+          "uuid": "f07021d8-cf29-4177-9439-34a60707d557",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0a5e341f-4e04-429c-9fe2-7312757852f8",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e4d3205a-8bce-4264-ae63-d0da90dc7871",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8309db48-0364-40b2-9790-5dccbead27b8",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "09d3c38c-28e6-46ba-8249-0838704d3c39",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "72dc500d-baeb-44cd-831e-ab319112abe2",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6bb621ae-5984-4cf5-95ff-1b33b90159cb",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "584fd584-0429-495b-95f4-c72f25bfb0a6": {
+      "uuid": "584fd584-0429-495b-95f4-c72f25bfb0a6",
+      "title": "Приготовлено на вугіллі",
+      "itemUuids": [
+        "4d6a2485-acf0-40e8-a2c8-6229abda4331",
+        "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
+        "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
+        "defe990b-b4db-4264-b655-642e1701f3f1",
+        "01b13691-6cb3-43a8-b527-d2ae0c923f30",
+        "4bc7429a-7780-48b6-b510-b121a999cc36"
+      ],
+      "displayItems": [
+        {
+          "uuid": "4d6a2485-acf0-40e8-a2c8-6229abda4331",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4b5068d3-60bf-4b08-80f2-947f7fcccdec",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7ad5320e-fa6b-4bf7-bcbd-42e2a81e303f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "defe990b-b4db-4264-b655-642e1701f3f1",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "01b13691-6cb3-43a8-b527-d2ae0c923f30",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4bc7429a-7780-48b6-b510-b121a999cc36",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "53bc2fe8-5853-4325-9f05-c000d093bcab": {
+      "uuid": "53bc2fe8-5853-4325-9f05-c000d093bcab",
+      "title": "Суп",
+      "itemUuids": [
+        "777b56c1-bb40-4720-9ff4-685afc87ad68",
+        "9f5770a0-497c-4521-9411-290723275e69",
+        "c5491abb-5ac5-49fa-81c5-ddf9faf092df"
+      ],
+      "displayItems": [
+        {
+          "uuid": "777b56c1-bb40-4720-9ff4-685afc87ad68",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9f5770a0-497c-4521-9411-290723275e69",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c5491abb-5ac5-49fa-81c5-ddf9faf092df",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "1eb80255-609b-442d-8319-572ce09aec77": {
+      "uuid": "1eb80255-609b-442d-8319-572ce09aec77",
+      "title": "Soup",
+      "itemUuids": [
+        "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
+        "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
+        "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361"
+      ],
+      "displayItems": [
+        {
+          "uuid": "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "6c546755-2139-4846-b3b5-509ab00fd3a6": {
+      "uuid": "6c546755-2139-4846-b3b5-509ab00fd3a6",
+      "title": "Хінкалі",
+      "itemUuids": [
+        "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
+        "14a4fad2-a35f-4e2e-916a-12e726c5c435",
+        "a7e42244-e55e-4423-ab39-fd6b9e7d0501"
+      ],
+      "displayItems": [
+        {
+          "uuid": "cd8a3f6d-96cc-4de9-806e-fef88abc3dea",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "14a4fad2-a35f-4e2e-916a-12e726c5c435",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a7e42244-e55e-4423-ab39-fd6b9e7d0501",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "29643d96-80ec-4acb-b5aa-59b6032c7df0": {
+      "uuid": "29643d96-80ec-4acb-b5aa-59b6032c7df0",
+      "title": "Хачапурі",
+      "itemUuids": [
+        "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
+        "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
+        "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
+        "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
+        "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
+        "727510bc-07f2-4845-b434-36974cf54b2e",
+        "920e3253-d85a-44ee-8eef-ab16cb991852"
+      ],
+      "displayItems": [
+        {
+          "uuid": "edbd96b7-ec92-4d93-971d-b82a0b99ce8c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "6e705561-20f6-4c4e-83fa-83e9f84bd38f",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1b47c0ef-f0ae-454a-98f1-4b665782dd15",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e4d1f5cc-5640-4958-9a57-84205fa7f95e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "10b8c553-1726-4e92-8ced-b31cd65c6fa9",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "727510bc-07f2-4845-b434-36974cf54b2e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "920e3253-d85a-44ee-8eef-ab16cb991852",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "0f7de050-4a7c-4031-99d6-473f8a66f3f2": {
+      "uuid": "0f7de050-4a7c-4031-99d6-473f8a66f3f2",
+      "title": "Гарніри",
+      "itemUuids": [
+        "f74bbf56-bd9e-4093-8f83-d05e250933d5",
+        "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3"
+      ],
+      "displayItems": [
+        {
+          "uuid": "f74bbf56-bd9e-4093-8f83-d05e250933d5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "29dfa7c3-22d7-418b-a8c1-3db1d97bfaf3",
+          "type": "ITEM"
+        }
+      ]
+    }
+  },
+  "location": {
+    "latitude": 50.4494116,
+    "longitude": 30.4914352,
+    "address": {
+      "address1": "Dmytrivska St, 9-11",
+      "aptOrSuite": "",
+      "city": "Kyiv",
+      "country": "UA",
+      "postalCode": "02000",
+      "region": "Kyiv city",
+      "formattedAddress": "Dmytrivska St, 9-11, Kyiv, Kyiv city 02000"
+    }
+  },
+  "publicContact": {
+    "publicPhoneNumber": "+380978853333"
+  },
+  "priceBucket": "₴₴",
+  "slug": "радіо-тбілісі",
+  "isOrderable": true,
+  "disableCheckoutInstruction": false,
+  "supportedDiningModes": [
+    "DELIVERY"
+  ],
+  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
+  "heroImage": {
+    "items": [
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/a8489c55-f840-4717-9efa-376842e222b5",
+        "width": 2880,
+        "height": 2304
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/6ec792b2-0e95-4895-bbe9-0c40929cfddd",
+        "width": 1080,
+        "height": 864
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/10ccdff9-3f48-4616-829a-d204545a045a",
+        "width": 750,
+        "height": 600
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/e4013182-15d6-4029-a9e7-233122d8375c",
+        "width": 640,
+        "height": 512
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
+        "width": 550,
+        "height": 440
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/5fd940f4-cb3e-41b3-a672-fdbab08322aa",
+        "width": 240,
+        "height": 192
+      }
+    ]
+  },
+  "closedEtaMessage": "Currently unavailable",
+  "notOrderableMessage": "Currently unavailable",
+  "storeBadges": {
+    "disclaimerBadge": {
+      "textFormat": ""
+    },
+    "ratingBadge": {
+      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(109)</span></span>",
+      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 109 reviews."
+    },
+    "taglineBadge": {
+      "textFormat": "<span>₴₴ • Georgian • Pastry • Middle Eastern</span>"
+    },
+    "etaBadge": {
+      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+      "text": "50–60 MINS",
+      "textFormat": "<span>50–60 MINS</span>",
+      "accessibilityText": "Delivered in 50 to 60 MINS"
+    }
+  },
+  "etaRange": {
+    "min": 50,
+    "max": 60,
+    "raw": 55
+  },
+  "fareInfo": {
+    "serviceFee": 30
+  },
+  "eaterFields": {},
+  "meta": {
+    "sectionHoursInfo": [
+      {
+        "dayRange": "Every day",
+        "sectionHours": [
+          {
+            "startTime": 660,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 660,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      }
+    ]
+  },
+  "nuggets": [],
+  "displayConfig": {
+    "regionalDisplayType": "DEFAULT"
+  },
+  "enabledFulfillmentTypes": [
+    "DELIVERY"
+  ],
+  "citySlug": "kyiv",
+  "cityName": "Kyiv",
+  "currencyCode": "UAH",
+  "currencyNumDigitsAfterDecimal": 2
 }

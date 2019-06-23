@@ -1,1853 +1,1851 @@
 {
-    "store": {
-        "uuid": "57d5f153-d4f6-4b06-811c-bc6abbc34a56",
-        "title": "Чорноморка (вул. Гончара)",
-        "regionId": 943,
-        "categories": [
-            {
-                "uuid": "Seafood",
-                "name": "Морепродукти",
-                "keyName": "Seafood"
-            },
-            {
-                "uuid": "Jewish",
-                "name": "Єврейська",
-                "keyName": "Jewish"
-            },
-            {
-                "uuid": "European",
-                "name": "Європейська",
-                "keyName": "European"
-            }
-        ],
-        "sections": [
-            {
-                "uuid": "56924f5d-da30-4968-a765-ef8c4902582c",
-                "title": "SWITCH LANGUAGE (UKR)",
-                "subtitle": "11:00 AM – 10:00 PM",
-                "isTop": true,
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "7f1f7775-0d81-4c1a-8083-50726542a569",
-                    "204a9971-8c9e-4a9e-abaa-a401eba43918",
-                    "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5",
-                    "698fb268-4c4b-4a81-80af-ac34a2892da6",
-                    "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b",
-                    "dafe6586-6c20-4595-804f-34bb0f1635bf"
-                ]
-            },
-            {
-                "uuid": "5441ecfe-fb76-43a3-bf96-72042fb5726a",
-                "title": "SWITCH LANGUAGE (ENG)",
-                "subtitle": "11:00 AM – 10:00 PM",
-                "isOnSale": true,
-                "subsectionUuids": [
-                    "42fbb929-fe20-4d39-afbb-05faf9a40d48",
-                    "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
-                    "550421a8-cadc-42d8-97f7-0cfb98a99859",
-                    "376c0798-ab5a-4437-a569-c70bda0c2a40",
-                    "5e7266b2-cef3-4329-9dd9-75b2c7521981"
-                ]
-            }
-        ],
-        "sectionEntitiesMap": {
-            "5441ecfe-fb76-43a3-bf96-72042fb5726a": {
-                "itemsMap": {
-                    "5d0d2d27-99a0-41a8-822c-f999a065dfcb": {
-                        "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
-                        "title": "Salmon carpaccio",
-                        "itemDescription": "",
-                        "price": 18300
-                    },
-                    "682397f6-2951-4ba7-8c8d-0df11abda8e0": {
-                        "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
-                        "title": "Homemade herring with potatoes",
-                        "itemDescription": "",
-                        "price": 8900
-                    },
-                    "efa35b00-41be-40f2-82b6-767ad7bd0784": {
-                        "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
-                        "title": "Creamy oyster soup",
-                        "itemDescription": "",
-                        "price": 12700
-                    },
-                    "75f01784-8f17-4b04-b2b2-1d63ec9c438d": {
-                        "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
-                        "title": "Pate with shrimps",
-                        "itemDescription": "For 100g.",
-                        "price": 7600,
-                        "customizationUuids": [
-                            "4aa5e76d-8818-464d-a147-c2d925936156"
-                        ]
-                    },
-                    "9857966e-4c9f-42e6-bfdc-4820bb6936af": {
-                        "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
-                        "title": "Bruschetta with salmon",
-                        "itemDescription": "",
-                        "price": 12300
-                    },
-                    "932cb404-6552-413c-b57f-a702a03ece23": {
-                        "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
-                        "title": "Tomato fish soup",
-                        "itemDescription": "",
-                        "price": 16500,
-                        "suspendUntil": 8640000000
-                    },
-                    "1d76e9a7-c0d7-4068-9e8e-468376d17f36": {
-                        "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
-                        "title": "Provencal salad with fresh tuna",
-                        "itemDescription": "",
-                        "price": 23800
-                    },
-                    "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a": {
-                        "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
-                        "title": "Black sea soup",
-                        "itemDescription": "",
-                        "price": 6200
-                    },
-                    "ae4834ef-b6b6-4c40-ac90-25c914fbb987": {
-                        "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
-                        "title": "Mimosa salad with pollock liver",
-                        "itemDescription": "",
-                        "price": 9200
-                    },
-                    "e2f1fd86-02fc-46c0-8d0c-629a66588c2f": {
-                        "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
-                        "title": "Warm seafood salad",
-                        "itemDescription": "",
-                        "price": 19300
-                    },
-                    "750950ae-db9f-4ab7-b90c-bd97c777812e": {
-                        "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
-                        "title": "Fresh salad with seafood and ginger dressing",
-                        "itemDescription": "",
-                        "price": 19700
-                    },
-                    "522b0828-7048-40ea-b5d3-bd5ca917f5c7": {
-                        "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
-                        "title": "Tuna tartar",
-                        "itemDescription": "",
-                        "price": 25700
-                    },
-                    "74f07519-0fce-43c8-815a-bf3cb6066d07": {
-                        "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
-                        "title": "Pate with tuna",
-                        "itemDescription": "For 100g.",
-                        "price": 6200,
-                        "customizationUuids": [
-                            "097e7437-cd0c-43e2-9bde-ce2f72f58fc9"
-                        ]
-                    },
-                    "1dcc552e-a1cb-406f-9137-4e49fa967749": {
-                        "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
-                        "title": "Pate with salmon",
-                        "itemDescription": "For 100g.",
-                        "price": 6800,
-                        "customizationUuids": [
-                            "b61680f9-41e6-4895-82af-996ca885b764"
-                        ]
-                    },
-                    "e662333e-aa1c-4492-aab3-b1d85807e15d": {
-                        "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
-                        "title": "Arugula, with shrimp, cherry tomatoes and Parmesan cheese",
-                        "itemDescription": "",
-                        "price": 19500
-                    },
-                    "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d": {
-                        "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
-                        "title": "Green salad with Rapana",
-                        "itemDescription": "",
-                        "price": 15300
-                    },
-                    "d453bd59-b99f-4424-bc2b-a37e28be33ff": {
-                        "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
-                        "title": "Shellfish pasta",
-                        "itemDescription": "",
-                        "price": 18600
-                    },
-                    "7be0d00e-ba71-473f-9b90-db0e77f7a1e1": {
-                        "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
-                        "title": "Pate with stingray liver",
-                        "itemDescription": "For 100g.",
-                        "price": 4200,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "8df972ec-5272-4c51-911a-809535940633"
-                        ]
-                    },
-                    "691e75b6-1481-43b9-ba8d-117e23fd2d47": {
-                        "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
-                        "title": "Mussels in a sauce of your choice",
-                        "itemDescription": "Cream, garlic, tomato and soy sauces to choose from.",
-                        "price": 8800,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "1d861093-c1a7-44cb-811b-f1210ef9269e",
-                            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-                        ]
-                    },
-                    "750bf2cd-efa9-4e63-a71c-56456565fc36": {
-                        "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
-                        "title": "Caesar with salted salmon",
-                        "itemDescription": "",
-                        "price": 17600
-                    },
-                    "7205240f-7e63-4838-b792-c633e5425523": {
-                        "uuid": "7205240f-7e63-4838-b792-c633e5425523",
-                        "title": "Pikeperch cutlets with mashed potato",
-                        "itemDescription": "",
-                        "price": 15200
-                    },
-                    "6279dd4e-5ad8-40bd-97fb-39f024796736": {
-                        "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
-                        "title": "Salmon cream soup",
-                        "itemDescription": "",
-                        "price": 14600,
-                        "suspendUntil": 8640000000
-                    },
-                    "3a4bcba3-c23f-458d-8289-5ba4ac631fb5": {
-                        "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
-                        "title": "Homemade sprats with croutons",
-                        "itemDescription": "",
-                        "price": 8900
-                    },
-                    "c056129a-f54a-49f9-90a4-759977438963": {
-                        "uuid": "c056129a-f54a-49f9-90a4-759977438963",
-                        "title": "Fish solyanka",
-                        "itemDescription": "",
-                        "price": 14700
-                    },
-                    "26575601-8dbc-48e6-9b15-eb3768fae450": {
-                        "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
-                        "title": "Salmon tartar with Transcarpathian pike caviar",
-                        "itemDescription": "",
-                        "price": 19200
-                    },
-                    "889b3424-5c4e-4d5c-b58e-7f4bff15d082": {
-                        "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
-                        "title": "Salted kilka with potatoes",
-                        "itemDescription": "",
-                        "price": 5500
-                    },
-                    "0ba88047-429a-4722-b66b-a264f16f6f17": {
-                        "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
-                        "title": "Rapana meat with mushrooms and cherry tomatoes",
-                        "itemDescription": "",
-                        "price": 16200,
-                        "customizationUuids": [
-                            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-                        ]
-                    },
-                    "04c6ce13-b00a-4da9-b031-8d9ba05d98c9": {
-                        "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
-                        "title": "Pate with cod liver",
-                        "itemDescription": "For 100g.",
-                        "price": 6300,
-                        "customizationUuids": [
-                            "5aa81bb0-8fcd-463c-9511-6d83e6250ea7"
-                        ]
-                    },
-                    "5fb29ece-34f0-4b79-9614-ad2120be3bfd": {
-                        "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
-                        "title": "Carpathian pike caviar with spring onion",
-                        "itemDescription": "",
-                        "price": 17200
-                    },
-                    "d9f388ce-bb1e-4ae3-bcfb-7249560685a3": {
-                        "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
-                        "title": "Odessa forshmak with croutons",
-                        "itemDescription": "",
-                        "price": 7500
-                    },
-                    "c5f513a1-584d-4689-a025-a3b628a9f3cf": {
-                        "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
-                        "title": "Pike quenelle in creamy sauce",
-                        "itemDescription": "",
-                        "price": 14200,
-                        "customizationUuids": [
-                            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-                        ]
-                    },
-                    "b4196b6e-5d40-4f04-995d-83983028ef89": {
-                        "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
-                        "title": "Olivier for your choise",
-                        "itemDescription": "Mussels, rapana, or salmon.",
-                        "price": 9600,
-                        "customizationUuids": [
-                            "7fd1a034-74d0-4411-beea-0a9fa16103e6"
-                        ]
-                    },
-                    "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60": {
-                        "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
-                        "title": "Pate with mussels",
-                        "itemDescription": "For 100g.",
-                        "price": 4800,
-                        "customizationUuids": [
-                            "bffcd94a-bb07-457f-8333-36705748b833"
-                        ]
-                    },
-                    "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3": {
-                        "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
-                        "title": "Seafood risotto",
-                        "itemDescription": "",
-                        "price": 18400
-                    },
-                    "7549ec73-7e54-434b-a6bb-25294e78b065": {
-                        "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
-                        "title": "Bruschetta with lightly-salted kilka, homemade sprats, homemade herring",
-                        "itemDescription": "",
-                        "price": 7700
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "42fbb929-fe20-4d39-afbb-05faf9a40d48",
-                        "title": "Starters",
-                        "itemUuids": [
-                            "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
-                            "9857966e-4c9f-42e6-bfdc-4820bb6936af",
-                            "7549ec73-7e54-434b-a6bb-25294e78b065",
-                            "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
-                            "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
-                            "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
-                            "682397f6-2951-4ba7-8c8d-0df11abda8e0",
-                            "26575601-8dbc-48e6-9b15-eb3768fae450",
-                            "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
-                            "522b0828-7048-40ea-b5d3-bd5ca917f5c7"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
-                                "title": "Odessa forshmak with croutons",
-                                "itemDescription": "",
-                                "price": 7500
-                            },
-                            {
-                                "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
-                                "title": "Bruschetta with salmon",
-                                "itemDescription": "",
-                                "price": 12300
-                            },
-                            {
-                                "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
-                                "title": "Bruschetta with lightly-salted kilka, homemade sprats, homemade herring",
-                                "itemDescription": "",
-                                "price": 7700
-                            },
-                            {
-                                "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
-                                "title": "Homemade sprats with croutons",
-                                "itemDescription": "",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
-                                "title": "Carpathian pike caviar with spring onion",
-                                "itemDescription": "",
-                                "price": 17200
-                            },
-                            {
-                                "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
-                                "title": "Salted kilka with potatoes",
-                                "itemDescription": "",
-                                "price": 5500
-                            },
-                            {
-                                "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
-                                "title": "Homemade herring with potatoes",
-                                "itemDescription": "",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
-                                "title": "Salmon tartar with Transcarpathian pike caviar",
-                                "itemDescription": "",
-                                "price": 19200
-                            },
-                            {
-                                "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
-                                "title": "Salmon carpaccio",
-                                "itemDescription": "",
-                                "price": 18300
-                            },
-                            {
-                                "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
-                                "title": "Tuna tartar",
-                                "itemDescription": "",
-                                "price": 25700
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
-                        "title": "Homemade pates and mousses",
-                        "itemUuids": [
-                            "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
-                            "74f07519-0fce-43c8-815a-bf3cb6066d07",
-                            "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
-                            "1dcc552e-a1cb-406f-9137-4e49fa967749",
-                            "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
-                            "75f01784-8f17-4b04-b2b2-1d63ec9c438d"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
-                                "title": "Pate with cod liver",
-                                "itemDescription": "For 100g.",
-                                "price": 6300,
-                                "customizationUuids": [
-                                    "5aa81bb0-8fcd-463c-9511-6d83e6250ea7"
-                                ]
-                            },
-                            {
-                                "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
-                                "title": "Pate with tuna",
-                                "itemDescription": "For 100g.",
-                                "price": 6200,
-                                "customizationUuids": [
-                                    "097e7437-cd0c-43e2-9bde-ce2f72f58fc9"
-                                ]
-                            },
-                            {
-                                "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
-                                "title": "Pate with stingray liver",
-                                "itemDescription": "For 100g.",
-                                "price": 4200,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "8df972ec-5272-4c51-911a-809535940633"
-                                ]
-                            },
-                            {
-                                "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
-                                "title": "Pate with salmon",
-                                "itemDescription": "For 100g.",
-                                "price": 6800,
-                                "customizationUuids": [
-                                    "b61680f9-41e6-4895-82af-996ca885b764"
-                                ]
-                            },
-                            {
-                                "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
-                                "title": "Pate with mussels",
-                                "itemDescription": "For 100g.",
-                                "price": 4800,
-                                "customizationUuids": [
-                                    "bffcd94a-bb07-457f-8333-36705748b833"
-                                ]
-                            },
-                            {
-                                "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
-                                "title": "Pate with shrimps",
-                                "itemDescription": "For 100g.",
-                                "price": 7600,
-                                "customizationUuids": [
-                                    "4aa5e76d-8818-464d-a147-c2d925936156"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "550421a8-cadc-42d8-97f7-0cfb98a99859",
-                        "title": "Salads",
-                        "itemUuids": [
-                            "750950ae-db9f-4ab7-b90c-bd97c777812e",
-                            "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
-                            "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
-                            "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
-                            "b4196b6e-5d40-4f04-995d-83983028ef89",
-                            "e662333e-aa1c-4492-aab3-b1d85807e15d",
-                            "750bf2cd-efa9-4e63-a71c-56456565fc36",
-                            "e2f1fd86-02fc-46c0-8d0c-629a66588c2f"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
-                                "title": "Fresh salad with seafood and ginger dressing",
-                                "itemDescription": "",
-                                "price": 19700
-                            },
-                            {
-                                "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
-                                "title": "Green salad with Rapana",
-                                "itemDescription": "",
-                                "price": 15300
-                            },
-                            {
-                                "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
-                                "title": "Mimosa salad with pollock liver",
-                                "itemDescription": "",
-                                "price": 9200
-                            },
-                            {
-                                "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
-                                "title": "Provencal salad with fresh tuna",
-                                "itemDescription": "",
-                                "price": 23800
-                            },
-                            {
-                                "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
-                                "title": "Olivier for your choise",
-                                "itemDescription": "Mussels, rapana, or salmon.",
-                                "price": 9600,
-                                "customizationUuids": [
-                                    "7fd1a034-74d0-4411-beea-0a9fa16103e6"
-                                ]
-                            },
-                            {
-                                "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
-                                "title": "Arugula, with shrimp, cherry tomatoes and Parmesan cheese",
-                                "itemDescription": "",
-                                "price": 19500
-                            },
-                            {
-                                "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
-                                "title": "Caesar with salted salmon",
-                                "itemDescription": "",
-                                "price": 17600
-                            },
-                            {
-                                "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
-                                "title": "Warm seafood salad",
-                                "itemDescription": "",
-                                "price": 19300
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "376c0798-ab5a-4437-a569-c70bda0c2a40",
-                        "title": "Soups",
-                        "itemUuids": [
-                            "6279dd4e-5ad8-40bd-97fb-39f024796736",
-                            "932cb404-6552-413c-b57f-a702a03ece23",
-                            "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
-                            "c056129a-f54a-49f9-90a4-759977438963",
-                            "efa35b00-41be-40f2-82b6-767ad7bd0784"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
-                                "title": "Salmon cream soup",
-                                "itemDescription": "",
-                                "price": 14600,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
-                                "title": "Tomato fish soup",
-                                "itemDescription": "",
-                                "price": 16500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
-                                "title": "Black sea soup",
-                                "itemDescription": "",
-                                "price": 6200
-                            },
-                            {
-                                "uuid": "c056129a-f54a-49f9-90a4-759977438963",
-                                "title": "Fish solyanka",
-                                "itemDescription": "",
-                                "price": 14700
-                            },
-                            {
-                                "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
-                                "title": "Creamy oyster soup",
-                                "itemDescription": "",
-                                "price": 12700
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "5e7266b2-cef3-4329-9dd9-75b2c7521981",
-                        "title": "Main platters",
-                        "itemUuids": [
-                            "691e75b6-1481-43b9-ba8d-117e23fd2d47",
-                            "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
-                            "c5f513a1-584d-4689-a025-a3b628a9f3cf",
-                            "7205240f-7e63-4838-b792-c633e5425523",
-                            "d453bd59-b99f-4424-bc2b-a37e28be33ff",
-                            "0ba88047-429a-4722-b66b-a264f16f6f17"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
-                                "title": "Mussels in a sauce of your choice",
-                                "itemDescription": "Cream, garlic, tomato and soy sauces to choose from.",
-                                "price": 8800,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "1d861093-c1a7-44cb-811b-f1210ef9269e",
-                                    "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-                                ]
-                            },
-                            {
-                                "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
-                                "title": "Seafood risotto",
-                                "itemDescription": "",
-                                "price": 18400
-                            },
-                            {
-                                "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
-                                "title": "Pike quenelle in creamy sauce",
-                                "itemDescription": "",
-                                "price": 14200,
-                                "customizationUuids": [
-                                    "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-                                ]
-                            },
-                            {
-                                "uuid": "7205240f-7e63-4838-b792-c633e5425523",
-                                "title": "Pikeperch cutlets with mashed potato",
-                                "itemDescription": "",
-                                "price": 15200
-                            },
-                            {
-                                "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
-                                "title": "Shellfish pasta",
-                                "itemDescription": "",
-                                "price": 18600
-                            },
-                            {
-                                "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
-                                "title": "Rapana meat with mushrooms and cherry tomatoes",
-                                "itemDescription": "",
-                                "price": 16200,
-                                "customizationUuids": [
-                                    "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            "56924f5d-da30-4968-a765-ef8c4902582c": {
-                "itemsMap": {
-                    "aa5a9759-091e-4301-8cb2-f845b01e58f4": {
-                        "uuid": "aa5a9759-091e-4301-8cb2-f845b01e58f4",
-                        "title": "Малосольна тюлька з картоплею",
-                        "itemDescription": "",
-                        "price": 5500
-                    },
-                    "9de53d88-83a9-418d-af00-e1519ab7c64b": {
-                        "uuid": "9de53d88-83a9-418d-af00-e1519ab7c64b",
-                        "title": "Томатний рибний суп",
-                        "itemDescription": "",
-                        "price": 16500,
-                        "suspendUntil": 8640000000
-                    },
-                    "b318a298-9407-4545-949d-dbc34a9ede7e": {
-                        "uuid": "b318a298-9407-4545-949d-dbc34a9ede7e",
-                        "title": "Салат Мімоза з печінкою мінтаю",
-                        "itemDescription": "",
-                        "price": 9200
-                    },
-                    "44123407-32f4-448a-a2c2-c42257f94a54": {
-                        "uuid": "44123407-32f4-448a-a2c2-c42257f94a54",
-                        "title": "Намазка з лосося",
-                        "itemDescription": "За 100г.",
-                        "price": 6800,
-                        "customizationUuids": [
-                            "06a1b867-f670-46da-add2-62111a7ee394"
-                        ]
-                    },
-                    "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3": {
-                        "uuid": "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
-                        "title": "Рукола з креветками, помідорами чері та пармезаном",
-                        "itemDescription": "",
-                        "price": 19500
-                    },
-                    "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95": {
-                        "uuid": "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
-                        "title": "Домашні шпроти з грінками",
-                        "itemDescription": "",
-                        "price": 8900
-                    },
-                    "32cfb373-f7ff-4eeb-9f87-ad2cbc752713": {
-                        "uuid": "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
-                        "title": "Ікра закарпатської щуки із зеленою цибулею",
-                        "itemDescription": "",
-                        "price": 17200
-                    },
-                    "40ca78be-e59b-4cb2-b2da-64ec12771bca": {
-                        "uuid": "40ca78be-e59b-4cb2-b2da-64ec12771bca",
-                        "title": "Карпачо з лосося",
-                        "itemDescription": "",
-                        "price": 18300
-                    },
-                    "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd": {
-                        "uuid": "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd",
-                        "title": "М'ясо рапана з грибами та томатами чері",
-                        "itemDescription": "",
-                        "price": 16200,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                        ]
-                    },
-                    "b6cca585-e31d-4e15-b191-055743f3d3b3": {
-                        "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                        "title": "Намазка з тунця",
-                        "itemDescription": "За 100г.",
-                        "price": 6200,
-                        "customizationUuids": [
-                            "ac40be0c-f76b-4c16-be1f-cb94b6708c3c"
-                        ]
-                    },
-                    "884aa706-5aac-433d-b3ff-5e4d92c2ff41": {
-                        "uuid": "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
-                        "title": "Паста з молюсками",
-                        "itemDescription": "",
-                        "price": 18600,
-                        "customizationUuids": [
-                            "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                        ]
-                    },
-                    "0728390a-04a5-424f-ab40-a0d788f86847": {
-                        "uuid": "0728390a-04a5-424f-ab40-a0d788f86847",
-                        "title": "Намазка з креветки",
-                        "itemDescription": "За 100г.",
-                        "price": 7600,
-                        "customizationUuids": [
-                            "d50ba1d0-9e0a-497d-9d7f-91592ed6256a"
-                        ]
-                    },
-                    "f640d3f8-6a2c-4657-9b59-23c88d9d2147": {
-                        "uuid": "f640d3f8-6a2c-4657-9b59-23c88d9d2147",
-                        "title": "Тартар з тунця",
-                        "itemDescription": "",
-                        "price": 25700
-                    },
-                    "a5573621-cbe3-4625-aab1-64201f041ce2": {
-                        "uuid": "a5573621-cbe3-4625-aab1-64201f041ce2",
-                        "title": "Тартар із лосося з ікрою закарпатської щуки",
-                        "itemDescription": "",
-                        "price": 19200
-                    },
-                    "a09e4ccb-77b1-4dab-ad16-f63597665684": {
-                        "uuid": "a09e4ccb-77b1-4dab-ad16-f63597665684",
-                        "title": "Ніжні котлетки з судака з картопляним пюре",
-                        "itemDescription": "",
-                        "price": 15200
-                    },
-                    "20babf90-1367-4efa-8e85-840bbae7df9d": {
-                        "uuid": "20babf90-1367-4efa-8e85-840bbae7df9d",
-                        "title": "Солянка рибна",
-                        "itemDescription": "",
-                        "price": 14700
-                    },
-                    "f8ee2f0a-1dc4-4e38-a121-807a261d6954": {
-                        "uuid": "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
-                        "title": "Прованський салат зі свіжим тунцем",
-                        "itemDescription": "",
-                        "price": 23800
-                    },
-                    "39d4dccf-4899-4778-86d1-35bf2f9a8b26": {
-                        "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                        "title": "Одеський форшмак з грінками",
-                        "itemDescription": "",
-                        "price": 7500
-                    },
-                    "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a": {
-                        "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                        "title": "Свіжий салат з морепродуктами та імбирною заправкою",
-                        "itemDescription": "",
-                        "price": 19700
-                    },
-                    "e77f2858-5028-4f8c-9df7-f08e60783a4e": {
-                        "uuid": "e77f2858-5028-4f8c-9df7-f08e60783a4e",
-                        "title": "Намазка з мідії",
-                        "itemDescription": "За 100г.",
-                        "price": 4800,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "f03bad21-04de-4efc-9679-b0e66144904f"
-                        ]
-                    },
-                    "1dad2969-a198-4a82-9523-5277b6681da1": {
-                        "uuid": "1dad2969-a198-4a82-9523-5277b6681da1",
-                        "title": "Намазка з печінки ската-хвостокола",
-                        "itemDescription": "За 100г.",
-                        "price": 4200,
-                        "customizationUuids": [
-                            "086f1cd6-46f7-493b-9927-0aba556d939e"
-                        ]
-                    },
-                    "663978a4-1559-46a0-8192-efe5dc56af74": {
-                        "uuid": "663978a4-1559-46a0-8192-efe5dc56af74",
-                        "title": "Цезар із малосольним лососем",
-                        "itemDescription": "",
-                        "price": 17600
-                    },
-                    "29ec2611-3ea3-4a9b-b358-d934bcf61d5c": {
-                        "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
-                        "title": "Кнелі зі щуки у вершковому соусі",
-                        "itemDescription": "",
-                        "price": 14200,
-                        "customizationUuids": [
-                            "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                        ]
-                    },
-                    "8597173a-e8a4-41c2-b218-02a56255f8df": {
-                        "uuid": "8597173a-e8a4-41c2-b218-02a56255f8df",
-                        "title": "Брускети з лососем",
-                        "itemDescription": "",
-                        "price": 12300
-                    },
-                    "228d31d8-f8ab-4d7e-bbd8-a3133f92342d": {
-                        "uuid": "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
-                        "title": "Брускети з малосольною тюлькою, домашніми шпротами та оселедцем власного засолу",
-                        "itemDescription": "",
-                        "price": 7700
-                    },
-                    "61bf4c40-64aa-44c1-84d6-1d6f65ced686": {
-                        "uuid": "61bf4c40-64aa-44c1-84d6-1d6f65ced686",
-                        "title": "Вершковий устричний суп",
-                        "itemDescription": "",
-                        "price": 12700
-                    },
-                    "a8e9e8ed-e280-4e70-b311-513936c4735e": {
-                        "uuid": "a8e9e8ed-e280-4e70-b311-513936c4735e",
-                        "title": "Зелений салат з м'ясом рапана",
-                        "itemDescription": "",
-                        "price": 15300
-                    },
-                    "5d884199-bc97-4128-ac1b-c12d306db05c": {
-                        "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
-                        "title": "Чорноморська юшка",
-                        "itemDescription": "",
-                        "price": 6200
-                    },
-                    "bce8c008-2354-41aa-808d-25f7b919201a": {
-                        "uuid": "bce8c008-2354-41aa-808d-25f7b919201a",
-                        "title": "Крем-суп з лосося",
-                        "itemDescription": "",
-                        "price": 14600,
-                        "suspendUntil": 8640000000
-                    },
-                    "b5b10994-40d9-40fe-bc19-0620e83e0497": {
-                        "uuid": "b5b10994-40d9-40fe-bc19-0620e83e0497",
-                        "title": "Мідії у соусі на ваш вибір",
-                        "itemDescription": "Вершковий, часниковий, томатний або соєвий.",
-                        "price": 8800,
-                        "suspendUntil": 8640000000,
-                        "customizationUuids": [
-                            "5aad1d87-3b71-48f1-a8c6-bc9c84d2c669",
-                            "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                        ]
-                    },
-                    "a6450864-b5c8-48b1-8109-46b7159cc4fe": {
-                        "uuid": "a6450864-b5c8-48b1-8109-46b7159cc4fe",
-                        "title": "Олів'є на ваш вибір",
-                        "itemDescription": "Мідії, м'ясо рапана або лосось.",
-                        "price": 9600,
-                        "customizationUuids": [
-                            "1bab27ba-435f-4d49-b74b-d7a44b4415cf"
-                        ]
-                    },
-                    "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5": {
-                        "uuid": "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5",
-                        "title": "Теплий салат з морепродуктами",
-                        "itemDescription": "",
-                        "price": 19300
-                    },
-                    "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36": {
-                        "uuid": "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
-                        "title": "Оселедець власного засолу з картоплею",
-                        "itemDescription": "",
-                        "price": 8900
-                    },
-                    "78a41be7-d53e-4f55-ad4c-7af8e10860d4": {
-                        "uuid": "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
-                        "title": "Різото з морепродуктами",
-                        "itemDescription": "",
-                        "price": 18400
-                    },
-                    "e575942e-2f8c-49f1-bf92-dd575bea96b0": {
-                        "uuid": "e575942e-2f8c-49f1-bf92-dd575bea96b0",
-                        "title": "Намазка з печінки тріски",
-                        "itemDescription": "За 100г.",
-                        "price": 6300,
-                        "customizationUuids": [
-                            "cf6fe197-39e2-49c8-930e-bea3ca48660e"
-                        ]
-                    }
-                },
-                "decoratedSubsections": [
-                    {
-                        "uuid": "7f1f7775-0d81-4c1a-8083-50726542a569",
-                        "title": "Популярне",
-                        "itemUuids": [
-                            "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                            "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                            "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                            "5d884199-bc97-4128-ac1b-c12d306db05c",
-                            "29ec2611-3ea3-4a9b-b358-d934bcf61d5c"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                                "title": "Одеський форшмак з грінками",
-                                "itemDescription": "",
-                                "price": 7500
-                            },
-                            {
-                                "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                                "title": "Намазка з тунця",
-                                "itemDescription": "За 100г.",
-                                "price": 6200,
-                                "customizationUuids": [
-                                    "ac40be0c-f76b-4c16-be1f-cb94b6708c3c"
-                                ]
-                            },
-                            {
-                                "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                                "title": "Свіжий салат з морепродуктами та імбирною заправкою",
-                                "itemDescription": "",
-                                "price": 19700
-                            },
-                            {
-                                "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
-                                "title": "Чорноморська юшка",
-                                "itemDescription": "",
-                                "price": 6200
-                            },
-                            {
-                                "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
-                                "title": "Кнелі зі щуки у вершковому соусі",
-                                "itemDescription": "",
-                                "price": 14200,
-                                "customizationUuids": [
-                                    "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "204a9971-8c9e-4a9e-abaa-a401eba43918",
-                        "title": "Закуски",
-                        "itemUuids": [
-                            "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                            "8597173a-e8a4-41c2-b218-02a56255f8df",
-                            "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
-                            "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
-                            "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
-                            "aa5a9759-091e-4301-8cb2-f845b01e58f4",
-                            "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
-                            "a5573621-cbe3-4625-aab1-64201f041ce2",
-                            "40ca78be-e59b-4cb2-b2da-64ec12771bca",
-                            "f640d3f8-6a2c-4657-9b59-23c88d9d2147"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                                "title": "Одеський форшмак з грінками",
-                                "itemDescription": "",
-                                "price": 7500
-                            },
-                            {
-                                "uuid": "8597173a-e8a4-41c2-b218-02a56255f8df",
-                                "title": "Брускети з лососем",
-                                "itemDescription": "",
-                                "price": 12300
-                            },
-                            {
-                                "uuid": "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
-                                "title": "Брускети з малосольною тюлькою, домашніми шпротами та оселедцем власного засолу",
-                                "itemDescription": "",
-                                "price": 7700
-                            },
-                            {
-                                "uuid": "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
-                                "title": "Домашні шпроти з грінками",
-                                "itemDescription": "",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
-                                "title": "Ікра закарпатської щуки із зеленою цибулею",
-                                "itemDescription": "",
-                                "price": 17200
-                            },
-                            {
-                                "uuid": "aa5a9759-091e-4301-8cb2-f845b01e58f4",
-                                "title": "Малосольна тюлька з картоплею",
-                                "itemDescription": "",
-                                "price": 5500
-                            },
-                            {
-                                "uuid": "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
-                                "title": "Оселедець власного засолу з картоплею",
-                                "itemDescription": "",
-                                "price": 8900
-                            },
-                            {
-                                "uuid": "a5573621-cbe3-4625-aab1-64201f041ce2",
-                                "title": "Тартар із лосося з ікрою закарпатської щуки",
-                                "itemDescription": "",
-                                "price": 19200
-                            },
-                            {
-                                "uuid": "40ca78be-e59b-4cb2-b2da-64ec12771bca",
-                                "title": "Карпачо з лосося",
-                                "itemDescription": "",
-                                "price": 18300
-                            },
-                            {
-                                "uuid": "f640d3f8-6a2c-4657-9b59-23c88d9d2147",
-                                "title": "Тартар з тунця",
-                                "itemDescription": "",
-                                "price": 25700
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5",
-                        "title": "Чорноморські намазки",
-                        "itemUuids": [
-                            "e575942e-2f8c-49f1-bf92-dd575bea96b0",
-                            "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                            "1dad2969-a198-4a82-9523-5277b6681da1",
-                            "44123407-32f4-448a-a2c2-c42257f94a54",
-                            "e77f2858-5028-4f8c-9df7-f08e60783a4e",
-                            "0728390a-04a5-424f-ab40-a0d788f86847"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "e575942e-2f8c-49f1-bf92-dd575bea96b0",
-                                "title": "Намазка з печінки тріски",
-                                "itemDescription": "За 100г.",
-                                "price": 6300,
-                                "customizationUuids": [
-                                    "cf6fe197-39e2-49c8-930e-bea3ca48660e"
-                                ]
-                            },
-                            {
-                                "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                                "title": "Намазка з тунця",
-                                "itemDescription": "За 100г.",
-                                "price": 6200,
-                                "customizationUuids": [
-                                    "ac40be0c-f76b-4c16-be1f-cb94b6708c3c"
-                                ]
-                            },
-                            {
-                                "uuid": "1dad2969-a198-4a82-9523-5277b6681da1",
-                                "title": "Намазка з печінки ската-хвостокола",
-                                "itemDescription": "За 100г.",
-                                "price": 4200,
-                                "customizationUuids": [
-                                    "086f1cd6-46f7-493b-9927-0aba556d939e"
-                                ]
-                            },
-                            {
-                                "uuid": "44123407-32f4-448a-a2c2-c42257f94a54",
-                                "title": "Намазка з лосося",
-                                "itemDescription": "За 100г.",
-                                "price": 6800,
-                                "customizationUuids": [
-                                    "06a1b867-f670-46da-add2-62111a7ee394"
-                                ]
-                            },
-                            {
-                                "uuid": "e77f2858-5028-4f8c-9df7-f08e60783a4e",
-                                "title": "Намазка з мідії",
-                                "itemDescription": "За 100г.",
-                                "price": 4800,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "f03bad21-04de-4efc-9679-b0e66144904f"
-                                ]
-                            },
-                            {
-                                "uuid": "0728390a-04a5-424f-ab40-a0d788f86847",
-                                "title": "Намазка з креветки",
-                                "itemDescription": "За 100г.",
-                                "price": 7600,
-                                "customizationUuids": [
-                                    "d50ba1d0-9e0a-497d-9d7f-91592ed6256a"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "698fb268-4c4b-4a81-80af-ac34a2892da6",
-                        "title": "Салати",
-                        "itemUuids": [
-                            "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                            "a8e9e8ed-e280-4e70-b311-513936c4735e",
-                            "b318a298-9407-4545-949d-dbc34a9ede7e",
-                            "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
-                            "a6450864-b5c8-48b1-8109-46b7159cc4fe",
-                            "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
-                            "663978a4-1559-46a0-8192-efe5dc56af74",
-                            "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                                "title": "Свіжий салат з морепродуктами та імбирною заправкою",
-                                "itemDescription": "",
-                                "price": 19700
-                            },
-                            {
-                                "uuid": "a8e9e8ed-e280-4e70-b311-513936c4735e",
-                                "title": "Зелений салат з м'ясом рапана",
-                                "itemDescription": "",
-                                "price": 15300
-                            },
-                            {
-                                "uuid": "b318a298-9407-4545-949d-dbc34a9ede7e",
-                                "title": "Салат Мімоза з печінкою мінтаю",
-                                "itemDescription": "",
-                                "price": 9200
-                            },
-                            {
-                                "uuid": "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
-                                "title": "Прованський салат зі свіжим тунцем",
-                                "itemDescription": "",
-                                "price": 23800
-                            },
-                            {
-                                "uuid": "a6450864-b5c8-48b1-8109-46b7159cc4fe",
-                                "title": "Олів'є на ваш вибір",
-                                "itemDescription": "Мідії, м'ясо рапана або лосось.",
-                                "price": 9600,
-                                "customizationUuids": [
-                                    "1bab27ba-435f-4d49-b74b-d7a44b4415cf"
-                                ]
-                            },
-                            {
-                                "uuid": "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
-                                "title": "Рукола з креветками, помідорами чері та пармезаном",
-                                "itemDescription": "",
-                                "price": 19500
-                            },
-                            {
-                                "uuid": "663978a4-1559-46a0-8192-efe5dc56af74",
-                                "title": "Цезар із малосольним лососем",
-                                "itemDescription": "",
-                                "price": 17600
-                            },
-                            {
-                                "uuid": "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5",
-                                "title": "Теплий салат з морепродуктами",
-                                "itemDescription": "",
-                                "price": 19300
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b",
-                        "title": "Супи",
-                        "itemUuids": [
-                            "bce8c008-2354-41aa-808d-25f7b919201a",
-                            "9de53d88-83a9-418d-af00-e1519ab7c64b",
-                            "5d884199-bc97-4128-ac1b-c12d306db05c",
-                            "20babf90-1367-4efa-8e85-840bbae7df9d",
-                            "61bf4c40-64aa-44c1-84d6-1d6f65ced686"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "bce8c008-2354-41aa-808d-25f7b919201a",
-                                "title": "Крем-суп з лосося",
-                                "itemDescription": "",
-                                "price": 14600,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "9de53d88-83a9-418d-af00-e1519ab7c64b",
-                                "title": "Томатний рибний суп",
-                                "itemDescription": "",
-                                "price": 16500,
-                                "suspendUntil": 8640000000
-                            },
-                            {
-                                "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
-                                "title": "Чорноморська юшка",
-                                "itemDescription": "",
-                                "price": 6200
-                            },
-                            {
-                                "uuid": "20babf90-1367-4efa-8e85-840bbae7df9d",
-                                "title": "Солянка рибна",
-                                "itemDescription": "",
-                                "price": 14700
-                            },
-                            {
-                                "uuid": "61bf4c40-64aa-44c1-84d6-1d6f65ced686",
-                                "title": "Вершковий устричний суп",
-                                "itemDescription": "",
-                                "price": 12700
-                            }
-                        ]
-                    },
-                    {
-                        "uuid": "dafe6586-6c20-4595-804f-34bb0f1635bf",
-                        "title": "Основні страви",
-                        "itemUuids": [
-                            "b5b10994-40d9-40fe-bc19-0620e83e0497",
-                            "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
-                            "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
-                            "a09e4ccb-77b1-4dab-ad16-f63597665684",
-                            "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
-                            "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd"
-                        ],
-                        "displayItems": [
-                            {
-                                "uuid": "b5b10994-40d9-40fe-bc19-0620e83e0497",
-                                "title": "Мідії у соусі на ваш вибір",
-                                "itemDescription": "Вершковий, часниковий, томатний або соєвий.",
-                                "price": 8800,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "5aad1d87-3b71-48f1-a8c6-bc9c84d2c669",
-                                    "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                                ]
-                            },
-                            {
-                                "uuid": "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
-                                "title": "Різото з морепродуктами",
-                                "itemDescription": "",
-                                "price": 18400
-                            },
-                            {
-                                "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
-                                "title": "Кнелі зі щуки у вершковому соусі",
-                                "itemDescription": "",
-                                "price": 14200,
-                                "customizationUuids": [
-                                    "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                                ]
-                            },
-                            {
-                                "uuid": "a09e4ccb-77b1-4dab-ad16-f63597665684",
-                                "title": "Ніжні котлетки з судака з картопляним пюре",
-                                "itemDescription": "",
-                                "price": 15200
-                            },
-                            {
-                                "uuid": "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
-                                "title": "Паста з молюсками",
-                                "itemDescription": "",
-                                "price": 18600,
-                                "customizationUuids": [
-                                    "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                                ]
-                            },
-                            {
-                                "uuid": "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd",
-                                "title": "М'ясо рапана з грибами та томатами чері",
-                                "itemDescription": "",
-                                "price": 16200,
-                                "suspendUntil": 8640000000,
-                                "customizationUuids": [
-                                    "828083df-63d6-433b-b5d6-c6d6fefa0641"
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        "subsectionsMap": {
-            "5e7266b2-cef3-4329-9dd9-75b2c7521981": {
-                "uuid": "5e7266b2-cef3-4329-9dd9-75b2c7521981",
-                "title": "Main platters",
-                "itemUuids": [
-                    "691e75b6-1481-43b9-ba8d-117e23fd2d47",
-                    "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
-                    "c5f513a1-584d-4689-a025-a3b628a9f3cf",
-                    "7205240f-7e63-4838-b792-c633e5425523",
-                    "d453bd59-b99f-4424-bc2b-a37e28be33ff",
-                    "0ba88047-429a-4722-b66b-a264f16f6f17"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7205240f-7e63-4838-b792-c633e5425523",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "204a9971-8c9e-4a9e-abaa-a401eba43918": {
-                "uuid": "204a9971-8c9e-4a9e-abaa-a401eba43918",
-                "title": "Закуски",
-                "itemUuids": [
-                    "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                    "8597173a-e8a4-41c2-b218-02a56255f8df",
-                    "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
-                    "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
-                    "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
-                    "aa5a9759-091e-4301-8cb2-f845b01e58f4",
-                    "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
-                    "a5573621-cbe3-4625-aab1-64201f041ce2",
-                    "40ca78be-e59b-4cb2-b2da-64ec12771bca",
-                    "f640d3f8-6a2c-4657-9b59-23c88d9d2147"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "8597173a-e8a4-41c2-b218-02a56255f8df",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "aa5a9759-091e-4301-8cb2-f845b01e58f4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a5573621-cbe3-4625-aab1-64201f041ce2",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "40ca78be-e59b-4cb2-b2da-64ec12771bca",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f640d3f8-6a2c-4657-9b59-23c88d9d2147",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "dafe6586-6c20-4595-804f-34bb0f1635bf": {
-                "uuid": "dafe6586-6c20-4595-804f-34bb0f1635bf",
-                "title": "Основні страви",
-                "itemUuids": [
-                    "b5b10994-40d9-40fe-bc19-0620e83e0497",
-                    "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
-                    "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
-                    "a09e4ccb-77b1-4dab-ad16-f63597665684",
-                    "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
-                    "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "b5b10994-40d9-40fe-bc19-0620e83e0497",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a09e4ccb-77b1-4dab-ad16-f63597665684",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "376c0798-ab5a-4437-a569-c70bda0c2a40": {
-                "uuid": "376c0798-ab5a-4437-a569-c70bda0c2a40",
-                "title": "Soups",
-                "itemUuids": [
-                    "6279dd4e-5ad8-40bd-97fb-39f024796736",
-                    "932cb404-6552-413c-b57f-a702a03ece23",
-                    "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
-                    "c056129a-f54a-49f9-90a4-759977438963",
-                    "efa35b00-41be-40f2-82b6-767ad7bd0784"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "c056129a-f54a-49f9-90a4-759977438963",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5": {
-                "uuid": "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5",
-                "title": "Чорноморські намазки",
-                "itemUuids": [
-                    "e575942e-2f8c-49f1-bf92-dd575bea96b0",
-                    "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                    "1dad2969-a198-4a82-9523-5277b6681da1",
-                    "44123407-32f4-448a-a2c2-c42257f94a54",
-                    "e77f2858-5028-4f8c-9df7-f08e60783a4e",
-                    "0728390a-04a5-424f-ab40-a0d788f86847"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "e575942e-2f8c-49f1-bf92-dd575bea96b0",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1dad2969-a198-4a82-9523-5277b6681da1",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "44123407-32f4-448a-a2c2-c42257f94a54",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e77f2858-5028-4f8c-9df7-f08e60783a4e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "0728390a-04a5-424f-ab40-a0d788f86847",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "698fb268-4c4b-4a81-80af-ac34a2892da6": {
-                "uuid": "698fb268-4c4b-4a81-80af-ac34a2892da6",
-                "title": "Салати",
-                "itemUuids": [
-                    "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                    "a8e9e8ed-e280-4e70-b311-513936c4735e",
-                    "b318a298-9407-4545-949d-dbc34a9ede7e",
-                    "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
-                    "a6450864-b5c8-48b1-8109-46b7159cc4fe",
-                    "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
-                    "663978a4-1559-46a0-8192-efe5dc56af74",
-                    "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a8e9e8ed-e280-4e70-b311-513936c4735e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b318a298-9407-4545-949d-dbc34a9ede7e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "a6450864-b5c8-48b1-8109-46b7159cc4fe",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "663978a4-1559-46a0-8192-efe5dc56af74",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b": {
-                "uuid": "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b",
-                "title": "Супи",
-                "itemUuids": [
-                    "bce8c008-2354-41aa-808d-25f7b919201a",
-                    "9de53d88-83a9-418d-af00-e1519ab7c64b",
-                    "5d884199-bc97-4128-ac1b-c12d306db05c",
-                    "20babf90-1367-4efa-8e85-840bbae7df9d",
-                    "61bf4c40-64aa-44c1-84d6-1d6f65ced686"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "bce8c008-2354-41aa-808d-25f7b919201a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9de53d88-83a9-418d-af00-e1519ab7c64b",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "20babf90-1367-4efa-8e85-840bbae7df9d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "61bf4c40-64aa-44c1-84d6-1d6f65ced686",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4": {
-                "uuid": "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
-                "title": "Homemade pates and mousses",
-                "itemUuids": [
-                    "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
-                    "74f07519-0fce-43c8-815a-bf3cb6066d07",
-                    "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
-                    "1dcc552e-a1cb-406f-9137-4e49fa967749",
-                    "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
-                    "75f01784-8f17-4b04-b2b2-1d63ec9c438d"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "550421a8-cadc-42d8-97f7-0cfb98a99859": {
-                "uuid": "550421a8-cadc-42d8-97f7-0cfb98a99859",
-                "title": "Salads",
-                "itemUuids": [
-                    "750950ae-db9f-4ab7-b90c-bd97c777812e",
-                    "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
-                    "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
-                    "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
-                    "b4196b6e-5d40-4f04-995d-83983028ef89",
-                    "e662333e-aa1c-4492-aab3-b1d85807e15d",
-                    "750bf2cd-efa9-4e63-a71c-56456565fc36",
-                    "e2f1fd86-02fc-46c0-8d0c-629a66588c2f"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "42fbb929-fe20-4d39-afbb-05faf9a40d48": {
-                "uuid": "42fbb929-fe20-4d39-afbb-05faf9a40d48",
-                "title": "Starters",
-                "itemUuids": [
-                    "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
-                    "9857966e-4c9f-42e6-bfdc-4820bb6936af",
-                    "7549ec73-7e54-434b-a6bb-25294e78b065",
-                    "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
-                    "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
-                    "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
-                    "682397f6-2951-4ba7-8c8d-0df11abda8e0",
-                    "26575601-8dbc-48e6-9b15-eb3768fae450",
-                    "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
-                    "522b0828-7048-40ea-b5d3-bd5ca917f5c7"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
-                        "type": "ITEM"
-                    }
-                ]
-            },
-            "7f1f7775-0d81-4c1a-8083-50726542a569": {
-                "uuid": "7f1f7775-0d81-4c1a-8083-50726542a569",
-                "title": "Популярне",
-                "itemUuids": [
-                    "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                    "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                    "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                    "5d884199-bc97-4128-ac1b-c12d306db05c",
-                    "29ec2611-3ea3-4a9b-b358-d934bcf61d5c"
-                ],
-                "displayItems": [
-                    {
-                        "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
-                        "type": "ITEM"
-                    },
-                    {
-                        "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
-                        "type": "ITEM"
-                    }
-                ]
-            }
-        },
-        "location": {
-            "latitude": 50.4539978,
-            "longitude": 30.5114524,
-            "address": {
-                "address1": "Olesia Honchara St, 15/3",
-                "aptOrSuite": "",
-                "city": "Kyiv",
-                "country": "UA",
-                "postalCode": "02000",
-                "region": "",
-                "formattedAddress": "Olesia Honchara St, 15/3, Kyiv, 02000"
-            }
-        },
-        "publicContact": {
-            "publicPhoneNumber": "+380678140505"
-        },
-        "priceBucket": "₴₴",
-        "slug": "чорноморка-вул-гончара",
-        "isOrderable": true,
-        "disableCheckoutInstruction": false,
-        "supportedDiningModes": [
-            "DELIVERY"
-        ],
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
-        "heroImage": {
-            "items": [
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9",
-                    "width": 2880,
-                    "height": 2304
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/e95abe07-77ce-4d9e-a164-10b975f62418",
-                    "width": 1080,
-                    "height": 864
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/cb8baced-1dfe-4794-a5a6-2f7f8817c9e7",
-                    "width": 750,
-                    "height": 600
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/068c2ec6-d3b9-42d3-9701-77a2f60d90f1",
-                    "width": 640,
-                    "height": 512
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
-                    "width": 550,
-                    "height": 440
-                },
-                {
-                    "url": "https://d1ralsognjng37.cloudfront.net/6f1b8bfb-fc3f-4303-be70-cdcb0ff36d10",
-                    "width": 240,
-                    "height": 192
-                }
-            ]
-        },
-        "closedEtaMessage": "Currently unavailable",
-        "notOrderableMessage": "Currently unavailable",
-        "storeBadges": {
-            "endorsement": {
-                "backgroundColor": {
-                    "alpha": 1,
-                    "color": "59BD5A"
-                },
-                "iconColor": {
-                    "alpha": 1,
-                    "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-                "text": "Риба і морепродукти за доступними цінами",
-                "textColor": {
-                    "alpha": 1,
-                    "color": "FFFFFF"
-                }
-            },
-            "disclaimerBadge": {
-                "textFormat": ""
-            },
-            "ratingBadge": {
-                "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(79)</span></span>",
-                "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 79 reviews."
-            },
-            "taglineBadge": {
-                "textFormat": "<span>₴₴ • Seafood • Jewish • European</span>"
-            },
-            "etaBadge": {
-                "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-                "text": "45–55 MINS",
-                "textFormat": "<span>45–55 MINS</span>",
-                "accessibilityText": "Delivered in 45 to 55 MINS"
-            }
-        },
-        "etaRange": {
-            "min": 45,
-            "max": 55,
-            "raw": 50
-        },
-        "fareInfo": {
-            "serviceFee": 30
-        },
-        "eaterFields": {},
-        "meta": {
-            "sectionHoursInfo": [
-                {
-                    "dayRange": "Every day",
-                    "sectionHours": [
-                        {
-                            "startTime": 660,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (UKR)"
-                        },
-                        {
-                            "startTime": 660,
-                            "endTime": 1320,
-                            "title": "SWITCH LANGUAGE (ENG)"
-                        }
-                    ]
-                }
-            ]
-        },
-        "nuggets": [],
-        "displayConfig": {
-            "regionalDisplayType": "DEFAULT"
-        },
-        "enabledFulfillmentTypes": [
-            "DELIVERY"
-        ],
-        "citySlug": "kyiv",
-        "cityName": "Kyiv",
-        "currencyCode": "UAH",
-        "currencyNumDigitsAfterDecimal": 2
+  "uuid": "57d5f153-d4f6-4b06-811c-bc6abbc34a56",
+  "title": "Чорноморка (вул. Гончара)",
+  "regionId": 943,
+  "categories": [
+    {
+      "uuid": "Seafood",
+      "name": "Морепродукти",
+      "keyName": "Seafood"
+    },
+    {
+      "uuid": "Jewish",
+      "name": "Єврейська",
+      "keyName": "Jewish"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
     }
+  ],
+  "sections": [
+    {
+      "uuid": "56924f5d-da30-4968-a765-ef8c4902582c",
+      "title": "SWITCH LANGUAGE (UKR)",
+      "subtitle": "11:00 AM – 10:00 PM",
+      "isTop": true,
+      "isOnSale": true,
+      "subsectionUuids": [
+        "7f1f7775-0d81-4c1a-8083-50726542a569",
+        "204a9971-8c9e-4a9e-abaa-a401eba43918",
+        "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5",
+        "698fb268-4c4b-4a81-80af-ac34a2892da6",
+        "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b",
+        "dafe6586-6c20-4595-804f-34bb0f1635bf"
+      ]
+    },
+    {
+      "uuid": "5441ecfe-fb76-43a3-bf96-72042fb5726a",
+      "title": "SWITCH LANGUAGE (ENG)",
+      "subtitle": "11:00 AM – 10:00 PM",
+      "isOnSale": true,
+      "subsectionUuids": [
+        "42fbb929-fe20-4d39-afbb-05faf9a40d48",
+        "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
+        "550421a8-cadc-42d8-97f7-0cfb98a99859",
+        "376c0798-ab5a-4437-a569-c70bda0c2a40",
+        "5e7266b2-cef3-4329-9dd9-75b2c7521981"
+      ]
+    }
+  ],
+  "sectionEntitiesMap": {
+    "5441ecfe-fb76-43a3-bf96-72042fb5726a": {
+      "itemsMap": {
+        "5d0d2d27-99a0-41a8-822c-f999a065dfcb": {
+          "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
+          "title": "Salmon carpaccio",
+          "itemDescription": "",
+          "price": 18300
+        },
+        "682397f6-2951-4ba7-8c8d-0df11abda8e0": {
+          "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
+          "title": "Homemade herring with potatoes",
+          "itemDescription": "",
+          "price": 8900
+        },
+        "efa35b00-41be-40f2-82b6-767ad7bd0784": {
+          "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
+          "title": "Creamy oyster soup",
+          "itemDescription": "",
+          "price": 12700
+        },
+        "75f01784-8f17-4b04-b2b2-1d63ec9c438d": {
+          "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
+          "title": "Pate with shrimps",
+          "itemDescription": "For 100g.",
+          "price": 7600,
+          "customizationUuids": [
+            "4aa5e76d-8818-464d-a147-c2d925936156"
+          ]
+        },
+        "9857966e-4c9f-42e6-bfdc-4820bb6936af": {
+          "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
+          "title": "Bruschetta with salmon",
+          "itemDescription": "",
+          "price": 12300
+        },
+        "932cb404-6552-413c-b57f-a702a03ece23": {
+          "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
+          "title": "Tomato fish soup",
+          "itemDescription": "",
+          "price": 16500,
+          "suspendUntil": 8640000000
+        },
+        "1d76e9a7-c0d7-4068-9e8e-468376d17f36": {
+          "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
+          "title": "Provencal salad with fresh tuna",
+          "itemDescription": "",
+          "price": 23800
+        },
+        "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a": {
+          "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
+          "title": "Black sea soup",
+          "itemDescription": "",
+          "price": 6200
+        },
+        "ae4834ef-b6b6-4c40-ac90-25c914fbb987": {
+          "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
+          "title": "Mimosa salad with pollock liver",
+          "itemDescription": "",
+          "price": 9200
+        },
+        "e2f1fd86-02fc-46c0-8d0c-629a66588c2f": {
+          "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
+          "title": "Warm seafood salad",
+          "itemDescription": "",
+          "price": 19300
+        },
+        "750950ae-db9f-4ab7-b90c-bd97c777812e": {
+          "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
+          "title": "Fresh salad with seafood and ginger dressing",
+          "itemDescription": "",
+          "price": 19700
+        },
+        "522b0828-7048-40ea-b5d3-bd5ca917f5c7": {
+          "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
+          "title": "Tuna tartar",
+          "itemDescription": "",
+          "price": 25700
+        },
+        "74f07519-0fce-43c8-815a-bf3cb6066d07": {
+          "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
+          "title": "Pate with tuna",
+          "itemDescription": "For 100g.",
+          "price": 6200,
+          "customizationUuids": [
+            "097e7437-cd0c-43e2-9bde-ce2f72f58fc9"
+          ]
+        },
+        "1dcc552e-a1cb-406f-9137-4e49fa967749": {
+          "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
+          "title": "Pate with salmon",
+          "itemDescription": "For 100g.",
+          "price": 6800,
+          "customizationUuids": [
+            "b61680f9-41e6-4895-82af-996ca885b764"
+          ]
+        },
+        "e662333e-aa1c-4492-aab3-b1d85807e15d": {
+          "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
+          "title": "Arugula, with shrimp, cherry tomatoes and Parmesan cheese",
+          "itemDescription": "",
+          "price": 19500
+        },
+        "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d": {
+          "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
+          "title": "Green salad with Rapana",
+          "itemDescription": "",
+          "price": 15300
+        },
+        "d453bd59-b99f-4424-bc2b-a37e28be33ff": {
+          "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
+          "title": "Shellfish pasta",
+          "itemDescription": "",
+          "price": 18600
+        },
+        "7be0d00e-ba71-473f-9b90-db0e77f7a1e1": {
+          "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
+          "title": "Pate with stingray liver",
+          "itemDescription": "For 100g.",
+          "price": 4200,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "8df972ec-5272-4c51-911a-809535940633"
+          ]
+        },
+        "691e75b6-1481-43b9-ba8d-117e23fd2d47": {
+          "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
+          "title": "Mussels in a sauce of your choice",
+          "itemDescription": "Cream, garlic, tomato and soy sauces to choose from.",
+          "price": 8800,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "1d861093-c1a7-44cb-811b-f1210ef9269e",
+            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+          ]
+        },
+        "750bf2cd-efa9-4e63-a71c-56456565fc36": {
+          "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
+          "title": "Caesar with salted salmon",
+          "itemDescription": "",
+          "price": 17600
+        },
+        "7205240f-7e63-4838-b792-c633e5425523": {
+          "uuid": "7205240f-7e63-4838-b792-c633e5425523",
+          "title": "Pikeperch cutlets with mashed potato",
+          "itemDescription": "",
+          "price": 15200
+        },
+        "6279dd4e-5ad8-40bd-97fb-39f024796736": {
+          "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
+          "title": "Salmon cream soup",
+          "itemDescription": "",
+          "price": 14600,
+          "suspendUntil": 8640000000
+        },
+        "3a4bcba3-c23f-458d-8289-5ba4ac631fb5": {
+          "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
+          "title": "Homemade sprats with croutons",
+          "itemDescription": "",
+          "price": 8900
+        },
+        "c056129a-f54a-49f9-90a4-759977438963": {
+          "uuid": "c056129a-f54a-49f9-90a4-759977438963",
+          "title": "Fish solyanka",
+          "itemDescription": "",
+          "price": 14700
+        },
+        "26575601-8dbc-48e6-9b15-eb3768fae450": {
+          "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
+          "title": "Salmon tartar with Transcarpathian pike caviar",
+          "itemDescription": "",
+          "price": 19200
+        },
+        "889b3424-5c4e-4d5c-b58e-7f4bff15d082": {
+          "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
+          "title": "Salted kilka with potatoes",
+          "itemDescription": "",
+          "price": 5500
+        },
+        "0ba88047-429a-4722-b66b-a264f16f6f17": {
+          "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
+          "title": "Rapana meat with mushrooms and cherry tomatoes",
+          "itemDescription": "",
+          "price": 16200,
+          "customizationUuids": [
+            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+          ]
+        },
+        "04c6ce13-b00a-4da9-b031-8d9ba05d98c9": {
+          "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
+          "title": "Pate with cod liver",
+          "itemDescription": "For 100g.",
+          "price": 6300,
+          "customizationUuids": [
+            "5aa81bb0-8fcd-463c-9511-6d83e6250ea7"
+          ]
+        },
+        "5fb29ece-34f0-4b79-9614-ad2120be3bfd": {
+          "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
+          "title": "Carpathian pike caviar with spring onion",
+          "itemDescription": "",
+          "price": 17200
+        },
+        "d9f388ce-bb1e-4ae3-bcfb-7249560685a3": {
+          "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
+          "title": "Odessa forshmak with croutons",
+          "itemDescription": "",
+          "price": 7500
+        },
+        "c5f513a1-584d-4689-a025-a3b628a9f3cf": {
+          "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
+          "title": "Pike quenelle in creamy sauce",
+          "itemDescription": "",
+          "price": 14200,
+          "customizationUuids": [
+            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+          ]
+        },
+        "b4196b6e-5d40-4f04-995d-83983028ef89": {
+          "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
+          "title": "Olivier for your choise",
+          "itemDescription": "Mussels, rapana, or salmon.",
+          "price": 9600,
+          "customizationUuids": [
+            "7fd1a034-74d0-4411-beea-0a9fa16103e6"
+          ]
+        },
+        "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60": {
+          "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
+          "title": "Pate with mussels",
+          "itemDescription": "For 100g.",
+          "price": 4800,
+          "customizationUuids": [
+            "bffcd94a-bb07-457f-8333-36705748b833"
+          ]
+        },
+        "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3": {
+          "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
+          "title": "Seafood risotto",
+          "itemDescription": "",
+          "price": 18400
+        },
+        "7549ec73-7e54-434b-a6bb-25294e78b065": {
+          "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
+          "title": "Bruschetta with lightly-salted kilka, homemade sprats, homemade herring",
+          "itemDescription": "",
+          "price": 7700
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "42fbb929-fe20-4d39-afbb-05faf9a40d48",
+          "title": "Starters",
+          "itemUuids": [
+            "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
+            "9857966e-4c9f-42e6-bfdc-4820bb6936af",
+            "7549ec73-7e54-434b-a6bb-25294e78b065",
+            "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
+            "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
+            "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
+            "682397f6-2951-4ba7-8c8d-0df11abda8e0",
+            "26575601-8dbc-48e6-9b15-eb3768fae450",
+            "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
+            "522b0828-7048-40ea-b5d3-bd5ca917f5c7"
+          ],
+          "displayItems": [
+            {
+              "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
+              "title": "Odessa forshmak with croutons",
+              "itemDescription": "",
+              "price": 7500
+            },
+            {
+              "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
+              "title": "Bruschetta with salmon",
+              "itemDescription": "",
+              "price": 12300
+            },
+            {
+              "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
+              "title": "Bruschetta with lightly-salted kilka, homemade sprats, homemade herring",
+              "itemDescription": "",
+              "price": 7700
+            },
+            {
+              "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
+              "title": "Homemade sprats with croutons",
+              "itemDescription": "",
+              "price": 8900
+            },
+            {
+              "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
+              "title": "Carpathian pike caviar with spring onion",
+              "itemDescription": "",
+              "price": 17200
+            },
+            {
+              "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
+              "title": "Salted kilka with potatoes",
+              "itemDescription": "",
+              "price": 5500
+            },
+            {
+              "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
+              "title": "Homemade herring with potatoes",
+              "itemDescription": "",
+              "price": 8900
+            },
+            {
+              "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
+              "title": "Salmon tartar with Transcarpathian pike caviar",
+              "itemDescription": "",
+              "price": 19200
+            },
+            {
+              "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
+              "title": "Salmon carpaccio",
+              "itemDescription": "",
+              "price": 18300
+            },
+            {
+              "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
+              "title": "Tuna tartar",
+              "itemDescription": "",
+              "price": 25700
+            }
+          ]
+        },
+        {
+          "uuid": "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
+          "title": "Homemade pates and mousses",
+          "itemUuids": [
+            "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
+            "74f07519-0fce-43c8-815a-bf3cb6066d07",
+            "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
+            "1dcc552e-a1cb-406f-9137-4e49fa967749",
+            "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
+            "75f01784-8f17-4b04-b2b2-1d63ec9c438d"
+          ],
+          "displayItems": [
+            {
+              "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
+              "title": "Pate with cod liver",
+              "itemDescription": "For 100g.",
+              "price": 6300,
+              "customizationUuids": [
+                "5aa81bb0-8fcd-463c-9511-6d83e6250ea7"
+              ]
+            },
+            {
+              "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
+              "title": "Pate with tuna",
+              "itemDescription": "For 100g.",
+              "price": 6200,
+              "customizationUuids": [
+                "097e7437-cd0c-43e2-9bde-ce2f72f58fc9"
+              ]
+            },
+            {
+              "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
+              "title": "Pate with stingray liver",
+              "itemDescription": "For 100g.",
+              "price": 4200,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "8df972ec-5272-4c51-911a-809535940633"
+              ]
+            },
+            {
+              "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
+              "title": "Pate with salmon",
+              "itemDescription": "For 100g.",
+              "price": 6800,
+              "customizationUuids": [
+                "b61680f9-41e6-4895-82af-996ca885b764"
+              ]
+            },
+            {
+              "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
+              "title": "Pate with mussels",
+              "itemDescription": "For 100g.",
+              "price": 4800,
+              "customizationUuids": [
+                "bffcd94a-bb07-457f-8333-36705748b833"
+              ]
+            },
+            {
+              "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
+              "title": "Pate with shrimps",
+              "itemDescription": "For 100g.",
+              "price": 7600,
+              "customizationUuids": [
+                "4aa5e76d-8818-464d-a147-c2d925936156"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "550421a8-cadc-42d8-97f7-0cfb98a99859",
+          "title": "Salads",
+          "itemUuids": [
+            "750950ae-db9f-4ab7-b90c-bd97c777812e",
+            "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
+            "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
+            "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
+            "b4196b6e-5d40-4f04-995d-83983028ef89",
+            "e662333e-aa1c-4492-aab3-b1d85807e15d",
+            "750bf2cd-efa9-4e63-a71c-56456565fc36",
+            "e2f1fd86-02fc-46c0-8d0c-629a66588c2f"
+          ],
+          "displayItems": [
+            {
+              "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
+              "title": "Fresh salad with seafood and ginger dressing",
+              "itemDescription": "",
+              "price": 19700
+            },
+            {
+              "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
+              "title": "Green salad with Rapana",
+              "itemDescription": "",
+              "price": 15300
+            },
+            {
+              "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
+              "title": "Mimosa salad with pollock liver",
+              "itemDescription": "",
+              "price": 9200
+            },
+            {
+              "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
+              "title": "Provencal salad with fresh tuna",
+              "itemDescription": "",
+              "price": 23800
+            },
+            {
+              "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
+              "title": "Olivier for your choise",
+              "itemDescription": "Mussels, rapana, or salmon.",
+              "price": 9600,
+              "customizationUuids": [
+                "7fd1a034-74d0-4411-beea-0a9fa16103e6"
+              ]
+            },
+            {
+              "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
+              "title": "Arugula, with shrimp, cherry tomatoes and Parmesan cheese",
+              "itemDescription": "",
+              "price": 19500
+            },
+            {
+              "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
+              "title": "Caesar with salted salmon",
+              "itemDescription": "",
+              "price": 17600
+            },
+            {
+              "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
+              "title": "Warm seafood salad",
+              "itemDescription": "",
+              "price": 19300
+            }
+          ]
+        },
+        {
+          "uuid": "376c0798-ab5a-4437-a569-c70bda0c2a40",
+          "title": "Soups",
+          "itemUuids": [
+            "6279dd4e-5ad8-40bd-97fb-39f024796736",
+            "932cb404-6552-413c-b57f-a702a03ece23",
+            "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
+            "c056129a-f54a-49f9-90a4-759977438963",
+            "efa35b00-41be-40f2-82b6-767ad7bd0784"
+          ],
+          "displayItems": [
+            {
+              "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
+              "title": "Salmon cream soup",
+              "itemDescription": "",
+              "price": 14600,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
+              "title": "Tomato fish soup",
+              "itemDescription": "",
+              "price": 16500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
+              "title": "Black sea soup",
+              "itemDescription": "",
+              "price": 6200
+            },
+            {
+              "uuid": "c056129a-f54a-49f9-90a4-759977438963",
+              "title": "Fish solyanka",
+              "itemDescription": "",
+              "price": 14700
+            },
+            {
+              "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
+              "title": "Creamy oyster soup",
+              "itemDescription": "",
+              "price": 12700
+            }
+          ]
+        },
+        {
+          "uuid": "5e7266b2-cef3-4329-9dd9-75b2c7521981",
+          "title": "Main platters",
+          "itemUuids": [
+            "691e75b6-1481-43b9-ba8d-117e23fd2d47",
+            "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
+            "c5f513a1-584d-4689-a025-a3b628a9f3cf",
+            "7205240f-7e63-4838-b792-c633e5425523",
+            "d453bd59-b99f-4424-bc2b-a37e28be33ff",
+            "0ba88047-429a-4722-b66b-a264f16f6f17"
+          ],
+          "displayItems": [
+            {
+              "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
+              "title": "Mussels in a sauce of your choice",
+              "itemDescription": "Cream, garlic, tomato and soy sauces to choose from.",
+              "price": 8800,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "1d861093-c1a7-44cb-811b-f1210ef9269e",
+                "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+              ]
+            },
+            {
+              "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
+              "title": "Seafood risotto",
+              "itemDescription": "",
+              "price": 18400
+            },
+            {
+              "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
+              "title": "Pike quenelle in creamy sauce",
+              "itemDescription": "",
+              "price": 14200,
+              "customizationUuids": [
+                "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+              ]
+            },
+            {
+              "uuid": "7205240f-7e63-4838-b792-c633e5425523",
+              "title": "Pikeperch cutlets with mashed potato",
+              "itemDescription": "",
+              "price": 15200
+            },
+            {
+              "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
+              "title": "Shellfish pasta",
+              "itemDescription": "",
+              "price": 18600
+            },
+            {
+              "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
+              "title": "Rapana meat with mushrooms and cherry tomatoes",
+              "itemDescription": "",
+              "price": 16200,
+              "customizationUuids": [
+                "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "56924f5d-da30-4968-a765-ef8c4902582c": {
+      "itemsMap": {
+        "aa5a9759-091e-4301-8cb2-f845b01e58f4": {
+          "uuid": "aa5a9759-091e-4301-8cb2-f845b01e58f4",
+          "title": "Малосольна тюлька з картоплею",
+          "itemDescription": "",
+          "price": 5500
+        },
+        "9de53d88-83a9-418d-af00-e1519ab7c64b": {
+          "uuid": "9de53d88-83a9-418d-af00-e1519ab7c64b",
+          "title": "Томатний рибний суп",
+          "itemDescription": "",
+          "price": 16500,
+          "suspendUntil": 8640000000
+        },
+        "b318a298-9407-4545-949d-dbc34a9ede7e": {
+          "uuid": "b318a298-9407-4545-949d-dbc34a9ede7e",
+          "title": "Салат Мімоза з печінкою мінтаю",
+          "itemDescription": "",
+          "price": 9200
+        },
+        "44123407-32f4-448a-a2c2-c42257f94a54": {
+          "uuid": "44123407-32f4-448a-a2c2-c42257f94a54",
+          "title": "Намазка з лосося",
+          "itemDescription": "За 100г.",
+          "price": 6800,
+          "customizationUuids": [
+            "06a1b867-f670-46da-add2-62111a7ee394"
+          ]
+        },
+        "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3": {
+          "uuid": "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
+          "title": "Рукола з креветками, помідорами чері та пармезаном",
+          "itemDescription": "",
+          "price": 19500
+        },
+        "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95": {
+          "uuid": "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
+          "title": "Домашні шпроти з грінками",
+          "itemDescription": "",
+          "price": 8900
+        },
+        "32cfb373-f7ff-4eeb-9f87-ad2cbc752713": {
+          "uuid": "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
+          "title": "Ікра закарпатської щуки із зеленою цибулею",
+          "itemDescription": "",
+          "price": 17200
+        },
+        "40ca78be-e59b-4cb2-b2da-64ec12771bca": {
+          "uuid": "40ca78be-e59b-4cb2-b2da-64ec12771bca",
+          "title": "Карпачо з лосося",
+          "itemDescription": "",
+          "price": 18300
+        },
+        "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd": {
+          "uuid": "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd",
+          "title": "М'ясо рапана з грибами та томатами чері",
+          "itemDescription": "",
+          "price": 16200,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "828083df-63d6-433b-b5d6-c6d6fefa0641"
+          ]
+        },
+        "b6cca585-e31d-4e15-b191-055743f3d3b3": {
+          "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
+          "title": "Намазка з тунця",
+          "itemDescription": "За 100г.",
+          "price": 6200,
+          "customizationUuids": [
+            "ac40be0c-f76b-4c16-be1f-cb94b6708c3c"
+          ]
+        },
+        "884aa706-5aac-433d-b3ff-5e4d92c2ff41": {
+          "uuid": "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
+          "title": "Паста з молюсками",
+          "itemDescription": "",
+          "price": 18600,
+          "customizationUuids": [
+            "828083df-63d6-433b-b5d6-c6d6fefa0641"
+          ]
+        },
+        "0728390a-04a5-424f-ab40-a0d788f86847": {
+          "uuid": "0728390a-04a5-424f-ab40-a0d788f86847",
+          "title": "Намазка з креветки",
+          "itemDescription": "За 100г.",
+          "price": 7600,
+          "customizationUuids": [
+            "d50ba1d0-9e0a-497d-9d7f-91592ed6256a"
+          ]
+        },
+        "f640d3f8-6a2c-4657-9b59-23c88d9d2147": {
+          "uuid": "f640d3f8-6a2c-4657-9b59-23c88d9d2147",
+          "title": "Тартар з тунця",
+          "itemDescription": "",
+          "price": 25700
+        },
+        "a5573621-cbe3-4625-aab1-64201f041ce2": {
+          "uuid": "a5573621-cbe3-4625-aab1-64201f041ce2",
+          "title": "Тартар із лосося з ікрою закарпатської щуки",
+          "itemDescription": "",
+          "price": 19200
+        },
+        "a09e4ccb-77b1-4dab-ad16-f63597665684": {
+          "uuid": "a09e4ccb-77b1-4dab-ad16-f63597665684",
+          "title": "Ніжні котлетки з судака з картопляним пюре",
+          "itemDescription": "",
+          "price": 15200
+        },
+        "20babf90-1367-4efa-8e85-840bbae7df9d": {
+          "uuid": "20babf90-1367-4efa-8e85-840bbae7df9d",
+          "title": "Солянка рибна",
+          "itemDescription": "",
+          "price": 14700
+        },
+        "f8ee2f0a-1dc4-4e38-a121-807a261d6954": {
+          "uuid": "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
+          "title": "Прованський салат зі свіжим тунцем",
+          "itemDescription": "",
+          "price": 23800
+        },
+        "39d4dccf-4899-4778-86d1-35bf2f9a8b26": {
+          "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+          "title": "Одеський форшмак з грінками",
+          "itemDescription": "",
+          "price": 7500
+        },
+        "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a": {
+          "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+          "title": "Свіжий салат з морепродуктами та імбирною заправкою",
+          "itemDescription": "",
+          "price": 19700
+        },
+        "e77f2858-5028-4f8c-9df7-f08e60783a4e": {
+          "uuid": "e77f2858-5028-4f8c-9df7-f08e60783a4e",
+          "title": "Намазка з мідії",
+          "itemDescription": "За 100г.",
+          "price": 4800,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "f03bad21-04de-4efc-9679-b0e66144904f"
+          ]
+        },
+        "1dad2969-a198-4a82-9523-5277b6681da1": {
+          "uuid": "1dad2969-a198-4a82-9523-5277b6681da1",
+          "title": "Намазка з печінки ската-хвостокола",
+          "itemDescription": "За 100г.",
+          "price": 4200,
+          "customizationUuids": [
+            "086f1cd6-46f7-493b-9927-0aba556d939e"
+          ]
+        },
+        "663978a4-1559-46a0-8192-efe5dc56af74": {
+          "uuid": "663978a4-1559-46a0-8192-efe5dc56af74",
+          "title": "Цезар із малосольним лососем",
+          "itemDescription": "",
+          "price": 17600
+        },
+        "29ec2611-3ea3-4a9b-b358-d934bcf61d5c": {
+          "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
+          "title": "Кнелі зі щуки у вершковому соусі",
+          "itemDescription": "",
+          "price": 14200,
+          "customizationUuids": [
+            "828083df-63d6-433b-b5d6-c6d6fefa0641"
+          ]
+        },
+        "8597173a-e8a4-41c2-b218-02a56255f8df": {
+          "uuid": "8597173a-e8a4-41c2-b218-02a56255f8df",
+          "title": "Брускети з лососем",
+          "itemDescription": "",
+          "price": 12300
+        },
+        "228d31d8-f8ab-4d7e-bbd8-a3133f92342d": {
+          "uuid": "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
+          "title": "Брускети з малосольною тюлькою, домашніми шпротами та оселедцем власного засолу",
+          "itemDescription": "",
+          "price": 7700
+        },
+        "61bf4c40-64aa-44c1-84d6-1d6f65ced686": {
+          "uuid": "61bf4c40-64aa-44c1-84d6-1d6f65ced686",
+          "title": "Вершковий устричний суп",
+          "itemDescription": "",
+          "price": 12700
+        },
+        "a8e9e8ed-e280-4e70-b311-513936c4735e": {
+          "uuid": "a8e9e8ed-e280-4e70-b311-513936c4735e",
+          "title": "Зелений салат з м'ясом рапана",
+          "itemDescription": "",
+          "price": 15300
+        },
+        "5d884199-bc97-4128-ac1b-c12d306db05c": {
+          "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
+          "title": "Чорноморська юшка",
+          "itemDescription": "",
+          "price": 6200
+        },
+        "bce8c008-2354-41aa-808d-25f7b919201a": {
+          "uuid": "bce8c008-2354-41aa-808d-25f7b919201a",
+          "title": "Крем-суп з лосося",
+          "itemDescription": "",
+          "price": 14600,
+          "suspendUntil": 8640000000
+        },
+        "b5b10994-40d9-40fe-bc19-0620e83e0497": {
+          "uuid": "b5b10994-40d9-40fe-bc19-0620e83e0497",
+          "title": "Мідії у соусі на ваш вибір",
+          "itemDescription": "Вершковий, часниковий, томатний або соєвий.",
+          "price": 8800,
+          "suspendUntil": 8640000000,
+          "customizationUuids": [
+            "5aad1d87-3b71-48f1-a8c6-bc9c84d2c669",
+            "828083df-63d6-433b-b5d6-c6d6fefa0641"
+          ]
+        },
+        "a6450864-b5c8-48b1-8109-46b7159cc4fe": {
+          "uuid": "a6450864-b5c8-48b1-8109-46b7159cc4fe",
+          "title": "Олів'є на ваш вибір",
+          "itemDescription": "Мідії, м'ясо рапана або лосось.",
+          "price": 9600,
+          "customizationUuids": [
+            "1bab27ba-435f-4d49-b74b-d7a44b4415cf"
+          ]
+        },
+        "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5": {
+          "uuid": "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5",
+          "title": "Теплий салат з морепродуктами",
+          "itemDescription": "",
+          "price": 19300
+        },
+        "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36": {
+          "uuid": "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
+          "title": "Оселедець власного засолу з картоплею",
+          "itemDescription": "",
+          "price": 8900
+        },
+        "78a41be7-d53e-4f55-ad4c-7af8e10860d4": {
+          "uuid": "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
+          "title": "Різото з морепродуктами",
+          "itemDescription": "",
+          "price": 18400
+        },
+        "e575942e-2f8c-49f1-bf92-dd575bea96b0": {
+          "uuid": "e575942e-2f8c-49f1-bf92-dd575bea96b0",
+          "title": "Намазка з печінки тріски",
+          "itemDescription": "За 100г.",
+          "price": 6300,
+          "customizationUuids": [
+            "cf6fe197-39e2-49c8-930e-bea3ca48660e"
+          ]
+        }
+      },
+      "decoratedSubsections": [
+        {
+          "uuid": "7f1f7775-0d81-4c1a-8083-50726542a569",
+          "title": "Популярне",
+          "itemUuids": [
+            "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+            "b6cca585-e31d-4e15-b191-055743f3d3b3",
+            "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+            "5d884199-bc97-4128-ac1b-c12d306db05c",
+            "29ec2611-3ea3-4a9b-b358-d934bcf61d5c"
+          ],
+          "displayItems": [
+            {
+              "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+              "title": "Одеський форшмак з грінками",
+              "itemDescription": "",
+              "price": 7500
+            },
+            {
+              "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
+              "title": "Намазка з тунця",
+              "itemDescription": "За 100г.",
+              "price": 6200,
+              "customizationUuids": [
+                "ac40be0c-f76b-4c16-be1f-cb94b6708c3c"
+              ]
+            },
+            {
+              "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+              "title": "Свіжий салат з морепродуктами та імбирною заправкою",
+              "itemDescription": "",
+              "price": 19700
+            },
+            {
+              "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
+              "title": "Чорноморська юшка",
+              "itemDescription": "",
+              "price": 6200
+            },
+            {
+              "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
+              "title": "Кнелі зі щуки у вершковому соусі",
+              "itemDescription": "",
+              "price": 14200,
+              "customizationUuids": [
+                "828083df-63d6-433b-b5d6-c6d6fefa0641"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "204a9971-8c9e-4a9e-abaa-a401eba43918",
+          "title": "Закуски",
+          "itemUuids": [
+            "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+            "8597173a-e8a4-41c2-b218-02a56255f8df",
+            "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
+            "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
+            "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
+            "aa5a9759-091e-4301-8cb2-f845b01e58f4",
+            "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
+            "a5573621-cbe3-4625-aab1-64201f041ce2",
+            "40ca78be-e59b-4cb2-b2da-64ec12771bca",
+            "f640d3f8-6a2c-4657-9b59-23c88d9d2147"
+          ],
+          "displayItems": [
+            {
+              "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+              "title": "Одеський форшмак з грінками",
+              "itemDescription": "",
+              "price": 7500
+            },
+            {
+              "uuid": "8597173a-e8a4-41c2-b218-02a56255f8df",
+              "title": "Брускети з лососем",
+              "itemDescription": "",
+              "price": 12300
+            },
+            {
+              "uuid": "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
+              "title": "Брускети з малосольною тюлькою, домашніми шпротами та оселедцем власного засолу",
+              "itemDescription": "",
+              "price": 7700
+            },
+            {
+              "uuid": "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
+              "title": "Домашні шпроти з грінками",
+              "itemDescription": "",
+              "price": 8900
+            },
+            {
+              "uuid": "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
+              "title": "Ікра закарпатської щуки із зеленою цибулею",
+              "itemDescription": "",
+              "price": 17200
+            },
+            {
+              "uuid": "aa5a9759-091e-4301-8cb2-f845b01e58f4",
+              "title": "Малосольна тюлька з картоплею",
+              "itemDescription": "",
+              "price": 5500
+            },
+            {
+              "uuid": "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
+              "title": "Оселедець власного засолу з картоплею",
+              "itemDescription": "",
+              "price": 8900
+            },
+            {
+              "uuid": "a5573621-cbe3-4625-aab1-64201f041ce2",
+              "title": "Тартар із лосося з ікрою закарпатської щуки",
+              "itemDescription": "",
+              "price": 19200
+            },
+            {
+              "uuid": "40ca78be-e59b-4cb2-b2da-64ec12771bca",
+              "title": "Карпачо з лосося",
+              "itemDescription": "",
+              "price": 18300
+            },
+            {
+              "uuid": "f640d3f8-6a2c-4657-9b59-23c88d9d2147",
+              "title": "Тартар з тунця",
+              "itemDescription": "",
+              "price": 25700
+            }
+          ]
+        },
+        {
+          "uuid": "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5",
+          "title": "Чорноморські намазки",
+          "itemUuids": [
+            "e575942e-2f8c-49f1-bf92-dd575bea96b0",
+            "b6cca585-e31d-4e15-b191-055743f3d3b3",
+            "1dad2969-a198-4a82-9523-5277b6681da1",
+            "44123407-32f4-448a-a2c2-c42257f94a54",
+            "e77f2858-5028-4f8c-9df7-f08e60783a4e",
+            "0728390a-04a5-424f-ab40-a0d788f86847"
+          ],
+          "displayItems": [
+            {
+              "uuid": "e575942e-2f8c-49f1-bf92-dd575bea96b0",
+              "title": "Намазка з печінки тріски",
+              "itemDescription": "За 100г.",
+              "price": 6300,
+              "customizationUuids": [
+                "cf6fe197-39e2-49c8-930e-bea3ca48660e"
+              ]
+            },
+            {
+              "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
+              "title": "Намазка з тунця",
+              "itemDescription": "За 100г.",
+              "price": 6200,
+              "customizationUuids": [
+                "ac40be0c-f76b-4c16-be1f-cb94b6708c3c"
+              ]
+            },
+            {
+              "uuid": "1dad2969-a198-4a82-9523-5277b6681da1",
+              "title": "Намазка з печінки ската-хвостокола",
+              "itemDescription": "За 100г.",
+              "price": 4200,
+              "customizationUuids": [
+                "086f1cd6-46f7-493b-9927-0aba556d939e"
+              ]
+            },
+            {
+              "uuid": "44123407-32f4-448a-a2c2-c42257f94a54",
+              "title": "Намазка з лосося",
+              "itemDescription": "За 100г.",
+              "price": 6800,
+              "customizationUuids": [
+                "06a1b867-f670-46da-add2-62111a7ee394"
+              ]
+            },
+            {
+              "uuid": "e77f2858-5028-4f8c-9df7-f08e60783a4e",
+              "title": "Намазка з мідії",
+              "itemDescription": "За 100г.",
+              "price": 4800,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "f03bad21-04de-4efc-9679-b0e66144904f"
+              ]
+            },
+            {
+              "uuid": "0728390a-04a5-424f-ab40-a0d788f86847",
+              "title": "Намазка з креветки",
+              "itemDescription": "За 100г.",
+              "price": 7600,
+              "customizationUuids": [
+                "d50ba1d0-9e0a-497d-9d7f-91592ed6256a"
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "698fb268-4c4b-4a81-80af-ac34a2892da6",
+          "title": "Салати",
+          "itemUuids": [
+            "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+            "a8e9e8ed-e280-4e70-b311-513936c4735e",
+            "b318a298-9407-4545-949d-dbc34a9ede7e",
+            "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
+            "a6450864-b5c8-48b1-8109-46b7159cc4fe",
+            "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
+            "663978a4-1559-46a0-8192-efe5dc56af74",
+            "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5"
+          ],
+          "displayItems": [
+            {
+              "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+              "title": "Свіжий салат з морепродуктами та імбирною заправкою",
+              "itemDescription": "",
+              "price": 19700
+            },
+            {
+              "uuid": "a8e9e8ed-e280-4e70-b311-513936c4735e",
+              "title": "Зелений салат з м'ясом рапана",
+              "itemDescription": "",
+              "price": 15300
+            },
+            {
+              "uuid": "b318a298-9407-4545-949d-dbc34a9ede7e",
+              "title": "Салат Мімоза з печінкою мінтаю",
+              "itemDescription": "",
+              "price": 9200
+            },
+            {
+              "uuid": "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
+              "title": "Прованський салат зі свіжим тунцем",
+              "itemDescription": "",
+              "price": 23800
+            },
+            {
+              "uuid": "a6450864-b5c8-48b1-8109-46b7159cc4fe",
+              "title": "Олів'є на ваш вибір",
+              "itemDescription": "Мідії, м'ясо рапана або лосось.",
+              "price": 9600,
+              "customizationUuids": [
+                "1bab27ba-435f-4d49-b74b-d7a44b4415cf"
+              ]
+            },
+            {
+              "uuid": "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
+              "title": "Рукола з креветками, помідорами чері та пармезаном",
+              "itemDescription": "",
+              "price": 19500
+            },
+            {
+              "uuid": "663978a4-1559-46a0-8192-efe5dc56af74",
+              "title": "Цезар із малосольним лососем",
+              "itemDescription": "",
+              "price": 17600
+            },
+            {
+              "uuid": "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5",
+              "title": "Теплий салат з морепродуктами",
+              "itemDescription": "",
+              "price": 19300
+            }
+          ]
+        },
+        {
+          "uuid": "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b",
+          "title": "Супи",
+          "itemUuids": [
+            "bce8c008-2354-41aa-808d-25f7b919201a",
+            "9de53d88-83a9-418d-af00-e1519ab7c64b",
+            "5d884199-bc97-4128-ac1b-c12d306db05c",
+            "20babf90-1367-4efa-8e85-840bbae7df9d",
+            "61bf4c40-64aa-44c1-84d6-1d6f65ced686"
+          ],
+          "displayItems": [
+            {
+              "uuid": "bce8c008-2354-41aa-808d-25f7b919201a",
+              "title": "Крем-суп з лосося",
+              "itemDescription": "",
+              "price": 14600,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "9de53d88-83a9-418d-af00-e1519ab7c64b",
+              "title": "Томатний рибний суп",
+              "itemDescription": "",
+              "price": 16500,
+              "suspendUntil": 8640000000
+            },
+            {
+              "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
+              "title": "Чорноморська юшка",
+              "itemDescription": "",
+              "price": 6200
+            },
+            {
+              "uuid": "20babf90-1367-4efa-8e85-840bbae7df9d",
+              "title": "Солянка рибна",
+              "itemDescription": "",
+              "price": 14700
+            },
+            {
+              "uuid": "61bf4c40-64aa-44c1-84d6-1d6f65ced686",
+              "title": "Вершковий устричний суп",
+              "itemDescription": "",
+              "price": 12700
+            }
+          ]
+        },
+        {
+          "uuid": "dafe6586-6c20-4595-804f-34bb0f1635bf",
+          "title": "Основні страви",
+          "itemUuids": [
+            "b5b10994-40d9-40fe-bc19-0620e83e0497",
+            "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
+            "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
+            "a09e4ccb-77b1-4dab-ad16-f63597665684",
+            "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
+            "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd"
+          ],
+          "displayItems": [
+            {
+              "uuid": "b5b10994-40d9-40fe-bc19-0620e83e0497",
+              "title": "Мідії у соусі на ваш вибір",
+              "itemDescription": "Вершковий, часниковий, томатний або соєвий.",
+              "price": 8800,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "5aad1d87-3b71-48f1-a8c6-bc9c84d2c669",
+                "828083df-63d6-433b-b5d6-c6d6fefa0641"
+              ]
+            },
+            {
+              "uuid": "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
+              "title": "Різото з морепродуктами",
+              "itemDescription": "",
+              "price": 18400
+            },
+            {
+              "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
+              "title": "Кнелі зі щуки у вершковому соусі",
+              "itemDescription": "",
+              "price": 14200,
+              "customizationUuids": [
+                "828083df-63d6-433b-b5d6-c6d6fefa0641"
+              ]
+            },
+            {
+              "uuid": "a09e4ccb-77b1-4dab-ad16-f63597665684",
+              "title": "Ніжні котлетки з судака з картопляним пюре",
+              "itemDescription": "",
+              "price": 15200
+            },
+            {
+              "uuid": "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
+              "title": "Паста з молюсками",
+              "itemDescription": "",
+              "price": 18600,
+              "customizationUuids": [
+                "828083df-63d6-433b-b5d6-c6d6fefa0641"
+              ]
+            },
+            {
+              "uuid": "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd",
+              "title": "М'ясо рапана з грибами та томатами чері",
+              "itemDescription": "",
+              "price": 16200,
+              "suspendUntil": 8640000000,
+              "customizationUuids": [
+                "828083df-63d6-433b-b5d6-c6d6fefa0641"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "subsectionsMap": {
+    "5e7266b2-cef3-4329-9dd9-75b2c7521981": {
+      "uuid": "5e7266b2-cef3-4329-9dd9-75b2c7521981",
+      "title": "Main platters",
+      "itemUuids": [
+        "691e75b6-1481-43b9-ba8d-117e23fd2d47",
+        "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
+        "c5f513a1-584d-4689-a025-a3b628a9f3cf",
+        "7205240f-7e63-4838-b792-c633e5425523",
+        "d453bd59-b99f-4424-bc2b-a37e28be33ff",
+        "0ba88047-429a-4722-b66b-a264f16f6f17"
+      ],
+      "displayItems": [
+        {
+          "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7205240f-7e63-4838-b792-c633e5425523",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "204a9971-8c9e-4a9e-abaa-a401eba43918": {
+      "uuid": "204a9971-8c9e-4a9e-abaa-a401eba43918",
+      "title": "Закуски",
+      "itemUuids": [
+        "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+        "8597173a-e8a4-41c2-b218-02a56255f8df",
+        "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
+        "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
+        "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
+        "aa5a9759-091e-4301-8cb2-f845b01e58f4",
+        "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
+        "a5573621-cbe3-4625-aab1-64201f041ce2",
+        "40ca78be-e59b-4cb2-b2da-64ec12771bca",
+        "f640d3f8-6a2c-4657-9b59-23c88d9d2147"
+      ],
+      "displayItems": [
+        {
+          "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "8597173a-e8a4-41c2-b218-02a56255f8df",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "228d31d8-f8ab-4d7e-bbd8-a3133f92342d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c7aac8c4-08a1-4063-b6a4-8c47d96bcf95",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "32cfb373-f7ff-4eeb-9f87-ad2cbc752713",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "aa5a9759-091e-4301-8cb2-f845b01e58f4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "cb5e3018-aaa5-42d2-8e81-6fe5f7c35e36",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a5573621-cbe3-4625-aab1-64201f041ce2",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "40ca78be-e59b-4cb2-b2da-64ec12771bca",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f640d3f8-6a2c-4657-9b59-23c88d9d2147",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "dafe6586-6c20-4595-804f-34bb0f1635bf": {
+      "uuid": "dafe6586-6c20-4595-804f-34bb0f1635bf",
+      "title": "Основні страви",
+      "itemUuids": [
+        "b5b10994-40d9-40fe-bc19-0620e83e0497",
+        "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
+        "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
+        "a09e4ccb-77b1-4dab-ad16-f63597665684",
+        "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
+        "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd"
+      ],
+      "displayItems": [
+        {
+          "uuid": "b5b10994-40d9-40fe-bc19-0620e83e0497",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "78a41be7-d53e-4f55-ad4c-7af8e10860d4",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a09e4ccb-77b1-4dab-ad16-f63597665684",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "884aa706-5aac-433d-b3ff-5e4d92c2ff41",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3ccb6a27-db18-454d-a5ba-d5dfbbafd0fd",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "376c0798-ab5a-4437-a569-c70bda0c2a40": {
+      "uuid": "376c0798-ab5a-4437-a569-c70bda0c2a40",
+      "title": "Soups",
+      "itemUuids": [
+        "6279dd4e-5ad8-40bd-97fb-39f024796736",
+        "932cb404-6552-413c-b57f-a702a03ece23",
+        "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
+        "c056129a-f54a-49f9-90a4-759977438963",
+        "efa35b00-41be-40f2-82b6-767ad7bd0784"
+      ],
+      "displayItems": [
+        {
+          "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "c056129a-f54a-49f9-90a4-759977438963",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5": {
+      "uuid": "3d8b0a28-50d2-4ba0-b34f-6f5020bddea5",
+      "title": "Чорноморські намазки",
+      "itemUuids": [
+        "e575942e-2f8c-49f1-bf92-dd575bea96b0",
+        "b6cca585-e31d-4e15-b191-055743f3d3b3",
+        "1dad2969-a198-4a82-9523-5277b6681da1",
+        "44123407-32f4-448a-a2c2-c42257f94a54",
+        "e77f2858-5028-4f8c-9df7-f08e60783a4e",
+        "0728390a-04a5-424f-ab40-a0d788f86847"
+      ],
+      "displayItems": [
+        {
+          "uuid": "e575942e-2f8c-49f1-bf92-dd575bea96b0",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1dad2969-a198-4a82-9523-5277b6681da1",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "44123407-32f4-448a-a2c2-c42257f94a54",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e77f2858-5028-4f8c-9df7-f08e60783a4e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "0728390a-04a5-424f-ab40-a0d788f86847",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "698fb268-4c4b-4a81-80af-ac34a2892da6": {
+      "uuid": "698fb268-4c4b-4a81-80af-ac34a2892da6",
+      "title": "Салати",
+      "itemUuids": [
+        "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+        "a8e9e8ed-e280-4e70-b311-513936c4735e",
+        "b318a298-9407-4545-949d-dbc34a9ede7e",
+        "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
+        "a6450864-b5c8-48b1-8109-46b7159cc4fe",
+        "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
+        "663978a4-1559-46a0-8192-efe5dc56af74",
+        "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5"
+      ],
+      "displayItems": [
+        {
+          "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a8e9e8ed-e280-4e70-b311-513936c4735e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b318a298-9407-4545-949d-dbc34a9ede7e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "f8ee2f0a-1dc4-4e38-a121-807a261d6954",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "a6450864-b5c8-48b1-8109-46b7159cc4fe",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3cfce5fb-432d-47d3-9385-2c4a99bfd5e3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "663978a4-1559-46a0-8192-efe5dc56af74",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e23d5fd0-3b33-4e94-9b14-b74c70de6ad5",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b": {
+      "uuid": "d429e180-a4bb-4a14-b4fc-c5b0019a7d5b",
+      "title": "Супи",
+      "itemUuids": [
+        "bce8c008-2354-41aa-808d-25f7b919201a",
+        "9de53d88-83a9-418d-af00-e1519ab7c64b",
+        "5d884199-bc97-4128-ac1b-c12d306db05c",
+        "20babf90-1367-4efa-8e85-840bbae7df9d",
+        "61bf4c40-64aa-44c1-84d6-1d6f65ced686"
+      ],
+      "displayItems": [
+        {
+          "uuid": "bce8c008-2354-41aa-808d-25f7b919201a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9de53d88-83a9-418d-af00-e1519ab7c64b",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "20babf90-1367-4efa-8e85-840bbae7df9d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "61bf4c40-64aa-44c1-84d6-1d6f65ced686",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4": {
+      "uuid": "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
+      "title": "Homemade pates and mousses",
+      "itemUuids": [
+        "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
+        "74f07519-0fce-43c8-815a-bf3cb6066d07",
+        "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
+        "1dcc552e-a1cb-406f-9137-4e49fa967749",
+        "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
+        "75f01784-8f17-4b04-b2b2-1d63ec9c438d"
+      ],
+      "displayItems": [
+        {
+          "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "550421a8-cadc-42d8-97f7-0cfb98a99859": {
+      "uuid": "550421a8-cadc-42d8-97f7-0cfb98a99859",
+      "title": "Salads",
+      "itemUuids": [
+        "750950ae-db9f-4ab7-b90c-bd97c777812e",
+        "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
+        "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
+        "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
+        "b4196b6e-5d40-4f04-995d-83983028ef89",
+        "e662333e-aa1c-4492-aab3-b1d85807e15d",
+        "750bf2cd-efa9-4e63-a71c-56456565fc36",
+        "e2f1fd86-02fc-46c0-8d0c-629a66588c2f"
+      ],
+      "displayItems": [
+        {
+          "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "42fbb929-fe20-4d39-afbb-05faf9a40d48": {
+      "uuid": "42fbb929-fe20-4d39-afbb-05faf9a40d48",
+      "title": "Starters",
+      "itemUuids": [
+        "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
+        "9857966e-4c9f-42e6-bfdc-4820bb6936af",
+        "7549ec73-7e54-434b-a6bb-25294e78b065",
+        "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
+        "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
+        "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
+        "682397f6-2951-4ba7-8c8d-0df11abda8e0",
+        "26575601-8dbc-48e6-9b15-eb3768fae450",
+        "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
+        "522b0828-7048-40ea-b5d3-bd5ca917f5c7"
+      ],
+      "displayItems": [
+        {
+          "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
+          "type": "ITEM"
+        }
+      ]
+    },
+    "7f1f7775-0d81-4c1a-8083-50726542a569": {
+      "uuid": "7f1f7775-0d81-4c1a-8083-50726542a569",
+      "title": "Популярне",
+      "itemUuids": [
+        "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+        "b6cca585-e31d-4e15-b191-055743f3d3b3",
+        "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+        "5d884199-bc97-4128-ac1b-c12d306db05c",
+        "29ec2611-3ea3-4a9b-b358-d934bcf61d5c"
+      ],
+      "displayItems": [
+        {
+          "uuid": "39d4dccf-4899-4778-86d1-35bf2f9a8b26",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b6cca585-e31d-4e15-b191-055743f3d3b3",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "b7b6ff37-e84c-42fe-9812-e93c4ef1da4a",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "5d884199-bc97-4128-ac1b-c12d306db05c",
+          "type": "ITEM"
+        },
+        {
+          "uuid": "29ec2611-3ea3-4a9b-b358-d934bcf61d5c",
+          "type": "ITEM"
+        }
+      ]
+    }
+  },
+  "location": {
+    "latitude": 50.4539978,
+    "longitude": 30.5114524,
+    "address": {
+      "address1": "Olesia Honchara St, 15/3",
+      "aptOrSuite": "",
+      "city": "Kyiv",
+      "country": "UA",
+      "postalCode": "02000",
+      "region": "",
+      "formattedAddress": "Olesia Honchara St, 15/3, Kyiv, 02000"
+    }
+  },
+  "publicContact": {
+    "publicPhoneNumber": "+380678140505"
+  },
+  "priceBucket": "₴₴",
+  "slug": "чорноморка-вул-гончара",
+  "isOrderable": true,
+  "disableCheckoutInstruction": false,
+  "supportedDiningModes": [
+    "DELIVERY"
+  ],
+  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
+  "heroImage": {
+    "items": [
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9",
+        "width": 2880,
+        "height": 2304
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/e95abe07-77ce-4d9e-a164-10b975f62418",
+        "width": 1080,
+        "height": 864
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/cb8baced-1dfe-4794-a5a6-2f7f8817c9e7",
+        "width": 750,
+        "height": 600
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/068c2ec6-d3b9-42d3-9701-77a2f60d90f1",
+        "width": 640,
+        "height": 512
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
+        "width": 550,
+        "height": 440
+      },
+      {
+        "url": "https://d1ralsognjng37.cloudfront.net/6f1b8bfb-fc3f-4303-be70-cdcb0ff36d10",
+        "width": 240,
+        "height": 192
+      }
+    ]
+  },
+  "closedEtaMessage": "Currently unavailable",
+  "notOrderableMessage": "Currently unavailable",
+  "storeBadges": {
+    "endorsement": {
+      "backgroundColor": {
+        "alpha": 1,
+        "color": "59BD5A"
+      },
+      "iconColor": {
+        "alpha": 1,
+        "color": "59BD5A"
+      },
+      "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+      "text": "Риба і морепродукти за доступними цінами",
+      "textColor": {
+        "alpha": 1,
+        "color": "FFFFFF"
+      }
+    },
+    "disclaimerBadge": {
+      "textFormat": ""
+    },
+    "ratingBadge": {
+      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(79)</span></span>",
+      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 79 reviews."
+    },
+    "taglineBadge": {
+      "textFormat": "<span>₴₴ • Seafood • Jewish • European</span>"
+    },
+    "etaBadge": {
+      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
+      "text": "45–55 MINS",
+      "textFormat": "<span>45–55 MINS</span>",
+      "accessibilityText": "Delivered in 45 to 55 MINS"
+    }
+  },
+  "etaRange": {
+    "min": 45,
+    "max": 55,
+    "raw": 50
+  },
+  "fareInfo": {
+    "serviceFee": 30
+  },
+  "eaterFields": {},
+  "meta": {
+    "sectionHoursInfo": [
+      {
+        "dayRange": "Every day",
+        "sectionHours": [
+          {
+            "startTime": 660,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (UKR)"
+          },
+          {
+            "startTime": 660,
+            "endTime": 1320,
+            "title": "SWITCH LANGUAGE (ENG)"
+          }
+        ]
+      }
+    ]
+  },
+  "nuggets": [],
+  "displayConfig": {
+    "regionalDisplayType": "DEFAULT"
+  },
+  "enabledFulfillmentTypes": [
+    "DELIVERY"
+  ],
+  "citySlug": "kyiv",
+  "cityName": "Kyiv",
+  "currencyCode": "UAH",
+  "currencyNumDigitsAfterDecimal": 2
 }
