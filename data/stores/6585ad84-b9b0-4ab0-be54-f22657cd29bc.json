@@ -4155,11 +4155,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "musafir-вул-саксаганського",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/ed032859-05fa-4761-9a4f-ac5fb7d5859a",
   "heroImage": {
     "items": [
@@ -4195,8 +4190,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "endorsement": {
       "backgroundColor": {
@@ -4235,84 +4228,5 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Sunday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1290,
-            "title": "Copy of SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Monday",
-        "sectionHours": [
-          {
-            "startTime": 660,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1290,
-            "title": "Copy of SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Tuesday - Saturday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1290,
-            "title": "Copy of SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

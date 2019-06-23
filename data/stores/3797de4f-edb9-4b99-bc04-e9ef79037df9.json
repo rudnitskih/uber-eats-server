@@ -2102,11 +2102,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "milk-bar",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
   "heroImage": {
     "items": [
@@ -2142,8 +2137,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "endorsement": {
       "backgroundColor": {
@@ -2182,69 +2175,5 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Sunday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Monday - Friday",
-        "sectionHours": [
-          {
-            "startTime": 690,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 690,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Saturday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

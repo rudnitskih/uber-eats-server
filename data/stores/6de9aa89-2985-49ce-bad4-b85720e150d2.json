@@ -2164,11 +2164,6 @@
   },
   "priceBucket": "₴",
   "slug": "shashlikyan-вул-велика-васильківська",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/dba367fc-e42b-4eb3-a532-220c5046abf5",
   "heroImage": {
     "items": [
@@ -2204,8 +2199,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "endorsement": {
       "backgroundColor": {
@@ -2244,39 +2237,5 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1275,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1275,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

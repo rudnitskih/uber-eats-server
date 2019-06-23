@@ -1077,11 +1077,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "mimosa-brooklyn-pizza",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0e8d32ee-5f96-45dc-99db-19b17001d4ee",
   "heroImage": {
     "items": [
@@ -1117,8 +1112,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "endorsement": {
       "backgroundColor": {
@@ -1157,39 +1150,5 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1320,
-            "title": "Меню"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1320,
-            "title": "Menu"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

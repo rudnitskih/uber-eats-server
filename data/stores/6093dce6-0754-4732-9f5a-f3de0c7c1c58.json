@@ -3324,11 +3324,6 @@
   },
   "priceBucket": "₴₴₴",
   "slug": "fujiwara-yoshi-вул-соломянська",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71",
   "heroImage": {
     "items": [
@@ -3364,8 +3359,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "endorsement": {
       "backgroundColor": {
@@ -3404,39 +3397,5 @@
     "min": 50,
     "max": 60,
     "raw": 55
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 660,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

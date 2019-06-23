@@ -1610,11 +1610,6 @@
   },
   "priceBucket": "₴",
   "slug": "raman-sumasbrod",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
   "heroImage": {
     "items": [
@@ -1650,8 +1645,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -1674,39 +1667,5 @@
     "min": 15,
     "max": 25,
     "raw": 20
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1305,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1305,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

@@ -2811,11 +2811,6 @@
   },
   "priceBucket": "₴",
   "slug": "чашка-espresso-bar",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
   "heroImage": {
     "items": [
@@ -2851,8 +2846,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -2875,49 +2868,5 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR1)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (ENG1)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (UKR2)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (ENG2)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

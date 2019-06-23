@@ -1717,11 +1717,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "true-burger-bar",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
   "heroImage": {
     "items": [
@@ -1757,8 +1752,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -1781,39 +1774,5 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

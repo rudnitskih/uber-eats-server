@@ -3990,12 +3990,7 @@
   },
   "priceBucket": "₴₴",
   "slug": "сушия-просп-голосіівськии",
-  "isOrderable": true,
   "disableOrderInstruction": false,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/f643aaaa-c2ee-4828-9cdf-55f2450e068b",
   "heroImage": {
     "items": [
@@ -4031,8 +4026,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "endorsement": {
       "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
@@ -4059,39 +4052,5 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

@@ -17,7 +17,12 @@ fs.readdir(dirname, function (err, filenames) {
 });
 
 function processFile(filePath, data) {
-  delete data.regionId;
+  delete data.currencyNumDigitsAfterDecimal;
+  delete data.displayConfig;
+  delete data.nuggets;
+  delete data.meta;
+  delete data.fareInfo;
+  delete data.notOrderableMessage;
 
   const rawdata = JSON.stringify(data, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {

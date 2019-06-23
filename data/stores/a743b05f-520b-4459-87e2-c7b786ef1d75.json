@@ -4600,12 +4600,7 @@
   },
   "priceBucket": "₴",
   "slug": "софра-кловськии-узвіз",
-  "isOrderable": true,
   "disableOrderInstruction": false,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
   "heroImage": {
     "items": [
@@ -4641,8 +4636,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -4665,39 +4658,5 @@
     "min": 50,
     "max": 60,
     "raw": 55
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 630,
-            "endTime": 1305,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 630,
-            "endTime": 1305,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

@@ -2598,11 +2598,6 @@
   },
   "priceBucket": "₴",
   "slug": "berliner-doner-б-р-т-шевченка",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w550-01.jpg",
   "heroImage": {
     "items": [
@@ -2638,8 +2633,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -2662,84 +2655,5 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Sunday",
-        "sectionHours": [
-          {
-            "startTime": 720,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 720,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Monday - Thursday",
-        "sectionHours": [
-          {
-            "startTime": 660,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1290,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Friday",
-        "sectionHours": [
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Saturday",
-        "sectionHours": [
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

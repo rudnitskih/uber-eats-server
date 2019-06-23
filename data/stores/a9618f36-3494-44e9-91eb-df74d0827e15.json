@@ -3117,12 +3117,7 @@
   },
   "priceBucket": "₴₴",
   "slug": "viet-bar",
-  "isOrderable": true,
   "disableOrderInstruction": false,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/7de8ef71-0282-48bd-bee3-a9b8e8d34c07",
   "heroImage": {
     "items": [
@@ -3158,8 +3153,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -3182,39 +3175,5 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

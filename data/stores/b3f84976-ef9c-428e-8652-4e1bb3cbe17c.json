@@ -1622,11 +1622,6 @@
   },
   "priceBucket": "₴",
   "slug": "walker-food-вул-антоновича",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
   "heroImage": {
     "items": [
@@ -1662,8 +1657,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -1686,79 +1679,5 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Sunday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1185,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1245,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1185,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Monday - Friday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1245,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1245,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Saturday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1185,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1245,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1185,
-            "title": "SWITCH LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

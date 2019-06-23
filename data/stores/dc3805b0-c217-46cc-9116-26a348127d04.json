@@ -2219,11 +2219,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "zigzag",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9",
   "heroImage": {
     "items": [
@@ -2259,8 +2254,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -2283,99 +2276,5 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Sunday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 840,
-            "title": "Ранкове меню"
-          },
-          {
-            "startTime": 840,
-            "endTime": 1320,
-            "title": "Основне меню"
-          },
-          {
-            "startTime": 600,
-            "endTime": 840,
-            "title": "Breakfasts (Eng)"
-          },
-          {
-            "startTime": 840,
-            "endTime": 1320,
-            "title": "Main menu (Eng)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Monday - Friday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 780,
-            "title": "Ранкове меню"
-          },
-          {
-            "startTime": 780,
-            "endTime": 1320,
-            "title": "Основне меню"
-          },
-          {
-            "startTime": 600,
-            "endTime": 780,
-            "title": "Breakfasts (Eng)"
-          },
-          {
-            "startTime": 780,
-            "endTime": 1320,
-            "title": "Main menu (Eng)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Saturday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 840,
-            "title": "Ранкове меню"
-          },
-          {
-            "startTime": 840,
-            "endTime": 1320,
-            "title": "Основне меню"
-          },
-          {
-            "startTime": 600,
-            "endTime": 840,
-            "title": "Breakfasts (Eng)"
-          },
-          {
-            "startTime": 840,
-            "endTime": 1320,
-            "title": "Main menu (Eng)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

@@ -2662,11 +2662,6 @@
   },
   "priceBucket": "₴₴₴",
   "slug": "fish-&-pussycat",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
   "heroImage": {
     "items": [
@@ -2702,8 +2697,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -2726,44 +2719,5 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "Меню"
-          },
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "Menu"
-          },
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "Copy of Меню"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

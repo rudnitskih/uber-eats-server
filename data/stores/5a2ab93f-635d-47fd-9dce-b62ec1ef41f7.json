@@ -1383,11 +1383,6 @@
   },
   "priceBucket": "₴",
   "slug": "іzh",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
   "heroImage": {
     "items": [
@@ -1423,8 +1418,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -1447,69 +1440,5 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Sunday",
-        "sectionHours": [
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "Меню"
-          },
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "Menu"
-          }
-        ]
-      },
-      {
-        "dayRange": "Monday - Friday",
-        "sectionHours": [
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "Меню"
-          },
-          {
-            "startTime": 660,
-            "endTime": 1320,
-            "title": "Menu"
-          }
-        ]
-      },
-      {
-        "dayRange": "Saturday",
-        "sectionHours": [
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "Меню"
-          },
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "Menu"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

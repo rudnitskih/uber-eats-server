@@ -5390,12 +5390,7 @@
   },
   "priceBucket": "₴",
   "slug": "street-hub-круасан",
-  "isOrderable": true,
   "disableOrderInstruction": false,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/32642c43-8a73-4db7-a242-3d0c698543a8",
   "heroImage": {
     "items": [
@@ -5431,8 +5426,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -5455,89 +5448,5 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Sunday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Monday - Friday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 719,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 720,
-            "endTime": 960,
-            "title": "Ланч-меню"
-          },
-          {
-            "startTime": 961,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          }
-        ]
-      },
-      {
-        "dayRange": "Saturday",
-        "sectionHours": [
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (ENG)"
-          },
-          {
-            "startTime": 600,
-            "endTime": 1200,
-            "title": "SWITCH LANGUAGE (UKR)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }

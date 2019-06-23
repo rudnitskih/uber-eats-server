@@ -1239,11 +1239,6 @@
   },
   "priceBucket": "₴",
   "slug": "yummy-dogs",
-  "isOrderable": true,
-  "disableCheckoutInstruction": false,
-  "supportedDiningModes": [
-    "DELIVERY"
-  ],
   "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
   "heroImage": {
     "items": [
@@ -1279,8 +1274,6 @@
       }
     ]
   },
-  "closedEtaMessage": "Currently unavailable",
-  "notOrderableMessage": "Currently unavailable",
   "storeBadges": {
     "disclaimerBadge": {
       "textFormat": ""
@@ -1303,39 +1296,5 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  },
-  "fareInfo": {
-    "serviceFee": 30
-  },
-  "eaterFields": {},
-  "meta": {
-    "sectionHoursInfo": [
-      {
-        "dayRange": "Every day",
-        "sectionHours": [
-          {
-            "startTime": 720,
-            "endTime": 1300,
-            "title": "SWITCH  LANGUAGE (UKR)"
-          },
-          {
-            "startTime": 720,
-            "endTime": 1320,
-            "title": "SWITCH  LANGUAGE (ENG)"
-          }
-        ]
-      }
-    ]
-  },
-  "nuggets": [],
-  "displayConfig": {
-    "regionalDisplayType": "DEFAULT"
-  },
-  "enabledFulfillmentTypes": [
-    "DELIVERY"
-  ],
-  "citySlug": "kyiv",
-  "cityName": "Kyiv",
-  "currencyCode": "UAH",
-  "currencyNumDigitsAfterDecimal": 2
+  }
 }
