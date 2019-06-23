@@ -20,1146 +20,152 @@
   ],
   "sections": [
     {
-      "uuid": "11f75829-2e7e-4cdf-86fb-e081fe9120bf",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "11:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "5314d531-f037-42c2-9577-edd4193c4c30",
-        "217957ad-d7ac-4de5-a67c-0b4aed74261d",
-        "8947e6fe-0b4d-48d9-af87-346c02b61f97",
-        "c86e5ec6-ad50-48af-b3fe-a8d23f106e98",
-        "e6f13ae7-28e8-4de2-badb-9ca71f47cc77",
-        "393a727b-026b-4ea7-9ced-203ea66bd2ea",
-        "304f6a20-ac84-4478-9ae8-b77ddc6723bd",
-        "f0a9eaae-822d-4002-b570-43db26ddf4d8",
-        "67d3b29b-8d73-428e-9a66-45edc9004855",
-        "2d8d2ce0-da06-4319-b8fb-3d2c414e26b8",
-        "b2ff8483-9a0a-4ace-81c1-bc4624ba1949"
+      "uuid": "5314d531-f037-42c2-9577-edd4193c4c30",
+      "title": "Khinkali",
+      "subtitle": "",
+      "itemUuids": [
+        "d782c7dc-e56d-4abf-85f1-b44911248b44",
+        "c52ee58d-ad8f-4561-b728-0f5139ba0918",
+        "f7e9c048-f045-4137-85df-995526fc63c1",
+        "24fe7126-ff81-4f6b-a4d9-14f3e5b07811"
+      ]
+    },
+    {
+      "uuid": "217957ad-d7ac-4de5-a67c-0b4aed74261d",
+      "title": "Try this",
+      "subtitle": "",
+      "itemUuids": [
+        "1bec61dc-c43f-4819-a3df-eb529a1dd80b",
+        "301d74d5-9a0a-497e-8c18-055616722074"
+      ]
+    },
+    {
+      "uuid": "8947e6fe-0b4d-48d9-af87-346c02b61f97",
+      "title": "Bakery",
+      "subtitle": "",
+      "itemUuids": [
+        "32f6ed55-54a8-423a-9fb9-2c8b53519b15",
+        "557ebe7f-713b-4f35-be08-ed930747ed40",
+        "9a099159-9a44-4dc2-bdb4-dd834444bb95",
+        "d93b6469-d66a-43cc-9b90-78cff54b9c92",
+        "d86fd3ea-13d9-424a-bd74-4622131f76e9",
+        "2f61f31b-cb6d-4d5a-8c7e-0b0d4c8ab3c3",
+        "e62fdaba-5fa9-4a0a-b29d-4eb36bd1a178",
+        "b3bb273a-7b27-4df5-bf4c-5e0adf13223d",
+        "0d379a53-7b94-4d1f-9f5d-a07364626fc5",
+        "aafadd24-49a1-4103-b0cb-8ccafb460501",
+        "52742ab9-da11-4e52-898e-98b0c9b88589"
+      ]
+    },
+    {
+      "uuid": "c86e5ec6-ad50-48af-b3fe-a8d23f106e98",
+      "title": "Sets",
+      "subtitle": "",
+      "itemUuids": [
+        "56fee81e-a01f-4393-8a22-0b00a2964974",
+        "862a6fe5-9dae-4abd-83ec-c739f000b13e"
+      ]
+    },
+    {
+      "uuid": "e6f13ae7-28e8-4de2-badb-9ca71f47cc77",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "aa131fc0-f1b6-4c68-99a7-f32b83eeebe8",
+        "f4739665-5512-44ce-a6b2-82860918be31",
+        "f94716b6-db77-4791-8bdf-cd534a628e1c",
+        "964c9bb4-7a4a-465b-891e-fa75f4963841",
+        "31701dbd-91ce-4f4a-84f3-9bd1f355b4a1",
+        "84216040-be50-4551-920f-08c675f1402a",
+        "5d90e3a5-e5f8-4ac7-a819-2f06f8933bbe"
+      ]
+    },
+    {
+      "uuid": "393a727b-026b-4ea7-9ced-203ea66bd2ea",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "a644d7f9-33bb-417b-b5fe-b6d504c89eeb",
+        "44fc978f-59f5-451b-a145-489107fbebbe",
+        "22cccb04-d01f-4baf-b6d7-3871a314b6cd",
+        "f1e8d11b-dc1b-4f87-ad1d-fe3c4f50b5fe",
+        "80642507-2cbb-4c85-8dbb-4a6b1a5804a5"
+      ]
+    },
+    {
+      "uuid": "304f6a20-ac84-4478-9ae8-b77ddc6723bd",
+      "title": "Appetizers",
+      "subtitle": "",
+      "itemUuids": [
+        "fd9c3c1a-4c30-49fb-82a7-9be57d4c5b9b",
+        "39ced593-a3f5-4612-906f-61f034e21c38",
+        "fc109f5c-40ef-4fef-b0a2-3f3cf6f58da9",
+        "00e042fe-3533-4ec3-89f7-87ec3f282190",
+        "da525244-6163-4640-bda5-848101a282f6",
+        "fb7f15f5-0266-4de2-9dd9-c9f516244822",
+        "a4bb0132-f045-4fdb-b211-9f5b270901d4"
+      ]
+    },
+    {
+      "uuid": "f0a9eaae-822d-4002-b570-43db26ddf4d8",
+      "title": "Main dishes",
+      "subtitle": "",
+      "itemUuids": [
+        "c777731a-b091-4252-99a4-3376466dac62",
+        "872536b9-53de-4cfe-9b92-8cd42a3a81ff",
+        "7166be81-200a-460f-a6b6-44132d694c07",
+        "74042fec-fe17-4968-9c85-9d3ee92d58ad",
+        "7d22e2d0-69bf-4728-9f60-26ed7a2ebd9b",
+        "89ccecd4-21b6-4076-8912-1df9ee58011c",
+        "2fba4446-2094-43db-9864-68ae16b07392",
+        "f22ff412-14bc-4c2c-8565-b96a44b40a2c"
+      ]
+    },
+    {
+      "uuid": "67d3b29b-8d73-428e-9a66-45edc9004855",
+      "title": "Grill and josper",
+      "subtitle": "",
+      "itemUuids": [
+        "ee401e51-f1ed-4956-81d8-77552b1c8902",
+        "e0671d44-6e0c-4253-9853-5ed1d3556785",
+        "556efa08-ce4f-45cb-9150-eb28ae41f04f",
+        "1eccbce4-8e10-474c-8da3-f66d4b624d9b",
+        "1039de61-b430-4177-a486-c28c76cea07d",
+        "89be25c4-bb64-46ee-b032-47135e9d74c1",
+        "e33a70a9-b010-47d3-88bb-45da59f7223d",
+        "26262c38-c076-4c96-99ae-4a38c0a7abbd",
+        "0f5d972e-4540-4573-94db-54120e870b3e",
+        "a1da1a8a-ea8b-4955-9b39-f29ddc640e4a",
+        "181f4545-30e3-4e4e-ac23-77ff8ff17bf4",
+        "6ca57685-cedd-4ec8-9930-d9bb398a8d60",
+        "e894d82c-9b21-4e4c-92e5-e527b3c8270b"
+      ]
+    },
+    {
+      "uuid": "2d8d2ce0-da06-4319-b8fb-3d2c414e26b8",
+      "title": "Desserts",
+      "subtitle": "",
+      "itemUuids": [
+        "6fb42945-e370-447b-9cf8-32f95646ed86",
+        "bb0204a4-2e27-465e-87df-7bb38f726ae5",
+        "0e032ced-febf-48f4-b174-6a583bd109ca"
+      ]
+    },
+    {
+      "uuid": "b2ff8483-9a0a-4ace-81c1-bc4624ba1949",
+      "title": "Beverages",
+      "subtitle": "",
+      "itemUuids": [
+        "17a4b093-8967-41f7-a4ee-11a6d08239bf",
+        "58a83370-5172-4883-851e-cd4effc7697f",
+        "f52606e4-37b5-49f4-9862-267a46f20f08",
+        "6c18112d-81cd-4803-aa13-00e85669fdae",
+        "e12ab81d-b770-43e7-97eb-f08fab7662ea",
+        "e4c8c2ae-ac19-42e7-86f4-6b33c68c11f2",
+        "9b530280-6464-41f3-aa67-a12371beca94"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "11f75829-2e7e-4cdf-86fb-e081fe9120bf": {
-      "itemsMap": {
-        "181f4545-30e3-4e4e-ac23-77ff8ff17bf4": {
-          "uuid": "181f4545-30e3-4e4e-ac23-77ff8ff17bf4",
-          "title": "Grilled sweet pepper 100g",
-          "itemDescription": "",
-          "price": 5200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "00e042fe-3533-4ec3-89f7-87ec3f282190": {
-          "uuid": "00e042fe-3533-4ec3-89f7-87ec3f282190",
-          "title": "Set of Georgian, and European cheeses",
-          "itemDescription": "270g",
-          "price": 15200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f94716b6-db77-4791-8bdf-cd534a628e1c": {
-          "uuid": "f94716b6-db77-4791-8bdf-cd534a628e1c",
-          "title": "Caesar \"light\" or \"with chicken\"",
-          "itemDescription": "To choose \"light\" (170g) or \"with chicken\" (250g).",
-          "price": 11200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "5326f37b-ae08-4032-8e28-71457dfb454a"
-          ]
-        },
-        "84216040-be50-4551-920f-08c675f1402a": {
-          "uuid": "84216040-be50-4551-920f-08c675f1402a",
-          "title": "Gogi salad",
-          "itemDescription": "250g.",
-          "price": 11200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/80f5eaec-0996-4904-9990-7fec4c2a883d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2fba4446-2094-43db-9864-68ae16b07392": {
-          "uuid": "2fba4446-2094-43db-9864-68ae16b07392",
-          "title": "Dolma Georgian style",
-          "itemDescription": "Marinated grape leaves, pork, and spices. Served with homemade matsoni (210/35g).",
-          "price": 11500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "d93b6469-d66a-43cc-9b90-78cff54b9c92": {
-          "uuid": "d93b6469-d66a-43cc-9b90-78cff54b9c92",
-          "title": "Mehrelian khachapuri",
-          "itemDescription": "490g.",
-          "price": 14600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "f7e9c048-f045-4137-85df-995526fc63c1": {
-          "uuid": "f7e9c048-f045-4137-85df-995526fc63c1",
-          "title": "Khinkali with cheese",
-          "itemDescription": "Size to choose.",
-          "price": 7200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "4d84d375-eff6-4172-8a8d-dc0804c7a799"
-          ]
-        },
-        "aa131fc0-f1b6-4c68-99a7-f32b83eeebe8": {
-          "uuid": "aa131fc0-f1b6-4c68-99a7-f32b83eeebe8",
-          "title": "Georgian salad \"classic\"",
-          "itemDescription": "250g",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/30232b5f-3e89-4075-ae10-2925d3b50b33",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "cda4783f-e2ed-48f1-ab1f-33f2d7d93eae"
-          ]
-        },
-        "9b530280-6464-41f3-aa67-a12371beca94": {
-          "uuid": "9b530280-6464-41f3-aa67-a12371beca94",
-          "title": "Red Bull",
-          "itemDescription": "250ml.",
-          "price": 4000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2f61f31b-cb6d-4d5a-8c7e-0b0d4c8ab3c3": {
-          "uuid": "2f61f31b-cb6d-4d5a-8c7e-0b0d4c8ab3c3",
-          "title": "Salmon kubdari",
-          "itemDescription": "480g.",
-          "price": 19600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "56fee81e-a01f-4393-8a22-0b00a2964974": {
-          "uuid": "56fee81e-a01f-4393-8a22-0b00a2964974",
-          "title": "Set of snacks to wine",
-          "itemDescription": "Pkhali spinach, and carrot, Suluguni cheese, Brinza cheese, smoked Suluguni, rolls of eggplant, greens, Telavian cold smoked pork, and shoti (950g).",
-          "price": 39900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "d782c7dc-e56d-4abf-85f1-b44911248b44": {
-          "uuid": "d782c7dc-e56d-4abf-85f1-b44911248b44",
-          "title": "Khinkali Telavian",
-          "itemDescription": "Size to choose.",
-          "price": 7200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "729c5167-7e61-428d-8748-fef8b6e26995"
-          ]
-        },
-        "17a4b093-8967-41f7-a4ee-11a6d08239bf": {
-          "uuid": "17a4b093-8967-41f7-a4ee-11a6d08239bf",
-          "title": "Morshinska",
-          "itemDescription": "300ml.",
-          "price": 3200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5d90e3a5-e5f8-4ac7-a819-2f06f8933bbe": {
-          "uuid": "5d90e3a5-e5f8-4ac7-a819-2f06f8933bbe",
-          "title": "Warm salad with chicken liver, and mustard sauce",
-          "itemDescription": "250g.",
-          "price": 11200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a052dff0-2e0e-47bb-ad71-16d8fc675236",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0d379a53-7b94-4d1f-9f5d-a07364626fc5": {
-          "uuid": "0d379a53-7b94-4d1f-9f5d-a07364626fc5",
-          "title": "Achma",
-          "itemDescription": "400g",
-          "price": 14200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "301d74d5-9a0a-497e-8c18-055616722074": {
-          "uuid": "301d74d5-9a0a-497e-8c18-055616722074",
-          "title": "Vegan roll",
-          "itemDescription": "300/50g.",
-          "price": 11400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a60d5429-4c63-423b-9e51-379450d7e9b8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "9a099159-9a44-4dc2-bdb4-dd834444bb95": {
-          "uuid": "9a099159-9a44-4dc2-bdb4-dd834444bb95",
-          "title": "\"Shelled\" ajarian khachapuri",
-          "itemDescription": "400g.",
-          "price": 14800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "fc109f5c-40ef-4fef-b0a2-3f3cf6f58da9": {
-          "uuid": "fc109f5c-40ef-4fef-b0a2-3f3cf6f58da9",
-          "title": "Set of Georgian pickles",
-          "itemDescription": "400g",
-          "price": 12400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6fb42945-e370-447b-9cf8-32f95646ed86": {
-          "uuid": "6fb42945-e370-447b-9cf8-32f95646ed86",
-          "title": "Ajarian pakhlava",
-          "itemDescription": "120g",
-          "price": 15600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7166be81-200a-460f-a6b6-44132d694c07": {
-          "uuid": "7166be81-200a-460f-a6b6-44132d694c07",
-          "title": "Chashushuli",
-          "itemDescription": "Veal stew with tomatoes, onions, basil, cilantro, and spices (350g).",
-          "price": 13600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "b3bb273a-7b27-4df5-bf4c-5e0adf13223d": {
-          "uuid": "b3bb273a-7b27-4df5-bf4c-5e0adf13223d",
-          "title": "Puff khachapuri",
-          "itemDescription": "Flavor to choose (450g).",
-          "price": 14600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/015ff637-2946-40d9-8a44-9e471e296148",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "a5e23418-7329-455c-bb16-3cc6a0c72baa",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "a4bb0132-f045-4fdb-b211-9f5b270901d4": {
-          "uuid": "a4bb0132-f045-4fdb-b211-9f5b270901d4",
-          "title": "Pkhali",
-          "itemDescription": "Carrot, beet, and spinach (150g).",
-          "price": 7800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8e2ae45-ef68-4d12-abb7-5dc3f3f1ebe8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d86fd3ea-13d9-424a-bd74-4622131f76e9": {
-          "uuid": "d86fd3ea-13d9-424a-bd74-4622131f76e9",
-          "title": "Khachapuri with spinach",
-          "itemDescription": "390g.",
-          "price": 12200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "c777731a-b091-4252-99a4-3376466dac62": {
-          "uuid": "c777731a-b091-4252-99a4-3376466dac62",
-          "title": "Adzhapsandali",
-          "itemDescription": "Vegetable stew with eggplant, tomatoes, peppers, onions, basil, cilantro, and spices (300g).",
-          "price": 10800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "32f6ed55-54a8-423a-9fb9-2c8b53519b15": {
-          "uuid": "32f6ed55-54a8-423a-9fb9-2c8b53519b15",
-          "title": "Imeretian khachapuri",
-          "itemDescription": "400g.",
-          "price": 12800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "862a6fe5-9dae-4abd-83ec-c739f000b13e": {
-          "uuid": "862a6fe5-9dae-4abd-83ec-c739f000b13e",
-          "title": "Barbecue plate for company",
-          "itemDescription": "Pork shashlyk, chicken shashlyk, lula kebab, half Tapaka chicken, tomato grill, cucumber,\nsweet pepper, bread lavasth, shoti, greens, adzhika, tkemali, and satsebeli (600/250/250/150g).",
-          "price": 62500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "1039de61-b430-4177-a486-c28c76cea07d": {
-          "uuid": "1039de61-b430-4177-a486-c28c76cea07d",
-          "title": "Mackerel",
-          "itemDescription": "1 pcs",
-          "price": 16400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "22cccb04-d01f-4baf-b6d7-3871a314b6cd": {
-          "uuid": "22cccb04-d01f-4baf-b6d7-3871a314b6cd",
-          "title": "Soup Chechevidze",
-          "itemDescription": "Lentil cream-soup (350g).",
-          "price": 7200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1eccbce4-8e10-474c-8da3-f66d4b624d9b": {
-          "uuid": "1eccbce4-8e10-474c-8da3-f66d4b624d9b",
-          "title": "Tapaka chicken",
-          "itemDescription": "Size to choose.",
-          "price": 12500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0e2fd559-1784-4f6d-8c40-7e49b56fb0db",
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "a644d7f9-33bb-417b-b5fe-b6d504c89eeb": {
-          "uuid": "a644d7f9-33bb-417b-b5fe-b6d504c89eeb",
-          "title": "Soup Kharcho",
-          "itemDescription": "Original Georgian Kharcho (350g).",
-          "price": 7200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6ff43ad6-f7b1-4a97-a625-82b7d3b802c5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "89be25c4-bb64-46ee-b032-47135e9d74c1": {
-          "uuid": "89be25c4-bb64-46ee-b032-47135e9d74c1",
-          "title": "Suluguni in lavash with herbs",
-          "itemDescription": "150g",
-          "price": 6700,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "89ccecd4-21b6-4076-8912-1df9ee58011c": {
-          "uuid": "89ccecd4-21b6-4076-8912-1df9ee58011c",
-          "title": "Chakapuli",
-          "itemDescription": "Lamb stew with tarragon, cilantro, mint, and spices (300g).",
-          "price": 14200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "557ebe7f-713b-4f35-be08-ed930747ed40": {
-          "uuid": "557ebe7f-713b-4f35-be08-ed930747ed40",
-          "title": "Ajarian khachapuri",
-          "itemDescription": "To choose small (300g) or standard (490g).",
-          "price": 12600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9aa26ef0-7f10-47ea-a93e-06998962c826",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "fa5782a7-cb11-41bc-b06f-b993ae6ae28d",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "f22ff412-14bc-4c2c-8565-b96a44b40a2c": {
-          "uuid": "f22ff412-14bc-4c2c-8565-b96a44b40a2c",
-          "title": "Red Lobio",
-          "itemDescription": "Beans, and herbs (250g).",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0804144f-05cb-4ab1-8fb3-10ee1b1134f7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "da525244-6163-4640-bda5-848101a282f6": {
-          "uuid": "da525244-6163-4640-bda5-848101a282f6",
-          "title": "Telavian cold baked pork",
-          "itemDescription": "100g",
-          "price": 9400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "bb0204a4-2e27-465e-87df-7bb38f726ae5": {
-          "uuid": "bb0204a4-2e27-465e-87df-7bb38f726ae5",
-          "title": "Nut cake from Gogi’s granny",
-          "itemDescription": "150g",
-          "price": 10400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "aafadd24-49a1-4103-b0cb-8ccafb460501": {
-          "uuid": "aafadd24-49a1-4103-b0cb-8ccafb460501",
-          "title": "Thin lavash",
-          "itemDescription": "50g",
-          "price": 1200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7d22e2d0-69bf-4728-9f60-26ed7a2ebd9b": {
-          "uuid": "7d22e2d0-69bf-4728-9f60-26ed7a2ebd9b",
-          "title": "Odzhahuri telavian style",
-          "itemDescription": "Pork baked with potatoes, tomatoes, onions, and spices (400g).",
-          "price": 15200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "a1da1a8a-ea8b-4955-9b39-f29ddc640e4a": {
-          "uuid": "a1da1a8a-ea8b-4955-9b39-f29ddc640e4a",
-          "title": "Grilled eggplant  100g",
-          "itemDescription": "",
-          "price": 5200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6c18112d-81cd-4803-aa13-00e85669fdae": {
-          "uuid": "6c18112d-81cd-4803-aa13-00e85669fdae",
-          "title": "Coca-Cola",
-          "itemDescription": "250ml.",
-          "price": 2800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "964c9bb4-7a4a-465b-891e-fa75f4963841": {
-          "uuid": "964c9bb4-7a4a-465b-891e-fa75f4963841",
-          "title": "Telavian Salad with homemade jerked ham",
-          "itemDescription": "300g",
-          "price": 13600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "872536b9-53de-4cfe-9b92-8cd42a3a81ff": {
-          "uuid": "872536b9-53de-4cfe-9b92-8cd42a3a81ff",
-          "title": "Chakhokhbili",
-          "itemDescription": "Chicken stew with tomatoes, onions, garlic, and spices (350g).",
-          "price": 13600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "f52606e4-37b5-49f4-9862-267a46f20f08": {
-          "uuid": "f52606e4-37b5-49f4-9862-267a46f20f08",
-          "title": "Sprite",
-          "itemDescription": "250мл",
-          "price": 2800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0e032ced-febf-48f4-b174-6a583bd109ca": {
-          "uuid": "0e032ced-febf-48f4-b174-6a583bd109ca",
-          "title": "Matsoni with nuts, and honey",
-          "itemDescription": "250g",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "556efa08-ce4f-45cb-9150-eb28ae41f04f": {
-          "uuid": "556efa08-ce4f-45cb-9150-eb28ae41f04f",
-          "title": "Chicken shashlyk",
-          "itemDescription": "150/50/25g",
-          "price": 12800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "ee401e51-f1ed-4956-81d8-77552b1c8902": {
-          "uuid": "ee401e51-f1ed-4956-81d8-77552b1c8902",
-          "title": "Pork shashlyk (neck part)",
-          "itemDescription": "150/50/25g",
-          "price": 14600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "e62fdaba-5fa9-4a0a-b29d-4eb36bd1a178": {
-          "uuid": "e62fdaba-5fa9-4a0a-b29d-4eb36bd1a178",
-          "title": "Kubdari",
-          "itemDescription": "400g.",
-          "price": 13600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "31701dbd-91ce-4f4a-84f3-9bd1f355b4a1": {
-          "uuid": "31701dbd-91ce-4f4a-84f3-9bd1f355b4a1",
-          "title": "Salad with Imeretian cheese",
-          "itemDescription": "250g",
-          "price": 13200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "80642507-2cbb-4c85-8dbb-4a6b1a5804a5": {
-          "uuid": "80642507-2cbb-4c85-8dbb-4a6b1a5804a5",
-          "title": "Bozbashi soup",
-          "itemDescription": "Tomato soup with lamb, and veal meatballs (350g).",
-          "price": 7200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/717c660c-1491-4910-abd2-32b1d2a1d1ae",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0f5d972e-4540-4573-94db-54120e870b3e": {
-          "uuid": "0f5d972e-4540-4573-94db-54120e870b3e",
-          "title": "Chicken lula kebab with and cheese",
-          "itemDescription": "150/50/30g.",
-          "price": 12400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fcf7e561-3f17-4de6-b6d5-ab6cb18d46b2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "39ced593-a3f5-4612-906f-61f034e21c38": {
-          "uuid": "39ced593-a3f5-4612-906f-61f034e21c38",
-          "title": "Green set",
-          "itemDescription": "100g",
-          "price": 8400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "24fe7126-ff81-4f6b-a4d9-14f3e5b07811": {
-          "uuid": "24fe7126-ff81-4f6b-a4d9-14f3e5b07811",
-          "title": "Khinkali with lamb",
-          "itemDescription": "Size to choose.",
-          "price": 7200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/201f1831-1220-4f23-ab14-2203e33ad839",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "729c5167-7e61-428d-8748-fef8b6e26995"
-          ]
-        },
-        "26262c38-c076-4c96-99ae-4a38c0a7abbd": {
-          "uuid": "26262c38-c076-4c96-99ae-4a38c0a7abbd",
-          "title": "Lula kebab",
-          "itemDescription": "150/50/30g.",
-          "price": 12600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/02a52173-3b0b-4105-b8dc-3e684f99a02b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "e4c8c2ae-ac19-42e7-86f4-6b33c68c11f2": {
-          "uuid": "e4c8c2ae-ac19-42e7-86f4-6b33c68c11f2",
-          "title": "Schweppes",
-          "itemDescription": "250ml.",
-          "price": 3300,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "52742ab9-da11-4e52-898e-98b0c9b88589": {
-          "uuid": "52742ab9-da11-4e52-898e-98b0c9b88589",
-          "title": "Shoti",
-          "itemDescription": "To choose small (90g) or regular (170g) shoti.",
-          "price": 1500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/07d0b4a7-bfd4-4d25-9821-ce3f4ba2c7f4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "cc9c2d75-dbd4-4e5d-a692-3eeccc675c26"
-          ]
-        },
-        "fd9c3c1a-4c30-49fb-82a7-9be57d4c5b9b": {
-          "uuid": "fd9c3c1a-4c30-49fb-82a7-9be57d4c5b9b",
-          "title": "Vegetable set",
-          "itemDescription": "300g",
-          "price": 9600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e12ab81d-b770-43e7-97eb-f08fab7662ea": {
-          "uuid": "e12ab81d-b770-43e7-97eb-f08fab7662ea",
-          "title": "\"Rich\" juice",
-          "itemDescription": "1 l.",
-          "price": 9600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a7f52d3-d6d8-4080-94e7-e9985e2b5c4f"
-          ]
-        },
-        "58a83370-5172-4883-851e-cd4effc7697f": {
-          "uuid": "58a83370-5172-4883-851e-cd4effc7697f",
-          "title": "Borjomi",
-          "itemDescription": "300ml.",
-          "price": 4500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1bec61dc-c43f-4819-a3df-eb529a1dd80b": {
-          "uuid": "1bec61dc-c43f-4819-a3df-eb529a1dd80b",
-          "title": "Kebab roll",
-          "itemDescription": "Flavor to choose (300/50g). ",
-          "price": 11400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfdae15d-c86d-471c-b229-b2f1b1823f32",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "04b5754e-991e-4cd2-9d74-e994a32eb73a",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "f1e8d11b-dc1b-4f87-ad1d-fe3c4f50b5fe": {
-          "uuid": "f1e8d11b-dc1b-4f87-ad1d-fe3c4f50b5fe",
-          "title": "Borsch",
-          "itemDescription": "Ukrainian, with georgian hint (350g).",
-          "price": 7200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "bcf89436-b443-40a7-8b7e-cfc4121bcfa3"
-          ]
-        },
-        "44fc978f-59f5-451b-a145-489107fbebbe": {
-          "uuid": "44fc978f-59f5-451b-a145-489107fbebbe",
-          "title": "Soup Chikhirtma",
-          "itemDescription": "White soup with chicken, garlic, and spices (350g).",
-          "price": 7200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e33a70a9-b010-47d3-88bb-45da59f7223d": {
-          "uuid": "e33a70a9-b010-47d3-88bb-45da59f7223d",
-          "title": "Suluguni in lavash bread with spicy adjika",
-          "itemDescription": "150g",
-          "price": 6700,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "e0671d44-6e0c-4253-9853-5ed1d3556785": {
-          "uuid": "e0671d44-6e0c-4253-9853-5ed1d3556785",
-          "title": "Veal shashlyk",
-          "itemDescription": "150/50g",
-          "price": 15600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        },
-        "c52ee58d-ad8f-4561-b728-0f5139ba0918": {
-          "uuid": "c52ee58d-ad8f-4561-b728-0f5139ba0918",
-          "title": "Khinkali Tbilisian",
-          "itemDescription": "Size to choose.",
-          "price": 7200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "729c5167-7e61-428d-8748-fef8b6e26995"
-          ]
-        },
-        "fb7f15f5-0266-4de2-9dd9-c9f516244822": {
-          "uuid": "fb7f15f5-0266-4de2-9dd9-c9f516244822",
-          "title": "Eggplant rolls with walnut filling",
-          "itemDescription": "155g.",
-          "price": 9200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e859d07-025d-4e4d-a97c-a4b085c6e0b8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f4739665-5512-44ce-a6b2-82860918be31": {
-          "uuid": "f4739665-5512-44ce-a6b2-82860918be31",
-          "title": "Georgian salad \"with nuts\"",
-          "itemDescription": "275g",
-          "price": 9700,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1150a5fe-39f2-4069-b8f5-1eb790714b3a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "cda4783f-e2ed-48f1-ab1f-33f2d7d93eae"
-          ]
-        },
-        "6ca57685-cedd-4ec8-9930-d9bb398a8d60": {
-          "uuid": "6ca57685-cedd-4ec8-9930-d9bb398a8d60",
-          "title": "Grilled zucchini 100g",
-          "itemDescription": "",
-          "price": 5200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e894d82c-9b21-4e4c-92e5-e527b3c8270b": {
-          "uuid": "e894d82c-9b21-4e4c-92e5-e527b3c8270b",
-          "title": "Grilled tomato 100g",
-          "itemDescription": "",
-          "price": 5200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "74042fec-fe17-4968-9c85-9d3ee92d58ad": {
-          "uuid": "74042fec-fe17-4968-9c85-9d3ee92d58ad",
-          "title": "Chkmeruli",
-          "itemDescription": "Chicken in a creamy sauce with aromatic herbs ... incredibly delisious (380g).",
-          "price": 15200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3de752c4-89a2-425a-90f1-7ed696de1902",
-            "8a60140f-9156-407d-9f3e-082e051665bd"
-          ]
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "5314d531-f037-42c2-9577-edd4193c4c30",
-          "title": "Khinkali",
-          "subtitle": "",
-          "itemUuids": [
-            "d782c7dc-e56d-4abf-85f1-b44911248b44",
-            "c52ee58d-ad8f-4561-b728-0f5139ba0918",
-            "f7e9c048-f045-4137-85df-995526fc63c1",
-            "24fe7126-ff81-4f6b-a4d9-14f3e5b07811"
-          ]
-        },
-        {
-          "uuid": "217957ad-d7ac-4de5-a67c-0b4aed74261d",
-          "title": "Try this",
-          "subtitle": "",
-          "itemUuids": [
-            "1bec61dc-c43f-4819-a3df-eb529a1dd80b",
-            "301d74d5-9a0a-497e-8c18-055616722074"
-          ]
-        },
-        {
-          "uuid": "8947e6fe-0b4d-48d9-af87-346c02b61f97",
-          "title": "Bakery",
-          "subtitle": "",
-          "itemUuids": [
-            "32f6ed55-54a8-423a-9fb9-2c8b53519b15",
-            "557ebe7f-713b-4f35-be08-ed930747ed40",
-            "9a099159-9a44-4dc2-bdb4-dd834444bb95",
-            "d93b6469-d66a-43cc-9b90-78cff54b9c92",
-            "d86fd3ea-13d9-424a-bd74-4622131f76e9",
-            "2f61f31b-cb6d-4d5a-8c7e-0b0d4c8ab3c3",
-            "e62fdaba-5fa9-4a0a-b29d-4eb36bd1a178",
-            "b3bb273a-7b27-4df5-bf4c-5e0adf13223d",
-            "0d379a53-7b94-4d1f-9f5d-a07364626fc5",
-            "aafadd24-49a1-4103-b0cb-8ccafb460501",
-            "52742ab9-da11-4e52-898e-98b0c9b88589"
-          ]
-        },
-        {
-          "uuid": "c86e5ec6-ad50-48af-b3fe-a8d23f106e98",
-          "title": "Sets",
-          "subtitle": "",
-          "itemUuids": [
-            "56fee81e-a01f-4393-8a22-0b00a2964974",
-            "862a6fe5-9dae-4abd-83ec-c739f000b13e"
-          ]
-        },
-        {
-          "uuid": "e6f13ae7-28e8-4de2-badb-9ca71f47cc77",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "aa131fc0-f1b6-4c68-99a7-f32b83eeebe8",
-            "f4739665-5512-44ce-a6b2-82860918be31",
-            "f94716b6-db77-4791-8bdf-cd534a628e1c",
-            "964c9bb4-7a4a-465b-891e-fa75f4963841",
-            "31701dbd-91ce-4f4a-84f3-9bd1f355b4a1",
-            "84216040-be50-4551-920f-08c675f1402a",
-            "5d90e3a5-e5f8-4ac7-a819-2f06f8933bbe"
-          ]
-        },
-        {
-          "uuid": "393a727b-026b-4ea7-9ced-203ea66bd2ea",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "a644d7f9-33bb-417b-b5fe-b6d504c89eeb",
-            "44fc978f-59f5-451b-a145-489107fbebbe",
-            "22cccb04-d01f-4baf-b6d7-3871a314b6cd",
-            "f1e8d11b-dc1b-4f87-ad1d-fe3c4f50b5fe",
-            "80642507-2cbb-4c85-8dbb-4a6b1a5804a5"
-          ]
-        },
-        {
-          "uuid": "304f6a20-ac84-4478-9ae8-b77ddc6723bd",
-          "title": "Appetizers",
-          "subtitle": "",
-          "itemUuids": [
-            "fd9c3c1a-4c30-49fb-82a7-9be57d4c5b9b",
-            "39ced593-a3f5-4612-906f-61f034e21c38",
-            "fc109f5c-40ef-4fef-b0a2-3f3cf6f58da9",
-            "00e042fe-3533-4ec3-89f7-87ec3f282190",
-            "da525244-6163-4640-bda5-848101a282f6",
-            "fb7f15f5-0266-4de2-9dd9-c9f516244822",
-            "a4bb0132-f045-4fdb-b211-9f5b270901d4"
-          ]
-        },
-        {
-          "uuid": "f0a9eaae-822d-4002-b570-43db26ddf4d8",
-          "title": "Main dishes",
-          "subtitle": "",
-          "itemUuids": [
-            "c777731a-b091-4252-99a4-3376466dac62",
-            "872536b9-53de-4cfe-9b92-8cd42a3a81ff",
-            "7166be81-200a-460f-a6b6-44132d694c07",
-            "74042fec-fe17-4968-9c85-9d3ee92d58ad",
-            "7d22e2d0-69bf-4728-9f60-26ed7a2ebd9b",
-            "89ccecd4-21b6-4076-8912-1df9ee58011c",
-            "2fba4446-2094-43db-9864-68ae16b07392",
-            "f22ff412-14bc-4c2c-8565-b96a44b40a2c"
-          ]
-        },
-        {
-          "uuid": "67d3b29b-8d73-428e-9a66-45edc9004855",
-          "title": "Grill and josper",
-          "subtitle": "",
-          "itemUuids": [
-            "ee401e51-f1ed-4956-81d8-77552b1c8902",
-            "e0671d44-6e0c-4253-9853-5ed1d3556785",
-            "556efa08-ce4f-45cb-9150-eb28ae41f04f",
-            "1eccbce4-8e10-474c-8da3-f66d4b624d9b",
-            "1039de61-b430-4177-a486-c28c76cea07d",
-            "89be25c4-bb64-46ee-b032-47135e9d74c1",
-            "e33a70a9-b010-47d3-88bb-45da59f7223d",
-            "26262c38-c076-4c96-99ae-4a38c0a7abbd",
-            "0f5d972e-4540-4573-94db-54120e870b3e",
-            "a1da1a8a-ea8b-4955-9b39-f29ddc640e4a",
-            "181f4545-30e3-4e4e-ac23-77ff8ff17bf4",
-            "6ca57685-cedd-4ec8-9930-d9bb398a8d60",
-            "e894d82c-9b21-4e4c-92e5-e527b3c8270b"
-          ]
-        },
-        {
-          "uuid": "2d8d2ce0-da06-4319-b8fb-3d2c414e26b8",
-          "title": "Desserts",
-          "subtitle": "",
-          "itemUuids": [
-            "6fb42945-e370-447b-9cf8-32f95646ed86",
-            "bb0204a4-2e27-465e-87df-7bb38f726ae5",
-            "0e032ced-febf-48f4-b174-6a583bd109ca"
-          ]
-        },
-        {
-          "uuid": "b2ff8483-9a0a-4ace-81c1-bc4624ba1949",
-          "title": "Beverages",
-          "subtitle": "",
-          "itemUuids": [
-            "17a4b093-8967-41f7-a4ee-11a6d08239bf",
-            "58a83370-5172-4883-851e-cd4effc7697f",
-            "f52606e4-37b5-49f4-9862-267a46f20f08",
-            "6c18112d-81cd-4803-aa13-00e85669fdae",
-            "e12ab81d-b770-43e7-97eb-f08fab7662ea",
-            "e4c8c2ae-ac19-42e7-86f4-6b33c68c11f2",
-            "9b530280-6464-41f3-aa67-a12371beca94"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.45342180000001,
     "longitude": 30.51961,
@@ -1200,5 +206,974 @@
     "storeRatingScore": 4.755868544600939,
     "ratingCount": "213"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/2c1e54e4-009d-4c2f-9720-6eeba8b179b2"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/2c1e54e4-009d-4c2f-9720-6eeba8b179b2",
+  "items": {
+    "181f4545-30e3-4e4e-ac23-77ff8ff17bf4": {
+      "uuid": "181f4545-30e3-4e4e-ac23-77ff8ff17bf4",
+      "title": "Grilled sweet pepper 100g",
+      "itemDescription": "",
+      "price": 5200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "00e042fe-3533-4ec3-89f7-87ec3f282190": {
+      "uuid": "00e042fe-3533-4ec3-89f7-87ec3f282190",
+      "title": "Set of Georgian, and European cheeses",
+      "itemDescription": "270g",
+      "price": 15200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f94716b6-db77-4791-8bdf-cd534a628e1c": {
+      "uuid": "f94716b6-db77-4791-8bdf-cd534a628e1c",
+      "title": "Caesar \"light\" or \"with chicken\"",
+      "itemDescription": "To choose \"light\" (170g) or \"with chicken\" (250g).",
+      "price": 11200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "5326f37b-ae08-4032-8e28-71457dfb454a"
+      ]
+    },
+    "84216040-be50-4551-920f-08c675f1402a": {
+      "uuid": "84216040-be50-4551-920f-08c675f1402a",
+      "title": "Gogi salad",
+      "itemDescription": "250g.",
+      "price": 11200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/80f5eaec-0996-4904-9990-7fec4c2a883d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2fba4446-2094-43db-9864-68ae16b07392": {
+      "uuid": "2fba4446-2094-43db-9864-68ae16b07392",
+      "title": "Dolma Georgian style",
+      "itemDescription": "Marinated grape leaves, pork, and spices. Served with homemade matsoni (210/35g).",
+      "price": 11500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "d93b6469-d66a-43cc-9b90-78cff54b9c92": {
+      "uuid": "d93b6469-d66a-43cc-9b90-78cff54b9c92",
+      "title": "Mehrelian khachapuri",
+      "itemDescription": "490g.",
+      "price": 14600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "f7e9c048-f045-4137-85df-995526fc63c1": {
+      "uuid": "f7e9c048-f045-4137-85df-995526fc63c1",
+      "title": "Khinkali with cheese",
+      "itemDescription": "Size to choose.",
+      "price": 7200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "4d84d375-eff6-4172-8a8d-dc0804c7a799"
+      ]
+    },
+    "aa131fc0-f1b6-4c68-99a7-f32b83eeebe8": {
+      "uuid": "aa131fc0-f1b6-4c68-99a7-f32b83eeebe8",
+      "title": "Georgian salad \"classic\"",
+      "itemDescription": "250g",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/30232b5f-3e89-4075-ae10-2925d3b50b33",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "cda4783f-e2ed-48f1-ab1f-33f2d7d93eae"
+      ]
+    },
+    "9b530280-6464-41f3-aa67-a12371beca94": {
+      "uuid": "9b530280-6464-41f3-aa67-a12371beca94",
+      "title": "Red Bull",
+      "itemDescription": "250ml.",
+      "price": 4000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2f61f31b-cb6d-4d5a-8c7e-0b0d4c8ab3c3": {
+      "uuid": "2f61f31b-cb6d-4d5a-8c7e-0b0d4c8ab3c3",
+      "title": "Salmon kubdari",
+      "itemDescription": "480g.",
+      "price": 19600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "56fee81e-a01f-4393-8a22-0b00a2964974": {
+      "uuid": "56fee81e-a01f-4393-8a22-0b00a2964974",
+      "title": "Set of snacks to wine",
+      "itemDescription": "Pkhali spinach, and carrot, Suluguni cheese, Brinza cheese, smoked Suluguni, rolls of eggplant, greens, Telavian cold smoked pork, and shoti (950g).",
+      "price": 39900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "d782c7dc-e56d-4abf-85f1-b44911248b44": {
+      "uuid": "d782c7dc-e56d-4abf-85f1-b44911248b44",
+      "title": "Khinkali Telavian",
+      "itemDescription": "Size to choose.",
+      "price": 7200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "729c5167-7e61-428d-8748-fef8b6e26995"
+      ]
+    },
+    "17a4b093-8967-41f7-a4ee-11a6d08239bf": {
+      "uuid": "17a4b093-8967-41f7-a4ee-11a6d08239bf",
+      "title": "Morshinska",
+      "itemDescription": "300ml.",
+      "price": 3200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5d90e3a5-e5f8-4ac7-a819-2f06f8933bbe": {
+      "uuid": "5d90e3a5-e5f8-4ac7-a819-2f06f8933bbe",
+      "title": "Warm salad with chicken liver, and mustard sauce",
+      "itemDescription": "250g.",
+      "price": 11200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a052dff0-2e0e-47bb-ad71-16d8fc675236",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0d379a53-7b94-4d1f-9f5d-a07364626fc5": {
+      "uuid": "0d379a53-7b94-4d1f-9f5d-a07364626fc5",
+      "title": "Achma",
+      "itemDescription": "400g",
+      "price": 14200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "301d74d5-9a0a-497e-8c18-055616722074": {
+      "uuid": "301d74d5-9a0a-497e-8c18-055616722074",
+      "title": "Vegan roll",
+      "itemDescription": "300/50g.",
+      "price": 11400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a60d5429-4c63-423b-9e51-379450d7e9b8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "9a099159-9a44-4dc2-bdb4-dd834444bb95": {
+      "uuid": "9a099159-9a44-4dc2-bdb4-dd834444bb95",
+      "title": "\"Shelled\" ajarian khachapuri",
+      "itemDescription": "400g.",
+      "price": 14800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "fc109f5c-40ef-4fef-b0a2-3f3cf6f58da9": {
+      "uuid": "fc109f5c-40ef-4fef-b0a2-3f3cf6f58da9",
+      "title": "Set of Georgian pickles",
+      "itemDescription": "400g",
+      "price": 12400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6fb42945-e370-447b-9cf8-32f95646ed86": {
+      "uuid": "6fb42945-e370-447b-9cf8-32f95646ed86",
+      "title": "Ajarian pakhlava",
+      "itemDescription": "120g",
+      "price": 15600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7166be81-200a-460f-a6b6-44132d694c07": {
+      "uuid": "7166be81-200a-460f-a6b6-44132d694c07",
+      "title": "Chashushuli",
+      "itemDescription": "Veal stew with tomatoes, onions, basil, cilantro, and spices (350g).",
+      "price": 13600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "b3bb273a-7b27-4df5-bf4c-5e0adf13223d": {
+      "uuid": "b3bb273a-7b27-4df5-bf4c-5e0adf13223d",
+      "title": "Puff khachapuri",
+      "itemDescription": "Flavor to choose (450g).",
+      "price": 14600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/015ff637-2946-40d9-8a44-9e471e296148",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "a5e23418-7329-455c-bb16-3cc6a0c72baa",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "a4bb0132-f045-4fdb-b211-9f5b270901d4": {
+      "uuid": "a4bb0132-f045-4fdb-b211-9f5b270901d4",
+      "title": "Pkhali",
+      "itemDescription": "Carrot, beet, and spinach (150g).",
+      "price": 7800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8e2ae45-ef68-4d12-abb7-5dc3f3f1ebe8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d86fd3ea-13d9-424a-bd74-4622131f76e9": {
+      "uuid": "d86fd3ea-13d9-424a-bd74-4622131f76e9",
+      "title": "Khachapuri with spinach",
+      "itemDescription": "390g.",
+      "price": 12200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "c777731a-b091-4252-99a4-3376466dac62": {
+      "uuid": "c777731a-b091-4252-99a4-3376466dac62",
+      "title": "Adzhapsandali",
+      "itemDescription": "Vegetable stew with eggplant, tomatoes, peppers, onions, basil, cilantro, and spices (300g).",
+      "price": 10800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "32f6ed55-54a8-423a-9fb9-2c8b53519b15": {
+      "uuid": "32f6ed55-54a8-423a-9fb9-2c8b53519b15",
+      "title": "Imeretian khachapuri",
+      "itemDescription": "400g.",
+      "price": 12800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "862a6fe5-9dae-4abd-83ec-c739f000b13e": {
+      "uuid": "862a6fe5-9dae-4abd-83ec-c739f000b13e",
+      "title": "Barbecue plate for company",
+      "itemDescription": "Pork shashlyk, chicken shashlyk, lula kebab, half Tapaka chicken, tomato grill, cucumber,\nsweet pepper, bread lavasth, shoti, greens, adzhika, tkemali, and satsebeli (600/250/250/150g).",
+      "price": 62500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "1039de61-b430-4177-a486-c28c76cea07d": {
+      "uuid": "1039de61-b430-4177-a486-c28c76cea07d",
+      "title": "Mackerel",
+      "itemDescription": "1 pcs",
+      "price": 16400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "22cccb04-d01f-4baf-b6d7-3871a314b6cd": {
+      "uuid": "22cccb04-d01f-4baf-b6d7-3871a314b6cd",
+      "title": "Soup Chechevidze",
+      "itemDescription": "Lentil cream-soup (350g).",
+      "price": 7200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1eccbce4-8e10-474c-8da3-f66d4b624d9b": {
+      "uuid": "1eccbce4-8e10-474c-8da3-f66d4b624d9b",
+      "title": "Tapaka chicken",
+      "itemDescription": "Size to choose.",
+      "price": 12500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0e2fd559-1784-4f6d-8c40-7e49b56fb0db",
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "a644d7f9-33bb-417b-b5fe-b6d504c89eeb": {
+      "uuid": "a644d7f9-33bb-417b-b5fe-b6d504c89eeb",
+      "title": "Soup Kharcho",
+      "itemDescription": "Original Georgian Kharcho (350g).",
+      "price": 7200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6ff43ad6-f7b1-4a97-a625-82b7d3b802c5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "89be25c4-bb64-46ee-b032-47135e9d74c1": {
+      "uuid": "89be25c4-bb64-46ee-b032-47135e9d74c1",
+      "title": "Suluguni in lavash with herbs",
+      "itemDescription": "150g",
+      "price": 6700,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "89ccecd4-21b6-4076-8912-1df9ee58011c": {
+      "uuid": "89ccecd4-21b6-4076-8912-1df9ee58011c",
+      "title": "Chakapuli",
+      "itemDescription": "Lamb stew with tarragon, cilantro, mint, and spices (300g).",
+      "price": 14200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "557ebe7f-713b-4f35-be08-ed930747ed40": {
+      "uuid": "557ebe7f-713b-4f35-be08-ed930747ed40",
+      "title": "Ajarian khachapuri",
+      "itemDescription": "To choose small (300g) or standard (490g).",
+      "price": 12600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9aa26ef0-7f10-47ea-a93e-06998962c826",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "fa5782a7-cb11-41bc-b06f-b993ae6ae28d",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "f22ff412-14bc-4c2c-8565-b96a44b40a2c": {
+      "uuid": "f22ff412-14bc-4c2c-8565-b96a44b40a2c",
+      "title": "Red Lobio",
+      "itemDescription": "Beans, and herbs (250g).",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0804144f-05cb-4ab1-8fb3-10ee1b1134f7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "da525244-6163-4640-bda5-848101a282f6": {
+      "uuid": "da525244-6163-4640-bda5-848101a282f6",
+      "title": "Telavian cold baked pork",
+      "itemDescription": "100g",
+      "price": 9400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "bb0204a4-2e27-465e-87df-7bb38f726ae5": {
+      "uuid": "bb0204a4-2e27-465e-87df-7bb38f726ae5",
+      "title": "Nut cake from Gogi’s granny",
+      "itemDescription": "150g",
+      "price": 10400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "aafadd24-49a1-4103-b0cb-8ccafb460501": {
+      "uuid": "aafadd24-49a1-4103-b0cb-8ccafb460501",
+      "title": "Thin lavash",
+      "itemDescription": "50g",
+      "price": 1200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7d22e2d0-69bf-4728-9f60-26ed7a2ebd9b": {
+      "uuid": "7d22e2d0-69bf-4728-9f60-26ed7a2ebd9b",
+      "title": "Odzhahuri telavian style",
+      "itemDescription": "Pork baked with potatoes, tomatoes, onions, and spices (400g).",
+      "price": 15200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "a1da1a8a-ea8b-4955-9b39-f29ddc640e4a": {
+      "uuid": "a1da1a8a-ea8b-4955-9b39-f29ddc640e4a",
+      "title": "Grilled eggplant  100g",
+      "itemDescription": "",
+      "price": 5200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6c18112d-81cd-4803-aa13-00e85669fdae": {
+      "uuid": "6c18112d-81cd-4803-aa13-00e85669fdae",
+      "title": "Coca-Cola",
+      "itemDescription": "250ml.",
+      "price": 2800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "964c9bb4-7a4a-465b-891e-fa75f4963841": {
+      "uuid": "964c9bb4-7a4a-465b-891e-fa75f4963841",
+      "title": "Telavian Salad with homemade jerked ham",
+      "itemDescription": "300g",
+      "price": 13600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "872536b9-53de-4cfe-9b92-8cd42a3a81ff": {
+      "uuid": "872536b9-53de-4cfe-9b92-8cd42a3a81ff",
+      "title": "Chakhokhbili",
+      "itemDescription": "Chicken stew with tomatoes, onions, garlic, and spices (350g).",
+      "price": 13600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "f52606e4-37b5-49f4-9862-267a46f20f08": {
+      "uuid": "f52606e4-37b5-49f4-9862-267a46f20f08",
+      "title": "Sprite",
+      "itemDescription": "250мл",
+      "price": 2800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0e032ced-febf-48f4-b174-6a583bd109ca": {
+      "uuid": "0e032ced-febf-48f4-b174-6a583bd109ca",
+      "title": "Matsoni with nuts, and honey",
+      "itemDescription": "250g",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "556efa08-ce4f-45cb-9150-eb28ae41f04f": {
+      "uuid": "556efa08-ce4f-45cb-9150-eb28ae41f04f",
+      "title": "Chicken shashlyk",
+      "itemDescription": "150/50/25g",
+      "price": 12800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "ee401e51-f1ed-4956-81d8-77552b1c8902": {
+      "uuid": "ee401e51-f1ed-4956-81d8-77552b1c8902",
+      "title": "Pork shashlyk (neck part)",
+      "itemDescription": "150/50/25g",
+      "price": 14600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "e62fdaba-5fa9-4a0a-b29d-4eb36bd1a178": {
+      "uuid": "e62fdaba-5fa9-4a0a-b29d-4eb36bd1a178",
+      "title": "Kubdari",
+      "itemDescription": "400g.",
+      "price": 13600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "31701dbd-91ce-4f4a-84f3-9bd1f355b4a1": {
+      "uuid": "31701dbd-91ce-4f4a-84f3-9bd1f355b4a1",
+      "title": "Salad with Imeretian cheese",
+      "itemDescription": "250g",
+      "price": 13200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "80642507-2cbb-4c85-8dbb-4a6b1a5804a5": {
+      "uuid": "80642507-2cbb-4c85-8dbb-4a6b1a5804a5",
+      "title": "Bozbashi soup",
+      "itemDescription": "Tomato soup with lamb, and veal meatballs (350g).",
+      "price": 7200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/717c660c-1491-4910-abd2-32b1d2a1d1ae",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0f5d972e-4540-4573-94db-54120e870b3e": {
+      "uuid": "0f5d972e-4540-4573-94db-54120e870b3e",
+      "title": "Chicken lula kebab with and cheese",
+      "itemDescription": "150/50/30g.",
+      "price": 12400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fcf7e561-3f17-4de6-b6d5-ab6cb18d46b2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "39ced593-a3f5-4612-906f-61f034e21c38": {
+      "uuid": "39ced593-a3f5-4612-906f-61f034e21c38",
+      "title": "Green set",
+      "itemDescription": "100g",
+      "price": 8400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "24fe7126-ff81-4f6b-a4d9-14f3e5b07811": {
+      "uuid": "24fe7126-ff81-4f6b-a4d9-14f3e5b07811",
+      "title": "Khinkali with lamb",
+      "itemDescription": "Size to choose.",
+      "price": 7200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/201f1831-1220-4f23-ab14-2203e33ad839",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "729c5167-7e61-428d-8748-fef8b6e26995"
+      ]
+    },
+    "26262c38-c076-4c96-99ae-4a38c0a7abbd": {
+      "uuid": "26262c38-c076-4c96-99ae-4a38c0a7abbd",
+      "title": "Lula kebab",
+      "itemDescription": "150/50/30g.",
+      "price": 12600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/02a52173-3b0b-4105-b8dc-3e684f99a02b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "e4c8c2ae-ac19-42e7-86f4-6b33c68c11f2": {
+      "uuid": "e4c8c2ae-ac19-42e7-86f4-6b33c68c11f2",
+      "title": "Schweppes",
+      "itemDescription": "250ml.",
+      "price": 3300,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "52742ab9-da11-4e52-898e-98b0c9b88589": {
+      "uuid": "52742ab9-da11-4e52-898e-98b0c9b88589",
+      "title": "Shoti",
+      "itemDescription": "To choose small (90g) or regular (170g) shoti.",
+      "price": 1500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/07d0b4a7-bfd4-4d25-9821-ce3f4ba2c7f4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "cc9c2d75-dbd4-4e5d-a692-3eeccc675c26"
+      ]
+    },
+    "fd9c3c1a-4c30-49fb-82a7-9be57d4c5b9b": {
+      "uuid": "fd9c3c1a-4c30-49fb-82a7-9be57d4c5b9b",
+      "title": "Vegetable set",
+      "itemDescription": "300g",
+      "price": 9600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e12ab81d-b770-43e7-97eb-f08fab7662ea": {
+      "uuid": "e12ab81d-b770-43e7-97eb-f08fab7662ea",
+      "title": "\"Rich\" juice",
+      "itemDescription": "1 l.",
+      "price": 9600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a7f52d3-d6d8-4080-94e7-e9985e2b5c4f"
+      ]
+    },
+    "58a83370-5172-4883-851e-cd4effc7697f": {
+      "uuid": "58a83370-5172-4883-851e-cd4effc7697f",
+      "title": "Borjomi",
+      "itemDescription": "300ml.",
+      "price": 4500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1bec61dc-c43f-4819-a3df-eb529a1dd80b": {
+      "uuid": "1bec61dc-c43f-4819-a3df-eb529a1dd80b",
+      "title": "Kebab roll",
+      "itemDescription": "Flavor to choose (300/50g). ",
+      "price": 11400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfdae15d-c86d-471c-b229-b2f1b1823f32",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "04b5754e-991e-4cd2-9d74-e994a32eb73a",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "f1e8d11b-dc1b-4f87-ad1d-fe3c4f50b5fe": {
+      "uuid": "f1e8d11b-dc1b-4f87-ad1d-fe3c4f50b5fe",
+      "title": "Borsch",
+      "itemDescription": "Ukrainian, with georgian hint (350g).",
+      "price": 7200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "bcf89436-b443-40a7-8b7e-cfc4121bcfa3"
+      ]
+    },
+    "44fc978f-59f5-451b-a145-489107fbebbe": {
+      "uuid": "44fc978f-59f5-451b-a145-489107fbebbe",
+      "title": "Soup Chikhirtma",
+      "itemDescription": "White soup with chicken, garlic, and spices (350g).",
+      "price": 7200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e33a70a9-b010-47d3-88bb-45da59f7223d": {
+      "uuid": "e33a70a9-b010-47d3-88bb-45da59f7223d",
+      "title": "Suluguni in lavash bread with spicy adjika",
+      "itemDescription": "150g",
+      "price": 6700,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "e0671d44-6e0c-4253-9853-5ed1d3556785": {
+      "uuid": "e0671d44-6e0c-4253-9853-5ed1d3556785",
+      "title": "Veal shashlyk",
+      "itemDescription": "150/50g",
+      "price": 15600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    },
+    "c52ee58d-ad8f-4561-b728-0f5139ba0918": {
+      "uuid": "c52ee58d-ad8f-4561-b728-0f5139ba0918",
+      "title": "Khinkali Tbilisian",
+      "itemDescription": "Size to choose.",
+      "price": 7200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "729c5167-7e61-428d-8748-fef8b6e26995"
+      ]
+    },
+    "fb7f15f5-0266-4de2-9dd9-c9f516244822": {
+      "uuid": "fb7f15f5-0266-4de2-9dd9-c9f516244822",
+      "title": "Eggplant rolls with walnut filling",
+      "itemDescription": "155g.",
+      "price": 9200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e859d07-025d-4e4d-a97c-a4b085c6e0b8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f4739665-5512-44ce-a6b2-82860918be31": {
+      "uuid": "f4739665-5512-44ce-a6b2-82860918be31",
+      "title": "Georgian salad \"with nuts\"",
+      "itemDescription": "275g",
+      "price": 9700,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1150a5fe-39f2-4069-b8f5-1eb790714b3a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "cda4783f-e2ed-48f1-ab1f-33f2d7d93eae"
+      ]
+    },
+    "6ca57685-cedd-4ec8-9930-d9bb398a8d60": {
+      "uuid": "6ca57685-cedd-4ec8-9930-d9bb398a8d60",
+      "title": "Grilled zucchini 100g",
+      "itemDescription": "",
+      "price": 5200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e894d82c-9b21-4e4c-92e5-e527b3c8270b": {
+      "uuid": "e894d82c-9b21-4e4c-92e5-e527b3c8270b",
+      "title": "Grilled tomato 100g",
+      "itemDescription": "",
+      "price": 5200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "74042fec-fe17-4968-9c85-9d3ee92d58ad": {
+      "uuid": "74042fec-fe17-4968-9c85-9d3ee92d58ad",
+      "title": "Chkmeruli",
+      "itemDescription": "Chicken in a creamy sauce with aromatic herbs ... incredibly delisious (380g).",
+      "price": 15200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3de752c4-89a2-425a-90f1-7ed696de1902",
+        "8a60140f-9156-407d-9f3e-082e051665bd"
+      ]
+    }
+  }
 }

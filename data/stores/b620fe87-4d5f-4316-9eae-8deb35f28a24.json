@@ -20,68 +20,22 @@
   ],
   "sections": [
     {
-      "uuid": "d660c6ab-3741-44a5-8634-65a69961514f",
-      "title": "LUNCH MENU (ENG)",
-      "subtitle": "Mon 12:00 PM – 5:00 PM",
-      "isOnSale": false,
-      "subsectionUuids": [
-        "1ea0ef32-322c-4c7e-976b-9f162daa1ea7",
-        "c792eb72-0dd5-4303-8ce6-6996ea8c1b18"
+      "uuid": "1ea0ef32-322c-4c7e-976b-9f162daa1ea7",
+      "title": "Страви",
+      "itemUuids": [
+        "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+        "f306c97d-87be-40fc-80cd-103238c9bd71"
+      ]
+    },
+    {
+      "uuid": "c792eb72-0dd5-4303-8ce6-6996ea8c1b18",
+      "title": "Напої",
+      "itemUuids": [
+        "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+        "b081a78d-58d5-4321-9e70-3de02cf82f4d"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "d660c6ab-3741-44a5-8634-65a69961514f": {
-      "itemsMap": {
-        "f306c97d-87be-40fc-80cd-103238c9bd71": {
-          "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
-          "title": "Мідії чилійські (чищені)",
-          "itemDescription": "",
-          "price": 5500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
-        },
-        "64c7b96d-7e17-47da-9d6f-442eb79ec72f": {
-          "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
-          "title": "Моршинська",
-          "itemDescription": "400 мл.",
-          "price": 3300,
-          "suspendUntil": 8640000000
-        },
-        "b081a78d-58d5-4321-9e70-3de02cf82f4d": {
-          "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
-          "title": "Coca Cola",
-          "itemDescription": "330 мл.",
-          "price": 3300
-        },
-        "514091cc-2359-4bfa-82a2-35bfe9ca06d4": {
-          "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
-          "title": "Лангустин",
-          "itemDescription": "Аргентинська креветка (1 шт).",
-          "price": 4400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
-          "nutritionalInfo": {}
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "1ea0ef32-322c-4c7e-976b-9f162daa1ea7",
-          "title": "Страви",
-          "itemUuids": [
-            "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
-            "f306c97d-87be-40fc-80cd-103238c9bd71"
-          ]
-        },
-        {
-          "uuid": "c792eb72-0dd5-4303-8ce6-6996ea8c1b18",
-          "title": "Напої",
-          "itemUuids": [
-            "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
-            "b081a78d-58d5-4321-9e70-3de02cf82f4d"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.46246019999999,
     "longitude": 30.5189963,
@@ -115,5 +69,35 @@
     "storeRatingScore": 4.407407407407407,
     "ratingCount": "81"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056",
+  "items": {
+    "f306c97d-87be-40fc-80cd-103238c9bd71": {
+      "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
+      "title": "Мідії чилійські (чищені)",
+      "itemDescription": "",
+      "price": 5500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
+    },
+    "64c7b96d-7e17-47da-9d6f-442eb79ec72f": {
+      "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
+      "title": "Моршинська",
+      "itemDescription": "400 мл.",
+      "price": 3300,
+      "suspendUntil": 8640000000
+    },
+    "b081a78d-58d5-4321-9e70-3de02cf82f4d": {
+      "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
+      "title": "Coca Cola",
+      "itemDescription": "330 мл.",
+      "price": 3300
+    },
+    "514091cc-2359-4bfa-82a2-35bfe9ca06d4": {
+      "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
+      "title": "Лангустин",
+      "itemDescription": "Аргентинська креветка (1 шт).",
+      "price": 4400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
+      "nutritionalInfo": {}
+    }
+  }
 }

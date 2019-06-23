@@ -20,478 +20,67 @@
   ],
   "sections": [
     {
-      "uuid": "bebe071a-1ce3-43bd-8d41-5c60a1e689e7",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "12:00 PM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "3edfb8d6-d9de-46cb-9100-ba0b73ac69cd",
-        "61de0f96-a825-4b92-9fa0-9692d30218e0",
-        "3020a854-8f83-4f94-bfc6-95182770e884",
-        "6fd3e738-f300-4666-b539-3c3b7335695d",
-        "f38debd2-296c-4785-ae8d-1d145f5d4946"
+      "uuid": "3edfb8d6-d9de-46cb-9100-ba0b73ac69cd",
+      "title": "Nigiri sushi",
+      "subtitle": "",
+      "itemUuids": [
+        "a1fc6db2-9614-4aad-9896-abbb9682f1db",
+        "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
+        "688a923a-19a6-4867-b849-282523dee12c",
+        "f8634808-e311-4b8e-9c95-92b03ec27785"
+      ]
+    },
+    {
+      "uuid": "61de0f96-a825-4b92-9fa0-9692d30218e0",
+      "title": "Rolls",
+      "subtitle": "",
+      "itemUuids": [
+        "8dc4f495-6409-4923-b008-3d469242ffde",
+        "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
+        "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
+        "09b69132-46c3-49b1-a700-87204605c7d6",
+        "310c8ec9-60f1-4e17-b785-aafba0a5694e",
+        "56b32ccc-e14f-4439-b30b-06be0563948e",
+        "cb0060ff-30d9-462b-b8db-15ccf9b51119",
+        "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
+        "1ea6e616-2c5f-4a58-a385-110d1999f8db",
+        "24d379b4-f27c-42af-a6a9-fdb545310fb4"
+      ]
+    },
+    {
+      "uuid": "3020a854-8f83-4f94-bfc6-95182770e884",
+      "title": "Sashimi",
+      "subtitle": "",
+      "itemUuids": [
+        "444770e5-4801-4720-84f0-f70cc77f8073",
+        "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
+        "0d334e18-fd82-4c43-a476-9318fefc6ddd",
+        "a030fba9-02e8-444a-babf-da6b6d8a65a1"
+      ]
+    },
+    {
+      "uuid": "6fd3e738-f300-4666-b539-3c3b7335695d",
+      "title": "Rice",
+      "subtitle": "",
+      "itemUuids": [
+        "14e487bf-7077-4b48-b717-eedec5637b06",
+        "30c654d2-057f-4013-a339-44ccc2bead4e",
+        "a183e833-49d4-401d-b772-6aa64ceb2115",
+        "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
+        "c29cd75e-07da-4b13-9e0c-79445598b36a"
+      ]
+    },
+    {
+      "uuid": "f38debd2-296c-4785-ae8d-1d145f5d4946",
+      "title": "Noodles",
+      "subtitle": "",
+      "itemUuids": [
+        "9fcce575-5d39-446f-b3f7-30738e21f5ad",
+        "98387dbb-a8d3-46f6-a406-4d9fe098254e",
+        "d7e78623-a056-4d8d-8c7b-b69a91998322"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "bebe071a-1ce3-43bd-8d41-5c60a1e689e7": {
-      "itemsMap": {
-        "0365ab22-0e4a-4e77-acb0-e8cdb8611606": {
-          "uuid": "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
-          "title": "Salmon",
-          "itemDescription": "35/70g.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "86a62e5a-7374-4b18-a1fc-ed964c3a59c6": {
-          "uuid": "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
-          "title": "To be roll with shrimp, and eel",
-          "itemDescription": "235g.",
-          "price": 21900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f9f6b27-29ba-411f-bdcf-2543785eaebe",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "98387dbb-a8d3-46f6-a406-4d9fe098254e": {
-          "uuid": "98387dbb-a8d3-46f6-a406-4d9fe098254e",
-          "title": "Soba noodles with prawns",
-          "itemDescription": "160g.",
-          "price": 16900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/12b75274-667a-489d-97aa-1ec959bfc470",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "8dc4f495-6409-4923-b008-3d469242ffde": {
-          "uuid": "8dc4f495-6409-4923-b008-3d469242ffde",
-          "title": "Philadelphia roll",
-          "itemDescription": "225g.",
-          "price": 17900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/04b92c91-90da-4334-a253-8ee9cdcb1d10",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "4b75ea62-b14d-4cd0-aff1-9191de3987f3": {
-          "uuid": "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
-          "title": "Warm roll with salmon, eel, and almond",
-          "itemDescription": "300g.",
-          "price": 22900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "0d334e18-fd82-4c43-a476-9318fefc6ddd": {
-          "uuid": "0d334e18-fd82-4c43-a476-9318fefc6ddd",
-          "title": "Tuna",
-          "itemDescription": "45/105g.",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "cb0060ff-30d9-462b-b8db-15ccf9b51119": {
-          "uuid": "cb0060ff-30d9-462b-b8db-15ccf9b51119",
-          "title": "Dragon roll",
-          "itemDescription": "190g.",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "c29cd75e-07da-4b13-9e0c-79445598b36a": {
-          "uuid": "c29cd75e-07da-4b13-9e0c-79445598b36a",
-          "title": "Steamed rice",
-          "itemDescription": "150g.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "a1fc6db2-9614-4aad-9896-abbb9682f1db": {
-          "uuid": "a1fc6db2-9614-4aad-9896-abbb9682f1db",
-          "title": "Prawn",
-          "itemDescription": "35/70g.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "a183e833-49d4-401d-b772-6aa64ceb2115": {
-          "uuid": "a183e833-49d4-401d-b772-6aa64ceb2115",
-          "title": "Fried rice with chicken",
-          "itemDescription": "270g.",
-          "price": 10900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "444770e5-4801-4720-84f0-f70cc77f8073": {
-          "uuid": "444770e5-4801-4720-84f0-f70cc77f8073",
-          "title": "Prawn",
-          "itemDescription": "45/105g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "14e487bf-7077-4b48-b717-eedec5637b06": {
-          "uuid": "14e487bf-7077-4b48-b717-eedec5637b06",
-          "title": "Fried rice with prawns",
-          "itemDescription": "270g.",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "6dd9be8a-2d2c-437f-943c-8a26415fa3ef": {
-          "uuid": "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
-          "title": "Unagi Don",
-          "itemDescription": "260g.",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "688a923a-19a6-4867-b849-282523dee12c": {
-          "uuid": "688a923a-19a6-4867-b849-282523dee12c",
-          "title": "Tuna",
-          "itemDescription": "35/70g.",
-          "price": 5900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "56b32ccc-e14f-4439-b30b-06be0563948e": {
-          "uuid": "56b32ccc-e14f-4439-b30b-06be0563948e",
-          "title": "Mixed roll with shrimp, salmon, and eel",
-          "itemDescription": "210g.",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3212498f-b535-4f64-a3d5-8b56950f4353",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "24d379b4-f27c-42af-a6a9-fdb545310fb4": {
-          "uuid": "24d379b4-f27c-42af-a6a9-fdb545310fb4",
-          "title": "Warm roll with salmon, and eel",
-          "itemDescription": "215g.",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/91afbeb6-2b1a-472b-b901-1cfd783142b9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "09b69132-46c3-49b1-a700-87204605c7d6": {
-          "uuid": "09b69132-46c3-49b1-a700-87204605c7d6",
-          "title": "California roll with salmon, and avocado",
-          "itemDescription": "190g.",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f8cd6d5-9901-4e2f-9f2c-981942a5ff82",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "a030fba9-02e8-444a-babf-da6b6d8a65a1": {
-          "uuid": "a030fba9-02e8-444a-babf-da6b6d8a65a1",
-          "title": "Eel",
-          "itemDescription": "45/105g.",
-          "price": 17900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "30c654d2-057f-4013-a339-44ccc2bead4e": {
-          "uuid": "30c654d2-057f-4013-a339-44ccc2bead4e",
-          "title": "Fried rice with prawns, and chicken",
-          "itemDescription": "270g.",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/78ff6959-ec4f-43f1-9648-21848c04b9d4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "9fcce575-5d39-446f-b3f7-30738e21f5ad": {
-          "uuid": "9fcce575-5d39-446f-b3f7-30738e21f5ad",
-          "title": "Glass noodles with stir fry beef, and vegetables",
-          "itemDescription": "290g.",
-          "price": 15900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7edbab1-4ea9-4d5c-8278-5848bcc9ec35",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "310c8ec9-60f1-4e17-b785-aafba0a5694e": {
-          "uuid": "310c8ec9-60f1-4e17-b785-aafba0a5694e",
-          "title": "California roll with eel, and avocado",
-          "itemDescription": "190g.",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "d7e78623-a056-4d8d-8c7b-b69a91998322": {
-          "uuid": "d7e78623-a056-4d8d-8c7b-b69a91998322",
-          "title": "Udon noodles with duck",
-          "itemDescription": "280g.",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/05d4efcf-c8ef-4887-8beb-ada62093fa3e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6": {
-          "uuid": "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
-          "title": "Veggie roll",
-          "itemDescription": "175g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "f8634808-e311-4b8e-9c95-92b03ec27785": {
-          "uuid": "f8634808-e311-4b8e-9c95-92b03ec27785",
-          "title": "Eel",
-          "itemDescription": "35/70g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "1ea6e616-2c5f-4a58-a385-110d1999f8db": {
-          "uuid": "1ea6e616-2c5f-4a58-a385-110d1999f8db",
-          "title": "Spicy eel roll",
-          "itemDescription": "220g.",
-          "price": 23900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        },
-        "bcf7009c-e74f-4ba2-89e3-53f8395f20ef": {
-          "uuid": "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
-          "title": "Salmon",
-          "itemDescription": "45/105g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "935197ff-0cd8-464b-9387-281c4b169ba1"
-          ]
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "3edfb8d6-d9de-46cb-9100-ba0b73ac69cd",
-          "title": "Nigiri sushi",
-          "subtitle": "",
-          "itemUuids": [
-            "a1fc6db2-9614-4aad-9896-abbb9682f1db",
-            "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
-            "688a923a-19a6-4867-b849-282523dee12c",
-            "f8634808-e311-4b8e-9c95-92b03ec27785"
-          ]
-        },
-        {
-          "uuid": "61de0f96-a825-4b92-9fa0-9692d30218e0",
-          "title": "Rolls",
-          "subtitle": "",
-          "itemUuids": [
-            "8dc4f495-6409-4923-b008-3d469242ffde",
-            "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
-            "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
-            "09b69132-46c3-49b1-a700-87204605c7d6",
-            "310c8ec9-60f1-4e17-b785-aafba0a5694e",
-            "56b32ccc-e14f-4439-b30b-06be0563948e",
-            "cb0060ff-30d9-462b-b8db-15ccf9b51119",
-            "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
-            "1ea6e616-2c5f-4a58-a385-110d1999f8db",
-            "24d379b4-f27c-42af-a6a9-fdb545310fb4"
-          ]
-        },
-        {
-          "uuid": "3020a854-8f83-4f94-bfc6-95182770e884",
-          "title": "Sashimi",
-          "subtitle": "",
-          "itemUuids": [
-            "444770e5-4801-4720-84f0-f70cc77f8073",
-            "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
-            "0d334e18-fd82-4c43-a476-9318fefc6ddd",
-            "a030fba9-02e8-444a-babf-da6b6d8a65a1"
-          ]
-        },
-        {
-          "uuid": "6fd3e738-f300-4666-b539-3c3b7335695d",
-          "title": "Rice",
-          "subtitle": "",
-          "itemUuids": [
-            "14e487bf-7077-4b48-b717-eedec5637b06",
-            "30c654d2-057f-4013-a339-44ccc2bead4e",
-            "a183e833-49d4-401d-b772-6aa64ceb2115",
-            "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
-            "c29cd75e-07da-4b13-9e0c-79445598b36a"
-          ]
-        },
-        {
-          "uuid": "f38debd2-296c-4785-ae8d-1d145f5d4946",
-          "title": "Noodles",
-          "subtitle": "",
-          "itemUuids": [
-            "9fcce575-5d39-446f-b3f7-30738e21f5ad",
-            "98387dbb-a8d3-46f6-a406-4d9fe098254e",
-            "d7e78623-a056-4d8d-8c7b-b69a91998322"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4627752,
     "longitude": 30.5079068,
@@ -531,5 +120,397 @@
     "storeRatingScore": 4.546666666666667,
     "ratingCount": "75"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613",
+  "items": {
+    "0365ab22-0e4a-4e77-acb0-e8cdb8611606": {
+      "uuid": "0365ab22-0e4a-4e77-acb0-e8cdb8611606",
+      "title": "Salmon",
+      "itemDescription": "35/70g.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "86a62e5a-7374-4b18-a1fc-ed964c3a59c6": {
+      "uuid": "86a62e5a-7374-4b18-a1fc-ed964c3a59c6",
+      "title": "To be roll with shrimp, and eel",
+      "itemDescription": "235g.",
+      "price": 21900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f9f6b27-29ba-411f-bdcf-2543785eaebe",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "98387dbb-a8d3-46f6-a406-4d9fe098254e": {
+      "uuid": "98387dbb-a8d3-46f6-a406-4d9fe098254e",
+      "title": "Soba noodles with prawns",
+      "itemDescription": "160g.",
+      "price": 16900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/12b75274-667a-489d-97aa-1ec959bfc470",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "8dc4f495-6409-4923-b008-3d469242ffde": {
+      "uuid": "8dc4f495-6409-4923-b008-3d469242ffde",
+      "title": "Philadelphia roll",
+      "itemDescription": "225g.",
+      "price": 17900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/04b92c91-90da-4334-a253-8ee9cdcb1d10",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "4b75ea62-b14d-4cd0-aff1-9191de3987f3": {
+      "uuid": "4b75ea62-b14d-4cd0-aff1-9191de3987f3",
+      "title": "Warm roll with salmon, eel, and almond",
+      "itemDescription": "300g.",
+      "price": 22900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "0d334e18-fd82-4c43-a476-9318fefc6ddd": {
+      "uuid": "0d334e18-fd82-4c43-a476-9318fefc6ddd",
+      "title": "Tuna",
+      "itemDescription": "45/105g.",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "cb0060ff-30d9-462b-b8db-15ccf9b51119": {
+      "uuid": "cb0060ff-30d9-462b-b8db-15ccf9b51119",
+      "title": "Dragon roll",
+      "itemDescription": "190g.",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "c29cd75e-07da-4b13-9e0c-79445598b36a": {
+      "uuid": "c29cd75e-07da-4b13-9e0c-79445598b36a",
+      "title": "Steamed rice",
+      "itemDescription": "150g.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "a1fc6db2-9614-4aad-9896-abbb9682f1db": {
+      "uuid": "a1fc6db2-9614-4aad-9896-abbb9682f1db",
+      "title": "Prawn",
+      "itemDescription": "35/70g.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "a183e833-49d4-401d-b772-6aa64ceb2115": {
+      "uuid": "a183e833-49d4-401d-b772-6aa64ceb2115",
+      "title": "Fried rice with chicken",
+      "itemDescription": "270g.",
+      "price": 10900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "444770e5-4801-4720-84f0-f70cc77f8073": {
+      "uuid": "444770e5-4801-4720-84f0-f70cc77f8073",
+      "title": "Prawn",
+      "itemDescription": "45/105g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "14e487bf-7077-4b48-b717-eedec5637b06": {
+      "uuid": "14e487bf-7077-4b48-b717-eedec5637b06",
+      "title": "Fried rice with prawns",
+      "itemDescription": "270g.",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "6dd9be8a-2d2c-437f-943c-8a26415fa3ef": {
+      "uuid": "6dd9be8a-2d2c-437f-943c-8a26415fa3ef",
+      "title": "Unagi Don",
+      "itemDescription": "260g.",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "688a923a-19a6-4867-b849-282523dee12c": {
+      "uuid": "688a923a-19a6-4867-b849-282523dee12c",
+      "title": "Tuna",
+      "itemDescription": "35/70g.",
+      "price": 5900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "56b32ccc-e14f-4439-b30b-06be0563948e": {
+      "uuid": "56b32ccc-e14f-4439-b30b-06be0563948e",
+      "title": "Mixed roll with shrimp, salmon, and eel",
+      "itemDescription": "210g.",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3212498f-b535-4f64-a3d5-8b56950f4353",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "24d379b4-f27c-42af-a6a9-fdb545310fb4": {
+      "uuid": "24d379b4-f27c-42af-a6a9-fdb545310fb4",
+      "title": "Warm roll with salmon, and eel",
+      "itemDescription": "215g.",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/91afbeb6-2b1a-472b-b901-1cfd783142b9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "09b69132-46c3-49b1-a700-87204605c7d6": {
+      "uuid": "09b69132-46c3-49b1-a700-87204605c7d6",
+      "title": "California roll with salmon, and avocado",
+      "itemDescription": "190g.",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f8cd6d5-9901-4e2f-9f2c-981942a5ff82",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "a030fba9-02e8-444a-babf-da6b6d8a65a1": {
+      "uuid": "a030fba9-02e8-444a-babf-da6b6d8a65a1",
+      "title": "Eel",
+      "itemDescription": "45/105g.",
+      "price": 17900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "30c654d2-057f-4013-a339-44ccc2bead4e": {
+      "uuid": "30c654d2-057f-4013-a339-44ccc2bead4e",
+      "title": "Fried rice with prawns, and chicken",
+      "itemDescription": "270g.",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/78ff6959-ec4f-43f1-9648-21848c04b9d4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "9fcce575-5d39-446f-b3f7-30738e21f5ad": {
+      "uuid": "9fcce575-5d39-446f-b3f7-30738e21f5ad",
+      "title": "Glass noodles with stir fry beef, and vegetables",
+      "itemDescription": "290g.",
+      "price": 15900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7edbab1-4ea9-4d5c-8278-5848bcc9ec35",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "310c8ec9-60f1-4e17-b785-aafba0a5694e": {
+      "uuid": "310c8ec9-60f1-4e17-b785-aafba0a5694e",
+      "title": "California roll with eel, and avocado",
+      "itemDescription": "190g.",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "d7e78623-a056-4d8d-8c7b-b69a91998322": {
+      "uuid": "d7e78623-a056-4d8d-8c7b-b69a91998322",
+      "title": "Udon noodles with duck",
+      "itemDescription": "280g.",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/05d4efcf-c8ef-4887-8beb-ada62093fa3e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6": {
+      "uuid": "b40dd9b3-ad6f-4dbe-bb63-dc75ab59f7d6",
+      "title": "Veggie roll",
+      "itemDescription": "175g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "f8634808-e311-4b8e-9c95-92b03ec27785": {
+      "uuid": "f8634808-e311-4b8e-9c95-92b03ec27785",
+      "title": "Eel",
+      "itemDescription": "35/70g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "1ea6e616-2c5f-4a58-a385-110d1999f8db": {
+      "uuid": "1ea6e616-2c5f-4a58-a385-110d1999f8db",
+      "title": "Spicy eel roll",
+      "itemDescription": "220g.",
+      "price": 23900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    },
+    "bcf7009c-e74f-4ba2-89e3-53f8395f20ef": {
+      "uuid": "bcf7009c-e74f-4ba2-89e3-53f8395f20ef",
+      "title": "Salmon",
+      "itemDescription": "45/105g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "935197ff-0cd8-464b-9387-281c4b169ba1"
+      ]
+    }
+  }
 }

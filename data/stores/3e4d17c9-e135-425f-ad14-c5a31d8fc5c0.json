@@ -20,214 +20,31 @@
   ],
   "sections": [
     {
-      "uuid": "fe374018-0fb3-45ae-bc14-1787223aa7fa",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "12:00 PM – 8:20 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "ccc41848-dbe9-4eb7-ab3b-b7b97e979842",
-        "23830dea-f342-41ed-b924-2a673ae65e89"
+      "uuid": "ccc41848-dbe9-4eb7-ab3b-b7b97e979842",
+      "title": "Pelmeni",
+      "subtitle": "",
+      "itemUuids": [
+        "44abf0dd-45d5-4800-99ec-a36eb0be1742",
+        "2c11900f-f410-4021-a1b5-12b8d1f0563f",
+        "60cc94fa-0642-4bc8-b359-a66311c7d38d",
+        "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
+        "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
+        "cb328199-4733-44d2-a56a-af2ebd368f9f",
+        "ad5a068f-29ad-447c-b498-d66791d2f9a0",
+        "7cdb7a2d-8650-4923-9825-e5a589a77f55",
+        "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
+        "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9"
+      ]
+    },
+    {
+      "uuid": "23830dea-f342-41ed-b924-2a673ae65e89",
+      "title": "Beverages",
+      "subtitle": "",
+      "itemUuids": [
+        "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "fe374018-0fb3-45ae-bc14-1787223aa7fa": {
-      "itemsMap": {
-        "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51": {
-          "uuid": "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51",
-          "title": "Tomato Juice",
-          "itemDescription": "500ml.",
-          "price": 3500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "44abf0dd-45d5-4800-99ec-a36eb0be1742": {
-          "uuid": "44abf0dd-45d5-4800-99ec-a36eb0be1742",
-          "title": "Brand",
-          "itemDescription": "Pork + beef (200g).",
-          "price": 10000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad5e2ca8-f858-4bdf-a3bf-8fb77d5d1845",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "7cdb7a2d-8650-4923-9825-e5a589a77f55": {
-          "uuid": "7cdb7a2d-8650-4923-9825-e5a589a77f55",
-          "title": "Black (Salmon)",
-          "itemDescription": "200g.",
-          "price": 12000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/144f39b6-8102-4471-af10-0fe2a2991a24",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9": {
-          "uuid": "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9",
-          "title": "Turkey",
-          "itemDescription": "200g.",
-          "price": 10000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7606354a-8234-4991-8e55-302710129cf7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "ad5a068f-29ad-447c-b498-d66791d2f9a0": {
-          "uuid": "ad5a068f-29ad-447c-b498-d66791d2f9a0",
-          "title": "Yellow (4 cheeses)",
-          "itemDescription": "200g.",
-          "price": 12000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0d4cb31-e51b-436f-aa0a-6ca75637c625",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "2c11900f-f410-4021-a1b5-12b8d1f0563f": {
-          "uuid": "2c11900f-f410-4021-a1b5-12b8d1f0563f",
-          "title": "Green",
-          "itemDescription": "Ricotta + Gran Padano + spinach basil + sauce Green (200g).",
-          "price": 12000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef86165-ef4a-42bd-8cc2-f524e82c0c9f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "5114f919-6079-4b0d-ab00-701f0d8ad2b1": {
-          "uuid": "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
-          "title": "Chicken",
-          "itemDescription": "200g.",
-          "price": 9000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9edec36c-4b73-4912-bc15-797730b5bd08",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "b9621c44-2b6c-45d0-be48-d6df3e18f4cc": {
-          "uuid": "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
-          "title": "Potato",
-          "itemDescription": "200g.",
-          "price": 9000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6d25141-4b86-4d7d-b9fc-4e24574259d3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "cb328199-4733-44d2-a56a-af2ebd368f9f": {
-          "uuid": "cb328199-4733-44d2-a56a-af2ebd368f9f",
-          "title": "Cottage cheese",
-          "itemDescription": "200g.",
-          "price": 9000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/08a4bf6f-4519-46d9-a304-61b9fcf0bbec",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "6289665f-9cc2-4015-85b2-4e24f53e1839"
-          ]
-        },
-        "60cc94fa-0642-4bc8-b359-a66311c7d38d": {
-          "uuid": "60cc94fa-0642-4bc8-b359-a66311c7d38d",
-          "title": "Beef",
-          "itemDescription": "200g.",
-          "price": 9000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef6462a5-3a61-4b6e-8e6e-1c9cffb13661",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        },
-        "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7": {
-          "uuid": "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
-          "title": "MIX (4 cheeses + salmon)",
-          "itemDescription": "200g.",
-          "price": 12000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8f88c34-2966-4e9a-94b1-eab06c01ba69",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
-          ]
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "ccc41848-dbe9-4eb7-ab3b-b7b97e979842",
-          "title": "Pelmeni",
-          "subtitle": "",
-          "itemUuids": [
-            "44abf0dd-45d5-4800-99ec-a36eb0be1742",
-            "2c11900f-f410-4021-a1b5-12b8d1f0563f",
-            "60cc94fa-0642-4bc8-b359-a66311c7d38d",
-            "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
-            "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
-            "cb328199-4733-44d2-a56a-af2ebd368f9f",
-            "ad5a068f-29ad-447c-b498-d66791d2f9a0",
-            "7cdb7a2d-8650-4923-9825-e5a589a77f55",
-            "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
-            "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9"
-          ]
-        },
-        {
-          "uuid": "23830dea-f342-41ed-b924-2a673ae65e89",
-          "title": "Beverages",
-          "subtitle": "",
-          "itemUuids": [
-            "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.442465017329766,
     "longitude": 30.52185985260985,
@@ -267,5 +84,172 @@
     "storeRatingScore": 4.543689320388349,
     "ratingCount": "206"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0",
+  "items": {
+    "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51": {
+      "uuid": "bbc2e1f9-1ce4-48dd-b5ac-db7dc2a21d51",
+      "title": "Tomato Juice",
+      "itemDescription": "500ml.",
+      "price": 3500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "44abf0dd-45d5-4800-99ec-a36eb0be1742": {
+      "uuid": "44abf0dd-45d5-4800-99ec-a36eb0be1742",
+      "title": "Brand",
+      "itemDescription": "Pork + beef (200g).",
+      "price": 10000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad5e2ca8-f858-4bdf-a3bf-8fb77d5d1845",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "7cdb7a2d-8650-4923-9825-e5a589a77f55": {
+      "uuid": "7cdb7a2d-8650-4923-9825-e5a589a77f55",
+      "title": "Black (Salmon)",
+      "itemDescription": "200g.",
+      "price": 12000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/144f39b6-8102-4471-af10-0fe2a2991a24",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9": {
+      "uuid": "3d4ebdf9-7b60-4f0f-8b10-8f6e81b661e9",
+      "title": "Turkey",
+      "itemDescription": "200g.",
+      "price": 10000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7606354a-8234-4991-8e55-302710129cf7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "ad5a068f-29ad-447c-b498-d66791d2f9a0": {
+      "uuid": "ad5a068f-29ad-447c-b498-d66791d2f9a0",
+      "title": "Yellow (4 cheeses)",
+      "itemDescription": "200g.",
+      "price": 12000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0d4cb31-e51b-436f-aa0a-6ca75637c625",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "2c11900f-f410-4021-a1b5-12b8d1f0563f": {
+      "uuid": "2c11900f-f410-4021-a1b5-12b8d1f0563f",
+      "title": "Green",
+      "itemDescription": "Ricotta + Gran Padano + spinach basil + sauce Green (200g).",
+      "price": 12000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef86165-ef4a-42bd-8cc2-f524e82c0c9f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "5114f919-6079-4b0d-ab00-701f0d8ad2b1": {
+      "uuid": "5114f919-6079-4b0d-ab00-701f0d8ad2b1",
+      "title": "Chicken",
+      "itemDescription": "200g.",
+      "price": 9000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9edec36c-4b73-4912-bc15-797730b5bd08",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "b9621c44-2b6c-45d0-be48-d6df3e18f4cc": {
+      "uuid": "b9621c44-2b6c-45d0-be48-d6df3e18f4cc",
+      "title": "Potato",
+      "itemDescription": "200g.",
+      "price": 9000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6d25141-4b86-4d7d-b9fc-4e24574259d3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "cb328199-4733-44d2-a56a-af2ebd368f9f": {
+      "uuid": "cb328199-4733-44d2-a56a-af2ebd368f9f",
+      "title": "Cottage cheese",
+      "itemDescription": "200g.",
+      "price": 9000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/08a4bf6f-4519-46d9-a304-61b9fcf0bbec",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "6289665f-9cc2-4015-85b2-4e24f53e1839"
+      ]
+    },
+    "60cc94fa-0642-4bc8-b359-a66311c7d38d": {
+      "uuid": "60cc94fa-0642-4bc8-b359-a66311c7d38d",
+      "title": "Beef",
+      "itemDescription": "200g.",
+      "price": 9000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef6462a5-3a61-4b6e-8e6e-1c9cffb13661",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    },
+    "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7": {
+      "uuid": "c0cc23c5-8c02-4d57-9057-33edfb4b1cf7",
+      "title": "MIX (4 cheeses + salmon)",
+      "itemDescription": "200g.",
+      "price": 12000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8f88c34-2966-4e9a-94b1-eab06c01ba69",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "7f876893-6bb7-453e-bd99-7e0c4bb581f0"
+      ]
+    }
+  }
 }

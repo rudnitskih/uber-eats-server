@@ -15,579 +15,88 @@
   ],
   "sections": [
     {
-      "uuid": "e627c667-b064-4a69-9db7-1bac2a5d5083",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "12:00 PM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "2e75adb6-080a-4992-b3d8-23bb4c82da55",
-        "3e7e4194-eb52-434a-a2b3-996eeac175b3",
-        "2b9b1426-51fd-4ec4-86c0-9555c6d367e9",
-        "704a09d4-60bd-4b4f-9480-99638c035f5d",
-        "98c7ad30-c8ae-4c2e-9089-549f820971b2",
-        "9fdffb57-fdf4-4e1a-98cd-45b34f200677",
-        "7317ac78-8a8a-4bc0-aaab-a81a0dcd4196",
-        "da1af7d8-94c7-4903-a3c2-1c883da0edcc"
+      "uuid": "2e75adb6-080a-4992-b3d8-23bb4c82da55",
+      "title": "Our Burgers",
+      "subtitle": "",
+      "itemUuids": [
+        "e214393e-b222-4052-bb6b-b03b2624bba4",
+        "7cb37d92-4440-40e0-8cf3-c18a97ae6fa8",
+        "848d2065-46d1-41fb-9e81-711ef2b77617",
+        "c8fc50d6-4348-44aa-8dfc-2173c8924e09"
+      ]
+    },
+    {
+      "uuid": "3e7e4194-eb52-434a-a2b3-996eeac175b3",
+      "title": "Naked Burgers",
+      "subtitle": "",
+      "itemUuids": [
+        "aa429733-98d3-4397-b4f5-5566764ea647",
+        "9d8e9d40-518f-40f0-93ce-21264e2757a1",
+        "005da709-3d3d-4eb9-9457-ea266c298b1c",
+        "65318a20-451c-42e4-ae07-89c8b3aff07b"
+      ]
+    },
+    {
+      "uuid": "2b9b1426-51fd-4ec4-86c0-9555c6d367e9",
+      "title": "Premium Burger",
+      "subtitle": "",
+      "itemUuids": [
+        "78125c7f-03a8-4e1f-9bb9-2e2531ea1277",
+        "7195166d-3fe7-4462-abad-e9eced7422f8"
+      ]
+    },
+    {
+      "uuid": "704a09d4-60bd-4b4f-9480-99638c035f5d",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "851f9dbd-2d4f-4997-b3e6-bdd0121cc777",
+        "7cf34698-4196-4f1b-b793-95bbed81e243",
+        "5fd002ab-aac6-4ba2-ad0b-7c6800aed715",
+        "6cd55d2d-a4df-451a-9be0-ff6432f6459c",
+        "2c2964b9-7e86-44eb-baec-924c3c3e4064",
+        "7f889278-cfe8-4533-96fd-4263025b86e4"
+      ]
+    },
+    {
+      "uuid": "98c7ad30-c8ae-4c2e-9089-549f820971b2",
+      "title": "Sauces",
+      "subtitle": "",
+      "itemUuids": [
+        "62d673f6-933c-463e-ae3b-1b403d3f91a1",
+        "75a14ee0-846f-4ff4-8654-5eacf79c3828",
+        "e485f72d-1c27-4316-a5cb-21b9a5cfb05d",
+        "74caa40d-ae62-41bb-8c03-5e334d530538",
+        "26b0fb1d-a28e-4f35-89a0-14b9481ff9d4"
+      ]
+    },
+    {
+      "uuid": "9fdffb57-fdf4-4e1a-98cd-45b34f200677",
+      "title": "STARfries",
+      "subtitle": "",
+      "itemUuids": [
+        "035f2900-4b44-4167-81b2-dbb0120b4667",
+        "0195903d-900b-46d6-ba3d-7f01f1f1c11a",
+        "7d9b0ae2-3973-4b68-9255-2e0156f5cb3d"
+      ]
+    },
+    {
+      "uuid": "7317ac78-8a8a-4bc0-aaab-a81a0dcd4196",
+      "title": "Drinks",
+      "subtitle": "",
+      "itemUuids": [
+        "a123968b-eeff-4639-aea6-3a6b95ffd82c"
+      ]
+    },
+    {
+      "uuid": "da1af7d8-94c7-4903-a3c2-1c883da0edcc",
+      "title": "Starters",
+      "subtitle": "",
+      "itemUuids": [
+        "2b3c851c-4bcc-44ec-98dc-a8c69197a83f"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "e627c667-b064-4a69-9db7-1bac2a5d5083": {
-      "itemsMap": {
-        "2c2964b9-7e86-44eb-baec-924c3c3e4064": {
-          "uuid": "2c2964b9-7e86-44eb-baec-924c3c3e4064",
-          "title": "STAR Greek",
-          "itemDescription": "Fresh tomatoes, cucumber, sweet pepper, Feta cheese, olives, and salad mix. Dressed with olive oil, and balsamic vinegar.\n265g",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6061c76-b292-4c34-923c-d6afa8e94114",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "aa429733-98d3-4397-b4f5-5566764ea647": {
-          "uuid": "aa429733-98d3-4397-b4f5-5566764ea647",
-          "title": "Naked STAR Burger",
-          "itemDescription": "Tomatoes, onions, boston leaves, pickles and firm sauce. 283 g.\n",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8cb1045-0223-4a4b-8aaa-3fdad6e0d34f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
-            "8f974ab7-5439-4e61-8dd4-4d6a80592019",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "2b3c851c-4bcc-44ec-98dc-a8c69197a83f": {
-          "uuid": "2b3c851c-4bcc-44ec-98dc-a8c69197a83f",
-          "title": "Chicken Wings BBQ",
-          "itemDescription": "",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/68d8970e-7d7a-4dc1-a4fb-d464028f02d8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "035f2900-4b44-4167-81b2-dbb0120b4667": {
-          "uuid": "035f2900-4b44-4167-81b2-dbb0120b4667",
-          "title": "Thin",
-          "itemDescription": "Tasty Fries ",
-          "price": 3100,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ebb99cf5-c1e6-4ad0-8d73-f5c3f9431963",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "e485f72d-1c27-4316-a5cb-21b9a5cfb05d": {
-          "uuid": "e485f72d-1c27-4316-a5cb-21b9a5cfb05d",
-          "title": "Mayonnaise",
-          "itemDescription": "Homemade white sauce. Perfectly complement the taste of burgers",
-          "price": 800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/46110b87-a559-4eb6-ad6a-107c2a0f9cd8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "851f9dbd-2d4f-4997-b3e6-bdd0121cc777": {
-          "uuid": "851f9dbd-2d4f-4997-b3e6-bdd0121cc777",
-          "title": "Quinoa",
-          "itemDescription": "Quinoa, cucumber, sweet pepper, Feta cheese, broccoli, parsley, onion, basil, olive oil, and balsamic vinegar.\n195 g.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ffe860e-c64b-4145-9912-332d0d7e24a0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "e214393e-b222-4052-bb6b-b03b2624bba4": {
-          "uuid": "e214393e-b222-4052-bb6b-b03b2624bba4",
-          "title": "STAR Burger",
-          "itemDescription": "Tomatoes, onions, boston leaves, pickles and firm sauce.\n283 g.",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa8f448e-7c91-403c-8dff-38439375ac16",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
-            "8f974ab7-5439-4e61-8dd4-4d6a80592019",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "7cb37d92-4440-40e0-8cf3-c18a97ae6fa8": {
-          "uuid": "7cb37d92-4440-40e0-8cf3-c18a97ae6fa8",
-          "title": "FISH Burger",
-          "itemDescription": "Juicy fillet of white fish in Tempura, lettuce, sauce\n250 g",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4110bc3-6d11-41de-9c7a-7881654452c7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "106ddf2a-ffea-4d08-8023-c9f535d36339",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "75a14ee0-846f-4ff4-8654-5eacf79c3828": {
-          "uuid": "75a14ee0-846f-4ff4-8654-5eacf79c3828",
-          "title": "STARsauce",
-          "itemDescription": "Firm sauce, the recipe is kept secret. Fits meat and chicken",
-          "price": 1200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/31fa8703-c16a-4b13-80c8-88eb0a82e770",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7cf34698-4196-4f1b-b793-95bbed81e243": {
-          "uuid": "7cf34698-4196-4f1b-b793-95bbed81e243",
-          "title": "Beet & Feta",
-          "itemDescription": "Baked beet, Feta cheese, fresh beet leaves, walnuts, Pesto sauce, and balsamic vinegar. Baked beets.\nIdeal for those who do not eat meat. Rich in vitamins and healthy trace elements. \n218g",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8dcc7b0f-7cd0-4ef4-bd9f-fbe7d9677e14",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "78125c7f-03a8-4e1f-9bb9-2e2531ea1277": {
-          "uuid": "78125c7f-03a8-4e1f-9bb9-2e2531ea1277",
-          "title": "STAR CHEESE Burger",
-          "itemDescription": "Cheddar cheese, Boston lettuce, tomatoes, onion, pickles and firm sauce\n275 g.",
-          "price": 8400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bb0a9a95-a518-4e56-bb7d-630cbddbbdbe",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
-            "8f974ab7-5439-4e61-8dd4-4d6a80592019",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "c8fc50d6-4348-44aa-8dfc-2173c8924e09": {
-          "uuid": "c8fc50d6-4348-44aa-8dfc-2173c8924e09",
-          "title": "VEGA Burger",
-          "itemDescription": "An ideal combination of beet and Feta cheese, fresh beet leaves and Pesto sauce (302 g)",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b36617c6-058e-4a4f-9db0-a0ef0222c64f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "9d8e9d40-518f-40f0-93ce-21264e2757a1": {
-          "uuid": "9d8e9d40-518f-40f0-93ce-21264e2757a1",
-          "title": "Naked FISH Burger",
-          "itemDescription": "Juicy fillet of white fish in Tempura, lettuce, sauce 250 g\n",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/47d679a3-d71c-4ed6-b663-5e0c0f479d0a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "106ddf2a-ffea-4d08-8023-c9f535d36339",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "7195166d-3fe7-4462-abad-e9eced7422f8": {
-          "uuid": "7195166d-3fe7-4462-abad-e9eced7422f8",
-          "title": "Naked STAR CHEESE Burger",
-          "itemDescription": "Cheddar cheese, Boston lettuce, tomatoes, onion, pickles and firm sauce 275 g.\n",
-          "price": 8400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/352eadb2-8905-42b2-b29d-5d81b970e295",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "0195903d-900b-46d6-ba3d-7f01f1f1c11a": {
-          "uuid": "0195903d-900b-46d6-ba3d-7f01f1f1c11a",
-          "title": "Thick",
-          "itemDescription": "Tasty nourishing of selected potatoes with crispy crust",
-          "price": 3600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/272ebe3d-0784-45b2-ae40-6680a67e97a1",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3"
-          ]
-        },
-        "26b0fb1d-a28e-4f35-89a0-14b9481ff9d4": {
-          "uuid": "26b0fb1d-a28e-4f35-89a0-14b9481ff9d4",
-          "title": " ketchup",
-          "itemDescription": "ketchup made from real tomatoes.",
-          "price": 800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/abb432e5-4356-4e3a-bde5-4114acf04848",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "65318a20-451c-42e4-ae07-89c8b3aff07b": {
-          "uuid": "65318a20-451c-42e4-ae07-89c8b3aff07b",
-          "title": "Naked VEGA Burger",
-          "itemDescription": "An ideal combination of beet and Feta cheese, fresh beet leaves and Pesto sauce (302 g)\n",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b9d5f01c-4746-4aa9-9fbc-b463ea83b02f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "7d9b0ae2-3973-4b68-9255-2e0156f5cb3d": {
-          "uuid": "7d9b0ae2-3973-4b68-9255-2e0156f5cb3d",
-          "title": "Potato Chips",
-          "itemDescription": "These are real chips from potatoes!\n60 g",
-          "price": 2700,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/365c1cef-7586-4a58-9ce3-61a003855714",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "a123968b-eeff-4639-aea6-3a6b95ffd82c": {
-          "uuid": "a123968b-eeff-4639-aea6-3a6b95ffd82c",
-          "title": "Pepsi",
-          "itemDescription": "0,5 ml",
-          "price": 2700,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7f889278-cfe8-4533-96fd-4263025b86e4": {
-          "uuid": "7f889278-cfe8-4533-96fd-4263025b86e4",
-          "title": " Green Salad",
-          "itemDescription": "Olive oil, balsamic, tomatoes, cucumbers, and mix of salad.\n 175 g",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b6f1bafe-83fc-47b7-bdd4-178ce9ce7f37",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e6969b7b-3080-4a51-9601-408fc8550eb4",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "62d673f6-933c-463e-ae3b-1b403d3f91a1": {
-          "uuid": "62d673f6-933c-463e-ae3b-1b403d3f91a1",
-          "title": "Blue Cheese",
-          "itemDescription": "Saturated cheese sauce. Suits to chicken, meat and vegetable dishes.",
-          "price": 1200,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f19cbf6e-c4a0-4602-8c8a-7b3847e07056",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 1559509199
-        },
-        "848d2065-46d1-41fb-9e81-711ef2b77617": {
-          "uuid": "848d2065-46d1-41fb-9e81-711ef2b77617",
-          "title": "CHICKEN Burger",
-          "itemDescription": "Chicken breast, cooked on the grill, served with cole-slaw and cranberry sauce\n296 g",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf91d27-209c-4be4-b17f-9819e86d4f8a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "d4952c68-c5ad-414b-ace8-e9fc6bf7a9f6",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        },
-        "5fd002ab-aac6-4ba2-ad0b-7c6800aed715": {
-          "uuid": "5fd002ab-aac6-4ba2-ad0b-7c6800aed715",
-          "title": "Popcorn Shrimp",
-          "itemDescription": "Fried Tempura shrimps, mix of salad with glass noodles, in creamy spicy sauce.\n253 g",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/833de011-5579-4472-b8f1-32d11e15bee7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Hot",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "74caa40d-ae62-41bb-8c03-5e334d530538": {
-          "uuid": "74caa40d-ae62-41bb-8c03-5e334d530538",
-          "title": "Orginal American BBQ",
-          "itemDescription": "Original American BBQ Sauce.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9865106c-1322-4dc9-81d1-f6e972963132",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6cd55d2d-a4df-451a-9be0-ff6432f6459c": {
-          "uuid": "6cd55d2d-a4df-451a-9be0-ff6432f6459c",
-          "title": "Caesar with chicken",
-          "itemDescription": "Caesar with Chicken, Caesar sauce/ Olive oil, tomatoes, croutons with garlic, and Parmesan cheese, and salad mix.\n 281g",
-          "price": 13400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c702f602-d368-47d7-a920-68457f484be6",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e6969b7b-3080-4a51-9601-408fc8550eb4",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
-          ]
-        },
-        "005da709-3d3d-4eb9-9457-ea266c298b1c": {
-          "uuid": "005da709-3d3d-4eb9-9457-ea266c298b1c",
-          "title": "Naked CHICKEN Burger",
-          "itemDescription": "Chicken breast, cooked on the grill, served with cole-slaw and cranberry sauce 296 g\n",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a41b8833-0f25-4698-b838-81f8108d5633",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
-            "cacecd95-a551-4de0-9630-2d58f6efc66f",
-            "27ed8d27-3f28-41fe-822d-96827205e7ca",
-            "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
-            "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
-            "d4952c68-c5ad-414b-ace8-e9fc6bf7a9f6",
-            "463f04fe-68ef-4e8f-8363-574ed6a963ed"
-          ]
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "2e75adb6-080a-4992-b3d8-23bb4c82da55",
-          "title": "Our Burgers",
-          "subtitle": "",
-          "itemUuids": [
-            "e214393e-b222-4052-bb6b-b03b2624bba4",
-            "7cb37d92-4440-40e0-8cf3-c18a97ae6fa8",
-            "848d2065-46d1-41fb-9e81-711ef2b77617",
-            "c8fc50d6-4348-44aa-8dfc-2173c8924e09"
-          ]
-        },
-        {
-          "uuid": "3e7e4194-eb52-434a-a2b3-996eeac175b3",
-          "title": "Naked Burgers",
-          "subtitle": "",
-          "itemUuids": [
-            "aa429733-98d3-4397-b4f5-5566764ea647",
-            "9d8e9d40-518f-40f0-93ce-21264e2757a1",
-            "005da709-3d3d-4eb9-9457-ea266c298b1c",
-            "65318a20-451c-42e4-ae07-89c8b3aff07b"
-          ]
-        },
-        {
-          "uuid": "2b9b1426-51fd-4ec4-86c0-9555c6d367e9",
-          "title": "Premium Burger",
-          "subtitle": "",
-          "itemUuids": [
-            "78125c7f-03a8-4e1f-9bb9-2e2531ea1277",
-            "7195166d-3fe7-4462-abad-e9eced7422f8"
-          ]
-        },
-        {
-          "uuid": "704a09d4-60bd-4b4f-9480-99638c035f5d",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "851f9dbd-2d4f-4997-b3e6-bdd0121cc777",
-            "7cf34698-4196-4f1b-b793-95bbed81e243",
-            "5fd002ab-aac6-4ba2-ad0b-7c6800aed715",
-            "6cd55d2d-a4df-451a-9be0-ff6432f6459c",
-            "2c2964b9-7e86-44eb-baec-924c3c3e4064",
-            "7f889278-cfe8-4533-96fd-4263025b86e4"
-          ]
-        },
-        {
-          "uuid": "98c7ad30-c8ae-4c2e-9089-549f820971b2",
-          "title": "Sauces",
-          "subtitle": "",
-          "itemUuids": [
-            "62d673f6-933c-463e-ae3b-1b403d3f91a1",
-            "75a14ee0-846f-4ff4-8654-5eacf79c3828",
-            "e485f72d-1c27-4316-a5cb-21b9a5cfb05d",
-            "74caa40d-ae62-41bb-8c03-5e334d530538",
-            "26b0fb1d-a28e-4f35-89a0-14b9481ff9d4"
-          ]
-        },
-        {
-          "uuid": "9fdffb57-fdf4-4e1a-98cd-45b34f200677",
-          "title": "STARfries",
-          "subtitle": "",
-          "itemUuids": [
-            "035f2900-4b44-4167-81b2-dbb0120b4667",
-            "0195903d-900b-46d6-ba3d-7f01f1f1c11a",
-            "7d9b0ae2-3973-4b68-9255-2e0156f5cb3d"
-          ]
-        },
-        {
-          "uuid": "7317ac78-8a8a-4bc0-aaab-a81a0dcd4196",
-          "title": "Drinks",
-          "subtitle": "",
-          "itemUuids": [
-            "a123968b-eeff-4639-aea6-3a6b95ffd82c"
-          ]
-        },
-        {
-          "uuid": "da1af7d8-94c7-4903-a3c2-1c883da0edcc",
-          "title": "Starters",
-          "subtitle": "",
-          "itemUuids": [
-            "2b3c851c-4bcc-44ec-98dc-a8c69197a83f"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4506798,
     "longitude": 30.526015,
@@ -633,5 +142,474 @@
     "storeRatingScore": 4.302158273381295,
     "ratingCount": "139"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8646805e-1fb8-4429-8ee8-f789f4b1d380"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8646805e-1fb8-4429-8ee8-f789f4b1d380",
+  "items": {
+    "2c2964b9-7e86-44eb-baec-924c3c3e4064": {
+      "uuid": "2c2964b9-7e86-44eb-baec-924c3c3e4064",
+      "title": "STAR Greek",
+      "itemDescription": "Fresh tomatoes, cucumber, sweet pepper, Feta cheese, olives, and salad mix. Dressed with olive oil, and balsamic vinegar.\n265g",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6061c76-b292-4c34-923c-d6afa8e94114",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "aa429733-98d3-4397-b4f5-5566764ea647": {
+      "uuid": "aa429733-98d3-4397-b4f5-5566764ea647",
+      "title": "Naked STAR Burger",
+      "itemDescription": "Tomatoes, onions, boston leaves, pickles and firm sauce. 283 g.\n",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8cb1045-0223-4a4b-8aaa-3fdad6e0d34f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
+        "8f974ab7-5439-4e61-8dd4-4d6a80592019",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "2b3c851c-4bcc-44ec-98dc-a8c69197a83f": {
+      "uuid": "2b3c851c-4bcc-44ec-98dc-a8c69197a83f",
+      "title": "Chicken Wings BBQ",
+      "itemDescription": "",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/68d8970e-7d7a-4dc1-a4fb-d464028f02d8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "035f2900-4b44-4167-81b2-dbb0120b4667": {
+      "uuid": "035f2900-4b44-4167-81b2-dbb0120b4667",
+      "title": "Thin",
+      "itemDescription": "Tasty Fries ",
+      "price": 3100,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ebb99cf5-c1e6-4ad0-8d73-f5c3f9431963",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "e485f72d-1c27-4316-a5cb-21b9a5cfb05d": {
+      "uuid": "e485f72d-1c27-4316-a5cb-21b9a5cfb05d",
+      "title": "Mayonnaise",
+      "itemDescription": "Homemade white sauce. Perfectly complement the taste of burgers",
+      "price": 800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/46110b87-a559-4eb6-ad6a-107c2a0f9cd8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "851f9dbd-2d4f-4997-b3e6-bdd0121cc777": {
+      "uuid": "851f9dbd-2d4f-4997-b3e6-bdd0121cc777",
+      "title": "Quinoa",
+      "itemDescription": "Quinoa, cucumber, sweet pepper, Feta cheese, broccoli, parsley, onion, basil, olive oil, and balsamic vinegar.\n195 g.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ffe860e-c64b-4145-9912-332d0d7e24a0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "e214393e-b222-4052-bb6b-b03b2624bba4": {
+      "uuid": "e214393e-b222-4052-bb6b-b03b2624bba4",
+      "title": "STAR Burger",
+      "itemDescription": "Tomatoes, onions, boston leaves, pickles and firm sauce.\n283 g.",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa8f448e-7c91-403c-8dff-38439375ac16",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
+        "8f974ab7-5439-4e61-8dd4-4d6a80592019",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "7cb37d92-4440-40e0-8cf3-c18a97ae6fa8": {
+      "uuid": "7cb37d92-4440-40e0-8cf3-c18a97ae6fa8",
+      "title": "FISH Burger",
+      "itemDescription": "Juicy fillet of white fish in Tempura, lettuce, sauce\n250 g",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4110bc3-6d11-41de-9c7a-7881654452c7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "106ddf2a-ffea-4d08-8023-c9f535d36339",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "75a14ee0-846f-4ff4-8654-5eacf79c3828": {
+      "uuid": "75a14ee0-846f-4ff4-8654-5eacf79c3828",
+      "title": "STARsauce",
+      "itemDescription": "Firm sauce, the recipe is kept secret. Fits meat and chicken",
+      "price": 1200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/31fa8703-c16a-4b13-80c8-88eb0a82e770",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7cf34698-4196-4f1b-b793-95bbed81e243": {
+      "uuid": "7cf34698-4196-4f1b-b793-95bbed81e243",
+      "title": "Beet & Feta",
+      "itemDescription": "Baked beet, Feta cheese, fresh beet leaves, walnuts, Pesto sauce, and balsamic vinegar. Baked beets.\nIdeal for those who do not eat meat. Rich in vitamins and healthy trace elements. \n218g",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8dcc7b0f-7cd0-4ef4-bd9f-fbe7d9677e14",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "78125c7f-03a8-4e1f-9bb9-2e2531ea1277": {
+      "uuid": "78125c7f-03a8-4e1f-9bb9-2e2531ea1277",
+      "title": "STAR CHEESE Burger",
+      "itemDescription": "Cheddar cheese, Boston lettuce, tomatoes, onion, pickles and firm sauce\n275 g.",
+      "price": 8400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bb0a9a95-a518-4e56-bb7d-630cbddbbdbe",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
+        "8f974ab7-5439-4e61-8dd4-4d6a80592019",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "c8fc50d6-4348-44aa-8dfc-2173c8924e09": {
+      "uuid": "c8fc50d6-4348-44aa-8dfc-2173c8924e09",
+      "title": "VEGA Burger",
+      "itemDescription": "An ideal combination of beet and Feta cheese, fresh beet leaves and Pesto sauce (302 g)",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b36617c6-058e-4a4f-9db0-a0ef0222c64f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "9d8e9d40-518f-40f0-93ce-21264e2757a1": {
+      "uuid": "9d8e9d40-518f-40f0-93ce-21264e2757a1",
+      "title": "Naked FISH Burger",
+      "itemDescription": "Juicy fillet of white fish in Tempura, lettuce, sauce 250 g\n",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/47d679a3-d71c-4ed6-b663-5e0c0f479d0a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "106ddf2a-ffea-4d08-8023-c9f535d36339",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "7195166d-3fe7-4462-abad-e9eced7422f8": {
+      "uuid": "7195166d-3fe7-4462-abad-e9eced7422f8",
+      "title": "Naked STAR CHEESE Burger",
+      "itemDescription": "Cheddar cheese, Boston lettuce, tomatoes, onion, pickles and firm sauce 275 g.\n",
+      "price": 8400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/352eadb2-8905-42b2-b29d-5d81b970e295",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "f9d29b04-312c-4d4f-b29c-dbc8d34128cf",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "0195903d-900b-46d6-ba3d-7f01f1f1c11a": {
+      "uuid": "0195903d-900b-46d6-ba3d-7f01f1f1c11a",
+      "title": "Thick",
+      "itemDescription": "Tasty nourishing of selected potatoes with crispy crust",
+      "price": 3600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/272ebe3d-0784-45b2-ae40-6680a67e97a1",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3"
+      ]
+    },
+    "26b0fb1d-a28e-4f35-89a0-14b9481ff9d4": {
+      "uuid": "26b0fb1d-a28e-4f35-89a0-14b9481ff9d4",
+      "title": " ketchup",
+      "itemDescription": "ketchup made from real tomatoes.",
+      "price": 800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/abb432e5-4356-4e3a-bde5-4114acf04848",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "65318a20-451c-42e4-ae07-89c8b3aff07b": {
+      "uuid": "65318a20-451c-42e4-ae07-89c8b3aff07b",
+      "title": "Naked VEGA Burger",
+      "itemDescription": "An ideal combination of beet and Feta cheese, fresh beet leaves and Pesto sauce (302 g)\n",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b9d5f01c-4746-4aa9-9fbc-b463ea83b02f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "7d9b0ae2-3973-4b68-9255-2e0156f5cb3d": {
+      "uuid": "7d9b0ae2-3973-4b68-9255-2e0156f5cb3d",
+      "title": "Potato Chips",
+      "itemDescription": "These are real chips from potatoes!\n60 g",
+      "price": 2700,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/365c1cef-7586-4a58-9ce3-61a003855714",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "a123968b-eeff-4639-aea6-3a6b95ffd82c": {
+      "uuid": "a123968b-eeff-4639-aea6-3a6b95ffd82c",
+      "title": "Pepsi",
+      "itemDescription": "0,5 ml",
+      "price": 2700,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7f889278-cfe8-4533-96fd-4263025b86e4": {
+      "uuid": "7f889278-cfe8-4533-96fd-4263025b86e4",
+      "title": " Green Salad",
+      "itemDescription": "Olive oil, balsamic, tomatoes, cucumbers, and mix of salad.\n 175 g",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b6f1bafe-83fc-47b7-bdd4-178ce9ce7f37",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e6969b7b-3080-4a51-9601-408fc8550eb4",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "62d673f6-933c-463e-ae3b-1b403d3f91a1": {
+      "uuid": "62d673f6-933c-463e-ae3b-1b403d3f91a1",
+      "title": "Blue Cheese",
+      "itemDescription": "Saturated cheese sauce. Suits to chicken, meat and vegetable dishes.",
+      "price": 1200,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f19cbf6e-c4a0-4602-8c8a-7b3847e07056",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 1559509199
+    },
+    "848d2065-46d1-41fb-9e81-711ef2b77617": {
+      "uuid": "848d2065-46d1-41fb-9e81-711ef2b77617",
+      "title": "CHICKEN Burger",
+      "itemDescription": "Chicken breast, cooked on the grill, served with cole-slaw and cranberry sauce\n296 g",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf91d27-209c-4be4-b17f-9819e86d4f8a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "d4952c68-c5ad-414b-ace8-e9fc6bf7a9f6",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    },
+    "5fd002ab-aac6-4ba2-ad0b-7c6800aed715": {
+      "uuid": "5fd002ab-aac6-4ba2-ad0b-7c6800aed715",
+      "title": "Popcorn Shrimp",
+      "itemDescription": "Fried Tempura shrimps, mix of salad with glass noodles, in creamy spicy sauce.\n253 g",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/833de011-5579-4472-b8f1-32d11e15bee7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Hot",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "74caa40d-ae62-41bb-8c03-5e334d530538": {
+      "uuid": "74caa40d-ae62-41bb-8c03-5e334d530538",
+      "title": "Orginal American BBQ",
+      "itemDescription": "Original American BBQ Sauce.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9865106c-1322-4dc9-81d1-f6e972963132",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6cd55d2d-a4df-451a-9be0-ff6432f6459c": {
+      "uuid": "6cd55d2d-a4df-451a-9be0-ff6432f6459c",
+      "title": "Caesar with chicken",
+      "itemDescription": "Caesar with Chicken, Caesar sauce/ Olive oil, tomatoes, croutons with garlic, and Parmesan cheese, and salad mix.\n 281g",
+      "price": 13400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c702f602-d368-47d7-a920-68457f484be6",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e6969b7b-3080-4a51-9601-408fc8550eb4",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611"
+      ]
+    },
+    "005da709-3d3d-4eb9-9457-ea266c298b1c": {
+      "uuid": "005da709-3d3d-4eb9-9457-ea266c298b1c",
+      "title": "Naked CHICKEN Burger",
+      "itemDescription": "Chicken breast, cooked on the grill, served with cole-slaw and cranberry sauce 296 g\n",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a41b8833-0f25-4698-b838-81f8108d5633",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2b7cb9ba-6fcd-47de-b80f-a3842e2e71c2",
+        "cacecd95-a551-4de0-9630-2d58f6efc66f",
+        "27ed8d27-3f28-41fe-822d-96827205e7ca",
+        "d0467f5f-da0f-4f45-9aae-34f0978c0aa3",
+        "e3e1ec05-d48c-49a9-a7a5-392f996c6611",
+        "d4952c68-c5ad-414b-ace8-e9fc6bf7a9f6",
+        "463f04fe-68ef-4e8f-8363-574ed6a963ed"
+      ]
+    }
+  }
 }

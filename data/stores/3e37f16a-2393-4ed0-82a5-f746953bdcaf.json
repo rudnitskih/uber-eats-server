@@ -20,208 +20,44 @@
   ],
   "sections": [
     {
-      "uuid": "7d09268a-9c61-4059-b224-6536a7352758",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
-        "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
-        "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
-        "a33a1971-f588-4532-887b-f4691a2d982c"
+      "uuid": "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
+      "title": "Menu sets",
+      "itemUuids": [
+        "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
+        "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
+        "d57829e1-4516-4946-bbd1-c73b6414f548",
+        "2e735467-5582-4cc3-bb9f-83a500241c52",
+        "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
+        "f0edd938-4de7-460d-947a-afd2f39aec0d"
+      ]
+    },
+    {
+      "uuid": "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
+      "title": "Snacks",
+      "itemUuids": [
+        "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
+        "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
+        "d8875a96-1943-46e5-b778-32af63b04f6c",
+        "4baa7a4f-a72f-4b11-b594-c504988b81a7"
+      ]
+    },
+    {
+      "uuid": "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
+      "title": "Desserts",
+      "itemUuids": [
+        "0a79ad8b-3858-4fb1-af1a-6f4a47e46851"
+      ]
+    },
+    {
+      "uuid": "a33a1971-f588-4532-887b-f4691a2d982c",
+      "title": "Beverages",
+      "itemUuids": [
+        "482db4b0-b1b1-440e-a587-636b4a906542",
+        "339d61ae-615e-4413-9141-a67a2b4d06ca",
+        "215b2f51-1b1b-470f-9f5b-bfa06500fa7e"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "7d09268a-9c61-4059-b224-6536a7352758": {
-      "itemsMap": {
-        "8fb54491-ba06-41b9-9da8-b27196bbc2e2": {
-          "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
-          "title": "Burger menu",
-          "itemDescription": "Double burger (180g), Potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba31abdb-3e94-491f-8430-da46bf5e87b2",
-          "nutritionalInfo": {},
-          "customizationUuids": [
-            "80a1aa9f-c8e8-4aae-9551-1833f9505e6a",
-            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-          ]
-        },
-        "f0edd938-4de7-460d-947a-afd2f39aec0d": {
-          "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
-          "title": "Vega Double dog Menu",
-          "itemDescription": "Vega double dog (200g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d535d9fd-2b3c-4966-8648-196d4ada9ceb",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegan",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-          ]
-        },
-        "d8875a96-1943-46e5-b778-32af63b04f6c": {
-          "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
-          "title": "Chicken pie",
-          "itemDescription": "170g.",
-          "price": 2900
-        },
-        "805d66d1-2aa4-49ff-9d66-ceec3b43d594": {
-          "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
-          "title": "Double dog menu",
-          "itemDescription": "Double dog (235g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/202668ad-5536-4f6f-8edb-54f07f42cfe0",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegan",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-          ]
-        },
-        "38e28889-5fe2-4784-bcb7-368cfdff5a2d": {
-          "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
-          "title": "Grilled shrimps",
-          "itemDescription": "65g.",
-          "price": 3900
-        },
-        "4baa7a4f-a72f-4b11-b594-c504988b81a7": {
-          "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
-          "title": "Surf & Turf Burger with cutlet and shrimps",
-          "itemDescription": "155g.",
-          "price": 5900
-        },
-        "215b2f51-1b1b-470f-9f5b-bfa06500fa7e": {
-          "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
-          "title": "Sparkling water",
-          "itemDescription": "330ml.",
-          "price": 2900
-        },
-        "339d61ae-615e-4413-9141-a67a2b4d06ca": {
-          "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
-          "title": "Still water",
-          "itemDescription": "330ml.",
-          "price": 2900
-        },
-        "2e735467-5582-4cc3-bb9f-83a500241c52": {
-          "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
-          "title": "Meat hot-dog menu",
-          "itemDescription": "Meat hot-dog (170g), potato dips with cheese sauce  (170g), and Coca-cola (330ml).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/304c3ebe-3c21-464d-9f8d-55f38e38848f",
-          "customizationUuids": [
-            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-          ]
-        },
-        "0a79ad8b-3858-4fb1-af1a-6f4a47e46851": {
-          "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
-          "title": "Apple pie",
-          "itemDescription": "150g.",
-          "price": 2900
-        },
-        "a497ed36-1a87-49e4-b1ae-e288a16ebc2d": {
-          "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
-          "title": "Naked burger menu",
-          "itemDescription": "Naked HP double burger (200g), potato dips with cheese sauce (170g), and Coca-cola (330мл).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/613dde57-9680-4097-a411-8ecc81ba1dfe",
-          "nutritionalInfo": {},
-          "customizationUuids": [
-            "ed2af4e4-c26f-48fd-b888-ec7551f9baf8",
-            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-          ]
-        },
-        "d57829e1-4516-4946-bbd1-c73b6414f548": {
-          "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
-          "title": "Vega hot dog menu",
-          "itemDescription": "Vega hot dog (155g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/77051c75-c81d-4662-affe-3ae3c364a834",
-          "customizationUuids": [
-            "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
-          ]
-        },
-        "482db4b0-b1b1-440e-a587-636b4a906542": {
-          "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
-          "title": "Coca Cola",
-          "itemDescription": "330ml.",
-          "price": 2900
-        },
-        "ca3fa025-9ee8-4959-bec6-cafcd85b1020": {
-          "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
-          "title": "Potato dips with cheese sauce",
-          "itemDescription": "170g.",
-          "price": 3900
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "be3e198b-c24b-4b09-9c3c-64e54f72bdbc",
-          "title": "Menu sets",
-          "itemUuids": [
-            "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
-            "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
-            "d57829e1-4516-4946-bbd1-c73b6414f548",
-            "2e735467-5582-4cc3-bb9f-83a500241c52",
-            "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
-            "f0edd938-4de7-460d-947a-afd2f39aec0d"
-          ]
-        },
-        {
-          "uuid": "6ba1d0f9-7494-4e5b-a6dd-213925be7c09",
-          "title": "Snacks",
-          "itemUuids": [
-            "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
-            "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
-            "d8875a96-1943-46e5-b778-32af63b04f6c",
-            "4baa7a4f-a72f-4b11-b594-c504988b81a7"
-          ]
-        },
-        {
-          "uuid": "0b84a30b-6ece-4081-beb6-471dbfd28e7c",
-          "title": "Desserts",
-          "itemUuids": [
-            "0a79ad8b-3858-4fb1-af1a-6f4a47e46851"
-          ]
-        },
-        {
-          "uuid": "a33a1971-f588-4532-887b-f4691a2d982c",
-          "title": "Beverages",
-          "itemUuids": [
-            "482db4b0-b1b1-440e-a587-636b4a906542",
-            "339d61ae-615e-4413-9141-a67a2b4d06ca",
-            "215b2f51-1b1b-470f-9f5b-bfa06500fa7e"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.450893,
     "longitude": 30.5226522,
@@ -260,5 +96,151 @@
     "storeRatingScore": 4.72972972972973,
     "ratingCount": "37"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b",
+  "items": {
+    "8fb54491-ba06-41b9-9da8-b27196bbc2e2": {
+      "uuid": "8fb54491-ba06-41b9-9da8-b27196bbc2e2",
+      "title": "Burger menu",
+      "itemDescription": "Double burger (180g), Potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba31abdb-3e94-491f-8430-da46bf5e87b2",
+      "nutritionalInfo": {},
+      "customizationUuids": [
+        "80a1aa9f-c8e8-4aae-9551-1833f9505e6a",
+        "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+      ]
+    },
+    "f0edd938-4de7-460d-947a-afd2f39aec0d": {
+      "uuid": "f0edd938-4de7-460d-947a-afd2f39aec0d",
+      "title": "Vega Double dog Menu",
+      "itemDescription": "Vega double dog (200g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d535d9fd-2b3c-4966-8648-196d4ada9ceb",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegan",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+      ]
+    },
+    "d8875a96-1943-46e5-b778-32af63b04f6c": {
+      "uuid": "d8875a96-1943-46e5-b778-32af63b04f6c",
+      "title": "Chicken pie",
+      "itemDescription": "170g.",
+      "price": 2900
+    },
+    "805d66d1-2aa4-49ff-9d66-ceec3b43d594": {
+      "uuid": "805d66d1-2aa4-49ff-9d66-ceec3b43d594",
+      "title": "Double dog menu",
+      "itemDescription": "Double dog (235g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/202668ad-5536-4f6f-8edb-54f07f42cfe0",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegan",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+      ]
+    },
+    "38e28889-5fe2-4784-bcb7-368cfdff5a2d": {
+      "uuid": "38e28889-5fe2-4784-bcb7-368cfdff5a2d",
+      "title": "Grilled shrimps",
+      "itemDescription": "65g.",
+      "price": 3900
+    },
+    "4baa7a4f-a72f-4b11-b594-c504988b81a7": {
+      "uuid": "4baa7a4f-a72f-4b11-b594-c504988b81a7",
+      "title": "Surf & Turf Burger with cutlet and shrimps",
+      "itemDescription": "155g.",
+      "price": 5900
+    },
+    "215b2f51-1b1b-470f-9f5b-bfa06500fa7e": {
+      "uuid": "215b2f51-1b1b-470f-9f5b-bfa06500fa7e",
+      "title": "Sparkling water",
+      "itemDescription": "330ml.",
+      "price": 2900
+    },
+    "339d61ae-615e-4413-9141-a67a2b4d06ca": {
+      "uuid": "339d61ae-615e-4413-9141-a67a2b4d06ca",
+      "title": "Still water",
+      "itemDescription": "330ml.",
+      "price": 2900
+    },
+    "2e735467-5582-4cc3-bb9f-83a500241c52": {
+      "uuid": "2e735467-5582-4cc3-bb9f-83a500241c52",
+      "title": "Meat hot-dog menu",
+      "itemDescription": "Meat hot-dog (170g), potato dips with cheese sauce  (170g), and Coca-cola (330ml).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/304c3ebe-3c21-464d-9f8d-55f38e38848f",
+      "customizationUuids": [
+        "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+      ]
+    },
+    "0a79ad8b-3858-4fb1-af1a-6f4a47e46851": {
+      "uuid": "0a79ad8b-3858-4fb1-af1a-6f4a47e46851",
+      "title": "Apple pie",
+      "itemDescription": "150g.",
+      "price": 2900
+    },
+    "a497ed36-1a87-49e4-b1ae-e288a16ebc2d": {
+      "uuid": "a497ed36-1a87-49e4-b1ae-e288a16ebc2d",
+      "title": "Naked burger menu",
+      "itemDescription": "Naked HP double burger (200g), potato dips with cheese sauce (170g), and Coca-cola (330мл).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/613dde57-9680-4097-a411-8ecc81ba1dfe",
+      "nutritionalInfo": {},
+      "customizationUuids": [
+        "ed2af4e4-c26f-48fd-b888-ec7551f9baf8",
+        "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+      ]
+    },
+    "d57829e1-4516-4946-bbd1-c73b6414f548": {
+      "uuid": "d57829e1-4516-4946-bbd1-c73b6414f548",
+      "title": "Vega hot dog menu",
+      "itemDescription": "Vega hot dog (155g), potato dips with cheese sauce (170g), and Coca-cola (330ml).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/77051c75-c81d-4662-affe-3ae3c364a834",
+      "customizationUuids": [
+        "c7ddb675-88e8-4f0e-9205-13aa1ce93551"
+      ]
+    },
+    "482db4b0-b1b1-440e-a587-636b4a906542": {
+      "uuid": "482db4b0-b1b1-440e-a587-636b4a906542",
+      "title": "Coca Cola",
+      "itemDescription": "330ml.",
+      "price": 2900
+    },
+    "ca3fa025-9ee8-4959-bec6-cafcd85b1020": {
+      "uuid": "ca3fa025-9ee8-4959-bec6-cafcd85b1020",
+      "title": "Potato dips with cheese sauce",
+      "itemDescription": "170g.",
+      "price": 3900
+    }
+  }
 }

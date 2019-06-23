@@ -20,1044 +20,160 @@
   ],
   "sections": [
     {
-      "uuid": "510571d6-611e-4654-b24d-8f186df18141",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 9:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "242a0fdd-ec69-429b-a089-ed91c376003c",
-        "f21eccdf-43cc-4256-8b68-986faf50626f",
-        "14c35f51-fe74-4c7c-b44a-fded51c3700e",
-        "62b5dcc3-3814-4a82-af07-462e36f2a424",
-        "1a82efa4-5d96-4fd8-9fb3-659d46407365",
-        "e214976d-6eb5-41e2-bbbf-36eb11570f3c",
-        "7c0a77b0-6504-4bf5-a49d-f2ce695a660d",
-        "24d1bcc1-f600-4695-81d6-ad980f3736cb",
-        "6c00f906-296b-451f-9ded-e66e011d9da2",
-        "6d8f3b5b-d42c-492a-8b6c-81ab3f240e48",
-        "c2705aa8-98f6-478f-b899-5e8c99bf6d70",
-        "0fc4fdb4-d60f-4adc-948a-7cae7042e6a6"
+      "uuid": "242a0fdd-ec69-429b-a089-ed91c376003c",
+      "title": "Fresh rolls",
+      "subtitle": "",
+      "itemUuids": [
+        "0763f4b3-660a-4074-83b6-84f425369b8b",
+        "b505130d-1581-4288-b99a-ee68d0eb6902",
+        "b24bac8a-76a6-4e77-bcee-84bb0d7bf2d0"
+      ]
+    },
+    {
+      "uuid": "f21eccdf-43cc-4256-8b68-986faf50626f",
+      "title": "Main dishes",
+      "subtitle": "",
+      "itemUuids": [
+        "415357da-5ad1-47ed-b4f4-0da1279788a8",
+        "f14c1dfb-1a51-40d9-b328-90762a06e70b",
+        "b46572ac-66b3-445b-8504-6cd6ecbe6e7e",
+        "7532f87b-f76d-49a4-b99a-21f4f86b4a0b",
+        "a0064b4a-83b5-48ef-bc97-370aa01e729c",
+        "6d95b218-5907-49bf-9d5b-3fa437cf0bb9",
+        "3b85dc73-9eea-425a-9d39-d8a957ae240a",
+        "90e01c8a-cde0-4860-b8f0-d0efcb39b726",
+        "85e9267f-8baa-4270-a05b-5a1f6183dda5"
+      ]
+    },
+    {
+      "uuid": "14c35f51-fe74-4c7c-b44a-fded51c3700e",
+      "title": "Desserts",
+      "subtitle": "",
+      "itemUuids": [
+        "54b13d1b-5f11-4853-8fb2-aaa3a9b7682b",
+        "51870a14-9f12-4f06-8027-feef90dfe430",
+        "38ce25eb-bab6-475e-8f0e-904a949ff435",
+        "3b89665c-ba43-4e74-b0e1-55554d5595ec",
+        "02b889e0-523a-418d-959f-b25d9235fcc9",
+        "73b17627-1a24-4c2e-aae9-b48234e62e80"
+      ]
+    },
+    {
+      "uuid": "62b5dcc3-3814-4a82-af07-462e36f2a424",
+      "title": "Sweets",
+      "subtitle": "",
+      "itemUuids": [
+        "1a1bc01a-c42f-4439-8154-47875d69deb3",
+        "c659036b-8770-4834-a71b-6a58f7772fff",
+        "b1afb7e4-365e-4ef0-aeb7-900e7ca87fcb",
+        "c0a6ac87-2754-4b61-a1df-a80274e9cf2e",
+        "1fed3369-71b1-4997-8619-754d68507f24",
+        "ced48637-39f0-4c4f-814d-f8d686ee3b7c",
+        "4afe81d2-1f1c-419d-948c-991f3d9b8031",
+        "ee006efc-494a-40a2-9884-59a49f495076",
+        "bb15e39a-3c80-4dcd-be7a-816fa87dfb0a",
+        "56cf8f7c-8bc9-44e1-8635-99a6a941721b",
+        "b9cd4a3d-d8b7-4ad1-8e19-052bfa36f076",
+        "264a2607-c9df-4e48-9ab7-bb20ddd98fe0",
+        "d311d21c-e78f-4783-87f7-2e3778a6c735"
+      ]
+    },
+    {
+      "uuid": "1a82efa4-5d96-4fd8-9fb3-659d46407365",
+      "title": "Chocolate",
+      "subtitle": "",
+      "itemUuids": [
+        "46f0576b-f43f-4262-808d-d0a5d40f41a1",
+        "fbe3071a-ed61-4f32-bdce-0f445581130a",
+        "9f544b09-183d-4766-9c12-9777e0f04933",
+        "2857dd6c-4839-4b51-8f94-49f13c0b627b",
+        "e0ddc180-2e62-4e0a-90d9-ce5dbad2dc82",
+        "3316415e-9f30-4759-8c5a-beb342e0055c"
+      ]
+    },
+    {
+      "uuid": "e214976d-6eb5-41e2-bbbf-36eb11570f3c",
+      "title": "Candy sets",
+      "subtitle": "",
+      "itemUuids": [
+        "ec21bd1e-59bb-41d0-bdb9-7b615eadebf5",
+        "aa7eb521-a5d1-4a9d-83e2-988a1a225e6f",
+        "d64867ef-597f-4439-be3f-fa97a24180f5",
+        "3838cab9-824c-4b2d-a8ee-d1de7c1f5640",
+        "172eee79-ef3e-4c20-ab26-bdb77b115ad2",
+        "299469aa-1086-4bcc-a9b0-2ff91cb49cbb",
+        "a624f8ec-25eb-4b53-a806-d43628292a0b"
+      ]
+    },
+    {
+      "uuid": "7c0a77b0-6504-4bf5-a49d-f2ce695a660d",
+      "title": "Drinks",
+      "subtitle": "",
+      "itemUuids": [
+        "3b23e336-c539-44f0-be07-746cc19c5b01",
+        "beebeda4-2e9e-4ecc-8966-0ba17dfc2b37",
+        "fe958589-f32b-42b3-9b8a-f12567f8dd6d"
+      ]
+    },
+    {
+      "uuid": "24d1bcc1-f600-4695-81d6-ad980f3736cb",
+      "title": "Sauces and nut butters",
+      "subtitle": "",
+      "itemUuids": [
+        "7acef416-90fe-4ffd-a0d1-0850f9ea1671",
+        "46bc5695-9696-4878-b447-15e6ccf4ceb3",
+        "5eecf746-14f4-4c6d-a9c1-a2275d984266",
+        "7848c2dd-44cb-4bab-a569-87d4104c330d",
+        "f5c42f00-acd1-41ee-a8bd-18048bf31e49",
+        "051146e3-d11a-4689-a9e5-063d4b8fc70a",
+        "eb907e21-2427-49b6-b3f8-5f2553e2bccc"
+      ]
+    },
+    {
+      "uuid": "6c00f906-296b-451f-9ded-e66e011d9da2",
+      "title": "Cakes",
+      "subtitle": "",
+      "itemUuids": [
+        "70d1bbb1-d650-44af-bfa7-04420ab0819a",
+        "3fdc9803-e2ae-40cd-97d7-f96d415080e3",
+        "f525170d-b988-42a9-82b4-920058e1fd06",
+        "afbad29f-af8d-4239-be5b-cfe3f0486d5d",
+        "454566ed-4265-4c95-b856-d4f3dc89fa6d"
+      ]
+    },
+    {
+      "uuid": "6d8f3b5b-d42c-492a-8b6c-81ab3f240e48",
+      "title": "Granola",
+      "subtitle": "",
+      "itemUuids": [
+        "beaaa746-8e04-4f4c-974f-a9b07cf8e4b9",
+        "c0b2472b-f21a-4dd7-8dce-f2e6ba980f59",
+        "a3617c52-4af0-49a9-9f6a-39189cfdb730",
+        "fe202002-5206-461a-aebb-d3aceb32dbee"
+      ]
+    },
+    {
+      "uuid": "c2705aa8-98f6-478f-b899-5e8c99bf6d70",
+      "title": "Фреш-роли",
+      "subtitle": "",
+      "itemUuids": [
+        "1bd319e8-6da5-4e9a-b5e0-1b089487e213",
+        "5bd4fc7b-38ce-4b2f-8a3e-b1f552590ab3",
+        "7b2b289a-5e38-4ad6-8821-f4e80485ba98"
+      ]
+    },
+    {
+      "uuid": "0fc4fdb4-d60f-4adc-948a-7cae7042e6a6",
+      "title": "Cookies",
+      "subtitle": "",
+      "itemUuids": [
+        "4fd77479-8fcf-4963-b928-f9cc6971806d",
+        "5aae4459-2b9d-4e7b-88dc-d35a2454b643",
+        "0f45fec6-6246-4a3f-b8e1-f9c35cd064f1",
+        "cb224b20-7389-47d4-845f-968ec485d156"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "510571d6-611e-4654-b24d-8f186df18141": {
-      "itemsMap": {
-        "ec21bd1e-59bb-41d0-bdb9-7b615eadebf5": {
-          "uuid": "ec21bd1e-59bb-41d0-bdb9-7b615eadebf5",
-          "title": "Candy set top 3",
-          "itemDescription": "Snickers Twix, Salted caramel (184g).",
-          "price": 29900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7848c2dd-44cb-4bab-a569-87d4104c330d": {
-          "uuid": "7848c2dd-44cb-4bab-a569-87d4104c330d",
-          "title": "Almond butter classic",
-          "itemDescription": "Almonds, Himalayan pink salt (200g).",
-          "price": 20900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "54b13d1b-5f11-4853-8fb2-aaa3a9b7682b": {
-          "uuid": "54b13d1b-5f11-4853-8fb2-aaa3a9b7682b",
-          "title": "Brownie",
-          "itemDescription": "Cashews, hazelnuts, dates, banana, raw cacao, vanilla (145 g).",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1fed3369-71b1-4997-8619-754d68507f24": {
-          "uuid": "1fed3369-71b1-4997-8619-754d68507f24",
-          "title": "Snickers",
-          "itemDescription": "Date, carob, cashews, almonds, coconut oil, cocoa butter, Himalayan pink salt (1p/35g).",
-          "price": 5300,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0f45fec6-6246-4a3f-b8e1-f9c35cd064f1": {
-          "uuid": "0f45fec6-6246-4a3f-b8e1-f9c35cd064f1",
-          "title": "Oat cookies ginger",
-          "itemDescription": "",
-          "price": 6000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "415357da-5ad1-47ed-b4f4-0da1279788a8": {
-          "uuid": "415357da-5ad1-47ed-b4f4-0da1279788a8",
-          "title": "Quinoa Salad",
-          "itemDescription": "Red Cabbage, spinach, sweet peppers, cherry tomatoes, cucumber, quinoa, lemonds, lemon sauce (280g).\n",
-          "price": 18900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "90e01c8a-cde0-4860-b8f0-d0efcb39b726": {
-          "uuid": "90e01c8a-cde0-4860-b8f0-d0efcb39b726",
-          "title": "Pancakes with poppy seeds",
-          "itemDescription": "",
-          "price": 20900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "ee006efc-494a-40a2-9884-59a49f495076": {
-          "uuid": "ee006efc-494a-40a2-9884-59a49f495076",
-          "title": "Matcha",
-          "itemDescription": "Walnuts, dates, coconut oil, raw cocoa, sunroot syrup, vanilla, Himalayan pink salt, matcha (1p/21g).",
-          "price": 4200,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5aae4459-2b9d-4e7b-88dc-d35a2454b643": {
-          "uuid": "5aae4459-2b9d-4e7b-88dc-d35a2454b643",
-          "title": "Oat cookies matcha",
-          "itemDescription": "",
-          "price": 6000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4afe81d2-1f1c-419d-948c-991f3d9b8031": {
-          "uuid": "4afe81d2-1f1c-419d-948c-991f3d9b8031",
-          "title": "Vegan wheel",
-          "itemDescription": "Dates, coconut flour, almonds, carob, cashews, coconut oil, sunroot syrup, coconut sugar , vanilla, Himalayan pink salt (1p/60g).",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9f544b09-183d-4766-9c12-9777e0f04933": {
-          "uuid": "9f544b09-183d-4766-9c12-9777e0f04933",
-          "title": "Chocolate \"Superfood + Sunroot\"",
-          "itemDescription": "Carob, cacao butter, mesquite, vanilla protein, lucuma, sunroot, coconut (85g).",
-          "price": 19500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "2857dd6c-4839-4b51-8f94-49f13c0b627b": {
-          "uuid": "2857dd6c-4839-4b51-8f94-49f13c0b627b",
-          "title": "Chocolate \"Superfood\"",
-          "itemDescription": "Carob, cocoa butter, mesquite, vanilla protein, lucuma, coconut (80g).",
-          "price": 19500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "beebeda4-2e9e-4ecc-8966-0ba17dfc2b37": {
-          "uuid": "beebeda4-2e9e-4ecc-8966-0ba17dfc2b37",
-          "title": "Golden milk",
-          "itemDescription": "Almonds, turmeric, ginger, sunroot syrup, vanilla, water (250ml).",
-          "price": 11900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 1559509199
-        },
-        "7532f87b-f76d-49a4-b99a-21f4f86b4a0b": {
-          "uuid": "7532f87b-f76d-49a4-b99a-21f4f86b4a0b",
-          "title": "Fish salad",
-          "itemDescription": "Рисова лапша, тофу, томати чері, мікрогрін люцерни, вакаме, груша, чорний кунжут, норі та кеш'ю соус (260г).",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/402b89b6-bdf2-4b63-8160-6a1d2beca2c0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "46bc5695-9696-4878-b447-15e6ccf4ceb3": {
-          "uuid": "46bc5695-9696-4878-b447-15e6ccf4ceb3",
-          "title": "Hummus with spirulina",
-          "itemDescription": "Garlic, Himalayan pink salt, chickpeas, tahini, lemon juice, olive oil, spirulina, water (180g).",
-          "price": 9400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "299469aa-1086-4bcc-a9b0-2ff91cb49cbb": {
-          "uuid": "299469aa-1086-4bcc-a9b0-2ff91cb49cbb",
-          "title": "Assorted oatmeal cookies set",
-          "itemDescription": "",
-          "price": 24000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f525170d-b988-42a9-82b4-920058e1fd06": {
-          "uuid": "f525170d-b988-42a9-82b4-920058e1fd06",
-          "title": "Milky way",
-          "itemDescription": "Кеш'ю, фінік, мигдаль, кокосове масло, сироп топінамбура, мигдалева олія, ягоди годжі, кероб, масло какао, рожева гімалайська сіль, ваніль (150г).",
-          "price": 16900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c60e4279-5184-4a28-8784-606af178c613",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d311d21c-e78f-4783-87f7-2e3778a6c735": {
-          "uuid": "d311d21c-e78f-4783-87f7-2e3778a6c735",
-          "title": "Choco Cookies",
-          "itemDescription": "Мигдаль, raw-какао, насіння чіа, кокосовий цукор, сироп топінамбур, кокосове масло (1шт/35г).",
-          "price": 6000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/79022fbd-74fa-4cc1-a484-781346443fea",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "38ce25eb-bab6-475e-8f0e-904a949ff435": {
-          "uuid": "38ce25eb-bab6-475e-8f0e-904a949ff435",
-          "title": "Banoffee",
-          "itemDescription": "Coconut cream, banana, almonds, dates, birch sugar, peanut butter, coconut oil, carob, cocoa butter, cinnamon (180g).",
-          "price": 17900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3b89665c-ba43-4e74-b0e1-55554d5595ec": {
-          "uuid": "3b89665c-ba43-4e74-b0e1-55554d5595ec",
-          "title": "Chia blueberry pudding",
-          "itemDescription": "Blueberries, dates, banana, pineapple, pear, chia seeds, almond milk, sunroot syrup, Himalayan pink salt, vanilla, pistachio (270g).",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "172eee79-ef3e-4c20-ab26-bdb77b115ad2": {
-          "uuid": "172eee79-ef3e-4c20-ab26-bdb77b115ad2",
-          "title": "Candy set \"SWEET & GO\"",
-          "itemDescription": "Kyiv Vechirniy (2p), nuts (2p), chia crunch (2p), powerball (2p) (208g).",
-          "price": 35000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "51870a14-9f12-4f06-8027-feef90dfe430": {
-          "uuid": "51870a14-9f12-4f06-8027-feef90dfe430",
-          "title": "Chia mango pudding",
-          "itemDescription": "Mango, almond milk, chia seeds, sunroot syrup, himalayan pink salt, vanilla (270g).",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "02b889e0-523a-418d-959f-b25d9235fcc9": {
-          "uuid": "02b889e0-523a-418d-959f-b25d9235fcc9",
-          "title": "Tapioca vanilla pudding",
-          "itemDescription": "",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 1559509199
-        },
-        "cb224b20-7389-47d4-845f-968ec485d156": {
-          "uuid": "cb224b20-7389-47d4-845f-968ec485d156",
-          "title": "Oat cookies coffee",
-          "itemDescription": "",
-          "price": 6000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3316415e-9f30-4759-8c5a-beb342e0055c": {
-          "uuid": "3316415e-9f30-4759-8c5a-beb342e0055c",
-          "title": "Chocolate \"Superfood + RAISINS\"",
-          "itemDescription": "Carob, cocoa butter, mesquite, vanilla protein, lucuma, coconut, white raisins (80g).",
-          "price": 19500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "73b17627-1a24-4c2e-aae9-b48234e62e80": {
-          "uuid": "73b17627-1a24-4c2e-aae9-b48234e62e80",
-          "title": "Apple trifle",
-          "itemDescription": "",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 1559509199
-        },
-        "fe958589-f32b-42b3-9b8a-f12567f8dd6d": {
-          "uuid": "fe958589-f32b-42b3-9b8a-f12567f8dd6d",
-          "title": "Ginger latte",
-          "itemDescription": "Almonds, water, sunroot syrup, vanilla, ginger (250ml).",
-          "price": 11900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "3fdc9803-e2ae-40cd-97d7-f96d415080e3": {
-          "uuid": "3fdc9803-e2ae-40cd-97d7-f96d415080e3",
-          "title": "Tiramisu",
-          "itemDescription": "Coconut cream, coffee, cashews, dates, walnuts, coconut oil, sunroot syrup, raw cacao, Himalayan pink salt, vanilla (125g).",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6d95b218-5907-49bf-9d5b-3fa437cf0bb9": {
-          "uuid": "6d95b218-5907-49bf-9d5b-3fa437cf0bb9",
-          "title": "Pasta with vegan meat balls",
-          "itemDescription": "",
-          "price": 18900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3b23e336-c539-44f0-be07-746cc19c5b01": {
-          "uuid": "3b23e336-c539-44f0-be07-746cc19c5b01",
-          "title": "Matcha latte",
-          "itemDescription": "Matche, dates, almond milk, sunroot syrup (250ml).",
-          "price": 11900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c659036b-8770-4834-a71b-6a58f7772fff": {
-          "uuid": "c659036b-8770-4834-a71b-6a58f7772fff",
-          "title": "Salted caramel almond",
-          "itemDescription": "Dates, almonds, carob, cocoa butter, himalayan pink salt (1p/28g).",
-          "price": 4800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e0ddc180-2e62-4e0a-90d9-ce5dbad2dc82": {
-          "uuid": "e0ddc180-2e62-4e0a-90d9-ce5dbad2dc82",
-          "title": "Chocolate \"Superfood + Apricot\"",
-          "itemDescription": "Carob, cocoa butter, pine nuts, mesquite, coconut, vanilla protein, dried apricot, lucuma (100g).",
-          "price": 19500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b9cd4a3d-d8b7-4ad1-8e19-052bfa36f076": {
-          "uuid": "b9cd4a3d-d8b7-4ad1-8e19-052bfa36f076",
-          "title": "Citrus & Coconut bar",
-          "itemDescription": "Горіх кеш'ю, фінік, кокос, цедра апельсина, рожева гімалайська сіль (1шт/16г).",
-          "price": 4300,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f755e3c0-d904-4443-befa-e0987c57b799",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f14c1dfb-1a51-40d9-b328-90762a06e70b": {
-          "uuid": "f14c1dfb-1a51-40d9-b328-90762a06e70b",
-          "title": "Soba Thai noodles",
-          "itemDescription": "Soba noodles, cherry tomatoes, spinach, lime, sesame seeds, microgreen peas, mitsukan, lemon, sunroot syrup, leek, red cabbage, carrots, shitake, sesame oil, chili, himalyan pink salt, coriander, soy sauce (240g).",
-          "price": 18900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4fd77479-8fcf-4963-b928-f9cc6971806d": {
-          "uuid": "4fd77479-8fcf-4963-b928-f9cc6971806d",
-          "title": "Oat cookies classic",
-          "itemDescription": "",
-          "price": 6000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ced48637-39f0-4c4f-814d-f8d686ee3b7c": {
-          "uuid": "ced48637-39f0-4c4f-814d-f8d686ee3b7c",
-          "title": "Snickers old school",
-          "itemDescription": "Dates, peanuts, cashews, coconut cream, coconut butter, carob, sunroot syrup, Himalayan pink salt, semolina, coconut oil (1p/35g).",
-          "price": 6300,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7b2b289a-5e38-4ad6-8821-f4e80485ba98": {
-          "uuid": "7b2b289a-5e38-4ad6-8821-f4e80485ba98",
-          "title": "Фреш-рол Авокадо",
-          "itemDescription": "Морква, салат Айсберг, авокадо, кабачок, тофу, хумус. лаваш із міксу овочів та суперфудів (255г).",
-          "price": 17900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c2c7ebbb-86a4-4d37-a3c4-38f63e4b6e29",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3838cab9-824c-4b2d-a8ee-d1de7c1f5640": {
-          "uuid": "3838cab9-824c-4b2d-a8ee-d1de7c1f5640",
-          "title": "Candy set \"Snickers OLD SCHOOL\"",
-          "itemDescription": "Dates, peanuts, cashews, coconut cream, cocoa butter, carob, sunroot syrup, Himalayan pink salt, semolina, coconut oil (210g).",
-          "price": 37900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "beaaa746-8e04-4f4c-974f-a9b07cf8e4b9": {
-          "uuid": "beaaa746-8e04-4f4c-974f-a9b07cf8e4b9",
-          "title": "Granola of green buckwheat Carob & Banana",
-          "itemDescription": "Green buckwheat, apple, banana, dates, raisins, pumpkin seeds, oats, flax, cinnamon (300g).",
-          "price": 18900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "a624f8ec-25eb-4b53-a806-d43628292a0b": {
-          "uuid": "a624f8ec-25eb-4b53-a806-d43628292a0b",
-          "title": "Choco cookies set",
-          "itemDescription": "",
-          "price": 36000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b24bac8a-76a6-4e77-bcee-84bb0d7bf2d0": {
-          "uuid": "b24bac8a-76a6-4e77-bcee-84bb0d7bf2d0",
-          "title": "Fresh roll Avocado",
-          "itemDescription": "Carrots, iceberg lettuce, avocado, zucchini, tofu, hummus, pita of a mix vegetables and superfood (255g)",
-          "price": 17900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5eecf746-14f4-4c6d-a9c1-a2275d984266": {
-          "uuid": "5eecf746-14f4-4c6d-a9c1-a2275d984266",
-          "title": "Pesto",
-          "itemDescription": "Basili, lemon juice, olive oil, sunflower seeds, salt, garlic, spinach, black pepper (180g).",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "c0b2472b-f21a-4dd7-8dce-f2e6ba980f59": {
-          "uuid": "c0b2472b-f21a-4dd7-8dce-f2e6ba980f59",
-          "title": "Granola of green buckwheat Carob & Banana",
-          "itemDescription": "Green buckwheat, apple, banana, dates, raisins, pumpkin seeds, oats, flax, cinnamon (110g).",
-          "price": 11900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bb15e39a-3c80-4dcd-be7a-816fa87dfb0a": {
-          "uuid": "bb15e39a-3c80-4dcd-be7a-816fa87dfb0a",
-          "title": "Nuts",
-          "itemDescription": "Насіння соняшника, фінік, родзинки, raw-какао, кероб, масло какао, рожева гімалайська сіль (1шт/31г).",
-          "price": 3700,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8566ed66-fd71-44d4-afcd-a7930d345f95",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1bd319e8-6da5-4e9a-b5e0-1b089487e213": {
-          "uuid": "1bd319e8-6da5-4e9a-b5e0-1b089487e213",
-          "title": "Фреш-рол Veggie Cheese",
-          "itemDescription": "Салат Айсберг, тофу, паштет соєвий, волоський горіх, гарбуз, морква, оливкова олія, соєвий соус, кріп, сіль чорна, мигдаль, часник, сироп топінамбура, гірчиця, конопляна олія, оцет яблучний, гуарова камедь (255г).",
-          "price": 19900,
-          "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9bc19718cd71f628e17b8b2485eb5c70",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 1559509199
-        },
-        "0763f4b3-660a-4074-83b6-84f425369b8b": {
-          "uuid": "0763f4b3-660a-4074-83b6-84f425369b8b",
-          "title": "Fresh roll Veggie Cheese",
-          "itemDescription": "Iceberg Lettuce, tofu, soy pate, walnut, pumpkin, carrot, olive oil, soy sauce, dill, black salt, almonds, garlic, sunroot  syrup, mustard, hemp oil, apple cider vinegar, guar gum (255 g).",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 1559509199
-        },
-        "46f0576b-f43f-4262-808d-d0a5d40f41a1": {
-          "uuid": "46f0576b-f43f-4262-808d-d0a5d40f41a1",
-          "title": "Chocolate \"Superfood + Coconut\"",
-          "itemDescription": "Carob, cocoa butter, mesquite, vanilla protein, lucuma, coconut, coconut flakes (90g).",
-          "price": 19500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "70d1bbb1-d650-44af-bfa7-04420ab0819a": {
-          "uuid": "70d1bbb1-d650-44af-bfa7-04420ab0819a",
-          "title": "Carrot-ginger cake",
-          "itemDescription": "Carrots, cashews, sunroot syrup, raisins, ginger, cocoa butter, lemon, orange, vanilla, carob, cumquat (197g).",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "85e9267f-8baa-4270-a05b-5a1f6183dda5": {
-          "uuid": "85e9267f-8baa-4270-a05b-5a1f6183dda5",
-          "title": "Pancakes with nuts and chocolate",
-          "itemDescription": "",
-          "price": 20900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "aa7eb521-a5d1-4a9d-83e2-988a1a225e6f": {
-          "uuid": "aa7eb521-a5d1-4a9d-83e2-988a1a225e6f",
-          "title": "Lucky 7",
-          "itemDescription": "Вечірній Київ, Chia Crunch, Солона карамель, Твікс, Чилі, Матча, Снікерс (109г).",
-          "price": 31900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ef2f3c2-9d11-49f9-8f2c-feea2efed870",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "051146e3-d11a-4689-a9e5-063d4b8fc70a": {
-          "uuid": "051146e3-d11a-4689-a9e5-063d4b8fc70a",
-          "title": "Cachews butter classic",
-          "itemDescription": "Cashews, Himalayan pink salt (200g).",
-          "price": 25900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "afbad29f-af8d-4239-be5b-cfe3f0486d5d": {
-          "uuid": "afbad29f-af8d-4239-be5b-cfe3f0486d5d",
-          "title": "Cherry Cheesecake",
-          "itemDescription": "Cashews, dates, sunroot syrup, coconut oil, almonds, lemon, cherry, almond butter, coconut, Himalayan pink salt (150g).",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fe202002-5206-461a-aebb-d3aceb32dbee": {
-          "uuid": "fe202002-5206-461a-aebb-d3aceb32dbee",
-          "title": "Granola of green buckwheat Flax & Cinnamon",
-          "itemDescription": "Green buckwheat, apple, banana, dates, raisins, pumpkin seeds, oats, flax, cinnamon (110g).",
-          "price": 10900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b46572ac-66b3-445b-8504-6cd6ecbe6e7e": {
-          "uuid": "b46572ac-66b3-445b-8504-6cd6ecbe6e7e",
-          "title": "Vegan Olivier",
-          "itemDescription": "Sweet potatoes, carrots, wheat sausage, cucumber, tofu, peas, olives, soy sauce, black sea salt, almonds, garlic, apple cider vinegar, sunroot syrup, mustard, hemp oil, guar gum (325g).",
-          "price": 20900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "7acef416-90fe-4ffd-a0d1-0850f9ea1671": {
-          "uuid": "7acef416-90fe-4ffd-a0d1-0850f9ea1671",
-          "title": "Hummus classic",
-          "itemDescription": "Chickpeas, cumin, garlic, Himalayan pink salt, tahini, lemon juice, olive oil, water (180g).",
-          "price": 9400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d64867ef-597f-4439-be3f-fa97a24180f5": {
-          "uuid": "d64867ef-597f-4439-be3f-fa97a24180f5",
-          "title": "Candy set \"Salted caramel\"",
-          "itemDescription": "Peanut butter, dates, coconut oil, carob, cacao butter, himalayan salt (170g).",
-          "price": 26800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3b85dc73-9eea-425a-9d39-d8a957ae240a": {
-          "uuid": "3b85dc73-9eea-425a-9d39-d8a957ae240a",
-          "title": "Red rice with soy asparagus",
-          "itemDescription": "",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b1afb7e4-365e-4ef0-aeb7-900e7ca87fcb": {
-          "uuid": "b1afb7e4-365e-4ef0-aeb7-900e7ca87fcb",
-          "title": "Salted caramel cashew",
-          "itemDescription": "Date, cashew, carob, cocoa butter, Himalayan pink salt (1p/29g).",
-          "price": 4800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5bd4fc7b-38ce-4b2f-8a3e-b1f552590ab3": {
-          "uuid": "5bd4fc7b-38ce-4b2f-8a3e-b1f552590ab3",
-          "title": "Фреш-рол Барбекю BBQ",
-          "itemDescription": "Салат Айсберг, гарбуз, морква, сосиска соєва, томат в'ялений, перець болгарський, оливкова олія, цибуля ріпчаста, часник, соєвий соус, сироп топінамбура, паприка, томат, агар-агар, оцет яблучний, імбир (240г).",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/93e9769e-e9f0-4930-8af3-8c61bf7c18e4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "eb907e21-2427-49b6-b3f8-5f2553e2bccc": {
-          "uuid": "eb907e21-2427-49b6-b3f8-5f2553e2bccc",
-          "title": "Cachews choco butter",
-          "itemDescription": "Cashew, Himalayan pink salt, raw cocoa, sunroot syrup (200g).",
-          "price": 31900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "454566ed-4265-4c95-b856-d4f3dc89fa6d": {
-          "uuid": "454566ed-4265-4c95-b856-d4f3dc89fa6d",
-          "title": "Blueberry Cheesecake",
-          "itemDescription": "Cashews, dates, almonds, coconut oil, sunroot syrup, almond butter, carob, cocoa butter, Himalayan pink salt, lemon, blueberry, coconut, pistachio (150g).",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c0a6ac87-2754-4b61-a1df-a80274e9cf2e": {
-          "uuid": "c0a6ac87-2754-4b61-a1df-a80274e9cf2e",
-          "title": "Twix",
-          "itemDescription": "Coconut flour, coconut oil, coconut sugar, sunroot syrup, dates, cashews, vanilla (1p/27g).",
-          "price": 5700,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "56cf8f7c-8bc9-44e1-8635-99a6a941721b": {
-          "uuid": "56cf8f7c-8bc9-44e1-8635-99a6a941721b",
-          "title": "Toffee",
-          "itemDescription": "Sunroot syrup, coconut, coconut oil (1p/7g).",
-          "price": 4700,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "264a2607-c9df-4e48-9ab7-bb20ddd98fe0": {
-          "uuid": "264a2607-c9df-4e48-9ab7-bb20ddd98fe0",
-          "title": "Power ball",
-          "itemDescription": "Мигдаль, кеш'ю, фінік, ягоди годжі, raw-какао, рожева гімалайська сіль, чилі (1шт/46г).",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/74e084c9-b708-43d7-bc59-270739b789f7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 1559509199
-        },
-        "a3617c52-4af0-49a9-9f6a-39189cfdb730": {
-          "uuid": "a3617c52-4af0-49a9-9f6a-39189cfdb730",
-          "title": "Granola of green buckwheat Flax & Cinnamon",
-          "itemDescription": "",
-          "price": 17900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b505130d-1581-4288-b99a-ee68d0eb6902": {
-          "uuid": "b505130d-1581-4288-b99a-ee68d0eb6902",
-          "title": "Fresh roll BBQ",
-          "itemDescription": "Iceberg lettuce, pumpkin, carrots, soy sausage, dried tomatoes, bell pepper, olive oil, onion, garlic, soy sauce, sunroot syrup, paprika, tomato, agar-agar, apple cider vinegar, ginger (240g).",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1a1bc01a-c42f-4439-8154-47875d69deb3": {
-          "uuid": "1a1bc01a-c42f-4439-8154-47875d69deb3",
-          "title": "Salted caramel peanut",
-          "itemDescription": "Dates, peanuts, carob, cocoa butter, coconut oil, Himalayan pink salt (1p/28g).",
-          "price": 3800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fbe3071a-ed61-4f32-bdce-0f445581130a": {
-          "uuid": "fbe3071a-ed61-4f32-bdce-0f445581130a",
-          "title": "Chocolate \"Superfood+ Almond\"",
-          "itemDescription": "Carob, cacao butter, mesquite, vanilla protein, almonds, sunroot syrup, Himalayan pink salt, lucuma, coconut (100g).",
-          "price": 19500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "f5c42f00-acd1-41ee-a8bd-18048bf31e49": {
-          "uuid": "f5c42f00-acd1-41ee-a8bd-18048bf31e49",
-          "title": "Almond butter vanilla",
-          "itemDescription": "Almonds, Himalayan pink salt, vanilla, sultana (200g).",
-          "price": 25900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a0064b4a-83b5-48ef-bc97-370aa01e729c": {
-          "uuid": "a0064b4a-83b5-48ef-bc97-370aa01e729c",
-          "title": "Rustic sweet potatoes",
-          "itemDescription": "Sweet potatoes, leeks, garlic, olive oil, paprika, pink himalayan salt, coriander, white sesame, black sesame, cashews, lemon (265g).",
-          "price": 21900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "242a0fdd-ec69-429b-a089-ed91c376003c",
-          "title": "Fresh rolls",
-          "subtitle": "",
-          "itemUuids": [
-            "0763f4b3-660a-4074-83b6-84f425369b8b",
-            "b505130d-1581-4288-b99a-ee68d0eb6902",
-            "b24bac8a-76a6-4e77-bcee-84bb0d7bf2d0"
-          ]
-        },
-        {
-          "uuid": "f21eccdf-43cc-4256-8b68-986faf50626f",
-          "title": "Main dishes",
-          "subtitle": "",
-          "itemUuids": [
-            "415357da-5ad1-47ed-b4f4-0da1279788a8",
-            "f14c1dfb-1a51-40d9-b328-90762a06e70b",
-            "b46572ac-66b3-445b-8504-6cd6ecbe6e7e",
-            "7532f87b-f76d-49a4-b99a-21f4f86b4a0b",
-            "a0064b4a-83b5-48ef-bc97-370aa01e729c",
-            "6d95b218-5907-49bf-9d5b-3fa437cf0bb9",
-            "3b85dc73-9eea-425a-9d39-d8a957ae240a",
-            "90e01c8a-cde0-4860-b8f0-d0efcb39b726",
-            "85e9267f-8baa-4270-a05b-5a1f6183dda5"
-          ]
-        },
-        {
-          "uuid": "14c35f51-fe74-4c7c-b44a-fded51c3700e",
-          "title": "Desserts",
-          "subtitle": "",
-          "itemUuids": [
-            "54b13d1b-5f11-4853-8fb2-aaa3a9b7682b",
-            "51870a14-9f12-4f06-8027-feef90dfe430",
-            "38ce25eb-bab6-475e-8f0e-904a949ff435",
-            "3b89665c-ba43-4e74-b0e1-55554d5595ec",
-            "02b889e0-523a-418d-959f-b25d9235fcc9",
-            "73b17627-1a24-4c2e-aae9-b48234e62e80"
-          ]
-        },
-        {
-          "uuid": "62b5dcc3-3814-4a82-af07-462e36f2a424",
-          "title": "Sweets",
-          "subtitle": "",
-          "itemUuids": [
-            "1a1bc01a-c42f-4439-8154-47875d69deb3",
-            "c659036b-8770-4834-a71b-6a58f7772fff",
-            "b1afb7e4-365e-4ef0-aeb7-900e7ca87fcb",
-            "c0a6ac87-2754-4b61-a1df-a80274e9cf2e",
-            "1fed3369-71b1-4997-8619-754d68507f24",
-            "ced48637-39f0-4c4f-814d-f8d686ee3b7c",
-            "4afe81d2-1f1c-419d-948c-991f3d9b8031",
-            "ee006efc-494a-40a2-9884-59a49f495076",
-            "bb15e39a-3c80-4dcd-be7a-816fa87dfb0a",
-            "56cf8f7c-8bc9-44e1-8635-99a6a941721b",
-            "b9cd4a3d-d8b7-4ad1-8e19-052bfa36f076",
-            "264a2607-c9df-4e48-9ab7-bb20ddd98fe0",
-            "d311d21c-e78f-4783-87f7-2e3778a6c735"
-          ]
-        },
-        {
-          "uuid": "1a82efa4-5d96-4fd8-9fb3-659d46407365",
-          "title": "Chocolate",
-          "subtitle": "",
-          "itemUuids": [
-            "46f0576b-f43f-4262-808d-d0a5d40f41a1",
-            "fbe3071a-ed61-4f32-bdce-0f445581130a",
-            "9f544b09-183d-4766-9c12-9777e0f04933",
-            "2857dd6c-4839-4b51-8f94-49f13c0b627b",
-            "e0ddc180-2e62-4e0a-90d9-ce5dbad2dc82",
-            "3316415e-9f30-4759-8c5a-beb342e0055c"
-          ]
-        },
-        {
-          "uuid": "e214976d-6eb5-41e2-bbbf-36eb11570f3c",
-          "title": "Candy sets",
-          "subtitle": "",
-          "itemUuids": [
-            "ec21bd1e-59bb-41d0-bdb9-7b615eadebf5",
-            "aa7eb521-a5d1-4a9d-83e2-988a1a225e6f",
-            "d64867ef-597f-4439-be3f-fa97a24180f5",
-            "3838cab9-824c-4b2d-a8ee-d1de7c1f5640",
-            "172eee79-ef3e-4c20-ab26-bdb77b115ad2",
-            "299469aa-1086-4bcc-a9b0-2ff91cb49cbb",
-            "a624f8ec-25eb-4b53-a806-d43628292a0b"
-          ]
-        },
-        {
-          "uuid": "7c0a77b0-6504-4bf5-a49d-f2ce695a660d",
-          "title": "Drinks",
-          "subtitle": "",
-          "itemUuids": [
-            "3b23e336-c539-44f0-be07-746cc19c5b01",
-            "beebeda4-2e9e-4ecc-8966-0ba17dfc2b37",
-            "fe958589-f32b-42b3-9b8a-f12567f8dd6d"
-          ]
-        },
-        {
-          "uuid": "24d1bcc1-f600-4695-81d6-ad980f3736cb",
-          "title": "Sauces and nut butters",
-          "subtitle": "",
-          "itemUuids": [
-            "7acef416-90fe-4ffd-a0d1-0850f9ea1671",
-            "46bc5695-9696-4878-b447-15e6ccf4ceb3",
-            "5eecf746-14f4-4c6d-a9c1-a2275d984266",
-            "7848c2dd-44cb-4bab-a569-87d4104c330d",
-            "f5c42f00-acd1-41ee-a8bd-18048bf31e49",
-            "051146e3-d11a-4689-a9e5-063d4b8fc70a",
-            "eb907e21-2427-49b6-b3f8-5f2553e2bccc"
-          ]
-        },
-        {
-          "uuid": "6c00f906-296b-451f-9ded-e66e011d9da2",
-          "title": "Cakes",
-          "subtitle": "",
-          "itemUuids": [
-            "70d1bbb1-d650-44af-bfa7-04420ab0819a",
-            "3fdc9803-e2ae-40cd-97d7-f96d415080e3",
-            "f525170d-b988-42a9-82b4-920058e1fd06",
-            "afbad29f-af8d-4239-be5b-cfe3f0486d5d",
-            "454566ed-4265-4c95-b856-d4f3dc89fa6d"
-          ]
-        },
-        {
-          "uuid": "6d8f3b5b-d42c-492a-8b6c-81ab3f240e48",
-          "title": "Granola",
-          "subtitle": "",
-          "itemUuids": [
-            "beaaa746-8e04-4f4c-974f-a9b07cf8e4b9",
-            "c0b2472b-f21a-4dd7-8dce-f2e6ba980f59",
-            "a3617c52-4af0-49a9-9f6a-39189cfdb730",
-            "fe202002-5206-461a-aebb-d3aceb32dbee"
-          ]
-        },
-        {
-          "uuid": "c2705aa8-98f6-478f-b899-5e8c99bf6d70",
-          "title": "Фреш-роли",
-          "subtitle": "",
-          "itemUuids": [
-            "1bd319e8-6da5-4e9a-b5e0-1b089487e213",
-            "5bd4fc7b-38ce-4b2f-8a3e-b1f552590ab3",
-            "7b2b289a-5e38-4ad6-8821-f4e80485ba98"
-          ]
-        },
-        {
-          "uuid": "0fc4fdb4-d60f-4adc-948a-7cae7042e6a6",
-          "title": "Cookies",
-          "subtitle": "",
-          "itemUuids": [
-            "4fd77479-8fcf-4963-b928-f9cc6971806d",
-            "5aae4459-2b9d-4e7b-88dc-d35a2454b643",
-            "0f45fec6-6246-4a3f-b8e1-f9c35cd064f1",
-            "cb224b20-7389-47d4-845f-968ec485d156"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4465884,
     "longitude": 30.5140189,
@@ -1108,5 +224,863 @@
     "storeRatingScore": 4.684931506849315,
     "ratingCount": "73"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/79d15b44-a9dd-4901-9178-24801dfb700f"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/79d15b44-a9dd-4901-9178-24801dfb700f",
+  "items": {
+    "ec21bd1e-59bb-41d0-bdb9-7b615eadebf5": {
+      "uuid": "ec21bd1e-59bb-41d0-bdb9-7b615eadebf5",
+      "title": "Candy set top 3",
+      "itemDescription": "Snickers Twix, Salted caramel (184g).",
+      "price": 29900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7848c2dd-44cb-4bab-a569-87d4104c330d": {
+      "uuid": "7848c2dd-44cb-4bab-a569-87d4104c330d",
+      "title": "Almond butter classic",
+      "itemDescription": "Almonds, Himalayan pink salt (200g).",
+      "price": 20900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "54b13d1b-5f11-4853-8fb2-aaa3a9b7682b": {
+      "uuid": "54b13d1b-5f11-4853-8fb2-aaa3a9b7682b",
+      "title": "Brownie",
+      "itemDescription": "Cashews, hazelnuts, dates, banana, raw cacao, vanilla (145 g).",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1fed3369-71b1-4997-8619-754d68507f24": {
+      "uuid": "1fed3369-71b1-4997-8619-754d68507f24",
+      "title": "Snickers",
+      "itemDescription": "Date, carob, cashews, almonds, coconut oil, cocoa butter, Himalayan pink salt (1p/35g).",
+      "price": 5300,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0f45fec6-6246-4a3f-b8e1-f9c35cd064f1": {
+      "uuid": "0f45fec6-6246-4a3f-b8e1-f9c35cd064f1",
+      "title": "Oat cookies ginger",
+      "itemDescription": "",
+      "price": 6000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "415357da-5ad1-47ed-b4f4-0da1279788a8": {
+      "uuid": "415357da-5ad1-47ed-b4f4-0da1279788a8",
+      "title": "Quinoa Salad",
+      "itemDescription": "Red Cabbage, spinach, sweet peppers, cherry tomatoes, cucumber, quinoa, lemonds, lemon sauce (280g).\n",
+      "price": 18900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "90e01c8a-cde0-4860-b8f0-d0efcb39b726": {
+      "uuid": "90e01c8a-cde0-4860-b8f0-d0efcb39b726",
+      "title": "Pancakes with poppy seeds",
+      "itemDescription": "",
+      "price": 20900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "ee006efc-494a-40a2-9884-59a49f495076": {
+      "uuid": "ee006efc-494a-40a2-9884-59a49f495076",
+      "title": "Matcha",
+      "itemDescription": "Walnuts, dates, coconut oil, raw cocoa, sunroot syrup, vanilla, Himalayan pink salt, matcha (1p/21g).",
+      "price": 4200,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5aae4459-2b9d-4e7b-88dc-d35a2454b643": {
+      "uuid": "5aae4459-2b9d-4e7b-88dc-d35a2454b643",
+      "title": "Oat cookies matcha",
+      "itemDescription": "",
+      "price": 6000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4afe81d2-1f1c-419d-948c-991f3d9b8031": {
+      "uuid": "4afe81d2-1f1c-419d-948c-991f3d9b8031",
+      "title": "Vegan wheel",
+      "itemDescription": "Dates, coconut flour, almonds, carob, cashews, coconut oil, sunroot syrup, coconut sugar , vanilla, Himalayan pink salt (1p/60g).",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9f544b09-183d-4766-9c12-9777e0f04933": {
+      "uuid": "9f544b09-183d-4766-9c12-9777e0f04933",
+      "title": "Chocolate \"Superfood + Sunroot\"",
+      "itemDescription": "Carob, cacao butter, mesquite, vanilla protein, lucuma, sunroot, coconut (85g).",
+      "price": 19500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "2857dd6c-4839-4b51-8f94-49f13c0b627b": {
+      "uuid": "2857dd6c-4839-4b51-8f94-49f13c0b627b",
+      "title": "Chocolate \"Superfood\"",
+      "itemDescription": "Carob, cocoa butter, mesquite, vanilla protein, lucuma, coconut (80g).",
+      "price": 19500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "beebeda4-2e9e-4ecc-8966-0ba17dfc2b37": {
+      "uuid": "beebeda4-2e9e-4ecc-8966-0ba17dfc2b37",
+      "title": "Golden milk",
+      "itemDescription": "Almonds, turmeric, ginger, sunroot syrup, vanilla, water (250ml).",
+      "price": 11900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 1559509199
+    },
+    "7532f87b-f76d-49a4-b99a-21f4f86b4a0b": {
+      "uuid": "7532f87b-f76d-49a4-b99a-21f4f86b4a0b",
+      "title": "Fish salad",
+      "itemDescription": "Рисова лапша, тофу, томати чері, мікрогрін люцерни, вакаме, груша, чорний кунжут, норі та кеш'ю соус (260г).",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/402b89b6-bdf2-4b63-8160-6a1d2beca2c0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "46bc5695-9696-4878-b447-15e6ccf4ceb3": {
+      "uuid": "46bc5695-9696-4878-b447-15e6ccf4ceb3",
+      "title": "Hummus with spirulina",
+      "itemDescription": "Garlic, Himalayan pink salt, chickpeas, tahini, lemon juice, olive oil, spirulina, water (180g).",
+      "price": 9400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "299469aa-1086-4bcc-a9b0-2ff91cb49cbb": {
+      "uuid": "299469aa-1086-4bcc-a9b0-2ff91cb49cbb",
+      "title": "Assorted oatmeal cookies set",
+      "itemDescription": "",
+      "price": 24000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f525170d-b988-42a9-82b4-920058e1fd06": {
+      "uuid": "f525170d-b988-42a9-82b4-920058e1fd06",
+      "title": "Milky way",
+      "itemDescription": "Кеш'ю, фінік, мигдаль, кокосове масло, сироп топінамбура, мигдалева олія, ягоди годжі, кероб, масло какао, рожева гімалайська сіль, ваніль (150г).",
+      "price": 16900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c60e4279-5184-4a28-8784-606af178c613",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d311d21c-e78f-4783-87f7-2e3778a6c735": {
+      "uuid": "d311d21c-e78f-4783-87f7-2e3778a6c735",
+      "title": "Choco Cookies",
+      "itemDescription": "Мигдаль, raw-какао, насіння чіа, кокосовий цукор, сироп топінамбур, кокосове масло (1шт/35г).",
+      "price": 6000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/79022fbd-74fa-4cc1-a484-781346443fea",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "38ce25eb-bab6-475e-8f0e-904a949ff435": {
+      "uuid": "38ce25eb-bab6-475e-8f0e-904a949ff435",
+      "title": "Banoffee",
+      "itemDescription": "Coconut cream, banana, almonds, dates, birch sugar, peanut butter, coconut oil, carob, cocoa butter, cinnamon (180g).",
+      "price": 17900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3b89665c-ba43-4e74-b0e1-55554d5595ec": {
+      "uuid": "3b89665c-ba43-4e74-b0e1-55554d5595ec",
+      "title": "Chia blueberry pudding",
+      "itemDescription": "Blueberries, dates, banana, pineapple, pear, chia seeds, almond milk, sunroot syrup, Himalayan pink salt, vanilla, pistachio (270g).",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "172eee79-ef3e-4c20-ab26-bdb77b115ad2": {
+      "uuid": "172eee79-ef3e-4c20-ab26-bdb77b115ad2",
+      "title": "Candy set \"SWEET & GO\"",
+      "itemDescription": "Kyiv Vechirniy (2p), nuts (2p), chia crunch (2p), powerball (2p) (208g).",
+      "price": 35000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "51870a14-9f12-4f06-8027-feef90dfe430": {
+      "uuid": "51870a14-9f12-4f06-8027-feef90dfe430",
+      "title": "Chia mango pudding",
+      "itemDescription": "Mango, almond milk, chia seeds, sunroot syrup, himalayan pink salt, vanilla (270g).",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "02b889e0-523a-418d-959f-b25d9235fcc9": {
+      "uuid": "02b889e0-523a-418d-959f-b25d9235fcc9",
+      "title": "Tapioca vanilla pudding",
+      "itemDescription": "",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 1559509199
+    },
+    "cb224b20-7389-47d4-845f-968ec485d156": {
+      "uuid": "cb224b20-7389-47d4-845f-968ec485d156",
+      "title": "Oat cookies coffee",
+      "itemDescription": "",
+      "price": 6000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3316415e-9f30-4759-8c5a-beb342e0055c": {
+      "uuid": "3316415e-9f30-4759-8c5a-beb342e0055c",
+      "title": "Chocolate \"Superfood + RAISINS\"",
+      "itemDescription": "Carob, cocoa butter, mesquite, vanilla protein, lucuma, coconut, white raisins (80g).",
+      "price": 19500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "73b17627-1a24-4c2e-aae9-b48234e62e80": {
+      "uuid": "73b17627-1a24-4c2e-aae9-b48234e62e80",
+      "title": "Apple trifle",
+      "itemDescription": "",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 1559509199
+    },
+    "fe958589-f32b-42b3-9b8a-f12567f8dd6d": {
+      "uuid": "fe958589-f32b-42b3-9b8a-f12567f8dd6d",
+      "title": "Ginger latte",
+      "itemDescription": "Almonds, water, sunroot syrup, vanilla, ginger (250ml).",
+      "price": 11900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "3fdc9803-e2ae-40cd-97d7-f96d415080e3": {
+      "uuid": "3fdc9803-e2ae-40cd-97d7-f96d415080e3",
+      "title": "Tiramisu",
+      "itemDescription": "Coconut cream, coffee, cashews, dates, walnuts, coconut oil, sunroot syrup, raw cacao, Himalayan pink salt, vanilla (125g).",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6d95b218-5907-49bf-9d5b-3fa437cf0bb9": {
+      "uuid": "6d95b218-5907-49bf-9d5b-3fa437cf0bb9",
+      "title": "Pasta with vegan meat balls",
+      "itemDescription": "",
+      "price": 18900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3b23e336-c539-44f0-be07-746cc19c5b01": {
+      "uuid": "3b23e336-c539-44f0-be07-746cc19c5b01",
+      "title": "Matcha latte",
+      "itemDescription": "Matche, dates, almond milk, sunroot syrup (250ml).",
+      "price": 11900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c659036b-8770-4834-a71b-6a58f7772fff": {
+      "uuid": "c659036b-8770-4834-a71b-6a58f7772fff",
+      "title": "Salted caramel almond",
+      "itemDescription": "Dates, almonds, carob, cocoa butter, himalayan pink salt (1p/28g).",
+      "price": 4800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e0ddc180-2e62-4e0a-90d9-ce5dbad2dc82": {
+      "uuid": "e0ddc180-2e62-4e0a-90d9-ce5dbad2dc82",
+      "title": "Chocolate \"Superfood + Apricot\"",
+      "itemDescription": "Carob, cocoa butter, pine nuts, mesquite, coconut, vanilla protein, dried apricot, lucuma (100g).",
+      "price": 19500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b9cd4a3d-d8b7-4ad1-8e19-052bfa36f076": {
+      "uuid": "b9cd4a3d-d8b7-4ad1-8e19-052bfa36f076",
+      "title": "Citrus & Coconut bar",
+      "itemDescription": "Горіх кеш'ю, фінік, кокос, цедра апельсина, рожева гімалайська сіль (1шт/16г).",
+      "price": 4300,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f755e3c0-d904-4443-befa-e0987c57b799",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f14c1dfb-1a51-40d9-b328-90762a06e70b": {
+      "uuid": "f14c1dfb-1a51-40d9-b328-90762a06e70b",
+      "title": "Soba Thai noodles",
+      "itemDescription": "Soba noodles, cherry tomatoes, spinach, lime, sesame seeds, microgreen peas, mitsukan, lemon, sunroot syrup, leek, red cabbage, carrots, shitake, sesame oil, chili, himalyan pink salt, coriander, soy sauce (240g).",
+      "price": 18900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4fd77479-8fcf-4963-b928-f9cc6971806d": {
+      "uuid": "4fd77479-8fcf-4963-b928-f9cc6971806d",
+      "title": "Oat cookies classic",
+      "itemDescription": "",
+      "price": 6000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ced48637-39f0-4c4f-814d-f8d686ee3b7c": {
+      "uuid": "ced48637-39f0-4c4f-814d-f8d686ee3b7c",
+      "title": "Snickers old school",
+      "itemDescription": "Dates, peanuts, cashews, coconut cream, coconut butter, carob, sunroot syrup, Himalayan pink salt, semolina, coconut oil (1p/35g).",
+      "price": 6300,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7b2b289a-5e38-4ad6-8821-f4e80485ba98": {
+      "uuid": "7b2b289a-5e38-4ad6-8821-f4e80485ba98",
+      "title": "Фреш-рол Авокадо",
+      "itemDescription": "Морква, салат Айсберг, авокадо, кабачок, тофу, хумус. лаваш із міксу овочів та суперфудів (255г).",
+      "price": 17900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c2c7ebbb-86a4-4d37-a3c4-38f63e4b6e29",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3838cab9-824c-4b2d-a8ee-d1de7c1f5640": {
+      "uuid": "3838cab9-824c-4b2d-a8ee-d1de7c1f5640",
+      "title": "Candy set \"Snickers OLD SCHOOL\"",
+      "itemDescription": "Dates, peanuts, cashews, coconut cream, cocoa butter, carob, sunroot syrup, Himalayan pink salt, semolina, coconut oil (210g).",
+      "price": 37900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "beaaa746-8e04-4f4c-974f-a9b07cf8e4b9": {
+      "uuid": "beaaa746-8e04-4f4c-974f-a9b07cf8e4b9",
+      "title": "Granola of green buckwheat Carob & Banana",
+      "itemDescription": "Green buckwheat, apple, banana, dates, raisins, pumpkin seeds, oats, flax, cinnamon (300g).",
+      "price": 18900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "a624f8ec-25eb-4b53-a806-d43628292a0b": {
+      "uuid": "a624f8ec-25eb-4b53-a806-d43628292a0b",
+      "title": "Choco cookies set",
+      "itemDescription": "",
+      "price": 36000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b24bac8a-76a6-4e77-bcee-84bb0d7bf2d0": {
+      "uuid": "b24bac8a-76a6-4e77-bcee-84bb0d7bf2d0",
+      "title": "Fresh roll Avocado",
+      "itemDescription": "Carrots, iceberg lettuce, avocado, zucchini, tofu, hummus, pita of a mix vegetables and superfood (255g)",
+      "price": 17900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5eecf746-14f4-4c6d-a9c1-a2275d984266": {
+      "uuid": "5eecf746-14f4-4c6d-a9c1-a2275d984266",
+      "title": "Pesto",
+      "itemDescription": "Basili, lemon juice, olive oil, sunflower seeds, salt, garlic, spinach, black pepper (180g).",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "c0b2472b-f21a-4dd7-8dce-f2e6ba980f59": {
+      "uuid": "c0b2472b-f21a-4dd7-8dce-f2e6ba980f59",
+      "title": "Granola of green buckwheat Carob & Banana",
+      "itemDescription": "Green buckwheat, apple, banana, dates, raisins, pumpkin seeds, oats, flax, cinnamon (110g).",
+      "price": 11900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bb15e39a-3c80-4dcd-be7a-816fa87dfb0a": {
+      "uuid": "bb15e39a-3c80-4dcd-be7a-816fa87dfb0a",
+      "title": "Nuts",
+      "itemDescription": "Насіння соняшника, фінік, родзинки, raw-какао, кероб, масло какао, рожева гімалайська сіль (1шт/31г).",
+      "price": 3700,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8566ed66-fd71-44d4-afcd-a7930d345f95",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1bd319e8-6da5-4e9a-b5e0-1b089487e213": {
+      "uuid": "1bd319e8-6da5-4e9a-b5e0-1b089487e213",
+      "title": "Фреш-рол Veggie Cheese",
+      "itemDescription": "Салат Айсберг, тофу, паштет соєвий, волоський горіх, гарбуз, морква, оливкова олія, соєвий соус, кріп, сіль чорна, мигдаль, часник, сироп топінамбура, гірчиця, конопляна олія, оцет яблучний, гуарова камедь (255г).",
+      "price": 19900,
+      "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9bc19718cd71f628e17b8b2485eb5c70",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 1559509199
+    },
+    "0763f4b3-660a-4074-83b6-84f425369b8b": {
+      "uuid": "0763f4b3-660a-4074-83b6-84f425369b8b",
+      "title": "Fresh roll Veggie Cheese",
+      "itemDescription": "Iceberg Lettuce, tofu, soy pate, walnut, pumpkin, carrot, olive oil, soy sauce, dill, black salt, almonds, garlic, sunroot  syrup, mustard, hemp oil, apple cider vinegar, guar gum (255 g).",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 1559509199
+    },
+    "46f0576b-f43f-4262-808d-d0a5d40f41a1": {
+      "uuid": "46f0576b-f43f-4262-808d-d0a5d40f41a1",
+      "title": "Chocolate \"Superfood + Coconut\"",
+      "itemDescription": "Carob, cocoa butter, mesquite, vanilla protein, lucuma, coconut, coconut flakes (90g).",
+      "price": 19500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "70d1bbb1-d650-44af-bfa7-04420ab0819a": {
+      "uuid": "70d1bbb1-d650-44af-bfa7-04420ab0819a",
+      "title": "Carrot-ginger cake",
+      "itemDescription": "Carrots, cashews, sunroot syrup, raisins, ginger, cocoa butter, lemon, orange, vanilla, carob, cumquat (197g).",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "85e9267f-8baa-4270-a05b-5a1f6183dda5": {
+      "uuid": "85e9267f-8baa-4270-a05b-5a1f6183dda5",
+      "title": "Pancakes with nuts and chocolate",
+      "itemDescription": "",
+      "price": 20900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "aa7eb521-a5d1-4a9d-83e2-988a1a225e6f": {
+      "uuid": "aa7eb521-a5d1-4a9d-83e2-988a1a225e6f",
+      "title": "Lucky 7",
+      "itemDescription": "Вечірній Київ, Chia Crunch, Солона карамель, Твікс, Чилі, Матча, Снікерс (109г).",
+      "price": 31900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ef2f3c2-9d11-49f9-8f2c-feea2efed870",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "051146e3-d11a-4689-a9e5-063d4b8fc70a": {
+      "uuid": "051146e3-d11a-4689-a9e5-063d4b8fc70a",
+      "title": "Cachews butter classic",
+      "itemDescription": "Cashews, Himalayan pink salt (200g).",
+      "price": 25900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "afbad29f-af8d-4239-be5b-cfe3f0486d5d": {
+      "uuid": "afbad29f-af8d-4239-be5b-cfe3f0486d5d",
+      "title": "Cherry Cheesecake",
+      "itemDescription": "Cashews, dates, sunroot syrup, coconut oil, almonds, lemon, cherry, almond butter, coconut, Himalayan pink salt (150g).",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fe202002-5206-461a-aebb-d3aceb32dbee": {
+      "uuid": "fe202002-5206-461a-aebb-d3aceb32dbee",
+      "title": "Granola of green buckwheat Flax & Cinnamon",
+      "itemDescription": "Green buckwheat, apple, banana, dates, raisins, pumpkin seeds, oats, flax, cinnamon (110g).",
+      "price": 10900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b46572ac-66b3-445b-8504-6cd6ecbe6e7e": {
+      "uuid": "b46572ac-66b3-445b-8504-6cd6ecbe6e7e",
+      "title": "Vegan Olivier",
+      "itemDescription": "Sweet potatoes, carrots, wheat sausage, cucumber, tofu, peas, olives, soy sauce, black sea salt, almonds, garlic, apple cider vinegar, sunroot syrup, mustard, hemp oil, guar gum (325g).",
+      "price": 20900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "7acef416-90fe-4ffd-a0d1-0850f9ea1671": {
+      "uuid": "7acef416-90fe-4ffd-a0d1-0850f9ea1671",
+      "title": "Hummus classic",
+      "itemDescription": "Chickpeas, cumin, garlic, Himalayan pink salt, tahini, lemon juice, olive oil, water (180g).",
+      "price": 9400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d64867ef-597f-4439-be3f-fa97a24180f5": {
+      "uuid": "d64867ef-597f-4439-be3f-fa97a24180f5",
+      "title": "Candy set \"Salted caramel\"",
+      "itemDescription": "Peanut butter, dates, coconut oil, carob, cacao butter, himalayan salt (170g).",
+      "price": 26800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3b85dc73-9eea-425a-9d39-d8a957ae240a": {
+      "uuid": "3b85dc73-9eea-425a-9d39-d8a957ae240a",
+      "title": "Red rice with soy asparagus",
+      "itemDescription": "",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b1afb7e4-365e-4ef0-aeb7-900e7ca87fcb": {
+      "uuid": "b1afb7e4-365e-4ef0-aeb7-900e7ca87fcb",
+      "title": "Salted caramel cashew",
+      "itemDescription": "Date, cashew, carob, cocoa butter, Himalayan pink salt (1p/29g).",
+      "price": 4800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5bd4fc7b-38ce-4b2f-8a3e-b1f552590ab3": {
+      "uuid": "5bd4fc7b-38ce-4b2f-8a3e-b1f552590ab3",
+      "title": "Фреш-рол Барбекю BBQ",
+      "itemDescription": "Салат Айсберг, гарбуз, морква, сосиска соєва, томат в'ялений, перець болгарський, оливкова олія, цибуля ріпчаста, часник, соєвий соус, сироп топінамбура, паприка, томат, агар-агар, оцет яблучний, імбир (240г).",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/93e9769e-e9f0-4930-8af3-8c61bf7c18e4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "eb907e21-2427-49b6-b3f8-5f2553e2bccc": {
+      "uuid": "eb907e21-2427-49b6-b3f8-5f2553e2bccc",
+      "title": "Cachews choco butter",
+      "itemDescription": "Cashew, Himalayan pink salt, raw cocoa, sunroot syrup (200g).",
+      "price": 31900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "454566ed-4265-4c95-b856-d4f3dc89fa6d": {
+      "uuid": "454566ed-4265-4c95-b856-d4f3dc89fa6d",
+      "title": "Blueberry Cheesecake",
+      "itemDescription": "Cashews, dates, almonds, coconut oil, sunroot syrup, almond butter, carob, cocoa butter, Himalayan pink salt, lemon, blueberry, coconut, pistachio (150g).",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c0a6ac87-2754-4b61-a1df-a80274e9cf2e": {
+      "uuid": "c0a6ac87-2754-4b61-a1df-a80274e9cf2e",
+      "title": "Twix",
+      "itemDescription": "Coconut flour, coconut oil, coconut sugar, sunroot syrup, dates, cashews, vanilla (1p/27g).",
+      "price": 5700,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "56cf8f7c-8bc9-44e1-8635-99a6a941721b": {
+      "uuid": "56cf8f7c-8bc9-44e1-8635-99a6a941721b",
+      "title": "Toffee",
+      "itemDescription": "Sunroot syrup, coconut, coconut oil (1p/7g).",
+      "price": 4700,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "264a2607-c9df-4e48-9ab7-bb20ddd98fe0": {
+      "uuid": "264a2607-c9df-4e48-9ab7-bb20ddd98fe0",
+      "title": "Power ball",
+      "itemDescription": "Мигдаль, кеш'ю, фінік, ягоди годжі, raw-какао, рожева гімалайська сіль, чилі (1шт/46г).",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/74e084c9-b708-43d7-bc59-270739b789f7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 1559509199
+    },
+    "a3617c52-4af0-49a9-9f6a-39189cfdb730": {
+      "uuid": "a3617c52-4af0-49a9-9f6a-39189cfdb730",
+      "title": "Granola of green buckwheat Flax & Cinnamon",
+      "itemDescription": "",
+      "price": 17900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b505130d-1581-4288-b99a-ee68d0eb6902": {
+      "uuid": "b505130d-1581-4288-b99a-ee68d0eb6902",
+      "title": "Fresh roll BBQ",
+      "itemDescription": "Iceberg lettuce, pumpkin, carrots, soy sausage, dried tomatoes, bell pepper, olive oil, onion, garlic, soy sauce, sunroot syrup, paprika, tomato, agar-agar, apple cider vinegar, ginger (240g).",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1a1bc01a-c42f-4439-8154-47875d69deb3": {
+      "uuid": "1a1bc01a-c42f-4439-8154-47875d69deb3",
+      "title": "Salted caramel peanut",
+      "itemDescription": "Dates, peanuts, carob, cocoa butter, coconut oil, Himalayan pink salt (1p/28g).",
+      "price": 3800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fbe3071a-ed61-4f32-bdce-0f445581130a": {
+      "uuid": "fbe3071a-ed61-4f32-bdce-0f445581130a",
+      "title": "Chocolate \"Superfood+ Almond\"",
+      "itemDescription": "Carob, cacao butter, mesquite, vanilla protein, almonds, sunroot syrup, Himalayan pink salt, lucuma, coconut (100g).",
+      "price": 19500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "f5c42f00-acd1-41ee-a8bd-18048bf31e49": {
+      "uuid": "f5c42f00-acd1-41ee-a8bd-18048bf31e49",
+      "title": "Almond butter vanilla",
+      "itemDescription": "Almonds, Himalayan pink salt, vanilla, sultana (200g).",
+      "price": 25900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a0064b4a-83b5-48ef-bc97-370aa01e729c": {
+      "uuid": "a0064b4a-83b5-48ef-bc97-370aa01e729c",
+      "title": "Rustic sweet potatoes",
+      "itemDescription": "Sweet potatoes, leeks, garlic, olive oil, paprika, pink himalayan salt, coriander, white sesame, black sesame, cashews, lemon (265g).",
+      "price": 21900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

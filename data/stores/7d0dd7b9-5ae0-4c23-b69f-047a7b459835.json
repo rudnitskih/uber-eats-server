@@ -35,620 +35,132 @@
   ],
   "sections": [
     {
-      "uuid": "caeb1ab0-c5dd-4a1f-8d68-edfbca18721e",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "11:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "12897d6b-846c-4d08-84e8-97532f5ca987",
-        "c2d8e39c-3a5f-4edb-91f2-e023d7f75caf",
-        "365d5b53-7cb6-46a3-867a-f70ef8c789dc",
-        "f404063c-317e-4c7d-9732-40c806c534f9",
-        "dfda55ae-0cb3-43c3-92ac-0e6d4b8c5741",
-        "f2b71fa3-ca77-4369-aee2-dbef389be336",
-        "2dd7b89b-0672-4861-a7e0-6ef358e7afc2",
-        "74aabccf-4fcf-435b-9e79-43dcd59b781e",
-        "f85c09a4-dbc2-465e-9b45-2a36b815e1f7",
-        "f11d066d-5983-4ebc-b33f-08543a7b3464"
+      "uuid": "12897d6b-846c-4d08-84e8-97532f5ca987",
+      "title": "Soups",
+      "itemUuids": [
+        "1b21dbdd-01e7-4bf7-aae0-da2f5830c19a",
+        "80f013e1-b908-4d74-a7e2-33cd912efd89",
+        "ccdca88f-7ce6-4fe9-99e8-931e3cf54941"
+      ]
+    },
+    {
+      "uuid": "c2d8e39c-3a5f-4edb-91f2-e023d7f75caf",
+      "title": "Salats",
+      "itemUuids": [
+        "ce45c627-239b-43a2-8dc3-8452e130eded",
+        "4367375e-62da-4577-8e26-8c88b58c7b23",
+        "eaa7aa00-7364-40f7-9f6c-4646c1fc69c0",
+        "40dc64de-c049-40fc-b8d0-11fc6e1d1c24",
+        "c8dd1d9f-d426-4745-91b4-89c5d4365c8e"
+      ]
+    },
+    {
+      "uuid": "365d5b53-7cb6-46a3-867a-f70ef8c789dc",
+      "title": "Snacks",
+      "itemUuids": [
+        "e954c9f6-d0c4-4031-8359-a9f21a2c0c47",
+        "4c9b823d-a160-4567-94ad-fc429e053cc9",
+        "dce95fbb-3456-4e4c-9469-22745ae2881d",
+        "ecf7d933-b62c-4b96-afa0-1dece573c60f",
+        "ddc96c78-b218-4efd-88b0-23d665f5b5ed",
+        "9a461e42-d517-4ee6-bdde-1db780f4e7e5"
+      ]
+    },
+    {
+      "uuid": "f404063c-317e-4c7d-9732-40c806c534f9",
+      "title": "Burgers",
+      "itemUuids": [
+        "93d006ca-7b5a-4ed4-a85d-161cc783d703",
+        "226c6cfe-a0de-4940-8608-3f886f937e7b",
+        "67e85358-57fb-4509-9d3d-3c5bb1649d8b",
+        "2d53311b-abd3-476e-b163-d4279f32e574",
+        "de914251-a526-48e8-9f4b-227bb0d0318a",
+        "faed8f4d-8216-47cb-bc2d-5857b075baee",
+        "7fe535dd-1238-4684-8cd3-e0f34aa7641f",
+        "1f7047a4-18f9-40ce-a7be-82e0a8d2c13f"
+      ]
+    },
+    {
+      "uuid": "dfda55ae-0cb3-43c3-92ac-0e6d4b8c5741",
+      "title": "Grill",
+      "itemUuids": [
+        "ba4d4b97-5b28-43fb-9ffa-a8ad94731928",
+        "6ef57747-3faa-43ec-bf9b-18646bcd75ca",
+        "a3da93a4-266e-4ef2-9244-38428840afd8",
+        "679ba250-b2ee-42c2-aa0b-f6f074f4c90a",
+        "d3c44dfd-56bf-4ff7-a191-f898ab5136e8",
+        "7a440bcc-f0b2-4784-9186-a9b4ca77a2e4",
+        "c9f4e31b-465c-4560-b6c6-4c1c07bfd5fb",
+        "6dc23698-8e8f-4550-921d-dc002ba94250",
+        "77708c47-8be6-4583-8df1-f67d9ea57abe",
+        "517ac50b-fea8-4391-b232-18d5c9b64f40",
+        "3395ad15-f75a-4472-8b7d-30e604049cfe"
+      ]
+    },
+    {
+      "uuid": "f2b71fa3-ca77-4369-aee2-dbef389be336",
+      "title": "Baking",
+      "itemUuids": [
+        "718fe555-6365-44a6-a9f2-a203b126d782",
+        "e3c16620-b814-4dbd-a9ff-2f251b3ddf28",
+        "2200d3fe-cebf-489b-b036-2a7b44dbc5ed",
+        "e58749a2-9d71-4a65-88af-e9aa657915b6",
+        "b6023463-5310-4be0-b824-bb61f51309e4",
+        "93b318f7-5ee4-467c-8e94-5ab25bb57e34"
+      ]
+    },
+    {
+      "uuid": "2dd7b89b-0672-4861-a7e0-6ef358e7afc2",
+      "title": "Grill menu",
+      "itemUuids": [
+        "c1d9585c-6c24-42cd-b236-eacf2b3904e0",
+        "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f",
+        "278f95fa-8393-4a1d-ae62-2908282de426",
+        "75389f07-9201-42a4-bb3f-67b79822c7ec",
+        "38e1fd70-f918-4a30-8ace-e65e94511d5b",
+        "0d19362c-58b5-4153-b17b-8b04da411a5a"
+      ]
+    },
+    {
+      "uuid": "74aabccf-4fcf-435b-9e79-43dcd59b781e",
+      "title": "Desserts",
+      "itemUuids": [
+        "cfb96823-53c6-4bf0-b83e-ca63db4e3939",
+        "00115208-d4e0-4cf3-ab7f-f667f1ec2564",
+        "2efdfdc8-02a3-4882-befc-9dccde85d9e0"
+      ]
+    },
+    {
+      "uuid": "f85c09a4-dbc2-465e-9b45-2a36b815e1f7",
+      "title": "Doner",
+      "itemUuids": [
+        "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634",
+        "ec6eb80f-bacf-451f-8b50-5e6510fd50ac",
+        "683dfbf0-ce98-436e-b4cd-5acf7ba61b37",
+        "1144cf31-752a-4749-98d4-37af75c59960"
+      ]
+    },
+    {
+      "uuid": "f11d066d-5983-4ebc-b33f-08543a7b3464",
+      "title": "Beverages",
+      "itemUuids": [
+        "48d33fe4-8b42-42d5-a096-4fcb26e0b287",
+        "ba385ef7-0e68-459a-8d9f-b6bebcac920f",
+        "4cf6ccda-5650-4090-aed7-460cd7fcd17d",
+        "f542ac30-4d12-416f-8201-bc6d811499b7",
+        "7c66dfe2-46e5-42b9-b756-8eacc7df93f0",
+        "01968b00-9f41-47a5-9f87-36ff3db7978f",
+        "0709156d-12db-41a4-8302-2fcb4af1427b",
+        "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347",
+        "a43868c4-745a-44b6-8d25-86bc657b9026",
+        "0bbe4c70-7286-4e80-ad4b-4c3da5dcc5a0",
+        "12aa2432-0499-44c1-8523-77020828b626",
+        "77755866-54b0-4517-ad7d-86b556fa2510",
+        "a37dca48-00d5-47a7-8f78-7f2ea56fe520",
+        "e005ebbe-66e5-4d2a-9f59-eadb0ab03b6d"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "caeb1ab0-c5dd-4a1f-8d68-edfbca18721e": {
-      "itemsMap": {
-        "ddc96c78-b218-4efd-88b0-23d665f5b5ed": {
-          "uuid": "ddc96c78-b218-4efd-88b0-23d665f5b5ed",
-          "title": "Eggplant grill salad",
-          "itemDescription": "Fried eggplant, tomatoes, onions, bell pepper, and olive oil (150 g).",
-          "price": 9000
-        },
-        "4cf6ccda-5650-4090-aed7-460cd7fcd17d": {
-          "uuid": "4cf6ccda-5650-4090-aed7-460cd7fcd17d",
-          "title": "Sprite",
-          "itemDescription": "250 ml.",
-          "price": 3300
-        },
-        "93d006ca-7b5a-4ed4-a85d-161cc783d703": {
-          "uuid": "93d006ca-7b5a-4ed4-a85d-161cc783d703",
-          "title": "Classical burger",
-          "itemDescription": "Veal burger with tomatoes, cucumbers, lettuce, pickles with cocktail sauce served with coleslaw, and French fries.",
-          "price": 13500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/51a1bdbd-6212-4c62-b269-73148e7486a5"
-        },
-        "679ba250-b2ee-42c2-aa0b-f6f074f4c90a": {
-          "uuid": "679ba250-b2ee-42c2-aa0b-f6f074f4c90a",
-          "title": "Grilled bifsteak",
-          "itemDescription": "Grilled chicken drumstick with pilaf, onion, tomatoes, pepper, and potato (350 g).",
-          "price": 22500
-        },
-        "a3da93a4-266e-4ef2-9244-38428840afd8": {
-          "uuid": "a3da93a4-266e-4ef2-9244-38428840afd8",
-          "title": "Grilled chicken drumstick",
-          "itemDescription": "Grilled chicken drumstick with pilaf, onion, tomatoes, pepper, and potato (400 g).",
-          "price": 19500
-        },
-        "e3c16620-b814-4dbd-a9ff-2f251b3ddf28": {
-          "uuid": "e3c16620-b814-4dbd-a9ff-2f251b3ddf28",
-          "title": "Lahmacun with dutch cheese",
-          "itemDescription": "150 g.",
-          "price": 7500
-        },
-        "77708c47-8be6-4583-8df1-f67d9ea57abe": {
-          "uuid": "77708c47-8be6-4583-8df1-f67d9ea57abe",
-          "title": "Beef tenderlion",
-          "itemDescription": "Veal with grilled vegetables (350 g).",
-          "price": 25000
-        },
-        "38e1fd70-f918-4a30-8ace-e65e94511d5b": {
-          "uuid": "38e1fd70-f918-4a30-8ace-e65e94511d5b",
-          "title": "Tender veal kebab",
-          "itemDescription": "Veal meat, onion, rice, tomato, and pepper (500 g).",
-          "price": 24000
-        },
-        "1144cf31-752a-4749-98d4-37af75c59960": {
-          "uuid": "1144cf31-752a-4749-98d4-37af75c59960",
-          "title": "Tombik doner",
-          "itemDescription": "Doner meat in pita bread with tomatoes, pepper, lettuce, potato, and onion (200 g).",
-          "price": 11500
-        },
-        "f542ac30-4d12-416f-8201-bc6d811499b7": {
-          "uuid": "f542ac30-4d12-416f-8201-bc6d811499b7",
-          "title": "Bonaqua",
-          "itemDescription": "330 ml.",
-          "price": 3300,
-          "customizationUuids": [
-            "b17f35ca-2640-43e7-bacd-9d7636aadd9a"
-          ]
-        },
-        "9a461e42-d517-4ee6-bdde-1db780f4e7e5": {
-          "uuid": "9a461e42-d517-4ee6-bdde-1db780f4e7e5",
-          "title": "Home pickles",
-          "itemDescription": "150 g.",
-          "price": 9000
-        },
-        "d3c44dfd-56bf-4ff7-a191-f898ab5136e8": {
-          "uuid": "d3c44dfd-56bf-4ff7-a191-f898ab5136e8",
-          "title": "Grilled bifsteak in mushroom sauce",
-          "itemDescription": "Grilled bifsteak in mushroom sauce with rice, onion, tomatoes, pepper, and potato (350 g).",
-          "price": 24500
-        },
-        "0709156d-12db-41a4-8302-2fcb4af1427b": {
-          "uuid": "0709156d-12db-41a4-8302-2fcb4af1427b",
-          "title": "Nestea",
-          "itemDescription": "330 мл.",
-          "price": 3300
-        },
-        "40dc64de-c049-40fc-b8d0-11fc6e1d1c24": {
-          "uuid": "40dc64de-c049-40fc-b8d0-11fc6e1d1c24",
-          "title": "Red bean salad",
-          "itemDescription": "Red bean, sun-dried tomatoes, nuts, and corn mixed with fresh spices with pomegranate sauce (220 g).",
-          "price": 11000
-        },
-        "7c66dfe2-46e5-42b9-b756-8eacc7df93f0": {
-          "uuid": "7c66dfe2-46e5-42b9-b756-8eacc7df93f0",
-          "title": "Borjomi",
-          "itemDescription": "330 ml.",
-          "price": 4500
-        },
-        "7a440bcc-f0b2-4784-9186-a9b4ca77a2e4": {
-          "uuid": "7a440bcc-f0b2-4784-9186-a9b4ca77a2e4",
-          "title": "Chicken wings",
-          "itemDescription": "Chicken wings, tomatoes, peppers, rice, fries, and lavash (400 g).",
-          "price": 18000
-        },
-        "c9f4e31b-465c-4560-b6c6-4c1c07bfd5fb": {
-          "uuid": "c9f4e31b-465c-4560-b6c6-4c1c07bfd5fb",
-          "title": "Lamb chop steak",
-          "itemDescription": "Grilled sheep entrecote, fries, tomatoes, and pepper (400 g).",
-          "price": 25500
-        },
-        "ec6eb80f-bacf-451f-8b50-5e6510fd50ac": {
-          "uuid": "ec6eb80f-bacf-451f-8b50-5e6510fd50ac",
-          "title": "Lavash doner",
-          "itemDescription": "Doner meat in lavash with tomatoes, pepper, onion, and potato (200 g).",
-          "price": 11500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a571f7f2-907c-4a79-b191-847f29de71c6"
-        },
-        "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f": {
-          "uuid": "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f",
-          "title": "\"Urfa\" kebab",
-          "itemDescription": "400 g.",
-          "price": 19000
-        },
-        "e58749a2-9d71-4a65-88af-e9aa657915b6": {
-          "uuid": "e58749a2-9d71-4a65-88af-e9aa657915b6",
-          "title": "Lahmacun with veal",
-          "itemDescription": "Veal, tomatoes, and peppers (300 g).",
-          "price": 13500,
-          "customizationUuids": [
-            "3778de5b-271f-4548-98f2-2abd80c26385"
-          ]
-        },
-        "faed8f4d-8216-47cb-bc2d-5857b075baee": {
-          "uuid": "faed8f4d-8216-47cb-bc2d-5857b075baee",
-          "title": "Cheeseburger",
-          "itemDescription": "Veal burger with Cheddar cheese, tomatoes, lettuce, pickles with cocktail sauce served with coleslaw, and French fries.",
-          "price": 14500,
-          "nutritionalInfo": {}
-        },
-        "3395ad15-f75a-4472-8b7d-30e604049cfe": {
-          "uuid": "3395ad15-f75a-4472-8b7d-30e604049cfe",
-          "title": "Barbecue salmon",
-          "itemDescription": "Salmon, grilled vegetables, and lolo rosso (350 g). ",
-          "price": 32000
-        },
-        "4c9b823d-a160-4567-94ad-fc429e053cc9": {
-          "uuid": "4c9b823d-a160-4567-94ad-fc429e053cc9",
-          "title": "Acili ezme",
-          "itemDescription": "Tomatoes, onion, garlic, hot pepper, olive oil, red pepper, parsley, fresh lemon juice, and bell pepper (150 g).",
-          "price": 8000,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "2d53311b-abd3-476e-b163-d4279f32e574": {
-          "uuid": "2d53311b-abd3-476e-b163-d4279f32e574",
-          "title": "Vegan burger",
-          "itemDescription": "Vegan burger cooked with vegetables with Guatemala avocado sauce, tomatoes, cucumbers and rocket served with coleslaw, and French fries.",
-          "price": 15000,
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegan",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "6ef57747-3faa-43ec-bf9b-18646bcd75ca": {
-          "uuid": "6ef57747-3faa-43ec-bf9b-18646bcd75ca",
-          "title": "Grilled meatballs",
-          "itemDescription": "Grilled meatballs with rice (400 g).",
-          "price": 21000
-        },
-        "b6023463-5310-4be0-b824-bb61f51309e4": {
-          "uuid": "b6023463-5310-4be0-b824-bb61f51309e4",
-          "title": "Lahmacun with spinach, and cheese",
-          "itemDescription": "Spinach, white, and Dutch cheese (250 g).",
-          "price": 13500
-        },
-        "00115208-d4e0-4cf3-ab7f-f667f1ec2564": {
-          "uuid": "00115208-d4e0-4cf3-ab7f-f667f1ec2564",
-          "title": "Profiterol",
-          "itemDescription": "150 g.",
-          "price": 11000
-        },
-        "67e85358-57fb-4509-9d3d-3c5bb1649d8b": {
-          "uuid": "67e85358-57fb-4509-9d3d-3c5bb1649d8b",
-          "title": "Chicken coleslaw",
-          "itemDescription": "Chicken burger, coleslaw with Dutch cheese, cucumber, and lettuce served with French fries.",
-          "price": 13500
-        },
-        "718fe555-6365-44a6-a9f2-a203b126d782": {
-          "uuid": "718fe555-6365-44a6-a9f2-a203b126d782",
-          "title": "Lahmacun",
-          "itemDescription": "Minced beef , tomatoes, onions, parsley, and green pepper (150 g).",
-          "price": 7000
-        },
-        "e954c9f6-d0c4-4031-8359-a9f21a2c0c47": {
-          "uuid": "e954c9f6-d0c4-4031-8359-a9f21a2c0c47",
-          "title": "Hummus",
-          "itemDescription": "Chickpeas, Tajin, and olive oil (150 g).",
-          "price": 9500
-        },
-        "a43868c4-745a-44b6-8d25-86bc657b9026": {
-          "uuid": "a43868c4-745a-44b6-8d25-86bc657b9026",
-          "title": "Sirma",
-          "itemDescription": "330  мл.",
-          "price": 4500,
-          "nutritionalInfo": {}
-        },
-        "7fe535dd-1238-4684-8cd3-e0f34aa7641f": {
-          "uuid": "7fe535dd-1238-4684-8cd3-e0f34aa7641f",
-          "title": "Caramelized burger",
-          "itemDescription": "Veal burger filled with cheese and caramelized onion, lettuce, tomatoes, pickles with buffalo sauce served with coleslaw, and French fries.",
-          "price": 15500
-        },
-        "6dc23698-8e8f-4550-921d-dc002ba94250": {
-          "uuid": "6dc23698-8e8f-4550-921d-dc002ba94250",
-          "title": "Beef entrecote",
-          "itemDescription": "Grilled beef entrecote, fries, tomatoes, and pepper (500 g).\n",
-          "price": 29500
-        },
-        "ba385ef7-0e68-459a-8d9f-b6bebcac920f": {
-          "uuid": "ba385ef7-0e68-459a-8d9f-b6bebcac920f",
-          "title": "Fanta",
-          "itemDescription": "250 мл.",
-          "price": 3300
-        },
-        "0bbe4c70-7286-4e80-ad4b-4c3da5dcc5a0": {
-          "uuid": "0bbe4c70-7286-4e80-ad4b-4c3da5dcc5a0",
-          "title": "Mojito",
-          "itemDescription": "300 мл.",
-          "price": 7500,
-          "nutritionalInfo": {}
-        },
-        "683dfbf0-ce98-436e-b4cd-5acf7ba61b37": {
-          "uuid": "683dfbf0-ce98-436e-b4cd-5acf7ba61b37",
-          "title": "Portion doner",
-          "itemDescription": "Doner meat in lavash with tomatoes, and pepper (250 g).",
-          "price": 14000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f809597-26fa-4c04-a937-10e6039e69f9"
-        },
-        "48d33fe4-8b42-42d5-a096-4fcb26e0b287": {
-          "uuid": "48d33fe4-8b42-42d5-a096-4fcb26e0b287",
-          "title": "Coca Cola",
-          "itemDescription": "250 ml.",
-          "price": 3300
-        },
-        "c8dd1d9f-d426-4745-91b4-89c5d4365c8e": {
-          "uuid": "c8dd1d9f-d426-4745-91b4-89c5d4365c8e",
-          "title": "\"Gavurdagi\" salad",
-          "itemDescription": "Tomatoes, onions, pomegranate sauce, olive oil, walnuts, and parsley (220 g).",
-          "price": 10500
-        },
-        "a37dca48-00d5-47a7-8f78-7f2ea56fe520": {
-          "uuid": "a37dca48-00d5-47a7-8f78-7f2ea56fe520",
-          "title": "Juices",
-          "itemDescription": "250 ml.",
-          "price": 5500,
-          "customizationUuids": [
-            "f6abbc49-1c46-4ca6-ac12-86ff0a048c1c"
-          ]
-        },
-        "0d19362c-58b5-4153-b17b-8b04da411a5a": {
-          "uuid": "0d19362c-58b5-4153-b17b-8b04da411a5a",
-          "title": "Skewers of lamb lung",
-          "itemDescription": "Lamb lungs, kurdjuk, bulgur, onions, tomatoes, peppers, and pita (400 g).",
-          "price": 18000
-        },
-        "ce45c627-239b-43a2-8dc3-8452e130eded": {
-          "uuid": "ce45c627-239b-43a2-8dc3-8452e130eded",
-          "title": "Meat doner salad",
-          "itemDescription": "Fried meat with mushrooms in the greenery with onion, Dutch cheese, and balsamic sauce (220 g).",
-          "price": 11000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/61a82e75-ad6a-4993-919f-a7c99ba701cc"
-        },
-        "12aa2432-0499-44c1-8523-77020828b626": {
-          "uuid": "12aa2432-0499-44c1-8523-77020828b626",
-          "title": "Red Bull",
-          "itemDescription": "250 ml.",
-          "price": 5500,
-          "suspendUntil": 8640000000
-        },
-        "1f7047a4-18f9-40ce-a7be-82e0a8d2c13f": {
-          "uuid": "1f7047a4-18f9-40ce-a7be-82e0a8d2c13f",
-          "title": "Doner burger",
-          "itemDescription": "Veal burger with doner, tomatoes, lettuce, pickles with cocktail sauce served with coleslaw, and French fries.",
-          "price": 17500,
-          "nutritionalInfo": {}
-        },
-        "dce95fbb-3456-4e4c-9469-22745ae2881d": {
-          "uuid": "dce95fbb-3456-4e4c-9469-22745ae2881d",
-          "title": "Eggplant appetizer \"Mutabal\"",
-          "itemDescription": "Fried eggplant, garlic, yogurt, and olive oil (150 g).",
-          "price": 9000
-        },
-        "ba4d4b97-5b28-43fb-9ffa-a8ad94731928": {
-          "uuid": "ba4d4b97-5b28-43fb-9ffa-a8ad94731928",
-          "title": "Grilled chicken",
-          "itemDescription": "Grilled chicken with pilaf, onion, tomatoes, pepper, and potato (400 g).",
-          "price": 20000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e52ed54-7c10-4fae-8486-0099f9b44b9d"
-        },
-        "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347": {
-          "uuid": "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347",
-          "title": "Soda",
-          "itemDescription": "200 мл.",
-          "price": 2900
-        },
-        "80f013e1-b908-4d74-a7e2-33cd912efd89": {
-          "uuid": "80f013e1-b908-4d74-a7e2-33cd912efd89",
-          "title": "Tomato soup",
-          "itemDescription": "250 g.",
-          "price": 6500,
-          "suspendUntil": 8640000000
-        },
-        "ecf7d933-b62c-4b96-afa0-1dece573c60f": {
-          "uuid": "ecf7d933-b62c-4b96-afa0-1dece573c60f",
-          "title": "Haidari",
-          "itemDescription": "Yogurt, mint, dill, garlic, and olive oil (120 g).",
-          "price": 8000
-        },
-        "01968b00-9f41-47a5-9f87-36ff3db7978f": {
-          "uuid": "01968b00-9f41-47a5-9f87-36ff3db7978f",
-          "title": "Airan",
-          "itemDescription": "250 мл.",
-          "price": 3000
-        },
-        "cfb96823-53c6-4bf0-b83e-ca63db4e3939": {
-          "uuid": "cfb96823-53c6-4bf0-b83e-ca63db4e3939",
-          "title": "Baklava with pistachios",
-          "itemDescription": "150 g.",
-          "price": 14000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d6047a1-d6cd-4377-9a64-f0da1fc27109",
-          "nutritionalInfo": {}
-        },
-        "4367375e-62da-4577-8e26-8c88b58c7b23": {
-          "uuid": "4367375e-62da-4577-8e26-8c88b58c7b23",
-          "title": "Choban salad",
-          "itemDescription": "Tomatoes, cucumbers, onions, green pepper, parsley, olive oil, and lemon sauce (220 g).",
-          "price": 8000
-        },
-        "75389f07-9201-42a4-bb3f-67b79822c7ec": {
-          "uuid": "75389f07-9201-42a4-bb3f-67b79822c7ec",
-          "title": "Chicken BBQ",
-          "itemDescription": "400 g.",
-          "price": 17500
-        },
-        "c1d9585c-6c24-42cd-b236-eacf2b3904e0": {
-          "uuid": "c1d9585c-6c24-42cd-b236-eacf2b3904e0",
-          "title": "\"Adana\" kebab",
-          "itemDescription": "400 g.",
-          "price": 19000
-        },
-        "1b21dbdd-01e7-4bf7-aae0-da2f5830c19a": {
-          "uuid": "1b21dbdd-01e7-4bf7-aae0-da2f5830c19a",
-          "title": "Lentil soup",
-          "itemDescription": "250 g.",
-          "price": 6500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f82833c3-2d0c-4cea-a18f-7bb0e8c1ca44"
-        },
-        "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634": {
-          "uuid": "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634",
-          "title": "Doner with rice",
-          "itemDescription": "Doner meat with rice, tomatoes, and pepper (300 g).\n",
-          "price": 17000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a72be61d-5bfb-4e72-b3b5-8ee3d40920b6"
-        },
-        "de914251-a526-48e8-9f4b-227bb0d0318a": {
-          "uuid": "de914251-a526-48e8-9f4b-227bb0d0318a",
-          "title": "Istanbul burger",
-          "itemDescription": "Veal burger with red bean and sausage paste, Dutch cheese, onion rings, tomatoes, lettuce served with coleslaw and French fries, and ranch sauce.",
-          "price": 18500
-        },
-        "eaa7aa00-7364-40f7-9f6c-4646c1fc69c0": {
-          "uuid": "eaa7aa00-7364-40f7-9f6c-4646c1fc69c0",
-          "title": "Diet chicken salad",
-          "itemDescription": "Grilled chicken pieces with mix of salads, tomatoes, and cucumbers with pomegranate sauce (220 g).",
-          "price": 11500
-        },
-        "e005ebbe-66e5-4d2a-9f59-eadb0ab03b6d": {
-          "uuid": "e005ebbe-66e5-4d2a-9f59-eadb0ab03b6d",
-          "title": "Lemonade \"Natakhtari\"",
-          "itemDescription": "500 ml.",
-          "price": 6000,
-          "customizationUuids": [
-            "56c98264-8121-40ae-8df1-9f64d1e9f273"
-          ]
-        },
-        "517ac50b-fea8-4391-b232-18d5c9b64f40": {
-          "uuid": "517ac50b-fea8-4391-b232-18d5c9b64f40",
-          "title": "Beef tenderloin in mushroom sauce",
-          "itemDescription": "Veal with grilled vegetables in mushroom sauce (400 g).",
-          "price": 28500
-        },
-        "77755866-54b0-4517-ad7d-86b556fa2510": {
-          "uuid": "77755866-54b0-4517-ad7d-86b556fa2510",
-          "title": "Red Bull (sugar free)",
-          "itemDescription": "250 мл.",
-          "price": 5500,
-          "suspendUntil": 8640000000
-        },
-        "278f95fa-8393-4a1d-ae62-2908282de426": {
-          "uuid": "278f95fa-8393-4a1d-ae62-2908282de426",
-          "title": "Lamb on skewers",
-          "itemDescription": "Lamb, bulgur, onion, tomato, pepper, and pita (500 g).",
-          "price": 23000
-        },
-        "93b318f7-5ee4-467c-8e94-5ab25bb57e34": {
-          "uuid": "93b318f7-5ee4-467c-8e94-5ab25bb57e34",
-          "title": "Pide with veal and cheese",
-          "itemDescription": "",
-          "price": 12500
-        },
-        "2efdfdc8-02a3-4882-befc-9dccde85d9e0": {
-          "uuid": "2efdfdc8-02a3-4882-befc-9dccde85d9e0",
-          "title": "Sekerpare",
-          "itemDescription": "150 g.",
-          "price": 9500,
-          "nutritionalInfo": {}
-        },
-        "2200d3fe-cebf-489b-b036-2a7b44dbc5ed": {
-          "uuid": "2200d3fe-cebf-489b-b036-2a7b44dbc5ed",
-          "title": "Lahmacun with minced beef",
-          "itemDescription": "Minced beef, tomatoes, onions, parsley, and green pepper (300 g).",
-          "price": 12000,
-          "customizationUuids": [
-            "3778de5b-271f-4548-98f2-2abd80c26385"
-          ]
-        },
-        "ccdca88f-7ce6-4fe9-99e8-931e3cf54941": {
-          "uuid": "ccdca88f-7ce6-4fe9-99e8-931e3cf54941",
-          "title": "Doner soup",
-          "itemDescription": "250 g.",
-          "price": 7500
-        },
-        "226c6cfe-a0de-4940-8608-3f886f937e7b": {
-          "uuid": "226c6cfe-a0de-4940-8608-3f886f937e7b",
-          "title": "Mexican burger",
-          "itemDescription": "Veal burger with basturma, jalapenos, Cheddar cheese, lettuce, tomatoes and pickles with BBQ sauce served with coleslaw, and French fries.",
-          "price": 19500,
-          "nutritionalInfo": {}
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "12897d6b-846c-4d08-84e8-97532f5ca987",
-          "title": "Soups",
-          "itemUuids": [
-            "1b21dbdd-01e7-4bf7-aae0-da2f5830c19a",
-            "80f013e1-b908-4d74-a7e2-33cd912efd89",
-            "ccdca88f-7ce6-4fe9-99e8-931e3cf54941"
-          ]
-        },
-        {
-          "uuid": "c2d8e39c-3a5f-4edb-91f2-e023d7f75caf",
-          "title": "Salats",
-          "itemUuids": [
-            "ce45c627-239b-43a2-8dc3-8452e130eded",
-            "4367375e-62da-4577-8e26-8c88b58c7b23",
-            "eaa7aa00-7364-40f7-9f6c-4646c1fc69c0",
-            "40dc64de-c049-40fc-b8d0-11fc6e1d1c24",
-            "c8dd1d9f-d426-4745-91b4-89c5d4365c8e"
-          ]
-        },
-        {
-          "uuid": "365d5b53-7cb6-46a3-867a-f70ef8c789dc",
-          "title": "Snacks",
-          "itemUuids": [
-            "e954c9f6-d0c4-4031-8359-a9f21a2c0c47",
-            "4c9b823d-a160-4567-94ad-fc429e053cc9",
-            "dce95fbb-3456-4e4c-9469-22745ae2881d",
-            "ecf7d933-b62c-4b96-afa0-1dece573c60f",
-            "ddc96c78-b218-4efd-88b0-23d665f5b5ed",
-            "9a461e42-d517-4ee6-bdde-1db780f4e7e5"
-          ]
-        },
-        {
-          "uuid": "f404063c-317e-4c7d-9732-40c806c534f9",
-          "title": "Burgers",
-          "itemUuids": [
-            "93d006ca-7b5a-4ed4-a85d-161cc783d703",
-            "226c6cfe-a0de-4940-8608-3f886f937e7b",
-            "67e85358-57fb-4509-9d3d-3c5bb1649d8b",
-            "2d53311b-abd3-476e-b163-d4279f32e574",
-            "de914251-a526-48e8-9f4b-227bb0d0318a",
-            "faed8f4d-8216-47cb-bc2d-5857b075baee",
-            "7fe535dd-1238-4684-8cd3-e0f34aa7641f",
-            "1f7047a4-18f9-40ce-a7be-82e0a8d2c13f"
-          ]
-        },
-        {
-          "uuid": "dfda55ae-0cb3-43c3-92ac-0e6d4b8c5741",
-          "title": "Grill",
-          "itemUuids": [
-            "ba4d4b97-5b28-43fb-9ffa-a8ad94731928",
-            "6ef57747-3faa-43ec-bf9b-18646bcd75ca",
-            "a3da93a4-266e-4ef2-9244-38428840afd8",
-            "679ba250-b2ee-42c2-aa0b-f6f074f4c90a",
-            "d3c44dfd-56bf-4ff7-a191-f898ab5136e8",
-            "7a440bcc-f0b2-4784-9186-a9b4ca77a2e4",
-            "c9f4e31b-465c-4560-b6c6-4c1c07bfd5fb",
-            "6dc23698-8e8f-4550-921d-dc002ba94250",
-            "77708c47-8be6-4583-8df1-f67d9ea57abe",
-            "517ac50b-fea8-4391-b232-18d5c9b64f40",
-            "3395ad15-f75a-4472-8b7d-30e604049cfe"
-          ]
-        },
-        {
-          "uuid": "f2b71fa3-ca77-4369-aee2-dbef389be336",
-          "title": "Baking",
-          "itemUuids": [
-            "718fe555-6365-44a6-a9f2-a203b126d782",
-            "e3c16620-b814-4dbd-a9ff-2f251b3ddf28",
-            "2200d3fe-cebf-489b-b036-2a7b44dbc5ed",
-            "e58749a2-9d71-4a65-88af-e9aa657915b6",
-            "b6023463-5310-4be0-b824-bb61f51309e4",
-            "93b318f7-5ee4-467c-8e94-5ab25bb57e34"
-          ]
-        },
-        {
-          "uuid": "2dd7b89b-0672-4861-a7e0-6ef358e7afc2",
-          "title": "Grill menu",
-          "itemUuids": [
-            "c1d9585c-6c24-42cd-b236-eacf2b3904e0",
-            "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f",
-            "278f95fa-8393-4a1d-ae62-2908282de426",
-            "75389f07-9201-42a4-bb3f-67b79822c7ec",
-            "38e1fd70-f918-4a30-8ace-e65e94511d5b",
-            "0d19362c-58b5-4153-b17b-8b04da411a5a"
-          ]
-        },
-        {
-          "uuid": "74aabccf-4fcf-435b-9e79-43dcd59b781e",
-          "title": "Desserts",
-          "itemUuids": [
-            "cfb96823-53c6-4bf0-b83e-ca63db4e3939",
-            "00115208-d4e0-4cf3-ab7f-f667f1ec2564",
-            "2efdfdc8-02a3-4882-befc-9dccde85d9e0"
-          ]
-        },
-        {
-          "uuid": "f85c09a4-dbc2-465e-9b45-2a36b815e1f7",
-          "title": "Doner",
-          "itemUuids": [
-            "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634",
-            "ec6eb80f-bacf-451f-8b50-5e6510fd50ac",
-            "683dfbf0-ce98-436e-b4cd-5acf7ba61b37",
-            "1144cf31-752a-4749-98d4-37af75c59960"
-          ]
-        },
-        {
-          "uuid": "f11d066d-5983-4ebc-b33f-08543a7b3464",
-          "title": "Beverages",
-          "itemUuids": [
-            "48d33fe4-8b42-42d5-a096-4fcb26e0b287",
-            "ba385ef7-0e68-459a-8d9f-b6bebcac920f",
-            "4cf6ccda-5650-4090-aed7-460cd7fcd17d",
-            "f542ac30-4d12-416f-8201-bc6d811499b7",
-            "7c66dfe2-46e5-42b9-b756-8eacc7df93f0",
-            "01968b00-9f41-47a5-9f87-36ff3db7978f",
-            "0709156d-12db-41a4-8302-2fcb4af1427b",
-            "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347",
-            "a43868c4-745a-44b6-8d25-86bc657b9026",
-            "0bbe4c70-7286-4e80-ad4b-4c3da5dcc5a0",
-            "12aa2432-0499-44c1-8523-77020828b626",
-            "77755866-54b0-4517-ad7d-86b556fa2510",
-            "a37dca48-00d5-47a7-8f78-7f2ea56fe520",
-            "e005ebbe-66e5-4d2a-9f59-eadb0ab03b6d"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.44682818092414,
     "longitude": 30.51140331127487,
@@ -712,5 +224,469 @@
     "storeRatingScore": 4.485981308411215,
     "ratingCount": "107"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4aabe55f-0530-4e68-97e8-07aa7b27a5e0"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4aabe55f-0530-4e68-97e8-07aa7b27a5e0",
+  "items": {
+    "ddc96c78-b218-4efd-88b0-23d665f5b5ed": {
+      "uuid": "ddc96c78-b218-4efd-88b0-23d665f5b5ed",
+      "title": "Eggplant grill salad",
+      "itemDescription": "Fried eggplant, tomatoes, onions, bell pepper, and olive oil (150 g).",
+      "price": 9000
+    },
+    "4cf6ccda-5650-4090-aed7-460cd7fcd17d": {
+      "uuid": "4cf6ccda-5650-4090-aed7-460cd7fcd17d",
+      "title": "Sprite",
+      "itemDescription": "250 ml.",
+      "price": 3300
+    },
+    "93d006ca-7b5a-4ed4-a85d-161cc783d703": {
+      "uuid": "93d006ca-7b5a-4ed4-a85d-161cc783d703",
+      "title": "Classical burger",
+      "itemDescription": "Veal burger with tomatoes, cucumbers, lettuce, pickles with cocktail sauce served with coleslaw, and French fries.",
+      "price": 13500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/51a1bdbd-6212-4c62-b269-73148e7486a5"
+    },
+    "679ba250-b2ee-42c2-aa0b-f6f074f4c90a": {
+      "uuid": "679ba250-b2ee-42c2-aa0b-f6f074f4c90a",
+      "title": "Grilled bifsteak",
+      "itemDescription": "Grilled chicken drumstick with pilaf, onion, tomatoes, pepper, and potato (350 g).",
+      "price": 22500
+    },
+    "a3da93a4-266e-4ef2-9244-38428840afd8": {
+      "uuid": "a3da93a4-266e-4ef2-9244-38428840afd8",
+      "title": "Grilled chicken drumstick",
+      "itemDescription": "Grilled chicken drumstick with pilaf, onion, tomatoes, pepper, and potato (400 g).",
+      "price": 19500
+    },
+    "e3c16620-b814-4dbd-a9ff-2f251b3ddf28": {
+      "uuid": "e3c16620-b814-4dbd-a9ff-2f251b3ddf28",
+      "title": "Lahmacun with dutch cheese",
+      "itemDescription": "150 g.",
+      "price": 7500
+    },
+    "77708c47-8be6-4583-8df1-f67d9ea57abe": {
+      "uuid": "77708c47-8be6-4583-8df1-f67d9ea57abe",
+      "title": "Beef tenderlion",
+      "itemDescription": "Veal with grilled vegetables (350 g).",
+      "price": 25000
+    },
+    "38e1fd70-f918-4a30-8ace-e65e94511d5b": {
+      "uuid": "38e1fd70-f918-4a30-8ace-e65e94511d5b",
+      "title": "Tender veal kebab",
+      "itemDescription": "Veal meat, onion, rice, tomato, and pepper (500 g).",
+      "price": 24000
+    },
+    "1144cf31-752a-4749-98d4-37af75c59960": {
+      "uuid": "1144cf31-752a-4749-98d4-37af75c59960",
+      "title": "Tombik doner",
+      "itemDescription": "Doner meat in pita bread with tomatoes, pepper, lettuce, potato, and onion (200 g).",
+      "price": 11500
+    },
+    "f542ac30-4d12-416f-8201-bc6d811499b7": {
+      "uuid": "f542ac30-4d12-416f-8201-bc6d811499b7",
+      "title": "Bonaqua",
+      "itemDescription": "330 ml.",
+      "price": 3300,
+      "customizationUuids": [
+        "b17f35ca-2640-43e7-bacd-9d7636aadd9a"
+      ]
+    },
+    "9a461e42-d517-4ee6-bdde-1db780f4e7e5": {
+      "uuid": "9a461e42-d517-4ee6-bdde-1db780f4e7e5",
+      "title": "Home pickles",
+      "itemDescription": "150 g.",
+      "price": 9000
+    },
+    "d3c44dfd-56bf-4ff7-a191-f898ab5136e8": {
+      "uuid": "d3c44dfd-56bf-4ff7-a191-f898ab5136e8",
+      "title": "Grilled bifsteak in mushroom sauce",
+      "itemDescription": "Grilled bifsteak in mushroom sauce with rice, onion, tomatoes, pepper, and potato (350 g).",
+      "price": 24500
+    },
+    "0709156d-12db-41a4-8302-2fcb4af1427b": {
+      "uuid": "0709156d-12db-41a4-8302-2fcb4af1427b",
+      "title": "Nestea",
+      "itemDescription": "330 мл.",
+      "price": 3300
+    },
+    "40dc64de-c049-40fc-b8d0-11fc6e1d1c24": {
+      "uuid": "40dc64de-c049-40fc-b8d0-11fc6e1d1c24",
+      "title": "Red bean salad",
+      "itemDescription": "Red bean, sun-dried tomatoes, nuts, and corn mixed with fresh spices with pomegranate sauce (220 g).",
+      "price": 11000
+    },
+    "7c66dfe2-46e5-42b9-b756-8eacc7df93f0": {
+      "uuid": "7c66dfe2-46e5-42b9-b756-8eacc7df93f0",
+      "title": "Borjomi",
+      "itemDescription": "330 ml.",
+      "price": 4500
+    },
+    "7a440bcc-f0b2-4784-9186-a9b4ca77a2e4": {
+      "uuid": "7a440bcc-f0b2-4784-9186-a9b4ca77a2e4",
+      "title": "Chicken wings",
+      "itemDescription": "Chicken wings, tomatoes, peppers, rice, fries, and lavash (400 g).",
+      "price": 18000
+    },
+    "c9f4e31b-465c-4560-b6c6-4c1c07bfd5fb": {
+      "uuid": "c9f4e31b-465c-4560-b6c6-4c1c07bfd5fb",
+      "title": "Lamb chop steak",
+      "itemDescription": "Grilled sheep entrecote, fries, tomatoes, and pepper (400 g).",
+      "price": 25500
+    },
+    "ec6eb80f-bacf-451f-8b50-5e6510fd50ac": {
+      "uuid": "ec6eb80f-bacf-451f-8b50-5e6510fd50ac",
+      "title": "Lavash doner",
+      "itemDescription": "Doner meat in lavash with tomatoes, pepper, onion, and potato (200 g).",
+      "price": 11500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a571f7f2-907c-4a79-b191-847f29de71c6"
+    },
+    "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f": {
+      "uuid": "d132fe55-7ba1-408f-b9dd-a65dc6b7e36f",
+      "title": "\"Urfa\" kebab",
+      "itemDescription": "400 g.",
+      "price": 19000
+    },
+    "e58749a2-9d71-4a65-88af-e9aa657915b6": {
+      "uuid": "e58749a2-9d71-4a65-88af-e9aa657915b6",
+      "title": "Lahmacun with veal",
+      "itemDescription": "Veal, tomatoes, and peppers (300 g).",
+      "price": 13500,
+      "customizationUuids": [
+        "3778de5b-271f-4548-98f2-2abd80c26385"
+      ]
+    },
+    "faed8f4d-8216-47cb-bc2d-5857b075baee": {
+      "uuid": "faed8f4d-8216-47cb-bc2d-5857b075baee",
+      "title": "Cheeseburger",
+      "itemDescription": "Veal burger with Cheddar cheese, tomatoes, lettuce, pickles with cocktail sauce served with coleslaw, and French fries.",
+      "price": 14500,
+      "nutritionalInfo": {}
+    },
+    "3395ad15-f75a-4472-8b7d-30e604049cfe": {
+      "uuid": "3395ad15-f75a-4472-8b7d-30e604049cfe",
+      "title": "Barbecue salmon",
+      "itemDescription": "Salmon, grilled vegetables, and lolo rosso (350 g). ",
+      "price": 32000
+    },
+    "4c9b823d-a160-4567-94ad-fc429e053cc9": {
+      "uuid": "4c9b823d-a160-4567-94ad-fc429e053cc9",
+      "title": "Acili ezme",
+      "itemDescription": "Tomatoes, onion, garlic, hot pepper, olive oil, red pepper, parsley, fresh lemon juice, and bell pepper (150 g).",
+      "price": 8000,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "2d53311b-abd3-476e-b163-d4279f32e574": {
+      "uuid": "2d53311b-abd3-476e-b163-d4279f32e574",
+      "title": "Vegan burger",
+      "itemDescription": "Vegan burger cooked with vegetables with Guatemala avocado sauce, tomatoes, cucumbers and rocket served with coleslaw, and French fries.",
+      "price": 15000,
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegan",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "6ef57747-3faa-43ec-bf9b-18646bcd75ca": {
+      "uuid": "6ef57747-3faa-43ec-bf9b-18646bcd75ca",
+      "title": "Grilled meatballs",
+      "itemDescription": "Grilled meatballs with rice (400 g).",
+      "price": 21000
+    },
+    "b6023463-5310-4be0-b824-bb61f51309e4": {
+      "uuid": "b6023463-5310-4be0-b824-bb61f51309e4",
+      "title": "Lahmacun with spinach, and cheese",
+      "itemDescription": "Spinach, white, and Dutch cheese (250 g).",
+      "price": 13500
+    },
+    "00115208-d4e0-4cf3-ab7f-f667f1ec2564": {
+      "uuid": "00115208-d4e0-4cf3-ab7f-f667f1ec2564",
+      "title": "Profiterol",
+      "itemDescription": "150 g.",
+      "price": 11000
+    },
+    "67e85358-57fb-4509-9d3d-3c5bb1649d8b": {
+      "uuid": "67e85358-57fb-4509-9d3d-3c5bb1649d8b",
+      "title": "Chicken coleslaw",
+      "itemDescription": "Chicken burger, coleslaw with Dutch cheese, cucumber, and lettuce served with French fries.",
+      "price": 13500
+    },
+    "718fe555-6365-44a6-a9f2-a203b126d782": {
+      "uuid": "718fe555-6365-44a6-a9f2-a203b126d782",
+      "title": "Lahmacun",
+      "itemDescription": "Minced beef , tomatoes, onions, parsley, and green pepper (150 g).",
+      "price": 7000
+    },
+    "e954c9f6-d0c4-4031-8359-a9f21a2c0c47": {
+      "uuid": "e954c9f6-d0c4-4031-8359-a9f21a2c0c47",
+      "title": "Hummus",
+      "itemDescription": "Chickpeas, Tajin, and olive oil (150 g).",
+      "price": 9500
+    },
+    "a43868c4-745a-44b6-8d25-86bc657b9026": {
+      "uuid": "a43868c4-745a-44b6-8d25-86bc657b9026",
+      "title": "Sirma",
+      "itemDescription": "330  мл.",
+      "price": 4500,
+      "nutritionalInfo": {}
+    },
+    "7fe535dd-1238-4684-8cd3-e0f34aa7641f": {
+      "uuid": "7fe535dd-1238-4684-8cd3-e0f34aa7641f",
+      "title": "Caramelized burger",
+      "itemDescription": "Veal burger filled with cheese and caramelized onion, lettuce, tomatoes, pickles with buffalo sauce served with coleslaw, and French fries.",
+      "price": 15500
+    },
+    "6dc23698-8e8f-4550-921d-dc002ba94250": {
+      "uuid": "6dc23698-8e8f-4550-921d-dc002ba94250",
+      "title": "Beef entrecote",
+      "itemDescription": "Grilled beef entrecote, fries, tomatoes, and pepper (500 g).\n",
+      "price": 29500
+    },
+    "ba385ef7-0e68-459a-8d9f-b6bebcac920f": {
+      "uuid": "ba385ef7-0e68-459a-8d9f-b6bebcac920f",
+      "title": "Fanta",
+      "itemDescription": "250 мл.",
+      "price": 3300
+    },
+    "0bbe4c70-7286-4e80-ad4b-4c3da5dcc5a0": {
+      "uuid": "0bbe4c70-7286-4e80-ad4b-4c3da5dcc5a0",
+      "title": "Mojito",
+      "itemDescription": "300 мл.",
+      "price": 7500,
+      "nutritionalInfo": {}
+    },
+    "683dfbf0-ce98-436e-b4cd-5acf7ba61b37": {
+      "uuid": "683dfbf0-ce98-436e-b4cd-5acf7ba61b37",
+      "title": "Portion doner",
+      "itemDescription": "Doner meat in lavash with tomatoes, and pepper (250 g).",
+      "price": 14000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f809597-26fa-4c04-a937-10e6039e69f9"
+    },
+    "48d33fe4-8b42-42d5-a096-4fcb26e0b287": {
+      "uuid": "48d33fe4-8b42-42d5-a096-4fcb26e0b287",
+      "title": "Coca Cola",
+      "itemDescription": "250 ml.",
+      "price": 3300
+    },
+    "c8dd1d9f-d426-4745-91b4-89c5d4365c8e": {
+      "uuid": "c8dd1d9f-d426-4745-91b4-89c5d4365c8e",
+      "title": "\"Gavurdagi\" salad",
+      "itemDescription": "Tomatoes, onions, pomegranate sauce, olive oil, walnuts, and parsley (220 g).",
+      "price": 10500
+    },
+    "a37dca48-00d5-47a7-8f78-7f2ea56fe520": {
+      "uuid": "a37dca48-00d5-47a7-8f78-7f2ea56fe520",
+      "title": "Juices",
+      "itemDescription": "250 ml.",
+      "price": 5500,
+      "customizationUuids": [
+        "f6abbc49-1c46-4ca6-ac12-86ff0a048c1c"
+      ]
+    },
+    "0d19362c-58b5-4153-b17b-8b04da411a5a": {
+      "uuid": "0d19362c-58b5-4153-b17b-8b04da411a5a",
+      "title": "Skewers of lamb lung",
+      "itemDescription": "Lamb lungs, kurdjuk, bulgur, onions, tomatoes, peppers, and pita (400 g).",
+      "price": 18000
+    },
+    "ce45c627-239b-43a2-8dc3-8452e130eded": {
+      "uuid": "ce45c627-239b-43a2-8dc3-8452e130eded",
+      "title": "Meat doner salad",
+      "itemDescription": "Fried meat with mushrooms in the greenery with onion, Dutch cheese, and balsamic sauce (220 g).",
+      "price": 11000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/61a82e75-ad6a-4993-919f-a7c99ba701cc"
+    },
+    "12aa2432-0499-44c1-8523-77020828b626": {
+      "uuid": "12aa2432-0499-44c1-8523-77020828b626",
+      "title": "Red Bull",
+      "itemDescription": "250 ml.",
+      "price": 5500,
+      "suspendUntil": 8640000000
+    },
+    "1f7047a4-18f9-40ce-a7be-82e0a8d2c13f": {
+      "uuid": "1f7047a4-18f9-40ce-a7be-82e0a8d2c13f",
+      "title": "Doner burger",
+      "itemDescription": "Veal burger with doner, tomatoes, lettuce, pickles with cocktail sauce served with coleslaw, and French fries.",
+      "price": 17500,
+      "nutritionalInfo": {}
+    },
+    "dce95fbb-3456-4e4c-9469-22745ae2881d": {
+      "uuid": "dce95fbb-3456-4e4c-9469-22745ae2881d",
+      "title": "Eggplant appetizer \"Mutabal\"",
+      "itemDescription": "Fried eggplant, garlic, yogurt, and olive oil (150 g).",
+      "price": 9000
+    },
+    "ba4d4b97-5b28-43fb-9ffa-a8ad94731928": {
+      "uuid": "ba4d4b97-5b28-43fb-9ffa-a8ad94731928",
+      "title": "Grilled chicken",
+      "itemDescription": "Grilled chicken with pilaf, onion, tomatoes, pepper, and potato (400 g).",
+      "price": 20000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e52ed54-7c10-4fae-8486-0099f9b44b9d"
+    },
+    "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347": {
+      "uuid": "46a1cb1c-5dfb-45e4-9239-ea7f7ae82347",
+      "title": "Soda",
+      "itemDescription": "200 мл.",
+      "price": 2900
+    },
+    "80f013e1-b908-4d74-a7e2-33cd912efd89": {
+      "uuid": "80f013e1-b908-4d74-a7e2-33cd912efd89",
+      "title": "Tomato soup",
+      "itemDescription": "250 g.",
+      "price": 6500,
+      "suspendUntil": 8640000000
+    },
+    "ecf7d933-b62c-4b96-afa0-1dece573c60f": {
+      "uuid": "ecf7d933-b62c-4b96-afa0-1dece573c60f",
+      "title": "Haidari",
+      "itemDescription": "Yogurt, mint, dill, garlic, and olive oil (120 g).",
+      "price": 8000
+    },
+    "01968b00-9f41-47a5-9f87-36ff3db7978f": {
+      "uuid": "01968b00-9f41-47a5-9f87-36ff3db7978f",
+      "title": "Airan",
+      "itemDescription": "250 мл.",
+      "price": 3000
+    },
+    "cfb96823-53c6-4bf0-b83e-ca63db4e3939": {
+      "uuid": "cfb96823-53c6-4bf0-b83e-ca63db4e3939",
+      "title": "Baklava with pistachios",
+      "itemDescription": "150 g.",
+      "price": 14000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d6047a1-d6cd-4377-9a64-f0da1fc27109",
+      "nutritionalInfo": {}
+    },
+    "4367375e-62da-4577-8e26-8c88b58c7b23": {
+      "uuid": "4367375e-62da-4577-8e26-8c88b58c7b23",
+      "title": "Choban salad",
+      "itemDescription": "Tomatoes, cucumbers, onions, green pepper, parsley, olive oil, and lemon sauce (220 g).",
+      "price": 8000
+    },
+    "75389f07-9201-42a4-bb3f-67b79822c7ec": {
+      "uuid": "75389f07-9201-42a4-bb3f-67b79822c7ec",
+      "title": "Chicken BBQ",
+      "itemDescription": "400 g.",
+      "price": 17500
+    },
+    "c1d9585c-6c24-42cd-b236-eacf2b3904e0": {
+      "uuid": "c1d9585c-6c24-42cd-b236-eacf2b3904e0",
+      "title": "\"Adana\" kebab",
+      "itemDescription": "400 g.",
+      "price": 19000
+    },
+    "1b21dbdd-01e7-4bf7-aae0-da2f5830c19a": {
+      "uuid": "1b21dbdd-01e7-4bf7-aae0-da2f5830c19a",
+      "title": "Lentil soup",
+      "itemDescription": "250 g.",
+      "price": 6500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f82833c3-2d0c-4cea-a18f-7bb0e8c1ca44"
+    },
+    "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634": {
+      "uuid": "2bbc824e-5e42-48b3-8bf3-c6fbbab4b634",
+      "title": "Doner with rice",
+      "itemDescription": "Doner meat with rice, tomatoes, and pepper (300 g).\n",
+      "price": 17000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a72be61d-5bfb-4e72-b3b5-8ee3d40920b6"
+    },
+    "de914251-a526-48e8-9f4b-227bb0d0318a": {
+      "uuid": "de914251-a526-48e8-9f4b-227bb0d0318a",
+      "title": "Istanbul burger",
+      "itemDescription": "Veal burger with red bean and sausage paste, Dutch cheese, onion rings, tomatoes, lettuce served with coleslaw and French fries, and ranch sauce.",
+      "price": 18500
+    },
+    "eaa7aa00-7364-40f7-9f6c-4646c1fc69c0": {
+      "uuid": "eaa7aa00-7364-40f7-9f6c-4646c1fc69c0",
+      "title": "Diet chicken salad",
+      "itemDescription": "Grilled chicken pieces with mix of salads, tomatoes, and cucumbers with pomegranate sauce (220 g).",
+      "price": 11500
+    },
+    "e005ebbe-66e5-4d2a-9f59-eadb0ab03b6d": {
+      "uuid": "e005ebbe-66e5-4d2a-9f59-eadb0ab03b6d",
+      "title": "Lemonade \"Natakhtari\"",
+      "itemDescription": "500 ml.",
+      "price": 6000,
+      "customizationUuids": [
+        "56c98264-8121-40ae-8df1-9f64d1e9f273"
+      ]
+    },
+    "517ac50b-fea8-4391-b232-18d5c9b64f40": {
+      "uuid": "517ac50b-fea8-4391-b232-18d5c9b64f40",
+      "title": "Beef tenderloin in mushroom sauce",
+      "itemDescription": "Veal with grilled vegetables in mushroom sauce (400 g).",
+      "price": 28500
+    },
+    "77755866-54b0-4517-ad7d-86b556fa2510": {
+      "uuid": "77755866-54b0-4517-ad7d-86b556fa2510",
+      "title": "Red Bull (sugar free)",
+      "itemDescription": "250 мл.",
+      "price": 5500,
+      "suspendUntil": 8640000000
+    },
+    "278f95fa-8393-4a1d-ae62-2908282de426": {
+      "uuid": "278f95fa-8393-4a1d-ae62-2908282de426",
+      "title": "Lamb on skewers",
+      "itemDescription": "Lamb, bulgur, onion, tomato, pepper, and pita (500 g).",
+      "price": 23000
+    },
+    "93b318f7-5ee4-467c-8e94-5ab25bb57e34": {
+      "uuid": "93b318f7-5ee4-467c-8e94-5ab25bb57e34",
+      "title": "Pide with veal and cheese",
+      "itemDescription": "",
+      "price": 12500
+    },
+    "2efdfdc8-02a3-4882-befc-9dccde85d9e0": {
+      "uuid": "2efdfdc8-02a3-4882-befc-9dccde85d9e0",
+      "title": "Sekerpare",
+      "itemDescription": "150 g.",
+      "price": 9500,
+      "nutritionalInfo": {}
+    },
+    "2200d3fe-cebf-489b-b036-2a7b44dbc5ed": {
+      "uuid": "2200d3fe-cebf-489b-b036-2a7b44dbc5ed",
+      "title": "Lahmacun with minced beef",
+      "itemDescription": "Minced beef, tomatoes, onions, parsley, and green pepper (300 g).",
+      "price": 12000,
+      "customizationUuids": [
+        "3778de5b-271f-4548-98f2-2abd80c26385"
+      ]
+    },
+    "ccdca88f-7ce6-4fe9-99e8-931e3cf54941": {
+      "uuid": "ccdca88f-7ce6-4fe9-99e8-931e3cf54941",
+      "title": "Doner soup",
+      "itemDescription": "250 g.",
+      "price": 7500
+    },
+    "226c6cfe-a0de-4940-8608-3f886f937e7b": {
+      "uuid": "226c6cfe-a0de-4940-8608-3f886f937e7b",
+      "title": "Mexican burger",
+      "itemDescription": "Veal burger with basturma, jalapenos, Cheddar cheese, lettuce, tomatoes and pickles with BBQ sauce served with coleslaw, and French fries.",
+      "price": 19500,
+      "nutritionalInfo": {}
+    }
+  }
 }

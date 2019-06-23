@@ -15,494 +15,87 @@
   ],
   "sections": [
     {
-      "uuid": "f27c76de-d59e-4097-befe-00f42ceb0cea",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "11:00 AM – 9:45 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "74ce9666-0a78-44f1-bbf8-04fda84ca734",
-        "cdd7c37f-bd9b-40c4-a005-5711b6e88bdd",
-        "85d9bbfe-607d-416e-b900-05326f44747a",
-        "f7aff73e-48cc-4276-97a3-f89e6c70ef39",
-        "d4e57789-6923-48cd-b009-2afd6c4e8733",
-        "557332a9-1b5a-4e0a-8287-15ed28232c80",
-        "987a62fb-209a-41ab-8306-5b27165e4f51"
+      "uuid": "74ce9666-0a78-44f1-bbf8-04fda84ca734",
+      "title": "Noodles",
+      "subtitle": "",
+      "itemUuids": [
+        "4f757926-8c80-4b76-bebb-2b47f1cef817",
+        "88f360ec-faee-4154-9fe6-85f00117080d",
+        "b94f1f8f-32dc-4745-9ad2-91bf02593e90",
+        "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44"
+      ]
+    },
+    {
+      "uuid": "cdd7c37f-bd9b-40c4-a005-5711b6e88bdd",
+      "title": "Rice",
+      "subtitle": "",
+      "itemUuids": [
+        "2a2cba90-4486-42ef-a94c-7bc7464004ef",
+        "1d9b4657-6408-415a-a341-0725de6b032d",
+        "4b8d10cf-1fe8-4347-a5fc-13b196982fb2",
+        "e94ddc96-fc8d-4210-991d-9d49effe959e",
+        "fa3351fd-3c57-4b7b-b13d-22f7c95fc1bc"
+      ]
+    },
+    {
+      "uuid": "85d9bbfe-607d-416e-b900-05326f44747a",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "83d2c4de-4071-4d99-85b6-11c0eb5a35a1",
+        "52f7b312-67f9-4bbc-a3b4-ffca529977db",
+        "07b89ff6-7bb1-46d4-a1e1-1799766b094c",
+        "c42b2914-50de-485c-abc6-e3b6ce308c02",
+        "0c1749a9-18a1-4cb2-9f80-e07795eeddee"
+      ]
+    },
+    {
+      "uuid": "f7aff73e-48cc-4276-97a3-f89e6c70ef39",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "21ab466a-3fdf-452d-a57b-f75d3ff9d4fd",
+        "9f5c5c75-ab8d-4e7b-ac3e-44395aa25f01",
+        "08974e6c-21a4-48e4-a2dd-156545ea8a96"
+      ]
+    },
+    {
+      "uuid": "d4e57789-6923-48cd-b009-2afd6c4e8733",
+      "title": "Dim sum",
+      "subtitle": "",
+      "itemUuids": [
+        "89c83085-f2db-40d5-9bb5-2a2411efd304",
+        "2d14b864-b893-4fb7-8759-7583ef41f202",
+        "1e859fa5-8a24-497a-b6c0-0df12efeb047",
+        "951fd935-5c62-43de-8248-464c4a21a68c",
+        "143fc93f-12f5-4cd8-9520-0d031a630ed8",
+        "a65a82e4-79bc-46e8-86da-585bd2333c10",
+        "c77365bf-5691-4930-8d3f-0722f2f828e7"
+      ]
+    },
+    {
+      "uuid": "557332a9-1b5a-4e0a-8287-15ed28232c80",
+      "title": "Bao",
+      "subtitle": "",
+      "itemUuids": [
+        "32f7d6c7-d2d7-450c-874d-320380b96487",
+        "15b8809d-322e-4d1b-9e83-502e915c5307",
+        "ac6c117c-1771-48b4-846f-8e17c1a21b70",
+        "1d0f0a50-0d31-4b67-bd1b-57b53aeb5275",
+        "6f1140db-ad36-45f3-aaf4-777dd269531f"
+      ]
+    },
+    {
+      "uuid": "987a62fb-209a-41ab-8306-5b27165e4f51",
+      "title": "Desserts",
+      "subtitle": "",
+      "itemUuids": [
+        "e32e2106-79e5-4fac-a18e-b70032e1af89",
+        "42faa754-5612-4a29-a4db-479fd4650ba2",
+        "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "f27c76de-d59e-4097-befe-00f42ceb0cea": {
-      "itemsMap": {
-        "e32e2106-79e5-4fac-a18e-b70032e1af89": {
-          "uuid": "e32e2106-79e5-4fac-a18e-b70032e1af89",
-          "title": "Coconut cake",
-          "itemDescription": "160g.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e55baa12-4b6c-4d15-888c-f9faa8c51faf",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1e859fa5-8a24-497a-b6c0-0df12efeb047": {
-          "uuid": "1e859fa5-8a24-497a-b6c0-0df12efeb047",
-          "title": "Dim sum with chicken and prawn",
-          "itemDescription": "Shrimps, and canned bamboo (190g).",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fb56e15-bd09-4f43-972f-c8f9ce39967c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4f757926-8c80-4b76-bebb-2b47f1cef817": {
-          "uuid": "4f757926-8c80-4b76-bebb-2b47f1cef817",
-          "title": "Udon with beef",
-          "itemDescription": "Beef, noodles, garlic, green onions, sesame seeds, red onions, kidney beans, sweet peppers, carrots, and sauce (300g).",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d32cc33c-577c-4740-81fd-650d7e9ce4be",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e94ddc96-fc8d-4210-991d-9d49effe959e": {
-          "uuid": "e94ddc96-fc8d-4210-991d-9d49effe959e",
-          "title": "Fried rice with ginger and vegetables",
-          "itemDescription": "Jasmine rice, broccoli, tofu cheese, oyster mushrooms, carrots, leeks, garlic, ginger, chili peppers, coriander, egg, lemon fresh, and sauce (280g).\n",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/525752c2-0904-4529-8dd0-f16996d9e310",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fa3351fd-3c57-4b7b-b13d-22f7c95fc1bc": {
-          "uuid": "fa3351fd-3c57-4b7b-b13d-22f7c95fc1bc",
-          "title": "Teriyaki chicken on steamy rice",
-          "itemDescription": "Rice \"Jasmine\", chicken, green onion, garlic, ginger, cucumbers, \"Teriyaki\" sauce (330g).",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/90ba2bc5-9b90-47e2-9bd6-201da82f7d0c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1d0f0a50-0d31-4b67-bd1b-57b53aeb5275": {
-          "uuid": "1d0f0a50-0d31-4b67-bd1b-57b53aeb5275",
-          "title": "Bao Chicken BBQ",
-          "itemDescription": "Ban Bao, and chicken (130g).",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d3bc97c5-d9be-4906-85ff-d5a91df2a291",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a65a82e4-79bc-46e8-86da-585bd2333c10": {
-          "uuid": "a65a82e4-79bc-46e8-86da-585bd2333c10",
-          "title": "Fried spring rolls with mushrooms",
-          "itemDescription": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (180g).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/978a13c7-d46d-413a-a8c1-66fa95630bcf",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9f5c5c75-ab8d-4e7b-ac3e-44395aa25f01": {
-          "uuid": "9f5c5c75-ab8d-4e7b-ac3e-44395aa25f01",
-          "title": "Warm salad with seafood NEW",
-          "itemDescription": "Mussels, prawns, octopus, squid, lollo bionda salad, cucumbers, tomatoes, garlic, rice, Blue Curaçao liqueur, leeks, mint, and Thai sauce (270g).",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf7cc854-8d2a-4223-829f-a8c4cc830dc3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0c1749a9-18a1-4cb2-9f80-e07795eeddee": {
-          "uuid": "0c1749a9-18a1-4cb2-9f80-e07795eeddee",
-          "title": "Tom Yum with shrimps",
-          "itemDescription": "Tom Yum broth, prawns, oyster mushrooms, tomatoes, coriander, ginger (450g).",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f17477a-029c-4783-aeb7-230fdf448a50",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "32f7d6c7-d2d7-450c-874d-320380b96487": {
-          "uuid": "32f7d6c7-d2d7-450c-874d-320380b96487",
-          "title": "Bao burger with chicken",
-          "itemDescription": "Banh bao, tomatoes, cucumbers, lollo bionda salad, tofu cheese, curry paste, sesame sauce, and soy sauce (205g).",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d86042a-902d-4c3d-ba51-d8f81441370a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ac6c117c-1771-48b4-846f-8e17c1a21b70": {
-          "uuid": "ac6c117c-1771-48b4-846f-8e17c1a21b70",
-          "title": "Bao with pork BBQ",
-          "itemDescription": "Ban Bao, and pork (130g).",
-          "price": 5900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "21ab466a-3fdf-452d-a57b-f75d3ff9d4fd": {
-          "uuid": "21ab466a-3fdf-452d-a57b-f75d3ff9d4fd",
-          "title": "Peking salad with duck and plum sauce",
-          "itemDescription": "duck, celery, grapefruits, peanuts, lollo bionda salad, plum sauce (140g).",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/449ba548-0fe0-4cb9-ac9e-a82ff9849b84",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "08974e6c-21a4-48e4-a2dd-156545ea8a96": {
-          "uuid": "08974e6c-21a4-48e4-a2dd-156545ea8a96",
-          "title": "Salad with tofu cheese and vegetables",
-          "itemDescription": "Fried tofu cheese, tomatoes, cucumbers, lollo bionda salad, sweet peppers, basil, mint, coriander, chili peppers, and nuts and coconut sauce (185g).",
-          "price": 8500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a253d0a-9627-4edb-bd44-a3db3b8af8b8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3": {
-          "uuid": "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3",
-          "title": "Cheesecake",
-          "itemDescription": "140g.",
-          "price": 6900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "143fc93f-12f5-4cd8-9520-0d031a630ed8": {
-          "uuid": "143fc93f-12f5-4cd8-9520-0d031a630ed8",
-          "title": "Fried spring rolls with chicken",
-          "itemDescription": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (240g).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/114425c2-2bb3-4668-b935-fe58ce26b10d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1d9b4657-6408-415a-a341-0725de6b032d": {
-          "uuid": "1d9b4657-6408-415a-a341-0725de6b032d",
-          "title": "Fried rice with chicken",
-          "itemDescription": "Jasmine rice, chicken, carrots, leeks, egg, soybean sprouts, green onions, sesame, and sauce (300g).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8838c59-e3aa-40f7-9ad8-c73d76eb6d88",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "951fd935-5c62-43de-8248-464c4a21a68c": {
-          "uuid": "951fd935-5c62-43de-8248-464c4a21a68c",
-          "title": "Dim sum with spinach and tofu",
-          "itemDescription": "Spinach, tofu cheese, and corn (190g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8e13c43-de13-4ded-9cfe-a557a7c4ff0b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "52f7b312-67f9-4bbc-a3b4-ffca529977db": {
-          "uuid": "52f7b312-67f9-4bbc-a3b4-ffca529977db",
-          "title": "Ramen with duck",
-          "itemDescription": "Ramen broth, duck, soybean sprouts, leeks, carrots, nori, egg, onions, egg noodles (450g).\n",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/59a47446-b1af-4f9d-8c1c-074f6604bda9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c42b2914-50de-485c-abc6-e3b6ce308c02": {
-          "uuid": "c42b2914-50de-485c-abc6-e3b6ce308c02",
-          "title": "Tom Yum with chicken",
-          "itemDescription": "Tom Yum broth, chicken, oyster mushrooms, tomatoes, leeks, ginger, coriander (450g).",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fee5b24b-695d-40f3-86b9-b538f2718bdb",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6f1140db-ad36-45f3-aaf4-777dd269531f": {
-          "uuid": "6f1140db-ad36-45f3-aaf4-777dd269531f",
-          "title": "Banh Bao",
-          "itemDescription": "Yeast dough steamed bun cooked in bamboo steamer according to ancient traditions (90g).",
-          "price": 1700,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a6e1728-0f1e-4780-954a-6e59ee001b11",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4b8d10cf-1fe8-4347-a5fc-13b196982fb2": {
-          "uuid": "4b8d10cf-1fe8-4347-a5fc-13b196982fb2",
-          "title": "Fried rice with seafood",
-          "itemDescription": "Jasmine rice, octopus, squids, mussels, prawns, ginger, kidney beans, coriander, lemon fresh, chili peppers, soybean sprouts, leeks, sauce (260g).\n",
-          "price": 16500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1af30dc-4079-45fb-be6c-4f4909ca73bf",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2d14b864-b893-4fb7-8759-7583ef41f202": {
-          "uuid": "2d14b864-b893-4fb7-8759-7583ef41f202",
-          "title": "Dim sum with chicken, and vegetables",
-          "itemDescription": "Chicken, carrots, oyster mushrooms, zucchini, and corn (190g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0ee2d68-63d9-446d-8e56-ac1e918e709b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "89c83085-f2db-40d5-9bb5-2a2411efd304": {
-          "uuid": "89c83085-f2db-40d5-9bb5-2a2411efd304",
-          "title": "Dim sum assorted",
-          "itemDescription": "210g.",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/310173ef-dc3a-4e92-a9f8-4f3e1abe4ca2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "88f360ec-faee-4154-9fe6-85f00117080d": {
-          "uuid": "88f360ec-faee-4154-9fe6-85f00117080d",
-          "title": "Cellophane noodles with chicken",
-          "itemDescription": "Cellophane noodles, chicken, egg, coriander, ginger, sesame, napa (Korean) cabbages, carrots, red onions, celery, and sauce (300g).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cf9f3ad-f16d-44f5-a888-c6e979462937",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "83d2c4de-4071-4d99-85b6-11c0eb5a35a1": {
-          "uuid": "83d2c4de-4071-4d99-85b6-11c0eb5a35a1",
-          "title": "Miso soup",
-          "itemDescription": "Miso broth, tofu cheese, sesame, and ginger (450g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/562da0de-fe53-4236-9885-e0808d31aeef",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c77365bf-5691-4930-8d3f-0722f2f828e7": {
-          "uuid": "c77365bf-5691-4930-8d3f-0722f2f828e7",
-          "title": "Fried wontons with chicken NEW",
-          "itemDescription": "Chicken, shiitake mushrooms, cabbages, leeks, and garlic (160g).",
-          "price": 7900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "42faa754-5612-4a29-a4db-479fd4650ba2": {
-          "uuid": "42faa754-5612-4a29-a4db-479fd4650ba2",
-          "title": "Jasmine cake with matcha tea",
-          "itemDescription": "135g.",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/35067fc4-4789-46fd-8311-c83fae3f2e3f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "15b8809d-322e-4d1b-9e83-502e915c5307": {
-          "uuid": "15b8809d-322e-4d1b-9e83-502e915c5307",
-          "title": "Bao burger with tofu, and vegetables",
-          "itemDescription": "Ban Bao, tomatoes, cucumbers, Lolo Bondo salad, fried tofu cheese, curry paste, soy sauce, and sesame sauce (200g).",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff0c087a-9a56-4ff4-9c2b-668f0436ff07",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2a2cba90-4486-42ef-a94c-7bc7464004ef": {
-          "uuid": "2a2cba90-4486-42ef-a94c-7bc7464004ef",
-          "title": "Fried rice with pork BBQ",
-          "itemDescription": "Jasmine rice, pork, garlic, chili peppers, carrots, leeks, egg, lemon fresh, coriander, and sauce (280g).\n",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6801266d-b7a2-413c-a57d-ce4dab9321fc",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44": {
-          "uuid": "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44",
-          "title": "Pad Thai with vegetables",
-          "itemDescription": "Rice noodles, oyster mushrooms, leeks, tofu cheese, egg, peanuts, soybean sprouts, carrots, and sauce (300g).",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6f8822f-1db0-4d82-bdf0-43511cc5b78f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b94f1f8f-32dc-4745-9ad2-91bf02593e90": {
-          "uuid": "b94f1f8f-32dc-4745-9ad2-91bf02593e90",
-          "title": "Pad Thai with chicken",
-          "itemDescription": "Rice noodles, chicken, egg, soybean sprouts, lemons, coriander, leeks, peanuts, sauce (300g).\n",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/30d8abcf-f86e-4315-ba65-9781c68fb13b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "07b89ff6-7bb1-46d4-a1e1-1799766b094c": {
-          "uuid": "07b89ff6-7bb1-46d4-a1e1-1799766b094c",
-          "title": "Ramen with pork",
-          "itemDescription": "Ramen broth, pork, soybean sprouts, leeks, carrots, nori, egg, egg noodles, coriander (450g).",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e158aeb-c187-4859-a70d-e1a0dcf5baed",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "74ce9666-0a78-44f1-bbf8-04fda84ca734",
-          "title": "Noodles",
-          "subtitle": "",
-          "itemUuids": [
-            "4f757926-8c80-4b76-bebb-2b47f1cef817",
-            "88f360ec-faee-4154-9fe6-85f00117080d",
-            "b94f1f8f-32dc-4745-9ad2-91bf02593e90",
-            "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44"
-          ]
-        },
-        {
-          "uuid": "cdd7c37f-bd9b-40c4-a005-5711b6e88bdd",
-          "title": "Rice",
-          "subtitle": "",
-          "itemUuids": [
-            "2a2cba90-4486-42ef-a94c-7bc7464004ef",
-            "1d9b4657-6408-415a-a341-0725de6b032d",
-            "4b8d10cf-1fe8-4347-a5fc-13b196982fb2",
-            "e94ddc96-fc8d-4210-991d-9d49effe959e",
-            "fa3351fd-3c57-4b7b-b13d-22f7c95fc1bc"
-          ]
-        },
-        {
-          "uuid": "85d9bbfe-607d-416e-b900-05326f44747a",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "83d2c4de-4071-4d99-85b6-11c0eb5a35a1",
-            "52f7b312-67f9-4bbc-a3b4-ffca529977db",
-            "07b89ff6-7bb1-46d4-a1e1-1799766b094c",
-            "c42b2914-50de-485c-abc6-e3b6ce308c02",
-            "0c1749a9-18a1-4cb2-9f80-e07795eeddee"
-          ]
-        },
-        {
-          "uuid": "f7aff73e-48cc-4276-97a3-f89e6c70ef39",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "21ab466a-3fdf-452d-a57b-f75d3ff9d4fd",
-            "9f5c5c75-ab8d-4e7b-ac3e-44395aa25f01",
-            "08974e6c-21a4-48e4-a2dd-156545ea8a96"
-          ]
-        },
-        {
-          "uuid": "d4e57789-6923-48cd-b009-2afd6c4e8733",
-          "title": "Dim sum",
-          "subtitle": "",
-          "itemUuids": [
-            "89c83085-f2db-40d5-9bb5-2a2411efd304",
-            "2d14b864-b893-4fb7-8759-7583ef41f202",
-            "1e859fa5-8a24-497a-b6c0-0df12efeb047",
-            "951fd935-5c62-43de-8248-464c4a21a68c",
-            "143fc93f-12f5-4cd8-9520-0d031a630ed8",
-            "a65a82e4-79bc-46e8-86da-585bd2333c10",
-            "c77365bf-5691-4930-8d3f-0722f2f828e7"
-          ]
-        },
-        {
-          "uuid": "557332a9-1b5a-4e0a-8287-15ed28232c80",
-          "title": "Bao",
-          "subtitle": "",
-          "itemUuids": [
-            "32f7d6c7-d2d7-450c-874d-320380b96487",
-            "15b8809d-322e-4d1b-9e83-502e915c5307",
-            "ac6c117c-1771-48b4-846f-8e17c1a21b70",
-            "1d0f0a50-0d31-4b67-bd1b-57b53aeb5275",
-            "6f1140db-ad36-45f3-aaf4-777dd269531f"
-          ]
-        },
-        {
-          "uuid": "987a62fb-209a-41ab-8306-5b27165e4f51",
-          "title": "Desserts",
-          "subtitle": "",
-          "itemUuids": [
-            "e32e2106-79e5-4fac-a18e-b70032e1af89",
-            "42faa754-5612-4a29-a4db-479fd4650ba2",
-            "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4391605,
     "longitude": 30.5171764,
@@ -542,5 +135,391 @@
     "storeRatingScore": 4.715773809523809,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/bec69c7d-acef-4362-ab88-b087721305bd"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/bec69c7d-acef-4362-ab88-b087721305bd",
+  "items": {
+    "e32e2106-79e5-4fac-a18e-b70032e1af89": {
+      "uuid": "e32e2106-79e5-4fac-a18e-b70032e1af89",
+      "title": "Coconut cake",
+      "itemDescription": "160g.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e55baa12-4b6c-4d15-888c-f9faa8c51faf",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1e859fa5-8a24-497a-b6c0-0df12efeb047": {
+      "uuid": "1e859fa5-8a24-497a-b6c0-0df12efeb047",
+      "title": "Dim sum with chicken and prawn",
+      "itemDescription": "Shrimps, and canned bamboo (190g).",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fb56e15-bd09-4f43-972f-c8f9ce39967c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4f757926-8c80-4b76-bebb-2b47f1cef817": {
+      "uuid": "4f757926-8c80-4b76-bebb-2b47f1cef817",
+      "title": "Udon with beef",
+      "itemDescription": "Beef, noodles, garlic, green onions, sesame seeds, red onions, kidney beans, sweet peppers, carrots, and sauce (300g).",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d32cc33c-577c-4740-81fd-650d7e9ce4be",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e94ddc96-fc8d-4210-991d-9d49effe959e": {
+      "uuid": "e94ddc96-fc8d-4210-991d-9d49effe959e",
+      "title": "Fried rice with ginger and vegetables",
+      "itemDescription": "Jasmine rice, broccoli, tofu cheese, oyster mushrooms, carrots, leeks, garlic, ginger, chili peppers, coriander, egg, lemon fresh, and sauce (280g).\n",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/525752c2-0904-4529-8dd0-f16996d9e310",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fa3351fd-3c57-4b7b-b13d-22f7c95fc1bc": {
+      "uuid": "fa3351fd-3c57-4b7b-b13d-22f7c95fc1bc",
+      "title": "Teriyaki chicken on steamy rice",
+      "itemDescription": "Rice \"Jasmine\", chicken, green onion, garlic, ginger, cucumbers, \"Teriyaki\" sauce (330g).",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/90ba2bc5-9b90-47e2-9bd6-201da82f7d0c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1d0f0a50-0d31-4b67-bd1b-57b53aeb5275": {
+      "uuid": "1d0f0a50-0d31-4b67-bd1b-57b53aeb5275",
+      "title": "Bao Chicken BBQ",
+      "itemDescription": "Ban Bao, and chicken (130g).",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d3bc97c5-d9be-4906-85ff-d5a91df2a291",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a65a82e4-79bc-46e8-86da-585bd2333c10": {
+      "uuid": "a65a82e4-79bc-46e8-86da-585bd2333c10",
+      "title": "Fried spring rolls with mushrooms",
+      "itemDescription": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (180g).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/978a13c7-d46d-413a-a8c1-66fa95630bcf",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9f5c5c75-ab8d-4e7b-ac3e-44395aa25f01": {
+      "uuid": "9f5c5c75-ab8d-4e7b-ac3e-44395aa25f01",
+      "title": "Warm salad with seafood NEW",
+      "itemDescription": "Mussels, prawns, octopus, squid, lollo bionda salad, cucumbers, tomatoes, garlic, rice, Blue Curaçao liqueur, leeks, mint, and Thai sauce (270g).",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf7cc854-8d2a-4223-829f-a8c4cc830dc3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0c1749a9-18a1-4cb2-9f80-e07795eeddee": {
+      "uuid": "0c1749a9-18a1-4cb2-9f80-e07795eeddee",
+      "title": "Tom Yum with shrimps",
+      "itemDescription": "Tom Yum broth, prawns, oyster mushrooms, tomatoes, coriander, ginger (450g).",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f17477a-029c-4783-aeb7-230fdf448a50",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "32f7d6c7-d2d7-450c-874d-320380b96487": {
+      "uuid": "32f7d6c7-d2d7-450c-874d-320380b96487",
+      "title": "Bao burger with chicken",
+      "itemDescription": "Banh bao, tomatoes, cucumbers, lollo bionda salad, tofu cheese, curry paste, sesame sauce, and soy sauce (205g).",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d86042a-902d-4c3d-ba51-d8f81441370a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ac6c117c-1771-48b4-846f-8e17c1a21b70": {
+      "uuid": "ac6c117c-1771-48b4-846f-8e17c1a21b70",
+      "title": "Bao with pork BBQ",
+      "itemDescription": "Ban Bao, and pork (130g).",
+      "price": 5900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "21ab466a-3fdf-452d-a57b-f75d3ff9d4fd": {
+      "uuid": "21ab466a-3fdf-452d-a57b-f75d3ff9d4fd",
+      "title": "Peking salad with duck and plum sauce",
+      "itemDescription": "duck, celery, grapefruits, peanuts, lollo bionda salad, plum sauce (140g).",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/449ba548-0fe0-4cb9-ac9e-a82ff9849b84",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "08974e6c-21a4-48e4-a2dd-156545ea8a96": {
+      "uuid": "08974e6c-21a4-48e4-a2dd-156545ea8a96",
+      "title": "Salad with tofu cheese and vegetables",
+      "itemDescription": "Fried tofu cheese, tomatoes, cucumbers, lollo bionda salad, sweet peppers, basil, mint, coriander, chili peppers, and nuts and coconut sauce (185g).",
+      "price": 8500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a253d0a-9627-4edb-bd44-a3db3b8af8b8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3": {
+      "uuid": "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3",
+      "title": "Cheesecake",
+      "itemDescription": "140g.",
+      "price": 6900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "143fc93f-12f5-4cd8-9520-0d031a630ed8": {
+      "uuid": "143fc93f-12f5-4cd8-9520-0d031a630ed8",
+      "title": "Fried spring rolls with chicken",
+      "itemDescription": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (240g).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/114425c2-2bb3-4668-b935-fe58ce26b10d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1d9b4657-6408-415a-a341-0725de6b032d": {
+      "uuid": "1d9b4657-6408-415a-a341-0725de6b032d",
+      "title": "Fried rice with chicken",
+      "itemDescription": "Jasmine rice, chicken, carrots, leeks, egg, soybean sprouts, green onions, sesame, and sauce (300g).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8838c59-e3aa-40f7-9ad8-c73d76eb6d88",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "951fd935-5c62-43de-8248-464c4a21a68c": {
+      "uuid": "951fd935-5c62-43de-8248-464c4a21a68c",
+      "title": "Dim sum with spinach and tofu",
+      "itemDescription": "Spinach, tofu cheese, and corn (190g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8e13c43-de13-4ded-9cfe-a557a7c4ff0b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "52f7b312-67f9-4bbc-a3b4-ffca529977db": {
+      "uuid": "52f7b312-67f9-4bbc-a3b4-ffca529977db",
+      "title": "Ramen with duck",
+      "itemDescription": "Ramen broth, duck, soybean sprouts, leeks, carrots, nori, egg, onions, egg noodles (450g).\n",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/59a47446-b1af-4f9d-8c1c-074f6604bda9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c42b2914-50de-485c-abc6-e3b6ce308c02": {
+      "uuid": "c42b2914-50de-485c-abc6-e3b6ce308c02",
+      "title": "Tom Yum with chicken",
+      "itemDescription": "Tom Yum broth, chicken, oyster mushrooms, tomatoes, leeks, ginger, coriander (450g).",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fee5b24b-695d-40f3-86b9-b538f2718bdb",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6f1140db-ad36-45f3-aaf4-777dd269531f": {
+      "uuid": "6f1140db-ad36-45f3-aaf4-777dd269531f",
+      "title": "Banh Bao",
+      "itemDescription": "Yeast dough steamed bun cooked in bamboo steamer according to ancient traditions (90g).",
+      "price": 1700,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a6e1728-0f1e-4780-954a-6e59ee001b11",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4b8d10cf-1fe8-4347-a5fc-13b196982fb2": {
+      "uuid": "4b8d10cf-1fe8-4347-a5fc-13b196982fb2",
+      "title": "Fried rice with seafood",
+      "itemDescription": "Jasmine rice, octopus, squids, mussels, prawns, ginger, kidney beans, coriander, lemon fresh, chili peppers, soybean sprouts, leeks, sauce (260g).\n",
+      "price": 16500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1af30dc-4079-45fb-be6c-4f4909ca73bf",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2d14b864-b893-4fb7-8759-7583ef41f202": {
+      "uuid": "2d14b864-b893-4fb7-8759-7583ef41f202",
+      "title": "Dim sum with chicken, and vegetables",
+      "itemDescription": "Chicken, carrots, oyster mushrooms, zucchini, and corn (190g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0ee2d68-63d9-446d-8e56-ac1e918e709b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "89c83085-f2db-40d5-9bb5-2a2411efd304": {
+      "uuid": "89c83085-f2db-40d5-9bb5-2a2411efd304",
+      "title": "Dim sum assorted",
+      "itemDescription": "210g.",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/310173ef-dc3a-4e92-a9f8-4f3e1abe4ca2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "88f360ec-faee-4154-9fe6-85f00117080d": {
+      "uuid": "88f360ec-faee-4154-9fe6-85f00117080d",
+      "title": "Cellophane noodles with chicken",
+      "itemDescription": "Cellophane noodles, chicken, egg, coriander, ginger, sesame, napa (Korean) cabbages, carrots, red onions, celery, and sauce (300g).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cf9f3ad-f16d-44f5-a888-c6e979462937",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "83d2c4de-4071-4d99-85b6-11c0eb5a35a1": {
+      "uuid": "83d2c4de-4071-4d99-85b6-11c0eb5a35a1",
+      "title": "Miso soup",
+      "itemDescription": "Miso broth, tofu cheese, sesame, and ginger (450g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/562da0de-fe53-4236-9885-e0808d31aeef",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c77365bf-5691-4930-8d3f-0722f2f828e7": {
+      "uuid": "c77365bf-5691-4930-8d3f-0722f2f828e7",
+      "title": "Fried wontons with chicken NEW",
+      "itemDescription": "Chicken, shiitake mushrooms, cabbages, leeks, and garlic (160g).",
+      "price": 7900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "42faa754-5612-4a29-a4db-479fd4650ba2": {
+      "uuid": "42faa754-5612-4a29-a4db-479fd4650ba2",
+      "title": "Jasmine cake with matcha tea",
+      "itemDescription": "135g.",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/35067fc4-4789-46fd-8311-c83fae3f2e3f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "15b8809d-322e-4d1b-9e83-502e915c5307": {
+      "uuid": "15b8809d-322e-4d1b-9e83-502e915c5307",
+      "title": "Bao burger with tofu, and vegetables",
+      "itemDescription": "Ban Bao, tomatoes, cucumbers, Lolo Bondo salad, fried tofu cheese, curry paste, soy sauce, and sesame sauce (200g).",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff0c087a-9a56-4ff4-9c2b-668f0436ff07",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2a2cba90-4486-42ef-a94c-7bc7464004ef": {
+      "uuid": "2a2cba90-4486-42ef-a94c-7bc7464004ef",
+      "title": "Fried rice with pork BBQ",
+      "itemDescription": "Jasmine rice, pork, garlic, chili peppers, carrots, leeks, egg, lemon fresh, coriander, and sauce (280g).\n",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6801266d-b7a2-413c-a57d-ce4dab9321fc",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44": {
+      "uuid": "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44",
+      "title": "Pad Thai with vegetables",
+      "itemDescription": "Rice noodles, oyster mushrooms, leeks, tofu cheese, egg, peanuts, soybean sprouts, carrots, and sauce (300g).",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6f8822f-1db0-4d82-bdf0-43511cc5b78f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b94f1f8f-32dc-4745-9ad2-91bf02593e90": {
+      "uuid": "b94f1f8f-32dc-4745-9ad2-91bf02593e90",
+      "title": "Pad Thai with chicken",
+      "itemDescription": "Rice noodles, chicken, egg, soybean sprouts, lemons, coriander, leeks, peanuts, sauce (300g).\n",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/30d8abcf-f86e-4315-ba65-9781c68fb13b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "07b89ff6-7bb1-46d4-a1e1-1799766b094c": {
+      "uuid": "07b89ff6-7bb1-46d4-a1e1-1799766b094c",
+      "title": "Ramen with pork",
+      "itemDescription": "Ramen broth, pork, soybean sprouts, leeks, carrots, nori, egg, egg noodles, coriander (450g).",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e158aeb-c187-4859-a70d-e1a0dcf5baed",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

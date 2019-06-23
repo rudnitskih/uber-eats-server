@@ -20,642 +20,104 @@
   ],
   "sections": [
     {
-      "uuid": "a2948f4f-9500-49b9-b614-682d249a5d78",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 8:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "69363202-b239-4ecb-8b79-a941d72a77d1",
-        "b3e4760c-dcdb-48f5-a7e4-27f37d287433",
-        "3ee9f4b6-f8ef-476c-b155-77607fb8d20f",
-        "aa1a298b-65d2-4c18-b984-e115360206f3",
-        "02d84e4d-d184-4a6b-ae99-f39c3dadd3cb",
-        "8e77996d-8f2d-47e8-a678-2a18cedf8bdd",
-        "c0045679-0516-4b50-98cd-45ae0e256d45",
-        "04a481a9-278d-4966-b22c-470f46c56ea0"
+      "uuid": "69363202-b239-4ecb-8b79-a941d72a77d1",
+      "title": "Croissants",
+      "subtitle": "",
+      "itemUuids": [
+        "2ae55b2b-f148-46f7-bc4e-ee5ae9e49042",
+        "87b15366-8f7a-46c1-a798-54154fc3a141",
+        "7e5b7d08-203a-4b4c-a29f-bdf6630dfe25",
+        "1c6f0e77-ad1f-4b82-bdd6-de39bfdb265f",
+        "06345682-9e17-4a0e-98f4-f39b4e058356",
+        "3beed178-2b30-43a3-885d-641bf8c7f00a",
+        "eef01f3f-fa8a-4062-a685-0d2ac87d164d",
+        "5a240f44-be3d-45b4-a37c-e8e182cf86f4",
+        "9c992b49-7452-458f-b297-57252682c9f1",
+        "4ea81efd-6f6e-45f4-8342-07030aef5ae9",
+        "0759c413-49eb-4a52-b354-0b1018d796ad",
+        "47d69bd9-7003-4e40-9764-9a9f110fb163"
+      ]
+    },
+    {
+      "uuid": "b3e4760c-dcdb-48f5-a7e4-27f37d287433",
+      "title": "Sweet croissants",
+      "subtitle": "",
+      "itemUuids": [
+        "bcaf9596-e98f-4af7-b630-aab11bd43563",
+        "75279c04-76b6-4722-a39d-2f2a1463e8b1",
+        "180fadab-c2ab-453f-bd31-01d93b52a797"
+      ]
+    },
+    {
+      "uuid": "3ee9f4b6-f8ef-476c-b155-77607fb8d20f",
+      "title": "Mini croissants sets",
+      "subtitle": "",
+      "itemUuids": [
+        "dfccf489-dd7d-4cef-a949-e45b41d9c7ce",
+        "e718ee56-e8af-4783-9b6f-89107307fa4a",
+        "5ef42fbe-1b7a-4de9-9b62-ee695550d529"
+      ]
+    },
+    {
+      "uuid": "aa1a298b-65d2-4c18-b984-e115360206f3",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "dca9b353-8083-4427-a991-c01b14c143f4",
+        "30b0ffb5-7f64-4c9f-8197-3789be8e7d74",
+        "049d987b-e131-4408-a555-daefc5755729"
+      ]
+    },
+    {
+      "uuid": "02d84e4d-d184-4a6b-ae99-f39c3dadd3cb",
+      "title": "Dessert",
+      "subtitle": "",
+      "itemUuids": [
+        "279594ec-8287-4ef0-b7c4-2a86771545a6"
+      ]
+    },
+    {
+      "uuid": "8e77996d-8f2d-47e8-a678-2a18cedf8bdd",
+      "title": "Cold Drinks",
+      "subtitle": "",
+      "itemUuids": [
+        "4ca0c905-6a8a-47ea-b2a1-c3ca97634989",
+        "8cd6e6cc-5c2c-4d73-a7c5-0f934add8147",
+        "749d2b76-9761-48b4-ad09-411341624ff8",
+        "986c835a-d0bc-48dc-a4ec-58b79ca960f6",
+        "ae47d369-6805-4cb3-8a6a-b81a16ab313b",
+        "41b0e7ee-f81d-4eea-a523-3776a396d39c"
+      ]
+    },
+    {
+      "uuid": "c0045679-0516-4b50-98cd-45ae0e256d45",
+      "title": "Hot drinks",
+      "subtitle": "",
+      "itemUuids": [
+        "5884e531-348d-4450-81dc-f2b32e943bed",
+        "86b9afe6-9252-496c-a779-9dbc81cbdc91",
+        "37a1afc2-851a-46fb-92cd-6c99b2ffc12d",
+        "ed7f2fb3-7d65-4b9a-95dc-0fc680a2a635",
+        "16f20d0b-3ed0-42b1-a2d0-b5243b3c620c",
+        "1393e660-2c9e-4c0b-8d7a-6bac696efe0b",
+        "8dfcbd22-c764-4fd2-be3d-6b03ef7cc0cb",
+        "d3a4ef05-8356-4029-a61a-cf4f6e66bddd",
+        "42c5c55f-fbb4-44e0-b7d1-a8cca0a2ee5b",
+        "0f06b71d-e1fc-42cf-829e-799753dfee40"
+      ]
+    },
+    {
+      "uuid": "04a481a9-278d-4966-b22c-470f46c56ea0",
+      "title": "Jamies for croissants",
+      "subtitle": "",
+      "itemUuids": [
+        "ec571e3f-17b5-4758-94bd-2ed064e5f5bf",
+        "ab9a5450-7800-47a3-b4ca-b1ad6a673dbb",
+        "9dc9f707-7c58-4b57-b4f6-aa81fade66ac",
+        "993560a6-2e2b-4603-95db-36928e81ac33"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "a2948f4f-9500-49b9-b614-682d249a5d78": {
-      "itemsMap": {
-        "5a240f44-be3d-45b4-a37c-e8e182cf86f4": {
-          "uuid": "5a240f44-be3d-45b4-a37c-e8e182cf86f4",
-          "title": "Croissant ham with cheese",
-          "itemDescription": "Croissant, ham, hard cheese, iceberg lettuce, Roman lettuce, cucumbers, tomatoes, and mustard sauce. ",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/26801d34-a52d-45d5-ab9b-b56ef776f469",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7e5b7d08-203a-4b4c-a29f-bdf6630dfe25": {
-          "uuid": "7e5b7d08-203a-4b4c-a29f-bdf6630dfe25",
-          "title": "Croissant with buzhenina, and cheese",
-          "itemDescription": "Croissant, buzhenina, hard cheese, pickled cucumber, tomatoes, iceberg lettuce, Roman lettuce, and mustard sauce.",
-          "price": 5300,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ce7f07a-55e6-4a8c-a236-f222fb563aa0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9dc9f707-7c58-4b57-b4f6-aa81fade66ac": {
-          "uuid": "9dc9f707-7c58-4b57-b4f6-aa81fade66ac",
-          "title": "Apricot 25g",
-          "itemDescription": "",
-          "price": 900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "87b15366-8f7a-46c1-a798-54154fc3a141": {
-          "uuid": "87b15366-8f7a-46c1-a798-54154fc3a141",
-          "title": "Street hub croissant with salami, and prosciutto",
-          "itemDescription": "Salami, prosciutto, cheese, cucumbers, tomatoes, iceberg lettuce, Roman lettuce, and mustard sauce.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/335e6324-9687-4001-86cf-583cff751812",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e718ee56-e8af-4783-9b6f-89107307fa4a": {
-          "uuid": "e718ee56-e8af-4783-9b6f-89107307fa4a",
-          "title": "Sweet couple",
-          "itemDescription": "Caramelized banana with chocolate croissant, and kiwi with condensed milk croissant.",
-          "price": 6600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7eb641e4-a892-4b62-bd7a-712dc3662a5e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0759c413-49eb-4a52-b354-0b1018d796ad": {
-          "uuid": "0759c413-49eb-4a52-b354-0b1018d796ad",
-          "title": "Croissant 100g",
-          "itemDescription": "",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1393e660-2c9e-4c0b-8d7a-6bac696efe0b": {
-          "uuid": "1393e660-2c9e-4c0b-8d7a-6bac696efe0b",
-          "title": "Latte large",
-          "itemDescription": "300ml.",
-          "price": 3000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b9fdb65-5b59-4b10-a71a-752e2198e02a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "dca9b353-8083-4427-a991-c01b14c143f4": {
-          "uuid": "dca9b353-8083-4427-a991-c01b14c143f4",
-          "title": "Cream soup with spinach",
-          "itemDescription": "Vegetable broth, spinach, cream, and onions (240ml).",
-          "price": 3800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/be26f366-9c96-4c4d-9bfb-e6cf34f97807",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "75279c04-76b6-4722-a39d-2f2a1463e8b1": {
-          "uuid": "75279c04-76b6-4722-a39d-2f2a1463e8b1",
-          "title": "Croissant kiwi with condensed milk",
-          "itemDescription": "Croissant, condensed milk cream with nut, kiwi, and sugar powder.",
-          "price": 3800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/996da206-3a22-42f3-9ade-18aece68e0fe",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "47d69bd9-7003-4e40-9764-9a9f110fb163": {
-          "uuid": "47d69bd9-7003-4e40-9764-9a9f110fb163",
-          "title": "Croissant 40g",
-          "itemDescription": "",
-          "price": 1000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3beed178-2b30-43a3-885d-641bf8c7f00a": {
-          "uuid": "3beed178-2b30-43a3-885d-641bf8c7f00a",
-          "title": "Croissant with vegetables, and Pesto sauce",
-          "itemDescription": "Croissant, tomatoes, cucumbers, sweet peppers, arugula, and Pesto sauce.",
-          "price": 3900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f0dbbb7-50e0-45ba-8827-71ae92550c3e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5ef42fbe-1b7a-4de9-9b62-ee695550d529": {
-          "uuid": "5ef42fbe-1b7a-4de9-9b62-ee695550d529",
-          "title": "Full up bro",
-          "itemDescription": "Croissant with chicken and mushrooms, and croissant with ham, and cheese.",
-          "price": 7300,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b333a664-597d-468d-8df2-e762bbeeda16",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1c6f0e77-ad1f-4b82-bdd6-de39bfdb265f": {
-          "uuid": "1c6f0e77-ad1f-4b82-bdd6-de39bfdb265f",
-          "title": "Croissant smoked sausages",
-          "itemDescription": "Croissant, smoked sausages, cucumbers, sweet peppers, iceberg lettuce, Roman lettuce, and BBQ sauce.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/08e04281-bbfd-481b-aef7-69c4e7dea415",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "16f20d0b-3ed0-42b1-a2d0-b5243b3c620c": {
-          "uuid": "16f20d0b-3ed0-42b1-a2d0-b5243b3c620c",
-          "title": "Latte",
-          "itemDescription": "240ml.",
-          "price": 2600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ac186cc-4046-4891-8259-8bad4e696cc3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ec571e3f-17b5-4758-94bd-2ed064e5f5bf": {
-          "uuid": "ec571e3f-17b5-4758-94bd-2ed064e5f5bf",
-          "title": "Chocolate 25g",
-          "itemDescription": "",
-          "price": 900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "279594ec-8287-4ef0-b7c4-2a86771545a6": {
-          "uuid": "279594ec-8287-4ef0-b7c4-2a86771545a6",
-          "title": "Panna cotta",
-          "itemDescription": "140g.",
-          "price": 3900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/925be779-e36d-4a62-8515-7e8242ea9c48",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "42c5c55f-fbb4-44e0-b7d1-a8cca0a2ee5b": {
-          "uuid": "42c5c55f-fbb4-44e0-b7d1-a8cca0a2ee5b",
-          "title": "Chococcino",
-          "itemDescription": "175ml.",
-          "price": 4000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/28028c3f-cd7e-4df5-b50b-9ff9beb7d406",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "180fadab-c2ab-453f-bd31-01d93b52a797": {
-          "uuid": "180fadab-c2ab-453f-bd31-01d93b52a797",
-          "title": "Croissant orange with cream, and dried cranberries",
-          "itemDescription": "Croissant, custard cream, orange, dried cranberries, and sugar powder.",
-          "price": 3800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/26417e2a-ff69-436e-bfba-4df3c63d88cf",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "993560a6-2e2b-4603-95db-36928e81ac33": {
-          "uuid": "993560a6-2e2b-4603-95db-36928e81ac33",
-          "title": "Raspberry 25g",
-          "itemDescription": "",
-          "price": 900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bcaf9596-e98f-4af7-b630-aab11bd43563": {
-          "uuid": "bcaf9596-e98f-4af7-b630-aab11bd43563",
-          "title": "Croissant caramelized banana with chocolate",
-          "itemDescription": "Croissant, chocolate paste, caramelized banana, and sugar powder.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4f07204-5c52-476a-8c1c-d464a498d46b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "986c835a-d0bc-48dc-a4ec-58b79ca960f6": {
-          "uuid": "986c835a-d0bc-48dc-a4ec-58b79ca960f6",
-          "title": "Mirinda",
-          "itemDescription": "500мл.",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "eef01f3f-fa8a-4062-a685-0d2ac87d164d": {
-          "uuid": "eef01f3f-fa8a-4062-a685-0d2ac87d164d",
-          "title": "Croissant chicken with mushrooms",
-          "itemDescription": "Croissant, chicken, mushrooms with onions, soy sauce, tomatoes, arugula, and mustard sauce.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c68584d1-62a6-475e-9884-f521070c3f53",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8dfcbd22-c764-4fd2-be3d-6b03ef7cc0cb": {
-          "uuid": "8dfcbd22-c764-4fd2-be3d-6b03ef7cc0cb",
-          "title": "Flat white",
-          "itemDescription": "240ml.",
-          "price": 2600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a83734ba-be0e-4731-9f05-33a8eecbc779",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0f06b71d-e1fc-42cf-829e-799753dfee40": {
-          "uuid": "0f06b71d-e1fc-42cf-829e-799753dfee40",
-          "title": "Berry tea",
-          "itemDescription": "Flavor to choose (350ml).",
-          "price": 3000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4dbc76ae-1ea6-4ff8-866a-8007a226fec0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "05a034e1-fefc-41bc-a97b-3a378fa7f168",
-            "afcdd7ed-b895-4b12-9445-c52746a5db4f"
-          ]
-        },
-        "2ae55b2b-f148-46f7-bc4e-ee5ae9e49042": {
-          "uuid": "2ae55b2b-f148-46f7-bc4e-ee5ae9e49042",
-          "title": "Croissant 4 cheese",
-          "itemDescription": "Croissant, dorblu, mozzarella, cream cheese, and cheddar cheese.",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f366520-aca2-4c36-a84e-277d2a8d9dad",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9c992b49-7452-458f-b297-57252682c9f1": {
-          "uuid": "9c992b49-7452-458f-b297-57252682c9f1",
-          "title": "Croissant Philadelphia with salmon",
-          "itemDescription": "Croissant, salmon, Philadelphia cheese, cucumbers, iceberg lettuce, Roman lettuce, and dill. ",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6c53c085-b9be-44f8-a5c4-f19dde5bdbe9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "37a1afc2-851a-46fb-92cd-6c99b2ffc12d": {
-          "uuid": "37a1afc2-851a-46fb-92cd-6c99b2ffc12d",
-          "title": "Cappuccino",
-          "itemDescription": "240ml.",
-          "price": 2600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/30909494-42c4-4c9d-be65-c2cb7eed53e2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4ca0c905-6a8a-47ea-b2a1-c3ca97634989": {
-          "uuid": "4ca0c905-6a8a-47ea-b2a1-c3ca97634989",
-          "title": "Pepsi",
-          "itemDescription": "500мл.",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "dfccf489-dd7d-4cef-a949-e45b41d9c7ce": {
-          "uuid": "dfccf489-dd7d-4cef-a949-e45b41d9c7ce",
-          "title": "Double pleasure",
-          "itemDescription": "Philadelphia with salmon croissant, and croissant with caramelized banana, and chocolate.",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d5a68f4-a053-4977-9edd-9a6a6a68551a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d3a4ef05-8356-4029-a61a-cf4f6e66bddd": {
-          "uuid": "d3a4ef05-8356-4029-a61a-cf4f6e66bddd",
-          "title": "Cocoa",
-          "itemDescription": "240ml.",
-          "price": 3000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6676869b-8dea-45a2-af94-a8ed48bb3c1f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "749d2b76-9761-48b4-ad09-411341624ff8": {
-          "uuid": "749d2b76-9761-48b4-ad09-411341624ff8",
-          "title": "7 UP",
-          "itemDescription": "500мл.",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ae47d369-6805-4cb3-8a6a-b81a16ab313b": {
-          "uuid": "ae47d369-6805-4cb3-8a6a-b81a16ab313b",
-          "title": "Morshinska",
-          "itemDescription": "500мл.",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0d90e9be-014c-4b9d-b096-037c854ce4e7"
-          ]
-        },
-        "30b0ffb5-7f64-4c9f-8197-3789be8e7d74": {
-          "uuid": "30b0ffb5-7f64-4c9f-8197-3789be8e7d74",
-          "title": "Chicken broth",
-          "itemDescription": "Chicken broth, chicken, and dill (240 ml).",
-          "price": 3800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/23a88b01-bb88-41c2-8ce6-f50fdebe2913",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5884e531-348d-4450-81dc-f2b32e943bed": {
-          "uuid": "5884e531-348d-4450-81dc-f2b32e943bed",
-          "title": "Americano",
-          "itemDescription": "100ml.",
-          "price": 2000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1252a20c-31e0-468a-8537-123498c167c6",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8cd6e6cc-5c2c-4d73-a7c5-0f934add8147": {
-          "uuid": "8cd6e6cc-5c2c-4d73-a7c5-0f934add8147",
-          "title": "Pepsi Black",
-          "itemDescription": "500ml.",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ab9a5450-7800-47a3-b4ca-b1ad6a673dbb": {
-          "uuid": "ab9a5450-7800-47a3-b4ca-b1ad6a673dbb",
-          "title": "Strawberries 25g",
-          "itemDescription": "",
-          "price": 900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "86b9afe6-9252-496c-a779-9dbc81cbdc91": {
-          "uuid": "86b9afe6-9252-496c-a779-9dbc81cbdc91",
-          "title": "Americano with milk",
-          "itemDescription": "140ml.",
-          "price": 2600,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/45ffda5b-7642-4bd9-b3c5-6da492f02d72",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "049d987b-e131-4408-a555-daefc5755729": {
-          "uuid": "049d987b-e131-4408-a555-daefc5755729",
-          "title": "Mushroom cream soup",
-          "itemDescription": "Chicken broth, mushrooms, cream, and onions (240ml).",
-          "price": 3800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b29e006-9cd1-40c2-ba87-6fac1038e85b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4ea81efd-6f6e-45f4-8342-07030aef5ae9": {
-          "uuid": "4ea81efd-6f6e-45f4-8342-07030aef5ae9",
-          "title": "Croissant tuna with egg",
-          "itemDescription": "Croissant, tuna, egg, tomatoes, pickled cucumber, iceberg lettuce, Roman lettuce, and mustard sauce.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/996f84ad-d4b5-46af-a8a8-cf72b5deac41",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ed7f2fb3-7d65-4b9a-95dc-0fc680a2a635": {
-          "uuid": "ed7f2fb3-7d65-4b9a-95dc-0fc680a2a635",
-          "title": "Cappuccino large",
-          "itemDescription": "300ml.",
-          "price": 3000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0800e8a8-937c-4b70-bb6a-305883d8e7b9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "41b0e7ee-f81d-4eea-a523-3776a396d39c": {
-          "uuid": "41b0e7ee-f81d-4eea-a523-3776a396d39c",
-          "title": "Sandora juice",
-          "itemDescription": "200ml.",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "ba9f1a09-f71c-4528-baae-ba99606797b6"
-          ]
-        },
-        "06345682-9e17-4a0e-98f4-f39b4e058356": {
-          "uuid": "06345682-9e17-4a0e-98f4-f39b4e058356",
-          "title": "Croissant with mushrooms, and vegetables",
-          "itemDescription": "Croissant, mushrooms with onions, tomatoes, arugula, and mustard sauce.",
-          "price": 4800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/abc8f0cf-5c66-4cf1-a296-ca41e8a9ec04",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "69363202-b239-4ecb-8b79-a941d72a77d1",
-          "title": "Croissants",
-          "subtitle": "",
-          "itemUuids": [
-            "2ae55b2b-f148-46f7-bc4e-ee5ae9e49042",
-            "87b15366-8f7a-46c1-a798-54154fc3a141",
-            "7e5b7d08-203a-4b4c-a29f-bdf6630dfe25",
-            "1c6f0e77-ad1f-4b82-bdd6-de39bfdb265f",
-            "06345682-9e17-4a0e-98f4-f39b4e058356",
-            "3beed178-2b30-43a3-885d-641bf8c7f00a",
-            "eef01f3f-fa8a-4062-a685-0d2ac87d164d",
-            "5a240f44-be3d-45b4-a37c-e8e182cf86f4",
-            "9c992b49-7452-458f-b297-57252682c9f1",
-            "4ea81efd-6f6e-45f4-8342-07030aef5ae9",
-            "0759c413-49eb-4a52-b354-0b1018d796ad",
-            "47d69bd9-7003-4e40-9764-9a9f110fb163"
-          ]
-        },
-        {
-          "uuid": "b3e4760c-dcdb-48f5-a7e4-27f37d287433",
-          "title": "Sweet croissants",
-          "subtitle": "",
-          "itemUuids": [
-            "bcaf9596-e98f-4af7-b630-aab11bd43563",
-            "75279c04-76b6-4722-a39d-2f2a1463e8b1",
-            "180fadab-c2ab-453f-bd31-01d93b52a797"
-          ]
-        },
-        {
-          "uuid": "3ee9f4b6-f8ef-476c-b155-77607fb8d20f",
-          "title": "Mini croissants sets",
-          "subtitle": "",
-          "itemUuids": [
-            "dfccf489-dd7d-4cef-a949-e45b41d9c7ce",
-            "e718ee56-e8af-4783-9b6f-89107307fa4a",
-            "5ef42fbe-1b7a-4de9-9b62-ee695550d529"
-          ]
-        },
-        {
-          "uuid": "aa1a298b-65d2-4c18-b984-e115360206f3",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "dca9b353-8083-4427-a991-c01b14c143f4",
-            "30b0ffb5-7f64-4c9f-8197-3789be8e7d74",
-            "049d987b-e131-4408-a555-daefc5755729"
-          ]
-        },
-        {
-          "uuid": "02d84e4d-d184-4a6b-ae99-f39c3dadd3cb",
-          "title": "Dessert",
-          "subtitle": "",
-          "itemUuids": [
-            "279594ec-8287-4ef0-b7c4-2a86771545a6"
-          ]
-        },
-        {
-          "uuid": "8e77996d-8f2d-47e8-a678-2a18cedf8bdd",
-          "title": "Cold Drinks",
-          "subtitle": "",
-          "itemUuids": [
-            "4ca0c905-6a8a-47ea-b2a1-c3ca97634989",
-            "8cd6e6cc-5c2c-4d73-a7c5-0f934add8147",
-            "749d2b76-9761-48b4-ad09-411341624ff8",
-            "986c835a-d0bc-48dc-a4ec-58b79ca960f6",
-            "ae47d369-6805-4cb3-8a6a-b81a16ab313b",
-            "41b0e7ee-f81d-4eea-a523-3776a396d39c"
-          ]
-        },
-        {
-          "uuid": "c0045679-0516-4b50-98cd-45ae0e256d45",
-          "title": "Hot drinks",
-          "subtitle": "",
-          "itemUuids": [
-            "5884e531-348d-4450-81dc-f2b32e943bed",
-            "86b9afe6-9252-496c-a779-9dbc81cbdc91",
-            "37a1afc2-851a-46fb-92cd-6c99b2ffc12d",
-            "ed7f2fb3-7d65-4b9a-95dc-0fc680a2a635",
-            "16f20d0b-3ed0-42b1-a2d0-b5243b3c620c",
-            "1393e660-2c9e-4c0b-8d7a-6bac696efe0b",
-            "8dfcbd22-c764-4fd2-be3d-6b03ef7cc0cb",
-            "d3a4ef05-8356-4029-a61a-cf4f6e66bddd",
-            "42c5c55f-fbb4-44e0-b7d1-a8cca0a2ee5b",
-            "0f06b71d-e1fc-42cf-829e-799753dfee40"
-          ]
-        },
-        {
-          "uuid": "04a481a9-278d-4966-b22c-470f46c56ea0",
-          "title": "Jamies for croissants",
-          "subtitle": "",
-          "itemUuids": [
-            "ec571e3f-17b5-4758-94bd-2ed064e5f5bf",
-            "ab9a5450-7800-47a3-b4ca-b1ad6a673dbb",
-            "9dc9f707-7c58-4b57-b4f6-aa81fade66ac",
-            "993560a6-2e2b-4603-95db-36928e81ac33"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.43272866496525,
     "longitude": 30.545549495256093,
@@ -695,5 +157,521 @@
     "storeRatingScore": 4.671328671328672,
     "ratingCount": "143"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4386cae6-94c4-4462-8272-8127b87793a6"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4386cae6-94c4-4462-8272-8127b87793a6",
+  "items": {
+    "5a240f44-be3d-45b4-a37c-e8e182cf86f4": {
+      "uuid": "5a240f44-be3d-45b4-a37c-e8e182cf86f4",
+      "title": "Croissant ham with cheese",
+      "itemDescription": "Croissant, ham, hard cheese, iceberg lettuce, Roman lettuce, cucumbers, tomatoes, and mustard sauce. ",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/26801d34-a52d-45d5-ab9b-b56ef776f469",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7e5b7d08-203a-4b4c-a29f-bdf6630dfe25": {
+      "uuid": "7e5b7d08-203a-4b4c-a29f-bdf6630dfe25",
+      "title": "Croissant with buzhenina, and cheese",
+      "itemDescription": "Croissant, buzhenina, hard cheese, pickled cucumber, tomatoes, iceberg lettuce, Roman lettuce, and mustard sauce.",
+      "price": 5300,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ce7f07a-55e6-4a8c-a236-f222fb563aa0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9dc9f707-7c58-4b57-b4f6-aa81fade66ac": {
+      "uuid": "9dc9f707-7c58-4b57-b4f6-aa81fade66ac",
+      "title": "Apricot 25g",
+      "itemDescription": "",
+      "price": 900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "87b15366-8f7a-46c1-a798-54154fc3a141": {
+      "uuid": "87b15366-8f7a-46c1-a798-54154fc3a141",
+      "title": "Street hub croissant with salami, and prosciutto",
+      "itemDescription": "Salami, prosciutto, cheese, cucumbers, tomatoes, iceberg lettuce, Roman lettuce, and mustard sauce.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/335e6324-9687-4001-86cf-583cff751812",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e718ee56-e8af-4783-9b6f-89107307fa4a": {
+      "uuid": "e718ee56-e8af-4783-9b6f-89107307fa4a",
+      "title": "Sweet couple",
+      "itemDescription": "Caramelized banana with chocolate croissant, and kiwi with condensed milk croissant.",
+      "price": 6600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7eb641e4-a892-4b62-bd7a-712dc3662a5e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0759c413-49eb-4a52-b354-0b1018d796ad": {
+      "uuid": "0759c413-49eb-4a52-b354-0b1018d796ad",
+      "title": "Croissant 100g",
+      "itemDescription": "",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1393e660-2c9e-4c0b-8d7a-6bac696efe0b": {
+      "uuid": "1393e660-2c9e-4c0b-8d7a-6bac696efe0b",
+      "title": "Latte large",
+      "itemDescription": "300ml.",
+      "price": 3000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b9fdb65-5b59-4b10-a71a-752e2198e02a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "dca9b353-8083-4427-a991-c01b14c143f4": {
+      "uuid": "dca9b353-8083-4427-a991-c01b14c143f4",
+      "title": "Cream soup with spinach",
+      "itemDescription": "Vegetable broth, spinach, cream, and onions (240ml).",
+      "price": 3800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/be26f366-9c96-4c4d-9bfb-e6cf34f97807",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "75279c04-76b6-4722-a39d-2f2a1463e8b1": {
+      "uuid": "75279c04-76b6-4722-a39d-2f2a1463e8b1",
+      "title": "Croissant kiwi with condensed milk",
+      "itemDescription": "Croissant, condensed milk cream with nut, kiwi, and sugar powder.",
+      "price": 3800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/996da206-3a22-42f3-9ade-18aece68e0fe",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "47d69bd9-7003-4e40-9764-9a9f110fb163": {
+      "uuid": "47d69bd9-7003-4e40-9764-9a9f110fb163",
+      "title": "Croissant 40g",
+      "itemDescription": "",
+      "price": 1000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3beed178-2b30-43a3-885d-641bf8c7f00a": {
+      "uuid": "3beed178-2b30-43a3-885d-641bf8c7f00a",
+      "title": "Croissant with vegetables, and Pesto sauce",
+      "itemDescription": "Croissant, tomatoes, cucumbers, sweet peppers, arugula, and Pesto sauce.",
+      "price": 3900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f0dbbb7-50e0-45ba-8827-71ae92550c3e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5ef42fbe-1b7a-4de9-9b62-ee695550d529": {
+      "uuid": "5ef42fbe-1b7a-4de9-9b62-ee695550d529",
+      "title": "Full up bro",
+      "itemDescription": "Croissant with chicken and mushrooms, and croissant with ham, and cheese.",
+      "price": 7300,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b333a664-597d-468d-8df2-e762bbeeda16",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1c6f0e77-ad1f-4b82-bdd6-de39bfdb265f": {
+      "uuid": "1c6f0e77-ad1f-4b82-bdd6-de39bfdb265f",
+      "title": "Croissant smoked sausages",
+      "itemDescription": "Croissant, smoked sausages, cucumbers, sweet peppers, iceberg lettuce, Roman lettuce, and BBQ sauce.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/08e04281-bbfd-481b-aef7-69c4e7dea415",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "16f20d0b-3ed0-42b1-a2d0-b5243b3c620c": {
+      "uuid": "16f20d0b-3ed0-42b1-a2d0-b5243b3c620c",
+      "title": "Latte",
+      "itemDescription": "240ml.",
+      "price": 2600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ac186cc-4046-4891-8259-8bad4e696cc3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ec571e3f-17b5-4758-94bd-2ed064e5f5bf": {
+      "uuid": "ec571e3f-17b5-4758-94bd-2ed064e5f5bf",
+      "title": "Chocolate 25g",
+      "itemDescription": "",
+      "price": 900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "279594ec-8287-4ef0-b7c4-2a86771545a6": {
+      "uuid": "279594ec-8287-4ef0-b7c4-2a86771545a6",
+      "title": "Panna cotta",
+      "itemDescription": "140g.",
+      "price": 3900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/925be779-e36d-4a62-8515-7e8242ea9c48",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "42c5c55f-fbb4-44e0-b7d1-a8cca0a2ee5b": {
+      "uuid": "42c5c55f-fbb4-44e0-b7d1-a8cca0a2ee5b",
+      "title": "Chococcino",
+      "itemDescription": "175ml.",
+      "price": 4000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/28028c3f-cd7e-4df5-b50b-9ff9beb7d406",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "180fadab-c2ab-453f-bd31-01d93b52a797": {
+      "uuid": "180fadab-c2ab-453f-bd31-01d93b52a797",
+      "title": "Croissant orange with cream, and dried cranberries",
+      "itemDescription": "Croissant, custard cream, orange, dried cranberries, and sugar powder.",
+      "price": 3800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/26417e2a-ff69-436e-bfba-4df3c63d88cf",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "993560a6-2e2b-4603-95db-36928e81ac33": {
+      "uuid": "993560a6-2e2b-4603-95db-36928e81ac33",
+      "title": "Raspberry 25g",
+      "itemDescription": "",
+      "price": 900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bcaf9596-e98f-4af7-b630-aab11bd43563": {
+      "uuid": "bcaf9596-e98f-4af7-b630-aab11bd43563",
+      "title": "Croissant caramelized banana with chocolate",
+      "itemDescription": "Croissant, chocolate paste, caramelized banana, and sugar powder.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4f07204-5c52-476a-8c1c-d464a498d46b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "986c835a-d0bc-48dc-a4ec-58b79ca960f6": {
+      "uuid": "986c835a-d0bc-48dc-a4ec-58b79ca960f6",
+      "title": "Mirinda",
+      "itemDescription": "500мл.",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "eef01f3f-fa8a-4062-a685-0d2ac87d164d": {
+      "uuid": "eef01f3f-fa8a-4062-a685-0d2ac87d164d",
+      "title": "Croissant chicken with mushrooms",
+      "itemDescription": "Croissant, chicken, mushrooms with onions, soy sauce, tomatoes, arugula, and mustard sauce.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c68584d1-62a6-475e-9884-f521070c3f53",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8dfcbd22-c764-4fd2-be3d-6b03ef7cc0cb": {
+      "uuid": "8dfcbd22-c764-4fd2-be3d-6b03ef7cc0cb",
+      "title": "Flat white",
+      "itemDescription": "240ml.",
+      "price": 2600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a83734ba-be0e-4731-9f05-33a8eecbc779",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0f06b71d-e1fc-42cf-829e-799753dfee40": {
+      "uuid": "0f06b71d-e1fc-42cf-829e-799753dfee40",
+      "title": "Berry tea",
+      "itemDescription": "Flavor to choose (350ml).",
+      "price": 3000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4dbc76ae-1ea6-4ff8-866a-8007a226fec0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "05a034e1-fefc-41bc-a97b-3a378fa7f168",
+        "afcdd7ed-b895-4b12-9445-c52746a5db4f"
+      ]
+    },
+    "2ae55b2b-f148-46f7-bc4e-ee5ae9e49042": {
+      "uuid": "2ae55b2b-f148-46f7-bc4e-ee5ae9e49042",
+      "title": "Croissant 4 cheese",
+      "itemDescription": "Croissant, dorblu, mozzarella, cream cheese, and cheddar cheese.",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f366520-aca2-4c36-a84e-277d2a8d9dad",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9c992b49-7452-458f-b297-57252682c9f1": {
+      "uuid": "9c992b49-7452-458f-b297-57252682c9f1",
+      "title": "Croissant Philadelphia with salmon",
+      "itemDescription": "Croissant, salmon, Philadelphia cheese, cucumbers, iceberg lettuce, Roman lettuce, and dill. ",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6c53c085-b9be-44f8-a5c4-f19dde5bdbe9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "37a1afc2-851a-46fb-92cd-6c99b2ffc12d": {
+      "uuid": "37a1afc2-851a-46fb-92cd-6c99b2ffc12d",
+      "title": "Cappuccino",
+      "itemDescription": "240ml.",
+      "price": 2600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/30909494-42c4-4c9d-be65-c2cb7eed53e2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4ca0c905-6a8a-47ea-b2a1-c3ca97634989": {
+      "uuid": "4ca0c905-6a8a-47ea-b2a1-c3ca97634989",
+      "title": "Pepsi",
+      "itemDescription": "500мл.",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "dfccf489-dd7d-4cef-a949-e45b41d9c7ce": {
+      "uuid": "dfccf489-dd7d-4cef-a949-e45b41d9c7ce",
+      "title": "Double pleasure",
+      "itemDescription": "Philadelphia with salmon croissant, and croissant with caramelized banana, and chocolate.",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d5a68f4-a053-4977-9edd-9a6a6a68551a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d3a4ef05-8356-4029-a61a-cf4f6e66bddd": {
+      "uuid": "d3a4ef05-8356-4029-a61a-cf4f6e66bddd",
+      "title": "Cocoa",
+      "itemDescription": "240ml.",
+      "price": 3000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6676869b-8dea-45a2-af94-a8ed48bb3c1f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "749d2b76-9761-48b4-ad09-411341624ff8": {
+      "uuid": "749d2b76-9761-48b4-ad09-411341624ff8",
+      "title": "7 UP",
+      "itemDescription": "500мл.",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ae47d369-6805-4cb3-8a6a-b81a16ab313b": {
+      "uuid": "ae47d369-6805-4cb3-8a6a-b81a16ab313b",
+      "title": "Morshinska",
+      "itemDescription": "500мл.",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0d90e9be-014c-4b9d-b096-037c854ce4e7"
+      ]
+    },
+    "30b0ffb5-7f64-4c9f-8197-3789be8e7d74": {
+      "uuid": "30b0ffb5-7f64-4c9f-8197-3789be8e7d74",
+      "title": "Chicken broth",
+      "itemDescription": "Chicken broth, chicken, and dill (240 ml).",
+      "price": 3800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/23a88b01-bb88-41c2-8ce6-f50fdebe2913",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5884e531-348d-4450-81dc-f2b32e943bed": {
+      "uuid": "5884e531-348d-4450-81dc-f2b32e943bed",
+      "title": "Americano",
+      "itemDescription": "100ml.",
+      "price": 2000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1252a20c-31e0-468a-8537-123498c167c6",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8cd6e6cc-5c2c-4d73-a7c5-0f934add8147": {
+      "uuid": "8cd6e6cc-5c2c-4d73-a7c5-0f934add8147",
+      "title": "Pepsi Black",
+      "itemDescription": "500ml.",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ab9a5450-7800-47a3-b4ca-b1ad6a673dbb": {
+      "uuid": "ab9a5450-7800-47a3-b4ca-b1ad6a673dbb",
+      "title": "Strawberries 25g",
+      "itemDescription": "",
+      "price": 900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "86b9afe6-9252-496c-a779-9dbc81cbdc91": {
+      "uuid": "86b9afe6-9252-496c-a779-9dbc81cbdc91",
+      "title": "Americano with milk",
+      "itemDescription": "140ml.",
+      "price": 2600,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/45ffda5b-7642-4bd9-b3c5-6da492f02d72",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "049d987b-e131-4408-a555-daefc5755729": {
+      "uuid": "049d987b-e131-4408-a555-daefc5755729",
+      "title": "Mushroom cream soup",
+      "itemDescription": "Chicken broth, mushrooms, cream, and onions (240ml).",
+      "price": 3800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b29e006-9cd1-40c2-ba87-6fac1038e85b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4ea81efd-6f6e-45f4-8342-07030aef5ae9": {
+      "uuid": "4ea81efd-6f6e-45f4-8342-07030aef5ae9",
+      "title": "Croissant tuna with egg",
+      "itemDescription": "Croissant, tuna, egg, tomatoes, pickled cucumber, iceberg lettuce, Roman lettuce, and mustard sauce.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/996f84ad-d4b5-46af-a8a8-cf72b5deac41",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ed7f2fb3-7d65-4b9a-95dc-0fc680a2a635": {
+      "uuid": "ed7f2fb3-7d65-4b9a-95dc-0fc680a2a635",
+      "title": "Cappuccino large",
+      "itemDescription": "300ml.",
+      "price": 3000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0800e8a8-937c-4b70-bb6a-305883d8e7b9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "41b0e7ee-f81d-4eea-a523-3776a396d39c": {
+      "uuid": "41b0e7ee-f81d-4eea-a523-3776a396d39c",
+      "title": "Sandora juice",
+      "itemDescription": "200ml.",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "ba9f1a09-f71c-4528-baae-ba99606797b6"
+      ]
+    },
+    "06345682-9e17-4a0e-98f4-f39b4e058356": {
+      "uuid": "06345682-9e17-4a0e-98f4-f39b4e058356",
+      "title": "Croissant with mushrooms, and vegetables",
+      "itemDescription": "Croissant, mushrooms with onions, tomatoes, arugula, and mustard sauce.",
+      "price": 4800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/abc8f0cf-5c66-4cf1-a296-ca41e8a9ec04",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

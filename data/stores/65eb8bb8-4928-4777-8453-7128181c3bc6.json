@@ -20,212 +20,24 @@
   ],
   "sections": [
     {
-      "uuid": "5ebd3eb7-26fc-40bf-bda5-1e52b62b80ff",
-      "title": "BREAKFAST MENU (ENG)",
-      "subtitle": "Mon 10:00 AM – 12:00 PM",
-      "isOnSale": false,
-      "subsectionUuids": [
-        "5d76e0d6-330b-42c9-b0fd-0440414551ce"
+      "uuid": "5d76e0d6-330b-42c9-b0fd-0440414551ce",
+      "title": "Breakfasts",
+      "itemUuids": [
+        "069cd152-7bb4-4a43-a21f-3827bf06d13f",
+        "bbe830a8-b497-42b3-89cb-e65d6d96a506",
+        "7e096882-f3f4-4d27-bec7-64032d822737",
+        "48702e86-ddc8-416f-ac13-5c36616247cb",
+        "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
+        "96013d06-343d-4f59-9e10-2e14931e8eee",
+        "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
+        "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
+        "98fee506-05f7-4728-be35-701046e54b67",
+        "a4b0aed0-abee-438f-9020-e13866ad48fd",
+        "5aaf874b-7f05-41a4-9083-672f85f3485e",
+        "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "5ebd3eb7-26fc-40bf-bda5-1e52b62b80ff": {
-      "itemsMap": {
-        "c3a8036d-a07d-43a7-b8a5-855e3c596a7b": {
-          "uuid": "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
-          "title": "Croissant with confiture and butter",
-          "itemDescription": "120 g",
-          "price": 7000,
-          "nutritionalInfo": {},
-          "suspendUntil": 8640000000
-        },
-        "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6": {
-          "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
-          "title": "Cottage cheese cakes with vanilla sauce",
-          "itemDescription": "250 g.",
-          "price": 9500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/88ee6526-0df7-4b1a-ad16-c9cdd2a8fdd8"
-        },
-        "48702e86-ddc8-416f-ac13-5c36616247cb": {
-          "uuid": "48702e86-ddc8-416f-ac13-5c36616247cb",
-          "title": "Omelette with harissa, and goat cheese",
-          "itemDescription": "220 g.",
-          "price": 9500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "cce16b34-6264-4ae8-891b-667425f91b4c"
-          ]
-        },
-        "5aaf874b-7f05-41a4-9083-672f85f3485e": {
-          "uuid": "5aaf874b-7f05-41a4-9083-672f85f3485e",
-          "title": "Toast with avocado and soft boiled  egg",
-          "itemDescription": "",
-          "price": 9900,
-          "nutritionalInfo": {}
-        },
-        "a4b0aed0-abee-438f-9020-e13866ad48fd": {
-          "uuid": "a4b0aed0-abee-438f-9020-e13866ad48fd",
-          "title": "Smothie bowl with black currant and mango",
-          "itemDescription": "300 g.",
-          "price": 13500,
-          "nutritionalInfo": {}
-        },
-        "96013d06-343d-4f59-9e10-2e14931e8eee": {
-          "uuid": "96013d06-343d-4f59-9e10-2e14931e8eee",
-          "title": "Toast with avocado, salmon and egg",
-          "itemDescription": "350 g.",
-          "price": 14500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
-          ]
-        },
-        "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b": {
-          "uuid": "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
-          "title": "Omelette with leek, and feta cheese",
-          "itemDescription": "285 g.",
-          "price": 9500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
-          ]
-        },
-        "6542ebd3-e3a2-4b20-90b8-05c1c84e5836": {
-          "uuid": "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
-          "title": "Avocado sandwich with poached egg",
-          "itemDescription": "350 g.",
-          "price": 14500,
-          "customizationUuids": [
-            "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
-          ]
-        },
-        "bbe830a8-b497-42b3-89cb-e65d6d96a506": {
-          "uuid": "bbe830a8-b497-42b3-89cb-e65d6d96a506",
-          "title": "Pancakes with bananas and miso caramel",
-          "itemDescription": "300 g.",
-          "price": 8500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "98fee506-05f7-4728-be35-701046e54b67": {
-          "uuid": "98fee506-05f7-4728-be35-701046e54b67",
-          "title": "Oatmeal with feta and mushrooms",
-          "itemDescription": "380 g.",
-          "price": 6900,
-          "nutritionalInfo": {}
-        },
-        "069cd152-7bb4-4a43-a21f-3827bf06d13f": {
-          "uuid": "069cd152-7bb4-4a43-a21f-3827bf06d13f",
-          "title": "Granola with fruit, and Greek yogurt",
-          "itemDescription": "290 g.",
-          "price": 9900,
-          "suspendUntil": 8640000000,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "7e096882-f3f4-4d27-bec7-64032d822737": {
-          "uuid": "7e096882-f3f4-4d27-bec7-64032d822737",
-          "title": "Oatmeal with caramelized banana",
-          "itemDescription": "300 g.\n",
-          "price": 8500
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "5d76e0d6-330b-42c9-b0fd-0440414551ce",
-          "title": "Breakfasts",
-          "itemUuids": [
-            "069cd152-7bb4-4a43-a21f-3827bf06d13f",
-            "bbe830a8-b497-42b3-89cb-e65d6d96a506",
-            "7e096882-f3f4-4d27-bec7-64032d822737",
-            "48702e86-ddc8-416f-ac13-5c36616247cb",
-            "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
-            "96013d06-343d-4f59-9e10-2e14931e8eee",
-            "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
-            "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
-            "98fee506-05f7-4728-be35-701046e54b67",
-            "a4b0aed0-abee-438f-9020-e13866ad48fd",
-            "5aaf874b-7f05-41a4-9083-672f85f3485e",
-            "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4490952,
     "longitude": 30.52041839999999,
@@ -264,5 +76,178 @@
     "storeRatingScore": 4.82,
     "ratingCount": "100"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595",
+  "items": {
+    "c3a8036d-a07d-43a7-b8a5-855e3c596a7b": {
+      "uuid": "c3a8036d-a07d-43a7-b8a5-855e3c596a7b",
+      "title": "Croissant with confiture and butter",
+      "itemDescription": "120 g",
+      "price": 7000,
+      "nutritionalInfo": {},
+      "suspendUntil": 8640000000
+    },
+    "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6": {
+      "uuid": "d7196537-0e6f-4a4b-9bd8-a28084d8c7d6",
+      "title": "Cottage cheese cakes with vanilla sauce",
+      "itemDescription": "250 g.",
+      "price": 9500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/88ee6526-0df7-4b1a-ad16-c9cdd2a8fdd8"
+    },
+    "48702e86-ddc8-416f-ac13-5c36616247cb": {
+      "uuid": "48702e86-ddc8-416f-ac13-5c36616247cb",
+      "title": "Omelette with harissa, and goat cheese",
+      "itemDescription": "220 g.",
+      "price": 9500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "cce16b34-6264-4ae8-891b-667425f91b4c"
+      ]
+    },
+    "5aaf874b-7f05-41a4-9083-672f85f3485e": {
+      "uuid": "5aaf874b-7f05-41a4-9083-672f85f3485e",
+      "title": "Toast with avocado and soft boiled  egg",
+      "itemDescription": "",
+      "price": 9900,
+      "nutritionalInfo": {}
+    },
+    "a4b0aed0-abee-438f-9020-e13866ad48fd": {
+      "uuid": "a4b0aed0-abee-438f-9020-e13866ad48fd",
+      "title": "Smothie bowl with black currant and mango",
+      "itemDescription": "300 g.",
+      "price": 13500,
+      "nutritionalInfo": {}
+    },
+    "96013d06-343d-4f59-9e10-2e14931e8eee": {
+      "uuid": "96013d06-343d-4f59-9e10-2e14931e8eee",
+      "title": "Toast with avocado, salmon and egg",
+      "itemDescription": "350 g.",
+      "price": 14500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+      ]
+    },
+    "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b": {
+      "uuid": "6ace6e96-f6e6-4a17-9b5c-bbd88bc56f0b",
+      "title": "Omelette with leek, and feta cheese",
+      "itemDescription": "285 g.",
+      "price": 9500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+      ]
+    },
+    "6542ebd3-e3a2-4b20-90b8-05c1c84e5836": {
+      "uuid": "6542ebd3-e3a2-4b20-90b8-05c1c84e5836",
+      "title": "Avocado sandwich with poached egg",
+      "itemDescription": "350 g.",
+      "price": 14500,
+      "customizationUuids": [
+        "9b99ccfa-412c-45da-bd85-4ad3edcad4c5"
+      ]
+    },
+    "bbe830a8-b497-42b3-89cb-e65d6d96a506": {
+      "uuid": "bbe830a8-b497-42b3-89cb-e65d6d96a506",
+      "title": "Pancakes with bananas and miso caramel",
+      "itemDescription": "300 g.",
+      "price": 8500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "98fee506-05f7-4728-be35-701046e54b67": {
+      "uuid": "98fee506-05f7-4728-be35-701046e54b67",
+      "title": "Oatmeal with feta and mushrooms",
+      "itemDescription": "380 g.",
+      "price": 6900,
+      "nutritionalInfo": {}
+    },
+    "069cd152-7bb4-4a43-a21f-3827bf06d13f": {
+      "uuid": "069cd152-7bb4-4a43-a21f-3827bf06d13f",
+      "title": "Granola with fruit, and Greek yogurt",
+      "itemDescription": "290 g.",
+      "price": 9900,
+      "suspendUntil": 8640000000,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "7e096882-f3f4-4d27-bec7-64032d822737": {
+      "uuid": "7e096882-f3f4-4d27-bec7-64032d822737",
+      "title": "Oatmeal with caramelized banana",
+      "itemDescription": "300 g.\n",
+      "price": 8500
+    }
+  }
 }

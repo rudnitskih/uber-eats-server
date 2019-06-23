@@ -20,1034 +20,165 @@
   ],
   "sections": [
     {
-      "uuid": "96ee2ddd-9fcc-41bd-92e0-ab555fedff3e",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "12:00 PM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "ce9c6514-65c6-447a-9c53-63299a03084f",
-        "227d5389-3042-4af2-bb1e-b03f5b4c3b8b",
-        "4a4b5866-30bd-424e-9ebf-fb674614d965",
-        "8cffc92b-58ec-4416-ae13-66a928236eb9",
-        "16a1f0a7-5f57-4603-8d2b-28be06a7ee35",
-        "2880c090-6914-47ee-9118-84ad276aad16",
-        "74e27a92-3ef8-4493-a59f-d15b15054841",
-        "f442a492-96c8-434a-8c37-0def65b6db18",
-        "280ccc7a-7767-4e2f-be52-c58fa2dde9ef",
-        "f4cba196-3f40-4d9f-9832-67a456734c44",
-        "75cf28f9-87fa-470a-ba37-a71f97ae92d2",
-        "1b266bb3-8594-4616-a3b3-8ff2787af5a0"
+      "uuid": "ce9c6514-65c6-447a-9c53-63299a03084f",
+      "title": "Starters",
+      "itemUuids": [
+        "231e1501-684f-4b8b-8ce6-2c0e42a2f62d",
+        "7e327470-6a2c-4031-99dc-ab4ff13bb98e",
+        "44089719-ef3c-43d3-a5fa-1cf4ec68c039",
+        "adeaaa70-b748-485e-ae42-5085504c4bb6",
+        "fe1c347b-eeba-4be8-9c3d-28f0245b03ee",
+        "f61dd4b1-b623-4770-8261-7de5e8671d24",
+        "6be9af39-2ca8-4a58-90ad-49815221bb61",
+        "de054e70-b4e6-4334-9623-2dfaf4286f25"
+      ]
+    },
+    {
+      "uuid": "227d5389-3042-4af2-bb1e-b03f5b4c3b8b",
+      "title": "Soups",
+      "itemUuids": [
+        "4a193a1e-2d2c-4c48-b0c7-1e3c555534fc",
+        "1da52f3d-eb62-4c9f-855d-63d24470367f",
+        "0633faa2-3c59-40ff-ad37-c02955ef1f8b",
+        "7a9ad06f-5530-44fc-a3ad-689562b90655",
+        "d19ab97c-cbc9-479c-8b14-dd0096e4eba8",
+        "e6183ff3-40d5-4634-926d-f49fff2cde4e",
+        "f54af6e6-6121-4ae2-bf29-acfccf010334"
+      ]
+    },
+    {
+      "uuid": "4a4b5866-30bd-424e-9ebf-fb674614d965",
+      "title": "Salads",
+      "itemUuids": [
+        "cb63eebb-e62a-42e6-82b0-02fce8f3b6af",
+        "d618b139-26aa-49e5-927e-55d60acb2815",
+        "6bc24818-186f-4fb6-b179-eeda9acad84f",
+        "764b09c3-0cd1-4dfa-9464-bb808bebda36",
+        "dc04df98-eafc-468c-8c62-664a8d914675",
+        "43adf53c-4f5c-4aa1-9022-d05c825c1c5b",
+        "4bb6df4c-89bd-41cc-bf9a-c0dca273df64",
+        "ab10c1a9-e1ed-431b-bacb-4a6500e86cb8"
+      ]
+    },
+    {
+      "uuid": "8cffc92b-58ec-4416-ae13-66a928236eb9",
+      "title": "Courses",
+      "itemUuids": [
+        "6f5b8a33-83a1-4e0a-bed5-e9c29da66bc2",
+        "07785e28-38b8-4b68-93d5-013a181d2941",
+        "b83af1f1-dfbf-4bb6-af8f-8e57aa21329e",
+        "ab9e7341-cc97-42c1-bf55-b8075fca97f4",
+        "41088008-356e-4d92-b2e3-a42e264a60f3",
+        "39d4152d-6bf8-47b5-8c80-a006b7ebbd84",
+        "79f90fc8-dfc8-440e-9052-b38b81584c81",
+        "0eddd15b-3025-4415-bf8d-47d48604461e",
+        "ddea9728-a1e2-4fad-82c0-d0c35b9b38ff",
+        "a81dae4e-296d-48dd-8f44-46b7280500c6",
+        "c62781f0-bd57-42b3-ad7f-288d4e0ba61f",
+        "0dbc5c4e-6a21-45f0-a7f9-e02d56a4c8c2"
+      ]
+    },
+    {
+      "uuid": "16a1f0a7-5f57-4603-8d2b-28be06a7ee35",
+      "title": "Steak",
+      "itemUuids": [
+        "82018e3d-28e8-4f1b-8676-ffd6981051bd",
+        "c135d24d-77b2-45c9-8209-a5faee6b8e12",
+        "22c837c8-d503-45e1-b9c4-2e7472c0fc5d"
+      ]
+    },
+    {
+      "uuid": "2880c090-6914-47ee-9118-84ad276aad16",
+      "title": "Burgers",
+      "itemUuids": [
+        "4520a219-98a9-42fb-b204-ee04cd2f0fba",
+        "9e5c7cdf-4624-4de9-b0c0-99c4aaf79080",
+        "3478656e-e215-41de-b73c-94279ef64709",
+        "0a7fd5af-60bf-4e99-90bf-f57c179b29e8",
+        "696d099d-6ce3-4a4a-a256-06d8b587eea0",
+        "0a372ea7-d1c0-4c14-9e01-49c54c3d4b5f",
+        "6eed5f36-d804-45a3-9dab-736c5d3b06e9",
+        "ac61f835-0716-448a-b938-3e1ec0a29040",
+        "9c6e65a9-0417-480e-ba25-a41bc2150f84",
+        "6fc9481f-85b9-4a67-b685-193481225cec",
+        "5ed8d4cf-0dfd-4e24-9690-0012b3121d61"
+      ]
+    },
+    {
+      "uuid": "74e27a92-3ef8-4493-a59f-d15b15054841",
+      "title": "Garnish",
+      "itemUuids": [
+        "12b227da-c1de-4c92-bd77-294209d396fa",
+        "ec1534c7-da2e-46d4-88fb-0b8605185393",
+        "07ae0d7f-b8d7-402b-892c-30e5fa1baa1e",
+        "1160b4c9-6507-43fe-9b49-c268e71addd5",
+        "47a1c2b2-ab2a-4967-84e1-8532cd21b5c1"
+      ]
+    },
+    {
+      "uuid": "f442a492-96c8-434a-8c37-0def65b6db18",
+      "title": "Sauces",
+      "itemUuids": [
+        "9d6caf8f-2e8f-45c6-8852-04ee0f457b10",
+        "68b9cea0-c59c-4825-ac20-fe11c4aa28d8",
+        "d7ed46a5-f24e-4d59-a319-b3eaad55ce8b",
+        "b6d08218-c9df-431a-b4f3-80f93380edf5",
+        "175203db-3ca5-473f-99aa-58c976fbf099",
+        "52d2645f-723c-4e02-b847-af37daca8198",
+        "8ac15bbe-06c6-4453-b9ef-049212d5d1ea",
+        "f8e0908d-65e4-4f0c-a41c-f05f6f22ca82",
+        "05d21d7c-2673-4092-8ae3-1486f41fc060",
+        "7fdfdddf-1bad-43ca-96a7-198e44e2250c"
+      ]
+    },
+    {
+      "uuid": "280ccc7a-7767-4e2f-be52-c58fa2dde9ef",
+      "title": "Desserts",
+      "itemUuids": [
+        "2a6b89ec-d5ed-49e1-856b-a2f245108647",
+        "b729b18e-3b35-4d74-aac6-5fabef114075"
+      ]
+    },
+    {
+      "uuid": "f4cba196-3f40-4d9f-9832-67a456734c44",
+      "title": "Lemonades",
+      "itemUuids": [
+        "ad79668e-6482-478c-b843-16efb885f4e8",
+        "87b0f19d-441d-4779-9c87-a7214f6a2305",
+        "2b81e47b-e8e1-4e42-bade-d9338fabcc96",
+        "d7854635-cf1a-4099-ada0-e5c488b7b746",
+        "1773c892-83fb-425e-8c28-74f5fcf0112e"
+      ]
+    },
+    {
+      "uuid": "75cf28f9-87fa-470a-ba37-a71f97ae92d2",
+      "title": "Bottled beer and cider",
+      "itemUuids": [
+        "1b46b876-1ef1-4883-b09d-e33fbe807109",
+        "225e3774-a752-414d-821d-9ed51c6a0d17",
+        "4617041d-1c25-47d8-bef7-642bc1707e70",
+        "8891ec22-9e9c-48e7-9972-da3471b2c4dd",
+        "ac0cfa7e-8f89-49a9-b90d-c10c6f3cfeaa",
+        "9ebaa32b-90ab-490c-9644-18b16acdcf90",
+        "edaf64e1-405d-4be0-92ea-4ca56465ec52",
+        "1201c8ce-761a-474f-b9e3-5d58b010eaeb"
+      ]
+    },
+    {
+      "uuid": "1b266bb3-8594-4616-a3b3-8ff2787af5a0",
+      "title": "Beverages",
+      "itemUuids": [
+        "af9777f1-b90a-4647-a550-14cb72887f7d",
+        "3c7e30c8-f9e1-4029-bf92-dd391d5af270",
+        "24f51c64-7b0e-42da-9076-a7cc6fe9663b",
+        "05829ded-f501-4906-add6-8de22ec035a0",
+        "6328a575-082f-4e91-9fef-78f0742361c6",
+        "12bc93ce-2fe8-463e-a484-01d2443278c4",
+        "fd71b8fc-f973-49ab-9950-d2929f544d44",
+        "520819a6-d422-4550-8bd3-a15869b83736"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "96ee2ddd-9fcc-41bd-92e0-ab555fedff3e": {
-      "itemsMap": {
-        "8891ec22-9e9c-48e7-9972-da3471b2c4dd": {
-          "uuid": "8891ec22-9e9c-48e7-9972-da3471b2c4dd",
-          "title": "Corona Extra",
-          "itemDescription": "Light beer, 355 ml",
-          "price": 8900,
-          "nutritionalInfo": {},
-          "rules": "You must be 21 or older"
-        },
-        "7fdfdddf-1bad-43ca-96a7-198e44e2250c": {
-          "uuid": "7fdfdddf-1bad-43ca-96a7-198e44e2250c",
-          "title": "Truffle Aioli sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "b83af1f1-dfbf-4bb6-af8f-8e57aa21329e": {
-          "uuid": "b83af1f1-dfbf-4bb6-af8f-8e57aa21329e",
-          "title": "Pork \"Wing\"",
-          "itemDescription": "Smoked BBQ, served with wedge fries, mushrooms, grilled tomatoes, and Demi-Glace sauce +lunch box",
-          "price": 28500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2ca6a96-f3ba-4af5-a340-8d4d25512df1"
-        },
-        "41088008-356e-4d92-b2e3-a42e264a60f3": {
-          "uuid": "41088008-356e-4d92-b2e3-a42e264a60f3",
-          "title": "Animal style fries",
-          "itemDescription": "French fries with..   +lunch box",
-          "price": 17500,
-          "customizationUuids": [
-            "dbbbd08b-5515-4039-a3a0-af419ec40ddb"
-          ]
-        },
-        "0eddd15b-3025-4415-bf8d-47d48604461e": {
-          "uuid": "0eddd15b-3025-4415-bf8d-47d48604461e",
-          "title": "Chicken",
-          "itemDescription": "Half chicken with cream cheese, and muchrooms +lunch box",
-          "price": 18900
-        },
-        "4a193a1e-2d2c-4c48-b0c7-1e3c555534fc": {
-          "uuid": "4a193a1e-2d2c-4c48-b0c7-1e3c555534fc",
-          "title": "Curry Ramen",
-          "itemDescription": "With chicken, and egg, based on coconut milk with curry paste,Nutt, Chilli peper, and coriander +lunch box",
-          "price": 18500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/71989a91-3dc1-425e-941e-821ab6b3e765"
-        },
-        "7a9ad06f-5530-44fc-a3ad-689562b90655": {
-          "uuid": "7a9ad06f-5530-44fc-a3ad-689562b90655",
-          "title": "Borsch",
-          "itemDescription": "Classic borsch with beef, served with sour cream, spiced meat-free bacon paste, and malt bread +lunch box",
-          "price": 12900
-        },
-        "d19ab97c-cbc9-479c-8b14-dd0096e4eba8": {
-          "uuid": "d19ab97c-cbc9-479c-8b14-dd0096e4eba8",
-          "title": "Miso Soup",
-          "itemDescription": "With mushrooms, tofu, and Wacame +lunch box",
-          "price": 8900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "05d21d7c-2673-4092-8ae3-1486f41fc060": {
-          "uuid": "05d21d7c-2673-4092-8ae3-1486f41fc060",
-          "title": "Mustard BBQ sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "520819a6-d422-4550-8bd3-a15869b83736": {
-          "uuid": "520819a6-d422-4550-8bd3-a15869b83736",
-          "title": "Fentimans Tonic",
-          "itemDescription": "200ml",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "52d2645f-723c-4e02-b847-af37daca8198": {
-          "uuid": "52d2645f-723c-4e02-b847-af37daca8198",
-          "title": "Cheddar sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "1160b4c9-6507-43fe-9b49-c268e71addd5": {
-          "uuid": "1160b4c9-6507-43fe-9b49-c268e71addd5",
-          "title": "Couscous",
-          "itemDescription": "With tomatoes +lunch box",
-          "price": 7500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "9e5c7cdf-4624-4de9-b0c0-99c4aaf79080": {
-          "uuid": "9e5c7cdf-4624-4de9-b0c0-99c4aaf79080",
-          "title": "Bacon Burger",
-          "itemDescription": "Beef, Cheddar cheese, egg, bacon, lettuce, tomatoes, cucumber, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 23500,
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "af9777f1-b90a-4647-a550-14cb72887f7d": {
-          "uuid": "af9777f1-b90a-4647-a550-14cb72887f7d",
-          "title": "Morshinska water/ gas",
-          "itemDescription": "330ml",
-          "price": 3500,
-          "nutritionalInfo": {}
-        },
-        "2b81e47b-e8e1-4e42-bade-d9338fabcc96": {
-          "uuid": "2b81e47b-e8e1-4e42-bade-d9338fabcc96",
-          "title": "Cherry-Cranberry",
-          "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
-          "price": 7500
-        },
-        "ddea9728-a1e2-4fad-82c0-d0c35b9b38ff": {
-          "uuid": "ddea9728-a1e2-4fad-82c0-d0c35b9b38ff",
-          "title": "Grilled Mackerel",
-          "itemDescription": "With baked vegetables, and Teriyaki sauce +lunch box",
-          "price": 17900
-        },
-        "764b09c3-0cd1-4dfa-9464-bb808bebda36": {
-          "uuid": "764b09c3-0cd1-4dfa-9464-bb808bebda36",
-          "title": "Caesar with chicken fillet",
-          "itemDescription": "Romaine salad, roasted fillet, bacon, cherry tomatoes, quail eggs, dressing, Bread croutons, and Parmesan +lunch box",
-          "price": 15900
-        },
-        "4617041d-1c25-47d8-bef7-642bc1707e70": {
-          "uuid": "4617041d-1c25-47d8-bef7-642bc1707e70",
-          "title": "Makar Beer Milk Stout",
-          "itemDescription": "Dark craft beer, 330 ml",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "68b9cea0-c59c-4825-ac20-fe11c4aa28d8": {
-          "uuid": "68b9cea0-c59c-4825-ac20-fe11c4aa28d8",
-          "title": "BBQ sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "5ed8d4cf-0dfd-4e24-9690-0012b3121d61": {
-          "uuid": "5ed8d4cf-0dfd-4e24-9690-0012b3121d61",
-          "title": "Smoky burger",
-          "itemDescription": "black bun, beef patty, smoked duck, smoked cheese, lettuce, tomatoes, mustard sauce",
-          "price": 26900,
-          "nutritionalInfo": {}
-        },
-        "ab9e7341-cc97-42c1-bf55-b8075fca97f4": {
-          "uuid": "ab9e7341-cc97-42c1-bf55-b8075fca97f4",
-          "title": "Pulled Pork",
-          "itemDescription": "With sun-dried tomatoes, and grilled vegetables on hummus +lunch box",
-          "price": 19500
-        },
-        "0a7fd5af-60bf-4e99-90bf-f57c179b29e8": {
-          "uuid": "0a7fd5af-60bf-4e99-90bf-f57c179b29e8",
-          "title": "Pulled Pork Burger",
-          "itemDescription": "Pulled pork, sun-dried tomatoes, Cheddar, onions, lettuce, pickles, and Aioli.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 19900,
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "c62781f0-bd57-42b3-ad7f-288d4e0ba61f": {
-          "uuid": "c62781f0-bd57-42b3-ad7f-288d4e0ba61f",
-          "title": "Wok",
-          "itemDescription": "+lunch box",
-          "price": 12900,
-          "customizationUuids": [
-            "9d4c0555-0b39-4100-960d-aaa109e0d1b5"
-          ]
-        },
-        "ac61f835-0716-448a-b938-3e1ec0a29040": {
-          "uuid": "ac61f835-0716-448a-b938-3e1ec0a29040",
-          "title": "Caesar Burger",
-          "itemDescription": "Chicken with Caesar sauce, Parmesan, and Romaine lettuce.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 16500,
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "05829ded-f501-4906-add6-8de22ec035a0": {
-          "uuid": "05829ded-f501-4906-add6-8de22ec035a0",
-          "title": "Coca-Cola",
-          "itemDescription": "250ml",
-          "price": 3900,
-          "nutritionalInfo": {}
-        },
-        "f54af6e6-6121-4ae2-bf29-acfccf010334": {
-          "uuid": "f54af6e6-6121-4ae2-bf29-acfccf010334",
-          "title": "Kimchi soup",
-          "itemDescription": "with turkey, coconut milk, oyster mushroom, leek onion, paprika, spinach",
-          "price": 16900,
-          "nutritionalInfo": {}
-        },
-        "7e327470-6a2c-4031-99dc-ab4ff13bb98e": {
-          "uuid": "7e327470-6a2c-4031-99dc-ab4ff13bb98e",
-          "title": "Hummus",
-          "itemDescription": "Served with celery, carrots, and nachos +lunch box",
-          "price": 8500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "3478656e-e215-41de-b73c-94279ef64709": {
-          "uuid": "3478656e-e215-41de-b73c-94279ef64709",
-          "title": "Black Truffle",
-          "itemDescription": "Black bun, beef patty, Cheddar, arugula, balsamic onion confit, tomatoes, and homemade black truffle Aioli.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 20800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fef1243-c72d-44bb-b42e-f7233a81f47a",
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "f61dd4b1-b623-4770-8261-7de5e8671d24": {
-          "uuid": "f61dd4b1-b623-4770-8261-7de5e8671d24",
-          "title": "Spring Roll",
-          "itemDescription": "+lunch box",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a11cd62-ba29-4ae4-a5d2-cda35aeae3f4",
-          "customizationUuids": [
-            "9933e48f-c533-4a28-8816-439fd031bc01"
-          ]
-        },
-        "175203db-3ca5-473f-99aa-58c976fbf099": {
-          "uuid": "175203db-3ca5-473f-99aa-58c976fbf099",
-          "title": "Ketchup Heinz sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "6bc24818-186f-4fb6-b179-eeda9acad84f": {
-          "uuid": "6bc24818-186f-4fb6-b179-eeda9acad84f",
-          "title": "Asian veal salad",
-          "itemDescription": "Veal tenderloin (sous-vide), tomato, cucumber, Muer mushrooms, salad iceberg, sesame, Unagi sauce, lime juice, and tabasco sauce +lunch box",
-          "price": 20800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ee927c0-a252-4faa-bb06-d8b704a10689"
-        },
-        "ab10c1a9-e1ed-431b-bacb-4a6500e86cb8": {
-          "uuid": "ab10c1a9-e1ed-431b-bacb-4a6500e86cb8",
-          "title": "Prosciutto salad",
-          "itemDescription": "Mixed salas with salad mix with prosciutto, arugula, dried figs, Parmesan, and walnuts +lunch box",
-          "price": 17500
-        },
-        "07785e28-38b8-4b68-93d5-013a181d2941": {
-          "uuid": "07785e28-38b8-4b68-93d5-013a181d2941",
-          "title": "Pork ribs BBQ",
-          "itemDescription": "With Teriyaki sauce, and salad +lunch box",
-          "price": 27500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/87f18c2f-e382-41ff-a475-88adbc83d534"
-        },
-        "44089719-ef3c-43d3-a5fa-1cf4ec68c039": {
-          "uuid": "44089719-ef3c-43d3-a5fa-1cf4ec68c039",
-          "title": "Guacamole",
-          "itemDescription": "With tomatoes, and nachos or toasts +lunch box",
-          "price": 15900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cff29c19-fa65-4443-80c2-a1e2ee38220f",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "552bc15a-a778-438b-ae78-8c0b651abf81"
-          ]
-        },
-        "cb63eebb-e62a-42e6-82b0-02fce8f3b6af": {
-          "uuid": "cb63eebb-e62a-42e6-82b0-02fce8f3b6af",
-          "title": "Smoked salmon salad",
-          "itemDescription": "Mixed salad, cucumber, Parmesan, cherry tomatoes, arugula, chips from bread, capers, and dried tomatoes sauce +lunch box",
-          "price": 24900
-        },
-        "ec1534c7-da2e-46d4-88fb-0b8605185393": {
-          "uuid": "ec1534c7-da2e-46d4-88fb-0b8605185393",
-          "title": "Hedonist Fries",
-          "itemDescription": "With parmesan, and black truffle Aioli +lunch box",
-          "price": 7500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "59b235f4-3c67-4dc3-b8b9-d9484a48aaa8"
-          ]
-        },
-        "de054e70-b4e6-4334-9623-2dfaf4286f25": {
-          "uuid": "de054e70-b4e6-4334-9623-2dfaf4286f25",
-          "title": "Salmon Carpaccio",
-          "itemDescription": "With rocket salad (arugula), and Parmesan.",
-          "price": 17500
-        },
-        "a81dae4e-296d-48dd-8f44-46b7280500c6": {
-          "uuid": "a81dae4e-296d-48dd-8f44-46b7280500c6",
-          "title": "Salmon",
-          "itemDescription": "Baked salmon on creamed spinach with cherry tomatoes, cream cheese, and black truffle paste +lunch box",
-          "price": 29900
-        },
-        "b729b18e-3b35-4d74-aac6-5fabef114075": {
-          "uuid": "b729b18e-3b35-4d74-aac6-5fabef114075",
-          "title": "Cheesecake New York",
-          "itemDescription": "+lunch box",
-          "price": 11900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "9d6caf8f-2e8f-45c6-8852-04ee0f457b10": {
-          "uuid": "9d6caf8f-2e8f-45c6-8852-04ee0f457b10",
-          "title": "Hedonist Bourbon sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "9ebaa32b-90ab-490c-9644-18b16acdcf90": {
-          "uuid": "9ebaa32b-90ab-490c-9644-18b16acdcf90",
-          "title": "Makar Beer Pilsner Premium",
-          "itemDescription": "light beer, 330 ml",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "9c6e65a9-0417-480e-ba25-a41bc2150f84": {
-          "uuid": "9c6e65a9-0417-480e-ba25-a41bc2150f84",
-          "title": "Veggie Burger",
-          "itemDescription": "Grilled Tofu, Cheddar, lettuce, tomatoes, pickles, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 17500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "c135d24d-77b2-45c9-8209-a5faee6b8e12": {
-          "uuid": "c135d24d-77b2-45c9-8209-a5faee6b8e12",
-          "title": "Tenderloin",
-          "itemDescription": "With coffee-butter sauce, and grilled vegetables +lunch box",
-          "price": 30800
-        },
-        "4520a219-98a9-42fb-b204-ee04cd2f0fba": {
-          "uuid": "4520a219-98a9-42fb-b204-ee04cd2f0fba",
-          "title": "Black Burger",
-          "itemDescription": "Black bun, beef patty, Gorgonzola Picante or Cheddar, balsamic onion confit, tomatoes, and sauce.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 20800,
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "87b0f19d-441d-4779-9c87-a7214f6a2305": {
-          "uuid": "87b0f19d-441d-4779-9c87-a7214f6a2305",
-          "title": "Citrus Lemonade",
-          "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
-          "price": 7500
-        },
-        "adeaaa70-b748-485e-ae42-5085504c4bb6": {
-          "uuid": "adeaaa70-b748-485e-ae42-5085504c4bb6",
-          "title": "Plateau de Fromage",
-          "itemDescription": "Parmesan, Blue cheese, Brie with honey, and walnuts +lunch box",
-          "price": 18500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "22c837c8-d503-45e1-b9c4-2e7472c0fc5d": {
-          "uuid": "22c837c8-d503-45e1-b9c4-2e7472c0fc5d",
-          "title": "Steak for two",
-          "itemDescription": "With wedge fries, grilled vegetables, Cheddar, and BBQ sauces +lunch box",
-          "price": 60800
-        },
-        "79f90fc8-dfc8-440e-9052-b38b81584c81": {
-          "uuid": "79f90fc8-dfc8-440e-9052-b38b81584c81",
-          "title": "Chicken Wings",
-          "itemDescription": "Chicken Wings BBQ +lunch box",
-          "price": 14900
-        },
-        "43adf53c-4f5c-4aa1-9022-d05c825c1c5b": {
-          "uuid": "43adf53c-4f5c-4aa1-9022-d05c825c1c5b",
-          "title": "Caprese",
-          "itemDescription": "Mozzarella, tomatoes, homemade Pesto sauce made with pine nut, and balsamic dressing +lunch box",
-          "price": 18900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "6fc9481f-85b9-4a67-b685-193481225cec": {
-          "uuid": "6fc9481f-85b9-4a67-b685-193481225cec",
-          "title": "Burger Four Cheeses",
-          "itemDescription": "Mozzarella, Dor Blue, Parmesan, Cheddar, tomatoes, arugula, cream sauce, and pesto.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 20800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/53532381-ae51-4a59-bda2-4a5be93a28f1",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "24f51c64-7b0e-42da-9076-a7cc6fe9663b": {
-          "uuid": "24f51c64-7b0e-42da-9076-a7cc6fe9663b",
-          "title": "Borjomi water",
-          "itemDescription": "330ml",
-          "price": 4900,
-          "nutritionalInfo": {}
-        },
-        "dc04df98-eafc-468c-8c62-664a8d914675": {
-          "uuid": "dc04df98-eafc-468c-8c62-664a8d914675",
-          "title": "Veal salad",
-          "itemDescription": "Veal fillet (sous-vide), baby Romaine lettuce, (arugula), cherry tomatoes, rоаsted pumpkin seeds, and blue cheese sauce +lunch box",
-          "price": 19900
-        },
-        "ad79668e-6482-478c-b843-16efb885f4e8": {
-          "uuid": "ad79668e-6482-478c-b843-16efb885f4e8",
-          "title": "Estragon",
-          "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
-          "price": 7500
-        },
-        "3c7e30c8-f9e1-4029-bf92-dd391d5af270": {
-          "uuid": "3c7e30c8-f9e1-4029-bf92-dd391d5af270",
-          "title": "Morshinska water/  no gas",
-          "itemDescription": "330ml",
-          "price": 3500,
-          "nutritionalInfo": {}
-        },
-        "6be9af39-2ca8-4a58-90ad-49815221bb61": {
-          "uuid": "6be9af39-2ca8-4a58-90ad-49815221bb61",
-          "title": "Veal Carpaccio",
-          "itemDescription": "With rocket salad (arugula), and Parmesan +lunch box",
-          "price": 13500
-        },
-        "6328a575-082f-4e91-9fef-78f0742361c6": {
-          "uuid": "6328a575-082f-4e91-9fef-78f0742361c6",
-          "title": "Coca-Cola/ Zero",
-          "itemDescription": "250mi",
-          "price": 3900,
-          "nutritionalInfo": {}
-        },
-        "1da52f3d-eb62-4c9f-855d-63d24470367f": {
-          "uuid": "1da52f3d-eb62-4c9f-855d-63d24470367f",
-          "title": "Pho Bo",
-          "itemDescription": "Vietnamese Beef, and Rice Noodle Soup with mushrooms. Served with Kimchi sauce +lunch box",
-          "price": 17900
-        },
-        "d618b139-26aa-49e5-927e-55d60acb2815": {
-          "uuid": "d618b139-26aa-49e5-927e-55d60acb2815",
-          "title": "Avocado salad with prawns",
-          "itemDescription": "Mixed salad with arugula (rocket salad), avocado, tomatoes, and mango dressing +lunch box",
-          "price": 29500
-        },
-        "4bb6df4c-89bd-41cc-bf9a-c0dca273df64": {
-          "uuid": "4bb6df4c-89bd-41cc-bf9a-c0dca273df64",
-          "title": "Eel salad",
-          "itemDescription": "Mixed salad, eel, cream cheese, cucumber, tomatoes, sesame, and Teriyaki sauce +lunch box",
-          "price": 28500
-        },
-        "82018e3d-28e8-4f1b-8676-ffd6981051bd": {
-          "uuid": "82018e3d-28e8-4f1b-8676-ffd6981051bd",
-          "title": "Steak Ribeye",
-          "itemDescription": "Price for 400g +lunch box.\n",
-          "price": 44600
-        },
-        "696d099d-6ce3-4a4a-a256-06d8b587eea0": {
-          "uuid": "696d099d-6ce3-4a4a-a256-06d8b587eea0",
-          "title": "Burger",
-          "itemDescription": "Beef patty, lettuce, tomatoes, pickles, and sauce.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 16500,
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "231e1501-684f-4b8b-8ce6-2c0e42a2f62d": {
-          "uuid": "231e1501-684f-4b8b-8ce6-2c0e42a2f62d",
-          "title": "Focaccia with tomatoes, and arugula",
-          "itemDescription": "+ luch box",
-          "price": 9500,
-          "customizationUuids": [
-            "4aab380e-4de5-46cc-b8bb-b06d88753038"
-          ]
-        },
-        "0dbc5c4e-6a21-45f0-a7f9-e02d56a4c8c2": {
-          "uuid": "0dbc5c4e-6a21-45f0-a7f9-e02d56a4c8c2",
-          "title": "Poke bowl",
-          "itemDescription": "rice, seaweed, nori, tobiko, mangold, cherry tomatoes, cucumber, baby spinach, radish, dressed with gomadare sauce, teriyaki sauce and japanese mayonnaise",
-          "price": 23900,
-          "nutritionalInfo": {}
-        },
-        "fd71b8fc-f973-49ab-9950-d2929f544d44": {
-          "uuid": "fd71b8fc-f973-49ab-9950-d2929f544d44",
-          "title": "Club-Mate Cola",
-          "itemDescription": "330ml",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "e6183ff3-40d5-4634-926d-f49fff2cde4e": {
-          "uuid": "e6183ff3-40d5-4634-926d-f49fff2cde4e",
-          "title": "Miso Soup with salmon",
-          "itemDescription": "With mushrooms, tofu, and Wacame +lunch box",
-          "price": 14900
-        },
-        "2a6b89ec-d5ed-49e1-856b-a2f245108647": {
-          "uuid": "2a6b89ec-d5ed-49e1-856b-a2f245108647",
-          "title": "Brownie with Gorgonzola cheese",
-          "itemDescription": "+lunch box",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/949a07dc-c1e9-491f-9624-45e6aa8f4b23",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "1b46b876-1ef1-4883-b09d-e33fbe807109": {
-          "uuid": "1b46b876-1ef1-4883-b09d-e33fbe807109",
-          "title": "Makar Beer Amber Ale",
-          "itemDescription": "Dark craft beer, 330 ml",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "6f5b8a33-83a1-4e0a-bed5-e9c29da66bc2": {
-          "uuid": "6f5b8a33-83a1-4e0a-bed5-e9c29da66bc2",
-          "title": "Turkey with wok vegetables",
-          "itemDescription": "Turkey, vegetables, chilli peppers, Muer mushrooms, Mirin sauce, oyster sauce, cilantro, green onions, and sesame +lunch box",
-          "price": 19900
-        },
-        "0a372ea7-d1c0-4c14-9e01-49c54c3d4b5f": {
-          "uuid": "0a372ea7-d1c0-4c14-9e01-49c54c3d4b5f",
-          "title": "Cheeseburger",
-          "itemDescription": "Beef patty, Cheddar, lettuce, tomatoes, pickles, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 17900,
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "47a1c2b2-ab2a-4967-84e1-8532cd21b5c1": {
-          "uuid": "47a1c2b2-ab2a-4967-84e1-8532cd21b5c1",
-          "title": "Grilled Vegetables",
-          "itemDescription": "Seasonal grilled veggies +lunch box",
-          "price": 9900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "d7854635-cf1a-4099-ada0-e5c488b7b746": {
-          "uuid": "d7854635-cf1a-4099-ada0-e5c488b7b746",
-          "title": "Apple-Lavender",
-          "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
-          "price": 7500
-        },
-        "8ac15bbe-06c6-4453-b9ef-049212d5d1ea": {
-          "uuid": "8ac15bbe-06c6-4453-b9ef-049212d5d1ea",
-          "title": "Gomadare sauce",
-          "itemDescription": "",
-          "price": 4500
-        },
-        "1201c8ce-761a-474f-b9e3-5d58b010eaeb": {
-          "uuid": "1201c8ce-761a-474f-b9e3-5d58b010eaeb",
-          "title": "Berryland  Perry Dry",
-          "itemDescription": "Pear cider, 750 ml",
-          "price": 24000,
-          "nutritionalInfo": {}
-        },
-        "b6d08218-c9df-431a-b4f3-80f93380edf5": {
-          "uuid": "b6d08218-c9df-431a-b4f3-80f93380edf5",
-          "title": "Sweet Chili sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "12bc93ce-2fe8-463e-a484-01d2443278c4": {
-          "uuid": "12bc93ce-2fe8-463e-a484-01d2443278c4",
-          "title": "Club-Mate",
-          "itemDescription": "330ml",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "07ae0d7f-b8d7-402b-892c-30e5fa1baa1e": {
-          "uuid": "07ae0d7f-b8d7-402b-892c-30e5fa1baa1e",
-          "title": "Creamed Spinachi",
-          "itemDescription": "With pine nuts +lunch box",
-          "price": 8900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "39d4152d-6bf8-47b5-8c80-a006b7ebbd84": {
-          "uuid": "39d4152d-6bf8-47b5-8c80-a006b7ebbd84",
-          "title": "Prawns",
-          "itemDescription": "10 (pcs.) fried prawns on garlic oil +lunch box",
-          "price": 28900
-        },
-        "edaf64e1-405d-4be0-92ea-4ca56465ec52": {
-          "uuid": "edaf64e1-405d-4be0-92ea-4ca56465ec52",
-          "title": "Berryland Kyiv Brut",
-          "itemDescription": "Apple cider, 750 ml",
-          "price": 24000,
-          "nutritionalInfo": {}
-        },
-        "12b227da-c1de-4c92-bd77-294209d396fa": {
-          "uuid": "12b227da-c1de-4c92-bd77-294209d396fa",
-          "title": "French Fries",
-          "itemDescription": "+lunch box",
-          "price": 6500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "d6cb8609-c364-43e2-aa0c-b5629a539163",
-            "59b235f4-3c67-4dc3-b8b9-d9484a48aaa8"
-          ]
-        },
-        "0633faa2-3c59-40ff-ad37-c02955ef1f8b": {
-          "uuid": "0633faa2-3c59-40ff-ad37-c02955ef1f8b",
-          "title": "Tom Yum",
-          "itemDescription": "Thai soup based on coconut milk with kaffir lime leaves, and Muer mushrooms +lunch box",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a7040d8-35d2-4923-8be8-8cc38740d01f",
-          "customizationUuids": [
-            "fadc1e35-29b5-48e4-b9d1-53fe70aeca2c"
-          ]
-        },
-        "ac0cfa7e-8f89-49a9-b90d-c10c6f3cfeaa": {
-          "uuid": "ac0cfa7e-8f89-49a9-b90d-c10c6f3cfeaa",
-          "title": "Warsteiner Fresh NA",
-          "itemDescription": "Non-alcohol light beer, 330",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "6eed5f36-d804-45a3-9dab-736c5d3b06e9": {
-          "uuid": "6eed5f36-d804-45a3-9dab-736c5d3b06e9",
-          "title": "Double Cheeseburger",
-          "itemDescription": "Beef patty, Cheddar, lettuce, tomatoes, pickles, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
-          "price": 22900,
-          "customizationUuids": [
-            "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
-            "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
-          ]
-        },
-        "1773c892-83fb-425e-8c28-74f5fcf0112e": {
-          "uuid": "1773c892-83fb-425e-8c28-74f5fcf0112e",
-          "title": "Mango-ginger Lemonade",
-          "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
-          "price": 7500
-        },
-        "f8e0908d-65e4-4f0c-a41c-f05f6f22ca82": {
-          "uuid": "f8e0908d-65e4-4f0c-a41c-f05f6f22ca82",
-          "title": "Teriyaki sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "225e3774-a752-414d-821d-9ed51c6a0d17": {
-          "uuid": "225e3774-a752-414d-821d-9ed51c6a0d17",
-          "title": "Makar Beer India Pale Ale Caravan",
-          "itemDescription": "Light craft beer, 330 ml",
-          "price": 8900,
-          "nutritionalInfo": {}
-        },
-        "d7ed46a5-f24e-4d59-a319-b3eaad55ce8b": {
-          "uuid": "d7ed46a5-f24e-4d59-a319-b3eaad55ce8b",
-          "title": "Spicy Mango sauce",
-          "itemDescription": "",
-          "price": 3500
-        },
-        "fe1c347b-eeba-4be8-9c3d-28f0245b03ee": {
-          "uuid": "fe1c347b-eeba-4be8-9c3d-28f0245b03ee",
-          "title": "Deli Set",
-          "itemDescription": "Prosciutto, Сhorizo, Fuet, and Basturma +lunch box",
-          "price": 14900
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "ce9c6514-65c6-447a-9c53-63299a03084f",
-          "title": "Starters",
-          "itemUuids": [
-            "231e1501-684f-4b8b-8ce6-2c0e42a2f62d",
-            "7e327470-6a2c-4031-99dc-ab4ff13bb98e",
-            "44089719-ef3c-43d3-a5fa-1cf4ec68c039",
-            "adeaaa70-b748-485e-ae42-5085504c4bb6",
-            "fe1c347b-eeba-4be8-9c3d-28f0245b03ee",
-            "f61dd4b1-b623-4770-8261-7de5e8671d24",
-            "6be9af39-2ca8-4a58-90ad-49815221bb61",
-            "de054e70-b4e6-4334-9623-2dfaf4286f25"
-          ]
-        },
-        {
-          "uuid": "227d5389-3042-4af2-bb1e-b03f5b4c3b8b",
-          "title": "Soups",
-          "itemUuids": [
-            "4a193a1e-2d2c-4c48-b0c7-1e3c555534fc",
-            "1da52f3d-eb62-4c9f-855d-63d24470367f",
-            "0633faa2-3c59-40ff-ad37-c02955ef1f8b",
-            "7a9ad06f-5530-44fc-a3ad-689562b90655",
-            "d19ab97c-cbc9-479c-8b14-dd0096e4eba8",
-            "e6183ff3-40d5-4634-926d-f49fff2cde4e",
-            "f54af6e6-6121-4ae2-bf29-acfccf010334"
-          ]
-        },
-        {
-          "uuid": "4a4b5866-30bd-424e-9ebf-fb674614d965",
-          "title": "Salads",
-          "itemUuids": [
-            "cb63eebb-e62a-42e6-82b0-02fce8f3b6af",
-            "d618b139-26aa-49e5-927e-55d60acb2815",
-            "6bc24818-186f-4fb6-b179-eeda9acad84f",
-            "764b09c3-0cd1-4dfa-9464-bb808bebda36",
-            "dc04df98-eafc-468c-8c62-664a8d914675",
-            "43adf53c-4f5c-4aa1-9022-d05c825c1c5b",
-            "4bb6df4c-89bd-41cc-bf9a-c0dca273df64",
-            "ab10c1a9-e1ed-431b-bacb-4a6500e86cb8"
-          ]
-        },
-        {
-          "uuid": "8cffc92b-58ec-4416-ae13-66a928236eb9",
-          "title": "Courses",
-          "itemUuids": [
-            "6f5b8a33-83a1-4e0a-bed5-e9c29da66bc2",
-            "07785e28-38b8-4b68-93d5-013a181d2941",
-            "b83af1f1-dfbf-4bb6-af8f-8e57aa21329e",
-            "ab9e7341-cc97-42c1-bf55-b8075fca97f4",
-            "41088008-356e-4d92-b2e3-a42e264a60f3",
-            "39d4152d-6bf8-47b5-8c80-a006b7ebbd84",
-            "79f90fc8-dfc8-440e-9052-b38b81584c81",
-            "0eddd15b-3025-4415-bf8d-47d48604461e",
-            "ddea9728-a1e2-4fad-82c0-d0c35b9b38ff",
-            "a81dae4e-296d-48dd-8f44-46b7280500c6",
-            "c62781f0-bd57-42b3-ad7f-288d4e0ba61f",
-            "0dbc5c4e-6a21-45f0-a7f9-e02d56a4c8c2"
-          ]
-        },
-        {
-          "uuid": "16a1f0a7-5f57-4603-8d2b-28be06a7ee35",
-          "title": "Steak",
-          "itemUuids": [
-            "82018e3d-28e8-4f1b-8676-ffd6981051bd",
-            "c135d24d-77b2-45c9-8209-a5faee6b8e12",
-            "22c837c8-d503-45e1-b9c4-2e7472c0fc5d"
-          ]
-        },
-        {
-          "uuid": "2880c090-6914-47ee-9118-84ad276aad16",
-          "title": "Burgers",
-          "itemUuids": [
-            "4520a219-98a9-42fb-b204-ee04cd2f0fba",
-            "9e5c7cdf-4624-4de9-b0c0-99c4aaf79080",
-            "3478656e-e215-41de-b73c-94279ef64709",
-            "0a7fd5af-60bf-4e99-90bf-f57c179b29e8",
-            "696d099d-6ce3-4a4a-a256-06d8b587eea0",
-            "0a372ea7-d1c0-4c14-9e01-49c54c3d4b5f",
-            "6eed5f36-d804-45a3-9dab-736c5d3b06e9",
-            "ac61f835-0716-448a-b938-3e1ec0a29040",
-            "9c6e65a9-0417-480e-ba25-a41bc2150f84",
-            "6fc9481f-85b9-4a67-b685-193481225cec",
-            "5ed8d4cf-0dfd-4e24-9690-0012b3121d61"
-          ]
-        },
-        {
-          "uuid": "74e27a92-3ef8-4493-a59f-d15b15054841",
-          "title": "Garnish",
-          "itemUuids": [
-            "12b227da-c1de-4c92-bd77-294209d396fa",
-            "ec1534c7-da2e-46d4-88fb-0b8605185393",
-            "07ae0d7f-b8d7-402b-892c-30e5fa1baa1e",
-            "1160b4c9-6507-43fe-9b49-c268e71addd5",
-            "47a1c2b2-ab2a-4967-84e1-8532cd21b5c1"
-          ]
-        },
-        {
-          "uuid": "f442a492-96c8-434a-8c37-0def65b6db18",
-          "title": "Sauces",
-          "itemUuids": [
-            "9d6caf8f-2e8f-45c6-8852-04ee0f457b10",
-            "68b9cea0-c59c-4825-ac20-fe11c4aa28d8",
-            "d7ed46a5-f24e-4d59-a319-b3eaad55ce8b",
-            "b6d08218-c9df-431a-b4f3-80f93380edf5",
-            "175203db-3ca5-473f-99aa-58c976fbf099",
-            "52d2645f-723c-4e02-b847-af37daca8198",
-            "8ac15bbe-06c6-4453-b9ef-049212d5d1ea",
-            "f8e0908d-65e4-4f0c-a41c-f05f6f22ca82",
-            "05d21d7c-2673-4092-8ae3-1486f41fc060",
-            "7fdfdddf-1bad-43ca-96a7-198e44e2250c"
-          ]
-        },
-        {
-          "uuid": "280ccc7a-7767-4e2f-be52-c58fa2dde9ef",
-          "title": "Desserts",
-          "itemUuids": [
-            "2a6b89ec-d5ed-49e1-856b-a2f245108647",
-            "b729b18e-3b35-4d74-aac6-5fabef114075"
-          ]
-        },
-        {
-          "uuid": "f4cba196-3f40-4d9f-9832-67a456734c44",
-          "title": "Lemonades",
-          "itemUuids": [
-            "ad79668e-6482-478c-b843-16efb885f4e8",
-            "87b0f19d-441d-4779-9c87-a7214f6a2305",
-            "2b81e47b-e8e1-4e42-bade-d9338fabcc96",
-            "d7854635-cf1a-4099-ada0-e5c488b7b746",
-            "1773c892-83fb-425e-8c28-74f5fcf0112e"
-          ]
-        },
-        {
-          "uuid": "75cf28f9-87fa-470a-ba37-a71f97ae92d2",
-          "title": "Bottled beer and cider",
-          "itemUuids": [
-            "1b46b876-1ef1-4883-b09d-e33fbe807109",
-            "225e3774-a752-414d-821d-9ed51c6a0d17",
-            "4617041d-1c25-47d8-bef7-642bc1707e70",
-            "8891ec22-9e9c-48e7-9972-da3471b2c4dd",
-            "ac0cfa7e-8f89-49a9-b90d-c10c6f3cfeaa",
-            "9ebaa32b-90ab-490c-9644-18b16acdcf90",
-            "edaf64e1-405d-4be0-92ea-4ca56465ec52",
-            "1201c8ce-761a-474f-b9e3-5d58b010eaeb"
-          ]
-        },
-        {
-          "uuid": "1b266bb3-8594-4616-a3b3-8ff2787af5a0",
-          "title": "Beverages",
-          "itemUuids": [
-            "af9777f1-b90a-4647-a550-14cb72887f7d",
-            "3c7e30c8-f9e1-4029-bf92-dd391d5af270",
-            "24f51c64-7b0e-42da-9076-a7cc6fe9663b",
-            "05829ded-f501-4906-add6-8de22ec035a0",
-            "6328a575-082f-4e91-9fef-78f0742361c6",
-            "12bc93ce-2fe8-463e-a484-01d2443278c4",
-            "fd71b8fc-f973-49ab-9950-d2929f544d44",
-            "520819a6-d422-4550-8bd3-a15869b83736"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.432576,
     "longitude": 30.51398099999999,
@@ -1086,5 +217,848 @@
     "storeRatingScore": 4.693693693693693,
     "ratingCount": "111"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5f2c296b-0776-4fe0-b045-17723e85bf9c"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5f2c296b-0776-4fe0-b045-17723e85bf9c",
+  "items": {
+    "8891ec22-9e9c-48e7-9972-da3471b2c4dd": {
+      "uuid": "8891ec22-9e9c-48e7-9972-da3471b2c4dd",
+      "title": "Corona Extra",
+      "itemDescription": "Light beer, 355 ml",
+      "price": 8900,
+      "nutritionalInfo": {},
+      "rules": "You must be 21 or older"
+    },
+    "7fdfdddf-1bad-43ca-96a7-198e44e2250c": {
+      "uuid": "7fdfdddf-1bad-43ca-96a7-198e44e2250c",
+      "title": "Truffle Aioli sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "b83af1f1-dfbf-4bb6-af8f-8e57aa21329e": {
+      "uuid": "b83af1f1-dfbf-4bb6-af8f-8e57aa21329e",
+      "title": "Pork \"Wing\"",
+      "itemDescription": "Smoked BBQ, served with wedge fries, mushrooms, grilled tomatoes, and Demi-Glace sauce +lunch box",
+      "price": 28500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2ca6a96-f3ba-4af5-a340-8d4d25512df1"
+    },
+    "41088008-356e-4d92-b2e3-a42e264a60f3": {
+      "uuid": "41088008-356e-4d92-b2e3-a42e264a60f3",
+      "title": "Animal style fries",
+      "itemDescription": "French fries with..   +lunch box",
+      "price": 17500,
+      "customizationUuids": [
+        "dbbbd08b-5515-4039-a3a0-af419ec40ddb"
+      ]
+    },
+    "0eddd15b-3025-4415-bf8d-47d48604461e": {
+      "uuid": "0eddd15b-3025-4415-bf8d-47d48604461e",
+      "title": "Chicken",
+      "itemDescription": "Half chicken with cream cheese, and muchrooms +lunch box",
+      "price": 18900
+    },
+    "4a193a1e-2d2c-4c48-b0c7-1e3c555534fc": {
+      "uuid": "4a193a1e-2d2c-4c48-b0c7-1e3c555534fc",
+      "title": "Curry Ramen",
+      "itemDescription": "With chicken, and egg, based on coconut milk with curry paste,Nutt, Chilli peper, and coriander +lunch box",
+      "price": 18500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/71989a91-3dc1-425e-941e-821ab6b3e765"
+    },
+    "7a9ad06f-5530-44fc-a3ad-689562b90655": {
+      "uuid": "7a9ad06f-5530-44fc-a3ad-689562b90655",
+      "title": "Borsch",
+      "itemDescription": "Classic borsch with beef, served with sour cream, spiced meat-free bacon paste, and malt bread +lunch box",
+      "price": 12900
+    },
+    "d19ab97c-cbc9-479c-8b14-dd0096e4eba8": {
+      "uuid": "d19ab97c-cbc9-479c-8b14-dd0096e4eba8",
+      "title": "Miso Soup",
+      "itemDescription": "With mushrooms, tofu, and Wacame +lunch box",
+      "price": 8900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "05d21d7c-2673-4092-8ae3-1486f41fc060": {
+      "uuid": "05d21d7c-2673-4092-8ae3-1486f41fc060",
+      "title": "Mustard BBQ sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "520819a6-d422-4550-8bd3-a15869b83736": {
+      "uuid": "520819a6-d422-4550-8bd3-a15869b83736",
+      "title": "Fentimans Tonic",
+      "itemDescription": "200ml",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "52d2645f-723c-4e02-b847-af37daca8198": {
+      "uuid": "52d2645f-723c-4e02-b847-af37daca8198",
+      "title": "Cheddar sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "1160b4c9-6507-43fe-9b49-c268e71addd5": {
+      "uuid": "1160b4c9-6507-43fe-9b49-c268e71addd5",
+      "title": "Couscous",
+      "itemDescription": "With tomatoes +lunch box",
+      "price": 7500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "9e5c7cdf-4624-4de9-b0c0-99c4aaf79080": {
+      "uuid": "9e5c7cdf-4624-4de9-b0c0-99c4aaf79080",
+      "title": "Bacon Burger",
+      "itemDescription": "Beef, Cheddar cheese, egg, bacon, lettuce, tomatoes, cucumber, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 23500,
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "af9777f1-b90a-4647-a550-14cb72887f7d": {
+      "uuid": "af9777f1-b90a-4647-a550-14cb72887f7d",
+      "title": "Morshinska water/ gas",
+      "itemDescription": "330ml",
+      "price": 3500,
+      "nutritionalInfo": {}
+    },
+    "2b81e47b-e8e1-4e42-bade-d9338fabcc96": {
+      "uuid": "2b81e47b-e8e1-4e42-bade-d9338fabcc96",
+      "title": "Cherry-Cranberry",
+      "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
+      "price": 7500
+    },
+    "ddea9728-a1e2-4fad-82c0-d0c35b9b38ff": {
+      "uuid": "ddea9728-a1e2-4fad-82c0-d0c35b9b38ff",
+      "title": "Grilled Mackerel",
+      "itemDescription": "With baked vegetables, and Teriyaki sauce +lunch box",
+      "price": 17900
+    },
+    "764b09c3-0cd1-4dfa-9464-bb808bebda36": {
+      "uuid": "764b09c3-0cd1-4dfa-9464-bb808bebda36",
+      "title": "Caesar with chicken fillet",
+      "itemDescription": "Romaine salad, roasted fillet, bacon, cherry tomatoes, quail eggs, dressing, Bread croutons, and Parmesan +lunch box",
+      "price": 15900
+    },
+    "4617041d-1c25-47d8-bef7-642bc1707e70": {
+      "uuid": "4617041d-1c25-47d8-bef7-642bc1707e70",
+      "title": "Makar Beer Milk Stout",
+      "itemDescription": "Dark craft beer, 330 ml",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "68b9cea0-c59c-4825-ac20-fe11c4aa28d8": {
+      "uuid": "68b9cea0-c59c-4825-ac20-fe11c4aa28d8",
+      "title": "BBQ sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "5ed8d4cf-0dfd-4e24-9690-0012b3121d61": {
+      "uuid": "5ed8d4cf-0dfd-4e24-9690-0012b3121d61",
+      "title": "Smoky burger",
+      "itemDescription": "black bun, beef patty, smoked duck, smoked cheese, lettuce, tomatoes, mustard sauce",
+      "price": 26900,
+      "nutritionalInfo": {}
+    },
+    "ab9e7341-cc97-42c1-bf55-b8075fca97f4": {
+      "uuid": "ab9e7341-cc97-42c1-bf55-b8075fca97f4",
+      "title": "Pulled Pork",
+      "itemDescription": "With sun-dried tomatoes, and grilled vegetables on hummus +lunch box",
+      "price": 19500
+    },
+    "0a7fd5af-60bf-4e99-90bf-f57c179b29e8": {
+      "uuid": "0a7fd5af-60bf-4e99-90bf-f57c179b29e8",
+      "title": "Pulled Pork Burger",
+      "itemDescription": "Pulled pork, sun-dried tomatoes, Cheddar, onions, lettuce, pickles, and Aioli.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 19900,
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "c62781f0-bd57-42b3-ad7f-288d4e0ba61f": {
+      "uuid": "c62781f0-bd57-42b3-ad7f-288d4e0ba61f",
+      "title": "Wok",
+      "itemDescription": "+lunch box",
+      "price": 12900,
+      "customizationUuids": [
+        "9d4c0555-0b39-4100-960d-aaa109e0d1b5"
+      ]
+    },
+    "ac61f835-0716-448a-b938-3e1ec0a29040": {
+      "uuid": "ac61f835-0716-448a-b938-3e1ec0a29040",
+      "title": "Caesar Burger",
+      "itemDescription": "Chicken with Caesar sauce, Parmesan, and Romaine lettuce.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 16500,
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "05829ded-f501-4906-add6-8de22ec035a0": {
+      "uuid": "05829ded-f501-4906-add6-8de22ec035a0",
+      "title": "Coca-Cola",
+      "itemDescription": "250ml",
+      "price": 3900,
+      "nutritionalInfo": {}
+    },
+    "f54af6e6-6121-4ae2-bf29-acfccf010334": {
+      "uuid": "f54af6e6-6121-4ae2-bf29-acfccf010334",
+      "title": "Kimchi soup",
+      "itemDescription": "with turkey, coconut milk, oyster mushroom, leek onion, paprika, spinach",
+      "price": 16900,
+      "nutritionalInfo": {}
+    },
+    "7e327470-6a2c-4031-99dc-ab4ff13bb98e": {
+      "uuid": "7e327470-6a2c-4031-99dc-ab4ff13bb98e",
+      "title": "Hummus",
+      "itemDescription": "Served with celery, carrots, and nachos +lunch box",
+      "price": 8500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "3478656e-e215-41de-b73c-94279ef64709": {
+      "uuid": "3478656e-e215-41de-b73c-94279ef64709",
+      "title": "Black Truffle",
+      "itemDescription": "Black bun, beef patty, Cheddar, arugula, balsamic onion confit, tomatoes, and homemade black truffle Aioli.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 20800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fef1243-c72d-44bb-b42e-f7233a81f47a",
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "f61dd4b1-b623-4770-8261-7de5e8671d24": {
+      "uuid": "f61dd4b1-b623-4770-8261-7de5e8671d24",
+      "title": "Spring Roll",
+      "itemDescription": "+lunch box",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a11cd62-ba29-4ae4-a5d2-cda35aeae3f4",
+      "customizationUuids": [
+        "9933e48f-c533-4a28-8816-439fd031bc01"
+      ]
+    },
+    "175203db-3ca5-473f-99aa-58c976fbf099": {
+      "uuid": "175203db-3ca5-473f-99aa-58c976fbf099",
+      "title": "Ketchup Heinz sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "6bc24818-186f-4fb6-b179-eeda9acad84f": {
+      "uuid": "6bc24818-186f-4fb6-b179-eeda9acad84f",
+      "title": "Asian veal salad",
+      "itemDescription": "Veal tenderloin (sous-vide), tomato, cucumber, Muer mushrooms, salad iceberg, sesame, Unagi sauce, lime juice, and tabasco sauce +lunch box",
+      "price": 20800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ee927c0-a252-4faa-bb06-d8b704a10689"
+    },
+    "ab10c1a9-e1ed-431b-bacb-4a6500e86cb8": {
+      "uuid": "ab10c1a9-e1ed-431b-bacb-4a6500e86cb8",
+      "title": "Prosciutto salad",
+      "itemDescription": "Mixed salas with salad mix with prosciutto, arugula, dried figs, Parmesan, and walnuts +lunch box",
+      "price": 17500
+    },
+    "07785e28-38b8-4b68-93d5-013a181d2941": {
+      "uuid": "07785e28-38b8-4b68-93d5-013a181d2941",
+      "title": "Pork ribs BBQ",
+      "itemDescription": "With Teriyaki sauce, and salad +lunch box",
+      "price": 27500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/87f18c2f-e382-41ff-a475-88adbc83d534"
+    },
+    "44089719-ef3c-43d3-a5fa-1cf4ec68c039": {
+      "uuid": "44089719-ef3c-43d3-a5fa-1cf4ec68c039",
+      "title": "Guacamole",
+      "itemDescription": "With tomatoes, and nachos or toasts +lunch box",
+      "price": 15900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cff29c19-fa65-4443-80c2-a1e2ee38220f",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "552bc15a-a778-438b-ae78-8c0b651abf81"
+      ]
+    },
+    "cb63eebb-e62a-42e6-82b0-02fce8f3b6af": {
+      "uuid": "cb63eebb-e62a-42e6-82b0-02fce8f3b6af",
+      "title": "Smoked salmon salad",
+      "itemDescription": "Mixed salad, cucumber, Parmesan, cherry tomatoes, arugula, chips from bread, capers, and dried tomatoes sauce +lunch box",
+      "price": 24900
+    },
+    "ec1534c7-da2e-46d4-88fb-0b8605185393": {
+      "uuid": "ec1534c7-da2e-46d4-88fb-0b8605185393",
+      "title": "Hedonist Fries",
+      "itemDescription": "With parmesan, and black truffle Aioli +lunch box",
+      "price": 7500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "59b235f4-3c67-4dc3-b8b9-d9484a48aaa8"
+      ]
+    },
+    "de054e70-b4e6-4334-9623-2dfaf4286f25": {
+      "uuid": "de054e70-b4e6-4334-9623-2dfaf4286f25",
+      "title": "Salmon Carpaccio",
+      "itemDescription": "With rocket salad (arugula), and Parmesan.",
+      "price": 17500
+    },
+    "a81dae4e-296d-48dd-8f44-46b7280500c6": {
+      "uuid": "a81dae4e-296d-48dd-8f44-46b7280500c6",
+      "title": "Salmon",
+      "itemDescription": "Baked salmon on creamed spinach with cherry tomatoes, cream cheese, and black truffle paste +lunch box",
+      "price": 29900
+    },
+    "b729b18e-3b35-4d74-aac6-5fabef114075": {
+      "uuid": "b729b18e-3b35-4d74-aac6-5fabef114075",
+      "title": "Cheesecake New York",
+      "itemDescription": "+lunch box",
+      "price": 11900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "9d6caf8f-2e8f-45c6-8852-04ee0f457b10": {
+      "uuid": "9d6caf8f-2e8f-45c6-8852-04ee0f457b10",
+      "title": "Hedonist Bourbon sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "9ebaa32b-90ab-490c-9644-18b16acdcf90": {
+      "uuid": "9ebaa32b-90ab-490c-9644-18b16acdcf90",
+      "title": "Makar Beer Pilsner Premium",
+      "itemDescription": "light beer, 330 ml",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "9c6e65a9-0417-480e-ba25-a41bc2150f84": {
+      "uuid": "9c6e65a9-0417-480e-ba25-a41bc2150f84",
+      "title": "Veggie Burger",
+      "itemDescription": "Grilled Tofu, Cheddar, lettuce, tomatoes, pickles, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 17500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "c135d24d-77b2-45c9-8209-a5faee6b8e12": {
+      "uuid": "c135d24d-77b2-45c9-8209-a5faee6b8e12",
+      "title": "Tenderloin",
+      "itemDescription": "With coffee-butter sauce, and grilled vegetables +lunch box",
+      "price": 30800
+    },
+    "4520a219-98a9-42fb-b204-ee04cd2f0fba": {
+      "uuid": "4520a219-98a9-42fb-b204-ee04cd2f0fba",
+      "title": "Black Burger",
+      "itemDescription": "Black bun, beef patty, Gorgonzola Picante or Cheddar, balsamic onion confit, tomatoes, and sauce.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 20800,
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "87b0f19d-441d-4779-9c87-a7214f6a2305": {
+      "uuid": "87b0f19d-441d-4779-9c87-a7214f6a2305",
+      "title": "Citrus Lemonade",
+      "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
+      "price": 7500
+    },
+    "adeaaa70-b748-485e-ae42-5085504c4bb6": {
+      "uuid": "adeaaa70-b748-485e-ae42-5085504c4bb6",
+      "title": "Plateau de Fromage",
+      "itemDescription": "Parmesan, Blue cheese, Brie with honey, and walnuts +lunch box",
+      "price": 18500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "22c837c8-d503-45e1-b9c4-2e7472c0fc5d": {
+      "uuid": "22c837c8-d503-45e1-b9c4-2e7472c0fc5d",
+      "title": "Steak for two",
+      "itemDescription": "With wedge fries, grilled vegetables, Cheddar, and BBQ sauces +lunch box",
+      "price": 60800
+    },
+    "79f90fc8-dfc8-440e-9052-b38b81584c81": {
+      "uuid": "79f90fc8-dfc8-440e-9052-b38b81584c81",
+      "title": "Chicken Wings",
+      "itemDescription": "Chicken Wings BBQ +lunch box",
+      "price": 14900
+    },
+    "43adf53c-4f5c-4aa1-9022-d05c825c1c5b": {
+      "uuid": "43adf53c-4f5c-4aa1-9022-d05c825c1c5b",
+      "title": "Caprese",
+      "itemDescription": "Mozzarella, tomatoes, homemade Pesto sauce made with pine nut, and balsamic dressing +lunch box",
+      "price": 18900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "6fc9481f-85b9-4a67-b685-193481225cec": {
+      "uuid": "6fc9481f-85b9-4a67-b685-193481225cec",
+      "title": "Burger Four Cheeses",
+      "itemDescription": "Mozzarella, Dor Blue, Parmesan, Cheddar, tomatoes, arugula, cream sauce, and pesto.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 20800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/53532381-ae51-4a59-bda2-4a5be93a28f1",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "24f51c64-7b0e-42da-9076-a7cc6fe9663b": {
+      "uuid": "24f51c64-7b0e-42da-9076-a7cc6fe9663b",
+      "title": "Borjomi water",
+      "itemDescription": "330ml",
+      "price": 4900,
+      "nutritionalInfo": {}
+    },
+    "dc04df98-eafc-468c-8c62-664a8d914675": {
+      "uuid": "dc04df98-eafc-468c-8c62-664a8d914675",
+      "title": "Veal salad",
+      "itemDescription": "Veal fillet (sous-vide), baby Romaine lettuce, (arugula), cherry tomatoes, rоаsted pumpkin seeds, and blue cheese sauce +lunch box",
+      "price": 19900
+    },
+    "ad79668e-6482-478c-b843-16efb885f4e8": {
+      "uuid": "ad79668e-6482-478c-b843-16efb885f4e8",
+      "title": "Estragon",
+      "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
+      "price": 7500
+    },
+    "3c7e30c8-f9e1-4029-bf92-dd391d5af270": {
+      "uuid": "3c7e30c8-f9e1-4029-bf92-dd391d5af270",
+      "title": "Morshinska water/  no gas",
+      "itemDescription": "330ml",
+      "price": 3500,
+      "nutritionalInfo": {}
+    },
+    "6be9af39-2ca8-4a58-90ad-49815221bb61": {
+      "uuid": "6be9af39-2ca8-4a58-90ad-49815221bb61",
+      "title": "Veal Carpaccio",
+      "itemDescription": "With rocket salad (arugula), and Parmesan +lunch box",
+      "price": 13500
+    },
+    "6328a575-082f-4e91-9fef-78f0742361c6": {
+      "uuid": "6328a575-082f-4e91-9fef-78f0742361c6",
+      "title": "Coca-Cola/ Zero",
+      "itemDescription": "250mi",
+      "price": 3900,
+      "nutritionalInfo": {}
+    },
+    "1da52f3d-eb62-4c9f-855d-63d24470367f": {
+      "uuid": "1da52f3d-eb62-4c9f-855d-63d24470367f",
+      "title": "Pho Bo",
+      "itemDescription": "Vietnamese Beef, and Rice Noodle Soup with mushrooms. Served with Kimchi sauce +lunch box",
+      "price": 17900
+    },
+    "d618b139-26aa-49e5-927e-55d60acb2815": {
+      "uuid": "d618b139-26aa-49e5-927e-55d60acb2815",
+      "title": "Avocado salad with prawns",
+      "itemDescription": "Mixed salad with arugula (rocket salad), avocado, tomatoes, and mango dressing +lunch box",
+      "price": 29500
+    },
+    "4bb6df4c-89bd-41cc-bf9a-c0dca273df64": {
+      "uuid": "4bb6df4c-89bd-41cc-bf9a-c0dca273df64",
+      "title": "Eel salad",
+      "itemDescription": "Mixed salad, eel, cream cheese, cucumber, tomatoes, sesame, and Teriyaki sauce +lunch box",
+      "price": 28500
+    },
+    "82018e3d-28e8-4f1b-8676-ffd6981051bd": {
+      "uuid": "82018e3d-28e8-4f1b-8676-ffd6981051bd",
+      "title": "Steak Ribeye",
+      "itemDescription": "Price for 400g +lunch box.\n",
+      "price": 44600
+    },
+    "696d099d-6ce3-4a4a-a256-06d8b587eea0": {
+      "uuid": "696d099d-6ce3-4a4a-a256-06d8b587eea0",
+      "title": "Burger",
+      "itemDescription": "Beef patty, lettuce, tomatoes, pickles, and sauce.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 16500,
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "231e1501-684f-4b8b-8ce6-2c0e42a2f62d": {
+      "uuid": "231e1501-684f-4b8b-8ce6-2c0e42a2f62d",
+      "title": "Focaccia with tomatoes, and arugula",
+      "itemDescription": "+ luch box",
+      "price": 9500,
+      "customizationUuids": [
+        "4aab380e-4de5-46cc-b8bb-b06d88753038"
+      ]
+    },
+    "0dbc5c4e-6a21-45f0-a7f9-e02d56a4c8c2": {
+      "uuid": "0dbc5c4e-6a21-45f0-a7f9-e02d56a4c8c2",
+      "title": "Poke bowl",
+      "itemDescription": "rice, seaweed, nori, tobiko, mangold, cherry tomatoes, cucumber, baby spinach, radish, dressed with gomadare sauce, teriyaki sauce and japanese mayonnaise",
+      "price": 23900,
+      "nutritionalInfo": {}
+    },
+    "fd71b8fc-f973-49ab-9950-d2929f544d44": {
+      "uuid": "fd71b8fc-f973-49ab-9950-d2929f544d44",
+      "title": "Club-Mate Cola",
+      "itemDescription": "330ml",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "e6183ff3-40d5-4634-926d-f49fff2cde4e": {
+      "uuid": "e6183ff3-40d5-4634-926d-f49fff2cde4e",
+      "title": "Miso Soup with salmon",
+      "itemDescription": "With mushrooms, tofu, and Wacame +lunch box",
+      "price": 14900
+    },
+    "2a6b89ec-d5ed-49e1-856b-a2f245108647": {
+      "uuid": "2a6b89ec-d5ed-49e1-856b-a2f245108647",
+      "title": "Brownie with Gorgonzola cheese",
+      "itemDescription": "+lunch box",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/949a07dc-c1e9-491f-9624-45e6aa8f4b23",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "1b46b876-1ef1-4883-b09d-e33fbe807109": {
+      "uuid": "1b46b876-1ef1-4883-b09d-e33fbe807109",
+      "title": "Makar Beer Amber Ale",
+      "itemDescription": "Dark craft beer, 330 ml",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "6f5b8a33-83a1-4e0a-bed5-e9c29da66bc2": {
+      "uuid": "6f5b8a33-83a1-4e0a-bed5-e9c29da66bc2",
+      "title": "Turkey with wok vegetables",
+      "itemDescription": "Turkey, vegetables, chilli peppers, Muer mushrooms, Mirin sauce, oyster sauce, cilantro, green onions, and sesame +lunch box",
+      "price": 19900
+    },
+    "0a372ea7-d1c0-4c14-9e01-49c54c3d4b5f": {
+      "uuid": "0a372ea7-d1c0-4c14-9e01-49c54c3d4b5f",
+      "title": "Cheeseburger",
+      "itemDescription": "Beef patty, Cheddar, lettuce, tomatoes, pickles, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 17900,
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "47a1c2b2-ab2a-4967-84e1-8532cd21b5c1": {
+      "uuid": "47a1c2b2-ab2a-4967-84e1-8532cd21b5c1",
+      "title": "Grilled Vegetables",
+      "itemDescription": "Seasonal grilled veggies +lunch box",
+      "price": 9900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "d7854635-cf1a-4099-ada0-e5c488b7b746": {
+      "uuid": "d7854635-cf1a-4099-ada0-e5c488b7b746",
+      "title": "Apple-Lavender",
+      "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
+      "price": 7500
+    },
+    "8ac15bbe-06c6-4453-b9ef-049212d5d1ea": {
+      "uuid": "8ac15bbe-06c6-4453-b9ef-049212d5d1ea",
+      "title": "Gomadare sauce",
+      "itemDescription": "",
+      "price": 4500
+    },
+    "1201c8ce-761a-474f-b9e3-5d58b010eaeb": {
+      "uuid": "1201c8ce-761a-474f-b9e3-5d58b010eaeb",
+      "title": "Berryland  Perry Dry",
+      "itemDescription": "Pear cider, 750 ml",
+      "price": 24000,
+      "nutritionalInfo": {}
+    },
+    "b6d08218-c9df-431a-b4f3-80f93380edf5": {
+      "uuid": "b6d08218-c9df-431a-b4f3-80f93380edf5",
+      "title": "Sweet Chili sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "12bc93ce-2fe8-463e-a484-01d2443278c4": {
+      "uuid": "12bc93ce-2fe8-463e-a484-01d2443278c4",
+      "title": "Club-Mate",
+      "itemDescription": "330ml",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "07ae0d7f-b8d7-402b-892c-30e5fa1baa1e": {
+      "uuid": "07ae0d7f-b8d7-402b-892c-30e5fa1baa1e",
+      "title": "Creamed Spinachi",
+      "itemDescription": "With pine nuts +lunch box",
+      "price": 8900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "39d4152d-6bf8-47b5-8c80-a006b7ebbd84": {
+      "uuid": "39d4152d-6bf8-47b5-8c80-a006b7ebbd84",
+      "title": "Prawns",
+      "itemDescription": "10 (pcs.) fried prawns on garlic oil +lunch box",
+      "price": 28900
+    },
+    "edaf64e1-405d-4be0-92ea-4ca56465ec52": {
+      "uuid": "edaf64e1-405d-4be0-92ea-4ca56465ec52",
+      "title": "Berryland Kyiv Brut",
+      "itemDescription": "Apple cider, 750 ml",
+      "price": 24000,
+      "nutritionalInfo": {}
+    },
+    "12b227da-c1de-4c92-bd77-294209d396fa": {
+      "uuid": "12b227da-c1de-4c92-bd77-294209d396fa",
+      "title": "French Fries",
+      "itemDescription": "+lunch box",
+      "price": 6500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "d6cb8609-c364-43e2-aa0c-b5629a539163",
+        "59b235f4-3c67-4dc3-b8b9-d9484a48aaa8"
+      ]
+    },
+    "0633faa2-3c59-40ff-ad37-c02955ef1f8b": {
+      "uuid": "0633faa2-3c59-40ff-ad37-c02955ef1f8b",
+      "title": "Tom Yum",
+      "itemDescription": "Thai soup based on coconut milk with kaffir lime leaves, and Muer mushrooms +lunch box",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a7040d8-35d2-4923-8be8-8cc38740d01f",
+      "customizationUuids": [
+        "fadc1e35-29b5-48e4-b9d1-53fe70aeca2c"
+      ]
+    },
+    "ac0cfa7e-8f89-49a9-b90d-c10c6f3cfeaa": {
+      "uuid": "ac0cfa7e-8f89-49a9-b90d-c10c6f3cfeaa",
+      "title": "Warsteiner Fresh NA",
+      "itemDescription": "Non-alcohol light beer, 330",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "6eed5f36-d804-45a3-9dab-736c5d3b06e9": {
+      "uuid": "6eed5f36-d804-45a3-9dab-736c5d3b06e9",
+      "title": "Double Cheeseburger",
+      "itemDescription": "Beef patty, Cheddar, lettuce, tomatoes, pickles, sauce, and ketchup.Served with French Fries, side salad, and sauce. Available in sizes: XL, XXL, XXXL. All burgers available “naked” (buns free with crunch salade) +lunch box",
+      "price": 22900,
+      "customizationUuids": [
+        "f5fdee9e-7af9-4473-ac2d-9ec7d73076af",
+        "8a5be349-452e-4f87-bcc7-c4d4951f1e68"
+      ]
+    },
+    "1773c892-83fb-425e-8c28-74f5fcf0112e": {
+      "uuid": "1773c892-83fb-425e-8c28-74f5fcf0112e",
+      "title": "Mango-ginger Lemonade",
+      "itemDescription": "Homemade lemonades (infused syrups made by our bartenders), (380ml).",
+      "price": 7500
+    },
+    "f8e0908d-65e4-4f0c-a41c-f05f6f22ca82": {
+      "uuid": "f8e0908d-65e4-4f0c-a41c-f05f6f22ca82",
+      "title": "Teriyaki sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "225e3774-a752-414d-821d-9ed51c6a0d17": {
+      "uuid": "225e3774-a752-414d-821d-9ed51c6a0d17",
+      "title": "Makar Beer India Pale Ale Caravan",
+      "itemDescription": "Light craft beer, 330 ml",
+      "price": 8900,
+      "nutritionalInfo": {}
+    },
+    "d7ed46a5-f24e-4d59-a319-b3eaad55ce8b": {
+      "uuid": "d7ed46a5-f24e-4d59-a319-b3eaad55ce8b",
+      "title": "Spicy Mango sauce",
+      "itemDescription": "",
+      "price": 3500
+    },
+    "fe1c347b-eeba-4be8-9c3d-28f0245b03ee": {
+      "uuid": "fe1c347b-eeba-4be8-9c3d-28f0245b03ee",
+      "title": "Deli Set",
+      "itemDescription": "Prosciutto, Сhorizo, Fuet, and Basturma +lunch box",
+      "price": 14900
+    }
+  }
 }

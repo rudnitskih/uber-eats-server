@@ -20,971 +20,144 @@
   ],
   "sections": [
     {
-      "uuid": "34cac7d8-118e-44d6-97d6-2aa820db7d4c",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:30 AM – 9:45 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "4fb8fb86-fbb0-4f10-bdb3-ff46df3e6084",
-        "f5e2dfac-0d02-4e39-b339-6a1460efdb15",
-        "aab9a9a9-5525-41b3-b84e-5728bf6ba881",
-        "b6ff213b-b09a-4f9f-ae5f-84a37dce3f33",
-        "8760f88a-ccc8-4abd-8693-d5fc1fdba0cd",
-        "ec8def8f-c880-4e1d-b683-e891ef8fd2d4",
-        "93fa047d-dc9b-448f-9c02-4dadc5c78122",
-        "ccbec9b7-f324-4e95-90b1-5b7638a5f0e4",
-        "7a9aa5c5-a615-4879-87c2-54f9a1352a96",
-        "3c2d501e-8b67-4516-889d-bb3b19ca902d",
-        "db4f7819-b523-4c15-b84f-19f1df76729a"
+      "uuid": "4fb8fb86-fbb0-4f10-bdb3-ff46df3e6084",
+      "title": "Сheburek",
+      "subtitle": "",
+      "itemUuids": [
+        "8adf6678-4143-4c41-b772-5dc61e558154",
+        "462947ba-0abf-4aba-9cbf-20564f081d7a",
+        "644df563-c61e-4abf-b467-92c967114802",
+        "8d6e7bea-b6e0-48fb-9e5e-baf2589ac3cf"
+      ]
+    },
+    {
+      "uuid": "f5e2dfac-0d02-4e39-b339-6a1460efdb15",
+      "title": "Sweet cheburek",
+      "subtitle": "",
+      "itemUuids": [
+        "a4432b59-1c69-4447-b624-c3a93236211e",
+        "4341777e-50ff-4731-b49b-1c94006b4577"
+      ]
+    },
+    {
+      "uuid": "aab9a9a9-5525-41b3-b84e-5728bf6ba881",
+      "title": "Yantyh",
+      "subtitle": "",
+      "itemUuids": [
+        "fb6e8ae2-268b-4d7d-aa5e-b115711d8b2b",
+        "ff2d2c2a-2519-4c24-981f-1bceee7c39e7",
+        "25263676-fede-4c59-8e9a-c4d1928d02e9",
+        "e361ff80-f8b1-4c93-bba0-773a948b78de"
+      ]
+    },
+    {
+      "uuid": "b6ff213b-b09a-4f9f-ae5f-84a37dce3f33",
+      "title": "Sweet yantyh",
+      "subtitle": "",
+      "itemUuids": [
+        "11af25b3-406f-4e06-8416-ea455559563a",
+        "5285cbd0-e8a4-434a-a851-fb691bc22103"
+      ]
+    },
+    {
+      "uuid": "8760f88a-ccc8-4abd-8693-d5fc1fdba0cd",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "3d717a71-9f38-40c7-bd2e-16a31b166e95",
+        "2d86bd71-e768-43e5-a30e-cc71cf0672c7",
+        "5a8f849e-5987-4e04-b968-af3062dc26a0",
+        "793f7824-26b5-4dd8-8061-88ca958649ac"
+      ]
+    },
+    {
+      "uuid": "ec8def8f-c880-4e1d-b683-e891ef8fd2d4",
+      "title": "Second courses",
+      "subtitle": "",
+      "itemUuids": [
+        "c0b4fb20-378b-431a-a01e-496717fac585",
+        "bfd1c5de-5c0a-4ef7-a112-73aa856a8815",
+        "bc5d7d71-afc8-4ddd-b28d-57204602bca9",
+        "1e2fb46e-38e0-4c30-9e6c-454f3e9098f3",
+        "1f0b4fe0-7736-4210-aa6a-b4c782c056ac"
+      ]
+    },
+    {
+      "uuid": "93fa047d-dc9b-448f-9c02-4dadc5c78122",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "d7501751-ddee-42d9-95d1-d41c86a1a276",
+        "eed66d1a-3e95-486c-9ef5-ccda2c43922d",
+        "c9054fed-b904-4282-b426-0713fb25f4b5",
+        "8b9ac805-d015-48b8-99bd-8ed4b59af1c7",
+        "6b3f2c81-74f4-4b64-9367-609d0c02c259",
+        "b0597734-f9f5-45cf-b28e-5cd42f7b8457",
+        "8255de41-d81a-49a3-82c5-e4fcc707baad"
+      ]
+    },
+    {
+      "uuid": "ccbec9b7-f324-4e95-90b1-5b7638a5f0e4",
+      "title": "Grill menu",
+      "subtitle": "",
+      "itemUuids": [
+        "0111f2c3-a490-4941-a533-bdbe8bf62ca1",
+        "191dc929-4e3b-4d1c-8759-a327814835fe",
+        "d0b136e1-0c15-48bb-9cd7-1ff9521937cd",
+        "9727d252-75be-4afa-a86f-dcfd00ea1dc4",
+        "de6b60eb-961a-47dc-9c9f-23fd9e485233",
+        "cc6fb643-32ba-409e-8c58-af6b7af1547f",
+        "b5835bfd-b2ac-4b71-8755-ae979f1ef0fa",
+        "0cdbfbb5-eab5-4196-add2-bd057d2ba305",
+        "ca91358f-edd6-493c-8afe-68098beb538f",
+        "c897ac43-e93d-44e4-b44d-cc657debe967"
+      ]
+    },
+    {
+      "uuid": "7a9aa5c5-a615-4879-87c2-54f9a1352a96",
+      "title": "Other",
+      "subtitle": "",
+      "itemUuids": [
+        "d9b332f1-3bfd-41b5-a8c6-7cc44c8c9d9d",
+        "60996215-1871-427a-b3c8-47c847e3f101",
+        "377ca9f0-6dda-42ca-934d-8de935f3ddbf",
+        "3c096fb3-f647-4e4f-977a-730c88be39e3",
+        "e5b4b47f-47a7-48a6-bd2a-73edbd7968de",
+        "f8026cde-dfc3-4c60-9d4a-5a2a0ff62d86",
+        "cf19b56e-bb2b-4b56-a5df-47f3c7c41d75"
+      ]
+    },
+    {
+      "uuid": "3c2d501e-8b67-4516-889d-bb3b19ca902d",
+      "title": "Sweets",
+      "subtitle": "",
+      "itemUuids": [
+        "5a02e0bf-71f7-4d32-b918-a09e2c8e1544",
+        "8691415d-7d6c-4dce-a9e0-fa6b661e0621",
+        "ee28a296-83e3-4bc0-b1b4-00cfc7ff7af7",
+        "57fd7b27-7092-4ea7-9530-e8e9199d7130",
+        "635ab99c-92fd-4331-8751-96275c9731c6",
+        "4ddfcf8f-e24b-4578-bc34-a2ef9190f2ca",
+        "a0b1158c-b375-4489-bba9-455be7ee1e7e",
+        "f80ff71c-834b-44d2-9d92-b2a69e5a830c"
+      ]
+    },
+    {
+      "uuid": "db4f7819-b523-4c15-b84f-19f1df76729a",
+      "title": "Beverages",
+      "subtitle": "",
+      "itemUuids": [
+        "ccd40e4d-e3bc-4fd2-ae2a-91aa797f3075",
+        "88c242de-fbb8-4006-9713-2e29dc48750b",
+        "b5b2dca6-0359-4d1d-9be8-cbdc841c215a",
+        "8712cbe3-9e29-4127-b55f-3ad69610c86a",
+        "abd33514-2a1e-4c70-86bb-d3432e1e8033",
+        "0bfbc8c4-602e-492f-b0f6-0f5208875efb",
+        "006496e6-6d10-404a-8466-aa9525e0b455",
+        "677ae3ee-660b-4502-a497-0dd42bef3a43"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "34cac7d8-118e-44d6-97d6-2aa820db7d4c": {
-      "itemsMap": {
-        "eed66d1a-3e95-486c-9ef5-ccda2c43922d": {
-          "uuid": "eed66d1a-3e95-486c-9ef5-ccda2c43922d",
-          "title": "Berdzhymek shorbasi",
-          "itemDescription": "Cream soup with lenlі (350g).",
-          "price": 6500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/67a36709-6582-4ecc-9e3b-9f06997360d4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "60996215-1871-427a-b3c8-47c847e3f101": {
-          "uuid": "60996215-1871-427a-b3c8-47c847e3f101",
-          "title": "Adjika",
-          "itemDescription": "Spicy sause (30g).",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ca91358f-edd6-493c-8afe-68098beb538f": {
-          "uuid": "ca91358f-edd6-493c-8afe-68098beb538f",
-          "title": "Haburha shyshlyk",
-          "itemDescription": "A shish kebab of rack (180g).",
-          "price": 18500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c9054fed-b904-4282-b426-0713fb25f4b5": {
-          "uuid": "c9054fed-b904-4282-b426-0713fb25f4b5",
-          "title": "Chozma Lagman",
-          "itemDescription": "Traditional Lagman from homemade noodles \"chozma\", flled with vegetable, and meat gravy on beef broth (350g).",
-          "price": 9800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d13ddac-3aa3-4c75-a0cc-cb01173d82b5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cc6fb643-32ba-409e-8c58-af6b7af1547f": {
-          "uuid": "cc6fb643-32ba-409e-8c58-af6b7af1547f",
-          "title": "Tauh hyzartmasi",
-          "itemDescription": "Fried chicken meat with vegetables served in a pan (250g).",
-          "price": 13500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0c56cab0-4f39-452c-9ea1-21073195b9bf"
-          ]
-        },
-        "0111f2c3-a490-4941-a533-bdbe8bf62ca1": {
-          "uuid": "0111f2c3-a490-4941-a533-bdbe8bf62ca1",
-          "title": "Hozu shyshlyk",
-          "itemDescription": "A shish kebab of mutton (180g).",
-          "price": 18500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "462947ba-0abf-4aba-9cbf-20564f081d7a": {
-          "uuid": "462947ba-0abf-4aba-9cbf-20564f081d7a",
-          "title": "Cheburek with cheese",
-          "itemDescription": "With bryndza, and greenery (1pcs).",
-          "price": 3500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "fb6e8ae2-268b-4d7d-aa5e-b115711d8b2b": {
-          "uuid": "fb6e8ae2-268b-4d7d-aa5e-b115711d8b2b",
-          "title": "Yantyh with meat",
-          "itemDescription": "1pcs.",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ded61bab-ad58-4bfb-942a-ad0cd7b86bb6",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "f8026cde-dfc3-4c60-9d4a-5a2a0ff62d86": {
-          "uuid": "f8026cde-dfc3-4c60-9d4a-5a2a0ff62d86",
-          "title": "Honey",
-          "itemDescription": "30g.",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "635ab99c-92fd-4331-8751-96275c9731c6": {
-          "uuid": "635ab99c-92fd-4331-8751-96275c9731c6",
-          "title": "Chocolate baklava with almonds",
-          "itemDescription": "",
-          "price": 2400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e32141ca-6f97-4e10-a1b7-e4f46835812a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "39b912f9-c2fc-4f65-82a5-77126bb16d75"
-          ]
-        },
-        "e361ff80-f8b1-4c93-bba0-773a948b78de": {
-          "uuid": "e361ff80-f8b1-4c93-bba0-773a948b78de",
-          "title": "Yantyh Mix",
-          "itemDescription": "1pcs.",
-          "price": 3900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7dddf68a-046f-49da-994e-7da046101c77",
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "4341777e-50ff-4731-b49b-1c94006b4577": {
-          "uuid": "4341777e-50ff-4731-b49b-1c94006b4577",
-          "title": "Cheburek with cottage cheese and raisins",
-          "itemDescription": "1pcs.",
-          "price": 3500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "88c242de-fbb8-4006-9713-2e29dc48750b": {
-          "uuid": "88c242de-fbb8-4006-9713-2e29dc48750b",
-          "title": "Lemonade «Natahtari »",
-          "itemDescription": "500ml.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/280a0b98-f314-40b7-8078-75782c10af54",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "50798e87-b3c4-43f6-949c-dbbcaed943ac"
-          ]
-        },
-        "de6b60eb-961a-47dc-9c9f-23fd9e485233": {
-          "uuid": "de6b60eb-961a-47dc-9c9f-23fd9e485233",
-          "title": "Dana hyzartmasi",
-          "itemDescription": "Fried veal served with vegetables in a pan (250g).",
-          "price": 16500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8abbbc17-a7dd-4487-ab2f-30300a6daa47"
-          ]
-        },
-        "a4432b59-1c69-4447-b624-c3a93236211e": {
-          "uuid": "a4432b59-1c69-4447-b624-c3a93236211e",
-          "title": "Cheburek with apple and cinnamon",
-          "itemDescription": "1pcs.",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5dcdac36-01f0-4fae-997c-34a5cd87398f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "c0b4fb20-378b-431a-a01e-496717fac585": {
-          "uuid": "c0b4fb20-378b-431a-a01e-496717fac585",
-          "title": "Manty",
-          "itemDescription": "Chopped muon with onions in a slim dough, and steamed (4pcs).",
-          "price": 11000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9911c9bc-f4c6-40cc-a69e-2c1c1eba1ddf",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cf19b56e-bb2b-4b56-a5df-47f3c7c41d75": {
-          "uuid": "cf19b56e-bb2b-4b56-a5df-47f3c7c41d75",
-          "title": "Jam",
-          "itemDescription": "Figs, quince, raspberry, and rose (30g).",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ff2d2c2a-2519-4c24-981f-1bceee7c39e7": {
-          "uuid": "ff2d2c2a-2519-4c24-981f-1bceee7c39e7",
-          "title": "Yantyh with cheese",
-          "itemDescription": "With bryndza, and greenery (1pcs).",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/88e6f663-c53a-4e97-9b8a-94bdc3f6fb41",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "8691415d-7d6c-4dce-a9e0-fa6b661e0621": {
-          "uuid": "8691415d-7d6c-4dce-a9e0-fa6b661e0621",
-          "title": "Turkish Baklava",
-          "itemDescription": "",
-          "price": 2800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/12144be3-7d5a-455f-bd1b-d8cdfebebffc",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "48c6ea96-361e-4dab-835d-55b40de158bc"
-          ]
-        },
-        "1e2fb46e-38e0-4c30-9e6c-454f3e9098f3": {
-          "uuid": "1e2fb46e-38e0-4c30-9e6c-454f3e9098f3",
-          "title": "Yyry Ash",
-          "itemDescription": "Homemade meat dumplings served with walnuts, and melted buer (200g).",
-          "price": 9600,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ccd40e4d-e3bc-4fd2-ae2a-91aa797f3075": {
-          "uuid": "ccd40e4d-e3bc-4fd2-ae2a-91aa797f3075",
-          "title": "Juice «Rich»",
-          "itemDescription": "1000ml.",
-          "price": 6700,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "8e8e007e-8bd7-4a0f-a4c2-d945d78d2c12"
-          ]
-        },
-        "8d6e7bea-b6e0-48fb-9e5e-baf2589ac3cf": {
-          "uuid": "8d6e7bea-b6e0-48fb-9e5e-baf2589ac3cf",
-          "title": "Cheburek Mix",
-          "itemDescription": "1pcs.",
-          "price": 3900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7dddf68a-046f-49da-994e-7da046101c77",
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "5a02e0bf-71f7-4d32-b918-a09e2c8e1544": {
-          "uuid": "5a02e0bf-71f7-4d32-b918-a09e2c8e1544",
-          "title": "Crimean Baklava",
-          "itemDescription": "",
-          "price": 2400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ada3156-9f1c-4e22-b637-3bc844c40989",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "39b912f9-c2fc-4f65-82a5-77126bb16d75"
-          ]
-        },
-        "b0597734-f9f5-45cf-b28e-5cd42f7b8457": {
-          "uuid": "b0597734-f9f5-45cf-b28e-5cd42f7b8457",
-          "title": "Yifah ash",
-          "itemDescription": "Tradional Crimean Tatar beef dumplings in broth with onion roast (350g).",
-          "price": 8300,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0cdbfbb5-eab5-4196-add2-bd057d2ba305": {
-          "uuid": "0cdbfbb5-eab5-4196-add2-bd057d2ba305",
-          "title": "Hyyma shyshlyk",
-          "itemDescription": "Lula-kebab (180g).",
-          "price": 18500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/514aa9dd-29b8-425b-8fcc-645912f5afc0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "11af25b3-406f-4e06-8416-ea455559563a": {
-          "uuid": "11af25b3-406f-4e06-8416-ea455559563a",
-          "title": "Yantyh with apple and cinnamon",
-          "itemDescription": "1pcs.",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d34ef208-694d-4a8e-9421-23922ebbc670",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "d7501751-ddee-42d9-95d1-d41c86a1a276": {
-          "uuid": "d7501751-ddee-42d9-95d1-d41c86a1a276",
-          "title": "Qaynatma sorba",
-          "itemDescription": "Soup with lamb, vegetables, and spices (350g).",
-          "price": 9000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5307d11a-5813-4522-ad09-c56d6ca9cea2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "006496e6-6d10-404a-8466-aa9525e0b455": {
-          "uuid": "006496e6-6d10-404a-8466-aa9525e0b455",
-          "title": "Fanta",
-          "itemDescription": "250ml.",
-          "price": 2500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f80ff71c-834b-44d2-9d92-b2a69e5a830c": {
-          "uuid": "f80ff71c-834b-44d2-9d92-b2a69e5a830c",
-          "title": "Set of Rahat locum",
-          "itemDescription": "200g.",
-          "price": 11000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "1ea3275c-c64f-4f73-87cb-dec8ec099217"
-          ]
-        },
-        "2d86bd71-e768-43e5-a30e-cc71cf0672c7": {
-          "uuid": "2d86bd71-e768-43e5-a30e-cc71cf0672c7",
-          "title": "Сhoban",
-          "itemDescription": "Tomato, cucumber, greens, and onion (200g).",
-          "price": 7500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bfd1c5de-5c0a-4ef7-a112-73aa856a8815": {
-          "uuid": "bfd1c5de-5c0a-4ef7-a112-73aa856a8815",
-          "title": "Yaprah Sarma",
-          "itemDescription": "Rolls with young grape leaves (200g).",
-          "price": 9800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d1f8cf4e-0188-4120-82b9-7800de4e9cdd",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "57fd7b27-7092-4ea7-9530-e8e9199d7130": {
-          "uuid": "57fd7b27-7092-4ea7-9530-e8e9199d7130",
-          "title": "Baklava with raisins and cinnamon",
-          "itemDescription": "",
-          "price": 2400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/900918b2-3317-4f49-acc8-2815c70c7bbe",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "39b912f9-c2fc-4f65-82a5-77126bb16d75"
-          ]
-        },
-        "0bfbc8c4-602e-492f-b0f6-0f5208875efb": {
-          "uuid": "0bfbc8c4-602e-492f-b0f6-0f5208875efb",
-          "title": "Coca Cola",
-          "itemDescription": "250ml.",
-          "price": 2500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "793f7824-26b5-4dd8-8061-88ca958649ac": {
-          "uuid": "793f7824-26b5-4dd8-8061-88ca958649ac",
-          "title": "Lahana",
-          "itemDescription": "Cabbage, carrot, and onion (200g).",
-          "price": 8800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4ddfcf8f-e24b-4578-bc34-a2ef9190f2ca": {
-          "uuid": "4ddfcf8f-e24b-4578-bc34-a2ef9190f2ca",
-          "title": "Sweet mix",
-          "itemDescription": "250g.",
-          "price": 9500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/36620f7a-3ec2-42c6-928d-4b5076976ea5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b5b2dca6-0359-4d1d-9be8-cbdc841c215a": {
-          "uuid": "b5b2dca6-0359-4d1d-9be8-cbdc841c215a",
-          "title": "BonAqua",
-          "itemDescription": "250ml.",
-          "price": 2500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8255de41-d81a-49a3-82c5-e4fcc707baad": {
-          "uuid": "8255de41-d81a-49a3-82c5-e4fcc707baad",
-          "title": "Yazma",
-          "itemDescription": "Tradional cold sour-milk soup with cucumbers, and greens (350g).",
-          "price": 6500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8712cbe3-9e29-4127-b55f-3ad69610c86a": {
-          "uuid": "8712cbe3-9e29-4127-b55f-3ad69610c86a",
-          "title": "Morshynska",
-          "itemDescription": "500ml.",
-          "price": 3300,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b5835bfd-b2ac-4b71-8755-ae979f1ef0fa": {
-          "uuid": "b5835bfd-b2ac-4b71-8755-ae979f1ef0fa",
-          "title": "Mantar hyzartmasy",
-          "itemDescription": "Fried champignons with vegetables, served in a pan (250g).",
-          "price": 11500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0c56cab0-4f39-452c-9ea1-21073195b9bf"
-          ]
-        },
-        "5a8f849e-5987-4e04-b968-af3062dc26a0": {
-          "uuid": "5a8f849e-5987-4e04-b968-af3062dc26a0",
-          "title": "Yayla",
-          "itemDescription": "Tomato, greens, and onion (200g).",
-          "price": 8800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "644df563-c61e-4abf-b467-92c967114802": {
-          "uuid": "644df563-c61e-4abf-b467-92c967114802",
-          "title": "Cheburek with potatoes",
-          "itemDescription": "With mashed potatoes, and fried onions (1pcs). ",
-          "price": 3500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "c897ac43-e93d-44e4-b44d-cc657debe967": {
-          "uuid": "c897ac43-e93d-44e4-b44d-cc657debe967",
-          "title": "Grilled vegetables",
-          "itemDescription": "Mushrooms, tomatoes, peppers, courgees, and aubergines on the grill (200g).",
-          "price": 9500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "25263676-fede-4c59-8e9a-c4d1928d02e9": {
-          "uuid": "25263676-fede-4c59-8e9a-c4d1928d02e9",
-          "title": "Yantyh with potatoes",
-          "itemDescription": "With mashed potatoes, and fried onions (1pcs). ",
-          "price": 3500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "677ae3ee-660b-4502-a497-0dd42bef3a43": {
-          "uuid": "677ae3ee-660b-4502-a497-0dd42bef3a43",
-          "title": "Sprite",
-          "itemDescription": "250ml.",
-          "price": 2500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e5b4b47f-47a7-48a6-bd2a-73edbd7968de": {
-          "uuid": "e5b4b47f-47a7-48a6-bd2a-73edbd7968de",
-          "title": "Pita",
-          "itemDescription": "200g.",
-          "price": 3000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8adf6678-4143-4c41-b772-5dc61e558154": {
-          "uuid": "8adf6678-4143-4c41-b772-5dc61e558154",
-          "title": "Cheburek with meat",
-          "itemDescription": "1pcs.",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5b1d5c1-badf-4589-b900-c26cc62a1348",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
-          ]
-        },
-        "a0b1158c-b375-4489-bba9-455be7ee1e7e": {
-          "uuid": "a0b1158c-b375-4489-bba9-455be7ee1e7e",
-          "title": "Our Cofee",
-          "itemDescription": "Aromac turkish coffee packaging “Kurukahveci Mehmet Efendi” (100g).",
-          "price": 9000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ee28a296-83e3-4bc0-b1b4-00cfc7ff7af7": {
-          "uuid": "ee28a296-83e3-4bc0-b1b4-00cfc7ff7af7",
-          "title": "Baku Baklava",
-          "itemDescription": "",
-          "price": 2400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef4b0d8-d15c-47f2-bb2a-20949a329683",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "39b912f9-c2fc-4f65-82a5-77126bb16d75"
-          ]
-        },
-        "1f0b4fe0-7736-4210-aa6a-b4c782c056ac": {
-          "uuid": "1f0b4fe0-7736-4210-aa6a-b4c782c056ac",
-          "title": "Dymlama",
-          "itemDescription": "Three kinds of meat baked in a pot with vegetables, and spices (350g).",
-          "price": 12500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "377ca9f0-6dda-42ca-934d-8de935f3ddbf": {
-          "uuid": "377ca9f0-6dda-42ca-934d-8de935f3ddbf",
-          "title": "Pickles \"Turshu\"",
-          "itemDescription": "Sharp tomatoes, sour in an oak barrel according to our  own recipe \"Sofra\" (100g).",
-          "price": 3300,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3c096fb3-f647-4e4f-977a-730c88be39e3": {
-          "uuid": "3c096fb3-f647-4e4f-977a-730c88be39e3",
-          "title": "Biber Turshusu",
-          "itemDescription": "Salted sharp lile peppers (30g).",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8b9ac805-d015-48b8-99bd-8ed4b59af1c7": {
-          "uuid": "8b9ac805-d015-48b8-99bd-8ed4b59af1c7",
-          "title": "Bahla shorbasi",
-          "itemDescription": "Soup with lamb, vegetables, and beans (350g).",
-          "price": 9800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d0b136e1-0c15-48bb-9cd7-1ff9521937cd": {
-          "uuid": "d0b136e1-0c15-48bb-9cd7-1ff9521937cd",
-          "title": "Tauh shyshlyk",
-          "itemDescription": "A shish kebab of chiken (180g).",
-          "price": 13500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc4b4907-25b5-4440-a957-6ec65e7f3504",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3d717a71-9f38-40c7-bd2e-16a31b166e95": {
-          "uuid": "3d717a71-9f38-40c7-bd2e-16a31b166e95",
-          "title": "Yalı-boyu",
-          "itemDescription": "Tomato, paprika, bryndza, black olives, and greens (300g).",
-          "price": 8800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6b3f2c81-74f4-4b64-9367-609d0c02c259": {
-          "uuid": "6b3f2c81-74f4-4b64-9367-609d0c02c259",
-          "title": "Nohyt shorbasi",
-          "itemDescription": "Soup with lamb, vegetables, and chickpea (350g).",
-          "price": 9800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d9b332f1-3bfd-41b5-a8c6-7cc44c8c9d9d": {
-          "uuid": "d9b332f1-3bfd-41b5-a8c6-7cc44c8c9d9d",
-          "title": "Khatih",
-          "itemDescription": "Traditional sour-milk sauce (30g).",
-          "price": 2000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "abd33514-2a1e-4c70-86bb-d3432e1e8033": {
-          "uuid": "abd33514-2a1e-4c70-86bb-d3432e1e8033",
-          "title": "Borjomi",
-          "itemDescription": "500ml.",
-          "price": 5400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5285cbd0-e8a4-434a-a851-fb691bc22103": {
-          "uuid": "5285cbd0-e8a4-434a-a851-fb691bc22103",
-          "title": "Yantyh with cottage cheese and raisins",
-          "itemDescription": "1pcs.",
-          "price": 3500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "bc5d7d71-afc8-4ddd-b28d-57204602bca9": {
-          "uuid": "bc5d7d71-afc8-4ddd-b28d-57204602bca9",
-          "title": "Pilyav",
-          "itemDescription": "Tradional pilaf with beef, served with salad «Yayla» (300g).",
-          "price": 11000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/988d2e29-103a-4983-b908-9a0f0246a7d9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "191dc929-4e3b-4d1c-8759-a327814835fe": {
-          "uuid": "191dc929-4e3b-4d1c-8759-a327814835fe",
-          "title": "Dana shyshlyk",
-          "itemDescription": "A shish kebab of veal (180g).",
-          "price": 18500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a2fedb5-e8b3-4641-86c2-cf1cbed16ef1",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9727d252-75be-4afa-a86f-dcfd00ea1dc4": {
-          "uuid": "9727d252-75be-4afa-a86f-dcfd00ea1dc4",
-          "title": "Hozu hyzartmasi",
-          "itemDescription": "Fried muon with vegetables served in a pan (250g).",
-          "price": 16500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0c56cab0-4f39-452c-9ea1-21073195b9bf"
-          ]
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "4fb8fb86-fbb0-4f10-bdb3-ff46df3e6084",
-          "title": "Сheburek",
-          "subtitle": "",
-          "itemUuids": [
-            "8adf6678-4143-4c41-b772-5dc61e558154",
-            "462947ba-0abf-4aba-9cbf-20564f081d7a",
-            "644df563-c61e-4abf-b467-92c967114802",
-            "8d6e7bea-b6e0-48fb-9e5e-baf2589ac3cf"
-          ]
-        },
-        {
-          "uuid": "f5e2dfac-0d02-4e39-b339-6a1460efdb15",
-          "title": "Sweet cheburek",
-          "subtitle": "",
-          "itemUuids": [
-            "a4432b59-1c69-4447-b624-c3a93236211e",
-            "4341777e-50ff-4731-b49b-1c94006b4577"
-          ]
-        },
-        {
-          "uuid": "aab9a9a9-5525-41b3-b84e-5728bf6ba881",
-          "title": "Yantyh",
-          "subtitle": "",
-          "itemUuids": [
-            "fb6e8ae2-268b-4d7d-aa5e-b115711d8b2b",
-            "ff2d2c2a-2519-4c24-981f-1bceee7c39e7",
-            "25263676-fede-4c59-8e9a-c4d1928d02e9",
-            "e361ff80-f8b1-4c93-bba0-773a948b78de"
-          ]
-        },
-        {
-          "uuid": "b6ff213b-b09a-4f9f-ae5f-84a37dce3f33",
-          "title": "Sweet yantyh",
-          "subtitle": "",
-          "itemUuids": [
-            "11af25b3-406f-4e06-8416-ea455559563a",
-            "5285cbd0-e8a4-434a-a851-fb691bc22103"
-          ]
-        },
-        {
-          "uuid": "8760f88a-ccc8-4abd-8693-d5fc1fdba0cd",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "3d717a71-9f38-40c7-bd2e-16a31b166e95",
-            "2d86bd71-e768-43e5-a30e-cc71cf0672c7",
-            "5a8f849e-5987-4e04-b968-af3062dc26a0",
-            "793f7824-26b5-4dd8-8061-88ca958649ac"
-          ]
-        },
-        {
-          "uuid": "ec8def8f-c880-4e1d-b683-e891ef8fd2d4",
-          "title": "Second courses",
-          "subtitle": "",
-          "itemUuids": [
-            "c0b4fb20-378b-431a-a01e-496717fac585",
-            "bfd1c5de-5c0a-4ef7-a112-73aa856a8815",
-            "bc5d7d71-afc8-4ddd-b28d-57204602bca9",
-            "1e2fb46e-38e0-4c30-9e6c-454f3e9098f3",
-            "1f0b4fe0-7736-4210-aa6a-b4c782c056ac"
-          ]
-        },
-        {
-          "uuid": "93fa047d-dc9b-448f-9c02-4dadc5c78122",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "d7501751-ddee-42d9-95d1-d41c86a1a276",
-            "eed66d1a-3e95-486c-9ef5-ccda2c43922d",
-            "c9054fed-b904-4282-b426-0713fb25f4b5",
-            "8b9ac805-d015-48b8-99bd-8ed4b59af1c7",
-            "6b3f2c81-74f4-4b64-9367-609d0c02c259",
-            "b0597734-f9f5-45cf-b28e-5cd42f7b8457",
-            "8255de41-d81a-49a3-82c5-e4fcc707baad"
-          ]
-        },
-        {
-          "uuid": "ccbec9b7-f324-4e95-90b1-5b7638a5f0e4",
-          "title": "Grill menu",
-          "subtitle": "",
-          "itemUuids": [
-            "0111f2c3-a490-4941-a533-bdbe8bf62ca1",
-            "191dc929-4e3b-4d1c-8759-a327814835fe",
-            "d0b136e1-0c15-48bb-9cd7-1ff9521937cd",
-            "9727d252-75be-4afa-a86f-dcfd00ea1dc4",
-            "de6b60eb-961a-47dc-9c9f-23fd9e485233",
-            "cc6fb643-32ba-409e-8c58-af6b7af1547f",
-            "b5835bfd-b2ac-4b71-8755-ae979f1ef0fa",
-            "0cdbfbb5-eab5-4196-add2-bd057d2ba305",
-            "ca91358f-edd6-493c-8afe-68098beb538f",
-            "c897ac43-e93d-44e4-b44d-cc657debe967"
-          ]
-        },
-        {
-          "uuid": "7a9aa5c5-a615-4879-87c2-54f9a1352a96",
-          "title": "Other",
-          "subtitle": "",
-          "itemUuids": [
-            "d9b332f1-3bfd-41b5-a8c6-7cc44c8c9d9d",
-            "60996215-1871-427a-b3c8-47c847e3f101",
-            "377ca9f0-6dda-42ca-934d-8de935f3ddbf",
-            "3c096fb3-f647-4e4f-977a-730c88be39e3",
-            "e5b4b47f-47a7-48a6-bd2a-73edbd7968de",
-            "f8026cde-dfc3-4c60-9d4a-5a2a0ff62d86",
-            "cf19b56e-bb2b-4b56-a5df-47f3c7c41d75"
-          ]
-        },
-        {
-          "uuid": "3c2d501e-8b67-4516-889d-bb3b19ca902d",
-          "title": "Sweets",
-          "subtitle": "",
-          "itemUuids": [
-            "5a02e0bf-71f7-4d32-b918-a09e2c8e1544",
-            "8691415d-7d6c-4dce-a9e0-fa6b661e0621",
-            "ee28a296-83e3-4bc0-b1b4-00cfc7ff7af7",
-            "57fd7b27-7092-4ea7-9530-e8e9199d7130",
-            "635ab99c-92fd-4331-8751-96275c9731c6",
-            "4ddfcf8f-e24b-4578-bc34-a2ef9190f2ca",
-            "a0b1158c-b375-4489-bba9-455be7ee1e7e",
-            "f80ff71c-834b-44d2-9d92-b2a69e5a830c"
-          ]
-        },
-        {
-          "uuid": "db4f7819-b523-4c15-b84f-19f1df76729a",
-          "title": "Beverages",
-          "subtitle": "",
-          "itemUuids": [
-            "ccd40e4d-e3bc-4fd2-ae2a-91aa797f3075",
-            "88c242de-fbb8-4006-9713-2e29dc48750b",
-            "b5b2dca6-0359-4d1d-9be8-cbdc841c215a",
-            "8712cbe3-9e29-4127-b55f-3ad69610c86a",
-            "abd33514-2a1e-4c70-86bb-d3432e1e8033",
-            "0bfbc8c4-602e-492f-b0f6-0f5208875efb",
-            "006496e6-6d10-404a-8466-aa9525e0b455",
-            "677ae3ee-660b-4502-a497-0dd42bef3a43"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.43982251101283,
     "longitude": 30.53787672023791,
@@ -1024,5 +197,807 @@
     "storeRatingScore": 4.621212121212121,
     "ratingCount": "198"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/549397df-63bc-4468-b755-245bee187f9f"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/549397df-63bc-4468-b755-245bee187f9f",
+  "items": {
+    "eed66d1a-3e95-486c-9ef5-ccda2c43922d": {
+      "uuid": "eed66d1a-3e95-486c-9ef5-ccda2c43922d",
+      "title": "Berdzhymek shorbasi",
+      "itemDescription": "Cream soup with lenlі (350g).",
+      "price": 6500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/67a36709-6582-4ecc-9e3b-9f06997360d4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "60996215-1871-427a-b3c8-47c847e3f101": {
+      "uuid": "60996215-1871-427a-b3c8-47c847e3f101",
+      "title": "Adjika",
+      "itemDescription": "Spicy sause (30g).",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ca91358f-edd6-493c-8afe-68098beb538f": {
+      "uuid": "ca91358f-edd6-493c-8afe-68098beb538f",
+      "title": "Haburha shyshlyk",
+      "itemDescription": "A shish kebab of rack (180g).",
+      "price": 18500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c9054fed-b904-4282-b426-0713fb25f4b5": {
+      "uuid": "c9054fed-b904-4282-b426-0713fb25f4b5",
+      "title": "Chozma Lagman",
+      "itemDescription": "Traditional Lagman from homemade noodles \"chozma\", flled with vegetable, and meat gravy on beef broth (350g).",
+      "price": 9800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d13ddac-3aa3-4c75-a0cc-cb01173d82b5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cc6fb643-32ba-409e-8c58-af6b7af1547f": {
+      "uuid": "cc6fb643-32ba-409e-8c58-af6b7af1547f",
+      "title": "Tauh hyzartmasi",
+      "itemDescription": "Fried chicken meat with vegetables served in a pan (250g).",
+      "price": 13500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0c56cab0-4f39-452c-9ea1-21073195b9bf"
+      ]
+    },
+    "0111f2c3-a490-4941-a533-bdbe8bf62ca1": {
+      "uuid": "0111f2c3-a490-4941-a533-bdbe8bf62ca1",
+      "title": "Hozu shyshlyk",
+      "itemDescription": "A shish kebab of mutton (180g).",
+      "price": 18500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "462947ba-0abf-4aba-9cbf-20564f081d7a": {
+      "uuid": "462947ba-0abf-4aba-9cbf-20564f081d7a",
+      "title": "Cheburek with cheese",
+      "itemDescription": "With bryndza, and greenery (1pcs).",
+      "price": 3500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "fb6e8ae2-268b-4d7d-aa5e-b115711d8b2b": {
+      "uuid": "fb6e8ae2-268b-4d7d-aa5e-b115711d8b2b",
+      "title": "Yantyh with meat",
+      "itemDescription": "1pcs.",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ded61bab-ad58-4bfb-942a-ad0cd7b86bb6",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "f8026cde-dfc3-4c60-9d4a-5a2a0ff62d86": {
+      "uuid": "f8026cde-dfc3-4c60-9d4a-5a2a0ff62d86",
+      "title": "Honey",
+      "itemDescription": "30g.",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "635ab99c-92fd-4331-8751-96275c9731c6": {
+      "uuid": "635ab99c-92fd-4331-8751-96275c9731c6",
+      "title": "Chocolate baklava with almonds",
+      "itemDescription": "",
+      "price": 2400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e32141ca-6f97-4e10-a1b7-e4f46835812a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "39b912f9-c2fc-4f65-82a5-77126bb16d75"
+      ]
+    },
+    "e361ff80-f8b1-4c93-bba0-773a948b78de": {
+      "uuid": "e361ff80-f8b1-4c93-bba0-773a948b78de",
+      "title": "Yantyh Mix",
+      "itemDescription": "1pcs.",
+      "price": 3900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7dddf68a-046f-49da-994e-7da046101c77",
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "4341777e-50ff-4731-b49b-1c94006b4577": {
+      "uuid": "4341777e-50ff-4731-b49b-1c94006b4577",
+      "title": "Cheburek with cottage cheese and raisins",
+      "itemDescription": "1pcs.",
+      "price": 3500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "88c242de-fbb8-4006-9713-2e29dc48750b": {
+      "uuid": "88c242de-fbb8-4006-9713-2e29dc48750b",
+      "title": "Lemonade «Natahtari »",
+      "itemDescription": "500ml.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/280a0b98-f314-40b7-8078-75782c10af54",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "50798e87-b3c4-43f6-949c-dbbcaed943ac"
+      ]
+    },
+    "de6b60eb-961a-47dc-9c9f-23fd9e485233": {
+      "uuid": "de6b60eb-961a-47dc-9c9f-23fd9e485233",
+      "title": "Dana hyzartmasi",
+      "itemDescription": "Fried veal served with vegetables in a pan (250g).",
+      "price": 16500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8abbbc17-a7dd-4487-ab2f-30300a6daa47"
+      ]
+    },
+    "a4432b59-1c69-4447-b624-c3a93236211e": {
+      "uuid": "a4432b59-1c69-4447-b624-c3a93236211e",
+      "title": "Cheburek with apple and cinnamon",
+      "itemDescription": "1pcs.",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5dcdac36-01f0-4fae-997c-34a5cd87398f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "c0b4fb20-378b-431a-a01e-496717fac585": {
+      "uuid": "c0b4fb20-378b-431a-a01e-496717fac585",
+      "title": "Manty",
+      "itemDescription": "Chopped muon with onions in a slim dough, and steamed (4pcs).",
+      "price": 11000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9911c9bc-f4c6-40cc-a69e-2c1c1eba1ddf",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cf19b56e-bb2b-4b56-a5df-47f3c7c41d75": {
+      "uuid": "cf19b56e-bb2b-4b56-a5df-47f3c7c41d75",
+      "title": "Jam",
+      "itemDescription": "Figs, quince, raspberry, and rose (30g).",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ff2d2c2a-2519-4c24-981f-1bceee7c39e7": {
+      "uuid": "ff2d2c2a-2519-4c24-981f-1bceee7c39e7",
+      "title": "Yantyh with cheese",
+      "itemDescription": "With bryndza, and greenery (1pcs).",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/88e6f663-c53a-4e97-9b8a-94bdc3f6fb41",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "8691415d-7d6c-4dce-a9e0-fa6b661e0621": {
+      "uuid": "8691415d-7d6c-4dce-a9e0-fa6b661e0621",
+      "title": "Turkish Baklava",
+      "itemDescription": "",
+      "price": 2800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/12144be3-7d5a-455f-bd1b-d8cdfebebffc",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "48c6ea96-361e-4dab-835d-55b40de158bc"
+      ]
+    },
+    "1e2fb46e-38e0-4c30-9e6c-454f3e9098f3": {
+      "uuid": "1e2fb46e-38e0-4c30-9e6c-454f3e9098f3",
+      "title": "Yyry Ash",
+      "itemDescription": "Homemade meat dumplings served with walnuts, and melted buer (200g).",
+      "price": 9600,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ccd40e4d-e3bc-4fd2-ae2a-91aa797f3075": {
+      "uuid": "ccd40e4d-e3bc-4fd2-ae2a-91aa797f3075",
+      "title": "Juice «Rich»",
+      "itemDescription": "1000ml.",
+      "price": 6700,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "8e8e007e-8bd7-4a0f-a4c2-d945d78d2c12"
+      ]
+    },
+    "8d6e7bea-b6e0-48fb-9e5e-baf2589ac3cf": {
+      "uuid": "8d6e7bea-b6e0-48fb-9e5e-baf2589ac3cf",
+      "title": "Cheburek Mix",
+      "itemDescription": "1pcs.",
+      "price": 3900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7dddf68a-046f-49da-994e-7da046101c77",
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "5a02e0bf-71f7-4d32-b918-a09e2c8e1544": {
+      "uuid": "5a02e0bf-71f7-4d32-b918-a09e2c8e1544",
+      "title": "Crimean Baklava",
+      "itemDescription": "",
+      "price": 2400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ada3156-9f1c-4e22-b637-3bc844c40989",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "39b912f9-c2fc-4f65-82a5-77126bb16d75"
+      ]
+    },
+    "b0597734-f9f5-45cf-b28e-5cd42f7b8457": {
+      "uuid": "b0597734-f9f5-45cf-b28e-5cd42f7b8457",
+      "title": "Yifah ash",
+      "itemDescription": "Tradional Crimean Tatar beef dumplings in broth with onion roast (350g).",
+      "price": 8300,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0cdbfbb5-eab5-4196-add2-bd057d2ba305": {
+      "uuid": "0cdbfbb5-eab5-4196-add2-bd057d2ba305",
+      "title": "Hyyma shyshlyk",
+      "itemDescription": "Lula-kebab (180g).",
+      "price": 18500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/514aa9dd-29b8-425b-8fcc-645912f5afc0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "11af25b3-406f-4e06-8416-ea455559563a": {
+      "uuid": "11af25b3-406f-4e06-8416-ea455559563a",
+      "title": "Yantyh with apple and cinnamon",
+      "itemDescription": "1pcs.",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d34ef208-694d-4a8e-9421-23922ebbc670",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "d7501751-ddee-42d9-95d1-d41c86a1a276": {
+      "uuid": "d7501751-ddee-42d9-95d1-d41c86a1a276",
+      "title": "Qaynatma sorba",
+      "itemDescription": "Soup with lamb, vegetables, and spices (350g).",
+      "price": 9000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5307d11a-5813-4522-ad09-c56d6ca9cea2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "006496e6-6d10-404a-8466-aa9525e0b455": {
+      "uuid": "006496e6-6d10-404a-8466-aa9525e0b455",
+      "title": "Fanta",
+      "itemDescription": "250ml.",
+      "price": 2500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f80ff71c-834b-44d2-9d92-b2a69e5a830c": {
+      "uuid": "f80ff71c-834b-44d2-9d92-b2a69e5a830c",
+      "title": "Set of Rahat locum",
+      "itemDescription": "200g.",
+      "price": 11000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "1ea3275c-c64f-4f73-87cb-dec8ec099217"
+      ]
+    },
+    "2d86bd71-e768-43e5-a30e-cc71cf0672c7": {
+      "uuid": "2d86bd71-e768-43e5-a30e-cc71cf0672c7",
+      "title": "Сhoban",
+      "itemDescription": "Tomato, cucumber, greens, and onion (200g).",
+      "price": 7500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bfd1c5de-5c0a-4ef7-a112-73aa856a8815": {
+      "uuid": "bfd1c5de-5c0a-4ef7-a112-73aa856a8815",
+      "title": "Yaprah Sarma",
+      "itemDescription": "Rolls with young grape leaves (200g).",
+      "price": 9800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d1f8cf4e-0188-4120-82b9-7800de4e9cdd",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "57fd7b27-7092-4ea7-9530-e8e9199d7130": {
+      "uuid": "57fd7b27-7092-4ea7-9530-e8e9199d7130",
+      "title": "Baklava with raisins and cinnamon",
+      "itemDescription": "",
+      "price": 2400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/900918b2-3317-4f49-acc8-2815c70c7bbe",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "39b912f9-c2fc-4f65-82a5-77126bb16d75"
+      ]
+    },
+    "0bfbc8c4-602e-492f-b0f6-0f5208875efb": {
+      "uuid": "0bfbc8c4-602e-492f-b0f6-0f5208875efb",
+      "title": "Coca Cola",
+      "itemDescription": "250ml.",
+      "price": 2500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "793f7824-26b5-4dd8-8061-88ca958649ac": {
+      "uuid": "793f7824-26b5-4dd8-8061-88ca958649ac",
+      "title": "Lahana",
+      "itemDescription": "Cabbage, carrot, and onion (200g).",
+      "price": 8800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4ddfcf8f-e24b-4578-bc34-a2ef9190f2ca": {
+      "uuid": "4ddfcf8f-e24b-4578-bc34-a2ef9190f2ca",
+      "title": "Sweet mix",
+      "itemDescription": "250g.",
+      "price": 9500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/36620f7a-3ec2-42c6-928d-4b5076976ea5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b5b2dca6-0359-4d1d-9be8-cbdc841c215a": {
+      "uuid": "b5b2dca6-0359-4d1d-9be8-cbdc841c215a",
+      "title": "BonAqua",
+      "itemDescription": "250ml.",
+      "price": 2500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8255de41-d81a-49a3-82c5-e4fcc707baad": {
+      "uuid": "8255de41-d81a-49a3-82c5-e4fcc707baad",
+      "title": "Yazma",
+      "itemDescription": "Tradional cold sour-milk soup with cucumbers, and greens (350g).",
+      "price": 6500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8712cbe3-9e29-4127-b55f-3ad69610c86a": {
+      "uuid": "8712cbe3-9e29-4127-b55f-3ad69610c86a",
+      "title": "Morshynska",
+      "itemDescription": "500ml.",
+      "price": 3300,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b5835bfd-b2ac-4b71-8755-ae979f1ef0fa": {
+      "uuid": "b5835bfd-b2ac-4b71-8755-ae979f1ef0fa",
+      "title": "Mantar hyzartmasy",
+      "itemDescription": "Fried champignons with vegetables, served in a pan (250g).",
+      "price": 11500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0c56cab0-4f39-452c-9ea1-21073195b9bf"
+      ]
+    },
+    "5a8f849e-5987-4e04-b968-af3062dc26a0": {
+      "uuid": "5a8f849e-5987-4e04-b968-af3062dc26a0",
+      "title": "Yayla",
+      "itemDescription": "Tomato, greens, and onion (200g).",
+      "price": 8800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "644df563-c61e-4abf-b467-92c967114802": {
+      "uuid": "644df563-c61e-4abf-b467-92c967114802",
+      "title": "Cheburek with potatoes",
+      "itemDescription": "With mashed potatoes, and fried onions (1pcs). ",
+      "price": 3500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "c897ac43-e93d-44e4-b44d-cc657debe967": {
+      "uuid": "c897ac43-e93d-44e4-b44d-cc657debe967",
+      "title": "Grilled vegetables",
+      "itemDescription": "Mushrooms, tomatoes, peppers, courgees, and aubergines on the grill (200g).",
+      "price": 9500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "25263676-fede-4c59-8e9a-c4d1928d02e9": {
+      "uuid": "25263676-fede-4c59-8e9a-c4d1928d02e9",
+      "title": "Yantyh with potatoes",
+      "itemDescription": "With mashed potatoes, and fried onions (1pcs). ",
+      "price": 3500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "677ae3ee-660b-4502-a497-0dd42bef3a43": {
+      "uuid": "677ae3ee-660b-4502-a497-0dd42bef3a43",
+      "title": "Sprite",
+      "itemDescription": "250ml.",
+      "price": 2500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e5b4b47f-47a7-48a6-bd2a-73edbd7968de": {
+      "uuid": "e5b4b47f-47a7-48a6-bd2a-73edbd7968de",
+      "title": "Pita",
+      "itemDescription": "200g.",
+      "price": 3000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8adf6678-4143-4c41-b772-5dc61e558154": {
+      "uuid": "8adf6678-4143-4c41-b772-5dc61e558154",
+      "title": "Cheburek with meat",
+      "itemDescription": "1pcs.",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5b1d5c1-badf-4589-b900-c26cc62a1348",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "2aab6530-dcf7-4480-b0e1-f823aa0f4c24"
+      ]
+    },
+    "a0b1158c-b375-4489-bba9-455be7ee1e7e": {
+      "uuid": "a0b1158c-b375-4489-bba9-455be7ee1e7e",
+      "title": "Our Cofee",
+      "itemDescription": "Aromac turkish coffee packaging “Kurukahveci Mehmet Efendi” (100g).",
+      "price": 9000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ee28a296-83e3-4bc0-b1b4-00cfc7ff7af7": {
+      "uuid": "ee28a296-83e3-4bc0-b1b4-00cfc7ff7af7",
+      "title": "Baku Baklava",
+      "itemDescription": "",
+      "price": 2400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cef4b0d8-d15c-47f2-bb2a-20949a329683",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "39b912f9-c2fc-4f65-82a5-77126bb16d75"
+      ]
+    },
+    "1f0b4fe0-7736-4210-aa6a-b4c782c056ac": {
+      "uuid": "1f0b4fe0-7736-4210-aa6a-b4c782c056ac",
+      "title": "Dymlama",
+      "itemDescription": "Three kinds of meat baked in a pot with vegetables, and spices (350g).",
+      "price": 12500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "377ca9f0-6dda-42ca-934d-8de935f3ddbf": {
+      "uuid": "377ca9f0-6dda-42ca-934d-8de935f3ddbf",
+      "title": "Pickles \"Turshu\"",
+      "itemDescription": "Sharp tomatoes, sour in an oak barrel according to our  own recipe \"Sofra\" (100g).",
+      "price": 3300,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3c096fb3-f647-4e4f-977a-730c88be39e3": {
+      "uuid": "3c096fb3-f647-4e4f-977a-730c88be39e3",
+      "title": "Biber Turshusu",
+      "itemDescription": "Salted sharp lile peppers (30g).",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8b9ac805-d015-48b8-99bd-8ed4b59af1c7": {
+      "uuid": "8b9ac805-d015-48b8-99bd-8ed4b59af1c7",
+      "title": "Bahla shorbasi",
+      "itemDescription": "Soup with lamb, vegetables, and beans (350g).",
+      "price": 9800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d0b136e1-0c15-48bb-9cd7-1ff9521937cd": {
+      "uuid": "d0b136e1-0c15-48bb-9cd7-1ff9521937cd",
+      "title": "Tauh shyshlyk",
+      "itemDescription": "A shish kebab of chiken (180g).",
+      "price": 13500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc4b4907-25b5-4440-a957-6ec65e7f3504",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3d717a71-9f38-40c7-bd2e-16a31b166e95": {
+      "uuid": "3d717a71-9f38-40c7-bd2e-16a31b166e95",
+      "title": "Yalı-boyu",
+      "itemDescription": "Tomato, paprika, bryndza, black olives, and greens (300g).",
+      "price": 8800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6b3f2c81-74f4-4b64-9367-609d0c02c259": {
+      "uuid": "6b3f2c81-74f4-4b64-9367-609d0c02c259",
+      "title": "Nohyt shorbasi",
+      "itemDescription": "Soup with lamb, vegetables, and chickpea (350g).",
+      "price": 9800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d9b332f1-3bfd-41b5-a8c6-7cc44c8c9d9d": {
+      "uuid": "d9b332f1-3bfd-41b5-a8c6-7cc44c8c9d9d",
+      "title": "Khatih",
+      "itemDescription": "Traditional sour-milk sauce (30g).",
+      "price": 2000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "abd33514-2a1e-4c70-86bb-d3432e1e8033": {
+      "uuid": "abd33514-2a1e-4c70-86bb-d3432e1e8033",
+      "title": "Borjomi",
+      "itemDescription": "500ml.",
+      "price": 5400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5285cbd0-e8a4-434a-a851-fb691bc22103": {
+      "uuid": "5285cbd0-e8a4-434a-a851-fb691bc22103",
+      "title": "Yantyh with cottage cheese and raisins",
+      "itemDescription": "1pcs.",
+      "price": 3500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "bc5d7d71-afc8-4ddd-b28d-57204602bca9": {
+      "uuid": "bc5d7d71-afc8-4ddd-b28d-57204602bca9",
+      "title": "Pilyav",
+      "itemDescription": "Tradional pilaf with beef, served with salad «Yayla» (300g).",
+      "price": 11000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/988d2e29-103a-4983-b908-9a0f0246a7d9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "191dc929-4e3b-4d1c-8759-a327814835fe": {
+      "uuid": "191dc929-4e3b-4d1c-8759-a327814835fe",
+      "title": "Dana shyshlyk",
+      "itemDescription": "A shish kebab of veal (180g).",
+      "price": 18500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a2fedb5-e8b3-4641-86c2-cf1cbed16ef1",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9727d252-75be-4afa-a86f-dcfd00ea1dc4": {
+      "uuid": "9727d252-75be-4afa-a86f-dcfd00ea1dc4",
+      "title": "Hozu hyzartmasi",
+      "itemDescription": "Fried muon with vegetables served in a pan (250g).",
+      "price": 16500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0c56cab0-4f39-452c-9ea1-21073195b9bf"
+      ]
+    }
+  }
 }

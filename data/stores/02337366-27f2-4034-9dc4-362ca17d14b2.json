@@ -20,562 +20,99 @@
   ],
   "sections": [
     {
-      "uuid": "35e28eb9-6e3a-4060-bd0f-16f94469a6de",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 8:30 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "6e2e138e-a520-4841-8984-23dcb698e6de",
-        "4974a5c6-ba24-468e-85fc-46e711b1b8e0",
-        "a8bc903a-ded2-40f2-a5cf-d024e30dfdd1",
-        "e98f246a-42dd-4a80-9f55-6cb759be655c",
-        "8db21062-3bb0-42cc-ac08-9a7327a738ae",
-        "0c3d3b09-3c77-4b12-a146-cc2dfe71411b",
-        "f68e0c9c-bfed-438f-ad63-9ef83f965e29"
+      "uuid": "6e2e138e-a520-4841-8984-23dcb698e6de",
+      "title": "Salads",
+      "itemUuids": [
+        "fc30941d-dd47-4417-979e-89f348ef3f42",
+        "8674148e-5802-49cc-b663-22335617aaf0",
+        "1d2777ee-1bcc-4829-a151-233cbb2c8644"
+      ]
+    },
+    {
+      "uuid": "4974a5c6-ba24-468e-85fc-46e711b1b8e0",
+      "title": "Appetizers ",
+      "itemUuids": [
+        "54f60829-b1eb-41a8-8db7-f681e6919668",
+        "a1d53a39-7e78-455b-8a53-c959760a83c1"
+      ]
+    },
+    {
+      "uuid": "a8bc903a-ded2-40f2-a5cf-d024e30dfdd1",
+      "title": "Sandwiches",
+      "itemUuids": [
+        "d613d64a-d6f6-48be-abcc-858aa0ac3952",
+        "6c1b1daf-8d71-4740-acd9-13520f9463c1",
+        "dde7f410-19e3-4813-8b71-e70527ca083a",
+        "c5130840-85b8-4f35-b7a7-e62957a7bd50",
+        "22f75467-6731-4fc5-a550-969e1f85efeb",
+        "624227d5-0d9a-468f-a0e3-ab5aff09993a",
+        "a56bf4be-fc6b-4925-a589-6a0d3c4a31fe",
+        "6cfe0360-7c69-4d2c-b4de-5c081c5e8928"
+      ]
+    },
+    {
+      "uuid": "e98f246a-42dd-4a80-9f55-6cb759be655c",
+      "title": "Lunch",
+      "itemUuids": [
+        "0ed3a66e-688e-4181-84f7-98b0fc373a7d",
+        "141f6405-b528-430a-bc0e-b388bc15976a",
+        "ca250ebe-31e6-4e09-9597-2c6c67f03f09",
+        "c66f91e1-1e3e-4844-bdfb-e13877616033",
+        "e8022440-c5a8-4f22-ac7f-65547cdcdd13"
+      ]
+    },
+    {
+      "uuid": "8db21062-3bb0-42cc-ac08-9a7327a738ae",
+      "title": "Soups",
+      "itemUuids": [
+        "350c38ff-257f-4867-b1e0-a464b4273012",
+        "1894258e-08a1-4465-8777-0ce532d175e9",
+        "d93091de-81e2-4158-a84f-2d6e369ed56f",
+        "56eeb009-8358-4b78-bbe5-bab5a47d1bc9"
+      ]
+    },
+    {
+      "uuid": "0c3d3b09-3c77-4b12-a146-cc2dfe71411b",
+      "title": "Desserts",
+      "itemUuids": [
+        "57c4176a-5208-4bdf-bd32-5dd22be25c26",
+        "64f209ee-1d4b-4c77-a3a8-eb48fba82ced",
+        "cabe1b62-d5e3-4d61-aa02-46e2e957ae98",
+        "d09ce460-dfb6-4c32-91c4-06d59ed0dae0",
+        "85ddd295-b902-4293-8f3e-f1590891136f",
+        "fbefe509-e5c1-4cb9-bef8-e8eca7d15b18",
+        "0ab15809-2b19-4d30-82ca-930ef8a3d608",
+        "a5f80319-96e9-4cb3-a85b-943e6c531055",
+        "00e124eb-a826-455f-bf4a-1d2d5e29fd6e",
+        "829053b5-f4d0-4325-b731-651a6c8791d7",
+        "3204cbc6-832e-40be-96c3-15781d7d8cf1",
+        "8dccc284-7125-4bc2-b932-ea233160ef68",
+        "2900ce8b-2f3d-405b-850f-b79bc8060391",
+        "d417a14b-3db4-4a02-9dfc-3cfe66458f80",
+        "59ddd6e8-71d9-4d28-90c7-059dde22669d",
+        "b401d7f3-653b-47b8-95a9-2e38ede0209d"
+      ]
+    },
+    {
+      "uuid": "f68e0c9c-bfed-438f-ad63-9ef83f965e29",
+      "title": "Drinks",
+      "itemUuids": [
+        "b266d797-b774-4cf4-ab67-a0c970d1808f",
+        "6a262ce8-61c4-4f81-9e52-4eafff04c01a",
+        "da56920e-149b-4965-a83b-1f6fd8b9ae51",
+        "f8a91ae4-d165-4aef-8589-03f5d46f6a10",
+        "5ef848f6-75dd-4874-966e-28e54d36333e",
+        "0ebd115f-089d-4455-9bd8-f71c567b4ddd",
+        "374a30d9-dc32-4d72-be9e-60428d56af5d",
+        "84e8c737-110c-450a-b74d-35a7da896b87",
+        "0eb57948-1765-424a-82c3-e372096538e3",
+        "6ca58f7f-35b4-4111-a863-3dd876d679af",
+        "116f7834-4f17-4c54-8b08-8c59ba7db339",
+        "fef454e9-8b54-4cc6-a62b-6a818e369b30",
+        "7d86a21e-001c-40ab-9d08-3fd3aec3f451"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "35e28eb9-6e3a-4060-bd0f-16f94469a6de": {
-      "itemsMap": {
-        "ca250ebe-31e6-4e09-9597-2c6c67f03f09": {
-          "uuid": "ca250ebe-31e6-4e09-9597-2c6c67f03f09",
-          "title": "Veal with soba noodles",
-          "itemDescription": "Veal, soba noodles, tomatoes, asparagus, and sesame seeds (330g).\n",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/69f949ec-5ee9-4379-a9d6-cbb7ed1e437e",
-          "customizationUuids": [
-            "0352655f-2eb3-440b-b4cd-f46d958b944c"
-          ]
-        },
-        "6a262ce8-61c4-4f81-9e52-4eafff04c01a": {
-          "uuid": "6a262ce8-61c4-4f81-9e52-4eafff04c01a",
-          "title": "Grapefruit cold-pressed juice",
-          "itemDescription": "250ml.",
-          "price": 5900
-        },
-        "b401d7f3-653b-47b8-95a9-2e38ede0209d": {
-          "uuid": "b401d7f3-653b-47b8-95a9-2e38ede0209d",
-          "title": "Brownie with avocado",
-          "itemDescription": "Avocado, honey, lemon juice, vanilla essence, grated cacao, chocolate with sugar substitute, butter, rice flour, egg(120g).",
-          "price": 9900,
-          "nutritionalInfo": {}
-        },
-        "a56bf4be-fc6b-4925-a589-6a0d3c4a31fe": {
-          "uuid": "a56bf4be-fc6b-4925-a589-6a0d3c4a31fe",
-          "title": "Fish wrap",
-          "itemDescription": "Тунець консервований, лаваш, томат, шпинат, чука,  авокадо, соус із льону та тахіни, гірчиця (340г).",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c986f42e-9103-4122-a6b4-58e83ae98403",
-          "suspendUntil": 1559509199
-        },
-        "dde7f410-19e3-4813-8b71-e70527ca083a": {
-          "uuid": "dde7f410-19e3-4813-8b71-e70527ca083a",
-          "title": "Salmon sandwich",
-          "itemDescription": "Light-salted salmon, rye bread, Philadelphia cream cheese, and cucumber`s dill (240g).",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd2108f5-8b41-43d6-b5d1-c7b86b001101",
-          "suspendUntil": 1559509199
-        },
-        "829053b5-f4d0-4325-b731-651a6c8791d7": {
-          "uuid": "829053b5-f4d0-4325-b731-651a6c8791d7",
-          "title": "Energy boost black currant&nuts",
-          "itemDescription": "Oat flakes, chia, coconut milk, almond, black currant(145g).",
-          "price": 7900,
-          "suspendUntil": 8640000000
-        },
-        "6cfe0360-7c69-4d2c-b4de-5c081c5e8928": {
-          "uuid": "6cfe0360-7c69-4d2c-b4de-5c081c5e8928",
-          "title": "Hot sandwich with brie",
-          "itemDescription": "Oatmeal bread, feta cheese, thyme, bell pepper, brie cheese (245 g)",
-          "price": 14900,
-          "suspendUntil": 1559509199
-        },
-        "350c38ff-257f-4867-b1e0-a464b4273012": {
-          "uuid": "350c38ff-257f-4867-b1e0-a464b4273012",
-          "title": "Tomato cream soup",
-          "itemDescription": "Peeled tomatoes, sweet peppers, celery, feta cheese and garlic (200ml).",
-          "price": 5400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4b77974-e335-4d60-8b6a-e947ceab8d47"
-        },
-        "0ebd115f-089d-4455-9bd8-f71c567b4ddd": {
-          "uuid": "0ebd115f-089d-4455-9bd8-f71c567b4ddd",
-          "title": "Banana and Spirulina Smoothie",
-          "itemDescription": "250ml.",
-          "price": 4900
-        },
-        "0ed3a66e-688e-4181-84f7-98b0fc373a7d": {
-          "uuid": "0ed3a66e-688e-4181-84f7-98b0fc373a7d",
-          "title": "Salmon with quinoa",
-          "itemDescription": "Baked salmon, quinoa and green peas (220g).",
-          "price": 17900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9fdc07d7-ffb0-4c6e-b84c-8f0f36170629",
-          "customizationUuids": [
-            "d666ced4-6ab6-4db4-9df2-86236f5814c1"
-          ]
-        },
-        "00e124eb-a826-455f-bf4a-1d2d5e29fd6e": {
-          "uuid": "00e124eb-a826-455f-bf4a-1d2d5e29fd6e",
-          "title": "Baked apple",
-          "itemDescription": "Apple, honey, almond flakes (180g)",
-          "price": 4900,
-          "suspendUntil": 1559509199
-        },
-        "141f6405-b528-430a-bc0e-b388bc15976a": {
-          "uuid": "141f6405-b528-430a-bc0e-b388bc15976a",
-          "title": "Bowl with prawns",
-          "itemDescription": "Tiger prawns, bulgur, vegetables in coconut and tomato sauce, baby corn, green beans, broccoli, and sweet peppers (270g).",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8faceb2-607a-4649-8f92-7cdaaf0991ca",
-          "customizationUuids": [
-            "d666ced4-6ab6-4db4-9df2-86236f5814c1"
-          ]
-        },
-        "3204cbc6-832e-40be-96c3-15781d7d8cf1": {
-          "uuid": "3204cbc6-832e-40be-96c3-15781d7d8cf1",
-          "title": "Energy boost mango",
-          "itemDescription": "Oat flakes, chia, coconut milk, mango(310g).",
-          "price": 9900
-        },
-        "0eb57948-1765-424a-82c3-e372096538e3": {
-          "uuid": "0eb57948-1765-424a-82c3-e372096538e3",
-          "title": "Lime water",
-          "itemDescription": "250ml.",
-          "price": 2200,
-          "suspendUntil": 8640000000
-        },
-        "a5f80319-96e9-4cb3-a85b-943e6c531055": {
-          "uuid": "a5f80319-96e9-4cb3-a85b-943e6c531055",
-          "title": "Set of sweets (6 pieces)",
-          "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol; CHOCOLATE TRUFFLES WITH GINGER: chocolate (cocoa grated, cocoa butter), ginger, raisins, coconut milk, honey; DAIRY FRUIT: chocolate (cocoa butter, cocoa grated), coconut milk, almonds, honey; MOCCO: chocolate (cocoa grated, cocoa butter), coconut milk powder, coffee, honey (150g)",
-          "price": 16800
-        },
-        "85ddd295-b902-4293-8f3e-f1590891136f": {
-          "uuid": "85ddd295-b902-4293-8f3e-f1590891136f",
-          "title": "Set of sweets coconut (3 pieces)",
-          "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, and cocoa grated (75g).",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/19793c53-6913-4580-8870-8bca43639821"
-        },
-        "d417a14b-3db4-4a02-9dfc-3cfe66458f80": {
-          "uuid": "d417a14b-3db4-4a02-9dfc-3cfe66458f80",
-          "title": "Set of sweets assorted  tropical mix (3 pieces)",
-          "itemDescription": "Cocoa butter, cocoa grate, chia, passion fruit, date (75g).",
-          "price": 7900,
-          "suspendUntil": 8640000000
-        },
-        "54f60829-b1eb-41a8-8db7-f681e6919668": {
-          "uuid": "54f60829-b1eb-41a8-8db7-f681e6919668",
-          "title": "Vegetable Mix",
-          "itemDescription": "Cucumber, bell pepper, сelery, сarrot, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil) (180g).",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/043ab76a-948c-454a-85e4-7dd4e54ac423",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "d09ce460-dfb6-4c32-91c4-06d59ed0dae0": {
-          "uuid": "d09ce460-dfb6-4c32-91c4-06d59ed0dae0",
-          "title": "Coconut cakes",
-          "itemDescription": "Coconut, coconut milk, honey, dates, beets, strawberries, currants, and vanilla (280g).",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/39f39432-c816-4c0c-9c14-558dbb90351b",
-          "suspendUntil": 1559509199
-        },
-        "57c4176a-5208-4bdf-bd32-5dd22be25c26": {
-          "uuid": "57c4176a-5208-4bdf-bd32-5dd22be25c26",
-          "title": "Flaxseeds porridge",
-          "itemDescription": "Flax seeds, coconut milk, honey, and dried apricots and almonds (185g).",
-          "price": 6700,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/05571913-c577-41c7-9a1a-744040357dcb"
-        },
-        "1d2777ee-1bcc-4829-a151-233cbb2c8644": {
-          "uuid": "1d2777ee-1bcc-4829-a151-233cbb2c8644",
-          "title": "Chicken salad",
-          "itemDescription": "Baked chicken fillet, iceberg lettuce, spinach, fresh cucumber, cherry tomato, black pepper, vegetable oil, parmesan cheese, spicy lean mayonnaise(flax seeds, mustard, honey, vegetable oil, sea salt, lemon fresh), Worcestershire sause(230+40g).",
-          "price": 14100,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d082358-595f-4abc-b2ae-a6974b154440"
-        },
-        "e8022440-c5a8-4f22-ac7f-65547cdcdd13": {
-          "uuid": "e8022440-c5a8-4f22-ac7f-65547cdcdd13",
-          "title": "Chicken curry with rice",
-          "itemDescription": "Chicken fillet, brown rice, peas, curry sauce(260g).",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a77b2730-75d2-42ec-9608-4338fc9d4d73"
-        },
-        "56eeb009-8358-4b78-bbe5-bab5a47d1bc9": {
-          "uuid": "56eeb009-8358-4b78-bbe5-bab5a47d1bc9",
-          "title": "Lentil cream soup",
-          "itemDescription": "Lentil, carrots, onion, salt, black pepper (200ml).",
-          "price": 3900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/20366c15-dd8b-46fa-9c89-ff5eea082eae",
-          "suspendUntil": 1559509199
-        },
-        "84e8c737-110c-450a-b74d-35a7da896b87": {
-          "uuid": "84e8c737-110c-450a-b74d-35a7da896b87",
-          "title": "Ginger water",
-          "itemDescription": "250ml.",
-          "price": 2200,
-          "suspendUntil": 8640000000
-        },
-        "624227d5-0d9a-468f-a0e3-ab5aff09993a": {
-          "uuid": "624227d5-0d9a-468f-a0e3-ab5aff09993a",
-          "title": "Chicken wrap",
-          "itemDescription": "Baked chicken fillet, Korean carrots, baked pepper, napa cabbage, tahini and flax sauce, mustard, and flatbread (310g).",
-          "price": 10500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0390c569-f2d4-40bc-b308-77a4d6d1a90e",
-          "suspendUntil": 1559509199
-        },
-        "5ef848f6-75dd-4874-966e-28e54d36333e": {
-          "uuid": "5ef848f6-75dd-4874-966e-28e54d36333e",
-          "title": "Apple & spinach cold-pressed detox juice",
-          "itemDescription": "250ml.",
-          "price": 5400,
-          "suspendUntil": 8640000000
-        },
-        "22f75467-6731-4fc5-a550-969e1f85efeb": {
-          "uuid": "22f75467-6731-4fc5-a550-969e1f85efeb",
-          "title": "Vegan wrap",
-          "itemDescription": "Батат, тофу, хумус, чука, шпинат, гарбуз, кіноа, соус із тахіни та льону, лаваш (390г).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/249ef4c7-1ed0-448f-8b85-feae7f78697e",
-          "suspendUntil": 1559509199,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "6c1b1daf-8d71-4740-acd9-13520f9463c1": {
-          "uuid": "6c1b1daf-8d71-4740-acd9-13520f9463c1",
-          "title": "Tuna sandwich",
-          "itemDescription": "Tuna, boiled egg, lettuce, Dijon mustard, and oatmeal bread (160g).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f34dab1-b33a-4f78-9304-3465043294e9",
-          "suspendUntil": 1559509199
-        },
-        "fbefe509-e5c1-4cb9-bef8-e8eca7d15b18": {
-          "uuid": "fbefe509-e5c1-4cb9-bef8-e8eca7d15b18",
-          "title": "Set of sweets salt caramel (3 pieces)",
-          "itemDescription": "SALT CARAMEL: cocoa grated, cocoa butter, peanut butter, dates, and sea salt Fleur de Sol (75g).",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/296a348a-9129-4807-bc8f-52a59e148308"
-        },
-        "59ddd6e8-71d9-4d28-90c7-059dde22669d": {
-          "uuid": "59ddd6e8-71d9-4d28-90c7-059dde22669d",
-          "title": "Coconut cookie",
-          "itemDescription": "Grated coconut, coconut milk,corn sprouts syrup, vanilla essence,\ncoconut essence, rice flour(38g).",
-          "price": 2400,
-          "nutritionalInfo": {}
-        },
-        "7d86a21e-001c-40ab-9d08-3fd3aec3f451": {
-          "uuid": "7d86a21e-001c-40ab-9d08-3fd3aec3f451",
-          "title": "Water VODA.UA",
-          "itemDescription": "400g",
-          "price": 2100
-        },
-        "d93091de-81e2-4158-a84f-2d6e369ed56f": {
-          "uuid": "d93091de-81e2-4158-a84f-2d6e369ed56f",
-          "title": "Mushroom cream soup with rice milk",
-          "itemDescription": "Champignon, oyster mushroom, onion, and rice milk (200ml).",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/72871302-64fc-4d6d-92bf-4f4ea7ef3638"
-        },
-        "1894258e-08a1-4465-8777-0ce532d175e9": {
-          "uuid": "1894258e-08a1-4465-8777-0ce532d175e9",
-          "title": "Pumpkin cream soup with prawns and Parmesan",
-          "itemDescription": "Pumpkin, celery, turmeric, garlic, onion, rosemary, coriander, non-dairy cream, prawns, and Parmesan (250ml).",
-          "price": 9500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd832e80-8960-4665-a1fc-87670ec8b174",
-          "suspendUntil": 1559509199
-        },
-        "64f209ee-1d4b-4c77-a3a8-eb48fba82ced": {
-          "uuid": "64f209ee-1d4b-4c77-a3a8-eb48fba82ced",
-          "title": "Banana pudding",
-          "itemDescription": "Banana, milk, eggs, rice flour, stevia, and cocoa (150g).",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d436812f-f6fb-4980-8d25-ad3b114370ee",
-          "suspendUntil": 1559509199
-        },
-        "da56920e-149b-4965-a83b-1f6fd8b9ae51": {
-          "uuid": "da56920e-149b-4965-a83b-1f6fd8b9ae51",
-          "title": "Carrots cold-pressed juice",
-          "itemDescription": "250ml.",
-          "price": 3900,
-          "suspendUntil": 8640000000
-        },
-        "116f7834-4f17-4c54-8b08-8c59ba7db339": {
-          "uuid": "116f7834-4f17-4c54-8b08-8c59ba7db339",
-          "title": "Bottled MIRA NO(U)T milk cashew + vanilla",
-          "itemDescription": "500g",
-          "price": 13900,
-          "suspendUntil": 8640000000
-        },
-        "0ab15809-2b19-4d30-82ca-930ef8a3d608": {
-          "uuid": "0ab15809-2b19-4d30-82ca-930ef8a3d608",
-          "title": "Set of sweets assorted (3 pieces)",
-          "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol (75g)",
-          "price": 7900
-        },
-        "6ca58f7f-35b4-4111-a863-3dd876d679af": {
-          "uuid": "6ca58f7f-35b4-4111-a863-3dd876d679af",
-          "title": "Bottled MIRA NO(U)T milk coconut ",
-          "itemDescription": "500g",
-          "price": 9900,
-          "suspendUntil": 8640000000
-        },
-        "8dccc284-7125-4bc2-b932-ea233160ef68": {
-          "uuid": "8dccc284-7125-4bc2-b932-ea233160ef68",
-          "title": "Cheese pancakes",
-          "itemDescription": "Cottage cheese, rice flour, eggs, strawberry and vanilla sauce(245g).",
-          "price": 13500,
-          "suspendUntil": 1559509199
-        },
-        "a1d53a39-7e78-455b-8a53-c959760a83c1": {
-          "uuid": "a1d53a39-7e78-455b-8a53-c959760a83c1",
-          "title": "Quinoa-spinach-hummus",
-          "itemDescription": "Quinoa, spinach, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil), eggs, pesto sauce (200g).",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddf952db-d56c-4bac-a59b-3a1f57c86b89",
-          "suspendUntil": 1559509199
-        },
-        "fef454e9-8b54-4cc6-a62b-6a818e369b30": {
-          "uuid": "fef454e9-8b54-4cc6-a62b-6a818e369b30",
-          "title": "Bottled MIRA NO(U)T milk almond+dates",
-          "itemDescription": "500g",
-          "price": 12900,
-          "suspendUntil": 8640000000
-        },
-        "b266d797-b774-4cf4-ab67-a0c970d1808f": {
-          "uuid": "b266d797-b774-4cf4-ab67-a0c970d1808f",
-          "title": "Orange Fresh",
-          "itemDescription": "250ml.",
-          "price": 4900
-        },
-        "2900ce8b-2f3d-405b-850f-b79bc8060391": {
-          "uuid": "2900ce8b-2f3d-405b-850f-b79bc8060391",
-          "title": "Blueberry RAW cheesecake",
-          "itemDescription": "Coconut milk, lemon fresh, cashew, coconut oil, cocoa butter, honey, blueberry, almond, dates, cocoa powder, cocoa grated(135g).",
-          "price": 9900,
-          "suspendUntil": 1559509199
-        },
-        "8674148e-5802-49cc-b663-22335617aaf0": {
-          "uuid": "8674148e-5802-49cc-b663-22335617aaf0",
-          "title": "Roasted vegetables salad",
-          "itemDescription": "Baked cauliflower, baked tomatoes, cucumbers, carrots, cashew, and mustard sauce (200g).",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7816e0db-a963-4835-ba36-a0796170efb7",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "f8a91ae4-d165-4aef-8589-03f5d46f6a10": {
-          "uuid": "f8a91ae4-d165-4aef-8589-03f5d46f6a10",
-          "title": "Lemonade",
-          "itemDescription": "Flavor to choose (250ml).",
-          "price": 5400,
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "0e26f58b-879c-44f7-9c35-b10a8bfb0cad"
-          ]
-        },
-        "d613d64a-d6f6-48be-abcc-858aa0ac3952": {
-          "uuid": "d613d64a-d6f6-48be-abcc-858aa0ac3952",
-          "title": "Chicken sandwich",
-          "itemDescription": "Baked chicken, oatmeal bread, tomato, lettuce, Lean sauce with cheese, and basil (260g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf3591dd-01b3-44cd-94dd-f2dc4686cd8e",
-          "suspendUntil": 1559509199
-        },
-        "cabe1b62-d5e3-4d61-aa02-46e2e957ae98": {
-          "uuid": "cabe1b62-d5e3-4d61-aa02-46e2e957ae98",
-          "title": "Oatmeal cookies",
-          "itemDescription": "Oat flakes, apple, cinnamon, raisins, and almonds (40g).",
-          "price": 1500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fafddb46-3106-4c7b-9f42-1288a7c45d0a"
-        },
-        "374a30d9-dc32-4d72-be9e-60428d56af5d": {
-          "uuid": "374a30d9-dc32-4d72-be9e-60428d56af5d",
-          "title": "Orange and Turmeric Smoothie ",
-          "itemDescription": "250ml.",
-          "price": 5400
-        },
-        "c66f91e1-1e3e-4844-bdfb-e13877616033": {
-          "uuid": "c66f91e1-1e3e-4844-bdfb-e13877616033",
-          "title": "Chicken cutlets with quinoa",
-          "itemDescription": "Chicken cutlets: fillet, cream, onion, black and white quinoa, baked peppers, and pesto sauce (230g).",
-          "price": 11500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/21dd3030-b7c3-4e09-b3d5-e1a369fc1d9a",
-          "customizationUuids": [
-            "ed4e85eb-3086-4f39-9220-dd46a830402a"
-          ]
-        },
-        "c5130840-85b8-4f35-b7a7-e62957a7bd50": {
-          "uuid": "c5130840-85b8-4f35-b7a7-e62957a7bd50",
-          "title": "Hummus sandwich",
-          "itemDescription": "Hummus, rye bread, spinach, and sweet peppers (170g).",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/57d54fbd-feab-422d-9151-aaaaa3b7569d",
-          "suspendUntil": 1559509199,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "fc30941d-dd47-4417-979e-89f348ef3f42": {
-          "uuid": "fc30941d-dd47-4417-979e-89f348ef3f42",
-          "title": "Tuna salad",
-          "itemDescription": "Tuna, mix of lettuce (lolo biondo, frisi, arugula), tomatoes, cucumber, egg, honey and mustard sauce (mustard, vegetable oil, honey, lemon fresh) (250g).",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cbf88544-1b28-41ee-95f0-ff0af1f5d993"
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "6e2e138e-a520-4841-8984-23dcb698e6de",
-          "title": "Salads",
-          "itemUuids": [
-            "fc30941d-dd47-4417-979e-89f348ef3f42",
-            "8674148e-5802-49cc-b663-22335617aaf0",
-            "1d2777ee-1bcc-4829-a151-233cbb2c8644"
-          ]
-        },
-        {
-          "uuid": "4974a5c6-ba24-468e-85fc-46e711b1b8e0",
-          "title": "Appetizers ",
-          "itemUuids": [
-            "54f60829-b1eb-41a8-8db7-f681e6919668",
-            "a1d53a39-7e78-455b-8a53-c959760a83c1"
-          ]
-        },
-        {
-          "uuid": "a8bc903a-ded2-40f2-a5cf-d024e30dfdd1",
-          "title": "Sandwiches",
-          "itemUuids": [
-            "d613d64a-d6f6-48be-abcc-858aa0ac3952",
-            "6c1b1daf-8d71-4740-acd9-13520f9463c1",
-            "dde7f410-19e3-4813-8b71-e70527ca083a",
-            "c5130840-85b8-4f35-b7a7-e62957a7bd50",
-            "22f75467-6731-4fc5-a550-969e1f85efeb",
-            "624227d5-0d9a-468f-a0e3-ab5aff09993a",
-            "a56bf4be-fc6b-4925-a589-6a0d3c4a31fe",
-            "6cfe0360-7c69-4d2c-b4de-5c081c5e8928"
-          ]
-        },
-        {
-          "uuid": "e98f246a-42dd-4a80-9f55-6cb759be655c",
-          "title": "Lunch",
-          "itemUuids": [
-            "0ed3a66e-688e-4181-84f7-98b0fc373a7d",
-            "141f6405-b528-430a-bc0e-b388bc15976a",
-            "ca250ebe-31e6-4e09-9597-2c6c67f03f09",
-            "c66f91e1-1e3e-4844-bdfb-e13877616033",
-            "e8022440-c5a8-4f22-ac7f-65547cdcdd13"
-          ]
-        },
-        {
-          "uuid": "8db21062-3bb0-42cc-ac08-9a7327a738ae",
-          "title": "Soups",
-          "itemUuids": [
-            "350c38ff-257f-4867-b1e0-a464b4273012",
-            "1894258e-08a1-4465-8777-0ce532d175e9",
-            "d93091de-81e2-4158-a84f-2d6e369ed56f",
-            "56eeb009-8358-4b78-bbe5-bab5a47d1bc9"
-          ]
-        },
-        {
-          "uuid": "0c3d3b09-3c77-4b12-a146-cc2dfe71411b",
-          "title": "Desserts",
-          "itemUuids": [
-            "57c4176a-5208-4bdf-bd32-5dd22be25c26",
-            "64f209ee-1d4b-4c77-a3a8-eb48fba82ced",
-            "cabe1b62-d5e3-4d61-aa02-46e2e957ae98",
-            "d09ce460-dfb6-4c32-91c4-06d59ed0dae0",
-            "85ddd295-b902-4293-8f3e-f1590891136f",
-            "fbefe509-e5c1-4cb9-bef8-e8eca7d15b18",
-            "0ab15809-2b19-4d30-82ca-930ef8a3d608",
-            "a5f80319-96e9-4cb3-a85b-943e6c531055",
-            "00e124eb-a826-455f-bf4a-1d2d5e29fd6e",
-            "829053b5-f4d0-4325-b731-651a6c8791d7",
-            "3204cbc6-832e-40be-96c3-15781d7d8cf1",
-            "8dccc284-7125-4bc2-b932-ea233160ef68",
-            "2900ce8b-2f3d-405b-850f-b79bc8060391",
-            "d417a14b-3db4-4a02-9dfc-3cfe66458f80",
-            "59ddd6e8-71d9-4d28-90c7-059dde22669d",
-            "b401d7f3-653b-47b8-95a9-2e38ede0209d"
-          ]
-        },
-        {
-          "uuid": "f68e0c9c-bfed-438f-ad63-9ef83f965e29",
-          "title": "Drinks",
-          "itemUuids": [
-            "b266d797-b774-4cf4-ab67-a0c970d1808f",
-            "6a262ce8-61c4-4f81-9e52-4eafff04c01a",
-            "da56920e-149b-4965-a83b-1f6fd8b9ae51",
-            "f8a91ae4-d165-4aef-8589-03f5d46f6a10",
-            "5ef848f6-75dd-4874-966e-28e54d36333e",
-            "0ebd115f-089d-4455-9bd8-f71c567b4ddd",
-            "374a30d9-dc32-4d72-be9e-60428d56af5d",
-            "84e8c737-110c-450a-b74d-35a7da896b87",
-            "0eb57948-1765-424a-82c3-e372096538e3",
-            "6ca58f7f-35b4-4111-a863-3dd876d679af",
-            "116f7834-4f17-4c54-8b08-8c59ba7db339",
-            "fef454e9-8b54-4cc6-a62b-6a818e369b30",
-            "7d86a21e-001c-40ab-9d08-3fd3aec3f451"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4366502,
     "longitude": 30.5202861,
@@ -620,5 +157,447 @@
     "storeRatingScore": 4.829670329670329,
     "ratingCount": "182"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21706436-9682-4c10-9751-ef407fadc0cb"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21706436-9682-4c10-9751-ef407fadc0cb",
+  "items": {
+    "ca250ebe-31e6-4e09-9597-2c6c67f03f09": {
+      "uuid": "ca250ebe-31e6-4e09-9597-2c6c67f03f09",
+      "title": "Veal with soba noodles",
+      "itemDescription": "Veal, soba noodles, tomatoes, asparagus, and sesame seeds (330g).\n",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/69f949ec-5ee9-4379-a9d6-cbb7ed1e437e",
+      "customizationUuids": [
+        "0352655f-2eb3-440b-b4cd-f46d958b944c"
+      ]
+    },
+    "6a262ce8-61c4-4f81-9e52-4eafff04c01a": {
+      "uuid": "6a262ce8-61c4-4f81-9e52-4eafff04c01a",
+      "title": "Grapefruit cold-pressed juice",
+      "itemDescription": "250ml.",
+      "price": 5900
+    },
+    "b401d7f3-653b-47b8-95a9-2e38ede0209d": {
+      "uuid": "b401d7f3-653b-47b8-95a9-2e38ede0209d",
+      "title": "Brownie with avocado",
+      "itemDescription": "Avocado, honey, lemon juice, vanilla essence, grated cacao, chocolate with sugar substitute, butter, rice flour, egg(120g).",
+      "price": 9900,
+      "nutritionalInfo": {}
+    },
+    "a56bf4be-fc6b-4925-a589-6a0d3c4a31fe": {
+      "uuid": "a56bf4be-fc6b-4925-a589-6a0d3c4a31fe",
+      "title": "Fish wrap",
+      "itemDescription": "Тунець консервований, лаваш, томат, шпинат, чука,  авокадо, соус із льону та тахіни, гірчиця (340г).",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c986f42e-9103-4122-a6b4-58e83ae98403",
+      "suspendUntil": 1559509199
+    },
+    "dde7f410-19e3-4813-8b71-e70527ca083a": {
+      "uuid": "dde7f410-19e3-4813-8b71-e70527ca083a",
+      "title": "Salmon sandwich",
+      "itemDescription": "Light-salted salmon, rye bread, Philadelphia cream cheese, and cucumber`s dill (240g).",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd2108f5-8b41-43d6-b5d1-c7b86b001101",
+      "suspendUntil": 1559509199
+    },
+    "829053b5-f4d0-4325-b731-651a6c8791d7": {
+      "uuid": "829053b5-f4d0-4325-b731-651a6c8791d7",
+      "title": "Energy boost black currant&nuts",
+      "itemDescription": "Oat flakes, chia, coconut milk, almond, black currant(145g).",
+      "price": 7900,
+      "suspendUntil": 8640000000
+    },
+    "6cfe0360-7c69-4d2c-b4de-5c081c5e8928": {
+      "uuid": "6cfe0360-7c69-4d2c-b4de-5c081c5e8928",
+      "title": "Hot sandwich with brie",
+      "itemDescription": "Oatmeal bread, feta cheese, thyme, bell pepper, brie cheese (245 g)",
+      "price": 14900,
+      "suspendUntil": 1559509199
+    },
+    "350c38ff-257f-4867-b1e0-a464b4273012": {
+      "uuid": "350c38ff-257f-4867-b1e0-a464b4273012",
+      "title": "Tomato cream soup",
+      "itemDescription": "Peeled tomatoes, sweet peppers, celery, feta cheese and garlic (200ml).",
+      "price": 5400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4b77974-e335-4d60-8b6a-e947ceab8d47"
+    },
+    "0ebd115f-089d-4455-9bd8-f71c567b4ddd": {
+      "uuid": "0ebd115f-089d-4455-9bd8-f71c567b4ddd",
+      "title": "Banana and Spirulina Smoothie",
+      "itemDescription": "250ml.",
+      "price": 4900
+    },
+    "0ed3a66e-688e-4181-84f7-98b0fc373a7d": {
+      "uuid": "0ed3a66e-688e-4181-84f7-98b0fc373a7d",
+      "title": "Salmon with quinoa",
+      "itemDescription": "Baked salmon, quinoa and green peas (220g).",
+      "price": 17900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9fdc07d7-ffb0-4c6e-b84c-8f0f36170629",
+      "customizationUuids": [
+        "d666ced4-6ab6-4db4-9df2-86236f5814c1"
+      ]
+    },
+    "00e124eb-a826-455f-bf4a-1d2d5e29fd6e": {
+      "uuid": "00e124eb-a826-455f-bf4a-1d2d5e29fd6e",
+      "title": "Baked apple",
+      "itemDescription": "Apple, honey, almond flakes (180g)",
+      "price": 4900,
+      "suspendUntil": 1559509199
+    },
+    "141f6405-b528-430a-bc0e-b388bc15976a": {
+      "uuid": "141f6405-b528-430a-bc0e-b388bc15976a",
+      "title": "Bowl with prawns",
+      "itemDescription": "Tiger prawns, bulgur, vegetables in coconut and tomato sauce, baby corn, green beans, broccoli, and sweet peppers (270g).",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8faceb2-607a-4649-8f92-7cdaaf0991ca",
+      "customizationUuids": [
+        "d666ced4-6ab6-4db4-9df2-86236f5814c1"
+      ]
+    },
+    "3204cbc6-832e-40be-96c3-15781d7d8cf1": {
+      "uuid": "3204cbc6-832e-40be-96c3-15781d7d8cf1",
+      "title": "Energy boost mango",
+      "itemDescription": "Oat flakes, chia, coconut milk, mango(310g).",
+      "price": 9900
+    },
+    "0eb57948-1765-424a-82c3-e372096538e3": {
+      "uuid": "0eb57948-1765-424a-82c3-e372096538e3",
+      "title": "Lime water",
+      "itemDescription": "250ml.",
+      "price": 2200,
+      "suspendUntil": 8640000000
+    },
+    "a5f80319-96e9-4cb3-a85b-943e6c531055": {
+      "uuid": "a5f80319-96e9-4cb3-a85b-943e6c531055",
+      "title": "Set of sweets (6 pieces)",
+      "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol; CHOCOLATE TRUFFLES WITH GINGER: chocolate (cocoa grated, cocoa butter), ginger, raisins, coconut milk, honey; DAIRY FRUIT: chocolate (cocoa butter, cocoa grated), coconut milk, almonds, honey; MOCCO: chocolate (cocoa grated, cocoa butter), coconut milk powder, coffee, honey (150g)",
+      "price": 16800
+    },
+    "85ddd295-b902-4293-8f3e-f1590891136f": {
+      "uuid": "85ddd295-b902-4293-8f3e-f1590891136f",
+      "title": "Set of sweets coconut (3 pieces)",
+      "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, and cocoa grated (75g).",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/19793c53-6913-4580-8870-8bca43639821"
+    },
+    "d417a14b-3db4-4a02-9dfc-3cfe66458f80": {
+      "uuid": "d417a14b-3db4-4a02-9dfc-3cfe66458f80",
+      "title": "Set of sweets assorted  tropical mix (3 pieces)",
+      "itemDescription": "Cocoa butter, cocoa grate, chia, passion fruit, date (75g).",
+      "price": 7900,
+      "suspendUntil": 8640000000
+    },
+    "54f60829-b1eb-41a8-8db7-f681e6919668": {
+      "uuid": "54f60829-b1eb-41a8-8db7-f681e6919668",
+      "title": "Vegetable Mix",
+      "itemDescription": "Cucumber, bell pepper, сelery, сarrot, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil) (180g).",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/043ab76a-948c-454a-85e4-7dd4e54ac423",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "d09ce460-dfb6-4c32-91c4-06d59ed0dae0": {
+      "uuid": "d09ce460-dfb6-4c32-91c4-06d59ed0dae0",
+      "title": "Coconut cakes",
+      "itemDescription": "Coconut, coconut milk, honey, dates, beets, strawberries, currants, and vanilla (280g).",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/39f39432-c816-4c0c-9c14-558dbb90351b",
+      "suspendUntil": 1559509199
+    },
+    "57c4176a-5208-4bdf-bd32-5dd22be25c26": {
+      "uuid": "57c4176a-5208-4bdf-bd32-5dd22be25c26",
+      "title": "Flaxseeds porridge",
+      "itemDescription": "Flax seeds, coconut milk, honey, and dried apricots and almonds (185g).",
+      "price": 6700,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/05571913-c577-41c7-9a1a-744040357dcb"
+    },
+    "1d2777ee-1bcc-4829-a151-233cbb2c8644": {
+      "uuid": "1d2777ee-1bcc-4829-a151-233cbb2c8644",
+      "title": "Chicken salad",
+      "itemDescription": "Baked chicken fillet, iceberg lettuce, spinach, fresh cucumber, cherry tomato, black pepper, vegetable oil, parmesan cheese, spicy lean mayonnaise(flax seeds, mustard, honey, vegetable oil, sea salt, lemon fresh), Worcestershire sause(230+40g).",
+      "price": 14100,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d082358-595f-4abc-b2ae-a6974b154440"
+    },
+    "e8022440-c5a8-4f22-ac7f-65547cdcdd13": {
+      "uuid": "e8022440-c5a8-4f22-ac7f-65547cdcdd13",
+      "title": "Chicken curry with rice",
+      "itemDescription": "Chicken fillet, brown rice, peas, curry sauce(260g).",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a77b2730-75d2-42ec-9608-4338fc9d4d73"
+    },
+    "56eeb009-8358-4b78-bbe5-bab5a47d1bc9": {
+      "uuid": "56eeb009-8358-4b78-bbe5-bab5a47d1bc9",
+      "title": "Lentil cream soup",
+      "itemDescription": "Lentil, carrots, onion, salt, black pepper (200ml).",
+      "price": 3900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/20366c15-dd8b-46fa-9c89-ff5eea082eae",
+      "suspendUntil": 1559509199
+    },
+    "84e8c737-110c-450a-b74d-35a7da896b87": {
+      "uuid": "84e8c737-110c-450a-b74d-35a7da896b87",
+      "title": "Ginger water",
+      "itemDescription": "250ml.",
+      "price": 2200,
+      "suspendUntil": 8640000000
+    },
+    "624227d5-0d9a-468f-a0e3-ab5aff09993a": {
+      "uuid": "624227d5-0d9a-468f-a0e3-ab5aff09993a",
+      "title": "Chicken wrap",
+      "itemDescription": "Baked chicken fillet, Korean carrots, baked pepper, napa cabbage, tahini and flax sauce, mustard, and flatbread (310g).",
+      "price": 10500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0390c569-f2d4-40bc-b308-77a4d6d1a90e",
+      "suspendUntil": 1559509199
+    },
+    "5ef848f6-75dd-4874-966e-28e54d36333e": {
+      "uuid": "5ef848f6-75dd-4874-966e-28e54d36333e",
+      "title": "Apple & spinach cold-pressed detox juice",
+      "itemDescription": "250ml.",
+      "price": 5400,
+      "suspendUntil": 8640000000
+    },
+    "22f75467-6731-4fc5-a550-969e1f85efeb": {
+      "uuid": "22f75467-6731-4fc5-a550-969e1f85efeb",
+      "title": "Vegan wrap",
+      "itemDescription": "Батат, тофу, хумус, чука, шпинат, гарбуз, кіноа, соус із тахіни та льону, лаваш (390г).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/249ef4c7-1ed0-448f-8b85-feae7f78697e",
+      "suspendUntil": 1559509199,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "6c1b1daf-8d71-4740-acd9-13520f9463c1": {
+      "uuid": "6c1b1daf-8d71-4740-acd9-13520f9463c1",
+      "title": "Tuna sandwich",
+      "itemDescription": "Tuna, boiled egg, lettuce, Dijon mustard, and oatmeal bread (160g).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f34dab1-b33a-4f78-9304-3465043294e9",
+      "suspendUntil": 1559509199
+    },
+    "fbefe509-e5c1-4cb9-bef8-e8eca7d15b18": {
+      "uuid": "fbefe509-e5c1-4cb9-bef8-e8eca7d15b18",
+      "title": "Set of sweets salt caramel (3 pieces)",
+      "itemDescription": "SALT CARAMEL: cocoa grated, cocoa butter, peanut butter, dates, and sea salt Fleur de Sol (75g).",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/296a348a-9129-4807-bc8f-52a59e148308"
+    },
+    "59ddd6e8-71d9-4d28-90c7-059dde22669d": {
+      "uuid": "59ddd6e8-71d9-4d28-90c7-059dde22669d",
+      "title": "Coconut cookie",
+      "itemDescription": "Grated coconut, coconut milk,corn sprouts syrup, vanilla essence,\ncoconut essence, rice flour(38g).",
+      "price": 2400,
+      "nutritionalInfo": {}
+    },
+    "7d86a21e-001c-40ab-9d08-3fd3aec3f451": {
+      "uuid": "7d86a21e-001c-40ab-9d08-3fd3aec3f451",
+      "title": "Water VODA.UA",
+      "itemDescription": "400g",
+      "price": 2100
+    },
+    "d93091de-81e2-4158-a84f-2d6e369ed56f": {
+      "uuid": "d93091de-81e2-4158-a84f-2d6e369ed56f",
+      "title": "Mushroom cream soup with rice milk",
+      "itemDescription": "Champignon, oyster mushroom, onion, and rice milk (200ml).",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/72871302-64fc-4d6d-92bf-4f4ea7ef3638"
+    },
+    "1894258e-08a1-4465-8777-0ce532d175e9": {
+      "uuid": "1894258e-08a1-4465-8777-0ce532d175e9",
+      "title": "Pumpkin cream soup with prawns and Parmesan",
+      "itemDescription": "Pumpkin, celery, turmeric, garlic, onion, rosemary, coriander, non-dairy cream, prawns, and Parmesan (250ml).",
+      "price": 9500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd832e80-8960-4665-a1fc-87670ec8b174",
+      "suspendUntil": 1559509199
+    },
+    "64f209ee-1d4b-4c77-a3a8-eb48fba82ced": {
+      "uuid": "64f209ee-1d4b-4c77-a3a8-eb48fba82ced",
+      "title": "Banana pudding",
+      "itemDescription": "Banana, milk, eggs, rice flour, stevia, and cocoa (150g).",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d436812f-f6fb-4980-8d25-ad3b114370ee",
+      "suspendUntil": 1559509199
+    },
+    "da56920e-149b-4965-a83b-1f6fd8b9ae51": {
+      "uuid": "da56920e-149b-4965-a83b-1f6fd8b9ae51",
+      "title": "Carrots cold-pressed juice",
+      "itemDescription": "250ml.",
+      "price": 3900,
+      "suspendUntil": 8640000000
+    },
+    "116f7834-4f17-4c54-8b08-8c59ba7db339": {
+      "uuid": "116f7834-4f17-4c54-8b08-8c59ba7db339",
+      "title": "Bottled MIRA NO(U)T milk cashew + vanilla",
+      "itemDescription": "500g",
+      "price": 13900,
+      "suspendUntil": 8640000000
+    },
+    "0ab15809-2b19-4d30-82ca-930ef8a3d608": {
+      "uuid": "0ab15809-2b19-4d30-82ca-930ef8a3d608",
+      "title": "Set of sweets assorted (3 pieces)",
+      "itemDescription": "COCONUT: coconut flakes, coconut milk powder, vanilla, honey, cocoa butter, cocoa grated; BLACK CURRANT: cocoa butter, cocoa grated, coconut milk, honey, black currant; SALT CARAMEL: cocoa grated, cocoa butter, peanut paste, dates, sea salt Fleur de Sol (75g)",
+      "price": 7900
+    },
+    "6ca58f7f-35b4-4111-a863-3dd876d679af": {
+      "uuid": "6ca58f7f-35b4-4111-a863-3dd876d679af",
+      "title": "Bottled MIRA NO(U)T milk coconut ",
+      "itemDescription": "500g",
+      "price": 9900,
+      "suspendUntil": 8640000000
+    },
+    "8dccc284-7125-4bc2-b932-ea233160ef68": {
+      "uuid": "8dccc284-7125-4bc2-b932-ea233160ef68",
+      "title": "Cheese pancakes",
+      "itemDescription": "Cottage cheese, rice flour, eggs, strawberry and vanilla sauce(245g).",
+      "price": 13500,
+      "suspendUntil": 1559509199
+    },
+    "a1d53a39-7e78-455b-8a53-c959760a83c1": {
+      "uuid": "a1d53a39-7e78-455b-8a53-c959760a83c1",
+      "title": "Quinoa-spinach-hummus",
+      "itemDescription": "Quinoa, spinach, homemade hummus (chickpeas, salt, spice Zira, lemon fresh, sesame paste Tahini, black pepper, dried garlic, vegetable oil), eggs, pesto sauce (200g).",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddf952db-d56c-4bac-a59b-3a1f57c86b89",
+      "suspendUntil": 1559509199
+    },
+    "fef454e9-8b54-4cc6-a62b-6a818e369b30": {
+      "uuid": "fef454e9-8b54-4cc6-a62b-6a818e369b30",
+      "title": "Bottled MIRA NO(U)T milk almond+dates",
+      "itemDescription": "500g",
+      "price": 12900,
+      "suspendUntil": 8640000000
+    },
+    "b266d797-b774-4cf4-ab67-a0c970d1808f": {
+      "uuid": "b266d797-b774-4cf4-ab67-a0c970d1808f",
+      "title": "Orange Fresh",
+      "itemDescription": "250ml.",
+      "price": 4900
+    },
+    "2900ce8b-2f3d-405b-850f-b79bc8060391": {
+      "uuid": "2900ce8b-2f3d-405b-850f-b79bc8060391",
+      "title": "Blueberry RAW cheesecake",
+      "itemDescription": "Coconut milk, lemon fresh, cashew, coconut oil, cocoa butter, honey, blueberry, almond, dates, cocoa powder, cocoa grated(135g).",
+      "price": 9900,
+      "suspendUntil": 1559509199
+    },
+    "8674148e-5802-49cc-b663-22335617aaf0": {
+      "uuid": "8674148e-5802-49cc-b663-22335617aaf0",
+      "title": "Roasted vegetables salad",
+      "itemDescription": "Baked cauliflower, baked tomatoes, cucumbers, carrots, cashew, and mustard sauce (200g).",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7816e0db-a963-4835-ba36-a0796170efb7",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "f8a91ae4-d165-4aef-8589-03f5d46f6a10": {
+      "uuid": "f8a91ae4-d165-4aef-8589-03f5d46f6a10",
+      "title": "Lemonade",
+      "itemDescription": "Flavor to choose (250ml).",
+      "price": 5400,
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "0e26f58b-879c-44f7-9c35-b10a8bfb0cad"
+      ]
+    },
+    "d613d64a-d6f6-48be-abcc-858aa0ac3952": {
+      "uuid": "d613d64a-d6f6-48be-abcc-858aa0ac3952",
+      "title": "Chicken sandwich",
+      "itemDescription": "Baked chicken, oatmeal bread, tomato, lettuce, Lean sauce with cheese, and basil (260g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf3591dd-01b3-44cd-94dd-f2dc4686cd8e",
+      "suspendUntil": 1559509199
+    },
+    "cabe1b62-d5e3-4d61-aa02-46e2e957ae98": {
+      "uuid": "cabe1b62-d5e3-4d61-aa02-46e2e957ae98",
+      "title": "Oatmeal cookies",
+      "itemDescription": "Oat flakes, apple, cinnamon, raisins, and almonds (40g).",
+      "price": 1500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fafddb46-3106-4c7b-9f42-1288a7c45d0a"
+    },
+    "374a30d9-dc32-4d72-be9e-60428d56af5d": {
+      "uuid": "374a30d9-dc32-4d72-be9e-60428d56af5d",
+      "title": "Orange and Turmeric Smoothie ",
+      "itemDescription": "250ml.",
+      "price": 5400
+    },
+    "c66f91e1-1e3e-4844-bdfb-e13877616033": {
+      "uuid": "c66f91e1-1e3e-4844-bdfb-e13877616033",
+      "title": "Chicken cutlets with quinoa",
+      "itemDescription": "Chicken cutlets: fillet, cream, onion, black and white quinoa, baked peppers, and pesto sauce (230g).",
+      "price": 11500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/21dd3030-b7c3-4e09-b3d5-e1a369fc1d9a",
+      "customizationUuids": [
+        "ed4e85eb-3086-4f39-9220-dd46a830402a"
+      ]
+    },
+    "c5130840-85b8-4f35-b7a7-e62957a7bd50": {
+      "uuid": "c5130840-85b8-4f35-b7a7-e62957a7bd50",
+      "title": "Hummus sandwich",
+      "itemDescription": "Hummus, rye bread, spinach, and sweet peppers (170g).",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/57d54fbd-feab-422d-9151-aaaaa3b7569d",
+      "suspendUntil": 1559509199,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "fc30941d-dd47-4417-979e-89f348ef3f42": {
+      "uuid": "fc30941d-dd47-4417-979e-89f348ef3f42",
+      "title": "Tuna salad",
+      "itemDescription": "Tuna, mix of lettuce (lolo biondo, frisi, arugula), tomatoes, cucumber, egg, honey and mustard sauce (mustard, vegetable oil, honey, lemon fresh) (250g).",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cbf88544-1b28-41ee-95f0-ff0af1f5d993"
+    }
+  }
 }

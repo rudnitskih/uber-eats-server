@@ -20,319 +20,62 @@
   ],
   "sections": [
     {
-      "uuid": "4a3be688-ce87-4719-8b1e-bf42879662b8",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "3e46c188-36ae-4ff0-8cd9-cb3bf68f5e1e",
-        "324ce14a-1387-4ea6-a913-e6e8dd18bff1",
-        "be9cdb8d-659d-4e31-9643-239e7b383d94",
-        "b2b1769f-2106-4335-bcce-261f4e011712",
-        "f65fc177-378d-4049-a9c7-8d9d96bf255a"
+      "uuid": "3e46c188-36ae-4ff0-8cd9-cb3bf68f5e1e",
+      "title": "Hot dogs",
+      "itemUuids": [
+        "bc18f4f7-392b-4373-8314-f5cec8e633e8",
+        "cd83451b-3feb-40b5-85d6-dd3b37e89151",
+        "68d49ae7-29fc-4201-98c0-e78efa65fd6c",
+        "35fe899c-4f26-42ce-b36b-53255440303c",
+        "da130051-1f7f-4b63-a49e-5c624b7cafe3",
+        "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe",
+        "a883731b-0cbb-45a9-8fd4-dcd8540bc5ae",
+        "c73e0f5e-13f8-472d-84da-e61e5d2c3870"
+      ]
+    },
+    {
+      "uuid": "324ce14a-1387-4ea6-a913-e6e8dd18bff1",
+      "title": "Burgers and sandwiches",
+      "itemUuids": [
+        "6e874f19-d827-44d5-8fc7-5d74a87444f5",
+        "f18e08ad-67e6-4df8-8bd8-ce97df7d1c39",
+        "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a",
+        "0b8edd13-4104-4411-b49e-589f419ea369",
+        "41ec0553-814f-422e-8044-ced5858ca5d5",
+        "01b6fc49-d490-4150-b2c5-bf16c5becf2f"
+      ]
+    },
+    {
+      "uuid": "be9cdb8d-659d-4e31-9643-239e7b383d94",
+      "title": "WOK noodles",
+      "itemUuids": [
+        "c043f291-46d4-495c-827d-1efbb113515c",
+        "fa444ba1-55f3-4835-a5dc-3ad891881bd7",
+        "ae41b1d0-bb2c-4807-95bb-6a893902dd9e",
+        "ebb8c909-6e2c-423c-8bdb-e70af397a5b8",
+        "781f8ca7-281e-4e62-bbca-63d129f63ac8",
+        "5cfc20c9-15e4-4b71-a173-9310ea48721e"
+      ]
+    },
+    {
+      "uuid": "b2b1769f-2106-4335-bcce-261f4e011712",
+      "title": "Fries and sauces",
+      "itemUuids": [
+        "218c5677-f629-4092-a86e-741964b5e476",
+        "f34f73c6-596a-4f83-a59d-a60248b48299",
+        "e044639c-f745-4f6d-a3d0-11d4f7ee8e50"
+      ]
+    },
+    {
+      "uuid": "f65fc177-378d-4049-a9c7-8d9d96bf255a",
+      "title": "Combo menu",
+      "itemUuids": [
+        "87d56efb-5eb7-44a6-a60f-286087bb4d19",
+        "5b35733f-a66e-4303-b526-4061ef2e41ff",
+        "c22442f0-810b-4248-8555-10ea0812142d"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "4a3be688-ce87-4719-8b1e-bf42879662b8": {
-      "itemsMap": {
-        "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe": {
-          "uuid": "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe",
-          "title": "Indian",
-          "itemDescription": "Turkey and pork sausage, grilled bun, seasonal vegetables, and sauces.",
-          "price": 3900
-        },
-        "c043f291-46d4-495c-827d-1efbb113515c": {
-          "uuid": "c043f291-46d4-495c-827d-1efbb113515c",
-          "title": "Wok with chicken and vegetables",
-          "itemDescription": "With wheat noodles, Chinese-style vegetables, and sauce to choose.",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/86d49997-d10b-4431-b3b5-02fb82980023",
-          "customizationUuids": [
-            "0b0acc33-5f52-45cf-9d9a-2d5b7118b3d8",
-            "82816826-2862-4d57-885e-f92e2927f652"
-          ]
-        },
-        "ebb8c909-6e2c-423c-8bdb-e70af397a5b8": {
-          "uuid": "ebb8c909-6e2c-423c-8bdb-e70af397a5b8",
-          "title": "Wok with chicken and gong bao sauce",
-          "itemDescription": "With wheat noodles, Chinese-style vegetables, sauce to choose.",
-          "price": 6900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "Гостра страва",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "0b0acc33-5f52-45cf-9d9a-2d5b7118b3d8",
-            "82816826-2862-4d57-885e-f92e2927f652"
-          ]
-        },
-        "781f8ca7-281e-4e62-bbca-63d129f63ac8": {
-          "uuid": "781f8ca7-281e-4e62-bbca-63d129f63ac8",
-          "title": "Wok with seafood",
-          "itemDescription": "With squid, mussels, octopus, wheat noodles, Chinese-style vegetables, and sauce to choose.",
-          "price": 7900,
-          "customizationUuids": [
-            "f5032ec8-0638-4ef5-bb35-a47cbcc9077b",
-            "82816826-2862-4d57-885e-f92e2927f652"
-          ]
-        },
-        "35fe899c-4f26-42ce-b36b-53255440303c": {
-          "uuid": "35fe899c-4f26-42ce-b36b-53255440303c",
-          "title": "For kids",
-          "itemDescription": "Grilled bun, milk sausage, and ketchup for kids.",
-          "price": 2900
-        },
-        "e044639c-f745-4f6d-a3d0-11d4f7ee8e50": {
-          "uuid": "e044639c-f745-4f6d-a3d0-11d4f7ee8e50",
-          "title": "Sauces",
-          "itemDescription": "30 g.",
-          "price": 300,
-          "customizationUuids": [
-            "749c54a7-4f3c-4972-8c47-b3a548f7fce6"
-          ]
-        },
-        "da130051-1f7f-4b63-a49e-5c624b7cafe3": {
-          "uuid": "da130051-1f7f-4b63-a49e-5c624b7cafe3",
-          "title": "American",
-          "itemDescription": "Milk sausage, grilled bun, seasonal vegetables, and sauces.",
-          "price": 3900
-        },
-        "5b35733f-a66e-4303-b526-4061ef2e41ff": {
-          "uuid": "5b35733f-a66e-4303-b526-4061ef2e41ff",
-          "title": "Combo menu burgers and sandwiches",
-          "itemDescription": "Burgers or  sandwich, fries, and Pepsi Cola 0,33. ",
-          "price": 5900,
-          "customizationUuids": [
-            "4b610c07-313f-4d56-bfbf-c96e2be8d747"
-          ]
-        },
-        "01b6fc49-d490-4150-b2c5-bf16c5becf2f": {
-          "uuid": "01b6fc49-d490-4150-b2c5-bf16c5becf2f",
-          "title": "Double beef burger",
-          "itemDescription": "Grilled bun, 2 beef cutlets, double toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
-          "price": 9900
-        },
-        "87d56efb-5eb7-44a6-a60f-286087bb4d19": {
-          "uuid": "87d56efb-5eb7-44a6-a60f-286087bb4d19",
-          "title": "Combo menu hot-dogs",
-          "itemDescription": "Hot dog, fries, and Pepsi Cola 0,33.",
-          "price": 6300,
-          "customizationUuids": [
-            "87d4617c-4d2f-4e39-bdd3-48ff1d10c051"
-          ]
-        },
-        "5cfc20c9-15e4-4b71-a173-9310ea48721e": {
-          "uuid": "5cfc20c9-15e4-4b71-a173-9310ea48721e",
-          "title": "Homemade Wok noodles",
-          "itemDescription": "With wheat noodles, ham, and cream or tomato sauce.",
-          "price": 5900,
-          "customizationUuids": [
-            "b56136a2-eb90-4334-b9d3-240e9a3e3b99",
-            "1ce7b173-5804-4b4f-a8e1-9686b4c21da9"
-          ]
-        },
-        "bc18f4f7-392b-4373-8314-f5cec8e633e8": {
-          "uuid": "bc18f4f7-392b-4373-8314-f5cec8e633e8",
-          "title": "Frenchman",
-          "itemDescription": "Hunter sausage, grilled bun, and sauces.",
-          "price": 2900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e137dcf7-95d6-4a00-8546-319a53d51f2d"
-        },
-        "fa444ba1-55f3-4835-a5dc-3ad891881bd7": {
-          "uuid": "fa444ba1-55f3-4835-a5dc-3ad891881bd7",
-          "title": "Wok with vegetables",
-          "itemDescription": "With wheat noodles, Chinese-style vegetables, and sauce to choose.",
-          "price": 4900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Вегетаріанська страва",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "1170fae3-5157-477c-bf83-668979cdb5f6",
-            "82816826-2862-4d57-885e-f92e2927f652"
-          ]
-        },
-        "ae41b1d0-bb2c-4807-95bb-6a893902dd9e": {
-          "uuid": "ae41b1d0-bb2c-4807-95bb-6a893902dd9e",
-          "title": "Wok with pork anf vegetables",
-          "itemDescription": "With wheat noodles, Chinese-style vegetables, and sauce to choose.",
-          "price": 6900,
-          "customizationUuids": [
-            "0b0acc33-5f52-45cf-9d9a-2d5b7118b3d8",
-            "82816826-2862-4d57-885e-f92e2927f652"
-          ]
-        },
-        "0b8edd13-4104-4411-b49e-589f419ea369": {
-          "uuid": "0b8edd13-4104-4411-b49e-589f419ea369",
-          "title": "Fish burger",
-          "itemDescription": "Grilled bun, breaded fish fillet, toast cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and Tartar sauce.",
-          "price": 7900
-        },
-        "6e874f19-d827-44d5-8fc7-5d74a87444f5": {
-          "uuid": "6e874f19-d827-44d5-8fc7-5d74a87444f5",
-          "title": "Chicken burger",
-          "itemDescription": "Grilled bun, chicken cutlet, toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e35b4c7c-1e6b-454a-8c7e-774fccf28222"
-        },
-        "cd83451b-3feb-40b5-85d6-dd3b37e89151": {
-          "uuid": "cd83451b-3feb-40b5-85d6-dd3b37e89151",
-          "title": "German",
-          "itemDescription": "Bavarian sausage with greens, grilled bun, seasonal vegetables, and sauces.",
-          "price": 3900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/73d49d3c-ae4e-4e1b-9756-1b82d65ce219"
-        },
-        "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a": {
-          "uuid": "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a",
-          "title": "Beef burger",
-          "itemDescription": "Grilled bun, beef cutlet, toast cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
-          "price": 5900
-        },
-        "f18e08ad-67e6-4df8-8bd8-ce97df7d1c39": {
-          "uuid": "f18e08ad-67e6-4df8-8bd8-ce97df7d1c39",
-          "title": "Ham sandwich",
-          "itemDescription": "Toast bread, toast cheese, ham, tomato, and garlic sauce.",
-          "price": 2500
-        },
-        "c22442f0-810b-4248-8555-10ea0812142d": {
-          "uuid": "c22442f0-810b-4248-8555-10ea0812142d",
-          "title": "Combo menu for kids",
-          "itemDescription": " Hot dog for kids, fries, and juice 0,2. ",
-          "price": 6500
-        },
-        "f34f73c6-596a-4f83-a59d-a60248b48299": {
-          "uuid": "f34f73c6-596a-4f83-a59d-a60248b48299",
-          "title": "Chicken nuggets",
-          "itemDescription": "",
-          "price": 4400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/dba99ba5-cea1-48fd-93f4-b478a957909e",
-          "customizationUuids": [
-            "8118b856-ea34-481c-9c68-930bdc1b9509"
-          ]
-        },
-        "68d49ae7-29fc-4201-98c0-e78efa65fd6c": {
-          "uuid": "68d49ae7-29fc-4201-98c0-e78efa65fd6c",
-          "title": "Grilled sausage with salad",
-          "itemDescription": "Bavarian sausage to choose, and salad of seasonal vegetables. ",
-          "price": 2700,
-          "customizationUuids": [
-            "1b6190e4-c41d-4257-9460-e3180ca9e563"
-          ]
-        },
-        "c73e0f5e-13f8-472d-84da-e61e5d2c3870": {
-          "uuid": "c73e0f5e-13f8-472d-84da-e61e5d2c3870",
-          "title": "Royal",
-          "itemDescription": "Milk sausage, grilled bun, dried onion, tomato, sweet pepper, iceberg lettuce, dor blue cheese, and cream sauce.",
-          "price": 4900
-        },
-        "a883731b-0cbb-45a9-8fd4-dcd8540bc5ae": {
-          "uuid": "a883731b-0cbb-45a9-8fd4-dcd8540bc5ae",
-          "title": "Walker",
-          "itemDescription": "Bavarian sausage with cheese, grilled bun, seasonal vegetables, tomato or carrot in Korean style, and sauces.",
-          "price": 4400
-        },
-        "41ec0553-814f-422e-8044-ced5858ca5d5": {
-          "uuid": "41ec0553-814f-422e-8044-ced5858ca5d5",
-          "title": "Double chicken burger",
-          "itemDescription": "Grilled bun, 2 chicken cutlets, double toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
-          "price": 8900
-        },
-        "218c5677-f629-4092-a86e-741964b5e476": {
-          "uuid": "218c5677-f629-4092-a86e-741964b5e476",
-          "title": "Fries",
-          "itemDescription": "",
-          "price": 2500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/af1c823b-aff5-4e55-a5f6-f5a4b8330370",
-          "customizationUuids": [
-            "e5fabc1a-aa9b-4925-9a0a-89f64fbac1d5"
-          ]
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "3e46c188-36ae-4ff0-8cd9-cb3bf68f5e1e",
-          "title": "Hot dogs",
-          "itemUuids": [
-            "bc18f4f7-392b-4373-8314-f5cec8e633e8",
-            "cd83451b-3feb-40b5-85d6-dd3b37e89151",
-            "68d49ae7-29fc-4201-98c0-e78efa65fd6c",
-            "35fe899c-4f26-42ce-b36b-53255440303c",
-            "da130051-1f7f-4b63-a49e-5c624b7cafe3",
-            "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe",
-            "a883731b-0cbb-45a9-8fd4-dcd8540bc5ae",
-            "c73e0f5e-13f8-472d-84da-e61e5d2c3870"
-          ]
-        },
-        {
-          "uuid": "324ce14a-1387-4ea6-a913-e6e8dd18bff1",
-          "title": "Burgers and sandwiches",
-          "itemUuids": [
-            "6e874f19-d827-44d5-8fc7-5d74a87444f5",
-            "f18e08ad-67e6-4df8-8bd8-ce97df7d1c39",
-            "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a",
-            "0b8edd13-4104-4411-b49e-589f419ea369",
-            "41ec0553-814f-422e-8044-ced5858ca5d5",
-            "01b6fc49-d490-4150-b2c5-bf16c5becf2f"
-          ]
-        },
-        {
-          "uuid": "be9cdb8d-659d-4e31-9643-239e7b383d94",
-          "title": "WOK noodles",
-          "itemUuids": [
-            "c043f291-46d4-495c-827d-1efbb113515c",
-            "fa444ba1-55f3-4835-a5dc-3ad891881bd7",
-            "ae41b1d0-bb2c-4807-95bb-6a893902dd9e",
-            "ebb8c909-6e2c-423c-8bdb-e70af397a5b8",
-            "781f8ca7-281e-4e62-bbca-63d129f63ac8",
-            "5cfc20c9-15e4-4b71-a173-9310ea48721e"
-          ]
-        },
-        {
-          "uuid": "b2b1769f-2106-4335-bcce-261f4e011712",
-          "title": "Fries and sauces",
-          "itemUuids": [
-            "218c5677-f629-4092-a86e-741964b5e476",
-            "f34f73c6-596a-4f83-a59d-a60248b48299",
-            "e044639c-f745-4f6d-a3d0-11d4f7ee8e50"
-          ]
-        },
-        {
-          "uuid": "f65fc177-378d-4049-a9c7-8d9d96bf255a",
-          "title": "Combo menu",
-          "itemUuids": [
-            "87d56efb-5eb7-44a6-a60f-286087bb4d19",
-            "5b35733f-a66e-4303-b526-4061ef2e41ff",
-            "c22442f0-810b-4248-8555-10ea0812142d"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.44709341880999,
     "longitude": 30.522159244598875,
@@ -371,5 +114,243 @@
     "storeRatingScore": 4.06993006993007,
     "ratingCount": "143"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d81ce12e-a552-428f-b4b3-2d1b1321920c"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d81ce12e-a552-428f-b4b3-2d1b1321920c",
+  "items": {
+    "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe": {
+      "uuid": "9bd41fdd-d272-4109-be6a-9d22d3ab6bbe",
+      "title": "Indian",
+      "itemDescription": "Turkey and pork sausage, grilled bun, seasonal vegetables, and sauces.",
+      "price": 3900
+    },
+    "c043f291-46d4-495c-827d-1efbb113515c": {
+      "uuid": "c043f291-46d4-495c-827d-1efbb113515c",
+      "title": "Wok with chicken and vegetables",
+      "itemDescription": "With wheat noodles, Chinese-style vegetables, and sauce to choose.",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/86d49997-d10b-4431-b3b5-02fb82980023",
+      "customizationUuids": [
+        "0b0acc33-5f52-45cf-9d9a-2d5b7118b3d8",
+        "82816826-2862-4d57-885e-f92e2927f652"
+      ]
+    },
+    "ebb8c909-6e2c-423c-8bdb-e70af397a5b8": {
+      "uuid": "ebb8c909-6e2c-423c-8bdb-e70af397a5b8",
+      "title": "Wok with chicken and gong bao sauce",
+      "itemDescription": "With wheat noodles, Chinese-style vegetables, sauce to choose.",
+      "price": 6900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "Гостра страва",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "0b0acc33-5f52-45cf-9d9a-2d5b7118b3d8",
+        "82816826-2862-4d57-885e-f92e2927f652"
+      ]
+    },
+    "781f8ca7-281e-4e62-bbca-63d129f63ac8": {
+      "uuid": "781f8ca7-281e-4e62-bbca-63d129f63ac8",
+      "title": "Wok with seafood",
+      "itemDescription": "With squid, mussels, octopus, wheat noodles, Chinese-style vegetables, and sauce to choose.",
+      "price": 7900,
+      "customizationUuids": [
+        "f5032ec8-0638-4ef5-bb35-a47cbcc9077b",
+        "82816826-2862-4d57-885e-f92e2927f652"
+      ]
+    },
+    "35fe899c-4f26-42ce-b36b-53255440303c": {
+      "uuid": "35fe899c-4f26-42ce-b36b-53255440303c",
+      "title": "For kids",
+      "itemDescription": "Grilled bun, milk sausage, and ketchup for kids.",
+      "price": 2900
+    },
+    "e044639c-f745-4f6d-a3d0-11d4f7ee8e50": {
+      "uuid": "e044639c-f745-4f6d-a3d0-11d4f7ee8e50",
+      "title": "Sauces",
+      "itemDescription": "30 g.",
+      "price": 300,
+      "customizationUuids": [
+        "749c54a7-4f3c-4972-8c47-b3a548f7fce6"
+      ]
+    },
+    "da130051-1f7f-4b63-a49e-5c624b7cafe3": {
+      "uuid": "da130051-1f7f-4b63-a49e-5c624b7cafe3",
+      "title": "American",
+      "itemDescription": "Milk sausage, grilled bun, seasonal vegetables, and sauces.",
+      "price": 3900
+    },
+    "5b35733f-a66e-4303-b526-4061ef2e41ff": {
+      "uuid": "5b35733f-a66e-4303-b526-4061ef2e41ff",
+      "title": "Combo menu burgers and sandwiches",
+      "itemDescription": "Burgers or  sandwich, fries, and Pepsi Cola 0,33. ",
+      "price": 5900,
+      "customizationUuids": [
+        "4b610c07-313f-4d56-bfbf-c96e2be8d747"
+      ]
+    },
+    "01b6fc49-d490-4150-b2c5-bf16c5becf2f": {
+      "uuid": "01b6fc49-d490-4150-b2c5-bf16c5becf2f",
+      "title": "Double beef burger",
+      "itemDescription": "Grilled bun, 2 beef cutlets, double toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+      "price": 9900
+    },
+    "87d56efb-5eb7-44a6-a60f-286087bb4d19": {
+      "uuid": "87d56efb-5eb7-44a6-a60f-286087bb4d19",
+      "title": "Combo menu hot-dogs",
+      "itemDescription": "Hot dog, fries, and Pepsi Cola 0,33.",
+      "price": 6300,
+      "customizationUuids": [
+        "87d4617c-4d2f-4e39-bdd3-48ff1d10c051"
+      ]
+    },
+    "5cfc20c9-15e4-4b71-a173-9310ea48721e": {
+      "uuid": "5cfc20c9-15e4-4b71-a173-9310ea48721e",
+      "title": "Homemade Wok noodles",
+      "itemDescription": "With wheat noodles, ham, and cream or tomato sauce.",
+      "price": 5900,
+      "customizationUuids": [
+        "b56136a2-eb90-4334-b9d3-240e9a3e3b99",
+        "1ce7b173-5804-4b4f-a8e1-9686b4c21da9"
+      ]
+    },
+    "bc18f4f7-392b-4373-8314-f5cec8e633e8": {
+      "uuid": "bc18f4f7-392b-4373-8314-f5cec8e633e8",
+      "title": "Frenchman",
+      "itemDescription": "Hunter sausage, grilled bun, and sauces.",
+      "price": 2900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e137dcf7-95d6-4a00-8546-319a53d51f2d"
+    },
+    "fa444ba1-55f3-4835-a5dc-3ad891881bd7": {
+      "uuid": "fa444ba1-55f3-4835-a5dc-3ad891881bd7",
+      "title": "Wok with vegetables",
+      "itemDescription": "With wheat noodles, Chinese-style vegetables, and sauce to choose.",
+      "price": 4900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Вегетаріанська страва",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "1170fae3-5157-477c-bf83-668979cdb5f6",
+        "82816826-2862-4d57-885e-f92e2927f652"
+      ]
+    },
+    "ae41b1d0-bb2c-4807-95bb-6a893902dd9e": {
+      "uuid": "ae41b1d0-bb2c-4807-95bb-6a893902dd9e",
+      "title": "Wok with pork anf vegetables",
+      "itemDescription": "With wheat noodles, Chinese-style vegetables, and sauce to choose.",
+      "price": 6900,
+      "customizationUuids": [
+        "0b0acc33-5f52-45cf-9d9a-2d5b7118b3d8",
+        "82816826-2862-4d57-885e-f92e2927f652"
+      ]
+    },
+    "0b8edd13-4104-4411-b49e-589f419ea369": {
+      "uuid": "0b8edd13-4104-4411-b49e-589f419ea369",
+      "title": "Fish burger",
+      "itemDescription": "Grilled bun, breaded fish fillet, toast cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and Tartar sauce.",
+      "price": 7900
+    },
+    "6e874f19-d827-44d5-8fc7-5d74a87444f5": {
+      "uuid": "6e874f19-d827-44d5-8fc7-5d74a87444f5",
+      "title": "Chicken burger",
+      "itemDescription": "Grilled bun, chicken cutlet, toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e35b4c7c-1e6b-454a-8c7e-774fccf28222"
+    },
+    "cd83451b-3feb-40b5-85d6-dd3b37e89151": {
+      "uuid": "cd83451b-3feb-40b5-85d6-dd3b37e89151",
+      "title": "German",
+      "itemDescription": "Bavarian sausage with greens, grilled bun, seasonal vegetables, and sauces.",
+      "price": 3900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/73d49d3c-ae4e-4e1b-9756-1b82d65ce219"
+    },
+    "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a": {
+      "uuid": "21b10ad3-e5a5-47f5-a7cd-d5f59cfb977a",
+      "title": "Beef burger",
+      "itemDescription": "Grilled bun, beef cutlet, toast cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+      "price": 5900
+    },
+    "f18e08ad-67e6-4df8-8bd8-ce97df7d1c39": {
+      "uuid": "f18e08ad-67e6-4df8-8bd8-ce97df7d1c39",
+      "title": "Ham sandwich",
+      "itemDescription": "Toast bread, toast cheese, ham, tomato, and garlic sauce.",
+      "price": 2500
+    },
+    "c22442f0-810b-4248-8555-10ea0812142d": {
+      "uuid": "c22442f0-810b-4248-8555-10ea0812142d",
+      "title": "Combo menu for kids",
+      "itemDescription": " Hot dog for kids, fries, and juice 0,2. ",
+      "price": 6500
+    },
+    "f34f73c6-596a-4f83-a59d-a60248b48299": {
+      "uuid": "f34f73c6-596a-4f83-a59d-a60248b48299",
+      "title": "Chicken nuggets",
+      "itemDescription": "",
+      "price": 4400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/dba99ba5-cea1-48fd-93f4-b478a957909e",
+      "customizationUuids": [
+        "8118b856-ea34-481c-9c68-930bdc1b9509"
+      ]
+    },
+    "68d49ae7-29fc-4201-98c0-e78efa65fd6c": {
+      "uuid": "68d49ae7-29fc-4201-98c0-e78efa65fd6c",
+      "title": "Grilled sausage with salad",
+      "itemDescription": "Bavarian sausage to choose, and salad of seasonal vegetables. ",
+      "price": 2700,
+      "customizationUuids": [
+        "1b6190e4-c41d-4257-9460-e3180ca9e563"
+      ]
+    },
+    "c73e0f5e-13f8-472d-84da-e61e5d2c3870": {
+      "uuid": "c73e0f5e-13f8-472d-84da-e61e5d2c3870",
+      "title": "Royal",
+      "itemDescription": "Milk sausage, grilled bun, dried onion, tomato, sweet pepper, iceberg lettuce, dor blue cheese, and cream sauce.",
+      "price": 4900
+    },
+    "a883731b-0cbb-45a9-8fd4-dcd8540bc5ae": {
+      "uuid": "a883731b-0cbb-45a9-8fd4-dcd8540bc5ae",
+      "title": "Walker",
+      "itemDescription": "Bavarian sausage with cheese, grilled bun, seasonal vegetables, tomato or carrot in Korean style, and sauces.",
+      "price": 4400
+    },
+    "41ec0553-814f-422e-8044-ced5858ca5d5": {
+      "uuid": "41ec0553-814f-422e-8044-ced5858ca5d5",
+      "title": "Double chicken burger",
+      "itemDescription": "Grilled bun, 2 chicken cutlets, double toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+      "price": 8900
+    },
+    "218c5677-f629-4092-a86e-741964b5e476": {
+      "uuid": "218c5677-f629-4092-a86e-741964b5e476",
+      "title": "Fries",
+      "itemDescription": "",
+      "price": 2500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/af1c823b-aff5-4e55-a5f6-f5a4b8330370",
+      "customizationUuids": [
+        "e5fabc1a-aa9b-4925-9a0a-89f64fbac1d5"
+      ]
+    }
+  }
 }

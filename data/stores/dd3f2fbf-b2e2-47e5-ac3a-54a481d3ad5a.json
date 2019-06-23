@@ -25,1650 +25,211 @@
   ],
   "sections": [
     {
-      "uuid": "76c1d24d-9281-4955-b53e-669d232c05d4",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "11:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "f86753c2-9ca5-47b8-99c3-444c0642bcf6",
-        "f48946d1-baf8-419e-9e90-9222f1ae7b8b",
-        "02c0ee0f-07cd-4278-96b3-91f7e256d936",
-        "bf84652a-cade-4f95-910d-df4db6e4f238",
-        "479ba1ac-2a00-4def-89c2-63778ee88376",
-        "4a246cee-1034-4761-a316-4c3e46297798",
-        "7bd2e73f-5b42-484f-8587-84ea68131063",
-        "c2486bc0-e301-4c98-b912-d1d4ff7ecfe9",
-        "7ae7bc91-acac-4cb8-880b-0b51abb71746",
-        "939668b5-5e7a-4a7f-96d5-aaf39c7f7788",
-        "db330927-de4d-41e5-adf8-b494a261d6e4",
-        "102db6c1-c10c-4faf-8959-91b08ddea21b",
-        "49f67428-51de-4e3b-a72e-0ff6bee6879a",
-        "43178f58-20fc-4811-98c4-40383d03be25"
+      "uuid": "f86753c2-9ca5-47b8-99c3-444c0642bcf6",
+      "title": "Craft Avo Burgers",
+      "subtitle": "",
+      "itemUuids": [
+        "92c01b01-b8d1-41cc-9374-9635700f73e6",
+        "eee98e9f-4efb-4678-9a2c-1cc78945603e",
+        "1230645f-a810-44a5-9ae6-aab4a3a12e0c",
+        "91264ac6-0680-4152-a80d-9c245bf4ee2a",
+        "29e0a87e-ddf0-403f-86f2-4211d72635b4",
+        "eefd16f6-3c7f-486d-ab8e-e2e26b441f11",
+        "4339a864-c80f-4cda-b637-593781c548e1",
+        "f6194521-7da0-4d6d-a63e-2f52d68c225f"
+      ]
+    },
+    {
+      "uuid": "f48946d1-baf8-419e-9e90-9222f1ae7b8b",
+      "title": "Craft Burgers",
+      "subtitle": "",
+      "itemUuids": [
+        "792b719a-4a8e-41ca-8a40-458be4a10b49",
+        "f1a73480-5493-4879-a99b-bdd4903ef245",
+        "e35ba46d-5f34-4e81-b01a-2da92f3a8fe0",
+        "16a64ea8-58db-46a8-bc9d-32ac7d38972d",
+        "3668db77-3641-4347-82a6-33bc1b212ddc",
+        "421c0408-fa15-424c-9e55-7261e0c60f0c",
+        "4c19cb04-59d9-431a-8ed3-eac9fa8f9be3",
+        "cf2959d8-ba0d-4f51-811b-44c65e971994"
+      ]
+    },
+    {
+      "uuid": "02c0ee0f-07cd-4278-96b3-91f7e256d936",
+      "title": "Chef's menu",
+      "subtitle": "",
+      "itemUuids": [
+        "31dd59c5-dce2-414c-b4ee-df0262960fc3",
+        "beaac8ef-1f38-42fb-8ebf-cb418a86c3e7",
+        "ad711ed0-b4ae-487a-83cb-9f6af405ebd9",
+        "1298eac9-9d87-486a-813b-f4629f7b7331",
+        "34d337fb-4285-4172-b372-b8a652f55553",
+        "c294a626-4879-4be6-b6cf-9b4536fd14b8",
+        "a9be0515-8092-4531-ab7b-e2cdd8e964d0",
+        "5eebce65-1a72-47d5-816b-df3c690747a0",
+        "fcd3b0a8-4280-4496-91ed-a2709ea34cf2",
+        "f38fafb5-d100-4277-9f40-361621601fb5",
+        "b953fc24-01d9-461d-a766-7ac2c7789eb9",
+        "8c626de3-41c7-4900-ac06-9c5080251eb9"
+      ]
+    },
+    {
+      "uuid": "bf84652a-cade-4f95-910d-df4db6e4f238",
+      "title": "Breakfasts",
+      "subtitle": "",
+      "itemUuids": [
+        "e2531e40-b583-4069-af30-c265b0287853",
+        "ae9b4178-e44f-4831-9c27-643634654a99",
+        "9747dd44-73d5-415b-86f0-4f34985c2b9b",
+        "27231a85-d79d-4045-8302-af8351214a74",
+        "9a3224d8-d5da-45b4-aa15-92ba6e27a4cd",
+        "fdc77f93-52f3-4284-aefa-3fad2dae9314"
+      ]
+    },
+    {
+      "uuid": "479ba1ac-2a00-4def-89c2-63778ee88376",
+      "title": "Appetizers",
+      "subtitle": "",
+      "itemUuids": [
+        "46aae153-b3d4-4fe3-961e-9593a201a00e",
+        "bc344f87-815f-4467-ada9-7fe29c86eaf8",
+        "d63f56b7-4b46-4d00-9ba3-989f3155b906",
+        "2f053899-3d17-44fa-aebd-559d07abfbc1",
+        "270537b5-c668-4ae7-81bd-faa8b05d409b",
+        "747e54bc-894b-417d-961c-c78637173420",
+        "3ebf52db-3848-4333-a2bc-b03d2321491f",
+        "981be85f-130e-4f2b-b6e4-3f989beb7201",
+        "b3c3315e-e159-44d4-9379-30de784bc896",
+        "5a543978-4c40-4bbe-a1f0-a63f4dc8c6c7",
+        "031a4204-8c83-4bba-ae26-523261e5b726"
+      ]
+    },
+    {
+      "uuid": "4a246cee-1034-4761-a316-4c3e46297798",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "52768bfb-be9b-4345-bcc2-76691debf2dd",
+        "e4640981-2176-4273-af5d-c3edf0653719",
+        "65bee8bf-5bf5-4772-b848-6fddda429fee",
+        "85f177bc-89d8-4cd8-8d61-f6f805a4571b",
+        "8ed5d522-137a-400d-ac21-18dc5e9a31a0",
+        "853c7145-8d15-408e-8767-e80b869fed8d",
+        "6ae181ce-95f2-41c9-aa9b-91c98d5b0d3b",
+        "0f4f2c0d-0a15-4721-b8b1-dc331cf9afe0"
+      ]
+    },
+    {
+      "uuid": "7bd2e73f-5b42-484f-8587-84ea68131063",
+      "title": "Garnish",
+      "subtitle": "",
+      "itemUuids": [
+        "289eafb4-cc63-4b88-b22c-c5979bd731f1",
+        "6efcaeee-a48c-4ea5-9bbd-196eccefe686",
+        "d8c847db-d39e-4161-b80a-fb065da3f55c",
+        "df813ce4-d45c-4587-9085-511927e94516",
+        "07c66b92-2985-46ce-9cb0-fcc70689acd3"
+      ]
+    },
+    {
+      "uuid": "c2486bc0-e301-4c98-b912-d1d4ff7ecfe9",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "4456c508-2588-4c18-aaf9-85afb632d9ba",
+        "ae6bdc66-82ca-4b45-b4b8-35fca0ed362c",
+        "5b9fbce2-301b-4b80-86b5-e3635a38c2fd",
+        "903ca288-5f09-4f61-82fa-aafc48292a66",
+        "6b5a8b11-e6a4-4308-83da-dea32f396573",
+        "a8763b2c-0400-4666-874a-40bda0458fd9"
+      ]
+    },
+    {
+      "uuid": "7ae7bc91-acac-4cb8-880b-0b51abb71746",
+      "title": "Plates",
+      "subtitle": "",
+      "itemUuids": [
+        "36cd9e9d-62a1-4fb0-b2bd-86507641b11a",
+        "98339e93-9565-4402-b22b-a507afdf8dc4"
+      ]
+    },
+    {
+      "uuid": "939668b5-5e7a-4a7f-96d5-aaf39c7f7788",
+      "title": "Griled meat, bird and fish",
+      "subtitle": "",
+      "itemUuids": [
+        "314a3ba4-80bc-467f-9568-9f2ba82816b4",
+        "094c97a8-0530-45b2-9f47-81a533e8f047",
+        "cefef776-2a5f-4819-b712-8dbe537bec2f",
+        "1b1db8c5-b156-4293-a14e-d4129466f309",
+        "cd999dcb-11d5-4a53-b732-6b9a388f9500",
+        "ab6404b9-e160-4892-9cd0-a696e903adac",
+        "242d50d5-639c-4a25-ac9d-75b97fe8982d",
+        "4d975b4e-88f7-4df9-bfb5-0bfb4d5b894d",
+        "94de50ea-5d49-49e5-8a23-bd03205bd94a",
+        "364c8ab4-258f-49fe-ae1e-e22e510c1ada"
+      ]
+    },
+    {
+      "uuid": "db330927-de4d-41e5-adf8-b494a261d6e4",
+      "title": "Deserts",
+      "subtitle": "",
+      "itemUuids": [
+        "fecab663-791b-410c-a337-001c2cac3729",
+        "29a5da3f-6270-4b2e-8fd0-4429c2820c73",
+        "d3c84e9e-4108-4cb9-ac95-93ddf59ee878",
+        "d937fbae-668d-460d-abcb-410a2886fcd6",
+        "f99611b7-7bf1-4428-8787-1222d0f56c4f"
+      ]
+    },
+    {
+      "uuid": "102db6c1-c10c-4faf-8959-91b08ddea21b",
+      "title": "Hot drinks",
+      "subtitle": "",
+      "itemUuids": [
+        "5ec0f09f-9e1c-42bf-98bd-6feec1d287b2",
+        "e984bd27-543e-4aec-bec2-fa18e7556725",
+        "cbce8332-67b4-4e65-a2a1-cfc985859368",
+        "d4db0b30-529f-4878-a068-b1dbc7a8adaf",
+        "054deb18-b4b4-4a93-b067-22166679a812",
+        "ebf7aced-a0da-43b9-a7a1-78802ac6f24c",
+        "e880a959-59f8-4340-890f-8196a62af6c9",
+        "8a8cca32-4262-43b9-95a7-2b6177b64561",
+        "bf83f850-c2df-47b7-8ab6-c68181018230"
+      ]
+    },
+    {
+      "uuid": "49f67428-51de-4e3b-a72e-0ff6bee6879a",
+      "title": "Non-alcoholic drinks",
+      "subtitle": "",
+      "itemUuids": [
+        "74c180eb-979c-45eb-92cf-2f6b4cb2f396",
+        "83f30e4f-4efe-4d7c-9561-523a3e6ea33d",
+        "b46e5cd8-093e-4dd6-a29e-b6c41c58135c",
+        "d9050284-1ad6-41bc-a8e6-0aeec094b78c",
+        "06cc0c91-6144-4f50-840b-f0b6e69c257e",
+        "0a882889-c415-4e64-a4d6-46986465f1d1",
+        "1bf08d54-d829-4652-8483-a41cced88b7f",
+        "78a7fdee-d77b-403b-bfb6-6adc8c636a50",
+        "d8cbce4a-867c-44b3-bd83-085b60437b2f",
+        "88426748-ab01-43dd-8a65-8d848ad50791",
+        "aacf14da-a351-4aa7-9eb2-0cbbe6516f30",
+        "ab3627a7-aeb4-4bae-87a7-f09757e0d00e",
+        "477359d9-96e2-44ad-b88c-65f72d69f905",
+        "a3bb47a3-3e97-4005-ae66-d4519520b460",
+        "d75f6692-1006-4a78-9bf3-84962cad2f2c"
+      ]
+    },
+    {
+      "uuid": "43178f58-20fc-4811-98c4-40383d03be25",
+      "title": "Extra",
+      "subtitle": "",
+      "itemUuids": [
+        "15bad9bd-5187-4a4b-ae93-f8a7c8ca4870",
+        "2845cbdb-ea22-4077-b365-8c861d71dd67"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "76c1d24d-9281-4955-b53e-669d232c05d4": {
-      "itemsMap": {
-        "314a3ba4-80bc-467f-9568-9f2ba82816b4": {
-          "uuid": "314a3ba4-80bc-467f-9568-9f2ba82816b4",
-          "title": "Avo chicken fillet with mozzarella and pesto sauce",
-          "itemDescription": "Chicken filet, avocado, mozzarella cheese, pesto sauce, tomatoes, and microgreen (300g).",
-          "price": 18900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "bc97401f-eefe-4d98-bc8c-b156509276eb"
-          ]
-        },
-        "74c180eb-979c-45eb-92cf-2f6b4cb2f396": {
-          "uuid": "74c180eb-979c-45eb-92cf-2f6b4cb2f396",
-          "title": "Juice",
-          "itemDescription": "250ml.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "88426748-ab01-43dd-8a65-8d848ad50791": {
-          "uuid": "88426748-ab01-43dd-8a65-8d848ad50791",
-          "title": "\"Borjomi\" sparkling water",
-          "itemDescription": "500ml.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "054deb18-b4b4-4a93-b067-22166679a812": {
-          "uuid": "054deb18-b4b4-4a93-b067-22166679a812",
-          "title": "Latte coffee",
-          "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (200ml).",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
-          ]
-        },
-        "e880a959-59f8-4340-890f-8196a62af6c9": {
-          "uuid": "e880a959-59f8-4340-890f-8196a62af6c9",
-          "title": "Chocolate cacao",
-          "itemDescription": "200ml.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "76a66203-aa79-4223-bc84-55e8c2482b0b"
-          ]
-        },
-        "1b1db8c5-b156-4293-a14e-d4129466f309": {
-          "uuid": "1b1db8c5-b156-4293-a14e-d4129466f309",
-          "title": "Medallions with Porto sauce",
-          "itemDescription": "200 g.",
-          "price": 29900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "bc97401f-eefe-4d98-bc8c-b156509276eb"
-          ]
-        },
-        "6efcaeee-a48c-4ea5-9bbd-196eccefe686": {
-          "uuid": "6efcaeee-a48c-4ea5-9bbd-196eccefe686",
-          "title": "Couscous with tomatoes and basil",
-          "itemDescription": "150g.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5eebce65-1a72-47d5-816b-df3c690747a0": {
-          "uuid": "5eebce65-1a72-47d5-816b-df3c690747a0",
-          "title": "Tongue with Celery-spinach Puree",
-          "itemDescription": "Veal tongue, cherry tomatoes, celery root, spinach, paprika (260g)",
-          "price": 17900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d8c847db-d39e-4161-b80a-fb065da3f55c": {
-          "uuid": "d8c847db-d39e-4161-b80a-fb065da3f55c",
-          "title": "Grilled vegetables",
-          "itemDescription": "Eggplant, zuccini, champingnons, sweet peppers, tomatoes, and pesto sauce (150g).",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "78a7fdee-d77b-403b-bfb6-6adc8c636a50": {
-          "uuid": "78a7fdee-d77b-403b-bfb6-6adc8c636a50",
-          "title": "\"Morshynska\" water",
-          "itemDescription": "330ml.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "46aae153-b3d4-4fe3-961e-9593a201a00e": {
-          "uuid": "46aae153-b3d4-4fe3-961e-9593a201a00e",
-          "title": "Guacamole with nachos chips",
-          "itemDescription": "200g.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8cdf8a3-4161-4307-84b3-d02731b853cb",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f38fafb5-d100-4277-9f40-361621601fb5": {
-          "uuid": "f38fafb5-d100-4277-9f40-361621601fb5",
-          "title": " Mussels with Vegetables",
-          "itemDescription": "Mussels, parmesan cheese, pilate tomatoes, sweet pepper, zucchini, olives, leeks, basil green, wine (270g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b953fc24-01d9-461d-a766-7ac2c7789eb9": {
-          "uuid": "b953fc24-01d9-461d-a766-7ac2c7789eb9",
-          "title": " Pasta Carbonara with Avocado",
-          "itemDescription": "Spaghetti, avocado, bacon, parmesan cheese, chicken egg, cream, wine (300g)",
-          "price": 18900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "031a4204-8c83-4bba-ae26-523261e5b726": {
-          "uuid": "031a4204-8c83-4bba-ae26-523261e5b726",
-          "title": "Veal Carpaccio",
-          "itemDescription": "Veal, avocado, lettuce mix, capers, parmesan cheese, dried tomatoes, pesto sauce (250g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4339a864-c80f-4cda-b637-593781c548e1": {
-          "uuid": "4339a864-c80f-4cda-b637-593781c548e1",
-          "title": "Avo Thornero Burger",
-          "itemDescription": "Avocado, veal cutlet, Cheddar cheese, tomato, egg, arugula, and pesto sauce (320g).",
-          "price": 22900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "57e5717d-0e36-434b-8c10-04649c4262ad",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "d8cbce4a-867c-44b3-bd83-085b60437b2f": {
-          "uuid": "d8cbce4a-867c-44b3-bd83-085b60437b2f",
-          "title": "\"Devaytis\" water",
-          "itemDescription": "500ml.",
-          "price": 3900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8c626de3-41c7-4900-ac06-9c5080251eb9": {
-          "uuid": "8c626de3-41c7-4900-ac06-9c5080251eb9",
-          "title": "Perch with Tomatoes and Pesto Souce",
-          "itemDescription": "Perch, tomato, garlic , sauce pesto, thyme, wine (360g)",
-          "price": 21900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "242d50d5-639c-4a25-ac9d-75b97fe8982d": {
-          "uuid": "242d50d5-639c-4a25-ac9d-75b97fe8982d",
-          "title": "Pasta with 3 cheeses and shrimps",
-          "itemDescription": "Parmesan, dourble and camembert cheeses, spaghetti, shrimps, cherry tomatoes, basil, pine nuts (320g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8a8cca32-4262-43b9-95a7-2b6177b64561": {
-          "uuid": "8a8cca32-4262-43b9-95a7-2b6177b64561",
-          "title": "Tea",
-          "itemDescription": "500ml.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "34200687-c2c8-4d4b-832c-c961cdd58a93"
-          ]
-        },
-        "5a543978-4c40-4bbe-a1f0-a63f4dc8c6c7": {
-          "uuid": "5a543978-4c40-4bbe-a1f0-a63f4dc8c6c7",
-          "title": "Camembert grill ",
-          "itemDescription": "Camembert, pineapple, berry sauce, walnut (280g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d9050284-1ad6-41bc-a8e6-0aeec094b78c": {
-          "uuid": "d9050284-1ad6-41bc-a8e6-0aeec094b78c",
-          "title": "Coca Cola",
-          "itemDescription": "250мл.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "eefd16f6-3c7f-486d-ab8e-e2e26b441f11": {
-          "uuid": "eefd16f6-3c7f-486d-ab8e-e2e26b441f11",
-          "title": "Avo Chicken Burger",
-          "itemDescription": "Avocado, chicken, iceberg salad, Cheddar cheese, cucumber, and ayola and pesto sauces (300g).",
-          "price": 21900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3bd2315a-7615-48a5-8e23-9351183d4f81",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "bf83f850-c2df-47b7-8ab6-c68181018230": {
-          "uuid": "bf83f850-c2df-47b7-8ab6-c68181018230",
-          "title": "Matcha latte",
-          "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (250ml).",
-          "price": 5900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "76a66203-aa79-4223-bc84-55e8c2482b0b"
-          ]
-        },
-        "981be85f-130e-4f2b-b6e4-3f989beb7201": {
-          "uuid": "981be85f-130e-4f2b-b6e4-3f989beb7201",
-          "title": "Tuna tartar",
-          "itemDescription": "Tuna, avocado, cherry tomatoes, onion mars, capers, rucola, parsley, balsamic cream, soy sauce (210g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "98339e93-9565-4402-b22b-a507afdf8dc4": {
-          "uuid": "98339e93-9565-4402-b22b-a507afdf8dc4",
-          "title": "Meat plate",
-          "itemDescription": "Brezaola, coppa di Parma, Prosciutto, curried tomato (250g).",
-          "price": 27900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5ec0f09f-9e1c-42bf-98bd-6feec1d287b2": {
-          "uuid": "5ec0f09f-9e1c-42bf-98bd-6feec1d287b2",
-          "title": "Espresso",
-          "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (30ml).",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "afa9478b-ebac-4ca4-882d-b91198937d66"
-          ]
-        },
-        "4456c508-2588-4c18-aaf9-85afb632d9ba": {
-          "uuid": "4456c508-2588-4c18-aaf9-85afb632d9ba",
-          "title": "Chili-Con Carne",
-          "itemDescription": "Lentil, beans, chili pepper, beef, pilates tomatoes, onionsm celery stalk, cilantro, and parsley (300g).",
-          "price": 10900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
-          ]
-        },
-        "d4db0b30-529f-4878-a068-b1dbc7a8adaf": {
-          "uuid": "d4db0b30-529f-4878-a068-b1dbc7a8adaf",
-          "title": "Cappuccino",
-          "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (180ml).",
-          "price": 3900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
-          ]
-        },
-        "a8763b2c-0400-4666-874a-40bda0458fd9": {
-          "uuid": "a8763b2c-0400-4666-874a-40bda0458fd9",
-          "title": "Turkey broth",
-          "itemDescription": "Turkey, avocados, carrots, parmesan cheese, farfalle (350g)",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "29e0a87e-ddf0-403f-86f2-4211d72635b4": {
-          "uuid": "29e0a87e-ddf0-403f-86f2-4211d72635b4",
-          "title": "Avo Beef Burger",
-          "itemDescription": "Avocado, roasted beef, salad, bell pepper and tomatoes (250g).",
-          "price": 21900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3bd2315a-7615-48a5-8e23-9351183d4f81",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "ae9b4178-e44f-4831-9c27-643634654a99": {
-          "uuid": "ae9b4178-e44f-4831-9c27-643634654a99",
-          "title": "Granola with yogurt",
-          "itemDescription": "Oatmeal, nuts, dried apricots, raisins, honey, and cinnamon (150/100g).",
-          "price": 6900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2845cbdb-ea22-4077-b365-8c861d71dd67": {
-          "uuid": "2845cbdb-ea22-4077-b365-8c861d71dd67",
-          "title": "Buns",
-          "itemDescription": "Buns 2 pieces (60g)",
-          "price": 1900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "421c0408-fa15-424c-9e55-7261e0c60f0c": {
-          "uuid": "421c0408-fa15-424c-9e55-7261e0c60f0c",
-          "title": "Salmonger Burger",
-          "itemDescription": "Salmon, guacamole, tomato, Philadelphia cheese, and arugula (240g).",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0b977a35-1af4-432b-97ec-5773bdac3da6",
-            "3bd2315a-7615-48a5-8e23-9351183d4f81"
-          ]
-        },
-        "853c7145-8d15-408e-8767-e80b869fed8d": {
-          "uuid": "853c7145-8d15-408e-8767-e80b869fed8d",
-          "title": "Burrata salad",
-          "itemDescription": "Buratta cheese, arugula, tomato, pesto sauce and balsamic cream (210g).",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0b1dbbc-2134-43a6-9e55-62dfe59b75ad",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fdc77f93-52f3-4284-aefa-3fad2dae9314": {
-          "uuid": "fdc77f93-52f3-4284-aefa-3fad2dae9314",
-          "title": "Mango Fitness Mix",
-          "itemDescription": "Avocados, mango, fresh seasonal berries, feta cheese, and spinach leaves (250g).",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "270537b5-c668-4ae7-81bd-faa8b05d409b": {
-          "uuid": "270537b5-c668-4ae7-81bd-faa8b05d409b",
-          "title": "Bruscgetta Peru",
-          "itemDescription": "White baguette, avocado, tomato salsa, onion, and mozzarella (210г).",
-          "price": 12900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e2531e40-b583-4069-af30-c265b0287853": {
-          "uuid": "e2531e40-b583-4069-af30-c265b0287853",
-          "title": "Humus with toast",
-          "itemDescription": "335g.",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee18878d-8177-4dfd-a9c1-1d5d18fd1394",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "65bee8bf-5bf5-4772-b848-6fddda429fee": {
-          "uuid": "65bee8bf-5bf5-4772-b848-6fddda429fee",
-          "title": "Vitello salad",
-          "itemDescription": "Mixed salad, roast beef, capers, roasted pepper, tomato concasse, croutons, and vitello sauce (250g).",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2f053899-3d17-44fa-aebd-559d07abfbc1": {
-          "uuid": "2f053899-3d17-44fa-aebd-559d07abfbc1",
-          "title": "Ege Tofu",
-          "itemDescription": "Tofu roasted cheese, oriental sauce, cherry tomatoes, arugula, and balsamic cream (220g).",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0a882889-c415-4e64-a4d6-46986465f1d1": {
-          "uuid": "0a882889-c415-4e64-a4d6-46986465f1d1",
-          "title": "Sprite",
-          "itemDescription": "250мл.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f1a73480-5493-4879-a99b-bdd4903ef245": {
-          "uuid": "f1a73480-5493-4879-a99b-bdd4903ef245",
-          "title": "Mexico Spice Burger",
-          "itemDescription": "Veal cutlet, pineapple, Cheddar cheese, boyad salad, mexican salsa, and chili (300g).",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "57e5717d-0e36-434b-8c10-04649c4262ad",
-            "3bd2315a-7615-48a5-8e23-9351183d4f81"
-          ]
-        },
-        "52768bfb-be9b-4345-bcc2-76691debf2dd": {
-          "uuid": "52768bfb-be9b-4345-bcc2-76691debf2dd",
-          "title": "Philadelphia salad",
-          "itemDescription": "Salmon, Philadelphia cheese, avocado, arugula, tomatoes and lemon dressing (270g).",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/11639824-78b0-4027-858b-be652a783a35",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "747e54bc-894b-417d-961c-c78637173420": {
-          "uuid": "747e54bc-894b-417d-961c-c78637173420",
-          "title": "Bruschetta Salmon",
-          "itemDescription": "White baguette, avocado mousse, salmon, broccoli and cherry tomatoes (240g).",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e984bd27-543e-4aec-bec2-fa18e7556725": {
-          "uuid": "e984bd27-543e-4aec-bec2-fa18e7556725",
-          "title": "Americano",
-          "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (120ml).",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
-          ]
-        },
-        "cd999dcb-11d5-4a53-b732-6b9a388f9500": {
-          "uuid": "cd999dcb-11d5-4a53-b732-6b9a388f9500",
-          "title": "Salmon  Fillet on Avocado",
-          "itemDescription": "270g.",
-          "price": 32900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "bc97401f-eefe-4d98-bc8c-b156509276eb"
-          ]
-        },
-        "ebf7aced-a0da-43b9-a7a1-78802ac6f24c": {
-          "uuid": "ebf7aced-a0da-43b9-a7a1-78802ac6f24c",
-          "title": "Flat white",
-          "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (180ml).",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
-          ]
-        },
-        "9747dd44-73d5-415b-86f0-4f34985c2b9b": {
-          "uuid": "9747dd44-73d5-415b-86f0-4f34985c2b9b",
-          "title": "Fritta with spinach and tomatoes",
-          "itemDescription": "Chicken egg, cream, spinach, cherry tomatoes, and mozzarella cheese (230g).",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e4640981-2176-4273-af5d-c3edf0653719": {
-          "uuid": "e4640981-2176-4273-af5d-c3edf0653719",
-          "title": "Tofu salad",
-          "itemDescription": "Mixed salad, tofu cheese, cucumber, mars onion, olive, orental sauce, dried tomatoes, and balsamic cream (250g).",
-          "price": 10900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ab6404b9-e160-4892-9cd0-a696e903adac": {
-          "uuid": "ab6404b9-e160-4892-9cd0-a696e903adac",
-          "title": "Branded avocado steak with bone",
-          "itemDescription": "350 g.",
-          "price": 49900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "bc97401f-eefe-4d98-bc8c-b156509276eb"
-          ]
-        },
-        "903ca288-5f09-4f61-82fa-aafc48292a66": {
-          "uuid": "903ca288-5f09-4f61-82fa-aafc48292a66",
-          "title": "Cold avocado cream soup",
-          "itemDescription": "Greens, avocados, cucumbers, olive oil, tomatoes, and onions (280g).",
-          "price": 11900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
-          ]
-        },
-        "3ebf52db-3848-4333-a2bc-b03d2321491f": {
-          "uuid": "3ebf52db-3848-4333-a2bc-b03d2321491f",
-          "title": "Bruschetta with roast beef",
-          "itemDescription": "Roast beef, dorblu sauce, sweet baked pepper, iceberg salad, balsamic cream (290g)",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "29a5da3f-6270-4b2e-8fd0-4429c2820c73": {
-          "uuid": "29a5da3f-6270-4b2e-8fd0-4429c2820c73",
-          "title": "Grilled pineapple with ice cream",
-          "itemDescription": "200g.",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d75f6692-1006-4a78-9bf3-84962cad2f2c": {
-          "uuid": "d75f6692-1006-4a78-9bf3-84962cad2f2c",
-          "title": "Smoothies",
-          "itemDescription": "250ml.",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "40329980-688e-489c-80e6-7c1cf57a9548"
-          ]
-        },
-        "b46e5cd8-093e-4dd6-a29e-b6c41c58135c": {
-          "uuid": "b46e5cd8-093e-4dd6-a29e-b6c41c58135c",
-          "title": "Dried friuts uzvar",
-          "itemDescription": "250ml.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "515269a8-9e19-4147-a101-0ad8a0dfc609"
-          ]
-        },
-        "fcd3b0a8-4280-4496-91ed-a2709ea34cf2": {
-          "uuid": "fcd3b0a8-4280-4496-91ed-a2709ea34cf2",
-          "title": " Burger Ribeye",
-          "itemDescription": "Ribeye veal, cheddar cheese, tomatoes, iceberg salad, wine, sauses sweet chili, worcestershire and soy (300g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "df813ce4-d45c-4587-9085-511927e94516": {
-          "uuid": "df813ce4-d45c-4587-9085-511927e94516",
-          "title": "Battat Fries",
-          "itemDescription": "200 g.",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "364c8ab4-258f-49fe-ae1e-e22e510c1ada": {
-          "uuid": "364c8ab4-258f-49fe-ae1e-e22e510c1ada",
-          "title": "Duck fillet",
-          "itemDescription": "Duck fillet, wine, avocado, pear, apple, cranberry, thyme, garlic (440g)",
-          "price": 35900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1230645f-a810-44a5-9ae6-aab4a3a12e0c": {
-          "uuid": "1230645f-a810-44a5-9ae6-aab4a3a12e0c",
-          "title": "Avo Green Burger",
-          "itemDescription": "Avocado, arugula, tomato, Philadelphia or tofu cheese, bell pepper, and pesto sauce (250g).",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3bd2315a-7615-48a5-8e23-9351183d4f81",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "1bf08d54-d829-4652-8483-a41cced88b7f": {
-          "uuid": "1bf08d54-d829-4652-8483-a41cced88b7f",
-          "title": "Shweppes tonic",
-          "itemDescription": "250ml.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e35ba46d-5f34-4e81-b01a-2da92f3a8fe0": {
-          "uuid": "e35ba46d-5f34-4e81-b01a-2da92f3a8fe0",
-          "title": "Black Mamba Burger",
-          "itemDescription": "Veal cutlet, Cheddar cheese, and cherry sauce (300g),",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0b977a35-1af4-432b-97ec-5773bdac3da6",
-            "3bd2315a-7615-48a5-8e23-9351183d4f81"
-          ]
-        },
-        "792b719a-4a8e-41ca-8a40-458be4a10b49": {
-          "uuid": "792b719a-4a8e-41ca-8a40-458be4a10b49",
-          "title": "Sweet Beef Burger",
-          "itemDescription": "Veal cutlet, confectionery onion, iceberg salad, ayol sauce, and brie cheese (290g).",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0b977a35-1af4-432b-97ec-5773bdac3da6",
-            "3bd2315a-7615-48a5-8e23-9351183d4f81"
-          ]
-        },
-        "f6194521-7da0-4d6d-a63e-2f52d68c225f": {
-          "uuid": "f6194521-7da0-4d6d-a63e-2f52d68c225f",
-          "title": "Avo Burger Burat ",
-          "itemDescription": "Avocado, cheese burat, dried tomatoes, lollo rosso salad, rucola, pesto souce (330g)",
-          "price": 26900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0f4f2c0d-0a15-4721-b8b1-dc331cf9afe0": {
-          "uuid": "0f4f2c0d-0a15-4721-b8b1-dc331cf9afe0",
-          "title": "Salad with shrimp",
-          "itemDescription": "Shrimp, avocado, salad mix, cherry tomatoes, parmesan cheese, chia seeds, garlic, thyme, mango puree, lemon dressing (240g)",
-          "price": 25900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "34d337fb-4285-4172-b372-b8a652f55553": {
-          "uuid": "34d337fb-4285-4172-b372-b8a652f55553",
-          "title": "Avo Burger Shrimp",
-          "itemDescription": "Avocado, shrimp, cherry tomatoes, lollo rosso salad, sauses sweet chili and soy (270g)",
-          "price": 25900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6ae181ce-95f2-41c9-aa9b-91c98d5b0d3b": {
-          "uuid": "6ae181ce-95f2-41c9-aa9b-91c98d5b0d3b",
-          "title": "Dressed Salmon and Avocado Salad ",
-          "itemDescription": "Avocado, salted salmon, beets, chicken eggs, lime, green basil, carrot, mars onion, homemade mayonnaise (250g)",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8ed5d522-137a-400d-ac21-18dc5e9a31a0": {
-          "uuid": "8ed5d522-137a-400d-ac21-18dc5e9a31a0",
-          "title": "American Yoho salad",
-          "itemDescription": "Salmon, corn, avocado, iceberg salald, arugula, and leeks (250g).",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d3c84e9e-4108-4cb9-ac95-93ddf59ee878": {
-          "uuid": "d3c84e9e-4108-4cb9-ac95-93ddf59ee878",
-          "title": "Panacotta with avocado",
-          "itemDescription": "250г.",
-          "price": 10900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d63f56b7-4b46-4d00-9ba3-989f3155b906": {
-          "uuid": "d63f56b7-4b46-4d00-9ba3-989f3155b906",
-          "title": "Guacamole with Chia seeds on crispy toast",
-          "itemDescription": "Avocado, olive oil, lemon juice, onion, chia and white toast (190g).",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4d975b4e-88f7-4df9-bfb5-0bfb4d5b894d": {
-          "uuid": "4d975b4e-88f7-4df9-bfb5-0bfb4d5b894d",
-          "title": "Pan with shrimps",
-          "itemDescription": "Shrimps, leek, celery, chili pepper, cherry tomatoes, capers, broccoli, garlic, thyme (230g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "94de50ea-5d49-49e5-8a23-bd03205bd94a": {
-          "uuid": "94de50ea-5d49-49e5-8a23-bd03205bd94a",
-          "title": "Turkey cutlets with couscousr ",
-          "itemDescription": "Turkey, couscous, tomatoes, basil, rucola (300g)",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c294a626-4879-4be6-b6cf-9b4536fd14b8": {
-          "uuid": "c294a626-4879-4be6-b6cf-9b4536fd14b8",
-          "title": "Seafood salad",
-          "itemDescription": "Avocado, shrimp, mussels, salmon, cherry tomatoes, lettuce mix, orange, lime, balsamic cream, soy sauce (270g)",
-          "price": 29900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "92c01b01-b8d1-41cc-9374-9635700f73e6": {
-          "uuid": "92c01b01-b8d1-41cc-9374-9635700f73e6",
-          "title": "Avo El Mar Burger",
-          "itemDescription": "Avocado, salmon, Philadephia or tofu cheese, lollo rosso salad, and lemon juice (250g).",
-          "price": 22900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbc8c3a9-929e-4f5e-99d9-8e1605d1d07a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3bd2315a-7615-48a5-8e23-9351183d4f81",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "5b9fbce2-301b-4b80-86b5-e3635a38c2fd": {
-          "uuid": "5b9fbce2-301b-4b80-86b5-e3635a38c2fd",
-          "title": "Tomato soup with shrimps",
-          "itemDescription": "Tomatoes, shrimps, celery, cilantro, chili pepper, coconut milk, leeks, pilates tomatoes, and olive oil (300g).",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
-          ]
-        },
-        "a9be0515-8092-4531-ab7b-e2cdd8e964d0": {
-          "uuid": "a9be0515-8092-4531-ab7b-e2cdd8e964d0",
-          "title": "Tuna Pepper Grill ",
-          "itemDescription": "Tuna, cherry tomatoes, guacamole, arugula (300g)",
-          "price": 34900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cbce8332-67b4-4e65-a2a1-cfc985859368": {
-          "uuid": "cbce8332-67b4-4e65-a2a1-cfc985859368",
-          "title": "Double espresso",
-          "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (60ml).",
-          "price": 3900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "afa9478b-ebac-4ca4-882d-b91198937d66"
-          ]
-        },
-        "07c66b92-2985-46ce-9cb0-fcc70689acd3": {
-          "uuid": "07c66b92-2985-46ce-9cb0-fcc70689acd3",
-          "title": "Avocado Grill with Pesto Sauce ",
-          "itemDescription": "250g.",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "eee98e9f-4efb-4678-9a2c-1cc78945603e": {
-          "uuid": "eee98e9f-4efb-4678-9a2c-1cc78945603e",
-          "title": "Avo Tofu Burger",
-          "itemDescription": "Avocado, tofu cheese, orientl sauce, spinach and dried tomatoes (250g).",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3bd2315a-7615-48a5-8e23-9351183d4f81",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "289eafb4-cc63-4b88-b22c-c5979bd731f1": {
-          "uuid": "289eafb4-cc63-4b88-b22c-c5979bd731f1",
-          "title": "Roasted potato with rosmary",
-          "itemDescription": "150g.",
-          "price": 3900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b3c3315e-e159-44d4-9379-30de784bc896": {
-          "uuid": "b3c3315e-e159-44d4-9379-30de784bc896",
-          "title": "Tartar Mix",
-          "itemDescription": "Tartar with tuna and tartar with salmon and avocado (290g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bc344f87-815f-4467-ada9-7fe29c86eaf8": {
-          "uuid": "bc344f87-815f-4467-ada9-7fe29c86eaf8",
-          "title": "Tartar with salmon and avocado",
-          "itemDescription": "Salmon, avocados, tomatoes, brooms, capers, and leek (220g).",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a3909e3b-d202-4af5-874e-6bc847e6b89d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ad711ed0-b4ae-487a-83cb-9f6af405ebd9": {
-          "uuid": "ad711ed0-b4ae-487a-83cb-9f6af405ebd9",
-          "title": "Burger Vegetables Grill",
-          "itemDescription": "Sweet pepper, zucchini, cheddar cheese, iceberg salad, mars onion, champignons, tomatoes, sauses pesto and soy (270g)",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "85f177bc-89d8-4cd8-8d61-f6f805a4571b": {
-          "uuid": "85f177bc-89d8-4cd8-8d61-f6f805a4571b",
-          "title": "Rockford salad",
-          "itemDescription": "Mixed salad, grilled chicken, dorblu cheese, pear, and greek walnut (250g).",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "06cc0c91-6144-4f50-840b-f0b6e69c257e": {
-          "uuid": "06cc0c91-6144-4f50-840b-f0b6e69c257e",
-          "title": "Fanta",
-          "itemDescription": "250ml.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "91264ac6-0680-4152-a80d-9c245bf4ee2a": {
-          "uuid": "91264ac6-0680-4152-a80d-9c245bf4ee2a",
-          "title": "Avo Benedict Burger",
-          "itemDescription": "Avocado, benedict egg, cheddar cheese, Prosciutto, and arugula (250g).",
-          "price": 20900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3bd2315a-7615-48a5-8e23-9351183d4f81",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "3668db77-3641-4347-82a6-33bc1b212ddc": {
-          "uuid": "3668db77-3641-4347-82a6-33bc1b212ddc",
-          "title": "Big Sam Burger",
-          "itemDescription": "Veal cutlet, Cheddar cheese, tomato, egg, bacon, bionad salad, and ayol and bbq sausec (420g).",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0b977a35-1af4-432b-97ec-5773bdac3da6",
-            "3bd2315a-7615-48a5-8e23-9351183d4f81"
-          ]
-        },
-        "6b5a8b11-e6a4-4308-83da-dea32f396573": {
-          "uuid": "6b5a8b11-e6a4-4308-83da-dea32f396573",
-          "title": "Mushroom Cream Soup",
-          "itemDescription": "Mushrooms champignons, potatoes, parmesan cheese, basil green, onion, cream, soy sauce (290g)",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1298eac9-9d87-486a-813b-f4629f7b7331": {
-          "uuid": "1298eac9-9d87-486a-813b-f4629f7b7331",
-          "title": "Coconut Soup with Seafood ",
-          "itemDescription": "Avocados, salted salmon, mussels, shrimp, chicken broth, coconut milk, chili pepper, cilantro, lime, soy sauce, sesame seeds(330g)",
-          "price": 19900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "477359d9-96e2-44ad-b88c-65f72d69f905": {
-          "uuid": "477359d9-96e2-44ad-b88c-65f72d69f905",
-          "title": "Fresh juice",
-          "itemDescription": "Flavor to choose (250ml).",
-          "price": 7900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "eae119a2-465c-430a-b548-367222954fee"
-          ]
-        },
-        "9a3224d8-d5da-45b4-aa15-92ba6e27a4cd": {
-          "uuid": "9a3224d8-d5da-45b4-aa15-92ba6e27a4cd",
-          "title": "Avocado baked with egg",
-          "itemDescription": "Avocado, chicken egg, and Parmesan cheese (270g).",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d937fbae-668d-460d-abcb-410a2886fcd6": {
-          "uuid": "d937fbae-668d-460d-abcb-410a2886fcd6",
-          "title": "Brownies with avocado and larragon saucesa",
-          "itemDescription": "130g.",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "31dd59c5-dce2-414c-b4ee-df0262960fc3": {
-          "uuid": "31dd59c5-dce2-414c-b4ee-df0262960fc3",
-          "title": "Nachos Chips Baked with Cheese ",
-          "itemDescription": "Nachos chips, mozzarella cheese, lettuce mix, cherry tomatoes, chili pepper, pesto and sweet chili sauces (200g)",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "aacf14da-a351-4aa7-9eb2-0cbbe6516f30": {
-          "uuid": "aacf14da-a351-4aa7-9eb2-0cbbe6516f30",
-          "title": "\"Burn\" energy drink",
-          "itemDescription": "250ml.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "36cd9e9d-62a1-4fb0-b2bd-86507641b11a": {
-          "uuid": "36cd9e9d-62a1-4fb0-b2bd-86507641b11a",
-          "title": "Cheese plate",
-          "itemDescription": "Parmesan, camambert, doblu, taleggio,  smiked pitail, honet walnuts, grapes, and avocados (300g).",
-          "price": 26900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "15bad9bd-5187-4a4b-ae93-f8a7c8ca4870": {
-          "uuid": "15bad9bd-5187-4a4b-ae93-f8a7c8ca4870",
-          "title": "Avocado",
-          "itemDescription": "Avocado Haas (230g)",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4c19cb04-59d9-431a-8ed3-eac9fa8f9be3": {
-          "uuid": "4c19cb04-59d9-431a-8ed3-eac9fa8f9be3",
-          "title": "Burger Pavo",
-          "itemDescription": "Turkey, cheddar cheese, sweet baked pepper, zucchini, lollo biondo, salad, dijon sauce (330g)",
-          "price": 16900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cf2959d8-ba0d-4f51-811b-44c65e971994": {
-          "uuid": "cf2959d8-ba0d-4f51-811b-44c65e971994",
-          "title": "Mamba Camembert ",
-          "itemDescription": "Veal cutlet, Camembert cheese, cherry sauce (350g)",
-          "price": 18900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f99611b7-7bf1-4428-8787-1222d0f56c4f": {
-          "uuid": "f99611b7-7bf1-4428-8787-1222d0f56c4f",
-          "title": "Cheesecake",
-          "itemDescription": "Cottage cheese, avocado, Philadelphia cheese, cherry sauce (200g)",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ae6bdc66-82ca-4b45-b4b8-35fca0ed362c": {
-          "uuid": "ae6bdc66-82ca-4b45-b4b8-35fca0ed362c",
-          "title": "Cream soup with broccoli",
-          "itemDescription": "Served with dorblu cheese, walnut, and sweet pepper (300g).",
-          "price": 10900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
-          ]
-        },
-        "094c97a8-0530-45b2-9f47-81a533e8f047": {
-          "uuid": "094c97a8-0530-45b2-9f47-81a533e8f047",
-          "title": "Ribeye steak with Porto sauce",
-          "itemDescription": "300 g.",
-          "price": 39900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "715d4533-a29c-4852-84b9-52c52ada3f30"
-          ]
-        },
-        "ab3627a7-aeb4-4bae-87a7-f09757e0d00e": {
-          "uuid": "ab3627a7-aeb4-4bae-87a7-f09757e0d00e",
-          "title": "Lemonades",
-          "itemDescription": "Volume to choose 250ml/1000ml.",
-          "price": 5900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "077e8b55-d654-4211-b33c-b1cfd05c8087",
-            "9d7a8003-9e23-4e93-a4f3-3725d4ebf3b5"
-          ]
-        },
-        "16a64ea8-58db-46a8-bc9d-32ac7d38972d": {
-          "uuid": "16a64ea8-58db-46a8-bc9d-32ac7d38972d",
-          "title": "Beef Steak Burger",
-          "itemDescription": "Roast beef, roasted pepper, tomato, iceberg salad, Cheddar cheese, and bbq (420g).",
-          "price": 17900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3bd2315a-7615-48a5-8e23-9351183d4f81",
-            "0b977a35-1af4-432b-97ec-5773bdac3da6"
-          ]
-        },
-        "83f30e4f-4efe-4d7c-9561-523a3e6ea33d": {
-          "uuid": "83f30e4f-4efe-4d7c-9561-523a3e6ea33d",
-          "title": "Cranberry mors",
-          "itemDescription": "250ml.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "515269a8-9e19-4147-a101-0ad8a0dfc609"
-          ]
-        },
-        "cefef776-2a5f-4819-b712-8dbe537bec2f": {
-          "uuid": "cefef776-2a5f-4819-b712-8dbe537bec2f",
-          "title": "Filet Mignon with mashroom sauce",
-          "itemDescription": "300 g.",
-          "price": 39900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "bc97401f-eefe-4d98-bc8c-b156509276eb"
-          ]
-        },
-        "a3bb47a3-3e97-4005-ae66-d4519520b460": {
-          "uuid": "a3bb47a3-3e97-4005-ae66-d4519520b460",
-          "title": "Fresh pomegranate juice",
-          "itemDescription": "100ml.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fecab663-791b-410c-a337-001c2cac3729": {
-          "uuid": "fecab663-791b-410c-a337-001c2cac3729",
-          "title": "Cheese pudding with berry sauce",
-          "itemDescription": "Homemade cheese, sandwiches, and berries (250g).",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "beaac8ef-1f38-42fb-8ebf-cb418a86c3e7": {
-          "uuid": "beaac8ef-1f38-42fb-8ebf-cb418a86c3e7",
-          "title": "Peru Salad",
-          "itemDescription": "Avocado, mango, cherry tomatoes, mozzarella cheese, mix salad, balsamic cream, lemon dressing, chia seeds (230g)",
-          "price": 15900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "27231a85-d79d-4045-8302-af8351214a74": {
-          "uuid": "27231a85-d79d-4045-8302-af8351214a74",
-          "title": "Toasts with guacamole and benedict eggs",
-          "itemDescription": "Toast white, guacamole, egg chicken, and mix of lettuce (160g).",
-          "price": 10900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "f86753c2-9ca5-47b8-99c3-444c0642bcf6",
-          "title": "Craft Avo Burgers",
-          "subtitle": "",
-          "itemUuids": [
-            "92c01b01-b8d1-41cc-9374-9635700f73e6",
-            "eee98e9f-4efb-4678-9a2c-1cc78945603e",
-            "1230645f-a810-44a5-9ae6-aab4a3a12e0c",
-            "91264ac6-0680-4152-a80d-9c245bf4ee2a",
-            "29e0a87e-ddf0-403f-86f2-4211d72635b4",
-            "eefd16f6-3c7f-486d-ab8e-e2e26b441f11",
-            "4339a864-c80f-4cda-b637-593781c548e1",
-            "f6194521-7da0-4d6d-a63e-2f52d68c225f"
-          ]
-        },
-        {
-          "uuid": "f48946d1-baf8-419e-9e90-9222f1ae7b8b",
-          "title": "Craft Burgers",
-          "subtitle": "",
-          "itemUuids": [
-            "792b719a-4a8e-41ca-8a40-458be4a10b49",
-            "f1a73480-5493-4879-a99b-bdd4903ef245",
-            "e35ba46d-5f34-4e81-b01a-2da92f3a8fe0",
-            "16a64ea8-58db-46a8-bc9d-32ac7d38972d",
-            "3668db77-3641-4347-82a6-33bc1b212ddc",
-            "421c0408-fa15-424c-9e55-7261e0c60f0c",
-            "4c19cb04-59d9-431a-8ed3-eac9fa8f9be3",
-            "cf2959d8-ba0d-4f51-811b-44c65e971994"
-          ]
-        },
-        {
-          "uuid": "02c0ee0f-07cd-4278-96b3-91f7e256d936",
-          "title": "Chef's menu",
-          "subtitle": "",
-          "itemUuids": [
-            "31dd59c5-dce2-414c-b4ee-df0262960fc3",
-            "beaac8ef-1f38-42fb-8ebf-cb418a86c3e7",
-            "ad711ed0-b4ae-487a-83cb-9f6af405ebd9",
-            "1298eac9-9d87-486a-813b-f4629f7b7331",
-            "34d337fb-4285-4172-b372-b8a652f55553",
-            "c294a626-4879-4be6-b6cf-9b4536fd14b8",
-            "a9be0515-8092-4531-ab7b-e2cdd8e964d0",
-            "5eebce65-1a72-47d5-816b-df3c690747a0",
-            "fcd3b0a8-4280-4496-91ed-a2709ea34cf2",
-            "f38fafb5-d100-4277-9f40-361621601fb5",
-            "b953fc24-01d9-461d-a766-7ac2c7789eb9",
-            "8c626de3-41c7-4900-ac06-9c5080251eb9"
-          ]
-        },
-        {
-          "uuid": "bf84652a-cade-4f95-910d-df4db6e4f238",
-          "title": "Breakfasts",
-          "subtitle": "",
-          "itemUuids": [
-            "e2531e40-b583-4069-af30-c265b0287853",
-            "ae9b4178-e44f-4831-9c27-643634654a99",
-            "9747dd44-73d5-415b-86f0-4f34985c2b9b",
-            "27231a85-d79d-4045-8302-af8351214a74",
-            "9a3224d8-d5da-45b4-aa15-92ba6e27a4cd",
-            "fdc77f93-52f3-4284-aefa-3fad2dae9314"
-          ]
-        },
-        {
-          "uuid": "479ba1ac-2a00-4def-89c2-63778ee88376",
-          "title": "Appetizers",
-          "subtitle": "",
-          "itemUuids": [
-            "46aae153-b3d4-4fe3-961e-9593a201a00e",
-            "bc344f87-815f-4467-ada9-7fe29c86eaf8",
-            "d63f56b7-4b46-4d00-9ba3-989f3155b906",
-            "2f053899-3d17-44fa-aebd-559d07abfbc1",
-            "270537b5-c668-4ae7-81bd-faa8b05d409b",
-            "747e54bc-894b-417d-961c-c78637173420",
-            "3ebf52db-3848-4333-a2bc-b03d2321491f",
-            "981be85f-130e-4f2b-b6e4-3f989beb7201",
-            "b3c3315e-e159-44d4-9379-30de784bc896",
-            "5a543978-4c40-4bbe-a1f0-a63f4dc8c6c7",
-            "031a4204-8c83-4bba-ae26-523261e5b726"
-          ]
-        },
-        {
-          "uuid": "4a246cee-1034-4761-a316-4c3e46297798",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "52768bfb-be9b-4345-bcc2-76691debf2dd",
-            "e4640981-2176-4273-af5d-c3edf0653719",
-            "65bee8bf-5bf5-4772-b848-6fddda429fee",
-            "85f177bc-89d8-4cd8-8d61-f6f805a4571b",
-            "8ed5d522-137a-400d-ac21-18dc5e9a31a0",
-            "853c7145-8d15-408e-8767-e80b869fed8d",
-            "6ae181ce-95f2-41c9-aa9b-91c98d5b0d3b",
-            "0f4f2c0d-0a15-4721-b8b1-dc331cf9afe0"
-          ]
-        },
-        {
-          "uuid": "7bd2e73f-5b42-484f-8587-84ea68131063",
-          "title": "Garnish",
-          "subtitle": "",
-          "itemUuids": [
-            "289eafb4-cc63-4b88-b22c-c5979bd731f1",
-            "6efcaeee-a48c-4ea5-9bbd-196eccefe686",
-            "d8c847db-d39e-4161-b80a-fb065da3f55c",
-            "df813ce4-d45c-4587-9085-511927e94516",
-            "07c66b92-2985-46ce-9cb0-fcc70689acd3"
-          ]
-        },
-        {
-          "uuid": "c2486bc0-e301-4c98-b912-d1d4ff7ecfe9",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "4456c508-2588-4c18-aaf9-85afb632d9ba",
-            "ae6bdc66-82ca-4b45-b4b8-35fca0ed362c",
-            "5b9fbce2-301b-4b80-86b5-e3635a38c2fd",
-            "903ca288-5f09-4f61-82fa-aafc48292a66",
-            "6b5a8b11-e6a4-4308-83da-dea32f396573",
-            "a8763b2c-0400-4666-874a-40bda0458fd9"
-          ]
-        },
-        {
-          "uuid": "7ae7bc91-acac-4cb8-880b-0b51abb71746",
-          "title": "Plates",
-          "subtitle": "",
-          "itemUuids": [
-            "36cd9e9d-62a1-4fb0-b2bd-86507641b11a",
-            "98339e93-9565-4402-b22b-a507afdf8dc4"
-          ]
-        },
-        {
-          "uuid": "939668b5-5e7a-4a7f-96d5-aaf39c7f7788",
-          "title": "Griled meat, bird and fish",
-          "subtitle": "",
-          "itemUuids": [
-            "314a3ba4-80bc-467f-9568-9f2ba82816b4",
-            "094c97a8-0530-45b2-9f47-81a533e8f047",
-            "cefef776-2a5f-4819-b712-8dbe537bec2f",
-            "1b1db8c5-b156-4293-a14e-d4129466f309",
-            "cd999dcb-11d5-4a53-b732-6b9a388f9500",
-            "ab6404b9-e160-4892-9cd0-a696e903adac",
-            "242d50d5-639c-4a25-ac9d-75b97fe8982d",
-            "4d975b4e-88f7-4df9-bfb5-0bfb4d5b894d",
-            "94de50ea-5d49-49e5-8a23-bd03205bd94a",
-            "364c8ab4-258f-49fe-ae1e-e22e510c1ada"
-          ]
-        },
-        {
-          "uuid": "db330927-de4d-41e5-adf8-b494a261d6e4",
-          "title": "Deserts",
-          "subtitle": "",
-          "itemUuids": [
-            "fecab663-791b-410c-a337-001c2cac3729",
-            "29a5da3f-6270-4b2e-8fd0-4429c2820c73",
-            "d3c84e9e-4108-4cb9-ac95-93ddf59ee878",
-            "d937fbae-668d-460d-abcb-410a2886fcd6",
-            "f99611b7-7bf1-4428-8787-1222d0f56c4f"
-          ]
-        },
-        {
-          "uuid": "102db6c1-c10c-4faf-8959-91b08ddea21b",
-          "title": "Hot drinks",
-          "subtitle": "",
-          "itemUuids": [
-            "5ec0f09f-9e1c-42bf-98bd-6feec1d287b2",
-            "e984bd27-543e-4aec-bec2-fa18e7556725",
-            "cbce8332-67b4-4e65-a2a1-cfc985859368",
-            "d4db0b30-529f-4878-a068-b1dbc7a8adaf",
-            "054deb18-b4b4-4a93-b067-22166679a812",
-            "ebf7aced-a0da-43b9-a7a1-78802ac6f24c",
-            "e880a959-59f8-4340-890f-8196a62af6c9",
-            "8a8cca32-4262-43b9-95a7-2b6177b64561",
-            "bf83f850-c2df-47b7-8ab6-c68181018230"
-          ]
-        },
-        {
-          "uuid": "49f67428-51de-4e3b-a72e-0ff6bee6879a",
-          "title": "Non-alcoholic drinks",
-          "subtitle": "",
-          "itemUuids": [
-            "74c180eb-979c-45eb-92cf-2f6b4cb2f396",
-            "83f30e4f-4efe-4d7c-9561-523a3e6ea33d",
-            "b46e5cd8-093e-4dd6-a29e-b6c41c58135c",
-            "d9050284-1ad6-41bc-a8e6-0aeec094b78c",
-            "06cc0c91-6144-4f50-840b-f0b6e69c257e",
-            "0a882889-c415-4e64-a4d6-46986465f1d1",
-            "1bf08d54-d829-4652-8483-a41cced88b7f",
-            "78a7fdee-d77b-403b-bfb6-6adc8c636a50",
-            "d8cbce4a-867c-44b3-bd83-085b60437b2f",
-            "88426748-ab01-43dd-8a65-8d848ad50791",
-            "aacf14da-a351-4aa7-9eb2-0cbbe6516f30",
-            "ab3627a7-aeb4-4bae-87a7-f09757e0d00e",
-            "477359d9-96e2-44ad-b88c-65f72d69f905",
-            "a3bb47a3-3e97-4005-ae66-d4519520b460",
-            "d75f6692-1006-4a78-9bf3-84962cad2f2c"
-          ]
-        },
-        {
-          "uuid": "43178f58-20fc-4811-98c4-40383d03be25",
-          "title": "Extra",
-          "subtitle": "",
-          "itemUuids": [
-            "15bad9bd-5187-4a4b-ae93-f8a7c8ca4870",
-            "2845cbdb-ea22-4077-b365-8c861d71dd67"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4443735,
     "longitude": 30.5379311,
@@ -1723,5 +284,1416 @@
     "storeRatingScore": 4.316129032258065,
     "ratingCount": "155"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d37e0741-6a24-4228-8236-74f0c828623f"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d37e0741-6a24-4228-8236-74f0c828623f",
+  "items": {
+    "314a3ba4-80bc-467f-9568-9f2ba82816b4": {
+      "uuid": "314a3ba4-80bc-467f-9568-9f2ba82816b4",
+      "title": "Avo chicken fillet with mozzarella and pesto sauce",
+      "itemDescription": "Chicken filet, avocado, mozzarella cheese, pesto sauce, tomatoes, and microgreen (300g).",
+      "price": 18900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "bc97401f-eefe-4d98-bc8c-b156509276eb"
+      ]
+    },
+    "74c180eb-979c-45eb-92cf-2f6b4cb2f396": {
+      "uuid": "74c180eb-979c-45eb-92cf-2f6b4cb2f396",
+      "title": "Juice",
+      "itemDescription": "250ml.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "88426748-ab01-43dd-8a65-8d848ad50791": {
+      "uuid": "88426748-ab01-43dd-8a65-8d848ad50791",
+      "title": "\"Borjomi\" sparkling water",
+      "itemDescription": "500ml.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "054deb18-b4b4-4a93-b067-22166679a812": {
+      "uuid": "054deb18-b4b4-4a93-b067-22166679a812",
+      "title": "Latte coffee",
+      "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (200ml).",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
+      ]
+    },
+    "e880a959-59f8-4340-890f-8196a62af6c9": {
+      "uuid": "e880a959-59f8-4340-890f-8196a62af6c9",
+      "title": "Chocolate cacao",
+      "itemDescription": "200ml.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "76a66203-aa79-4223-bc84-55e8c2482b0b"
+      ]
+    },
+    "1b1db8c5-b156-4293-a14e-d4129466f309": {
+      "uuid": "1b1db8c5-b156-4293-a14e-d4129466f309",
+      "title": "Medallions with Porto sauce",
+      "itemDescription": "200 g.",
+      "price": 29900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "bc97401f-eefe-4d98-bc8c-b156509276eb"
+      ]
+    },
+    "6efcaeee-a48c-4ea5-9bbd-196eccefe686": {
+      "uuid": "6efcaeee-a48c-4ea5-9bbd-196eccefe686",
+      "title": "Couscous with tomatoes and basil",
+      "itemDescription": "150g.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5eebce65-1a72-47d5-816b-df3c690747a0": {
+      "uuid": "5eebce65-1a72-47d5-816b-df3c690747a0",
+      "title": "Tongue with Celery-spinach Puree",
+      "itemDescription": "Veal tongue, cherry tomatoes, celery root, spinach, paprika (260g)",
+      "price": 17900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d8c847db-d39e-4161-b80a-fb065da3f55c": {
+      "uuid": "d8c847db-d39e-4161-b80a-fb065da3f55c",
+      "title": "Grilled vegetables",
+      "itemDescription": "Eggplant, zuccini, champingnons, sweet peppers, tomatoes, and pesto sauce (150g).",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "78a7fdee-d77b-403b-bfb6-6adc8c636a50": {
+      "uuid": "78a7fdee-d77b-403b-bfb6-6adc8c636a50",
+      "title": "\"Morshynska\" water",
+      "itemDescription": "330ml.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "46aae153-b3d4-4fe3-961e-9593a201a00e": {
+      "uuid": "46aae153-b3d4-4fe3-961e-9593a201a00e",
+      "title": "Guacamole with nachos chips",
+      "itemDescription": "200g.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8cdf8a3-4161-4307-84b3-d02731b853cb",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f38fafb5-d100-4277-9f40-361621601fb5": {
+      "uuid": "f38fafb5-d100-4277-9f40-361621601fb5",
+      "title": " Mussels with Vegetables",
+      "itemDescription": "Mussels, parmesan cheese, pilate tomatoes, sweet pepper, zucchini, olives, leeks, basil green, wine (270g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b953fc24-01d9-461d-a766-7ac2c7789eb9": {
+      "uuid": "b953fc24-01d9-461d-a766-7ac2c7789eb9",
+      "title": " Pasta Carbonara with Avocado",
+      "itemDescription": "Spaghetti, avocado, bacon, parmesan cheese, chicken egg, cream, wine (300g)",
+      "price": 18900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "031a4204-8c83-4bba-ae26-523261e5b726": {
+      "uuid": "031a4204-8c83-4bba-ae26-523261e5b726",
+      "title": "Veal Carpaccio",
+      "itemDescription": "Veal, avocado, lettuce mix, capers, parmesan cheese, dried tomatoes, pesto sauce (250g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4339a864-c80f-4cda-b637-593781c548e1": {
+      "uuid": "4339a864-c80f-4cda-b637-593781c548e1",
+      "title": "Avo Thornero Burger",
+      "itemDescription": "Avocado, veal cutlet, Cheddar cheese, tomato, egg, arugula, and pesto sauce (320g).",
+      "price": 22900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "57e5717d-0e36-434b-8c10-04649c4262ad",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "d8cbce4a-867c-44b3-bd83-085b60437b2f": {
+      "uuid": "d8cbce4a-867c-44b3-bd83-085b60437b2f",
+      "title": "\"Devaytis\" water",
+      "itemDescription": "500ml.",
+      "price": 3900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8c626de3-41c7-4900-ac06-9c5080251eb9": {
+      "uuid": "8c626de3-41c7-4900-ac06-9c5080251eb9",
+      "title": "Perch with Tomatoes and Pesto Souce",
+      "itemDescription": "Perch, tomato, garlic , sauce pesto, thyme, wine (360g)",
+      "price": 21900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "242d50d5-639c-4a25-ac9d-75b97fe8982d": {
+      "uuid": "242d50d5-639c-4a25-ac9d-75b97fe8982d",
+      "title": "Pasta with 3 cheeses and shrimps",
+      "itemDescription": "Parmesan, dourble and camembert cheeses, spaghetti, shrimps, cherry tomatoes, basil, pine nuts (320g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8a8cca32-4262-43b9-95a7-2b6177b64561": {
+      "uuid": "8a8cca32-4262-43b9-95a7-2b6177b64561",
+      "title": "Tea",
+      "itemDescription": "500ml.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "34200687-c2c8-4d4b-832c-c961cdd58a93"
+      ]
+    },
+    "5a543978-4c40-4bbe-a1f0-a63f4dc8c6c7": {
+      "uuid": "5a543978-4c40-4bbe-a1f0-a63f4dc8c6c7",
+      "title": "Camembert grill ",
+      "itemDescription": "Camembert, pineapple, berry sauce, walnut (280g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d9050284-1ad6-41bc-a8e6-0aeec094b78c": {
+      "uuid": "d9050284-1ad6-41bc-a8e6-0aeec094b78c",
+      "title": "Coca Cola",
+      "itemDescription": "250мл.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "eefd16f6-3c7f-486d-ab8e-e2e26b441f11": {
+      "uuid": "eefd16f6-3c7f-486d-ab8e-e2e26b441f11",
+      "title": "Avo Chicken Burger",
+      "itemDescription": "Avocado, chicken, iceberg salad, Cheddar cheese, cucumber, and ayola and pesto sauces (300g).",
+      "price": 21900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3bd2315a-7615-48a5-8e23-9351183d4f81",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "bf83f850-c2df-47b7-8ab6-c68181018230": {
+      "uuid": "bf83f850-c2df-47b7-8ab6-c68181018230",
+      "title": "Matcha latte",
+      "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (250ml).",
+      "price": 5900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "76a66203-aa79-4223-bc84-55e8c2482b0b"
+      ]
+    },
+    "981be85f-130e-4f2b-b6e4-3f989beb7201": {
+      "uuid": "981be85f-130e-4f2b-b6e4-3f989beb7201",
+      "title": "Tuna tartar",
+      "itemDescription": "Tuna, avocado, cherry tomatoes, onion mars, capers, rucola, parsley, balsamic cream, soy sauce (210g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "98339e93-9565-4402-b22b-a507afdf8dc4": {
+      "uuid": "98339e93-9565-4402-b22b-a507afdf8dc4",
+      "title": "Meat plate",
+      "itemDescription": "Brezaola, coppa di Parma, Prosciutto, curried tomato (250g).",
+      "price": 27900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5ec0f09f-9e1c-42bf-98bd-6feec1d287b2": {
+      "uuid": "5ec0f09f-9e1c-42bf-98bd-6feec1d287b2",
+      "title": "Espresso",
+      "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (30ml).",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "afa9478b-ebac-4ca4-882d-b91198937d66"
+      ]
+    },
+    "4456c508-2588-4c18-aaf9-85afb632d9ba": {
+      "uuid": "4456c508-2588-4c18-aaf9-85afb632d9ba",
+      "title": "Chili-Con Carne",
+      "itemDescription": "Lentil, beans, chili pepper, beef, pilates tomatoes, onionsm celery stalk, cilantro, and parsley (300g).",
+      "price": 10900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
+      ]
+    },
+    "d4db0b30-529f-4878-a068-b1dbc7a8adaf": {
+      "uuid": "d4db0b30-529f-4878-a068-b1dbc7a8adaf",
+      "title": "Cappuccino",
+      "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (180ml).",
+      "price": 3900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
+      ]
+    },
+    "a8763b2c-0400-4666-874a-40bda0458fd9": {
+      "uuid": "a8763b2c-0400-4666-874a-40bda0458fd9",
+      "title": "Turkey broth",
+      "itemDescription": "Turkey, avocados, carrots, parmesan cheese, farfalle (350g)",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "29e0a87e-ddf0-403f-86f2-4211d72635b4": {
+      "uuid": "29e0a87e-ddf0-403f-86f2-4211d72635b4",
+      "title": "Avo Beef Burger",
+      "itemDescription": "Avocado, roasted beef, salad, bell pepper and tomatoes (250g).",
+      "price": 21900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3bd2315a-7615-48a5-8e23-9351183d4f81",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "ae9b4178-e44f-4831-9c27-643634654a99": {
+      "uuid": "ae9b4178-e44f-4831-9c27-643634654a99",
+      "title": "Granola with yogurt",
+      "itemDescription": "Oatmeal, nuts, dried apricots, raisins, honey, and cinnamon (150/100g).",
+      "price": 6900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2845cbdb-ea22-4077-b365-8c861d71dd67": {
+      "uuid": "2845cbdb-ea22-4077-b365-8c861d71dd67",
+      "title": "Buns",
+      "itemDescription": "Buns 2 pieces (60g)",
+      "price": 1900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "421c0408-fa15-424c-9e55-7261e0c60f0c": {
+      "uuid": "421c0408-fa15-424c-9e55-7261e0c60f0c",
+      "title": "Salmonger Burger",
+      "itemDescription": "Salmon, guacamole, tomato, Philadelphia cheese, and arugula (240g).",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0b977a35-1af4-432b-97ec-5773bdac3da6",
+        "3bd2315a-7615-48a5-8e23-9351183d4f81"
+      ]
+    },
+    "853c7145-8d15-408e-8767-e80b869fed8d": {
+      "uuid": "853c7145-8d15-408e-8767-e80b869fed8d",
+      "title": "Burrata salad",
+      "itemDescription": "Buratta cheese, arugula, tomato, pesto sauce and balsamic cream (210g).",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0b1dbbc-2134-43a6-9e55-62dfe59b75ad",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fdc77f93-52f3-4284-aefa-3fad2dae9314": {
+      "uuid": "fdc77f93-52f3-4284-aefa-3fad2dae9314",
+      "title": "Mango Fitness Mix",
+      "itemDescription": "Avocados, mango, fresh seasonal berries, feta cheese, and spinach leaves (250g).",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "270537b5-c668-4ae7-81bd-faa8b05d409b": {
+      "uuid": "270537b5-c668-4ae7-81bd-faa8b05d409b",
+      "title": "Bruscgetta Peru",
+      "itemDescription": "White baguette, avocado, tomato salsa, onion, and mozzarella (210г).",
+      "price": 12900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e2531e40-b583-4069-af30-c265b0287853": {
+      "uuid": "e2531e40-b583-4069-af30-c265b0287853",
+      "title": "Humus with toast",
+      "itemDescription": "335g.",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee18878d-8177-4dfd-a9c1-1d5d18fd1394",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "65bee8bf-5bf5-4772-b848-6fddda429fee": {
+      "uuid": "65bee8bf-5bf5-4772-b848-6fddda429fee",
+      "title": "Vitello salad",
+      "itemDescription": "Mixed salad, roast beef, capers, roasted pepper, tomato concasse, croutons, and vitello sauce (250g).",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2f053899-3d17-44fa-aebd-559d07abfbc1": {
+      "uuid": "2f053899-3d17-44fa-aebd-559d07abfbc1",
+      "title": "Ege Tofu",
+      "itemDescription": "Tofu roasted cheese, oriental sauce, cherry tomatoes, arugula, and balsamic cream (220g).",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0a882889-c415-4e64-a4d6-46986465f1d1": {
+      "uuid": "0a882889-c415-4e64-a4d6-46986465f1d1",
+      "title": "Sprite",
+      "itemDescription": "250мл.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f1a73480-5493-4879-a99b-bdd4903ef245": {
+      "uuid": "f1a73480-5493-4879-a99b-bdd4903ef245",
+      "title": "Mexico Spice Burger",
+      "itemDescription": "Veal cutlet, pineapple, Cheddar cheese, boyad salad, mexican salsa, and chili (300g).",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "57e5717d-0e36-434b-8c10-04649c4262ad",
+        "3bd2315a-7615-48a5-8e23-9351183d4f81"
+      ]
+    },
+    "52768bfb-be9b-4345-bcc2-76691debf2dd": {
+      "uuid": "52768bfb-be9b-4345-bcc2-76691debf2dd",
+      "title": "Philadelphia salad",
+      "itemDescription": "Salmon, Philadelphia cheese, avocado, arugula, tomatoes and lemon dressing (270g).",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/11639824-78b0-4027-858b-be652a783a35",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "747e54bc-894b-417d-961c-c78637173420": {
+      "uuid": "747e54bc-894b-417d-961c-c78637173420",
+      "title": "Bruschetta Salmon",
+      "itemDescription": "White baguette, avocado mousse, salmon, broccoli and cherry tomatoes (240g).",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e984bd27-543e-4aec-bec2-fa18e7556725": {
+      "uuid": "e984bd27-543e-4aec-bec2-fa18e7556725",
+      "title": "Americano",
+      "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (120ml).",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
+      ]
+    },
+    "cd999dcb-11d5-4a53-b732-6b9a388f9500": {
+      "uuid": "cd999dcb-11d5-4a53-b732-6b9a388f9500",
+      "title": "Salmon  Fillet on Avocado",
+      "itemDescription": "270g.",
+      "price": 32900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "bc97401f-eefe-4d98-bc8c-b156509276eb"
+      ]
+    },
+    "ebf7aced-a0da-43b9-a7a1-78802ac6f24c": {
+      "uuid": "ebf7aced-a0da-43b9-a7a1-78802ac6f24c",
+      "title": "Flat white",
+      "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (180ml).",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "9c8b125b-4375-4555-9f14-c7b3bf7b5db4"
+      ]
+    },
+    "9747dd44-73d5-415b-86f0-4f34985c2b9b": {
+      "uuid": "9747dd44-73d5-415b-86f0-4f34985c2b9b",
+      "title": "Fritta with spinach and tomatoes",
+      "itemDescription": "Chicken egg, cream, spinach, cherry tomatoes, and mozzarella cheese (230g).",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e4640981-2176-4273-af5d-c3edf0653719": {
+      "uuid": "e4640981-2176-4273-af5d-c3edf0653719",
+      "title": "Tofu salad",
+      "itemDescription": "Mixed salad, tofu cheese, cucumber, mars onion, olive, orental sauce, dried tomatoes, and balsamic cream (250g).",
+      "price": 10900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ab6404b9-e160-4892-9cd0-a696e903adac": {
+      "uuid": "ab6404b9-e160-4892-9cd0-a696e903adac",
+      "title": "Branded avocado steak with bone",
+      "itemDescription": "350 g.",
+      "price": 49900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "bc97401f-eefe-4d98-bc8c-b156509276eb"
+      ]
+    },
+    "903ca288-5f09-4f61-82fa-aafc48292a66": {
+      "uuid": "903ca288-5f09-4f61-82fa-aafc48292a66",
+      "title": "Cold avocado cream soup",
+      "itemDescription": "Greens, avocados, cucumbers, olive oil, tomatoes, and onions (280g).",
+      "price": 11900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
+      ]
+    },
+    "3ebf52db-3848-4333-a2bc-b03d2321491f": {
+      "uuid": "3ebf52db-3848-4333-a2bc-b03d2321491f",
+      "title": "Bruschetta with roast beef",
+      "itemDescription": "Roast beef, dorblu sauce, sweet baked pepper, iceberg salad, balsamic cream (290g)",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "29a5da3f-6270-4b2e-8fd0-4429c2820c73": {
+      "uuid": "29a5da3f-6270-4b2e-8fd0-4429c2820c73",
+      "title": "Grilled pineapple with ice cream",
+      "itemDescription": "200g.",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d75f6692-1006-4a78-9bf3-84962cad2f2c": {
+      "uuid": "d75f6692-1006-4a78-9bf3-84962cad2f2c",
+      "title": "Smoothies",
+      "itemDescription": "250ml.",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "40329980-688e-489c-80e6-7c1cf57a9548"
+      ]
+    },
+    "b46e5cd8-093e-4dd6-a29e-b6c41c58135c": {
+      "uuid": "b46e5cd8-093e-4dd6-a29e-b6c41c58135c",
+      "title": "Dried friuts uzvar",
+      "itemDescription": "250ml.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "515269a8-9e19-4147-a101-0ad8a0dfc609"
+      ]
+    },
+    "fcd3b0a8-4280-4496-91ed-a2709ea34cf2": {
+      "uuid": "fcd3b0a8-4280-4496-91ed-a2709ea34cf2",
+      "title": " Burger Ribeye",
+      "itemDescription": "Ribeye veal, cheddar cheese, tomatoes, iceberg salad, wine, sauses sweet chili, worcestershire and soy (300g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "df813ce4-d45c-4587-9085-511927e94516": {
+      "uuid": "df813ce4-d45c-4587-9085-511927e94516",
+      "title": "Battat Fries",
+      "itemDescription": "200 g.",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "364c8ab4-258f-49fe-ae1e-e22e510c1ada": {
+      "uuid": "364c8ab4-258f-49fe-ae1e-e22e510c1ada",
+      "title": "Duck fillet",
+      "itemDescription": "Duck fillet, wine, avocado, pear, apple, cranberry, thyme, garlic (440g)",
+      "price": 35900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1230645f-a810-44a5-9ae6-aab4a3a12e0c": {
+      "uuid": "1230645f-a810-44a5-9ae6-aab4a3a12e0c",
+      "title": "Avo Green Burger",
+      "itemDescription": "Avocado, arugula, tomato, Philadelphia or tofu cheese, bell pepper, and pesto sauce (250g).",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3bd2315a-7615-48a5-8e23-9351183d4f81",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "1bf08d54-d829-4652-8483-a41cced88b7f": {
+      "uuid": "1bf08d54-d829-4652-8483-a41cced88b7f",
+      "title": "Shweppes tonic",
+      "itemDescription": "250ml.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e35ba46d-5f34-4e81-b01a-2da92f3a8fe0": {
+      "uuid": "e35ba46d-5f34-4e81-b01a-2da92f3a8fe0",
+      "title": "Black Mamba Burger",
+      "itemDescription": "Veal cutlet, Cheddar cheese, and cherry sauce (300g),",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0b977a35-1af4-432b-97ec-5773bdac3da6",
+        "3bd2315a-7615-48a5-8e23-9351183d4f81"
+      ]
+    },
+    "792b719a-4a8e-41ca-8a40-458be4a10b49": {
+      "uuid": "792b719a-4a8e-41ca-8a40-458be4a10b49",
+      "title": "Sweet Beef Burger",
+      "itemDescription": "Veal cutlet, confectionery onion, iceberg salad, ayol sauce, and brie cheese (290g).",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0b977a35-1af4-432b-97ec-5773bdac3da6",
+        "3bd2315a-7615-48a5-8e23-9351183d4f81"
+      ]
+    },
+    "f6194521-7da0-4d6d-a63e-2f52d68c225f": {
+      "uuid": "f6194521-7da0-4d6d-a63e-2f52d68c225f",
+      "title": "Avo Burger Burat ",
+      "itemDescription": "Avocado, cheese burat, dried tomatoes, lollo rosso salad, rucola, pesto souce (330g)",
+      "price": 26900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0f4f2c0d-0a15-4721-b8b1-dc331cf9afe0": {
+      "uuid": "0f4f2c0d-0a15-4721-b8b1-dc331cf9afe0",
+      "title": "Salad with shrimp",
+      "itemDescription": "Shrimp, avocado, salad mix, cherry tomatoes, parmesan cheese, chia seeds, garlic, thyme, mango puree, lemon dressing (240g)",
+      "price": 25900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "34d337fb-4285-4172-b372-b8a652f55553": {
+      "uuid": "34d337fb-4285-4172-b372-b8a652f55553",
+      "title": "Avo Burger Shrimp",
+      "itemDescription": "Avocado, shrimp, cherry tomatoes, lollo rosso salad, sauses sweet chili and soy (270g)",
+      "price": 25900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6ae181ce-95f2-41c9-aa9b-91c98d5b0d3b": {
+      "uuid": "6ae181ce-95f2-41c9-aa9b-91c98d5b0d3b",
+      "title": "Dressed Salmon and Avocado Salad ",
+      "itemDescription": "Avocado, salted salmon, beets, chicken eggs, lime, green basil, carrot, mars onion, homemade mayonnaise (250g)",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8ed5d522-137a-400d-ac21-18dc5e9a31a0": {
+      "uuid": "8ed5d522-137a-400d-ac21-18dc5e9a31a0",
+      "title": "American Yoho salad",
+      "itemDescription": "Salmon, corn, avocado, iceberg salald, arugula, and leeks (250g).",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d3c84e9e-4108-4cb9-ac95-93ddf59ee878": {
+      "uuid": "d3c84e9e-4108-4cb9-ac95-93ddf59ee878",
+      "title": "Panacotta with avocado",
+      "itemDescription": "250г.",
+      "price": 10900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d63f56b7-4b46-4d00-9ba3-989f3155b906": {
+      "uuid": "d63f56b7-4b46-4d00-9ba3-989f3155b906",
+      "title": "Guacamole with Chia seeds on crispy toast",
+      "itemDescription": "Avocado, olive oil, lemon juice, onion, chia and white toast (190g).",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4d975b4e-88f7-4df9-bfb5-0bfb4d5b894d": {
+      "uuid": "4d975b4e-88f7-4df9-bfb5-0bfb4d5b894d",
+      "title": "Pan with shrimps",
+      "itemDescription": "Shrimps, leek, celery, chili pepper, cherry tomatoes, capers, broccoli, garlic, thyme (230g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "94de50ea-5d49-49e5-8a23-bd03205bd94a": {
+      "uuid": "94de50ea-5d49-49e5-8a23-bd03205bd94a",
+      "title": "Turkey cutlets with couscousr ",
+      "itemDescription": "Turkey, couscous, tomatoes, basil, rucola (300g)",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c294a626-4879-4be6-b6cf-9b4536fd14b8": {
+      "uuid": "c294a626-4879-4be6-b6cf-9b4536fd14b8",
+      "title": "Seafood salad",
+      "itemDescription": "Avocado, shrimp, mussels, salmon, cherry tomatoes, lettuce mix, orange, lime, balsamic cream, soy sauce (270g)",
+      "price": 29900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "92c01b01-b8d1-41cc-9374-9635700f73e6": {
+      "uuid": "92c01b01-b8d1-41cc-9374-9635700f73e6",
+      "title": "Avo El Mar Burger",
+      "itemDescription": "Avocado, salmon, Philadephia or tofu cheese, lollo rosso salad, and lemon juice (250g).",
+      "price": 22900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbc8c3a9-929e-4f5e-99d9-8e1605d1d07a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3bd2315a-7615-48a5-8e23-9351183d4f81",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "5b9fbce2-301b-4b80-86b5-e3635a38c2fd": {
+      "uuid": "5b9fbce2-301b-4b80-86b5-e3635a38c2fd",
+      "title": "Tomato soup with shrimps",
+      "itemDescription": "Tomatoes, shrimps, celery, cilantro, chili pepper, coconut milk, leeks, pilates tomatoes, and olive oil (300g).",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
+      ]
+    },
+    "a9be0515-8092-4531-ab7b-e2cdd8e964d0": {
+      "uuid": "a9be0515-8092-4531-ab7b-e2cdd8e964d0",
+      "title": "Tuna Pepper Grill ",
+      "itemDescription": "Tuna, cherry tomatoes, guacamole, arugula (300g)",
+      "price": 34900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cbce8332-67b4-4e65-a2a1-cfc985859368": {
+      "uuid": "cbce8332-67b4-4e65-a2a1-cfc985859368",
+      "title": "Double espresso",
+      "itemDescription": "All kinds of coffee can be made decaffeined or on soy and almond milk (60ml).",
+      "price": 3900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "afa9478b-ebac-4ca4-882d-b91198937d66"
+      ]
+    },
+    "07c66b92-2985-46ce-9cb0-fcc70689acd3": {
+      "uuid": "07c66b92-2985-46ce-9cb0-fcc70689acd3",
+      "title": "Avocado Grill with Pesto Sauce ",
+      "itemDescription": "250g.",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "eee98e9f-4efb-4678-9a2c-1cc78945603e": {
+      "uuid": "eee98e9f-4efb-4678-9a2c-1cc78945603e",
+      "title": "Avo Tofu Burger",
+      "itemDescription": "Avocado, tofu cheese, orientl sauce, spinach and dried tomatoes (250g).",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3bd2315a-7615-48a5-8e23-9351183d4f81",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "289eafb4-cc63-4b88-b22c-c5979bd731f1": {
+      "uuid": "289eafb4-cc63-4b88-b22c-c5979bd731f1",
+      "title": "Roasted potato with rosmary",
+      "itemDescription": "150g.",
+      "price": 3900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b3c3315e-e159-44d4-9379-30de784bc896": {
+      "uuid": "b3c3315e-e159-44d4-9379-30de784bc896",
+      "title": "Tartar Mix",
+      "itemDescription": "Tartar with tuna and tartar with salmon and avocado (290g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bc344f87-815f-4467-ada9-7fe29c86eaf8": {
+      "uuid": "bc344f87-815f-4467-ada9-7fe29c86eaf8",
+      "title": "Tartar with salmon and avocado",
+      "itemDescription": "Salmon, avocados, tomatoes, brooms, capers, and leek (220g).",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a3909e3b-d202-4af5-874e-6bc847e6b89d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ad711ed0-b4ae-487a-83cb-9f6af405ebd9": {
+      "uuid": "ad711ed0-b4ae-487a-83cb-9f6af405ebd9",
+      "title": "Burger Vegetables Grill",
+      "itemDescription": "Sweet pepper, zucchini, cheddar cheese, iceberg salad, mars onion, champignons, tomatoes, sauses pesto and soy (270g)",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "85f177bc-89d8-4cd8-8d61-f6f805a4571b": {
+      "uuid": "85f177bc-89d8-4cd8-8d61-f6f805a4571b",
+      "title": "Rockford salad",
+      "itemDescription": "Mixed salad, grilled chicken, dorblu cheese, pear, and greek walnut (250g).",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "06cc0c91-6144-4f50-840b-f0b6e69c257e": {
+      "uuid": "06cc0c91-6144-4f50-840b-f0b6e69c257e",
+      "title": "Fanta",
+      "itemDescription": "250ml.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "91264ac6-0680-4152-a80d-9c245bf4ee2a": {
+      "uuid": "91264ac6-0680-4152-a80d-9c245bf4ee2a",
+      "title": "Avo Benedict Burger",
+      "itemDescription": "Avocado, benedict egg, cheddar cheese, Prosciutto, and arugula (250g).",
+      "price": 20900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3bd2315a-7615-48a5-8e23-9351183d4f81",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "3668db77-3641-4347-82a6-33bc1b212ddc": {
+      "uuid": "3668db77-3641-4347-82a6-33bc1b212ddc",
+      "title": "Big Sam Burger",
+      "itemDescription": "Veal cutlet, Cheddar cheese, tomato, egg, bacon, bionad salad, and ayol and bbq sausec (420g).",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0b977a35-1af4-432b-97ec-5773bdac3da6",
+        "3bd2315a-7615-48a5-8e23-9351183d4f81"
+      ]
+    },
+    "6b5a8b11-e6a4-4308-83da-dea32f396573": {
+      "uuid": "6b5a8b11-e6a4-4308-83da-dea32f396573",
+      "title": "Mushroom Cream Soup",
+      "itemDescription": "Mushrooms champignons, potatoes, parmesan cheese, basil green, onion, cream, soy sauce (290g)",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1298eac9-9d87-486a-813b-f4629f7b7331": {
+      "uuid": "1298eac9-9d87-486a-813b-f4629f7b7331",
+      "title": "Coconut Soup with Seafood ",
+      "itemDescription": "Avocados, salted salmon, mussels, shrimp, chicken broth, coconut milk, chili pepper, cilantro, lime, soy sauce, sesame seeds(330g)",
+      "price": 19900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "477359d9-96e2-44ad-b88c-65f72d69f905": {
+      "uuid": "477359d9-96e2-44ad-b88c-65f72d69f905",
+      "title": "Fresh juice",
+      "itemDescription": "Flavor to choose (250ml).",
+      "price": 7900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "eae119a2-465c-430a-b548-367222954fee"
+      ]
+    },
+    "9a3224d8-d5da-45b4-aa15-92ba6e27a4cd": {
+      "uuid": "9a3224d8-d5da-45b4-aa15-92ba6e27a4cd",
+      "title": "Avocado baked with egg",
+      "itemDescription": "Avocado, chicken egg, and Parmesan cheese (270g).",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d937fbae-668d-460d-abcb-410a2886fcd6": {
+      "uuid": "d937fbae-668d-460d-abcb-410a2886fcd6",
+      "title": "Brownies with avocado and larragon saucesa",
+      "itemDescription": "130g.",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "31dd59c5-dce2-414c-b4ee-df0262960fc3": {
+      "uuid": "31dd59c5-dce2-414c-b4ee-df0262960fc3",
+      "title": "Nachos Chips Baked with Cheese ",
+      "itemDescription": "Nachos chips, mozzarella cheese, lettuce mix, cherry tomatoes, chili pepper, pesto and sweet chili sauces (200g)",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "aacf14da-a351-4aa7-9eb2-0cbbe6516f30": {
+      "uuid": "aacf14da-a351-4aa7-9eb2-0cbbe6516f30",
+      "title": "\"Burn\" energy drink",
+      "itemDescription": "250ml.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "36cd9e9d-62a1-4fb0-b2bd-86507641b11a": {
+      "uuid": "36cd9e9d-62a1-4fb0-b2bd-86507641b11a",
+      "title": "Cheese plate",
+      "itemDescription": "Parmesan, camambert, doblu, taleggio,  smiked pitail, honet walnuts, grapes, and avocados (300g).",
+      "price": 26900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "15bad9bd-5187-4a4b-ae93-f8a7c8ca4870": {
+      "uuid": "15bad9bd-5187-4a4b-ae93-f8a7c8ca4870",
+      "title": "Avocado",
+      "itemDescription": "Avocado Haas (230g)",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4c19cb04-59d9-431a-8ed3-eac9fa8f9be3": {
+      "uuid": "4c19cb04-59d9-431a-8ed3-eac9fa8f9be3",
+      "title": "Burger Pavo",
+      "itemDescription": "Turkey, cheddar cheese, sweet baked pepper, zucchini, lollo biondo, salad, dijon sauce (330g)",
+      "price": 16900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cf2959d8-ba0d-4f51-811b-44c65e971994": {
+      "uuid": "cf2959d8-ba0d-4f51-811b-44c65e971994",
+      "title": "Mamba Camembert ",
+      "itemDescription": "Veal cutlet, Camembert cheese, cherry sauce (350g)",
+      "price": 18900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f99611b7-7bf1-4428-8787-1222d0f56c4f": {
+      "uuid": "f99611b7-7bf1-4428-8787-1222d0f56c4f",
+      "title": "Cheesecake",
+      "itemDescription": "Cottage cheese, avocado, Philadelphia cheese, cherry sauce (200g)",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ae6bdc66-82ca-4b45-b4b8-35fca0ed362c": {
+      "uuid": "ae6bdc66-82ca-4b45-b4b8-35fca0ed362c",
+      "title": "Cream soup with broccoli",
+      "itemDescription": "Served with dorblu cheese, walnut, and sweet pepper (300g).",
+      "price": 10900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "1a4d2e9f-474f-485e-86fa-e2fdd7fdea80"
+      ]
+    },
+    "094c97a8-0530-45b2-9f47-81a533e8f047": {
+      "uuid": "094c97a8-0530-45b2-9f47-81a533e8f047",
+      "title": "Ribeye steak with Porto sauce",
+      "itemDescription": "300 g.",
+      "price": 39900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "715d4533-a29c-4852-84b9-52c52ada3f30"
+      ]
+    },
+    "ab3627a7-aeb4-4bae-87a7-f09757e0d00e": {
+      "uuid": "ab3627a7-aeb4-4bae-87a7-f09757e0d00e",
+      "title": "Lemonades",
+      "itemDescription": "Volume to choose 250ml/1000ml.",
+      "price": 5900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "077e8b55-d654-4211-b33c-b1cfd05c8087",
+        "9d7a8003-9e23-4e93-a4f3-3725d4ebf3b5"
+      ]
+    },
+    "16a64ea8-58db-46a8-bc9d-32ac7d38972d": {
+      "uuid": "16a64ea8-58db-46a8-bc9d-32ac7d38972d",
+      "title": "Beef Steak Burger",
+      "itemDescription": "Roast beef, roasted pepper, tomato, iceberg salad, Cheddar cheese, and bbq (420g).",
+      "price": 17900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3bd2315a-7615-48a5-8e23-9351183d4f81",
+        "0b977a35-1af4-432b-97ec-5773bdac3da6"
+      ]
+    },
+    "83f30e4f-4efe-4d7c-9561-523a3e6ea33d": {
+      "uuid": "83f30e4f-4efe-4d7c-9561-523a3e6ea33d",
+      "title": "Cranberry mors",
+      "itemDescription": "250ml.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "515269a8-9e19-4147-a101-0ad8a0dfc609"
+      ]
+    },
+    "cefef776-2a5f-4819-b712-8dbe537bec2f": {
+      "uuid": "cefef776-2a5f-4819-b712-8dbe537bec2f",
+      "title": "Filet Mignon with mashroom sauce",
+      "itemDescription": "300 g.",
+      "price": 39900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "bc97401f-eefe-4d98-bc8c-b156509276eb"
+      ]
+    },
+    "a3bb47a3-3e97-4005-ae66-d4519520b460": {
+      "uuid": "a3bb47a3-3e97-4005-ae66-d4519520b460",
+      "title": "Fresh pomegranate juice",
+      "itemDescription": "100ml.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fecab663-791b-410c-a337-001c2cac3729": {
+      "uuid": "fecab663-791b-410c-a337-001c2cac3729",
+      "title": "Cheese pudding with berry sauce",
+      "itemDescription": "Homemade cheese, sandwiches, and berries (250g).",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "beaac8ef-1f38-42fb-8ebf-cb418a86c3e7": {
+      "uuid": "beaac8ef-1f38-42fb-8ebf-cb418a86c3e7",
+      "title": "Peru Salad",
+      "itemDescription": "Avocado, mango, cherry tomatoes, mozzarella cheese, mix salad, balsamic cream, lemon dressing, chia seeds (230g)",
+      "price": 15900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "27231a85-d79d-4045-8302-af8351214a74": {
+      "uuid": "27231a85-d79d-4045-8302-af8351214a74",
+      "title": "Toasts with guacamole and benedict eggs",
+      "itemDescription": "Toast white, guacamole, egg chicken, and mix of lettuce (160g).",
+      "price": 10900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

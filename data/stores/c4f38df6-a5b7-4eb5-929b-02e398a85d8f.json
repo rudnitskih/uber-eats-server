@@ -20,512 +20,82 @@
   ],
   "sections": [
     {
-      "uuid": "29545de2-c5f2-4abc-91ba-eea8e070ebfb",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 8:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "cf08da43-133c-4ad4-9e34-ddaccbce11f3",
-        "d5d9bc1f-ba88-4be3-a6be-2bd9355c286f",
-        "58d6c858-5b19-4d98-90b8-552dd674d1c8",
-        "d74907b4-54fc-486b-adbf-d101c73b7ff9",
-        "0120ce9b-448d-4cbb-9ea0-afed41c49dbe",
-        "1ac51297-c7a6-4f2e-8d66-32b002d55a57",
-        "458413e1-633e-462d-943a-bb30c0ba3a58"
+      "uuid": "cf08da43-133c-4ad4-9e34-ddaccbce11f3",
+      "title": "Sandwiches",
+      "itemUuids": [
+        "92880e8c-23f4-4971-b8cc-da70fbeaeeb3",
+        "b66219e6-b73b-48f8-a7e9-f8e7baa14916",
+        "671514c7-6e83-4b40-8919-53e494f5cc0a",
+        "f2837f31-b1d8-4fdc-8005-63adee37c054",
+        "994198a5-22ea-4198-a6cc-3c72f8f0871c",
+        "60b43f96-fe89-4384-8f60-e9f9c479cb1f",
+        "6af2e5ad-3fd1-4802-84ac-d2b23a34eacd",
+        "89906516-2049-4630-a322-47449950a550"
+      ]
+    },
+    {
+      "uuid": "d5d9bc1f-ba88-4be3-a6be-2bd9355c286f",
+      "title": "Salads",
+      "itemUuids": [
+        "c052f362-d769-44c0-ae38-fad06af933c7",
+        "be8f1509-0c62-46a4-bc9d-cdc1e3686a8d"
+      ]
+    },
+    {
+      "uuid": "58d6c858-5b19-4d98-90b8-552dd674d1c8",
+      "title": "Smoothies",
+      "itemUuids": [
+        "59ffa0f5-4f35-4649-8b3b-b5f266c9bff3",
+        "0c772357-16b4-4f36-beeb-f66ba68def94",
+        "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b",
+        "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2",
+        "c7222b37-003c-4c79-8228-a5f622701cdc",
+        "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2"
+      ]
+    },
+    {
+      "uuid": "d74907b4-54fc-486b-adbf-d101c73b7ff9",
+      "title": "Desserts",
+      "itemUuids": [
+        "cebcf854-6b59-43ca-b5c4-306ed9304661",
+        "9358b33b-00e7-4b37-8ef2-989d7671bd67",
+        "7c84925f-0ad7-4ffa-b45e-7d3dbcdb08be",
+        "9bee19ad-f29c-464f-a0c4-55d215eca52c",
+        "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b"
+      ]
+    },
+    {
+      "uuid": "0120ce9b-448d-4cbb-9ea0-afed41c49dbe",
+      "title": "Soups",
+      "itemUuids": [
+        "663083c8-c11d-46eb-ab5c-7ad4232752f3"
+      ]
+    },
+    {
+      "uuid": "1ac51297-c7a6-4f2e-8d66-32b002d55a57",
+      "title": "Drinks",
+      "itemUuids": [
+        "cda7e1f7-af00-4bb1-9a17-39a7344d6233",
+        "d31a378a-2828-4b8c-bfaa-474504f33dce",
+        "6c29fd49-6aaf-412f-8f00-95a6d33de94d",
+        "ad2104f6-3fa3-4353-8778-6b1d1b856e07",
+        "e34b6bea-74bc-4112-8201-38adea80011f"
+      ]
+    },
+    {
+      "uuid": "458413e1-633e-462d-943a-bb30c0ba3a58",
+      "title": "Напої",
+      "itemUuids": [
+        "57b8fab3-5c59-482d-975f-5ac6bd053b76",
+        "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611",
+        "926846ab-d831-4775-b9c6-cde883faf5ac",
+        "bc578369-41eb-469a-a11a-873afc3cfcd8",
+        "bfbb38a3-151c-4bf8-8fba-c03da81dcd97",
+        "a1584a11-8d43-4445-9ff7-7501e0fbfe59",
+        "f44c9b4b-2b83-49e0-b220-99d252cd4464"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "29545de2-c5f2-4abc-91ba-eea8e070ebfb": {
-      "itemsMap": {
-        "ad2104f6-3fa3-4353-8778-6b1d1b856e07": {
-          "uuid": "ad2104f6-3fa3-4353-8778-6b1d1b856e07",
-          "title": "Basil + lemonade",
-          "itemDescription": "Basil, lemon, lime, fructose, and water.",
-          "price": 5500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/77931a16-4352-4eae-ae29-24d066bff107"
-        },
-        "cebcf854-6b59-43ca-b5c4-306ed9304661": {
-          "uuid": "cebcf854-6b59-43ca-b5c4-306ed9304661",
-          "title": "Chia + mango",
-          "itemDescription": "Mango, chia seeds, coconut milk, apple topping, lemon juice, fructose.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa6aa98d-28f7-45cb-ba2c-fbaa7d8148bb"
-        },
-        "57b8fab3-5c59-482d-975f-5ac6bd053b76": {
-          "uuid": "57b8fab3-5c59-482d-975f-5ac6bd053b76",
-          "title": "Шипшина + бодян",
-          "itemDescription": "Шипшина, бодян, фруктоза, вода.",
-          "price": 4000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee6643d6-ffdc-4725-b6f6-18db8a302494",
-          "suspendUntil": 8640000000
-        },
-        "6af2e5ad-3fd1-4802-84ac-d2b23a34eacd": {
-          "uuid": "6af2e5ad-3fd1-4802-84ac-d2b23a34eacd",
-          "title": "Smoke + nori",
-          "itemDescription": "Flat bread, nori seaweed, suluguni smoked cheese, baked paneer cheese, fresh cucumbers, ginger, sesame sauce, vegan mayonnaise.",
-          "price": 9800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b34f427e-908c-4189-8949-cb1e9cb22790",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "c052f362-d769-44c0-ae38-fad06af933c7": {
-          "uuid": "c052f362-d769-44c0-ae38-fad06af933c7",
-          "title": "Tofu + kaiso",
-          "itemDescription": "Caramelized tofu cheese, kaiso seaweed, sesame seeds, fresh cucumbers, iceberg lettuce, olive oil.",
-          "price": 7800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a764aa37-c15e-4e6f-bc28-4f854e95d4f0",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "59ffa0f5-4f35-4649-8b3b-b5f266c9bff3": {
-          "uuid": "59ffa0f5-4f35-4649-8b3b-b5f266c9bff3",
-          "title": "Vegetables + chili",
-          "itemDescription": "Cucumbers, tomatoes, spices, olive oil, parsley, celery stalk, tabasco, ginger root, lemon, water.",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ffc45c0-2899-456b-b00f-b021df2966ac"
-        },
-        "f44c9b4b-2b83-49e0-b220-99d252cd4464": {
-          "uuid": "f44c9b4b-2b83-49e0-b220-99d252cd4464",
-          "title": "Клюква+лимонад",
-          "itemDescription": "Клюква, лайм, лимон, фруктоза, вода",
-          "price": 5200,
-          "nutritionalInfo": {}
-        },
-        "60b43f96-fe89-4384-8f60-e9f9c479cb1f": {
-          "uuid": "60b43f96-fe89-4384-8f60-e9f9c479cb1f",
-          "title": "Seitan + BBQ",
-          "itemDescription": "Homemade bun, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, BBQ sauce, vegan mayonnaise.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a67a2747-019a-41d3-b2fa-f7d766e8a531",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "926846ab-d831-4775-b9c6-cde883faf5ac": {
-          "uuid": "926846ab-d831-4775-b9c6-cde883faf5ac",
-          "title": "Базилік + лимонад",
-          "itemDescription": "Базилік, лимон, лайм, фруктоза, вода.",
-          "price": 5500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/77931a16-4352-4eae-ae29-24d066bff107"
-        },
-        "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611": {
-          "uuid": "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611",
-          "title": "Імбир + лимон",
-          "itemDescription": "Корінь імбиру, сік лимонний, вода.",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/94c408b5-cbcf-4b60-a869-6a9264563eb9"
-        },
-        "9bee19ad-f29c-464f-a0c4-55d215eca52c": {
-          "uuid": "9bee19ad-f29c-464f-a0c4-55d215eca52c",
-          "title": "Coconut + milk",
-          "itemDescription": "Condensed milk, coconut shavings.",
-          "price": 2500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d3f4d723-5b6b-4430-aa91-ee32a8938329"
-        },
-        "89906516-2049-4630-a322-47449950a550": {
-          "uuid": "89906516-2049-4630-a322-47449950a550",
-          "title": "Shawarma + seitan",
-          "itemDescription": "Flat bread, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, parsley, ketchup sauce, vegan mayonnaise.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/32b91ac9-a4d5-4451-b734-4ac98c384d3b",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "7c84925f-0ad7-4ffa-b45e-7d3dbcdb08be": {
-          "uuid": "7c84925f-0ad7-4ffa-b45e-7d3dbcdb08be",
-          "title": "Nuts + caramel",
-          "itemDescription": "Shortcrust dough, hazelnuts, walnuts, condensed milk, boiled condensed milk, dry milk, carob.",
-          "price": 2500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/974c8d13-1082-4dec-b624-367ccb103533"
-        },
-        "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b": {
-          "uuid": "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b",
-          "title": "Keshew + orange",
-          "itemDescription": "Cashew, sunflower seeds, dates, orange, chia seeds, sesame, lemon.",
-          "price": 2000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0fa97c9-371d-478d-b67b-289e35ddb0ed",
-          "suspendUntil": 8640000000
-        },
-        "994198a5-22ea-4198-a6cc-3c72f8f0871c": {
-          "uuid": "994198a5-22ea-4198-a6cc-3c72f8f0871c",
-          "title": "Steak + dijon",
-          "itemDescription": "Flat bread, soy steak, pickled cucumbers, iceberg lettuce, Dijon mustard, ketchup sauce, vegan mayonnaise.",
-          "price": 7800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f312724-a664-4b4b-a7e7-dd3d4731e6c8",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "cda7e1f7-af00-4bb1-9a17-39a7344d6233": {
-          "uuid": "cda7e1f7-af00-4bb1-9a17-39a7344d6233",
-          "title": "Viburnum + raspberry",
-          "itemDescription": "Viburnum, raspberries, water.",
-          "price": 4000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d65ecac-2f1d-4626-a0dc-07d45680d9c9",
-          "suspendUntil": 8640000000
-        },
-        "663083c8-c11d-46eb-ab5c-7ad4232752f3": {
-          "uuid": "663083c8-c11d-46eb-ab5c-7ad4232752f3",
-          "title": "Soup of the day",
-          "itemDescription": "Soup of Monday - Borscht.\nSoup of Tuesday - Mushroom cream soup.\nSoup of Wednesday - Solyanka.\nSoup of Thursday - Vegetable cream soup.\nSoup of Friday - Cheese soup.\nSoup of Saturday - Lentil dahl.\nSoup of Sunday - Pumpkin cream soup.",
-          "price": 6500
-        },
-        "6c29fd49-6aaf-412f-8f00-95a6d33de94d": {
-          "uuid": "6c29fd49-6aaf-412f-8f00-95a6d33de94d",
-          "title": "Ginger + lemon",
-          "itemDescription": "Ginger root, lemon juice, water.",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1887142a-8433-48dd-92b1-128f422ab711"
-        },
-        "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2": {
-          "uuid": "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2",
-          "title": "Mango + orange",
-          "itemDescription": "Mango, orange, banana, honey, lemon, water.",
-          "price": 8000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4bc55893-c693-4de6-af89-5a1d311c48e2"
-        },
-        "f2837f31-b1d8-4fdc-8005-63adee37c054": {
-          "uuid": "f2837f31-b1d8-4fdc-8005-63adee37c054",
-          "title": "Tofu + mango",
-          "itemDescription": "Homemade bun, baked tofu cheese, fresh paprika, fresh cucumbers, fresh lettuce, mango sauce, vegan mayonnaise.",
-          "price": 8500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c7658e75-b545-4df8-a492-7d13bbc2b6f5",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "d31a378a-2828-4b8c-bfaa-474504f33dce": {
-          "uuid": "d31a378a-2828-4b8c-bfaa-474504f33dce",
-          "title": "Rosehip + aniseed",
-          "itemDescription": "Rosehip, aniseed, fructose, water.",
-          "price": 4000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/84dc384c-c4e0-4246-9a0f-97ab5377c115"
-        },
-        "9358b33b-00e7-4b37-8ef2-989d7671bd67": {
-          "uuid": "9358b33b-00e7-4b37-8ef2-989d7671bd67",
-          "title": "Coconut puff",
-          "itemDescription": "Puff pastry, coconut milk, non dairy cream, black currants, vanilla sugar, fructose.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecd26708-b48d-49ae-929b-9b9582f33926"
-        },
-        "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2": {
-          "uuid": "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2",
-          "title": "Pineapple + spirulina",
-          "itemDescription": "Pineapple, spirulina seaweed, banana, apples, ginger root, lemon, water.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd638160-4f5d-4c61-b3c2-7c662e8827ea"
-        },
-        "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b": {
-          "uuid": "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b",
-          "title": "Blueberry + pomegranate",
-          "itemDescription": "Pomegranate, blueberries, banana, apples, lemon, water.",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2494bfd9-578a-45b3-b1e7-6a1e335de82f"
-        },
-        "c7222b37-003c-4c79-8228-a5f622701cdc": {
-          "uuid": "c7222b37-003c-4c79-8228-a5f622701cdc",
-          "title": "Hemp + coconut",
-          "itemDescription": "Hemp seeds, pineapple, coconut milk, banana, honey, lemon, water.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5699585-9900-4db6-9215-0928d6b8c50e"
-        },
-        "0c772357-16b4-4f36-beeb-f66ba68def94": {
-          "uuid": "0c772357-16b4-4f36-beeb-f66ba68def94",
-          "title": "Grapefruit + pineapple",
-          "itemDescription": "Pineapple, grapefruit, apples, honey, water.",
-          "price": 7000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4945882-93d7-45ee-9213-e8f6a705dbc5"
-        },
-        "92880e8c-23f4-4971-b8cc-da70fbeaeeb3": {
-          "uuid": "92880e8c-23f4-4971-b8cc-da70fbeaeeb3",
-          "title": "Paneer + pesto",
-          "itemDescription": "Homemade bun, baked paneer cheese, tomatoes, pickled cucumbers, iceberg lettuce, pesto sauce, vegan mayonnaise.",
-          "price": 10800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc541e6d-e728-456e-a5b4-cd8fa6cef1d6",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "671514c7-6e83-4b40-8919-53e494f5cc0a": {
-          "uuid": "671514c7-6e83-4b40-8919-53e494f5cc0a",
-          "title": "Falafel + eggplant",
-          "itemDescription": "Homemade bun, baked falafel, tomatoes, baked eggplant, iceberg lettuce, ketchup sauce, vegan mayonnaise.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2daf5820-083e-4297-a813-b01b2953a172",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "bc578369-41eb-469a-a11a-873afc3cfcd8": {
-          "uuid": "bc578369-41eb-469a-a11a-873afc3cfcd8",
-          "title": "Кероб + банан",
-          "itemDescription": "Банан, кероб, молоко, фруктоза, вода.",
-          "price": 6000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/db70842a-e43d-47f8-ba8e-2d4b903aaf6b"
-        },
-        "a1584a11-8d43-4445-9ff7-7501e0fbfe59": {
-          "uuid": "a1584a11-8d43-4445-9ff7-7501e0fbfe59",
-          "title": "КЛЮКВА+ЛИМОНАД",
-          "itemDescription": "клюква\nлимон\nлайм\nфруктоза\nвода",
-          "price": 5500,
-          "nutritionalInfo": {}
-        },
-        "be8f1509-0c62-46a4-bc9d-cdc1e3686a8d": {
-          "uuid": "be8f1509-0c62-46a4-bc9d-cdc1e3686a8d",
-          "title": "Humus + vegetables",
-          "itemDescription": "Sesame seeds, chickpea, spices, sunflower oil, fresh cucumbers, lemon juice, carrots, celery stalk, cracker with sesame seeds, olive oil.",
-          "price": 6000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f9cd5be-f8b5-4d21-a3cd-83be5de2df2f",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "e34b6bea-74bc-4112-8201-38adea80011f": {
-          "uuid": "e34b6bea-74bc-4112-8201-38adea80011f",
-          "title": "Carob + banana",
-          "itemDescription": "Banana, carob, milk, fructose, and water.",
-          "price": 6000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/db70842a-e43d-47f8-ba8e-2d4b903aaf6b"
-        },
-        "b66219e6-b73b-48f8-a7e9-f8e7baa14916": {
-          "uuid": "b66219e6-b73b-48f8-a7e9-f8e7baa14916",
-          "title": "Tofu + nori",
-          "itemDescription": "Homemade bun, nori seaweed, baked tofu cheese, tomatoes, pickled cucumbers, iceberg lettuce, ginger, sesame sauce, vegan mayonnaise.",
-          "price": 8400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/822b8c3a-b323-4101-a6b4-05317bb79b3d",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "bfbb38a3-151c-4bf8-8fba-c03da81dcd97": {
-          "uuid": "bfbb38a3-151c-4bf8-8fba-c03da81dcd97",
-          "title": "Цитрус + лемонграс",
-          "itemDescription": "Лемонграс, апельсин, лайм, фруктоза, вода, лимон",
-          "price": 6500,
-          "suspendUntil": 8640000000
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "cf08da43-133c-4ad4-9e34-ddaccbce11f3",
-          "title": "Sandwiches",
-          "itemUuids": [
-            "92880e8c-23f4-4971-b8cc-da70fbeaeeb3",
-            "b66219e6-b73b-48f8-a7e9-f8e7baa14916",
-            "671514c7-6e83-4b40-8919-53e494f5cc0a",
-            "f2837f31-b1d8-4fdc-8005-63adee37c054",
-            "994198a5-22ea-4198-a6cc-3c72f8f0871c",
-            "60b43f96-fe89-4384-8f60-e9f9c479cb1f",
-            "6af2e5ad-3fd1-4802-84ac-d2b23a34eacd",
-            "89906516-2049-4630-a322-47449950a550"
-          ]
-        },
-        {
-          "uuid": "d5d9bc1f-ba88-4be3-a6be-2bd9355c286f",
-          "title": "Salads",
-          "itemUuids": [
-            "c052f362-d769-44c0-ae38-fad06af933c7",
-            "be8f1509-0c62-46a4-bc9d-cdc1e3686a8d"
-          ]
-        },
-        {
-          "uuid": "58d6c858-5b19-4d98-90b8-552dd674d1c8",
-          "title": "Smoothies",
-          "itemUuids": [
-            "59ffa0f5-4f35-4649-8b3b-b5f266c9bff3",
-            "0c772357-16b4-4f36-beeb-f66ba68def94",
-            "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b",
-            "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2",
-            "c7222b37-003c-4c79-8228-a5f622701cdc",
-            "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2"
-          ]
-        },
-        {
-          "uuid": "d74907b4-54fc-486b-adbf-d101c73b7ff9",
-          "title": "Desserts",
-          "itemUuids": [
-            "cebcf854-6b59-43ca-b5c4-306ed9304661",
-            "9358b33b-00e7-4b37-8ef2-989d7671bd67",
-            "7c84925f-0ad7-4ffa-b45e-7d3dbcdb08be",
-            "9bee19ad-f29c-464f-a0c4-55d215eca52c",
-            "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b"
-          ]
-        },
-        {
-          "uuid": "0120ce9b-448d-4cbb-9ea0-afed41c49dbe",
-          "title": "Soups",
-          "itemUuids": [
-            "663083c8-c11d-46eb-ab5c-7ad4232752f3"
-          ]
-        },
-        {
-          "uuid": "1ac51297-c7a6-4f2e-8d66-32b002d55a57",
-          "title": "Drinks",
-          "itemUuids": [
-            "cda7e1f7-af00-4bb1-9a17-39a7344d6233",
-            "d31a378a-2828-4b8c-bfaa-474504f33dce",
-            "6c29fd49-6aaf-412f-8f00-95a6d33de94d",
-            "ad2104f6-3fa3-4353-8778-6b1d1b856e07",
-            "e34b6bea-74bc-4112-8201-38adea80011f"
-          ]
-        },
-        {
-          "uuid": "458413e1-633e-462d-943a-bb30c0ba3a58",
-          "title": "Напої",
-          "itemUuids": [
-            "57b8fab3-5c59-482d-975f-5ac6bd053b76",
-            "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611",
-            "926846ab-d831-4775-b9c6-cde883faf5ac",
-            "bc578369-41eb-469a-a11a-873afc3cfcd8",
-            "bfbb38a3-151c-4bf8-8fba-c03da81dcd97",
-            "a1584a11-8d43-4445-9ff7-7501e0fbfe59",
-            "f44c9b4b-2b83-49e0-b220-99d252cd4464"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.44418727034851,
     "longitude": 30.49753181597313,
@@ -565,5 +135,414 @@
     "storeRatingScore": 4.768777614138439,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3356bf0b-4f8a-4117-92ea-d2fc4e11159a"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3356bf0b-4f8a-4117-92ea-d2fc4e11159a",
+  "items": {
+    "ad2104f6-3fa3-4353-8778-6b1d1b856e07": {
+      "uuid": "ad2104f6-3fa3-4353-8778-6b1d1b856e07",
+      "title": "Basil + lemonade",
+      "itemDescription": "Basil, lemon, lime, fructose, and water.",
+      "price": 5500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/77931a16-4352-4eae-ae29-24d066bff107"
+    },
+    "cebcf854-6b59-43ca-b5c4-306ed9304661": {
+      "uuid": "cebcf854-6b59-43ca-b5c4-306ed9304661",
+      "title": "Chia + mango",
+      "itemDescription": "Mango, chia seeds, coconut milk, apple topping, lemon juice, fructose.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa6aa98d-28f7-45cb-ba2c-fbaa7d8148bb"
+    },
+    "57b8fab3-5c59-482d-975f-5ac6bd053b76": {
+      "uuid": "57b8fab3-5c59-482d-975f-5ac6bd053b76",
+      "title": "Шипшина + бодян",
+      "itemDescription": "Шипшина, бодян, фруктоза, вода.",
+      "price": 4000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee6643d6-ffdc-4725-b6f6-18db8a302494",
+      "suspendUntil": 8640000000
+    },
+    "6af2e5ad-3fd1-4802-84ac-d2b23a34eacd": {
+      "uuid": "6af2e5ad-3fd1-4802-84ac-d2b23a34eacd",
+      "title": "Smoke + nori",
+      "itemDescription": "Flat bread, nori seaweed, suluguni smoked cheese, baked paneer cheese, fresh cucumbers, ginger, sesame sauce, vegan mayonnaise.",
+      "price": 9800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b34f427e-908c-4189-8949-cb1e9cb22790",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "c052f362-d769-44c0-ae38-fad06af933c7": {
+      "uuid": "c052f362-d769-44c0-ae38-fad06af933c7",
+      "title": "Tofu + kaiso",
+      "itemDescription": "Caramelized tofu cheese, kaiso seaweed, sesame seeds, fresh cucumbers, iceberg lettuce, olive oil.",
+      "price": 7800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a764aa37-c15e-4e6f-bc28-4f854e95d4f0",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "59ffa0f5-4f35-4649-8b3b-b5f266c9bff3": {
+      "uuid": "59ffa0f5-4f35-4649-8b3b-b5f266c9bff3",
+      "title": "Vegetables + chili",
+      "itemDescription": "Cucumbers, tomatoes, spices, olive oil, parsley, celery stalk, tabasco, ginger root, lemon, water.",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ffc45c0-2899-456b-b00f-b021df2966ac"
+    },
+    "f44c9b4b-2b83-49e0-b220-99d252cd4464": {
+      "uuid": "f44c9b4b-2b83-49e0-b220-99d252cd4464",
+      "title": "Клюква+лимонад",
+      "itemDescription": "Клюква, лайм, лимон, фруктоза, вода",
+      "price": 5200,
+      "nutritionalInfo": {}
+    },
+    "60b43f96-fe89-4384-8f60-e9f9c479cb1f": {
+      "uuid": "60b43f96-fe89-4384-8f60-e9f9c479cb1f",
+      "title": "Seitan + BBQ",
+      "itemDescription": "Homemade bun, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, BBQ sauce, vegan mayonnaise.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a67a2747-019a-41d3-b2fa-f7d766e8a531",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "926846ab-d831-4775-b9c6-cde883faf5ac": {
+      "uuid": "926846ab-d831-4775-b9c6-cde883faf5ac",
+      "title": "Базилік + лимонад",
+      "itemDescription": "Базилік, лимон, лайм, фруктоза, вода.",
+      "price": 5500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/77931a16-4352-4eae-ae29-24d066bff107"
+    },
+    "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611": {
+      "uuid": "c0bf8e9b-3bb7-4e9d-a63e-e9c98932e611",
+      "title": "Імбир + лимон",
+      "itemDescription": "Корінь імбиру, сік лимонний, вода.",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/94c408b5-cbcf-4b60-a869-6a9264563eb9"
+    },
+    "9bee19ad-f29c-464f-a0c4-55d215eca52c": {
+      "uuid": "9bee19ad-f29c-464f-a0c4-55d215eca52c",
+      "title": "Coconut + milk",
+      "itemDescription": "Condensed milk, coconut shavings.",
+      "price": 2500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d3f4d723-5b6b-4430-aa91-ee32a8938329"
+    },
+    "89906516-2049-4630-a322-47449950a550": {
+      "uuid": "89906516-2049-4630-a322-47449950a550",
+      "title": "Shawarma + seitan",
+      "itemDescription": "Flat bread, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, parsley, ketchup sauce, vegan mayonnaise.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/32b91ac9-a4d5-4451-b734-4ac98c384d3b",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "7c84925f-0ad7-4ffa-b45e-7d3dbcdb08be": {
+      "uuid": "7c84925f-0ad7-4ffa-b45e-7d3dbcdb08be",
+      "title": "Nuts + caramel",
+      "itemDescription": "Shortcrust dough, hazelnuts, walnuts, condensed milk, boiled condensed milk, dry milk, carob.",
+      "price": 2500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/974c8d13-1082-4dec-b624-367ccb103533"
+    },
+    "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b": {
+      "uuid": "cb8e0643-7ad2-47ef-a3d2-7bb44e85b54b",
+      "title": "Keshew + orange",
+      "itemDescription": "Cashew, sunflower seeds, dates, orange, chia seeds, sesame, lemon.",
+      "price": 2000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0fa97c9-371d-478d-b67b-289e35ddb0ed",
+      "suspendUntil": 8640000000
+    },
+    "994198a5-22ea-4198-a6cc-3c72f8f0871c": {
+      "uuid": "994198a5-22ea-4198-a6cc-3c72f8f0871c",
+      "title": "Steak + dijon",
+      "itemDescription": "Flat bread, soy steak, pickled cucumbers, iceberg lettuce, Dijon mustard, ketchup sauce, vegan mayonnaise.",
+      "price": 7800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f312724-a664-4b4b-a7e7-dd3d4731e6c8",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "cda7e1f7-af00-4bb1-9a17-39a7344d6233": {
+      "uuid": "cda7e1f7-af00-4bb1-9a17-39a7344d6233",
+      "title": "Viburnum + raspberry",
+      "itemDescription": "Viburnum, raspberries, water.",
+      "price": 4000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d65ecac-2f1d-4626-a0dc-07d45680d9c9",
+      "suspendUntil": 8640000000
+    },
+    "663083c8-c11d-46eb-ab5c-7ad4232752f3": {
+      "uuid": "663083c8-c11d-46eb-ab5c-7ad4232752f3",
+      "title": "Soup of the day",
+      "itemDescription": "Soup of Monday - Borscht.\nSoup of Tuesday - Mushroom cream soup.\nSoup of Wednesday - Solyanka.\nSoup of Thursday - Vegetable cream soup.\nSoup of Friday - Cheese soup.\nSoup of Saturday - Lentil dahl.\nSoup of Sunday - Pumpkin cream soup.",
+      "price": 6500
+    },
+    "6c29fd49-6aaf-412f-8f00-95a6d33de94d": {
+      "uuid": "6c29fd49-6aaf-412f-8f00-95a6d33de94d",
+      "title": "Ginger + lemon",
+      "itemDescription": "Ginger root, lemon juice, water.",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1887142a-8433-48dd-92b1-128f422ab711"
+    },
+    "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2": {
+      "uuid": "23f4459b-9ccc-41bc-b8b8-5bbb72b0c1c2",
+      "title": "Mango + orange",
+      "itemDescription": "Mango, orange, banana, honey, lemon, water.",
+      "price": 8000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4bc55893-c693-4de6-af89-5a1d311c48e2"
+    },
+    "f2837f31-b1d8-4fdc-8005-63adee37c054": {
+      "uuid": "f2837f31-b1d8-4fdc-8005-63adee37c054",
+      "title": "Tofu + mango",
+      "itemDescription": "Homemade bun, baked tofu cheese, fresh paprika, fresh cucumbers, fresh lettuce, mango sauce, vegan mayonnaise.",
+      "price": 8500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c7658e75-b545-4df8-a492-7d13bbc2b6f5",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "d31a378a-2828-4b8c-bfaa-474504f33dce": {
+      "uuid": "d31a378a-2828-4b8c-bfaa-474504f33dce",
+      "title": "Rosehip + aniseed",
+      "itemDescription": "Rosehip, aniseed, fructose, water.",
+      "price": 4000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/84dc384c-c4e0-4246-9a0f-97ab5377c115"
+    },
+    "9358b33b-00e7-4b37-8ef2-989d7671bd67": {
+      "uuid": "9358b33b-00e7-4b37-8ef2-989d7671bd67",
+      "title": "Coconut puff",
+      "itemDescription": "Puff pastry, coconut milk, non dairy cream, black currants, vanilla sugar, fructose.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecd26708-b48d-49ae-929b-9b9582f33926"
+    },
+    "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2": {
+      "uuid": "1e970d1e-662f-4c3d-a3eb-75dd0d2b5bf2",
+      "title": "Pineapple + spirulina",
+      "itemDescription": "Pineapple, spirulina seaweed, banana, apples, ginger root, lemon, water.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd638160-4f5d-4c61-b3c2-7c662e8827ea"
+    },
+    "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b": {
+      "uuid": "d2b2ea22-0472-40d5-a4e4-0c2dade8d62b",
+      "title": "Blueberry + pomegranate",
+      "itemDescription": "Pomegranate, blueberries, banana, apples, lemon, water.",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2494bfd9-578a-45b3-b1e7-6a1e335de82f"
+    },
+    "c7222b37-003c-4c79-8228-a5f622701cdc": {
+      "uuid": "c7222b37-003c-4c79-8228-a5f622701cdc",
+      "title": "Hemp + coconut",
+      "itemDescription": "Hemp seeds, pineapple, coconut milk, banana, honey, lemon, water.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5699585-9900-4db6-9215-0928d6b8c50e"
+    },
+    "0c772357-16b4-4f36-beeb-f66ba68def94": {
+      "uuid": "0c772357-16b4-4f36-beeb-f66ba68def94",
+      "title": "Grapefruit + pineapple",
+      "itemDescription": "Pineapple, grapefruit, apples, honey, water.",
+      "price": 7000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4945882-93d7-45ee-9213-e8f6a705dbc5"
+    },
+    "92880e8c-23f4-4971-b8cc-da70fbeaeeb3": {
+      "uuid": "92880e8c-23f4-4971-b8cc-da70fbeaeeb3",
+      "title": "Paneer + pesto",
+      "itemDescription": "Homemade bun, baked paneer cheese, tomatoes, pickled cucumbers, iceberg lettuce, pesto sauce, vegan mayonnaise.",
+      "price": 10800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc541e6d-e728-456e-a5b4-cd8fa6cef1d6",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "671514c7-6e83-4b40-8919-53e494f5cc0a": {
+      "uuid": "671514c7-6e83-4b40-8919-53e494f5cc0a",
+      "title": "Falafel + eggplant",
+      "itemDescription": "Homemade bun, baked falafel, tomatoes, baked eggplant, iceberg lettuce, ketchup sauce, vegan mayonnaise.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2daf5820-083e-4297-a813-b01b2953a172",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "bc578369-41eb-469a-a11a-873afc3cfcd8": {
+      "uuid": "bc578369-41eb-469a-a11a-873afc3cfcd8",
+      "title": "Кероб + банан",
+      "itemDescription": "Банан, кероб, молоко, фруктоза, вода.",
+      "price": 6000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/db70842a-e43d-47f8-ba8e-2d4b903aaf6b"
+    },
+    "a1584a11-8d43-4445-9ff7-7501e0fbfe59": {
+      "uuid": "a1584a11-8d43-4445-9ff7-7501e0fbfe59",
+      "title": "КЛЮКВА+ЛИМОНАД",
+      "itemDescription": "клюква\nлимон\nлайм\nфруктоза\nвода",
+      "price": 5500,
+      "nutritionalInfo": {}
+    },
+    "be8f1509-0c62-46a4-bc9d-cdc1e3686a8d": {
+      "uuid": "be8f1509-0c62-46a4-bc9d-cdc1e3686a8d",
+      "title": "Humus + vegetables",
+      "itemDescription": "Sesame seeds, chickpea, spices, sunflower oil, fresh cucumbers, lemon juice, carrots, celery stalk, cracker with sesame seeds, olive oil.",
+      "price": 6000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f9cd5be-f8b5-4d21-a3cd-83be5de2df2f",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "e34b6bea-74bc-4112-8201-38adea80011f": {
+      "uuid": "e34b6bea-74bc-4112-8201-38adea80011f",
+      "title": "Carob + banana",
+      "itemDescription": "Banana, carob, milk, fructose, and water.",
+      "price": 6000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/db70842a-e43d-47f8-ba8e-2d4b903aaf6b"
+    },
+    "b66219e6-b73b-48f8-a7e9-f8e7baa14916": {
+      "uuid": "b66219e6-b73b-48f8-a7e9-f8e7baa14916",
+      "title": "Tofu + nori",
+      "itemDescription": "Homemade bun, nori seaweed, baked tofu cheese, tomatoes, pickled cucumbers, iceberg lettuce, ginger, sesame sauce, vegan mayonnaise.",
+      "price": 8400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/822b8c3a-b323-4101-a6b4-05317bb79b3d",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "bfbb38a3-151c-4bf8-8fba-c03da81dcd97": {
+      "uuid": "bfbb38a3-151c-4bf8-8fba-c03da81dcd97",
+      "title": "Цитрус + лемонграс",
+      "itemDescription": "Лемонграс, апельсин, лайм, фруктоза, вода, лимон",
+      "price": 6500,
+      "suspendUntil": 8640000000
+    }
+  }
 }

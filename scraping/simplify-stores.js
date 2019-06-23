@@ -17,9 +17,12 @@ fs.readdir(dirname, function (err, filenames) {
 });
 
 function processFile(filePath, data) {
-  Object.values(data.sectionEntitiesMap)[0].decoratedSubsections.forEach((decoratedSubsection) => {
-    delete decoratedSubsection.displayItems;
-  });
+  const root = Object.values(data.sectionEntitiesMap)[0];
+
+  data.sections = root.decoratedSubsections;
+  data.items = root.itemsMap;
+
+  delete data.sectionEntitiesMap;
 
   const rawdata = JSON.stringify({...data}, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {

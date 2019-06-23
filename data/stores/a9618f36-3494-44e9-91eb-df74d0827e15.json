@@ -15,633 +15,96 @@
   ],
   "sections": [
     {
-      "uuid": "5ec89689-d86f-4845-823e-bbba76e9eed5",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "11:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "b5ede657-4c1b-467d-bac7-294cc7503907",
-        "e310c637-1c64-4cb6-acc9-e87ae4088812",
-        "69fb64e1-9156-4dc1-adc2-2d45fbeffe3b",
-        "ff3c870a-32d5-4df1-b435-11f98d88e771",
-        "679d0779-77ee-48af-a48e-c3a392ef097e",
-        "a1cc4558-591d-4160-a319-43c3bf70988f",
-        "bae8a997-db22-4c50-9f55-2761d5f424da"
+      "uuid": "b5ede657-4c1b-467d-bac7-294cc7503907",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "ecdd609e-40c8-4dda-abd5-636cbeb7f67e",
+        "535f3e08-d63a-4ac8-b217-9dbd5c157e0a",
+        "29cd46e4-cb1a-4924-8b68-322fac10f277",
+        "1f21e387-5bb2-45ca-9227-5d24780093f0",
+        "64ea0f91-26ba-4c7f-890f-8763f2aec671",
+        "4c687a2d-57c3-4f61-b8eb-38d6cc84254a"
+      ]
+    },
+    {
+      "uuid": "e310c637-1c64-4cb6-acc9-e87ae4088812",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "6e32229e-63c3-41b0-8833-48be8f0d9e5a",
+        "7c33ed1f-c0d0-436c-984e-4a2e35bb56a5",
+        "960f0126-d2cb-4ab3-a210-768f96389042",
+        "b13c3e81-0d43-409f-9d67-8e8e6fb3a71a",
+        "9044be40-063d-4643-aaec-2bf0c6a8a762",
+        "12a0d353-12f0-45bc-8a84-9e51d7b2b3bb",
+        "81c5d015-a712-41da-b554-b6878ca5ad20"
+      ]
+    },
+    {
+      "uuid": "69fb64e1-9156-4dc1-adc2-2d45fbeffe3b",
+      "title": "Nems",
+      "subtitle": "",
+      "itemUuids": [
+        "c06e0622-8762-48d6-b26a-5af30b392411",
+        "562a0a88-28a5-4abe-972b-ef20c35de607",
+        "1427f0f4-8426-481b-977f-7b9b63164c66",
+        "8595cfd0-da88-4035-9362-7a7a42d49e9b"
+      ]
+    },
+    {
+      "uuid": "ff3c870a-32d5-4df1-b435-11f98d88e771",
+      "title": "Spring rolls",
+      "subtitle": "",
+      "itemUuids": [
+        "cfe68253-5cef-44ab-a108-e1c482dcfc4c",
+        "6fb07f96-3096-4509-a9b9-734cb6e5dd3d",
+        "f14904ce-8409-4eb2-82ce-df57cc8d13a5",
+        "b5b7f868-4ec5-4312-99a0-50e0ed4ce256"
+      ]
+    },
+    {
+      "uuid": "679d0779-77ee-48af-a48e-c3a392ef097e",
+      "title": "Hot dishes",
+      "subtitle": "",
+      "itemUuids": [
+        "c0d01a04-7684-4675-a76d-f890238c751d",
+        "96f8ff94-de9a-40f6-b1db-e01c0e157804",
+        "55a91c73-3c54-4831-aabc-0bd196827665",
+        "df927ca3-59c2-45c2-a2da-0ed9e6d4a838",
+        "63f2a9cf-de25-4e7d-86b9-119a70452d65",
+        "5906e3a6-8d7d-46b6-a28e-a12e004ad29c",
+        "a3b4a3ed-8432-476b-8980-0c318fa202f9",
+        "08897f1e-7cac-4ac4-bfe1-b96c1c18ec64",
+        "9767078b-8da8-4e65-9133-47e071074fd1"
+      ]
+    },
+    {
+      "uuid": "a1cc4558-591d-4160-a319-43c3bf70988f",
+      "title": "WOK",
+      "subtitle": "",
+      "itemUuids": [
+        "bb835c82-36f9-488b-9d16-59bf3685be7d",
+        "a36b2a69-b75c-4978-a5c6-3b3ec6e2da34",
+        "ec4ab727-2cb1-48f5-9ae4-8c0b37699f22",
+        "cf16541b-c5e0-4445-bc5f-da822c88bd8f",
+        "7379b491-0e65-44ba-a8ad-2ade3ec6ea7b",
+        "747c1478-0a55-4b67-bd69-e25c508ccd5e",
+        "93605a75-9272-4d6f-bb37-545dd206991e"
+      ]
+    },
+    {
+      "uuid": "bae8a997-db22-4c50-9f55-2761d5f424da",
+      "title": "Desserts",
+      "subtitle": "",
+      "itemUuids": [
+        "1da027a9-3e91-42c0-901a-bf79d8ba93e6",
+        "28f6a467-7bd9-4cd3-9a9f-dd5a2bff88a0",
+        "9a5025f6-4e70-47dc-bcdf-76756c82b4f3",
+        "cd98d864-a502-4af5-9f90-7847c4f552ef"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "5ec89689-d86f-4845-823e-bbba76e9eed5": {
-      "itemsMap": {
-        "93605a75-9272-4d6f-bb37-545dd206991e": {
-          "uuid": "93605a75-9272-4d6f-bb37-545dd206991e",
-          "title": "Glass noodles with pork",
-          "itemDescription": "280 g.",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4c687a2d-57c3-4f61-b8eb-38d6cc84254a": {
-          "uuid": "4c687a2d-57c3-4f61-b8eb-38d6cc84254a",
-          "title": "Banh Bao",
-          "itemDescription": "Steamed bun with filling (200g).",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/dce114ba-b95e-4ba8-81dc-fe6b59d2230b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9044be40-063d-4643-aaec-2bf0c6a8a762": {
-          "uuid": "9044be40-063d-4643-aaec-2bf0c6a8a762",
-          "title": "Salad with beef, and mango",
-          "itemDescription": "250g.",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4406695c-6117-4ff6-ab9a-bc80b6181947",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "5906e3a6-8d7d-46b6-a28e-a12e004ad29c": {
-          "uuid": "5906e3a6-8d7d-46b6-a28e-a12e004ad29c",
-          "title": "Pork meatballs with rice vermicelli",
-          "itemDescription": "200/100 g.",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "535f3e08-d63a-4ac8-b217-9dbd5c157e0a": {
-          "uuid": "535f3e08-d63a-4ac8-b217-9dbd5c157e0a",
-          "title": "Pho Ga / Pho Ga XXL",
-          "itemDescription": "Soup with chicken, and rice noodles (450/700g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f295dd54-ae27-43d0-9aff-73382d8ea29d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
-          ]
-        },
-        "b5b7f868-4ec5-4312-99a0-50e0ed4ce256": {
-          "uuid": "b5b7f868-4ec5-4312-99a0-50e0ed4ce256",
-          "title": "Spring roll with beef, and mango",
-          "itemDescription": "120/20g.",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc772c87-b127-4c05-9ac8-714ff3fc958f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cd98d864-a502-4af5-9f90-7847c4f552ef": {
-          "uuid": "cd98d864-a502-4af5-9f90-7847c4f552ef",
-          "title": "Fried banana nem ",
-          "itemDescription": "160 g.",
-          "price": 7900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9a5025f6-4e70-47dc-bcdf-76756c82b4f3": {
-          "uuid": "9a5025f6-4e70-47dc-bcdf-76756c82b4f3",
-          "title": "Cheesecake",
-          "itemDescription": "120g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "9767078b-8da8-4e65-9133-47e071074fd1": {
-          "uuid": "9767078b-8da8-4e65-9133-47e071074fd1",
-          "title": "Plain rice",
-          "itemDescription": "120 g.",
-          "price": 3000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a3b4a3ed-8432-476b-8980-0c318fa202f9": {
-          "uuid": "a3b4a3ed-8432-476b-8980-0c318fa202f9",
-          "title": "Rice with chicken curry",
-          "itemDescription": "200/100 g.",
-          "price": 14900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ec4ab727-2cb1-48f5-9ae4-8c0b37699f22": {
-          "uuid": "ec4ab727-2cb1-48f5-9ae4-8c0b37699f22",
-          "title": "Rice noodles with vegetables",
-          "itemDescription": "280g.",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f21f59dc-f560-4d1d-8bd1-3b4f546896ea",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6fb07f96-3096-4509-a9b9-734cb6e5dd3d": {
-          "uuid": "6fb07f96-3096-4509-a9b9-734cb6e5dd3d",
-          "title": "Spring roll with prawns",
-          "itemDescription": "120/20g.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e04accdb-ab6b-4219-bdec-9b0da2e56424",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cf16541b-c5e0-4445-bc5f-da822c88bd8f": {
-          "uuid": "cf16541b-c5e0-4445-bc5f-da822c88bd8f",
-          "title": "Rice with prawns",
-          "itemDescription": "300g.",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7f3f3c1c-6e92-47ea-8fc1-a6e6743a3efd",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ecdd609e-40c8-4dda-abd5-636cbeb7f67e": {
-          "uuid": "ecdd609e-40c8-4dda-abd5-636cbeb7f67e",
-          "title": "Pho Bo / Pho Bo XXL",
-          "itemDescription": "Soup with beef, and rice noodles (450/700g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/65080c35-b255-4133-a9bd-32693487694d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
-          ]
-        },
-        "81c5d015-a712-41da-b554-b6878ca5ad20": {
-          "uuid": "81c5d015-a712-41da-b554-b6878ca5ad20",
-          "title": "Salad with tiger prawns and citrus sauce",
-          "itemDescription": "200 g.",
-          "price": 0,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cfe68253-5cef-44ab-a108-e1c482dcfc4c": {
-          "uuid": "cfe68253-5cef-44ab-a108-e1c482dcfc4c",
-          "title": "Spring roll with chicken",
-          "itemDescription": "120/20g.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/39b74139-661f-49b6-a2fb-4b06d7ecc501",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7c33ed1f-c0d0-436c-984e-4a2e35bb56a5": {
-          "uuid": "7c33ed1f-c0d0-436c-984e-4a2e35bb56a5",
-          "title": "Salad with fried chicken",
-          "itemDescription": "200g.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e9f0fee-cbca-49bb-bf50-779e278bef9f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "28f6a467-7bd9-4cd3-9a9f-dd5a2bff88a0": {
-          "uuid": "28f6a467-7bd9-4cd3-9a9f-dd5a2bff88a0",
-          "title": "Coconut chia pudding with fruits",
-          "itemDescription": "160g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "63f2a9cf-de25-4e7d-86b9-119a70452d65": {
-          "uuid": "63f2a9cf-de25-4e7d-86b9-119a70452d65",
-          "title": "Tiger prawns in Tempura",
-          "itemDescription": "150/50g.",
-          "price": 21900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "64ea0f91-26ba-4c7f-890f-8763f2aec671": {
-          "uuid": "64ea0f91-26ba-4c7f-890f-8763f2aec671",
-          "title": "Spicy soup with prawns, and ginger",
-          "itemDescription": "Size to choose (450/700g).",
-          "price": 16900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fdd82b77-7a82-44a7-b6ea-d01afaace250",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "b6db34dd-1b8c-4808-be5c-f21441d260cc"
-          ]
-        },
-        "08897f1e-7cac-4ac4-bfe1-b96c1c18ec64": {
-          "uuid": "08897f1e-7cac-4ac4-bfe1-b96c1c18ec64",
-          "title": "Saute with seafood",
-          "itemDescription": "300/150 g.",
-          "price": 27900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "29cd46e4-cb1a-4924-8b68-322fac10f277": {
-          "uuid": "29cd46e4-cb1a-4924-8b68-322fac10f277",
-          "title": "Vegan Pho",
-          "itemDescription": "Size to choose (450/700g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/21ce60a2-d820-4324-9ffc-f29dd753fefe",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
-          ]
-        },
-        "f14904ce-8409-4eb2-82ce-df57cc8d13a5": {
-          "uuid": "f14904ce-8409-4eb2-82ce-df57cc8d13a5",
-          "title": "Spring roll with Tofu cheese",
-          "itemDescription": "120/20g.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/da40c5fb-b264-4a4a-968c-e38f4f08a38f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "747c1478-0a55-4b67-bd69-e25c508ccd5e": {
-          "uuid": "747c1478-0a55-4b67-bd69-e25c508ccd5e",
-          "title": "Fried soy beans with noodles, and Tofu",
-          "itemDescription": "150/100g.",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac1d7d58-f419-4d97-841d-c8a469453b3b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7379b491-0e65-44ba-a8ad-2ade3ec6ea7b": {
-          "uuid": "7379b491-0e65-44ba-a8ad-2ade3ec6ea7b",
-          "title": "Beef with vegetables",
-          "itemDescription": "180/120g.",
-          "price": 15900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d0b25d2-1f0f-4656-b4e2-4e7756a3dfa4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "12a0d353-12f0-45bc-8a84-9e51d7b2b3bb": {
-          "uuid": "12a0d353-12f0-45bc-8a84-9e51d7b2b3bb",
-          "title": "Seafood salad",
-          "itemDescription": "200 g.",
-          "price": 0,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "8595cfd0-da88-4035-9362-7a7a42d49e9b": {
-          "uuid": "8595cfd0-da88-4035-9362-7a7a42d49e9b",
-          "title": "Nem with seafood mix",
-          "itemDescription": "100/20g.",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1427f0f4-8426-481b-977f-7b9b63164c66": {
-          "uuid": "1427f0f4-8426-481b-977f-7b9b63164c66",
-          "title": "Nem with shiitake",
-          "itemDescription": "100/20g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6e32229e-63c3-41b0-8833-48be8f0d9e5a": {
-          "uuid": "6e32229e-63c3-41b0-8833-48be8f0d9e5a",
-          "title": "Salad with marinated beef",
-          "itemDescription": "190g.",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/79fa00c7-8474-48a7-bbb6-60e99e870fa3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bb835c82-36f9-488b-9d16-59bf3685be7d": {
-          "uuid": "bb835c82-36f9-488b-9d16-59bf3685be7d",
-          "title": "Rice noodles with beef, and vegetables",
-          "itemDescription": "280g.",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e382b2e0-53d4-4d7c-8cdc-fd00c4e684e7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "960f0126-d2cb-4ab3-a210-768f96389042": {
-          "uuid": "960f0126-d2cb-4ab3-a210-768f96389042",
-          "title": "Salad with mix of mushrooms",
-          "itemDescription": "195g.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/88a0a45d-fd5a-4dc7-b982-3a99f2c7e8e0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1f21e387-5bb2-45ca-9227-5d24780093f0": {
-          "uuid": "1f21e387-5bb2-45ca-9227-5d24780093f0",
-          "title": "Coconut soup with chicken, and mushrooms",
-          "itemDescription": "Size to choose (450/700g).",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e68871d8-5cf8-44f7-abf4-31a90e16b1bc",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
-          ]
-        },
-        "1da027a9-3e91-42c0-901a-bf79d8ba93e6": {
-          "uuid": "1da027a9-3e91-42c0-901a-bf79d8ba93e6",
-          "title": "Coco Stone / Mango Stone",
-          "itemDescription": "160g.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfc09de9-7525-4629-bd7c-b24b44939447",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "ab6ed9d1-1bc1-4a36-863e-e2deb104c29d"
-          ]
-        },
-        "c06e0622-8762-48d6-b26a-5af30b392411": {
-          "uuid": "c06e0622-8762-48d6-b26a-5af30b392411",
-          "title": "Nem with pork",
-          "itemDescription": "100/20g.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2e8b8bfc-80fc-4b4b-8ea6-10593a8ede43",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c0d01a04-7684-4675-a76d-f890238c751d": {
-          "uuid": "c0d01a04-7684-4675-a76d-f890238c751d",
-          "title": "Tiger prawns with mango in tilok zia sauce",
-          "itemDescription": "100/50g.",
-          "price": 21900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "96f8ff94-de9a-40f6-b1db-e01c0e157804": {
-          "uuid": "96f8ff94-de9a-40f6-b1db-e01c0e157804",
-          "title": "Perch fillet with vegetables in nuoc сham sauce",
-          "itemDescription": "350/120g.",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/28d745db-baee-4a35-a77d-8b8aeb638268",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "df927ca3-59c2-45c2-a2da-0ed9e6d4a838": {
-          "uuid": "df927ca3-59c2-45c2-a2da-0ed9e6d4a838",
-          "title": "Chicken wings in Vietnamese sauce",
-          "itemDescription": "250/120g.",
-          "price": 13900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b13c3e81-0d43-409f-9d67-8e8e6fb3a71a": {
-          "uuid": "b13c3e81-0d43-409f-9d67-8e8e6fb3a71a",
-          "title": "Salad with lychee, and mango sauce",
-          "itemDescription": "200g.",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/068b1410-c169-49e3-b7fc-1fce39231fca",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "562a0a88-28a5-4abe-972b-ef20c35de607": {
-          "uuid": "562a0a88-28a5-4abe-972b-ef20c35de607",
-          "title": "Nem with chicken, and prawns",
-          "itemDescription": "100/20g.",
-          "price": 8900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a36b2a69-b75c-4978-a5c6-3b3ec6e2da34": {
-          "uuid": "a36b2a69-b75c-4978-a5c6-3b3ec6e2da34",
-          "title": "Rice noodles with chicken, and prawns",
-          "itemDescription": "280g.",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/52058305-708d-4ae1-8ed5-f2f09f31acb4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "55a91c73-3c54-4831-aabc-0bd196827665": {
-          "uuid": "55a91c73-3c54-4831-aabc-0bd196827665",
-          "title": "Glazed pork ribs",
-          "itemDescription": "250/120g.",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9848b54-3809-4a28-8e9e-3860c9b86ea8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "b5ede657-4c1b-467d-bac7-294cc7503907",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "ecdd609e-40c8-4dda-abd5-636cbeb7f67e",
-            "535f3e08-d63a-4ac8-b217-9dbd5c157e0a",
-            "29cd46e4-cb1a-4924-8b68-322fac10f277",
-            "1f21e387-5bb2-45ca-9227-5d24780093f0",
-            "64ea0f91-26ba-4c7f-890f-8763f2aec671",
-            "4c687a2d-57c3-4f61-b8eb-38d6cc84254a"
-          ]
-        },
-        {
-          "uuid": "e310c637-1c64-4cb6-acc9-e87ae4088812",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "6e32229e-63c3-41b0-8833-48be8f0d9e5a",
-            "7c33ed1f-c0d0-436c-984e-4a2e35bb56a5",
-            "960f0126-d2cb-4ab3-a210-768f96389042",
-            "b13c3e81-0d43-409f-9d67-8e8e6fb3a71a",
-            "9044be40-063d-4643-aaec-2bf0c6a8a762",
-            "12a0d353-12f0-45bc-8a84-9e51d7b2b3bb",
-            "81c5d015-a712-41da-b554-b6878ca5ad20"
-          ]
-        },
-        {
-          "uuid": "69fb64e1-9156-4dc1-adc2-2d45fbeffe3b",
-          "title": "Nems",
-          "subtitle": "",
-          "itemUuids": [
-            "c06e0622-8762-48d6-b26a-5af30b392411",
-            "562a0a88-28a5-4abe-972b-ef20c35de607",
-            "1427f0f4-8426-481b-977f-7b9b63164c66",
-            "8595cfd0-da88-4035-9362-7a7a42d49e9b"
-          ]
-        },
-        {
-          "uuid": "ff3c870a-32d5-4df1-b435-11f98d88e771",
-          "title": "Spring rolls",
-          "subtitle": "",
-          "itemUuids": [
-            "cfe68253-5cef-44ab-a108-e1c482dcfc4c",
-            "6fb07f96-3096-4509-a9b9-734cb6e5dd3d",
-            "f14904ce-8409-4eb2-82ce-df57cc8d13a5",
-            "b5b7f868-4ec5-4312-99a0-50e0ed4ce256"
-          ]
-        },
-        {
-          "uuid": "679d0779-77ee-48af-a48e-c3a392ef097e",
-          "title": "Hot dishes",
-          "subtitle": "",
-          "itemUuids": [
-            "c0d01a04-7684-4675-a76d-f890238c751d",
-            "96f8ff94-de9a-40f6-b1db-e01c0e157804",
-            "55a91c73-3c54-4831-aabc-0bd196827665",
-            "df927ca3-59c2-45c2-a2da-0ed9e6d4a838",
-            "63f2a9cf-de25-4e7d-86b9-119a70452d65",
-            "5906e3a6-8d7d-46b6-a28e-a12e004ad29c",
-            "a3b4a3ed-8432-476b-8980-0c318fa202f9",
-            "08897f1e-7cac-4ac4-bfe1-b96c1c18ec64",
-            "9767078b-8da8-4e65-9133-47e071074fd1"
-          ]
-        },
-        {
-          "uuid": "a1cc4558-591d-4160-a319-43c3bf70988f",
-          "title": "WOK",
-          "subtitle": "",
-          "itemUuids": [
-            "bb835c82-36f9-488b-9d16-59bf3685be7d",
-            "a36b2a69-b75c-4978-a5c6-3b3ec6e2da34",
-            "ec4ab727-2cb1-48f5-9ae4-8c0b37699f22",
-            "cf16541b-c5e0-4445-bc5f-da822c88bd8f",
-            "7379b491-0e65-44ba-a8ad-2ade3ec6ea7b",
-            "747c1478-0a55-4b67-bd69-e25c508ccd5e",
-            "93605a75-9272-4d6f-bb37-545dd206991e"
-          ]
-        },
-        {
-          "uuid": "bae8a997-db22-4c50-9f55-2761d5f424da",
-          "title": "Desserts",
-          "subtitle": "",
-          "itemUuids": [
-            "1da027a9-3e91-42c0-901a-bf79d8ba93e6",
-            "28f6a467-7bd9-4cd3-9a9f-dd5a2bff88a0",
-            "9a5025f6-4e70-47dc-bcdf-76756c82b4f3",
-            "cd98d864-a502-4af5-9f90-7847c4f552ef"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4294014,
     "longitude": 30.5156605,
@@ -686,5 +149,521 @@
     "storeRatingScore": 4.619230769230769,
     "ratingCount": "260"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/50d289e2-1c31-4cc6-90d5-fce64d59de3e"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/50d289e2-1c31-4cc6-90d5-fce64d59de3e",
+  "items": {
+    "93605a75-9272-4d6f-bb37-545dd206991e": {
+      "uuid": "93605a75-9272-4d6f-bb37-545dd206991e",
+      "title": "Glass noodles with pork",
+      "itemDescription": "280 g.",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4c687a2d-57c3-4f61-b8eb-38d6cc84254a": {
+      "uuid": "4c687a2d-57c3-4f61-b8eb-38d6cc84254a",
+      "title": "Banh Bao",
+      "itemDescription": "Steamed bun with filling (200g).",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/dce114ba-b95e-4ba8-81dc-fe6b59d2230b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9044be40-063d-4643-aaec-2bf0c6a8a762": {
+      "uuid": "9044be40-063d-4643-aaec-2bf0c6a8a762",
+      "title": "Salad with beef, and mango",
+      "itemDescription": "250g.",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4406695c-6117-4ff6-ab9a-bc80b6181947",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "5906e3a6-8d7d-46b6-a28e-a12e004ad29c": {
+      "uuid": "5906e3a6-8d7d-46b6-a28e-a12e004ad29c",
+      "title": "Pork meatballs with rice vermicelli",
+      "itemDescription": "200/100 g.",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "535f3e08-d63a-4ac8-b217-9dbd5c157e0a": {
+      "uuid": "535f3e08-d63a-4ac8-b217-9dbd5c157e0a",
+      "title": "Pho Ga / Pho Ga XXL",
+      "itemDescription": "Soup with chicken, and rice noodles (450/700g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f295dd54-ae27-43d0-9aff-73382d8ea29d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
+      ]
+    },
+    "b5b7f868-4ec5-4312-99a0-50e0ed4ce256": {
+      "uuid": "b5b7f868-4ec5-4312-99a0-50e0ed4ce256",
+      "title": "Spring roll with beef, and mango",
+      "itemDescription": "120/20g.",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc772c87-b127-4c05-9ac8-714ff3fc958f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cd98d864-a502-4af5-9f90-7847c4f552ef": {
+      "uuid": "cd98d864-a502-4af5-9f90-7847c4f552ef",
+      "title": "Fried banana nem ",
+      "itemDescription": "160 g.",
+      "price": 7900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9a5025f6-4e70-47dc-bcdf-76756c82b4f3": {
+      "uuid": "9a5025f6-4e70-47dc-bcdf-76756c82b4f3",
+      "title": "Cheesecake",
+      "itemDescription": "120g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "9767078b-8da8-4e65-9133-47e071074fd1": {
+      "uuid": "9767078b-8da8-4e65-9133-47e071074fd1",
+      "title": "Plain rice",
+      "itemDescription": "120 g.",
+      "price": 3000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a3b4a3ed-8432-476b-8980-0c318fa202f9": {
+      "uuid": "a3b4a3ed-8432-476b-8980-0c318fa202f9",
+      "title": "Rice with chicken curry",
+      "itemDescription": "200/100 g.",
+      "price": 14900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ec4ab727-2cb1-48f5-9ae4-8c0b37699f22": {
+      "uuid": "ec4ab727-2cb1-48f5-9ae4-8c0b37699f22",
+      "title": "Rice noodles with vegetables",
+      "itemDescription": "280g.",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f21f59dc-f560-4d1d-8bd1-3b4f546896ea",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6fb07f96-3096-4509-a9b9-734cb6e5dd3d": {
+      "uuid": "6fb07f96-3096-4509-a9b9-734cb6e5dd3d",
+      "title": "Spring roll with prawns",
+      "itemDescription": "120/20g.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e04accdb-ab6b-4219-bdec-9b0da2e56424",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cf16541b-c5e0-4445-bc5f-da822c88bd8f": {
+      "uuid": "cf16541b-c5e0-4445-bc5f-da822c88bd8f",
+      "title": "Rice with prawns",
+      "itemDescription": "300g.",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7f3f3c1c-6e92-47ea-8fc1-a6e6743a3efd",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ecdd609e-40c8-4dda-abd5-636cbeb7f67e": {
+      "uuid": "ecdd609e-40c8-4dda-abd5-636cbeb7f67e",
+      "title": "Pho Bo / Pho Bo XXL",
+      "itemDescription": "Soup with beef, and rice noodles (450/700g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/65080c35-b255-4133-a9bd-32693487694d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
+      ]
+    },
+    "81c5d015-a712-41da-b554-b6878ca5ad20": {
+      "uuid": "81c5d015-a712-41da-b554-b6878ca5ad20",
+      "title": "Salad with tiger prawns and citrus sauce",
+      "itemDescription": "200 g.",
+      "price": 0,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cfe68253-5cef-44ab-a108-e1c482dcfc4c": {
+      "uuid": "cfe68253-5cef-44ab-a108-e1c482dcfc4c",
+      "title": "Spring roll with chicken",
+      "itemDescription": "120/20g.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/39b74139-661f-49b6-a2fb-4b06d7ecc501",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7c33ed1f-c0d0-436c-984e-4a2e35bb56a5": {
+      "uuid": "7c33ed1f-c0d0-436c-984e-4a2e35bb56a5",
+      "title": "Salad with fried chicken",
+      "itemDescription": "200g.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e9f0fee-cbca-49bb-bf50-779e278bef9f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "28f6a467-7bd9-4cd3-9a9f-dd5a2bff88a0": {
+      "uuid": "28f6a467-7bd9-4cd3-9a9f-dd5a2bff88a0",
+      "title": "Coconut chia pudding with fruits",
+      "itemDescription": "160g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "63f2a9cf-de25-4e7d-86b9-119a70452d65": {
+      "uuid": "63f2a9cf-de25-4e7d-86b9-119a70452d65",
+      "title": "Tiger prawns in Tempura",
+      "itemDescription": "150/50g.",
+      "price": 21900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "64ea0f91-26ba-4c7f-890f-8763f2aec671": {
+      "uuid": "64ea0f91-26ba-4c7f-890f-8763f2aec671",
+      "title": "Spicy soup with prawns, and ginger",
+      "itemDescription": "Size to choose (450/700g).",
+      "price": 16900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fdd82b77-7a82-44a7-b6ea-d01afaace250",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "b6db34dd-1b8c-4808-be5c-f21441d260cc"
+      ]
+    },
+    "08897f1e-7cac-4ac4-bfe1-b96c1c18ec64": {
+      "uuid": "08897f1e-7cac-4ac4-bfe1-b96c1c18ec64",
+      "title": "Saute with seafood",
+      "itemDescription": "300/150 g.",
+      "price": 27900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "29cd46e4-cb1a-4924-8b68-322fac10f277": {
+      "uuid": "29cd46e4-cb1a-4924-8b68-322fac10f277",
+      "title": "Vegan Pho",
+      "itemDescription": "Size to choose (450/700g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/21ce60a2-d820-4324-9ffc-f29dd753fefe",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
+      ]
+    },
+    "f14904ce-8409-4eb2-82ce-df57cc8d13a5": {
+      "uuid": "f14904ce-8409-4eb2-82ce-df57cc8d13a5",
+      "title": "Spring roll with Tofu cheese",
+      "itemDescription": "120/20g.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/da40c5fb-b264-4a4a-968c-e38f4f08a38f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "747c1478-0a55-4b67-bd69-e25c508ccd5e": {
+      "uuid": "747c1478-0a55-4b67-bd69-e25c508ccd5e",
+      "title": "Fried soy beans with noodles, and Tofu",
+      "itemDescription": "150/100g.",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac1d7d58-f419-4d97-841d-c8a469453b3b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7379b491-0e65-44ba-a8ad-2ade3ec6ea7b": {
+      "uuid": "7379b491-0e65-44ba-a8ad-2ade3ec6ea7b",
+      "title": "Beef with vegetables",
+      "itemDescription": "180/120g.",
+      "price": 15900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d0b25d2-1f0f-4656-b4e2-4e7756a3dfa4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "12a0d353-12f0-45bc-8a84-9e51d7b2b3bb": {
+      "uuid": "12a0d353-12f0-45bc-8a84-9e51d7b2b3bb",
+      "title": "Seafood salad",
+      "itemDescription": "200 g.",
+      "price": 0,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "8595cfd0-da88-4035-9362-7a7a42d49e9b": {
+      "uuid": "8595cfd0-da88-4035-9362-7a7a42d49e9b",
+      "title": "Nem with seafood mix",
+      "itemDescription": "100/20g.",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1427f0f4-8426-481b-977f-7b9b63164c66": {
+      "uuid": "1427f0f4-8426-481b-977f-7b9b63164c66",
+      "title": "Nem with shiitake",
+      "itemDescription": "100/20g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6e32229e-63c3-41b0-8833-48be8f0d9e5a": {
+      "uuid": "6e32229e-63c3-41b0-8833-48be8f0d9e5a",
+      "title": "Salad with marinated beef",
+      "itemDescription": "190g.",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/79fa00c7-8474-48a7-bbb6-60e99e870fa3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bb835c82-36f9-488b-9d16-59bf3685be7d": {
+      "uuid": "bb835c82-36f9-488b-9d16-59bf3685be7d",
+      "title": "Rice noodles with beef, and vegetables",
+      "itemDescription": "280g.",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e382b2e0-53d4-4d7c-8cdc-fd00c4e684e7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "960f0126-d2cb-4ab3-a210-768f96389042": {
+      "uuid": "960f0126-d2cb-4ab3-a210-768f96389042",
+      "title": "Salad with mix of mushrooms",
+      "itemDescription": "195g.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/88a0a45d-fd5a-4dc7-b982-3a99f2c7e8e0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1f21e387-5bb2-45ca-9227-5d24780093f0": {
+      "uuid": "1f21e387-5bb2-45ca-9227-5d24780093f0",
+      "title": "Coconut soup with chicken, and mushrooms",
+      "itemDescription": "Size to choose (450/700g).",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e68871d8-5cf8-44f7-abf4-31a90e16b1bc",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "5b9389ff-48fe-41ad-b5e1-95110cdcb172"
+      ]
+    },
+    "1da027a9-3e91-42c0-901a-bf79d8ba93e6": {
+      "uuid": "1da027a9-3e91-42c0-901a-bf79d8ba93e6",
+      "title": "Coco Stone / Mango Stone",
+      "itemDescription": "160g.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfc09de9-7525-4629-bd7c-b24b44939447",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "ab6ed9d1-1bc1-4a36-863e-e2deb104c29d"
+      ]
+    },
+    "c06e0622-8762-48d6-b26a-5af30b392411": {
+      "uuid": "c06e0622-8762-48d6-b26a-5af30b392411",
+      "title": "Nem with pork",
+      "itemDescription": "100/20g.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2e8b8bfc-80fc-4b4b-8ea6-10593a8ede43",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c0d01a04-7684-4675-a76d-f890238c751d": {
+      "uuid": "c0d01a04-7684-4675-a76d-f890238c751d",
+      "title": "Tiger prawns with mango in tilok zia sauce",
+      "itemDescription": "100/50g.",
+      "price": 21900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "96f8ff94-de9a-40f6-b1db-e01c0e157804": {
+      "uuid": "96f8ff94-de9a-40f6-b1db-e01c0e157804",
+      "title": "Perch fillet with vegetables in nuoc сham sauce",
+      "itemDescription": "350/120g.",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/28d745db-baee-4a35-a77d-8b8aeb638268",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "df927ca3-59c2-45c2-a2da-0ed9e6d4a838": {
+      "uuid": "df927ca3-59c2-45c2-a2da-0ed9e6d4a838",
+      "title": "Chicken wings in Vietnamese sauce",
+      "itemDescription": "250/120g.",
+      "price": 13900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b13c3e81-0d43-409f-9d67-8e8e6fb3a71a": {
+      "uuid": "b13c3e81-0d43-409f-9d67-8e8e6fb3a71a",
+      "title": "Salad with lychee, and mango sauce",
+      "itemDescription": "200g.",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/068b1410-c169-49e3-b7fc-1fce39231fca",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "562a0a88-28a5-4abe-972b-ef20c35de607": {
+      "uuid": "562a0a88-28a5-4abe-972b-ef20c35de607",
+      "title": "Nem with chicken, and prawns",
+      "itemDescription": "100/20g.",
+      "price": 8900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a36b2a69-b75c-4978-a5c6-3b3ec6e2da34": {
+      "uuid": "a36b2a69-b75c-4978-a5c6-3b3ec6e2da34",
+      "title": "Rice noodles with chicken, and prawns",
+      "itemDescription": "280g.",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/52058305-708d-4ae1-8ed5-f2f09f31acb4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "55a91c73-3c54-4831-aabc-0bd196827665": {
+      "uuid": "55a91c73-3c54-4831-aabc-0bd196827665",
+      "title": "Glazed pork ribs",
+      "itemDescription": "250/120g.",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9848b54-3809-4a28-8e9e-3860c9b86ea8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

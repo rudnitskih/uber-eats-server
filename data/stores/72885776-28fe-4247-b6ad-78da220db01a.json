@@ -10,204 +10,52 @@
   ],
   "sections": [
     {
-      "uuid": "4dbd8426-6b79-4823-b523-0aa3ab0904e7",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "11:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "97f8fb3e-1cee-4764-9b1a-100b1f0eba85",
-        "6410a7bd-d48a-43d5-a6f5-5a7cf5844f80",
-        "e3a9c38c-1610-4fac-b8f8-56456481f9de",
-        "987fe94e-4fe5-4ca9-a6a6-8247e47ca6e6",
-        "da5ee4bc-88e6-4d6b-9fa7-b5ae31250aeb"
+      "uuid": "97f8fb3e-1cee-4764-9b1a-100b1f0eba85",
+      "title": "Soups",
+      "itemUuids": [
+        "5881e158-ce14-49d3-9911-cd28eb0b2e08",
+        "51dd0e17-6904-43e9-87c9-207aadb5024e",
+        "48d946b7-d1e4-441f-a6d2-562b6c90cb2c"
+      ]
+    },
+    {
+      "uuid": "6410a7bd-d48a-43d5-a6f5-5a7cf5844f80",
+      "title": "Noodles",
+      "itemUuids": [
+        "6bcbcf45-235f-40b9-b261-db0a2b1acf6e",
+        "dd2fb410-f6e6-41cd-b900-8ce60f66d8ab",
+        "61ca1b5c-3007-424d-8342-8e6575ce29fa",
+        "d18f54d8-feae-4226-af18-c7cd5bcfd1ab"
+      ]
+    },
+    {
+      "uuid": "e3a9c38c-1610-4fac-b8f8-56456481f9de",
+      "title": "Pancakes",
+      "itemUuids": [
+        "b138cd54-220e-4951-9361-0cf265516706",
+        "5ebc3061-90ca-4c9f-a79a-047e2336309c",
+        "3a47f86e-d6c6-44eb-b6f8-accc689b0b0c"
+      ]
+    },
+    {
+      "uuid": "987fe94e-4fe5-4ca9-a6a6-8247e47ca6e6",
+      "title": "Snacks",
+      "itemUuids": [
+        "d25edf5b-a6c7-438b-bb4d-08e872d6439c",
+        "9065c8da-1498-4101-92a9-0865e5eb7098",
+        "a689fa94-5e30-47f4-a1fa-8224fa0b91e9",
+        "d3060624-ac98-4146-8588-b45ad0a66aef"
+      ]
+    },
+    {
+      "uuid": "da5ee4bc-88e6-4d6b-9fa7-b5ae31250aeb",
+      "title": "Beverages",
+      "itemUuids": [
+        "ab1217f6-fcba-4c92-b7bd-e3e19cc3e7a3",
+        "329ad338-cb88-47f0-8c8a-fea62c62510e"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "4dbd8426-6b79-4823-b523-0aa3ab0904e7": {
-      "itemsMap": {
-        "3a47f86e-d6c6-44eb-b6f8-accc689b0b0c": {
-          "uuid": "3a47f86e-d6c6-44eb-b6f8-accc689b0b0c",
-          "title": "Ban Kuon",
-          "itemDescription": "Steam-cooked rice pancakes with ground pork. Served with soy sprouts, cucumber straws, Vietnamese herbs and cilantro (200 g).",
-          "price": 9900
-        },
-        "6bcbcf45-235f-40b9-b261-db0a2b1acf6e": {
-          "uuid": "6bcbcf45-235f-40b9-b261-db0a2b1acf6e",
-          "title": "Noodle & Meat Salad",
-          "itemDescription": "This salad is a combination of rice noodles with spicy veal, carrots, cucumber, soy sprouts, and Vietnamese greens. Served with a sauce (270 g).",
-          "price": 8900
-        },
-        "dd2fb410-f6e6-41cd-b900-8ce60f66d8ab": {
-          "uuid": "dd2fb410-f6e6-41cd-b900-8ce60f66d8ab",
-          "title": "Noodle & Sweet Chicken",
-          "itemDescription": "Salad with rice noodles, sweet chicken, seasonal vegetables, and Vietnamese herbs. Served with a sauce (270 g).",
-          "price": 8900
-        },
-        "329ad338-cb88-47f0-8c8a-fea62c62510e": {
-          "uuid": "329ad338-cb88-47f0-8c8a-fea62c62510e",
-          "title": "Vietnamese lemonade",
-          "itemDescription": "330 ml.",
-          "price": 6500
-        },
-        "61ca1b5c-3007-424d-8342-8e6575ce29fa": {
-          "uuid": "61ca1b5c-3007-424d-8342-8e6575ce29fa",
-          "title": "Noodle & Tofu",
-          "itemDescription": "Rice noodles with tofu in oyster sauce with muer and shiitake mushrooms, three kinds of sweet pepper, celery, and leek. Delicious with soy sauce (300 g).",
-          "price": 11900
-        },
-        "a689fa94-5e30-47f4-a1fa-8224fa0b91e9": {
-          "uuid": "a689fa94-5e30-47f4-a1fa-8224fa0b91e9",
-          "title": "Chip Gao",
-          "itemDescription": "Vietnamese rice chips (50 g).",
-          "price": 3900
-        },
-        "9065c8da-1498-4101-92a9-0865e5eb7098": {
-          "uuid": "9065c8da-1498-4101-92a9-0865e5eb7098",
-          "title": "Tofu Spring Rolls",
-          "itemDescription": "Homemade tofu, cucumber, carrot straws, roasted peanuts, Vietnamese greens and mint in rice paper. Served with a sauce (160 g).",
-          "price": 9900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "d18f54d8-feae-4226-af18-c7cd5bcfd1ab": {
-          "uuid": "d18f54d8-feae-4226-af18-c7cd5bcfd1ab",
-          "title": "Noodles with Chicken",
-          "itemDescription": "Rice noodles with chicken in oyster sauce with muer and shiitake mushrooms, three kinds of sweet pepper, celery, and leek. Delicious with spicy sauce (300 g).",
-          "price": 11900
-        },
-        "ab1217f6-fcba-4c92-b7bd-e3e19cc3e7a3": {
-          "uuid": "ab1217f6-fcba-4c92-b7bd-e3e19cc3e7a3",
-          "title": "Water",
-          "itemDescription": "330 ml.",
-          "price": 3500,
-          "customizationUuids": [
-            "ab7b04c5-7f3d-4c59-ae42-9617626bc82a"
-          ]
-        },
-        "51dd0e17-6904-43e9-87c9-207aadb5024e": {
-          "uuid": "51dd0e17-6904-43e9-87c9-207aadb5024e",
-          "title": "Pho Ga",
-          "itemDescription": "Rich meat broth, served with rice noodles, chicken fillet, soy sprouts, cilantro, chili pepper, and a slice of lemon (700 ml). ",
-          "price": 11900
-        },
-        "48d946b7-d1e4-441f-a6d2-562b6c90cb2c": {
-          "uuid": "48d946b7-d1e4-441f-a6d2-562b6c90cb2c",
-          "title": "Bun Chay",
-          "itemDescription": "Rich vegetable and mushroom broth with ginger and rice noodles with cane sugar, muer mushrooms, tofu, cilantro, and pineapple pieces (700 ml).",
-          "price": 11900,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "d3060624-ac98-4146-8588-b45ad0a66aef": {
-          "uuid": "d3060624-ac98-4146-8588-b45ad0a66aef",
-          "title": "Shrimp Spring Rolls",
-          "itemDescription": "",
-          "price": 11900
-        },
-        "d25edf5b-a6c7-438b-bb4d-08e872d6439c": {
-          "uuid": "d25edf5b-a6c7-438b-bb4d-08e872d6439c",
-          "title": "Banh Bao",
-          "itemDescription": "Steam-cooked bun with ground pork inside, quail egg, carrots, muer and shiitake mushrooms, cellophane noodles. Served warm (180 g).",
-          "price": 5900
-        },
-        "5ebc3061-90ca-4c9f-a79a-047e2336309c": {
-          "uuid": "5ebc3061-90ca-4c9f-a79a-047e2336309c",
-          "title": "Nem Lem",
-          "itemDescription": "Steam-cooked rice pancakes with ground pork. Served with soy sprouts, cucumber straws, Vietnamese herbs and cilantro (150 g).",
-          "price": 8900
-        },
-        "b138cd54-220e-4951-9361-0cf265516706": {
-          "uuid": "b138cd54-220e-4951-9361-0cf265516706",
-          "title": "Fried Chicken Nems",
-          "itemDescription": "Pancakes in rice paper, ground chicken thigh inside, shiitake mushrooms, cellophane noodles, carrots. Deep-fried. Served with a sauce (150 g).",
-          "price": 8900
-        },
-        "5881e158-ce14-49d3-9911-cd28eb0b2e08": {
-          "uuid": "5881e158-ce14-49d3-9911-cd28eb0b2e08",
-          "title": "Pho Bo",
-          "itemDescription": "Rich meat broth, served with rice noodles, beef, soy sprouts, cilantro, chili pepper, and a slice of lemon. (700 ml).",
-          "price": 11900
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "97f8fb3e-1cee-4764-9b1a-100b1f0eba85",
-          "title": "Soups",
-          "itemUuids": [
-            "5881e158-ce14-49d3-9911-cd28eb0b2e08",
-            "51dd0e17-6904-43e9-87c9-207aadb5024e",
-            "48d946b7-d1e4-441f-a6d2-562b6c90cb2c"
-          ]
-        },
-        {
-          "uuid": "6410a7bd-d48a-43d5-a6f5-5a7cf5844f80",
-          "title": "Noodles",
-          "itemUuids": [
-            "6bcbcf45-235f-40b9-b261-db0a2b1acf6e",
-            "dd2fb410-f6e6-41cd-b900-8ce60f66d8ab",
-            "61ca1b5c-3007-424d-8342-8e6575ce29fa",
-            "d18f54d8-feae-4226-af18-c7cd5bcfd1ab"
-          ]
-        },
-        {
-          "uuid": "e3a9c38c-1610-4fac-b8f8-56456481f9de",
-          "title": "Pancakes",
-          "itemUuids": [
-            "b138cd54-220e-4951-9361-0cf265516706",
-            "5ebc3061-90ca-4c9f-a79a-047e2336309c",
-            "3a47f86e-d6c6-44eb-b6f8-accc689b0b0c"
-          ]
-        },
-        {
-          "uuid": "987fe94e-4fe5-4ca9-a6a6-8247e47ca6e6",
-          "title": "Snacks",
-          "itemUuids": [
-            "d25edf5b-a6c7-438b-bb4d-08e872d6439c",
-            "9065c8da-1498-4101-92a9-0865e5eb7098",
-            "a689fa94-5e30-47f4-a1fa-8224fa0b91e9",
-            "d3060624-ac98-4146-8588-b45ad0a66aef"
-          ]
-        },
-        {
-          "uuid": "da5ee4bc-88e6-4d6b-9fa7-b5ae31250aeb",
-          "title": "Beverages",
-          "itemUuids": [
-            "ab1217f6-fcba-4c92-b7bd-e3e19cc3e7a3",
-            "329ad338-cb88-47f0-8c8a-fea62c62510e"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.45545699999999,
     "longitude": 30.511433,
@@ -241,5 +89,138 @@
     "storeRatingScore": 4.707865168539326,
     "ratingCount": "178"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/e5cd2026-8596-4e2e-8374-c12eed0ae8f1"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/e5cd2026-8596-4e2e-8374-c12eed0ae8f1",
+  "items": {
+    "3a47f86e-d6c6-44eb-b6f8-accc689b0b0c": {
+      "uuid": "3a47f86e-d6c6-44eb-b6f8-accc689b0b0c",
+      "title": "Ban Kuon",
+      "itemDescription": "Steam-cooked rice pancakes with ground pork. Served with soy sprouts, cucumber straws, Vietnamese herbs and cilantro (200 g).",
+      "price": 9900
+    },
+    "6bcbcf45-235f-40b9-b261-db0a2b1acf6e": {
+      "uuid": "6bcbcf45-235f-40b9-b261-db0a2b1acf6e",
+      "title": "Noodle & Meat Salad",
+      "itemDescription": "This salad is a combination of rice noodles with spicy veal, carrots, cucumber, soy sprouts, and Vietnamese greens. Served with a sauce (270 g).",
+      "price": 8900
+    },
+    "dd2fb410-f6e6-41cd-b900-8ce60f66d8ab": {
+      "uuid": "dd2fb410-f6e6-41cd-b900-8ce60f66d8ab",
+      "title": "Noodle & Sweet Chicken",
+      "itemDescription": "Salad with rice noodles, sweet chicken, seasonal vegetables, and Vietnamese herbs. Served with a sauce (270 g).",
+      "price": 8900
+    },
+    "329ad338-cb88-47f0-8c8a-fea62c62510e": {
+      "uuid": "329ad338-cb88-47f0-8c8a-fea62c62510e",
+      "title": "Vietnamese lemonade",
+      "itemDescription": "330 ml.",
+      "price": 6500
+    },
+    "61ca1b5c-3007-424d-8342-8e6575ce29fa": {
+      "uuid": "61ca1b5c-3007-424d-8342-8e6575ce29fa",
+      "title": "Noodle & Tofu",
+      "itemDescription": "Rice noodles with tofu in oyster sauce with muer and shiitake mushrooms, three kinds of sweet pepper, celery, and leek. Delicious with soy sauce (300 g).",
+      "price": 11900
+    },
+    "a689fa94-5e30-47f4-a1fa-8224fa0b91e9": {
+      "uuid": "a689fa94-5e30-47f4-a1fa-8224fa0b91e9",
+      "title": "Chip Gao",
+      "itemDescription": "Vietnamese rice chips (50 g).",
+      "price": 3900
+    },
+    "9065c8da-1498-4101-92a9-0865e5eb7098": {
+      "uuid": "9065c8da-1498-4101-92a9-0865e5eb7098",
+      "title": "Tofu Spring Rolls",
+      "itemDescription": "Homemade tofu, cucumber, carrot straws, roasted peanuts, Vietnamese greens and mint in rice paper. Served with a sauce (160 g).",
+      "price": 9900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "d18f54d8-feae-4226-af18-c7cd5bcfd1ab": {
+      "uuid": "d18f54d8-feae-4226-af18-c7cd5bcfd1ab",
+      "title": "Noodles with Chicken",
+      "itemDescription": "Rice noodles with chicken in oyster sauce with muer and shiitake mushrooms, three kinds of sweet pepper, celery, and leek. Delicious with spicy sauce (300 g).",
+      "price": 11900
+    },
+    "ab1217f6-fcba-4c92-b7bd-e3e19cc3e7a3": {
+      "uuid": "ab1217f6-fcba-4c92-b7bd-e3e19cc3e7a3",
+      "title": "Water",
+      "itemDescription": "330 ml.",
+      "price": 3500,
+      "customizationUuids": [
+        "ab7b04c5-7f3d-4c59-ae42-9617626bc82a"
+      ]
+    },
+    "51dd0e17-6904-43e9-87c9-207aadb5024e": {
+      "uuid": "51dd0e17-6904-43e9-87c9-207aadb5024e",
+      "title": "Pho Ga",
+      "itemDescription": "Rich meat broth, served with rice noodles, chicken fillet, soy sprouts, cilantro, chili pepper, and a slice of lemon (700 ml). ",
+      "price": 11900
+    },
+    "48d946b7-d1e4-441f-a6d2-562b6c90cb2c": {
+      "uuid": "48d946b7-d1e4-441f-a6d2-562b6c90cb2c",
+      "title": "Bun Chay",
+      "itemDescription": "Rich vegetable and mushroom broth with ginger and rice noodles with cane sugar, muer mushrooms, tofu, cilantro, and pineapple pieces (700 ml).",
+      "price": 11900,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "d3060624-ac98-4146-8588-b45ad0a66aef": {
+      "uuid": "d3060624-ac98-4146-8588-b45ad0a66aef",
+      "title": "Shrimp Spring Rolls",
+      "itemDescription": "",
+      "price": 11900
+    },
+    "d25edf5b-a6c7-438b-bb4d-08e872d6439c": {
+      "uuid": "d25edf5b-a6c7-438b-bb4d-08e872d6439c",
+      "title": "Banh Bao",
+      "itemDescription": "Steam-cooked bun with ground pork inside, quail egg, carrots, muer and shiitake mushrooms, cellophane noodles. Served warm (180 g).",
+      "price": 5900
+    },
+    "5ebc3061-90ca-4c9f-a79a-047e2336309c": {
+      "uuid": "5ebc3061-90ca-4c9f-a79a-047e2336309c",
+      "title": "Nem Lem",
+      "itemDescription": "Steam-cooked rice pancakes with ground pork. Served with soy sprouts, cucumber straws, Vietnamese herbs and cilantro (150 g).",
+      "price": 8900
+    },
+    "b138cd54-220e-4951-9361-0cf265516706": {
+      "uuid": "b138cd54-220e-4951-9361-0cf265516706",
+      "title": "Fried Chicken Nems",
+      "itemDescription": "Pancakes in rice paper, ground chicken thigh inside, shiitake mushrooms, cellophane noodles, carrots. Deep-fried. Served with a sauce (150 g).",
+      "price": 8900
+    },
+    "5881e158-ce14-49d3-9911-cd28eb0b2e08": {
+      "uuid": "5881e158-ce14-49d3-9911-cd28eb0b2e08",
+      "title": "Pho Bo",
+      "itemDescription": "Rich meat broth, served with rice noodles, beef, soy sprouts, cilantro, chili pepper, and a slice of lemon. (700 ml).",
+      "price": 11900
+    }
+  }
 }

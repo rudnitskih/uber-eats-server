@@ -20,1478 +20,197 @@
   ],
   "sections": [
     {
-      "uuid": "7813060d-eef6-43ef-82d6-ffb07181e386",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "c1c58d43-3f8a-4c5a-a8dc-b4e8b323c8b6",
-        "0b107595-4304-4b84-ace3-5af3365d1c22",
-        "9b811fd4-1206-4091-bd01-1d20307ace86",
-        "2753228d-4352-4c0d-b9c0-52df9bff10ef",
-        "7fa260b0-9c30-4b1a-a1a3-ebdca703fde9",
-        "c6d632b9-2c1c-4f97-93e0-580b5cae0f73",
-        "97db0845-bea3-4aa5-8c7e-7547b83bc9b0",
-        "8199a7bc-3608-4c27-8ac2-b5ebb52006c6",
-        "052282e5-61f2-4bb9-9eab-28dabf424a77",
-        "a2b51d78-e2b5-4324-a258-251ba567a3ea",
-        "e84378e8-d20f-4700-b7d0-7089fd1ba1cf",
-        "dc33a38f-74bf-4bdd-b51f-6e225c36c8b8",
-        "458fa4b2-520d-43be-83c5-d88ac5520df7",
-        "90885719-7224-4fc2-bc0a-bf7439147cf7"
+      "uuid": "c1c58d43-3f8a-4c5a-a8dc-b4e8b323c8b6",
+      "title": "Popular ",
+      "subtitle": "",
+      "itemUuids": [
+        "810e603a-2bb5-49e5-a227-a2dd1dba0097",
+        "1c811307-9b58-4e4e-a2b0-4e0cdef29f82",
+        "3947a904-4b56-4935-bd1f-e96c7b1ab105",
+        "df1b29b6-0964-4f40-bc16-bf59b821e50f",
+        "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5",
+        "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc",
+        "f357757c-1ee8-4ab3-a48c-10a3de93e554",
+        "9d4200af-6145-4b39-baec-8cc6716736cb",
+        "86330225-2e9f-49c3-bebd-b71683a9c6aa"
+      ]
+    },
+    {
+      "uuid": "0b107595-4304-4b84-ace3-5af3365d1c22",
+      "title": "Pizza",
+      "subtitle": "",
+      "itemUuids": [
+        "2d11c962-b906-45d7-8130-de2e70ec7d61",
+        "369ee9b9-e61f-40be-920d-ce9e5a21d6ff",
+        "a4b51c11-b8be-4ae9-8e9e-9980a041fee1",
+        "4ea8cee5-394b-4f1c-a3ff-816760586406",
+        "b16bffec-cd36-47db-8e19-106082c90137",
+        "df1b29b6-0964-4f40-bc16-bf59b821e50f",
+        "3947a904-4b56-4935-bd1f-e96c7b1ab105",
+        "adc926b7-3af1-4673-804e-8cfccff21bfd",
+        "ff38554e-0a4c-45d2-85cc-1245ed58beab",
+        "810e603a-2bb5-49e5-a227-a2dd1dba0097",
+        "235e5b36-282b-4e8b-bfe4-cbe004d1a986",
+        "1c811307-9b58-4e4e-a2b0-4e0cdef29f82"
+      ]
+    },
+    {
+      "uuid": "9b811fd4-1206-4091-bd01-1d20307ace86",
+      "title": "Burgers",
+      "subtitle": "",
+      "itemUuids": [
+        "f6666843-58a7-4841-a10d-55bd8d5aa261",
+        "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc"
+      ]
+    },
+    {
+      "uuid": "2753228d-4352-4c0d-b9c0-52df9bff10ef",
+      "title": "Grill menu",
+      "subtitle": "",
+      "itemUuids": [
+        "e2d133ee-f885-4592-91fb-33c176e8dbe0",
+        "a15e4126-66ef-4f57-8530-15f69cefed58",
+        "30627567-d84d-4152-a115-f06a266af008",
+        "6e913b8e-e861-422a-8376-c2ca91ac9d7b",
+        "328f0d6a-faba-413e-9353-97b5ac171e8e",
+        "2d31d0e4-74be-46bf-b412-af518ba4d961",
+        "7db19258-8407-4162-a9b7-bf59dd18e17b",
+        "ad1a08bc-6c94-4a84-954b-3c64de2f1452",
+        "1908ee60-b5ca-4aaf-a2a4-8f85a6d91f61",
+        "06f07e29-db39-4ac7-9219-90570c3219f8",
+        "1f71ceea-ea1c-4604-b786-21e911058eb4",
+        "7dcf2029-c537-4c71-aefa-814b285a5997",
+        "9c8cda67-409f-4ea5-a6d8-298ffda2077f"
+      ]
+    },
+    {
+      "uuid": "7fa260b0-9c30-4b1a-a1a3-ebdca703fde9",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "8abb2105-18a5-4038-a45f-dec84d42e30d",
+        "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5",
+        "2491d7e0-8a26-4ff0-bb42-677e90f1dafb",
+        "b4e6bcbb-1a75-4c8e-883d-f112fd0cae75",
+        "39841ca5-2348-4c1c-87f8-66033f284913",
+        "459323f1-5040-43ac-8865-f71e48ca5019",
+        "3b4ee92d-f861-4335-bea3-ee363a14dca6"
+      ]
+    },
+    {
+      "uuid": "c6d632b9-2c1c-4f97-93e0-580b5cae0f73",
+      "title": "Pasta",
+      "subtitle": "",
+      "itemUuids": [
+        "9d4200af-6145-4b39-baec-8cc6716736cb",
+        "0c033089-c0e5-4e6a-ae80-17fb9beb77c2",
+        "ff7017d0-420e-44d9-8446-9486d261651a",
+        "a82d1bda-b7de-476f-b92c-5b1a9de6c69e",
+        "9293ae22-5544-4a29-8e4a-7c0df078151b",
+        "1b6b4d18-5b80-4fcd-a237-a62eddd0363c",
+        "a97c9874-bc8c-423d-9b36-af9f3942f9fe"
+      ]
+    },
+    {
+      "uuid": "97db0845-bea3-4aa5-8c7e-7547b83bc9b0",
+      "title": "Hot dishes",
+      "subtitle": "",
+      "itemUuids": [
+        "f357757c-1ee8-4ab3-a48c-10a3de93e554",
+        "0d3367db-a63c-4d9e-9455-60dc55a2f0eb",
+        "91da2331-425a-41ea-956e-081814322510",
+        "358d27c0-ace4-401b-8059-a7b3f1c67192",
+        "f3fed504-18af-4ed4-b833-4fb948e14149",
+        "b0aba512-0433-453f-bcdd-5b6f3d6eb74f",
+        "0cff0faf-6a70-4993-8773-95562802a633",
+        "3dd58fe7-ff43-42dc-a3f8-b2c30e9ebf4e",
+        "1314e832-2859-4a2f-848f-3bb1472f3ed5"
+      ]
+    },
+    {
+      "uuid": "8199a7bc-3608-4c27-8ac2-b5ebb52006c6",
+      "title": "Ravioli",
+      "subtitle": "",
+      "itemUuids": [
+        "8140d1e8-5466-4be7-960d-777baaf97b91",
+        "74d11acc-b967-4127-ab12-5566d589ade4"
+      ]
+    },
+    {
+      "uuid": "052282e5-61f2-4bb9-9eab-28dabf424a77",
+      "title": "Risotto",
+      "subtitle": "",
+      "itemUuids": [
+        "8031589c-311b-46bf-9fea-a6f5810b1443",
+        "2b514b3e-3cd9-49ee-9b23-d9f384fe1540"
+      ]
+    },
+    {
+      "uuid": "a2b51d78-e2b5-4324-a258-251ba567a3ea",
+      "title": "Garnish",
+      "subtitle": "",
+      "itemUuids": [
+        "42c1538f-e6c2-45b1-afad-73a87fd8dcec",
+        "b929aee4-f5c0-47bc-baa1-297456b2ef3a",
+        "ba6e5e7f-b75e-4b9d-b2e6-474e194045ef"
+      ]
+    },
+    {
+      "uuid": "e84378e8-d20f-4700-b7d0-7089fd1ba1cf",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "c29a53db-f459-4658-8ab0-7dbe16698bde",
+        "86330225-2e9f-49c3-bebd-b71683a9c6aa",
+        "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1",
+        "14a5c365-a372-4605-8908-f7c2d1ecd0da",
+        "55fed16d-fc4e-4fff-a97f-f9689fe44531"
+      ]
+    },
+    {
+      "uuid": "dc33a38f-74bf-4bdd-b51f-6e225c36c8b8",
+      "title": "Homemade desserts",
+      "subtitle": "",
+      "itemUuids": [
+        "d92c48b8-9fa0-4fa5-85cf-eeef6fdf1012",
+        "dd214ffe-3903-4f71-9c2a-d55269d8f0c8",
+        "075f1cf9-6a7f-4588-b893-d023a1129090",
+        "2e2f79d3-5392-440c-8b1b-7efd45e40ad1"
+      ]
+    },
+    {
+      "uuid": "458fa4b2-520d-43be-83c5-d88ac5520df7",
+      "title": "Beverages",
+      "subtitle": "",
+      "itemUuids": [
+        "f47ddddc-3053-4acc-ac91-6f926b5306fa",
+        "23107120-1016-4f58-b948-e3f5841c7534",
+        "e249dd08-d7f1-4c4b-9745-c0af61edab31",
+        "f236c4a1-98b5-43ed-b3a8-42d980e7aa25",
+        "0786b083-e454-43e9-af34-746ac3b0b10d",
+        "155e298a-13ef-4ec6-a86d-a0138bf76120",
+        "05692539-e9c3-40b1-aaa3-5fc7a1d72eaf",
+        "860cdfdd-48d9-4dcf-aea8-e02f6897031b",
+        "3fb622c8-99d8-48fd-af10-378924c040e6",
+        "2f7cf14f-057a-4e84-bf34-a4cc2e5f7d14",
+        "1e71b028-ab4f-4a17-acd0-915e10a1b04c",
+        "599bdc89-b3fb-4568-95ab-2d65cd8bc20a",
+        "ab4849cc-f266-4753-b5e7-ab1265e5be85"
+      ]
+    },
+    {
+      "uuid": "90885719-7224-4fc2-bc0a-bf7439147cf7",
+      "title": "Bread",
+      "subtitle": "",
+      "itemUuids": [
+        "414a3c5a-1ffc-42a9-b2f2-d9f71df1be17",
+        "835a825f-bf7c-4a8a-a7aa-3db9a005be76",
+        "16981612-94c4-4991-8782-43cd3abdac70",
+        "e683556d-8eb3-4402-8164-7546c5a660e8",
+        "f3bba4d3-e2e4-4f96-8283-4d9cd2fa1990"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "7813060d-eef6-43ef-82d6-ffb07181e386": {
-      "itemsMap": {
-        "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1": {
-          "uuid": "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1",
-          "title": "Minestrone",
-          "itemDescription": "250 g.",
-          "price": 8800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d0d7b18-56b4-449f-aa0b-d545a7fcd027",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
-          ]
-        },
-        "459323f1-5040-43ac-8865-f71e48ca5019": {
-          "uuid": "459323f1-5040-43ac-8865-f71e48ca5019",
-          "title": "Salad with farfalle and cherry tomatoes",
-          "itemDescription": "Farfalle pasta, cherry tomatoes, tender Adygei cheese, juicy baby mix lettuce and arugula with Worcester sauce and Italian herbs. 220 g",
-          "price": 12800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fbf5f8e-771d-47f7-8759-2957cfe85eb3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2d11c962-b906-45d7-8130-de2e70ec7d61": {
-          "uuid": "2d11c962-b906-45d7-8130-de2e70ec7d61",
-          "title": "Margarita",
-          "itemDescription": "Mozzarella cheese, tomatoes, and tomato sauce (440 g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1f92099-4c4e-46bb-8bf0-4ceebab6b59f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "0d3367db-a63c-4d9e-9455-60dc55a2f0eb": {
-          "uuid": "0d3367db-a63c-4d9e-9455-60dc55a2f0eb",
-          "title": "Chicken on baked eggplant",
-          "itemDescription": "Chicken filet on baked eggplant with creamy sauce and olive topenade.",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/86d89d8b-e264-499b-b04b-bdd7a8fdd0d3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f6666843-58a7-4841-a10d-55bd8d5aa261": {
-          "uuid": "f6666843-58a7-4841-a10d-55bd8d5aa261",
-          "title": "Burger with chicken",
-          "itemDescription": "Served with french fries.",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f56643e5-f053-44b5-8477-695afcbff0cb",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "9b79a415-6f4d-47c6-b516-4f5229de2ccd",
-            "dd94ff8e-d956-4c2c-a310-6f150d54d9b2"
-          ]
-        },
-        "f3bba4d3-e2e4-4f96-8283-4d9cd2fa1990": {
-          "uuid": "f3bba4d3-e2e4-4f96-8283-4d9cd2fa1990",
-          "title": "Hrissini z Prosciutto",
-          "itemDescription": "85 g.",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a07a6860-10a3-47b2-80d0-ad7a36207ebf",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8140d1e8-5466-4be7-960d-777baaf97b91": {
-          "uuid": "8140d1e8-5466-4be7-960d-777baaf97b91",
-          "title": "Ravioli with rabbit",
-          "itemDescription": "250 g.",
-          "price": 11800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/56d0566f-f266-4e90-82c7-c4c510591138",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0cff0faf-6a70-4993-8773-95562802a633": {
-          "uuid": "0cff0faf-6a70-4993-8773-95562802a633",
-          "title": "Mussels in cream and saffron sauce",
-          "itemDescription": "",
-          "price": 24800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba58adfc-0446-43cc-83d6-6e4b25ff1e29",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "860cdfdd-48d9-4dcf-aea8-e02f6897031b": {
-          "uuid": "860cdfdd-48d9-4dcf-aea8-e02f6897031b",
-          "title": "Rocchetta Naturale",
-          "itemDescription": "",
-          "price": 5500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/da2f8800-bda6-402f-b30c-b21a307c83aa",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "03ed7831-407d-41a2-b253-6ebb57e7d29e",
-            "1a14f535-a855-4f95-b50e-3378a25948f8"
-          ]
-        },
-        "9293ae22-5544-4a29-8e4a-7c0df078151b": {
-          "uuid": "9293ae22-5544-4a29-8e4a-7c0df078151b",
-          "title": "Spaghetti with fried shrimp",
-          "itemDescription": "Spaghetti with fried shrimp, and cream saffron sauce (280 g).",
-          "price": 16800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/988f6f87-355c-436c-94d2-c61bfb3395cb",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1b6b4d18-5b80-4fcd-a237-a62eddd0363c": {
-          "uuid": "1b6b4d18-5b80-4fcd-a237-a62eddd0363c",
-          "title": "Penne with Bolognese meat sauce",
-          "itemDescription": "Penne with meat sauce Bolognese, eggplant, cherry tomatoes and parmesan cheese. 280 g",
-          "price": 12800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/69f9b807-4d19-47d7-8eef-c821879575e2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc": {
-          "uuid": "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc",
-          "title": "Special Pesto burger",
-          "itemDescription": "With veal, tomatoes, and Cheddar cheese. Served with french fries.",
-          "price": 16800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c66786b5-8409-46b7-8bc6-9a93249e6d75",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "9b79a415-6f4d-47c6-b516-4f5229de2ccd",
-            "dd94ff8e-d956-4c2c-a310-6f150d54d9b2"
-          ]
-        },
-        "1314e832-2859-4a2f-848f-3bb1472f3ed5": {
-          "uuid": "1314e832-2859-4a2f-848f-3bb1472f3ed5",
-          "title": "Steamed salmon in ginger and garlic sauce",
-          "itemDescription": "Steamed salmon served on spinach and leeks.",
-          "price": 29800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c8ea12f-cbbf-4827-b8c6-eb718112f178",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e2d133ee-f885-4592-91fb-33c176e8dbe0": {
-          "uuid": "e2d133ee-f885-4592-91fb-33c176e8dbe0",
-          "title": "Pork steak",
-          "itemDescription": "With marinated onion.",
-          "price": 19800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e2e230f4-e149-4ed2-8d47-3c3bb4beb5a3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "4bd30390-fe58-4963-9d3c-1f8cce9463d8",
-            "592bc5c1-9cf5-44df-8788-52b4195d53a9"
-          ]
-        },
-        "369ee9b9-e61f-40be-920d-ce9e5a21d6ff": {
-          "uuid": "369ee9b9-e61f-40be-920d-ce9e5a21d6ff",
-          "title": "Carbonara",
-          "itemDescription": "Bacon, Mozzarella cheese, creamy sauce, and yolk (420 g).",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6400411b-dd22-4e2e-a6b2-1c5b99ce6bb0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "ad1a08bc-6c94-4a84-954b-3c64de2f1452": {
-          "uuid": "ad1a08bc-6c94-4a84-954b-3c64de2f1452",
-          "title": "Italian chicken bombetta",
-          "itemDescription": "Traditional Italian shish kebab. Grilled chicken thigh. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
-          "price": 17800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2a38fb5-abe4-41df-b821-5b3a4573fba1",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f357757c-1ee8-4ab3-a48c-10a3de93e554": {
-          "uuid": "f357757c-1ee8-4ab3-a48c-10a3de93e554",
-          "title": "Rabbit cutlets",
-          "itemDescription": "Rabbit cutlets in mushroom sauce with mashed potatoes.",
-          "price": 13800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/82052c8a-7dd5-42e4-86b4-87e1cb2e7bf3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e683556d-8eb3-4402-8164-7546c5a660e8": {
-          "uuid": "e683556d-8eb3-4402-8164-7546c5a660e8",
-          "title": "Bread basket",
-          "itemDescription": "",
-          "price": 4800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c3a2a4bf-ab0a-4619-8886-0ebc73ce50ff",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "810e603a-2bb5-49e5-a227-a2dd1dba0097": {
-          "uuid": "810e603a-2bb5-49e5-a227-a2dd1dba0097",
-          "title": "Four cheeses",
-          "itemDescription": "Mix of Italian cheeses: Dorblu, Mozzarella, Maazdam, and Parmesan (380 g).",
-          "price": 17800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f8f7d9f-65e6-4369-9572-2426e06827dc",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "86330225-2e9f-49c3-bebd-b71683a9c6aa": {
-          "uuid": "86330225-2e9f-49c3-bebd-b71683a9c6aa",
-          "title": "Creamy mushroom soup",
-          "itemDescription": "250 g.",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/588879b0-e61c-49d9-b97a-133855b1ff14",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
-          ]
-        },
-        "dd214ffe-3903-4f71-9c2a-d55269d8f0c8": {
-          "uuid": "dd214ffe-3903-4f71-9c2a-d55269d8f0c8",
-          "title": "Classic cheesecake",
-          "itemDescription": "130 g.",
-          "price": 8800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/eb61531b-710e-40cf-95ac-2e504e9a7626",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "74d11acc-b967-4127-ab12-5566d589ade4": {
-          "uuid": "74d11acc-b967-4127-ab12-5566d589ade4",
-          "title": "Ravioli with Ricotta cheese",
-          "itemDescription": "With creamy sauce.",
-          "price": 11800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f53b0db-456b-49f1-8822-41e920231d60",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "f3fed504-18af-4ed4-b833-4fb948e14149": {
-          "uuid": "f3fed504-18af-4ed4-b833-4fb948e14149",
-          "title": "Pollock with vegetable sauté",
-          "itemDescription": "Pollock fillet with vegetable and cream sauce.",
-          "price": 19800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2de33750-3378-4140-a7bd-5a1c9af2c90c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a4b51c11-b8be-4ae9-8e9e-9980a041fee1": {
-          "uuid": "a4b51c11-b8be-4ae9-8e9e-9980a041fee1",
-          "title": "Pizza with mushrooms and hum",
-          "itemDescription": "Ham, champignons, Parmesan cheese and mozzrella, and cream sauce (450 g).",
-          "price": 13800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5818d9e1-01c1-46af-9792-d488c9860f55",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5": {
-          "uuid": "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5",
-          "title": "Caesar with warm chicken fillet",
-          "itemDescription": "Romaine lettuce and parmesan cheese, fried chicken fillet and bacon, flavored with Caesar sauce with crispy garlic croutons, cherry tomatoes, and eggs (220 g).",
-          "price": 14300,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc4dba3a-53a9-45c5-85bb-87acd84815c9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4ea8cee5-394b-4f1c-a3ff-816760586406": {
-          "uuid": "4ea8cee5-394b-4f1c-a3ff-816760586406",
-          "title": "Hawaniian",
-          "itemDescription": "Chicken fillet, pineapple, corn, and tomato sauce (460 g).",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5debf144-e3cb-46b2-a1bd-15036d33e0c9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "6e913b8e-e861-422a-8376-c2ca91ac9d7b": {
-          "uuid": "6e913b8e-e861-422a-8376-c2ca91ac9d7b",
-          "title": "Veal fillet ",
-          "itemDescription": "Served on crispy ciabatta with green butter.\n200/100 output",
-          "price": 26800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f997718-4058-4100-9e62-736c357bec72",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0f1aac7e-e379-4696-9501-6d8e2cd932e7",
-            "4bd30390-fe58-4963-9d3c-1f8cce9463d8"
-          ]
-        },
-        "8031589c-311b-46bf-9fea-a6f5810b1443": {
-          "uuid": "8031589c-311b-46bf-9fea-a6f5810b1443",
-          "title": "4 cheeses",
-          "itemDescription": "Arborio rice, mozzarella, dorblu, and maasdam cheeses.",
-          "price": 13800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/02112367-01fc-4e25-a3ab-dc82013b03c1",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "ba6e5e7f-b75e-4b9d-b2e6-474e194045ef": {
-          "uuid": "ba6e5e7f-b75e-4b9d-b2e6-474e194045ef",
-          "title": "French fries",
-          "itemDescription": "150 g.",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/efd33954-f0c9-4653-b521-74ec501bb824",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "075f1cf9-6a7f-4588-b893-d023a1129090": {
-          "uuid": "075f1cf9-6a7f-4588-b893-d023a1129090",
-          "title": "Homemade cake",
-          "itemDescription": "200 g.",
-          "price": 8800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/30e2a5c9-3264-420a-adb9-e8e9e769266b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2491d7e0-8a26-4ff0-bb42-677e90f1dafb": {
-          "uuid": "2491d7e0-8a26-4ff0-bb42-677e90f1dafb",
-          "title": "Salad with veal",
-          "itemDescription": "Iceberg lettuce, boiled veal with potatoes, green beans, gherkins, tomatoes, and onion with Vitelo sauce dressing (240 g).",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7aab582a-1250-4b81-b854-c3a1488d8f02",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "39841ca5-2348-4c1c-87f8-66033f284913": {
-          "uuid": "39841ca5-2348-4c1c-87f8-66033f284913",
-          "title": "Salad mix with gravlax salmon",
-          "itemDescription": "Salad mix with gravlax salmon slices, tomatoes, avocado. Dressed with mustard, and honey sauce (210 g).",
-          "price": 16800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/979b3d92-c533-42b2-9048-f4f2638ae144",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ff7017d0-420e-44d9-8446-9486d261651a": {
-          "uuid": "ff7017d0-420e-44d9-8446-9486d261651a",
-          "title": "Tagliatelle with chicken fillet and mushrooms",
-          "itemDescription": "Tagliatelle cream sauce with chicken filet, with champignons, and Parmesan cheese (280 g).",
-          "price": 10800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b7b24b5-f9a6-43e7-ba27-7ce6e5ad5293",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b16bffec-cd36-47db-8e19-106082c90137": {
-          "uuid": "b16bffec-cd36-47db-8e19-106082c90137",
-          "title": "Hawaiian and Salami",
-          "itemDescription": "Two hit pizzas in one: Hawaiian, and Salami (475 g).",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/22731998-b7fe-44b5-a129-17bdeb151457",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "7dcf2029-c537-4c71-aefa-814b285a5997": {
-          "uuid": "7dcf2029-c537-4c71-aefa-814b285a5997",
-          "title": "Fish assorted",
-          "itemDescription": "Grilled dorado, salmon fillet, safflower fillet, shrimps, calamari rings, mussels in leaflets. Served with grilled vegetables: potatoes, eggplants, zucchini, sweet peppers, cherry tomatoes. Served with tar tar sauce, lemon&yogurt sauce, marseilles&. 900/500/150 g",
-          "price": 149800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ecc0541-9138-4a50-a48a-2b2e5c2fc797",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "16981612-94c4-4991-8782-43cd3abdac70": {
-          "uuid": "16981612-94c4-4991-8782-43cd3abdac70",
-          "title": "Italian style Grissini",
-          "itemDescription": "50 g.",
-          "price": 3300,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5dadde6-ee9b-4384-ae7c-cfa0ad97cca3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8abb2105-18a5-4038-a45f-dec84d42e30d": {
-          "uuid": "8abb2105-18a5-4038-a45f-dec84d42e30d",
-          "title": "Vegetable salad with Feta Cheese mousse",
-          "itemDescription": "Bell peppers, tomatoes, cucumbers, onion, olives, salad mix, Italian herbs, and Dijon sauce (200 g).",
-          "price": 9800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e9f2c8f7-80f7-4276-868d-f421b785b960",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "3dd58fe7-ff43-42dc-a3f8-b2c30e9ebf4e": {
-          "uuid": "3dd58fe7-ff43-42dc-a3f8-b2c30e9ebf4e",
-          "title": "Veal medallions with mashed potatoes",
-          "itemDescription": "",
-          "price": 26800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d40b7e3-befa-4210-b806-35854fde6d53",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b929aee4-f5c0-47bc-baa1-297456b2ef3a": {
-          "uuid": "b929aee4-f5c0-47bc-baa1-297456b2ef3a",
-          "title": "Vegetable sauté",
-          "itemDescription": "150 g.",
-          "price": 5800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d12a66bc-44f2-4e3b-a9db-f28e51027f91",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "3947a904-4b56-4935-bd1f-e96c7b1ab105": {
-          "uuid": "3947a904-4b56-4935-bd1f-e96c7b1ab105",
-          "title": "Pesto special pizza",
-          "itemDescription": "Ham, salami, Mozzarella cheese, bazil, and special sauce (410 g).",
-          "price": 16800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c896561-7372-417a-a962-dbafc255ef68",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "f47ddddc-3053-4acc-ac91-6f926b5306fa": {
-          "uuid": "f47ddddc-3053-4acc-ac91-6f926b5306fa",
-          "title": "Coca Cola ",
-          "itemDescription": "250 мл",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/45b266dd-e5ed-4b54-a185-9cb53c61da4f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "23107120-1016-4f58-b948-e3f5841c7534": {
-          "uuid": "23107120-1016-4f58-b948-e3f5841c7534",
-          "title": "Coca Cola Zero",
-          "itemDescription": "Кола без цукру, 250 мл",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca8f13bf-4515-498c-89c9-50b70d9c3267",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3fb622c8-99d8-48fd-af10-378924c040e6": {
-          "uuid": "3fb622c8-99d8-48fd-af10-378924c040e6",
-          "title": "Cherry Juice Rich",
-          "itemDescription": "1000 ml",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/237c0adb-c7d7-4f06-9582-ef3169bcf21c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "599bdc89-b3fb-4568-95ab-2d65cd8bc20a": {
-          "uuid": "599bdc89-b3fb-4568-95ab-2d65cd8bc20a",
-          "title": "Tomato Juice Rich",
-          "itemDescription": "1000 ml",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e7b81fb-9237-4823-b134-7db0f2243439",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e249dd08-d7f1-4c4b-9745-c0af61edab31": {
-          "uuid": "e249dd08-d7f1-4c4b-9745-c0af61edab31",
-          "title": "Fanta",
-          "itemDescription": "250  мл",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2e6473aa-6655-4ac3-b0a1-dd2728c3902e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9d4200af-6145-4b39-baec-8cc6716736cb": {
-          "uuid": "9d4200af-6145-4b39-baec-8cc6716736cb",
-          "title": "Spaghetti with Carbonara sauce",
-          "itemDescription": "Pasta in creamy sauce with onion, bacon, Parmezan cheese, and egg (220 g).",
-          "price": 9800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7ad3d49d-dd8d-4957-8b3a-a1940397490b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9c8cda67-409f-4ea5-a6d8-298ffda2077f": {
-          "uuid": "9c8cda67-409f-4ea5-a6d8-298ffda2077f",
-          "title": "Соуси",
-          "itemDescription": "Соуси на вибір (50 мл.)",
-          "price": 2500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "156c606c-1f60-4c27-aad0-50f6d18e7624"
-          ]
-        },
-        "328f0d6a-faba-413e-9353-97b5ac171e8e": {
-          "uuid": "328f0d6a-faba-413e-9353-97b5ac171e8e",
-          "title": "Dorado with lemon and thyme",
-          "itemDescription": "",
-          "price": 28800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e454d94f-a489-4f7e-9a11-af8980d200e7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0c033089-c0e5-4e6a-ae80-17fb9beb77c2": {
-          "uuid": "0c033089-c0e5-4e6a-ae80-17fb9beb77c2",
-          "title": "Lasagna Bolognese",
-          "itemDescription": "Lasagna with Bolognese meat sauce, Mozzarella, and Parmesan cheeses (220 g).",
-          "price": 9800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4326712-c313-4bfd-ae73-07235e27398f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "414a3c5a-1ffc-42a9-b2f2-d9f71df1be17": {
-          "uuid": "414a3c5a-1ffc-42a9-b2f2-d9f71df1be17",
-          "title": "Focaccia with Parmesan",
-          "itemDescription": "With tomatoes, and thyme (250 g).",
-          "price": 2800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/188f6e13-3294-47a9-97fe-a73623d20d53",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b0aba512-0433-453f-bcdd-5b6f3d6eb74f": {
-          "uuid": "b0aba512-0433-453f-bcdd-5b6f3d6eb74f",
-          "title": "Duck leg",
-          "itemDescription": "Duck leg with mashed potatoes and caramelised apple.",
-          "price": 19800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fbdbef21-61fa-4161-9ce7-9e7cdcbd24d4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ab4849cc-f266-4753-b5e7-ab1265e5be85": {
-          "uuid": "ab4849cc-f266-4753-b5e7-ab1265e5be85",
-          "title": "Apple Juice Rich",
-          "itemDescription": "1000 ml",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/22e684b5-2727-49c1-9f54-743ac0ea2f78",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "14a5c365-a372-4605-8908-f7c2d1ecd0da": {
-          "uuid": "14a5c365-a372-4605-8908-f7c2d1ecd0da",
-          "title": "Seafood soup",
-          "itemDescription": "250 g.",
-          "price": 12800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/253d362d-4d7c-4600-9054-a4c77533f796",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
-          ]
-        },
-        "2f7cf14f-057a-4e84-bf34-a4cc2e5f7d14": {
-          "uuid": "2f7cf14f-057a-4e84-bf34-a4cc2e5f7d14",
-          "title": "Orange Juice Rich",
-          "itemDescription": "1000 ml",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/68004c35-a287-4a39-a5f6-07fc920b6b36",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "df1b29b6-0964-4f40-bc16-bf59b821e50f": {
-          "uuid": "df1b29b6-0964-4f40-bc16-bf59b821e50f",
-          "title": "Salami",
-          "itemDescription": "Two types of salami: Napoli and Validzhlano, tomato sauce, mozzarella, olives, and arugula (450 g).",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ce8ca7e-326d-439e-be22-c26869751796",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "a15e4126-66ef-4f57-8530-15f69cefed58": {
-          "uuid": "a15e4126-66ef-4f57-8530-15f69cefed58",
-          "title": "Salmon steak",
-          "itemDescription": "",
-          "price": 29800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee6ab6e0-5472-413e-8aba-c474c5ce4c0c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "f5fb8b75-9dad-4ace-86ae-d59220caabf4",
-            "4bd30390-fe58-4963-9d3c-1f8cce9463d8"
-          ]
-        },
-        "30627567-d84d-4152-a115-f06a266af008": {
-          "uuid": "30627567-d84d-4152-a115-f06a266af008",
-          "title": "Ribeye steak",
-          "itemDescription": "",
-          "price": 29800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2315fcc-954d-4108-a34b-b90bad450109",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1908ee60-b5ca-4aaf-a2a4-8f85a6d91f61": {
-          "uuid": "1908ee60-b5ca-4aaf-a2a4-8f85a6d91f61",
-          "title": "Grilled corn",
-          "itemDescription": "",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4facce72-bd26-4654-b317-db702e91c54a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "358d27c0-ace4-401b-8059-a7b3f1c67192": {
-          "uuid": "358d27c0-ace4-401b-8059-a7b3f1c67192",
-          "title": "Rabbit in Italian style",
-          "itemDescription": "Stewed rabbit a Italian herbs with tomatoes, and olives served with patenta.",
-          "price": 18800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/16d345d3-0cf0-40a1-b379-b4348e7901a2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a97c9874-bc8c-423d-9b36-af9f3942f9fe": {
-          "uuid": "a97c9874-bc8c-423d-9b36-af9f3942f9fe",
-          "title": "Farfalle with prosciutto cotto and cherry tomatoes",
-          "itemDescription": "Farfalle pasta with mozzarella, prosciutto cotto, cherry tomatoes with pesto sauce and grated parmesan cheese. 280 g",
-          "price": 16800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d027b57a-6ac4-4916-a281-c302742c4939",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "835a825f-bf7c-4a8a-a7aa-3db9a005be76": {
-          "uuid": "835a825f-bf7c-4a8a-a7aa-3db9a005be76",
-          "title": "Focaccia with mozzarella",
-          "itemDescription": "With dor blu cheeses (250 g).",
-          "price": 7800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/db4221d0-6a71-432e-ae5f-700c3c335a68",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b4e6bcbb-1a75-4c8e-883d-f112fd0cae75": {
-          "uuid": "b4e6bcbb-1a75-4c8e-883d-f112fd0cae75",
-          "title": "Salad with tongue and aragula",
-          "itemDescription": "Salad with beef tongue, lettuce lola-rosa and arugula, cherry tomatoes, gherkins, quail eggs, and Mustard sauce (185 g).",
-          "price": 15800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1d1231d2-b824-46c8-97c4-1bcf2ee7623f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ff38554e-0a4c-45d2-85cc-1245ed58beab": {
-          "uuid": "ff38554e-0a4c-45d2-85cc-1245ed58beab",
-          "title": "Pizza with veal",
-          "itemDescription": "Veal, canned cucumbers, Mozzarella sauce, onions, and Vetello sauce (485 g).",
-          "price": 17800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef9b87ab-1879-4d02-ab87-394878fd3b33",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "91da2331-425a-41ea-956e-081814322510": {
-          "uuid": "91da2331-425a-41ea-956e-081814322510",
-          "title": "Veal cheeks with mashed potatoes",
-          "itemDescription": "Stewed veal cheeks with mashed potatoes, cherry tomatoes. Served with basil chips.",
-          "price": 15800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/41b350f7-6a3a-4867-bf00-fe9ebe680155",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c29a53db-f459-4658-8ab0-7dbe16698bde": {
-          "uuid": "c29a53db-f459-4658-8ab0-7dbe16698bde",
-          "title": "Soup with chicken and homemade pasta",
-          "itemDescription": "250 g.",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9ecedcc-0e93-4a30-bda1-2e7719c3ad53",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
-          ]
-        },
-        "adc926b7-3af1-4673-804e-8cfccff21bfd": {
-          "uuid": "adc926b7-3af1-4673-804e-8cfccff21bfd",
-          "title": "Caesar",
-          "itemDescription": "Checken, lettuce, bacon, tomatoes, Parmesan cheese, and Caesar dressing (480 g).",
-          "price": 15800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a54ddde9-7339-4212-b532-f01fdc531af0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "d92c48b8-9fa0-4fa5-85cf-eeef6fdf1012": {
-          "uuid": "d92c48b8-9fa0-4fa5-85cf-eeef6fdf1012",
-          "title": "Napoleon",
-          "itemDescription": "150 g.",
-          "price": 7800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d67334ba-a8dd-44c7-a300-fec9bb7e3d7d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "42c1538f-e6c2-45b1-afad-73a87fd8dcec": {
-          "uuid": "42c1538f-e6c2-45b1-afad-73a87fd8dcec",
-          "title": "Mashed potatoes",
-          "itemDescription": "150 g.",
-          "price": 4800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/96321586-a41a-4efe-875d-e1320f8bf8d7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "f236c4a1-98b5-43ed-b3a8-42d980e7aa25": {
-          "uuid": "f236c4a1-98b5-43ed-b3a8-42d980e7aa25",
-          "title": "Sprite",
-          "itemDescription": "250 мл",
-          "price": 3500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/30b3cf4d-a1da-4f5a-a145-b44dfcf6fb78",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0786b083-e454-43e9-af34-746ac3b0b10d": {
-          "uuid": "0786b083-e454-43e9-af34-746ac3b0b10d",
-          "title": "Burn",
-          "itemDescription": "250 мл",
-          "price": 5500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/320206d1-be82-4dea-b7bf-1f26f7a9a810",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2e2f79d3-5392-440c-8b1b-7efd45e40ad1": {
-          "uuid": "2e2f79d3-5392-440c-8b1b-7efd45e40ad1",
-          "title": "Tiramisu",
-          "itemDescription": "140 g.",
-          "price": 8800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/513fd615-35e2-4427-ba3d-ef414e38faf4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3b4ee92d-f861-4335-bea3-ee363a14dca6": {
-          "uuid": "3b4ee92d-f861-4335-bea3-ee363a14dca6",
-          "title": "Salad with baby mozzarella and cherry tomatoes",
-          "itemDescription": "Baby mozzarella, cherry tomatoes, avocado, mix of salads: arugula, lollo. Dressed with Balsamic sauce. 150 g",
-          "price": 12800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddea3393-fe8a-4a67-b66c-da38106242b2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "05692539-e9c3-40b1-aaa3-5fc7a1d72eaf": {
-          "uuid": "05692539-e9c3-40b1-aaa3-5fc7a1d72eaf",
-          "title": "Borjomi",
-          "itemDescription": "330 ml.",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4985c9d2-a250-47a0-8ccb-082cd182a8c8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "235e5b36-282b-4e8b-bfe4-cbe004d1a986": {
-          "uuid": "235e5b36-282b-4e8b-bfe4-cbe004d1a986",
-          "title": "Pizza with prosciutto cotto",
-          "itemDescription": "Prosciutto cotto, bacon, olives, cherry tomatoes, mozzarella, arugula, tomato sauce, barbecue sauce. 470 гр",
-          "price": 17800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2173e016-e34a-4941-bbca-cc8433af7ae0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "2d31d0e4-74be-46bf-b412-af518ba4d961": {
-          "uuid": "2d31d0e4-74be-46bf-b412-af518ba4d961",
-          "title": "Italian veal bombetta",
-          "itemDescription": "Traditional Italian shish kebab. Grilled veal. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
-          "price": 19800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e707741-4425-434a-b6e4-4a357e205403",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "55fed16d-fc4e-4fff-a97f-f9689fe44531": {
-          "uuid": "55fed16d-fc4e-4fff-a97f-f9689fe44531",
-          "title": "Vegetable cream soup with chanterelles",
-          "itemDescription": "Vegetable cream soup with chanterelles and cream. 250 g",
-          "price": 6800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5cdd9446-83c9-4f4d-888d-842fe9653425",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
-          ]
-        },
-        "1f71ceea-ea1c-4604-b786-21e911058eb4": {
-          "uuid": "1f71ceea-ea1c-4604-b786-21e911058eb4",
-          "title": "Assorted grill",
-          "itemDescription": "Tenderloin of veal, pork neck steak, chicken, grilled potatoes, grilled corn, grilled vegetables, sauces: with cilantro, with mushrooms, barbecues.",
-          "price": 89800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/26bcef96-8cbc-4f47-8d21-babc0fa0039e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "155e298a-13ef-4ec6-a86d-a0138bf76120": {
-          "uuid": "155e298a-13ef-4ec6-a86d-a0138bf76120",
-          "title": "BonAqua",
-          "itemDescription": "330 ml.",
-          "price": 3800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ceb2ba5-4bd9-41af-85f7-9ce52cdb0666",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "1a14f535-a855-4f95-b50e-3378a25948f8"
-          ]
-        },
-        "7db19258-8407-4162-a9b7-bf59dd18e17b": {
-          "uuid": "7db19258-8407-4162-a9b7-bf59dd18e17b",
-          "title": "Italian pork bombetta",
-          "itemDescription": "Traditional Italian shish kebab. Grilled pork. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
-          "price": 18800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf212068-5f7c-4559-a603-23fe4bee3f8a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a82d1bda-b7de-476f-b92c-5b1a9de6c69e": {
-          "uuid": "a82d1bda-b7de-476f-b92c-5b1a9de6c69e",
-          "title": "Tagliatelle with veal",
-          "itemDescription": "Tagliatelle with creamy sauce with veal and Parmesan cheese, and basil (220 g).",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b2b526d-4880-4c45-910e-e5604cbc78a2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1c811307-9b58-4e4e-a2b0-4e0cdef29f82": {
-          "uuid": "1c811307-9b58-4e4e-a2b0-4e0cdef29f82",
-          "title": "Pizza with veal and Caesar",
-          "itemDescription": "Two favorite pizzas in one - Caesar, and veal (480 g).",
-          "price": 17300,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/de9bbb82-2e76-4f41-a600-a74b478270d5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
-          ]
-        },
-        "06f07e29-db39-4ac7-9219-90570c3219f8": {
-          "uuid": "06f07e29-db39-4ac7-9219-90570c3219f8",
-          "title": "Grilled vegetables",
-          "itemDescription": "",
-          "price": 9800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/80edc856-e086-4994-8084-ee6e36ca4c70",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "1e71b028-ab4f-4a17-acd0-915e10a1b04c": {
-          "uuid": "1e71b028-ab4f-4a17-acd0-915e10a1b04c",
-          "title": "Pineapple Juice Rich",
-          "itemDescription": "1000 ml",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8ff69df-fb96-4879-a845-1b4ff203f76c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "2b514b3e-3cd9-49ee-9b23-d9f384fe1540": {
-          "uuid": "2b514b3e-3cd9-49ee-9b23-d9f384fe1540",
-          "title": "Risotto with Mushrooms",
-          "itemDescription": "Arborio rice, cepes, parmesan cheese.",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8f29cfc-0041-4961-8b11-6b5d099ebf2e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "c1c58d43-3f8a-4c5a-a8dc-b4e8b323c8b6",
-          "title": "Popular ",
-          "subtitle": "",
-          "itemUuids": [
-            "810e603a-2bb5-49e5-a227-a2dd1dba0097",
-            "1c811307-9b58-4e4e-a2b0-4e0cdef29f82",
-            "3947a904-4b56-4935-bd1f-e96c7b1ab105",
-            "df1b29b6-0964-4f40-bc16-bf59b821e50f",
-            "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5",
-            "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc",
-            "f357757c-1ee8-4ab3-a48c-10a3de93e554",
-            "9d4200af-6145-4b39-baec-8cc6716736cb",
-            "86330225-2e9f-49c3-bebd-b71683a9c6aa"
-          ]
-        },
-        {
-          "uuid": "0b107595-4304-4b84-ace3-5af3365d1c22",
-          "title": "Pizza",
-          "subtitle": "",
-          "itemUuids": [
-            "2d11c962-b906-45d7-8130-de2e70ec7d61",
-            "369ee9b9-e61f-40be-920d-ce9e5a21d6ff",
-            "a4b51c11-b8be-4ae9-8e9e-9980a041fee1",
-            "4ea8cee5-394b-4f1c-a3ff-816760586406",
-            "b16bffec-cd36-47db-8e19-106082c90137",
-            "df1b29b6-0964-4f40-bc16-bf59b821e50f",
-            "3947a904-4b56-4935-bd1f-e96c7b1ab105",
-            "adc926b7-3af1-4673-804e-8cfccff21bfd",
-            "ff38554e-0a4c-45d2-85cc-1245ed58beab",
-            "810e603a-2bb5-49e5-a227-a2dd1dba0097",
-            "235e5b36-282b-4e8b-bfe4-cbe004d1a986",
-            "1c811307-9b58-4e4e-a2b0-4e0cdef29f82"
-          ]
-        },
-        {
-          "uuid": "9b811fd4-1206-4091-bd01-1d20307ace86",
-          "title": "Burgers",
-          "subtitle": "",
-          "itemUuids": [
-            "f6666843-58a7-4841-a10d-55bd8d5aa261",
-            "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc"
-          ]
-        },
-        {
-          "uuid": "2753228d-4352-4c0d-b9c0-52df9bff10ef",
-          "title": "Grill menu",
-          "subtitle": "",
-          "itemUuids": [
-            "e2d133ee-f885-4592-91fb-33c176e8dbe0",
-            "a15e4126-66ef-4f57-8530-15f69cefed58",
-            "30627567-d84d-4152-a115-f06a266af008",
-            "6e913b8e-e861-422a-8376-c2ca91ac9d7b",
-            "328f0d6a-faba-413e-9353-97b5ac171e8e",
-            "2d31d0e4-74be-46bf-b412-af518ba4d961",
-            "7db19258-8407-4162-a9b7-bf59dd18e17b",
-            "ad1a08bc-6c94-4a84-954b-3c64de2f1452",
-            "1908ee60-b5ca-4aaf-a2a4-8f85a6d91f61",
-            "06f07e29-db39-4ac7-9219-90570c3219f8",
-            "1f71ceea-ea1c-4604-b786-21e911058eb4",
-            "7dcf2029-c537-4c71-aefa-814b285a5997",
-            "9c8cda67-409f-4ea5-a6d8-298ffda2077f"
-          ]
-        },
-        {
-          "uuid": "7fa260b0-9c30-4b1a-a1a3-ebdca703fde9",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "8abb2105-18a5-4038-a45f-dec84d42e30d",
-            "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5",
-            "2491d7e0-8a26-4ff0-bb42-677e90f1dafb",
-            "b4e6bcbb-1a75-4c8e-883d-f112fd0cae75",
-            "39841ca5-2348-4c1c-87f8-66033f284913",
-            "459323f1-5040-43ac-8865-f71e48ca5019",
-            "3b4ee92d-f861-4335-bea3-ee363a14dca6"
-          ]
-        },
-        {
-          "uuid": "c6d632b9-2c1c-4f97-93e0-580b5cae0f73",
-          "title": "Pasta",
-          "subtitle": "",
-          "itemUuids": [
-            "9d4200af-6145-4b39-baec-8cc6716736cb",
-            "0c033089-c0e5-4e6a-ae80-17fb9beb77c2",
-            "ff7017d0-420e-44d9-8446-9486d261651a",
-            "a82d1bda-b7de-476f-b92c-5b1a9de6c69e",
-            "9293ae22-5544-4a29-8e4a-7c0df078151b",
-            "1b6b4d18-5b80-4fcd-a237-a62eddd0363c",
-            "a97c9874-bc8c-423d-9b36-af9f3942f9fe"
-          ]
-        },
-        {
-          "uuid": "97db0845-bea3-4aa5-8c7e-7547b83bc9b0",
-          "title": "Hot dishes",
-          "subtitle": "",
-          "itemUuids": [
-            "f357757c-1ee8-4ab3-a48c-10a3de93e554",
-            "0d3367db-a63c-4d9e-9455-60dc55a2f0eb",
-            "91da2331-425a-41ea-956e-081814322510",
-            "358d27c0-ace4-401b-8059-a7b3f1c67192",
-            "f3fed504-18af-4ed4-b833-4fb948e14149",
-            "b0aba512-0433-453f-bcdd-5b6f3d6eb74f",
-            "0cff0faf-6a70-4993-8773-95562802a633",
-            "3dd58fe7-ff43-42dc-a3f8-b2c30e9ebf4e",
-            "1314e832-2859-4a2f-848f-3bb1472f3ed5"
-          ]
-        },
-        {
-          "uuid": "8199a7bc-3608-4c27-8ac2-b5ebb52006c6",
-          "title": "Ravioli",
-          "subtitle": "",
-          "itemUuids": [
-            "8140d1e8-5466-4be7-960d-777baaf97b91",
-            "74d11acc-b967-4127-ab12-5566d589ade4"
-          ]
-        },
-        {
-          "uuid": "052282e5-61f2-4bb9-9eab-28dabf424a77",
-          "title": "Risotto",
-          "subtitle": "",
-          "itemUuids": [
-            "8031589c-311b-46bf-9fea-a6f5810b1443",
-            "2b514b3e-3cd9-49ee-9b23-d9f384fe1540"
-          ]
-        },
-        {
-          "uuid": "a2b51d78-e2b5-4324-a258-251ba567a3ea",
-          "title": "Garnish",
-          "subtitle": "",
-          "itemUuids": [
-            "42c1538f-e6c2-45b1-afad-73a87fd8dcec",
-            "b929aee4-f5c0-47bc-baa1-297456b2ef3a",
-            "ba6e5e7f-b75e-4b9d-b2e6-474e194045ef"
-          ]
-        },
-        {
-          "uuid": "e84378e8-d20f-4700-b7d0-7089fd1ba1cf",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "c29a53db-f459-4658-8ab0-7dbe16698bde",
-            "86330225-2e9f-49c3-bebd-b71683a9c6aa",
-            "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1",
-            "14a5c365-a372-4605-8908-f7c2d1ecd0da",
-            "55fed16d-fc4e-4fff-a97f-f9689fe44531"
-          ]
-        },
-        {
-          "uuid": "dc33a38f-74bf-4bdd-b51f-6e225c36c8b8",
-          "title": "Homemade desserts",
-          "subtitle": "",
-          "itemUuids": [
-            "d92c48b8-9fa0-4fa5-85cf-eeef6fdf1012",
-            "dd214ffe-3903-4f71-9c2a-d55269d8f0c8",
-            "075f1cf9-6a7f-4588-b893-d023a1129090",
-            "2e2f79d3-5392-440c-8b1b-7efd45e40ad1"
-          ]
-        },
-        {
-          "uuid": "458fa4b2-520d-43be-83c5-d88ac5520df7",
-          "title": "Beverages",
-          "subtitle": "",
-          "itemUuids": [
-            "f47ddddc-3053-4acc-ac91-6f926b5306fa",
-            "23107120-1016-4f58-b948-e3f5841c7534",
-            "e249dd08-d7f1-4c4b-9745-c0af61edab31",
-            "f236c4a1-98b5-43ed-b3a8-42d980e7aa25",
-            "0786b083-e454-43e9-af34-746ac3b0b10d",
-            "155e298a-13ef-4ec6-a86d-a0138bf76120",
-            "05692539-e9c3-40b1-aaa3-5fc7a1d72eaf",
-            "860cdfdd-48d9-4dcf-aea8-e02f6897031b",
-            "3fb622c8-99d8-48fd-af10-378924c040e6",
-            "2f7cf14f-057a-4e84-bf34-a4cc2e5f7d14",
-            "1e71b028-ab4f-4a17-acd0-915e10a1b04c",
-            "599bdc89-b3fb-4568-95ab-2d65cd8bc20a",
-            "ab4849cc-f266-4753-b5e7-ab1265e5be85"
-          ]
-        },
-        {
-          "uuid": "90885719-7224-4fc2-bc0a-bf7439147cf7",
-          "title": "Bread",
-          "subtitle": "",
-          "itemUuids": [
-            "414a3c5a-1ffc-42a9-b2f2-d9f71df1be17",
-            "835a825f-bf7c-4a8a-a7aa-3db9a005be76",
-            "16981612-94c4-4991-8782-43cd3abdac70",
-            "e683556d-8eb3-4402-8164-7546c5a660e8",
-            "f3bba4d3-e2e4-4f96-8283-4d9cd2fa1990"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.449405547535825,
     "longitude": 30.525966074007883,
@@ -1552,5 +271,1258 @@
     "storeRatingScore": 4.543046357615894,
     "ratingCount": "151"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3200be26-a76c-4cfd-b061-7f148b02bc8e"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3200be26-a76c-4cfd-b061-7f148b02bc8e",
+  "items": {
+    "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1": {
+      "uuid": "e747a0c3-4b85-4017-97fd-dfe22c6e9ce1",
+      "title": "Minestrone",
+      "itemDescription": "250 g.",
+      "price": 8800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d0d7b18-56b4-449f-aa0b-d545a7fcd027",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
+      ]
+    },
+    "459323f1-5040-43ac-8865-f71e48ca5019": {
+      "uuid": "459323f1-5040-43ac-8865-f71e48ca5019",
+      "title": "Salad with farfalle and cherry tomatoes",
+      "itemDescription": "Farfalle pasta, cherry tomatoes, tender Adygei cheese, juicy baby mix lettuce and arugula with Worcester sauce and Italian herbs. 220 g",
+      "price": 12800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fbf5f8e-771d-47f7-8759-2957cfe85eb3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2d11c962-b906-45d7-8130-de2e70ec7d61": {
+      "uuid": "2d11c962-b906-45d7-8130-de2e70ec7d61",
+      "title": "Margarita",
+      "itemDescription": "Mozzarella cheese, tomatoes, and tomato sauce (440 g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1f92099-4c4e-46bb-8bf0-4ceebab6b59f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "0d3367db-a63c-4d9e-9455-60dc55a2f0eb": {
+      "uuid": "0d3367db-a63c-4d9e-9455-60dc55a2f0eb",
+      "title": "Chicken on baked eggplant",
+      "itemDescription": "Chicken filet on baked eggplant with creamy sauce and olive topenade.",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/86d89d8b-e264-499b-b04b-bdd7a8fdd0d3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f6666843-58a7-4841-a10d-55bd8d5aa261": {
+      "uuid": "f6666843-58a7-4841-a10d-55bd8d5aa261",
+      "title": "Burger with chicken",
+      "itemDescription": "Served with french fries.",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f56643e5-f053-44b5-8477-695afcbff0cb",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "9b79a415-6f4d-47c6-b516-4f5229de2ccd",
+        "dd94ff8e-d956-4c2c-a310-6f150d54d9b2"
+      ]
+    },
+    "f3bba4d3-e2e4-4f96-8283-4d9cd2fa1990": {
+      "uuid": "f3bba4d3-e2e4-4f96-8283-4d9cd2fa1990",
+      "title": "Hrissini z Prosciutto",
+      "itemDescription": "85 g.",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a07a6860-10a3-47b2-80d0-ad7a36207ebf",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8140d1e8-5466-4be7-960d-777baaf97b91": {
+      "uuid": "8140d1e8-5466-4be7-960d-777baaf97b91",
+      "title": "Ravioli with rabbit",
+      "itemDescription": "250 g.",
+      "price": 11800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/56d0566f-f266-4e90-82c7-c4c510591138",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0cff0faf-6a70-4993-8773-95562802a633": {
+      "uuid": "0cff0faf-6a70-4993-8773-95562802a633",
+      "title": "Mussels in cream and saffron sauce",
+      "itemDescription": "",
+      "price": 24800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba58adfc-0446-43cc-83d6-6e4b25ff1e29",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "860cdfdd-48d9-4dcf-aea8-e02f6897031b": {
+      "uuid": "860cdfdd-48d9-4dcf-aea8-e02f6897031b",
+      "title": "Rocchetta Naturale",
+      "itemDescription": "",
+      "price": 5500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/da2f8800-bda6-402f-b30c-b21a307c83aa",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "03ed7831-407d-41a2-b253-6ebb57e7d29e",
+        "1a14f535-a855-4f95-b50e-3378a25948f8"
+      ]
+    },
+    "9293ae22-5544-4a29-8e4a-7c0df078151b": {
+      "uuid": "9293ae22-5544-4a29-8e4a-7c0df078151b",
+      "title": "Spaghetti with fried shrimp",
+      "itemDescription": "Spaghetti with fried shrimp, and cream saffron sauce (280 g).",
+      "price": 16800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/988f6f87-355c-436c-94d2-c61bfb3395cb",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1b6b4d18-5b80-4fcd-a237-a62eddd0363c": {
+      "uuid": "1b6b4d18-5b80-4fcd-a237-a62eddd0363c",
+      "title": "Penne with Bolognese meat sauce",
+      "itemDescription": "Penne with meat sauce Bolognese, eggplant, cherry tomatoes and parmesan cheese. 280 g",
+      "price": 12800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/69f9b807-4d19-47d7-8eef-c821879575e2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc": {
+      "uuid": "4d2d19b7-2997-45dd-8ca9-79bd35cd2dbc",
+      "title": "Special Pesto burger",
+      "itemDescription": "With veal, tomatoes, and Cheddar cheese. Served with french fries.",
+      "price": 16800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c66786b5-8409-46b7-8bc6-9a93249e6d75",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "9b79a415-6f4d-47c6-b516-4f5229de2ccd",
+        "dd94ff8e-d956-4c2c-a310-6f150d54d9b2"
+      ]
+    },
+    "1314e832-2859-4a2f-848f-3bb1472f3ed5": {
+      "uuid": "1314e832-2859-4a2f-848f-3bb1472f3ed5",
+      "title": "Steamed salmon in ginger and garlic sauce",
+      "itemDescription": "Steamed salmon served on spinach and leeks.",
+      "price": 29800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c8ea12f-cbbf-4827-b8c6-eb718112f178",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e2d133ee-f885-4592-91fb-33c176e8dbe0": {
+      "uuid": "e2d133ee-f885-4592-91fb-33c176e8dbe0",
+      "title": "Pork steak",
+      "itemDescription": "With marinated onion.",
+      "price": 19800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e2e230f4-e149-4ed2-8d47-3c3bb4beb5a3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "4bd30390-fe58-4963-9d3c-1f8cce9463d8",
+        "592bc5c1-9cf5-44df-8788-52b4195d53a9"
+      ]
+    },
+    "369ee9b9-e61f-40be-920d-ce9e5a21d6ff": {
+      "uuid": "369ee9b9-e61f-40be-920d-ce9e5a21d6ff",
+      "title": "Carbonara",
+      "itemDescription": "Bacon, Mozzarella cheese, creamy sauce, and yolk (420 g).",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6400411b-dd22-4e2e-a6b2-1c5b99ce6bb0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "ad1a08bc-6c94-4a84-954b-3c64de2f1452": {
+      "uuid": "ad1a08bc-6c94-4a84-954b-3c64de2f1452",
+      "title": "Italian chicken bombetta",
+      "itemDescription": "Traditional Italian shish kebab. Grilled chicken thigh. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
+      "price": 17800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2a38fb5-abe4-41df-b821-5b3a4573fba1",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f357757c-1ee8-4ab3-a48c-10a3de93e554": {
+      "uuid": "f357757c-1ee8-4ab3-a48c-10a3de93e554",
+      "title": "Rabbit cutlets",
+      "itemDescription": "Rabbit cutlets in mushroom sauce with mashed potatoes.",
+      "price": 13800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/82052c8a-7dd5-42e4-86b4-87e1cb2e7bf3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e683556d-8eb3-4402-8164-7546c5a660e8": {
+      "uuid": "e683556d-8eb3-4402-8164-7546c5a660e8",
+      "title": "Bread basket",
+      "itemDescription": "",
+      "price": 4800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c3a2a4bf-ab0a-4619-8886-0ebc73ce50ff",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "810e603a-2bb5-49e5-a227-a2dd1dba0097": {
+      "uuid": "810e603a-2bb5-49e5-a227-a2dd1dba0097",
+      "title": "Four cheeses",
+      "itemDescription": "Mix of Italian cheeses: Dorblu, Mozzarella, Maazdam, and Parmesan (380 g).",
+      "price": 17800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f8f7d9f-65e6-4369-9572-2426e06827dc",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "86330225-2e9f-49c3-bebd-b71683a9c6aa": {
+      "uuid": "86330225-2e9f-49c3-bebd-b71683a9c6aa",
+      "title": "Creamy mushroom soup",
+      "itemDescription": "250 g.",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/588879b0-e61c-49d9-b97a-133855b1ff14",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
+      ]
+    },
+    "dd214ffe-3903-4f71-9c2a-d55269d8f0c8": {
+      "uuid": "dd214ffe-3903-4f71-9c2a-d55269d8f0c8",
+      "title": "Classic cheesecake",
+      "itemDescription": "130 g.",
+      "price": 8800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/eb61531b-710e-40cf-95ac-2e504e9a7626",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "74d11acc-b967-4127-ab12-5566d589ade4": {
+      "uuid": "74d11acc-b967-4127-ab12-5566d589ade4",
+      "title": "Ravioli with Ricotta cheese",
+      "itemDescription": "With creamy sauce.",
+      "price": 11800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f53b0db-456b-49f1-8822-41e920231d60",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "f3fed504-18af-4ed4-b833-4fb948e14149": {
+      "uuid": "f3fed504-18af-4ed4-b833-4fb948e14149",
+      "title": "Pollock with vegetable sauté",
+      "itemDescription": "Pollock fillet with vegetable and cream sauce.",
+      "price": 19800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2de33750-3378-4140-a7bd-5a1c9af2c90c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a4b51c11-b8be-4ae9-8e9e-9980a041fee1": {
+      "uuid": "a4b51c11-b8be-4ae9-8e9e-9980a041fee1",
+      "title": "Pizza with mushrooms and hum",
+      "itemDescription": "Ham, champignons, Parmesan cheese and mozzrella, and cream sauce (450 g).",
+      "price": 13800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5818d9e1-01c1-46af-9792-d488c9860f55",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5": {
+      "uuid": "7f48ed81-a441-4f11-b23f-dc1b6d2b19e5",
+      "title": "Caesar with warm chicken fillet",
+      "itemDescription": "Romaine lettuce and parmesan cheese, fried chicken fillet and bacon, flavored with Caesar sauce with crispy garlic croutons, cherry tomatoes, and eggs (220 g).",
+      "price": 14300,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc4dba3a-53a9-45c5-85bb-87acd84815c9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4ea8cee5-394b-4f1c-a3ff-816760586406": {
+      "uuid": "4ea8cee5-394b-4f1c-a3ff-816760586406",
+      "title": "Hawaniian",
+      "itemDescription": "Chicken fillet, pineapple, corn, and tomato sauce (460 g).",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5debf144-e3cb-46b2-a1bd-15036d33e0c9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "6e913b8e-e861-422a-8376-c2ca91ac9d7b": {
+      "uuid": "6e913b8e-e861-422a-8376-c2ca91ac9d7b",
+      "title": "Veal fillet ",
+      "itemDescription": "Served on crispy ciabatta with green butter.\n200/100 output",
+      "price": 26800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f997718-4058-4100-9e62-736c357bec72",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0f1aac7e-e379-4696-9501-6d8e2cd932e7",
+        "4bd30390-fe58-4963-9d3c-1f8cce9463d8"
+      ]
+    },
+    "8031589c-311b-46bf-9fea-a6f5810b1443": {
+      "uuid": "8031589c-311b-46bf-9fea-a6f5810b1443",
+      "title": "4 cheeses",
+      "itemDescription": "Arborio rice, mozzarella, dorblu, and maasdam cheeses.",
+      "price": 13800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/02112367-01fc-4e25-a3ab-dc82013b03c1",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "ba6e5e7f-b75e-4b9d-b2e6-474e194045ef": {
+      "uuid": "ba6e5e7f-b75e-4b9d-b2e6-474e194045ef",
+      "title": "French fries",
+      "itemDescription": "150 g.",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/efd33954-f0c9-4653-b521-74ec501bb824",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "075f1cf9-6a7f-4588-b893-d023a1129090": {
+      "uuid": "075f1cf9-6a7f-4588-b893-d023a1129090",
+      "title": "Homemade cake",
+      "itemDescription": "200 g.",
+      "price": 8800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/30e2a5c9-3264-420a-adb9-e8e9e769266b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2491d7e0-8a26-4ff0-bb42-677e90f1dafb": {
+      "uuid": "2491d7e0-8a26-4ff0-bb42-677e90f1dafb",
+      "title": "Salad with veal",
+      "itemDescription": "Iceberg lettuce, boiled veal with potatoes, green beans, gherkins, tomatoes, and onion with Vitelo sauce dressing (240 g).",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7aab582a-1250-4b81-b854-c3a1488d8f02",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "39841ca5-2348-4c1c-87f8-66033f284913": {
+      "uuid": "39841ca5-2348-4c1c-87f8-66033f284913",
+      "title": "Salad mix with gravlax salmon",
+      "itemDescription": "Salad mix with gravlax salmon slices, tomatoes, avocado. Dressed with mustard, and honey sauce (210 g).",
+      "price": 16800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/979b3d92-c533-42b2-9048-f4f2638ae144",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ff7017d0-420e-44d9-8446-9486d261651a": {
+      "uuid": "ff7017d0-420e-44d9-8446-9486d261651a",
+      "title": "Tagliatelle with chicken fillet and mushrooms",
+      "itemDescription": "Tagliatelle cream sauce with chicken filet, with champignons, and Parmesan cheese (280 g).",
+      "price": 10800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b7b24b5-f9a6-43e7-ba27-7ce6e5ad5293",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b16bffec-cd36-47db-8e19-106082c90137": {
+      "uuid": "b16bffec-cd36-47db-8e19-106082c90137",
+      "title": "Hawaiian and Salami",
+      "itemDescription": "Two hit pizzas in one: Hawaiian, and Salami (475 g).",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/22731998-b7fe-44b5-a129-17bdeb151457",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "7dcf2029-c537-4c71-aefa-814b285a5997": {
+      "uuid": "7dcf2029-c537-4c71-aefa-814b285a5997",
+      "title": "Fish assorted",
+      "itemDescription": "Grilled dorado, salmon fillet, safflower fillet, shrimps, calamari rings, mussels in leaflets. Served with grilled vegetables: potatoes, eggplants, zucchini, sweet peppers, cherry tomatoes. Served with tar tar sauce, lemon&yogurt sauce, marseilles&. 900/500/150 g",
+      "price": 149800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ecc0541-9138-4a50-a48a-2b2e5c2fc797",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "16981612-94c4-4991-8782-43cd3abdac70": {
+      "uuid": "16981612-94c4-4991-8782-43cd3abdac70",
+      "title": "Italian style Grissini",
+      "itemDescription": "50 g.",
+      "price": 3300,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5dadde6-ee9b-4384-ae7c-cfa0ad97cca3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8abb2105-18a5-4038-a45f-dec84d42e30d": {
+      "uuid": "8abb2105-18a5-4038-a45f-dec84d42e30d",
+      "title": "Vegetable salad with Feta Cheese mousse",
+      "itemDescription": "Bell peppers, tomatoes, cucumbers, onion, olives, salad mix, Italian herbs, and Dijon sauce (200 g).",
+      "price": 9800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e9f2c8f7-80f7-4276-868d-f421b785b960",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "3dd58fe7-ff43-42dc-a3f8-b2c30e9ebf4e": {
+      "uuid": "3dd58fe7-ff43-42dc-a3f8-b2c30e9ebf4e",
+      "title": "Veal medallions with mashed potatoes",
+      "itemDescription": "",
+      "price": 26800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d40b7e3-befa-4210-b806-35854fde6d53",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b929aee4-f5c0-47bc-baa1-297456b2ef3a": {
+      "uuid": "b929aee4-f5c0-47bc-baa1-297456b2ef3a",
+      "title": "Vegetable sauté",
+      "itemDescription": "150 g.",
+      "price": 5800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d12a66bc-44f2-4e3b-a9db-f28e51027f91",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "3947a904-4b56-4935-bd1f-e96c7b1ab105": {
+      "uuid": "3947a904-4b56-4935-bd1f-e96c7b1ab105",
+      "title": "Pesto special pizza",
+      "itemDescription": "Ham, salami, Mozzarella cheese, bazil, and special sauce (410 g).",
+      "price": 16800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c896561-7372-417a-a962-dbafc255ef68",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "f47ddddc-3053-4acc-ac91-6f926b5306fa": {
+      "uuid": "f47ddddc-3053-4acc-ac91-6f926b5306fa",
+      "title": "Coca Cola ",
+      "itemDescription": "250 мл",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/45b266dd-e5ed-4b54-a185-9cb53c61da4f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "23107120-1016-4f58-b948-e3f5841c7534": {
+      "uuid": "23107120-1016-4f58-b948-e3f5841c7534",
+      "title": "Coca Cola Zero",
+      "itemDescription": "Кола без цукру, 250 мл",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca8f13bf-4515-498c-89c9-50b70d9c3267",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3fb622c8-99d8-48fd-af10-378924c040e6": {
+      "uuid": "3fb622c8-99d8-48fd-af10-378924c040e6",
+      "title": "Cherry Juice Rich",
+      "itemDescription": "1000 ml",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/237c0adb-c7d7-4f06-9582-ef3169bcf21c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "599bdc89-b3fb-4568-95ab-2d65cd8bc20a": {
+      "uuid": "599bdc89-b3fb-4568-95ab-2d65cd8bc20a",
+      "title": "Tomato Juice Rich",
+      "itemDescription": "1000 ml",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e7b81fb-9237-4823-b134-7db0f2243439",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e249dd08-d7f1-4c4b-9745-c0af61edab31": {
+      "uuid": "e249dd08-d7f1-4c4b-9745-c0af61edab31",
+      "title": "Fanta",
+      "itemDescription": "250  мл",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2e6473aa-6655-4ac3-b0a1-dd2728c3902e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9d4200af-6145-4b39-baec-8cc6716736cb": {
+      "uuid": "9d4200af-6145-4b39-baec-8cc6716736cb",
+      "title": "Spaghetti with Carbonara sauce",
+      "itemDescription": "Pasta in creamy sauce with onion, bacon, Parmezan cheese, and egg (220 g).",
+      "price": 9800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7ad3d49d-dd8d-4957-8b3a-a1940397490b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9c8cda67-409f-4ea5-a6d8-298ffda2077f": {
+      "uuid": "9c8cda67-409f-4ea5-a6d8-298ffda2077f",
+      "title": "Соуси",
+      "itemDescription": "Соуси на вибір (50 мл.)",
+      "price": 2500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "156c606c-1f60-4c27-aad0-50f6d18e7624"
+      ]
+    },
+    "328f0d6a-faba-413e-9353-97b5ac171e8e": {
+      "uuid": "328f0d6a-faba-413e-9353-97b5ac171e8e",
+      "title": "Dorado with lemon and thyme",
+      "itemDescription": "",
+      "price": 28800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e454d94f-a489-4f7e-9a11-af8980d200e7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0c033089-c0e5-4e6a-ae80-17fb9beb77c2": {
+      "uuid": "0c033089-c0e5-4e6a-ae80-17fb9beb77c2",
+      "title": "Lasagna Bolognese",
+      "itemDescription": "Lasagna with Bolognese meat sauce, Mozzarella, and Parmesan cheeses (220 g).",
+      "price": 9800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4326712-c313-4bfd-ae73-07235e27398f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "414a3c5a-1ffc-42a9-b2f2-d9f71df1be17": {
+      "uuid": "414a3c5a-1ffc-42a9-b2f2-d9f71df1be17",
+      "title": "Focaccia with Parmesan",
+      "itemDescription": "With tomatoes, and thyme (250 g).",
+      "price": 2800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/188f6e13-3294-47a9-97fe-a73623d20d53",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b0aba512-0433-453f-bcdd-5b6f3d6eb74f": {
+      "uuid": "b0aba512-0433-453f-bcdd-5b6f3d6eb74f",
+      "title": "Duck leg",
+      "itemDescription": "Duck leg with mashed potatoes and caramelised apple.",
+      "price": 19800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fbdbef21-61fa-4161-9ce7-9e7cdcbd24d4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ab4849cc-f266-4753-b5e7-ab1265e5be85": {
+      "uuid": "ab4849cc-f266-4753-b5e7-ab1265e5be85",
+      "title": "Apple Juice Rich",
+      "itemDescription": "1000 ml",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/22e684b5-2727-49c1-9f54-743ac0ea2f78",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "14a5c365-a372-4605-8908-f7c2d1ecd0da": {
+      "uuid": "14a5c365-a372-4605-8908-f7c2d1ecd0da",
+      "title": "Seafood soup",
+      "itemDescription": "250 g.",
+      "price": 12800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/253d362d-4d7c-4600-9054-a4c77533f796",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
+      ]
+    },
+    "2f7cf14f-057a-4e84-bf34-a4cc2e5f7d14": {
+      "uuid": "2f7cf14f-057a-4e84-bf34-a4cc2e5f7d14",
+      "title": "Orange Juice Rich",
+      "itemDescription": "1000 ml",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/68004c35-a287-4a39-a5f6-07fc920b6b36",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "df1b29b6-0964-4f40-bc16-bf59b821e50f": {
+      "uuid": "df1b29b6-0964-4f40-bc16-bf59b821e50f",
+      "title": "Salami",
+      "itemDescription": "Two types of salami: Napoli and Validzhlano, tomato sauce, mozzarella, olives, and arugula (450 g).",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ce8ca7e-326d-439e-be22-c26869751796",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "a15e4126-66ef-4f57-8530-15f69cefed58": {
+      "uuid": "a15e4126-66ef-4f57-8530-15f69cefed58",
+      "title": "Salmon steak",
+      "itemDescription": "",
+      "price": 29800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee6ab6e0-5472-413e-8aba-c474c5ce4c0c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "f5fb8b75-9dad-4ace-86ae-d59220caabf4",
+        "4bd30390-fe58-4963-9d3c-1f8cce9463d8"
+      ]
+    },
+    "30627567-d84d-4152-a115-f06a266af008": {
+      "uuid": "30627567-d84d-4152-a115-f06a266af008",
+      "title": "Ribeye steak",
+      "itemDescription": "",
+      "price": 29800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2315fcc-954d-4108-a34b-b90bad450109",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1908ee60-b5ca-4aaf-a2a4-8f85a6d91f61": {
+      "uuid": "1908ee60-b5ca-4aaf-a2a4-8f85a6d91f61",
+      "title": "Grilled corn",
+      "itemDescription": "",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4facce72-bd26-4654-b317-db702e91c54a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "358d27c0-ace4-401b-8059-a7b3f1c67192": {
+      "uuid": "358d27c0-ace4-401b-8059-a7b3f1c67192",
+      "title": "Rabbit in Italian style",
+      "itemDescription": "Stewed rabbit a Italian herbs with tomatoes, and olives served with patenta.",
+      "price": 18800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/16d345d3-0cf0-40a1-b379-b4348e7901a2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a97c9874-bc8c-423d-9b36-af9f3942f9fe": {
+      "uuid": "a97c9874-bc8c-423d-9b36-af9f3942f9fe",
+      "title": "Farfalle with prosciutto cotto and cherry tomatoes",
+      "itemDescription": "Farfalle pasta with mozzarella, prosciutto cotto, cherry tomatoes with pesto sauce and grated parmesan cheese. 280 g",
+      "price": 16800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d027b57a-6ac4-4916-a281-c302742c4939",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "835a825f-bf7c-4a8a-a7aa-3db9a005be76": {
+      "uuid": "835a825f-bf7c-4a8a-a7aa-3db9a005be76",
+      "title": "Focaccia with mozzarella",
+      "itemDescription": "With dor blu cheeses (250 g).",
+      "price": 7800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/db4221d0-6a71-432e-ae5f-700c3c335a68",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b4e6bcbb-1a75-4c8e-883d-f112fd0cae75": {
+      "uuid": "b4e6bcbb-1a75-4c8e-883d-f112fd0cae75",
+      "title": "Salad with tongue and aragula",
+      "itemDescription": "Salad with beef tongue, lettuce lola-rosa and arugula, cherry tomatoes, gherkins, quail eggs, and Mustard sauce (185 g).",
+      "price": 15800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1d1231d2-b824-46c8-97c4-1bcf2ee7623f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ff38554e-0a4c-45d2-85cc-1245ed58beab": {
+      "uuid": "ff38554e-0a4c-45d2-85cc-1245ed58beab",
+      "title": "Pizza with veal",
+      "itemDescription": "Veal, canned cucumbers, Mozzarella sauce, onions, and Vetello sauce (485 g).",
+      "price": 17800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef9b87ab-1879-4d02-ab87-394878fd3b33",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "91da2331-425a-41ea-956e-081814322510": {
+      "uuid": "91da2331-425a-41ea-956e-081814322510",
+      "title": "Veal cheeks with mashed potatoes",
+      "itemDescription": "Stewed veal cheeks with mashed potatoes, cherry tomatoes. Served with basil chips.",
+      "price": 15800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/41b350f7-6a3a-4867-bf00-fe9ebe680155",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c29a53db-f459-4658-8ab0-7dbe16698bde": {
+      "uuid": "c29a53db-f459-4658-8ab0-7dbe16698bde",
+      "title": "Soup with chicken and homemade pasta",
+      "itemDescription": "250 g.",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9ecedcc-0e93-4a30-bda1-2e7719c3ad53",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
+      ]
+    },
+    "adc926b7-3af1-4673-804e-8cfccff21bfd": {
+      "uuid": "adc926b7-3af1-4673-804e-8cfccff21bfd",
+      "title": "Caesar",
+      "itemDescription": "Checken, lettuce, bacon, tomatoes, Parmesan cheese, and Caesar dressing (480 g).",
+      "price": 15800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a54ddde9-7339-4212-b532-f01fdc531af0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "d92c48b8-9fa0-4fa5-85cf-eeef6fdf1012": {
+      "uuid": "d92c48b8-9fa0-4fa5-85cf-eeef6fdf1012",
+      "title": "Napoleon",
+      "itemDescription": "150 g.",
+      "price": 7800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d67334ba-a8dd-44c7-a300-fec9bb7e3d7d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "42c1538f-e6c2-45b1-afad-73a87fd8dcec": {
+      "uuid": "42c1538f-e6c2-45b1-afad-73a87fd8dcec",
+      "title": "Mashed potatoes",
+      "itemDescription": "150 g.",
+      "price": 4800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/96321586-a41a-4efe-875d-e1320f8bf8d7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "f236c4a1-98b5-43ed-b3a8-42d980e7aa25": {
+      "uuid": "f236c4a1-98b5-43ed-b3a8-42d980e7aa25",
+      "title": "Sprite",
+      "itemDescription": "250 мл",
+      "price": 3500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/30b3cf4d-a1da-4f5a-a145-b44dfcf6fb78",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0786b083-e454-43e9-af34-746ac3b0b10d": {
+      "uuid": "0786b083-e454-43e9-af34-746ac3b0b10d",
+      "title": "Burn",
+      "itemDescription": "250 мл",
+      "price": 5500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/320206d1-be82-4dea-b7bf-1f26f7a9a810",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2e2f79d3-5392-440c-8b1b-7efd45e40ad1": {
+      "uuid": "2e2f79d3-5392-440c-8b1b-7efd45e40ad1",
+      "title": "Tiramisu",
+      "itemDescription": "140 g.",
+      "price": 8800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/513fd615-35e2-4427-ba3d-ef414e38faf4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3b4ee92d-f861-4335-bea3-ee363a14dca6": {
+      "uuid": "3b4ee92d-f861-4335-bea3-ee363a14dca6",
+      "title": "Salad with baby mozzarella and cherry tomatoes",
+      "itemDescription": "Baby mozzarella, cherry tomatoes, avocado, mix of salads: arugula, lollo. Dressed with Balsamic sauce. 150 g",
+      "price": 12800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ddea3393-fe8a-4a67-b66c-da38106242b2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "05692539-e9c3-40b1-aaa3-5fc7a1d72eaf": {
+      "uuid": "05692539-e9c3-40b1-aaa3-5fc7a1d72eaf",
+      "title": "Borjomi",
+      "itemDescription": "330 ml.",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4985c9d2-a250-47a0-8ccb-082cd182a8c8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "235e5b36-282b-4e8b-bfe4-cbe004d1a986": {
+      "uuid": "235e5b36-282b-4e8b-bfe4-cbe004d1a986",
+      "title": "Pizza with prosciutto cotto",
+      "itemDescription": "Prosciutto cotto, bacon, olives, cherry tomatoes, mozzarella, arugula, tomato sauce, barbecue sauce. 470 гр",
+      "price": 17800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2173e016-e34a-4941-bbca-cc8433af7ae0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "2d31d0e4-74be-46bf-b412-af518ba4d961": {
+      "uuid": "2d31d0e4-74be-46bf-b412-af518ba4d961",
+      "title": "Italian veal bombetta",
+      "itemDescription": "Traditional Italian shish kebab. Grilled veal. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
+      "price": 19800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e707741-4425-434a-b6e4-4a357e205403",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "55fed16d-fc4e-4fff-a97f-f9689fe44531": {
+      "uuid": "55fed16d-fc4e-4fff-a97f-f9689fe44531",
+      "title": "Vegetable cream soup with chanterelles",
+      "itemDescription": "Vegetable cream soup with chanterelles and cream. 250 g",
+      "price": 6800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5cdd9446-83c9-4f4d-888d-842fe9653425",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "03e0f421-5ae0-4f93-bc8e-a64d64f89e9d"
+      ]
+    },
+    "1f71ceea-ea1c-4604-b786-21e911058eb4": {
+      "uuid": "1f71ceea-ea1c-4604-b786-21e911058eb4",
+      "title": "Assorted grill",
+      "itemDescription": "Tenderloin of veal, pork neck steak, chicken, grilled potatoes, grilled corn, grilled vegetables, sauces: with cilantro, with mushrooms, barbecues.",
+      "price": 89800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/26bcef96-8cbc-4f47-8d21-babc0fa0039e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "155e298a-13ef-4ec6-a86d-a0138bf76120": {
+      "uuid": "155e298a-13ef-4ec6-a86d-a0138bf76120",
+      "title": "BonAqua",
+      "itemDescription": "330 ml.",
+      "price": 3800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ceb2ba5-4bd9-41af-85f7-9ce52cdb0666",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "1a14f535-a855-4f95-b50e-3378a25948f8"
+      ]
+    },
+    "7db19258-8407-4162-a9b7-bf59dd18e17b": {
+      "uuid": "7db19258-8407-4162-a9b7-bf59dd18e17b",
+      "title": "Italian pork bombetta",
+      "itemDescription": "Traditional Italian shish kebab. Grilled pork. Served with grilled corn, pickled onion and Barbeque sauce. 160/130/50 g",
+      "price": 18800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf212068-5f7c-4559-a603-23fe4bee3f8a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a82d1bda-b7de-476f-b92c-5b1a9de6c69e": {
+      "uuid": "a82d1bda-b7de-476f-b92c-5b1a9de6c69e",
+      "title": "Tagliatelle with veal",
+      "itemDescription": "Tagliatelle with creamy sauce with veal and Parmesan cheese, and basil (220 g).",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b2b526d-4880-4c45-910e-e5604cbc78a2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1c811307-9b58-4e4e-a2b0-4e0cdef29f82": {
+      "uuid": "1c811307-9b58-4e4e-a2b0-4e0cdef29f82",
+      "title": "Pizza with veal and Caesar",
+      "itemDescription": "Two favorite pizzas in one - Caesar, and veal (480 g).",
+      "price": 17300,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/de9bbb82-2e76-4f41-a600-a74b478270d5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "59c5c0a4-b269-40fc-ab1b-30dabdaf7131"
+      ]
+    },
+    "06f07e29-db39-4ac7-9219-90570c3219f8": {
+      "uuid": "06f07e29-db39-4ac7-9219-90570c3219f8",
+      "title": "Grilled vegetables",
+      "itemDescription": "",
+      "price": 9800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/80edc856-e086-4994-8084-ee6e36ca4c70",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "1e71b028-ab4f-4a17-acd0-915e10a1b04c": {
+      "uuid": "1e71b028-ab4f-4a17-acd0-915e10a1b04c",
+      "title": "Pineapple Juice Rich",
+      "itemDescription": "1000 ml",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8ff69df-fb96-4879-a845-1b4ff203f76c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "2b514b3e-3cd9-49ee-9b23-d9f384fe1540": {
+      "uuid": "2b514b3e-3cd9-49ee-9b23-d9f384fe1540",
+      "title": "Risotto with Mushrooms",
+      "itemDescription": "Arborio rice, cepes, parmesan cheese.",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8f29cfc-0041-4961-8b11-6b5d099ebf2e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    }
+  }
 }

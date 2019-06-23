@@ -20,413 +20,92 @@
   ],
   "sections": [
     {
-      "uuid": "e7340157-4c1e-49cc-b01b-1b800a7891ca",
-      "title": "SWITCH LANGUAGE (ENG1)",
-      "subtitle": "10:00 AM – 8:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "7785488e-c64a-4b19-923b-c2b653c24b65",
-        "ff575b65-0fe4-4377-bf64-a1b0463d7166",
-        "ed4bf8c3-aadb-4681-884c-05e98598d1c3",
-        "8cbddd46-b04c-4ad0-b143-7a87933c771a",
-        "3f6590c8-e374-45cc-9570-6b4b1e545b48",
-        "2d58f0d2-d49a-415a-9298-dfaee87e88e3",
-        "8f48d3b4-b087-40bd-aa10-6dd748692cd6"
+      "uuid": "7785488e-c64a-4b19-923b-c2b653c24b65",
+      "title": "Breakfasts",
+      "itemUuids": [
+        "b029ed79-51a3-4a01-8c17-c18c39ac1c5b",
+        "aa917540-f11d-4fc5-a4e0-e7506a27afd8",
+        "1301fe77-4216-40fc-a506-caf045c64895",
+        "a03a9368-e9c0-4906-8d52-ecd384571d9d",
+        "dae7a58e-1ccc-4a68-911a-3e4b35086d76",
+        "b0396293-be71-4579-ad72-2d25e3c780b7",
+        "3c0cd1e6-278d-4f79-a5f6-b96302c7a46a",
+        "fd248759-aa72-4ff0-b872-67276c1846cb",
+        "45b4ff3e-70de-4df1-b71c-b991bc748d0e",
+        "f24a3058-28ca-42cc-8408-ce1a63a8fb08",
+        "98afc87e-3e75-4f25-bd9b-cd94e3dcd91e",
+        "0a095229-53e0-4069-b106-14ae756f2603"
+      ]
+    },
+    {
+      "uuid": "ff575b65-0fe4-4377-bf64-a1b0463d7166",
+      "title": "Sandwiches and croissants",
+      "itemUuids": [
+        "73651f12-e04e-4802-a05e-1a493b2dc311",
+        "14dbe90b-8918-4870-96eb-532516430e91",
+        "e39f62cd-9987-4f56-bec6-08f532c21e5c",
+        "1afcf56a-f998-4c42-8ca0-8f5c12edc84f"
+      ]
+    },
+    {
+      "uuid": "ed4bf8c3-aadb-4681-884c-05e98598d1c3",
+      "title": "Snacks",
+      "itemUuids": [
+        "d9e83a5e-d66b-4a3b-91f2-a726be33dc6a",
+        "1fb259ff-8c54-4a43-8365-2e575747671b",
+        "cc957ba9-bf0f-4d8b-a4d4-8741be9a47a1",
+        "24df907c-6adc-4a9c-8364-34829a8eb22a",
+        "a58939d9-5cc4-430d-95cd-898a4deab972",
+        "0b8b9119-61b3-4ce5-bcde-ce69c9583b57"
+      ]
+    },
+    {
+      "uuid": "8cbddd46-b04c-4ad0-b143-7a87933c771a",
+      "title": "Soups",
+      "itemUuids": [
+        "d04132b1-7bd1-444a-a13d-9b7e6a804626",
+        "1712469a-80fd-46a6-9efd-f34efd1b29cf",
+        "6dfb062c-0489-4c62-a365-1f8f008c799d"
+      ]
+    },
+    {
+      "uuid": "3f6590c8-e374-45cc-9570-6b4b1e545b48",
+      "title": "Salads",
+      "itemUuids": [
+        "b7b4b0f5-e331-4e16-b252-42d2471d09e6",
+        "d34dcdb4-af06-44d1-b939-31f9e6a1324e",
+        "00df5aea-c3da-4820-a9dc-944754bac3a0"
+      ]
+    },
+    {
+      "uuid": "2d58f0d2-d49a-415a-9298-dfaee87e88e3",
+      "title": "Desserts",
+      "itemUuids": [
+        "ca72ef5a-2525-4565-9b0c-e5bafab697d5",
+        "c9128c9a-15be-45eb-b2f7-8e4f2f3b2c51",
+        "539f0c12-ce0a-41c6-93bb-edf8ef1f0425",
+        "6b06b3e0-9a85-4b5b-98e0-eb175b97ad19",
+        "af079fc9-c61c-4512-b960-e81f73e9e06e",
+        "bc2a7ce6-e3be-4d2a-b79d-3815d2d6ad76",
+        "ab4926f6-32d8-44aa-9b64-aaf65191dac6",
+        "1dd23e7c-5522-4760-ade8-dfada3aef72d",
+        "2008eb55-ced0-4fc8-8f51-48a48f581538",
+        "6627cfc8-b4b6-49a9-9fb1-0fe9df816560"
+      ]
+    },
+    {
+      "uuid": "8f48d3b4-b087-40bd-aa10-6dd748692cd6",
+      "title": "Beverages",
+      "itemUuids": [
+        "78632d4f-73ec-4cf8-8b65-b5a4f21594fd",
+        "60deb4c9-0cba-4073-ad04-0e43d9d3790f",
+        "cd6804b8-fc01-441a-b239-229de094abf9",
+        "730b897e-6330-4985-b14a-bc56f2e34e9d",
+        "34fe3710-63e3-46d2-afe7-b2f3495ede26",
+        "2fdc8727-c9a2-418f-bd17-2fcde49ce1ed"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "e7340157-4c1e-49cc-b01b-1b800a7891ca": {
-      "itemsMap": {
-        "730b897e-6330-4985-b14a-bc56f2e34e9d": {
-          "uuid": "730b897e-6330-4985-b14a-bc56f2e34e9d",
-          "title": "Mineral water \"Voda UA\"",
-          "itemDescription": "Sparkling/still (300ml).",
-          "price": 4300,
-          "customizationUuids": [
-            "dd522bde-8ee2-48db-a189-02ad1faece23"
-          ]
-        },
-        "cc957ba9-bf0f-4d8b-a4d4-8741be9a47a1": {
-          "uuid": "cc957ba9-bf0f-4d8b-a4d4-8741be9a47a1",
-          "title": "Belgian waffles with jamon, sun-dried tomato, and pesto",
-          "itemDescription": "Belgian waffles, jamon, sun-dried tomatoes, pesto, poached egg, and chives. Served  with cherry tomatoes, and lettuce salad.",
-          "price": 15500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f7188282-a4b5-4a79-aad8-18a4ce15635f"
-        },
-        "c9128c9a-15be-45eb-b2f7-8e4f2f3b2c51": {
-          "uuid": "c9128c9a-15be-45eb-b2f7-8e4f2f3b2c51",
-          "title": "Pistachio eclair",
-          "itemDescription": "Dough: milk 2.5%, butter, chicken eggs, flour, sugar; pistachio custard cream, and fondant (70g).",
-          "price": 4500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6bb60e2c-0c0a-4baf-aba2-3eac7fa349e4"
-        },
-        "b029ed79-51a3-4a01-8c17-c18c39ac1c5b": {
-          "uuid": "b029ed79-51a3-4a01-8c17-c18c39ac1c5b",
-          "title": "Homemade yogurt with granola",
-          "itemDescription": "Natural homemade yoghurt, granola of oat flakes, almonds, sesame seeds, sunflower seeds, pumpkin seeds, raisins, dried cherries, honey, and vegetable oil (280g).",
-          "price": 7900
-        },
-        "1afcf56a-f998-4c42-8ca0-8f5c12edc84f": {
-          "uuid": "1afcf56a-f998-4c42-8ca0-8f5c12edc84f",
-          "title": "Croissant with pesto, tomatoes, and jamon",
-          "itemDescription": "Croissant, pesto, tomatoes, and jamon.",
-          "price": 11500
-        },
-        "e39f62cd-9987-4f56-bec6-08f532c21e5c": {
-          "uuid": "e39f62cd-9987-4f56-bec6-08f532c21e5c",
-          "title": "Croissant with salmon, cream cheese and avocado",
-          "itemDescription": "200g.",
-          "price": 10500
-        },
-        "1dd23e7c-5522-4760-ade8-dfada3aef72d": {
-          "uuid": "1dd23e7c-5522-4760-ade8-dfada3aef72d",
-          "title": "Chocolate cheesecake with salted caramel",
-          "itemDescription": "Whoopie base (cocoa butter, milk 2.5%, sugar, flour, chicken eggs, baking powder, and baking soda), cheese mousse (Philadelphia cream cheese, sugar powder, cocoa, black chocolate, and chicken eggs), and salty caramel (butter, sugar, cream 30%, and salt) (200g).",
-          "price": 8900
-        },
-        "6627cfc8-b4b6-49a9-9fb1-0fe9df816560": {
-          "uuid": "6627cfc8-b4b6-49a9-9fb1-0fe9df816560",
-          "title": "Tropical cheesecake",
-          "itemDescription": "",
-          "price": 8500
-        },
-        "a58939d9-5cc4-430d-95cd-898a4deab972": {
-          "uuid": "a58939d9-5cc4-430d-95cd-898a4deab972",
-          "title": "Pie with ham, tomatoes, feta cheese",
-          "itemDescription": "Shortcrust dough, tomatoes, sweet peppers, ham, feta, chicken eggs, cream 30%, basil, and spices (150g).",
-          "price": 8900
-        },
-        "f24a3058-28ca-42cc-8408-ce1a63a8fb08": {
-          "uuid": "f24a3058-28ca-42cc-8408-ce1a63a8fb08",
-          "title": "Big English breakfast",
-          "itemDescription": "Two eggs, smoked sausages of chicken meat, bacon, beans in tomato sauce, baked mushrooms and tomatoes, toasts with bacon, butter, and mache salad (500g).",
-          "price": 14900
-        },
-        "1301fe77-4216-40fc-a506-caf045c64895": {
-          "uuid": "1301fe77-4216-40fc-a506-caf045c64895",
-          "title": "Oatmeal porridge with dates and cranberries",
-          "itemDescription": "Oatmeal with milk 2,5% or water, almond flakes, dates, dried cranberries, honey, and grounded cinnamon (380g).",
-          "price": 6900,
-          "customizationUuids": [
-            "be00f4b6-e561-4611-b8ce-38a9b71c116a"
-          ]
-        },
-        "73651f12-e04e-4802-a05e-1a493b2dc311": {
-          "uuid": "73651f12-e04e-4802-a05e-1a493b2dc311",
-          "title": "Sandwich with ham",
-          "itemDescription": "Cheddar cheese, fresh tomatoes, and Caesar sauce. Served with salad of fresh lettuce, cherry tomatoes, and balsamic dressing (300g).",
-          "price": 10500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/50f988ee-8cb5-4d76-b97e-8eac926d13af"
-        },
-        "bc2a7ce6-e3be-4d2a-b79d-3815d2d6ad76": {
-          "uuid": "bc2a7ce6-e3be-4d2a-b79d-3815d2d6ad76",
-          "title": "Cheesecake classic",
-          "itemDescription": "Graham crackers, Philadelphia cream cheese, cream 30%, sour cream 20%, brown sugar, chicken eggs, butter, flour, sugar powder, sugar, lemon fresh juice, and fresh strawberries (170g).",
-          "price": 8500
-        },
-        "3c0cd1e6-278d-4f79-a5f6-b96302c7a46a": {
-          "uuid": "3c0cd1e6-278d-4f79-a5f6-b96302c7a46a",
-          "title": "Poached eggs with guacamole",
-          "itemDescription": "Chicken eggs, pickled red onions, sweet red peppers, avocado guacamole, lemon fresh juce, olive oil, garlic, tomatoes, green basil, chili peppers; pumpkin seeds, sesame seeds, arugula, pepper mix. Served with fresh lettuce, cherry tomatoes, and balsamic dressing (250g).",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc703184-a468-458d-8c93-ae8e225b4960",
-          "suspendUntil": 8640000000
-        },
-        "b0396293-be71-4579-ad72-2d25e3c780b7": {
-          "uuid": "b0396293-be71-4579-ad72-2d25e3c780b7",
-          "title": "Scrambled eggs with salmon",
-          "itemDescription": "Chicken eggs, milk 2.6%, avocado, tomatoes, salmon, Philadelphia cheese, and vegetable oil. Served with a bun (300g).",
-          "price": 12900
-        },
-        "60deb4c9-0cba-4073-ad04-0e43d9d3790f": {
-          "uuid": "60deb4c9-0cba-4073-ad04-0e43d9d3790f",
-          "title": "Smoothies to drink",
-          "itemDescription": "Flavor to choose (300ml).",
-          "price": 8500,
-          "customizationUuids": [
-            "ec7c5f51-b2db-40d1-83e4-d3596c688d86"
-          ]
-        },
-        "45b4ff3e-70de-4df1-b71c-b991bc748d0e": {
-          "uuid": "45b4ff3e-70de-4df1-b71c-b991bc748d0e",
-          "title": "Benedict eggs with salmon",
-          "itemDescription": "Chicken eggs, salted salmon, hollandaise sauce, bun. Served with fresh lettuce, cherry tomatoes, and balsamic fillings (230g).",
-          "price": 12500
-        },
-        "d34dcdb4-af06-44d1-b939-31f9e6a1324e": {
-          "uuid": "d34dcdb4-af06-44d1-b939-31f9e6a1324e",
-          "title": "Caesar salad with chicken, bacon, Parmesan cheese, and quail eggs",
-          "itemDescription": "Chicken, leaves of Romaine, fried bacon, Parmesan cheese, Caesar sauce, cucumber, cherry tomatoes, oil, quail eggs, crutones (300g).",
-          "price": 12000
-        },
-        "539f0c12-ce0a-41c6-93bb-edf8ef1f0425": {
-          "uuid": "539f0c12-ce0a-41c6-93bb-edf8ef1f0425",
-          "title": "Mango eclair",
-          "itemDescription": "Dough: milk 2.5%, butter, chicken eggs, flour, sugar; mango custard cream, and fondant (70g).",
-          "price": 4500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/48925d83-167a-40f3-b75c-dc3e6390bfdd"
-        },
-        "00df5aea-c3da-4820-a9dc-944754bac3a0": {
-          "uuid": "00df5aea-c3da-4820-a9dc-944754bac3a0",
-          "title": "Salad with salmon, avocado, quail eggs and crutones",
-          "itemDescription": "Lollo rosso lettuce, salmon, avocado, cherry tomatoes, quail eggs, mash-salad, black sesame, and mustard-honey refueling (300g).",
-          "price": 12000
-        },
-        "98afc87e-3e75-4f25-bd9b-cd94e3dcd91e": {
-          "uuid": "98afc87e-3e75-4f25-bd9b-cd94e3dcd91e",
-          "title": "Scrambled eggs with bacon, cream cheese, tomatoes, and avocado",
-          "itemDescription": "Eggs, milk, oil, basil, bacon, tomatoes, avocado, cream cheese, capers, toasts, salt, and pepper.",
-          "price": 12900
-        },
-        "2fdc8727-c9a2-418f-bd17-2fcde49ce1ed": {
-          "uuid": "2fdc8727-c9a2-418f-bd17-2fcde49ce1ed",
-          "title": "Lemonades",
-          "itemDescription": "Flavor to choose (300ml).",
-          "price": 6500,
-          "customizationUuids": [
-            "f8d5fc45-f8dc-417a-89fb-54a234ee589d"
-          ]
-        },
-        "ab4926f6-32d8-44aa-9b64-aaf65191dac6": {
-          "uuid": "ab4926f6-32d8-44aa-9b64-aaf65191dac6",
-          "title": "Cheesecake Snickers",
-          "itemDescription": "Basis - graham crackers (wheat flour, whole grain flour, brown sugar, butter, honey, milk, and baking soda), cheese mousse (vanilla extract, butter, brown sugar, Philadelphia cream cheese, chicken eggs, wheat flour, sugar, and cream) (180g).",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6c7fb66-ab08-49d1-84e8-4cd7c46488ec"
-        },
-        "af079fc9-c61c-4512-b960-e81f73e9e06e": {
-          "uuid": "af079fc9-c61c-4512-b960-e81f73e9e06e",
-          "title": "Galician cottage cheese pancakes",
-          "itemDescription": "Cottage cheese, sour cream 30%, dried apricots, raisins, chicken eggs, wheat flour, semolina, butter, sugar, and chocolate toping (160g).",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fdcead14-e982-4477-8885-22caeff5cdf7"
-        },
-        "d9e83a5e-d66b-4a3b-91f2-a726be33dc6a": {
-          "uuid": "d9e83a5e-d66b-4a3b-91f2-a726be33dc6a",
-          "title": "Belgian waffles with chicken, bacon, Cheddar cheese, and jalapeno",
-          "itemDescription": "Belgian waffles chicken,  tomatoes, lettuce, yogurt sauce with garlic, Cheddar cheese, jalapeno pepper, fried egg, salt, and pepper.",
-          "price": 15500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bb1bff1-a36a-4755-a0ad-accc134fdc36"
-        },
-        "cd6804b8-fc01-441a-b239-229de094abf9": {
-          "uuid": "cd6804b8-fc01-441a-b239-229de094abf9",
-          "title": "Fresh juice",
-          "itemDescription": "Flavor to choose.",
-          "price": 7500,
-          "customizationUuids": [
-            "b69b0657-d852-4fc1-b384-a63179e919c6"
-          ]
-        },
-        "78632d4f-73ec-4cf8-8b65-b5a4f21594fd": {
-          "uuid": "78632d4f-73ec-4cf8-8b65-b5a4f21594fd",
-          "title": "Smoothies to eat",
-          "itemDescription": "Flavor to choose (500g).",
-          "price": 12000,
-          "customizationUuids": [
-            "06349df5-634e-428d-929d-8457229415b7"
-          ]
-        },
-        "a03a9368-e9c0-4906-8d52-ecd384571d9d": {
-          "uuid": "a03a9368-e9c0-4906-8d52-ecd384571d9d",
-          "title": "Oatmeal porridge with peanut paste",
-          "itemDescription": "With cow or non-dairy milk, with peanut paste, nuts, raspberry confit, and seasonal berries  (300g).",
-          "price": 8500,
-          "customizationUuids": [
-            "3ca394c3-98eb-42a7-8dce-ba0ab459a4b9"
-          ]
-        },
-        "2008eb55-ced0-4fc8-8f51-48a48f581538": {
-          "uuid": "2008eb55-ced0-4fc8-8f51-48a48f581538",
-          "title": "Almond sweets",
-          "itemDescription": "Almond flakes, flour, sugar, cream 30%, and honey (11g).",
-          "price": 2200
-        },
-        "14dbe90b-8918-4870-96eb-532516430e91": {
-          "uuid": "14dbe90b-8918-4870-96eb-532516430e91",
-          "title": "Sandwich with salmon",
-          "itemDescription": "Bun, cream cheese, light-salted salmon, red pickled onions, fresh cucumbers, capers, and fresh lettuce (300g).",
-          "price": 10500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/04ce54fb-82d1-4ac2-a031-3279686947f9"
-        },
-        "6dfb062c-0489-4c62-a365-1f8f008c799d": {
-          "uuid": "6dfb062c-0489-4c62-a365-1f8f008c799d",
-          "title": "Cream of mushroom soup with crutones",
-          "itemDescription": "Champignons, cream, milk, oil, salt, pepper, and crutones (250g).",
-          "price": 9500
-        },
-        "b7b4b0f5-e331-4e16-b252-42d2471d09e6": {
-          "uuid": "b7b4b0f5-e331-4e16-b252-42d2471d09e6",
-          "title": "Greek salad",
-          "itemDescription": "Tomatoes, cucumbers, peppers, cherries, Kalamata olives, red onions, Romaine salad, and feta cheese (300g).",
-          "price": 11000
-        },
-        "aa917540-f11d-4fc5-a4e0-e7506a27afd8": {
-          "uuid": "aa917540-f11d-4fc5-a4e0-e7506a27afd8",
-          "title": "Chia pudding with mango",
-          "itemDescription": "Natural homemade yogurt, chia seeds, natural mango sauce, and almond flakes (280g).",
-          "price": 8900
-        },
-        "ca72ef5a-2525-4565-9b0c-e5bafab697d5": {
-          "uuid": "ca72ef5a-2525-4565-9b0c-e5bafab697d5",
-          "title": "Vanilla eclair",
-          "itemDescription": "Dough: milk 2.5%, butter, chicken eggs, flour, sugar; vanilla custard cream, and fondant (70g).",
-          "price": 4500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6bb60e2c-0c0a-4baf-aba2-3eac7fa349e4"
-        },
-        "6b06b3e0-9a85-4b5b-98e0-eb175b97ad19": {
-          "uuid": "6b06b3e0-9a85-4b5b-98e0-eb175b97ad19",
-          "title": "Brownie classic",
-          "itemDescription": "Black chocolate, almonds, butter, chicken egg, wheat flour, sugar, and salt (75g).",
-          "price": 4500
-        },
-        "dae7a58e-1ccc-4a68-911a-3e4b35086d76": {
-          "uuid": "dae7a58e-1ccc-4a68-911a-3e4b35086d76",
-          "title": "Cheese pancakes with raspberry confit and sweet sour cream",
-          "itemDescription": "Сottage cheese, flour, semolina, sour cream, vanilla sugar, sugar and two sauces: sweet sour cream, and raspberry confit (250п).",
-          "price": 8900
-        },
-        "0a095229-53e0-4069-b106-14ae756f2603": {
-          "uuid": "0a095229-53e0-4069-b106-14ae756f2603",
-          "title": "Scrambled eggs with jamon, sun-dried tomatoes, Parmesan, and basil",
-          "itemDescription": "Eggs, milk, oil, basil, jamon, sun-dried tomatoes, Parmesan cheese, capers, and salt.",
-          "price": 12900
-        },
-        "d04132b1-7bd1-444a-a13d-9b7e6a804626": {
-          "uuid": "d04132b1-7bd1-444a-a13d-9b7e6a804626",
-          "title": "Finnish salmon cream soup",
-          "itemDescription": "Cream soup of fish broth, potatoes, leeks and carrots, served with slices of light-salted salmon, and cream 30%. Served with a bun, and decorated with thyme (300g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3df84385-c305-4391-9f0f-e077e6af3e1b"
-        },
-        "1712469a-80fd-46a6-9efd-f34efd1b29cf": {
-          "uuid": "1712469a-80fd-46a6-9efd-f34efd1b29cf",
-          "title": "Cream soup with broccoli and cheddar cheese",
-          "itemDescription": "Broccoli, cheddar cheese, potatoes, milk 2,5%, cream 30%, flour, vegetable oil, butter, chives, red onions, chicken broth, and pepper mix (300g).",
-          "price": 9500
-        },
-        "fd248759-aa72-4ff0-b872-67276c1846cb": {
-          "uuid": "fd248759-aa72-4ff0-b872-67276c1846cb",
-          "title": "Eggs Benedict with bacon",
-          "itemDescription": "Chicken eggs, bacon, hollandaise sauce, arugula, olive oil. Served with fresh lettuce, cherry tomatoes, and balsamic fillings (230g).",
-          "price": 12500
-        },
-        "0b8b9119-61b3-4ce5-bcde-ce69c9583b57": {
-          "uuid": "0b8b9119-61b3-4ce5-bcde-ce69c9583b57",
-          "title": "Pie with spinach and goat cheese",
-          "itemDescription": "Shortcrust dough, goat cheese, spinach, butter, chicken eggs, cream 30%, and pepper (150g).",
-          "price": 8900
-        },
-        "34fe3710-63e3-46d2-afe7-b2f3495ede26": {
-          "uuid": "34fe3710-63e3-46d2-afe7-b2f3495ede26",
-          "title": "Borjomi",
-          "itemDescription": "300ml.",
-          "price": 4900
-        },
-        "24df907c-6adc-4a9c-8364-34829a8eb22a": {
-          "uuid": "24df907c-6adc-4a9c-8364-34829a8eb22a",
-          "title": "Pie with salmon, broccoli and cheddar cheese",
-          "itemDescription": "Shortcrust dough, salted salmon, broccoli, cream dressing, cheddar cheese, and spices (150g).",
-          "price": 9500
-        },
-        "1fb259ff-8c54-4a43-8365-2e575747671b": {
-          "uuid": "1fb259ff-8c54-4a43-8365-2e575747671b",
-          "title": "Belgian waffles with salmon",
-          "itemDescription": "Salt dough: milk, butter, chicken eggs, flour, baking powder; salmon, hollandaise sauce (fish sauce, lemon fresh juice), chicken eggs, flour, butter, cinnamon, eggs, leeks, capers, lemon peel, olive oil, and arugula (300g).",
-          "price": 15500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a509add7-a846-4c9c-b4a4-26808d63c73b"
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "7785488e-c64a-4b19-923b-c2b653c24b65",
-          "title": "Breakfasts",
-          "itemUuids": [
-            "b029ed79-51a3-4a01-8c17-c18c39ac1c5b",
-            "aa917540-f11d-4fc5-a4e0-e7506a27afd8",
-            "1301fe77-4216-40fc-a506-caf045c64895",
-            "a03a9368-e9c0-4906-8d52-ecd384571d9d",
-            "dae7a58e-1ccc-4a68-911a-3e4b35086d76",
-            "b0396293-be71-4579-ad72-2d25e3c780b7",
-            "3c0cd1e6-278d-4f79-a5f6-b96302c7a46a",
-            "fd248759-aa72-4ff0-b872-67276c1846cb",
-            "45b4ff3e-70de-4df1-b71c-b991bc748d0e",
-            "f24a3058-28ca-42cc-8408-ce1a63a8fb08",
-            "98afc87e-3e75-4f25-bd9b-cd94e3dcd91e",
-            "0a095229-53e0-4069-b106-14ae756f2603"
-          ]
-        },
-        {
-          "uuid": "ff575b65-0fe4-4377-bf64-a1b0463d7166",
-          "title": "Sandwiches and croissants",
-          "itemUuids": [
-            "73651f12-e04e-4802-a05e-1a493b2dc311",
-            "14dbe90b-8918-4870-96eb-532516430e91",
-            "e39f62cd-9987-4f56-bec6-08f532c21e5c",
-            "1afcf56a-f998-4c42-8ca0-8f5c12edc84f"
-          ]
-        },
-        {
-          "uuid": "ed4bf8c3-aadb-4681-884c-05e98598d1c3",
-          "title": "Snacks",
-          "itemUuids": [
-            "d9e83a5e-d66b-4a3b-91f2-a726be33dc6a",
-            "1fb259ff-8c54-4a43-8365-2e575747671b",
-            "cc957ba9-bf0f-4d8b-a4d4-8741be9a47a1",
-            "24df907c-6adc-4a9c-8364-34829a8eb22a",
-            "a58939d9-5cc4-430d-95cd-898a4deab972",
-            "0b8b9119-61b3-4ce5-bcde-ce69c9583b57"
-          ]
-        },
-        {
-          "uuid": "8cbddd46-b04c-4ad0-b143-7a87933c771a",
-          "title": "Soups",
-          "itemUuids": [
-            "d04132b1-7bd1-444a-a13d-9b7e6a804626",
-            "1712469a-80fd-46a6-9efd-f34efd1b29cf",
-            "6dfb062c-0489-4c62-a365-1f8f008c799d"
-          ]
-        },
-        {
-          "uuid": "3f6590c8-e374-45cc-9570-6b4b1e545b48",
-          "title": "Salads",
-          "itemUuids": [
-            "b7b4b0f5-e331-4e16-b252-42d2471d09e6",
-            "d34dcdb4-af06-44d1-b939-31f9e6a1324e",
-            "00df5aea-c3da-4820-a9dc-944754bac3a0"
-          ]
-        },
-        {
-          "uuid": "2d58f0d2-d49a-415a-9298-dfaee87e88e3",
-          "title": "Desserts",
-          "itemUuids": [
-            "ca72ef5a-2525-4565-9b0c-e5bafab697d5",
-            "c9128c9a-15be-45eb-b2f7-8e4f2f3b2c51",
-            "539f0c12-ce0a-41c6-93bb-edf8ef1f0425",
-            "6b06b3e0-9a85-4b5b-98e0-eb175b97ad19",
-            "af079fc9-c61c-4512-b960-e81f73e9e06e",
-            "bc2a7ce6-e3be-4d2a-b79d-3815d2d6ad76",
-            "ab4926f6-32d8-44aa-9b64-aaf65191dac6",
-            "1dd23e7c-5522-4760-ade8-dfada3aef72d",
-            "2008eb55-ced0-4fc8-8f51-48a48f581538",
-            "6627cfc8-b4b6-49a9-9fb1-0fe9df816560"
-          ]
-        },
-        {
-          "uuid": "8f48d3b4-b087-40bd-aa10-6dd748692cd6",
-          "title": "Beverages",
-          "itemUuids": [
-            "78632d4f-73ec-4cf8-8b65-b5a4f21594fd",
-            "60deb4c9-0cba-4073-ad04-0e43d9d3790f",
-            "cd6804b8-fc01-441a-b239-229de094abf9",
-            "730b897e-6330-4985-b14a-bc56f2e34e9d",
-            "34fe3710-63e3-46d2-afe7-b2f3495ede26",
-            "2fdc8727-c9a2-418f-bd17-2fcde49ce1ed"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4417297,
     "longitude": 30.52061909999999,
@@ -465,5 +144,305 @@
     "storeRatingScore": 4.582278481012659,
     "ratingCount": "79"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8c21483c-b073-4f76-8be2-d8c1fe517d3a"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8c21483c-b073-4f76-8be2-d8c1fe517d3a",
+  "items": {
+    "730b897e-6330-4985-b14a-bc56f2e34e9d": {
+      "uuid": "730b897e-6330-4985-b14a-bc56f2e34e9d",
+      "title": "Mineral water \"Voda UA\"",
+      "itemDescription": "Sparkling/still (300ml).",
+      "price": 4300,
+      "customizationUuids": [
+        "dd522bde-8ee2-48db-a189-02ad1faece23"
+      ]
+    },
+    "cc957ba9-bf0f-4d8b-a4d4-8741be9a47a1": {
+      "uuid": "cc957ba9-bf0f-4d8b-a4d4-8741be9a47a1",
+      "title": "Belgian waffles with jamon, sun-dried tomato, and pesto",
+      "itemDescription": "Belgian waffles, jamon, sun-dried tomatoes, pesto, poached egg, and chives. Served  with cherry tomatoes, and lettuce salad.",
+      "price": 15500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f7188282-a4b5-4a79-aad8-18a4ce15635f"
+    },
+    "c9128c9a-15be-45eb-b2f7-8e4f2f3b2c51": {
+      "uuid": "c9128c9a-15be-45eb-b2f7-8e4f2f3b2c51",
+      "title": "Pistachio eclair",
+      "itemDescription": "Dough: milk 2.5%, butter, chicken eggs, flour, sugar; pistachio custard cream, and fondant (70g).",
+      "price": 4500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6bb60e2c-0c0a-4baf-aba2-3eac7fa349e4"
+    },
+    "b029ed79-51a3-4a01-8c17-c18c39ac1c5b": {
+      "uuid": "b029ed79-51a3-4a01-8c17-c18c39ac1c5b",
+      "title": "Homemade yogurt with granola",
+      "itemDescription": "Natural homemade yoghurt, granola of oat flakes, almonds, sesame seeds, sunflower seeds, pumpkin seeds, raisins, dried cherries, honey, and vegetable oil (280g).",
+      "price": 7900
+    },
+    "1afcf56a-f998-4c42-8ca0-8f5c12edc84f": {
+      "uuid": "1afcf56a-f998-4c42-8ca0-8f5c12edc84f",
+      "title": "Croissant with pesto, tomatoes, and jamon",
+      "itemDescription": "Croissant, pesto, tomatoes, and jamon.",
+      "price": 11500
+    },
+    "e39f62cd-9987-4f56-bec6-08f532c21e5c": {
+      "uuid": "e39f62cd-9987-4f56-bec6-08f532c21e5c",
+      "title": "Croissant with salmon, cream cheese and avocado",
+      "itemDescription": "200g.",
+      "price": 10500
+    },
+    "1dd23e7c-5522-4760-ade8-dfada3aef72d": {
+      "uuid": "1dd23e7c-5522-4760-ade8-dfada3aef72d",
+      "title": "Chocolate cheesecake with salted caramel",
+      "itemDescription": "Whoopie base (cocoa butter, milk 2.5%, sugar, flour, chicken eggs, baking powder, and baking soda), cheese mousse (Philadelphia cream cheese, sugar powder, cocoa, black chocolate, and chicken eggs), and salty caramel (butter, sugar, cream 30%, and salt) (200g).",
+      "price": 8900
+    },
+    "6627cfc8-b4b6-49a9-9fb1-0fe9df816560": {
+      "uuid": "6627cfc8-b4b6-49a9-9fb1-0fe9df816560",
+      "title": "Tropical cheesecake",
+      "itemDescription": "",
+      "price": 8500
+    },
+    "a58939d9-5cc4-430d-95cd-898a4deab972": {
+      "uuid": "a58939d9-5cc4-430d-95cd-898a4deab972",
+      "title": "Pie with ham, tomatoes, feta cheese",
+      "itemDescription": "Shortcrust dough, tomatoes, sweet peppers, ham, feta, chicken eggs, cream 30%, basil, and spices (150g).",
+      "price": 8900
+    },
+    "f24a3058-28ca-42cc-8408-ce1a63a8fb08": {
+      "uuid": "f24a3058-28ca-42cc-8408-ce1a63a8fb08",
+      "title": "Big English breakfast",
+      "itemDescription": "Two eggs, smoked sausages of chicken meat, bacon, beans in tomato sauce, baked mushrooms and tomatoes, toasts with bacon, butter, and mache salad (500g).",
+      "price": 14900
+    },
+    "1301fe77-4216-40fc-a506-caf045c64895": {
+      "uuid": "1301fe77-4216-40fc-a506-caf045c64895",
+      "title": "Oatmeal porridge with dates and cranberries",
+      "itemDescription": "Oatmeal with milk 2,5% or water, almond flakes, dates, dried cranberries, honey, and grounded cinnamon (380g).",
+      "price": 6900,
+      "customizationUuids": [
+        "be00f4b6-e561-4611-b8ce-38a9b71c116a"
+      ]
+    },
+    "73651f12-e04e-4802-a05e-1a493b2dc311": {
+      "uuid": "73651f12-e04e-4802-a05e-1a493b2dc311",
+      "title": "Sandwich with ham",
+      "itemDescription": "Cheddar cheese, fresh tomatoes, and Caesar sauce. Served with salad of fresh lettuce, cherry tomatoes, and balsamic dressing (300g).",
+      "price": 10500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/50f988ee-8cb5-4d76-b97e-8eac926d13af"
+    },
+    "bc2a7ce6-e3be-4d2a-b79d-3815d2d6ad76": {
+      "uuid": "bc2a7ce6-e3be-4d2a-b79d-3815d2d6ad76",
+      "title": "Cheesecake classic",
+      "itemDescription": "Graham crackers, Philadelphia cream cheese, cream 30%, sour cream 20%, brown sugar, chicken eggs, butter, flour, sugar powder, sugar, lemon fresh juice, and fresh strawberries (170g).",
+      "price": 8500
+    },
+    "3c0cd1e6-278d-4f79-a5f6-b96302c7a46a": {
+      "uuid": "3c0cd1e6-278d-4f79-a5f6-b96302c7a46a",
+      "title": "Poached eggs with guacamole",
+      "itemDescription": "Chicken eggs, pickled red onions, sweet red peppers, avocado guacamole, lemon fresh juce, olive oil, garlic, tomatoes, green basil, chili peppers; pumpkin seeds, sesame seeds, arugula, pepper mix. Served with fresh lettuce, cherry tomatoes, and balsamic dressing (250g).",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc703184-a468-458d-8c93-ae8e225b4960",
+      "suspendUntil": 8640000000
+    },
+    "b0396293-be71-4579-ad72-2d25e3c780b7": {
+      "uuid": "b0396293-be71-4579-ad72-2d25e3c780b7",
+      "title": "Scrambled eggs with salmon",
+      "itemDescription": "Chicken eggs, milk 2.6%, avocado, tomatoes, salmon, Philadelphia cheese, and vegetable oil. Served with a bun (300g).",
+      "price": 12900
+    },
+    "60deb4c9-0cba-4073-ad04-0e43d9d3790f": {
+      "uuid": "60deb4c9-0cba-4073-ad04-0e43d9d3790f",
+      "title": "Smoothies to drink",
+      "itemDescription": "Flavor to choose (300ml).",
+      "price": 8500,
+      "customizationUuids": [
+        "ec7c5f51-b2db-40d1-83e4-d3596c688d86"
+      ]
+    },
+    "45b4ff3e-70de-4df1-b71c-b991bc748d0e": {
+      "uuid": "45b4ff3e-70de-4df1-b71c-b991bc748d0e",
+      "title": "Benedict eggs with salmon",
+      "itemDescription": "Chicken eggs, salted salmon, hollandaise sauce, bun. Served with fresh lettuce, cherry tomatoes, and balsamic fillings (230g).",
+      "price": 12500
+    },
+    "d34dcdb4-af06-44d1-b939-31f9e6a1324e": {
+      "uuid": "d34dcdb4-af06-44d1-b939-31f9e6a1324e",
+      "title": "Caesar salad with chicken, bacon, Parmesan cheese, and quail eggs",
+      "itemDescription": "Chicken, leaves of Romaine, fried bacon, Parmesan cheese, Caesar sauce, cucumber, cherry tomatoes, oil, quail eggs, crutones (300g).",
+      "price": 12000
+    },
+    "539f0c12-ce0a-41c6-93bb-edf8ef1f0425": {
+      "uuid": "539f0c12-ce0a-41c6-93bb-edf8ef1f0425",
+      "title": "Mango eclair",
+      "itemDescription": "Dough: milk 2.5%, butter, chicken eggs, flour, sugar; mango custard cream, and fondant (70g).",
+      "price": 4500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/48925d83-167a-40f3-b75c-dc3e6390bfdd"
+    },
+    "00df5aea-c3da-4820-a9dc-944754bac3a0": {
+      "uuid": "00df5aea-c3da-4820-a9dc-944754bac3a0",
+      "title": "Salad with salmon, avocado, quail eggs and crutones",
+      "itemDescription": "Lollo rosso lettuce, salmon, avocado, cherry tomatoes, quail eggs, mash-salad, black sesame, and mustard-honey refueling (300g).",
+      "price": 12000
+    },
+    "98afc87e-3e75-4f25-bd9b-cd94e3dcd91e": {
+      "uuid": "98afc87e-3e75-4f25-bd9b-cd94e3dcd91e",
+      "title": "Scrambled eggs with bacon, cream cheese, tomatoes, and avocado",
+      "itemDescription": "Eggs, milk, oil, basil, bacon, tomatoes, avocado, cream cheese, capers, toasts, salt, and pepper.",
+      "price": 12900
+    },
+    "2fdc8727-c9a2-418f-bd17-2fcde49ce1ed": {
+      "uuid": "2fdc8727-c9a2-418f-bd17-2fcde49ce1ed",
+      "title": "Lemonades",
+      "itemDescription": "Flavor to choose (300ml).",
+      "price": 6500,
+      "customizationUuids": [
+        "f8d5fc45-f8dc-417a-89fb-54a234ee589d"
+      ]
+    },
+    "ab4926f6-32d8-44aa-9b64-aaf65191dac6": {
+      "uuid": "ab4926f6-32d8-44aa-9b64-aaf65191dac6",
+      "title": "Cheesecake Snickers",
+      "itemDescription": "Basis - graham crackers (wheat flour, whole grain flour, brown sugar, butter, honey, milk, and baking soda), cheese mousse (vanilla extract, butter, brown sugar, Philadelphia cream cheese, chicken eggs, wheat flour, sugar, and cream) (180g).",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6c7fb66-ab08-49d1-84e8-4cd7c46488ec"
+    },
+    "af079fc9-c61c-4512-b960-e81f73e9e06e": {
+      "uuid": "af079fc9-c61c-4512-b960-e81f73e9e06e",
+      "title": "Galician cottage cheese pancakes",
+      "itemDescription": "Cottage cheese, sour cream 30%, dried apricots, raisins, chicken eggs, wheat flour, semolina, butter, sugar, and chocolate toping (160g).",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fdcead14-e982-4477-8885-22caeff5cdf7"
+    },
+    "d9e83a5e-d66b-4a3b-91f2-a726be33dc6a": {
+      "uuid": "d9e83a5e-d66b-4a3b-91f2-a726be33dc6a",
+      "title": "Belgian waffles with chicken, bacon, Cheddar cheese, and jalapeno",
+      "itemDescription": "Belgian waffles chicken,  tomatoes, lettuce, yogurt sauce with garlic, Cheddar cheese, jalapeno pepper, fried egg, salt, and pepper.",
+      "price": 15500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bb1bff1-a36a-4755-a0ad-accc134fdc36"
+    },
+    "cd6804b8-fc01-441a-b239-229de094abf9": {
+      "uuid": "cd6804b8-fc01-441a-b239-229de094abf9",
+      "title": "Fresh juice",
+      "itemDescription": "Flavor to choose.",
+      "price": 7500,
+      "customizationUuids": [
+        "b69b0657-d852-4fc1-b384-a63179e919c6"
+      ]
+    },
+    "78632d4f-73ec-4cf8-8b65-b5a4f21594fd": {
+      "uuid": "78632d4f-73ec-4cf8-8b65-b5a4f21594fd",
+      "title": "Smoothies to eat",
+      "itemDescription": "Flavor to choose (500g).",
+      "price": 12000,
+      "customizationUuids": [
+        "06349df5-634e-428d-929d-8457229415b7"
+      ]
+    },
+    "a03a9368-e9c0-4906-8d52-ecd384571d9d": {
+      "uuid": "a03a9368-e9c0-4906-8d52-ecd384571d9d",
+      "title": "Oatmeal porridge with peanut paste",
+      "itemDescription": "With cow or non-dairy milk, with peanut paste, nuts, raspberry confit, and seasonal berries  (300g).",
+      "price": 8500,
+      "customizationUuids": [
+        "3ca394c3-98eb-42a7-8dce-ba0ab459a4b9"
+      ]
+    },
+    "2008eb55-ced0-4fc8-8f51-48a48f581538": {
+      "uuid": "2008eb55-ced0-4fc8-8f51-48a48f581538",
+      "title": "Almond sweets",
+      "itemDescription": "Almond flakes, flour, sugar, cream 30%, and honey (11g).",
+      "price": 2200
+    },
+    "14dbe90b-8918-4870-96eb-532516430e91": {
+      "uuid": "14dbe90b-8918-4870-96eb-532516430e91",
+      "title": "Sandwich with salmon",
+      "itemDescription": "Bun, cream cheese, light-salted salmon, red pickled onions, fresh cucumbers, capers, and fresh lettuce (300g).",
+      "price": 10500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/04ce54fb-82d1-4ac2-a031-3279686947f9"
+    },
+    "6dfb062c-0489-4c62-a365-1f8f008c799d": {
+      "uuid": "6dfb062c-0489-4c62-a365-1f8f008c799d",
+      "title": "Cream of mushroom soup with crutones",
+      "itemDescription": "Champignons, cream, milk, oil, salt, pepper, and crutones (250g).",
+      "price": 9500
+    },
+    "b7b4b0f5-e331-4e16-b252-42d2471d09e6": {
+      "uuid": "b7b4b0f5-e331-4e16-b252-42d2471d09e6",
+      "title": "Greek salad",
+      "itemDescription": "Tomatoes, cucumbers, peppers, cherries, Kalamata olives, red onions, Romaine salad, and feta cheese (300g).",
+      "price": 11000
+    },
+    "aa917540-f11d-4fc5-a4e0-e7506a27afd8": {
+      "uuid": "aa917540-f11d-4fc5-a4e0-e7506a27afd8",
+      "title": "Chia pudding with mango",
+      "itemDescription": "Natural homemade yogurt, chia seeds, natural mango sauce, and almond flakes (280g).",
+      "price": 8900
+    },
+    "ca72ef5a-2525-4565-9b0c-e5bafab697d5": {
+      "uuid": "ca72ef5a-2525-4565-9b0c-e5bafab697d5",
+      "title": "Vanilla eclair",
+      "itemDescription": "Dough: milk 2.5%, butter, chicken eggs, flour, sugar; vanilla custard cream, and fondant (70g).",
+      "price": 4500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6bb60e2c-0c0a-4baf-aba2-3eac7fa349e4"
+    },
+    "6b06b3e0-9a85-4b5b-98e0-eb175b97ad19": {
+      "uuid": "6b06b3e0-9a85-4b5b-98e0-eb175b97ad19",
+      "title": "Brownie classic",
+      "itemDescription": "Black chocolate, almonds, butter, chicken egg, wheat flour, sugar, and salt (75g).",
+      "price": 4500
+    },
+    "dae7a58e-1ccc-4a68-911a-3e4b35086d76": {
+      "uuid": "dae7a58e-1ccc-4a68-911a-3e4b35086d76",
+      "title": "Cheese pancakes with raspberry confit and sweet sour cream",
+      "itemDescription": "Сottage cheese, flour, semolina, sour cream, vanilla sugar, sugar and two sauces: sweet sour cream, and raspberry confit (250п).",
+      "price": 8900
+    },
+    "0a095229-53e0-4069-b106-14ae756f2603": {
+      "uuid": "0a095229-53e0-4069-b106-14ae756f2603",
+      "title": "Scrambled eggs with jamon, sun-dried tomatoes, Parmesan, and basil",
+      "itemDescription": "Eggs, milk, oil, basil, jamon, sun-dried tomatoes, Parmesan cheese, capers, and salt.",
+      "price": 12900
+    },
+    "d04132b1-7bd1-444a-a13d-9b7e6a804626": {
+      "uuid": "d04132b1-7bd1-444a-a13d-9b7e6a804626",
+      "title": "Finnish salmon cream soup",
+      "itemDescription": "Cream soup of fish broth, potatoes, leeks and carrots, served with slices of light-salted salmon, and cream 30%. Served with a bun, and decorated with thyme (300g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3df84385-c305-4391-9f0f-e077e6af3e1b"
+    },
+    "1712469a-80fd-46a6-9efd-f34efd1b29cf": {
+      "uuid": "1712469a-80fd-46a6-9efd-f34efd1b29cf",
+      "title": "Cream soup with broccoli and cheddar cheese",
+      "itemDescription": "Broccoli, cheddar cheese, potatoes, milk 2,5%, cream 30%, flour, vegetable oil, butter, chives, red onions, chicken broth, and pepper mix (300g).",
+      "price": 9500
+    },
+    "fd248759-aa72-4ff0-b872-67276c1846cb": {
+      "uuid": "fd248759-aa72-4ff0-b872-67276c1846cb",
+      "title": "Eggs Benedict with bacon",
+      "itemDescription": "Chicken eggs, bacon, hollandaise sauce, arugula, olive oil. Served with fresh lettuce, cherry tomatoes, and balsamic fillings (230g).",
+      "price": 12500
+    },
+    "0b8b9119-61b3-4ce5-bcde-ce69c9583b57": {
+      "uuid": "0b8b9119-61b3-4ce5-bcde-ce69c9583b57",
+      "title": "Pie with spinach and goat cheese",
+      "itemDescription": "Shortcrust dough, goat cheese, spinach, butter, chicken eggs, cream 30%, and pepper (150g).",
+      "price": 8900
+    },
+    "34fe3710-63e3-46d2-afe7-b2f3495ede26": {
+      "uuid": "34fe3710-63e3-46d2-afe7-b2f3495ede26",
+      "title": "Borjomi",
+      "itemDescription": "300ml.",
+      "price": 4900
+    },
+    "24df907c-6adc-4a9c-8364-34829a8eb22a": {
+      "uuid": "24df907c-6adc-4a9c-8364-34829a8eb22a",
+      "title": "Pie with salmon, broccoli and cheddar cheese",
+      "itemDescription": "Shortcrust dough, salted salmon, broccoli, cream dressing, cheddar cheese, and spices (150g).",
+      "price": 9500
+    },
+    "1fb259ff-8c54-4a43-8365-2e575747671b": {
+      "uuid": "1fb259ff-8c54-4a43-8365-2e575747671b",
+      "title": "Belgian waffles with salmon",
+      "itemDescription": "Salt dough: milk, butter, chicken eggs, flour, baking powder; salmon, hollandaise sauce (fish sauce, lemon fresh juice), chicken eggs, flour, butter, cinnamon, eggs, leeks, capers, lemon peel, olive oil, and arugula (300g).",
+      "price": 15500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a509add7-a846-4c9c-b4a4-26808d63c73b"
+    }
+  }
 }

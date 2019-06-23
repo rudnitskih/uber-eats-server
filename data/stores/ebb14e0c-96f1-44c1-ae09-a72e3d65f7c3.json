@@ -20,530 +20,76 @@
   ],
   "sections": [
     {
-      "uuid": "31755200-01c8-4a36-b4b6-19d117c15598",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:30 AM – 8:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "36cdafd8-caca-41d2-842a-cc4ffacf9d1a",
-        "74e91148-8efe-4c1d-a949-92e250c1a46d",
-        "0963eab6-5c30-461a-89ce-df5fd8a30453",
-        "68f58363-a518-445b-85e2-2d85f60d4801",
-        "3bf56766-2da9-4202-acf2-6416ef4a1da8"
+      "uuid": "36cdafd8-caca-41d2-842a-cc4ffacf9d1a",
+      "title": "Burgers",
+      "subtitle": "",
+      "itemUuids": [
+        "95977266-dff1-475a-923b-b5ca9871ff68",
+        "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
+        "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
+        "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
+        "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
+        "8884498a-918b-45ad-89be-b9baafaf6d83",
+        "7bc03209-e69b-490e-8690-c9d595891d2e",
+        "80038389-e3da-4e01-9bf4-07565708017c",
+        "810b401e-9355-4eff-9faa-66e7d7f24fde",
+        "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
+        "dde348ca-904f-4760-b492-9ef8c04b5ddc",
+        "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
+        "aa58aed1-417c-4589-ba46-33912e0e9e16",
+        "01a5e647-005d-4321-902f-085bcafc577a",
+        "abf5b1b4-0142-42de-b23e-160e55624d17",
+        "27b526d6-7f4f-4d01-82e7-a5cd739b8131"
+      ]
+    },
+    {
+      "uuid": "74e91148-8efe-4c1d-a949-92e250c1a46d",
+      "title": "Hot appetizers",
+      "subtitle": "",
+      "itemUuids": [
+        "0cdb13dc-d29c-4504-8684-bba12e326f1c",
+        "9a23161e-7fe5-47ab-808b-d956c577617d",
+        "6cd28f1c-eb79-4057-b10e-14890a70d110",
+        "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
+        "734b7c1d-237b-4798-8fa6-e3d1696c5031",
+        "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
+        "9ae92432-e931-4ccd-a3d0-d367e97c3ecf"
+      ]
+    },
+    {
+      "uuid": "0963eab6-5c30-461a-89ce-df5fd8a30453",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "a509fcd9-df52-4824-a237-fd5d515d0f50",
+        "d62d6cc6-a77f-4f27-857c-559aa8bb969e"
+      ]
+    },
+    {
+      "uuid": "68f58363-a518-445b-85e2-2d85f60d4801",
+      "title": "Beverages",
+      "subtitle": "",
+      "itemUuids": [
+        "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
+        "eb94240a-ead0-47ea-8389-601fe114690b",
+        "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
+        "7907d822-36cb-4dda-a272-99d75d6af833"
+      ]
+    },
+    {
+      "uuid": "3bf56766-2da9-4202-acf2-6416ef4a1da8",
+      "title": "Sauces",
+      "subtitle": "",
+      "itemUuids": [
+        "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
+        "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
+        "4943383d-a255-4593-aed6-e20a7987a057",
+        "988e45e2-6f2e-460a-a909-29366f2a872a",
+        "e20f9043-10e1-4e8f-8652-dc14f0062016",
+        "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "31755200-01c8-4a36-b4b6-19d117c15598": {
-      "itemsMap": {
-        "abf5b1b4-0142-42de-b23e-160e55624d17": {
-          "uuid": "abf5b1b4-0142-42de-b23e-160e55624d17",
-          "title": "The Butchers Burger",
-          "itemDescription": "Bun, iceberg lettuce, capers, mayonnaise, BBQ sauce, cheese sauce, beef cutlet, bacon, and cheddar cheese (350g).",
-          "price": 9500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "4943383d-a255-4593-aed6-e20a7987a057": {
-          "uuid": "4943383d-a255-4593-aed6-e20a7987a057",
-          "title": " Cheese sauce",
-          "itemDescription": "",
-          "price": 1000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8884498a-918b-45ad-89be-b9baafaf6d83": {
-          "uuid": "8884498a-918b-45ad-89be-b9baafaf6d83",
-          "title": "Cheese Burger",
-          "itemDescription": "Bun, beef cutlet, blue cheese sauce, mozzarella cheese, cheddar cheese, iceberg lettuce, gherkins, and sweet peppers (380g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0486df5-7fd1-4192-8fa1-17cb547dd16e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e7e2513e-bdea-49a1-887d-a5eec6a399f0": {
-          "uuid": "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
-          "title": "Twins Burgers",
-          "itemDescription": "Bun, beef, iceberg lettuce, tomatoes, cucumbers, and tartar sauce. Two burgers (2х230g).",
-          "price": 8500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac": {
-          "uuid": "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
-          "title": "Sweet Chili Sauce",
-          "itemDescription": "",
-          "price": 1000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "04b07eb8-987f-42ec-9073-7a4e6c80f6c1": {
-          "uuid": "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
-          "title": "Fanta",
-          "itemDescription": "250ml.",
-          "price": 2100,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "95977266-dff1-475a-923b-b5ca9871ff68": {
-          "uuid": "95977266-dff1-475a-923b-b5ca9871ff68",
-          "title": "Hamburger",
-          "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
-          "price": 7000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f7c2f257-a8a3-41cc-b842-c15ee046e8b0": {
-          "uuid": "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
-          "title": "Coca Cola",
-          "itemDescription": "250/500ml.",
-          "price": 2100,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
-          ]
-        },
-        "7bc03209-e69b-490e-8690-c9d595891d2e": {
-          "uuid": "7bc03209-e69b-490e-8690-c9d595891d2e",
-          "title": "BBQ Burger",
-          "itemDescription": "Bun, BBQ sauce, iceberg lettuce, champignons, bacon, beef cutlet, onions, cheddar cheese, and capers (380g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/52cbf6b4-1abf-4fcb-83be-4d3eb1906b8d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8fccce40-02b1-432a-aed9-c3b743f9bb7d": {
-          "uuid": "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
-          "title": "Steak Burger",
-          "itemDescription": "Bun, beef steak, champignons, bacon, iceberg lettuce, cream and mustard sauce, and mozzarella (380g).",
-          "price": 9900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "d62d6cc6-a77f-4f27-857c-559aa8bb969e": {
-          "uuid": "d62d6cc6-a77f-4f27-857c-559aa8bb969e",
-          "title": "Greek salad",
-          "itemDescription": "150g.",
-          "price": 4000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "aa58aed1-417c-4589-ba46-33912e0e9e16": {
-          "uuid": "aa58aed1-417c-4589-ba46-33912e0e9e16",
-          "title": "Burger with turkey",
-          "itemDescription": "Bun, turkey steak, tomatoes, fresh cucumbers, iceberg lettuce, and mayonnaise (320g).",
-          "price": 8500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "810b401e-9355-4eff-9faa-66e7d7f24fde": {
-          "uuid": "810b401e-9355-4eff-9faa-66e7d7f24fde",
-          "title": "Burger in tortilla",
-          "itemDescription": "Beef cutlet, tortilla, sweet peppers, Mexican sauce, iceberg lettuce, and tomatoes (270g).",
-          "price": 8500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/04baf16a-777c-49dd-aa1d-7bf62b106188",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9ae92432-e931-4ccd-a3d0-d367e97c3ecf": {
-          "uuid": "9ae92432-e931-4ccd-a3d0-d367e97c3ecf",
-          "title": "Taco",
-          "itemDescription": "Tortilla, jalapeno, minced beef, mozzarella, sweet chili, and iceberg lettuce (200g).",
-          "price": 8000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a509fcd9-df52-4824-a237-fd5d515d0f50": {
-          "uuid": "a509fcd9-df52-4824-a237-fd5d515d0f50",
-          "title": "Coleslaw salad",
-          "itemDescription": "150g.",
-          "price": 3000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "68568d0b-ff04-4ecb-b5ab-83cd17192ed6": {
-          "uuid": "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
-          "title": "Hani Bi Burger",
-          "itemDescription": "Bun, honey and mustard sauce, iceberg lettuce, fried egg, sweet peppers, chicken cutlet, and mustard sauce (380g).",
-          "price": 8500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831": {
-          "uuid": "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831",
-          "title": " Mayonnaise sauce",
-          "itemDescription": "",
-          "price": 0,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "988e45e2-6f2e-460a-a909-29366f2a872a": {
-          "uuid": "988e45e2-6f2e-460a-a909-29366f2a872a",
-          "title": "Teriyaki sauce",
-          "itemDescription": "",
-          "price": 1000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9f5083f2-75f2-4a0a-8ad9-9a409db968e0": {
-          "uuid": "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
-          "title": "Chicken Burger",
-          "itemDescription": "Bun, tomatoes, iceberg lettuce, chicken cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
-          "price": 6500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e20f9043-10e1-4e8f-8652-dc14f0062016": {
-          "uuid": "e20f9043-10e1-4e8f-8652-dc14f0062016",
-          "title": "Ketchup sauce",
-          "itemDescription": "",
-          "price": 0,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "20904d55-b3f2-4d99-84b0-74fbe8bf2d54": {
-          "uuid": "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
-          "title": "Country style potatoes",
-          "itemDescription": "Country style potatoes , roasted onions, and cheese sauce (200g).",
-          "price": 4500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bcaeba89-6c91-4126-9af6-8d47f4335ad5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7907d822-36cb-4dda-a272-99d75d6af833": {
-          "uuid": "7907d822-36cb-4dda-a272-99d75d6af833",
-          "title": "Rich juice",
-          "itemDescription": "Flavor to choose from (200ml).",
-          "price": 2800,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "f96d8b01-d13e-44de-82ea-d2da985ec72d"
-          ]
-        },
-        "eb94240a-ead0-47ea-8389-601fe114690b": {
-          "uuid": "eb94240a-ead0-47ea-8389-601fe114690b",
-          "title": "Coca Cola Light",
-          "itemDescription": "250/500ml.",
-          "price": 2100,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
-          ]
-        },
-        "dde348ca-904f-4760-b492-9ef8c04b5ddc": {
-          "uuid": "dde348ca-904f-4760-b492-9ef8c04b5ddc",
-          "title": "Hawaiian Burger",
-          "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, honey, Teriyaki sauce, and pineapple (370g).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/32afd32d-cfc0-4ddd-8bbf-ece3c39162d2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "01a5e647-005d-4321-902f-085bcafc577a": {
-          "uuid": "01a5e647-005d-4321-902f-085bcafc577a",
-          "title": "Burger with mussels",
-          "itemDescription": "Bun, mussels, carrots, iceberg lettuce, hash browns , and tartar sauce (370g).",
-          "price": 8500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000
-        },
-        "80038389-e3da-4e01-9bf4-07565708017c": {
-          "uuid": "80038389-e3da-4e01-9bf4-07565708017c",
-          "title": "Dos Amigos Burger",
-          "itemDescription": "Bun, jalapeno peppers, sweet peppers, tomatoes, chipotle, iceberg lettuce, 2 beef cutlets, pickled cucumbers, cheddar cheese, BBQ sauce, and bacon (550g).",
-          "price": 14500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a260836-d426-4dbe-9778-d79266049bef",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0cdb13dc-d29c-4504-8684-bba12e326f1c": {
-          "uuid": "0cdb13dc-d29c-4504-8684-bba12e326f1c",
-          "title": "Grilled vegetables",
-          "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, and chipotle sauce (300g).",
-          "price": 4500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9a23161e-7fe5-47ab-808b-d956c577617d": {
-          "uuid": "9a23161e-7fe5-47ab-808b-d956c577617d",
-          "title": "Grilled vegetables with steak",
-          "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, chipotle sauce, and beef steak (420g).",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c92c1af-54b7-4e6f-9f62-622cf0c6e145",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6cd28f1c-eb79-4057-b10e-14890a70d110": {
-          "uuid": "6cd28f1c-eb79-4057-b10e-14890a70d110",
-          "title": "Cheese sticks",
-          "itemDescription": "200g.",
-          "price": 6500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e4329e31-a2ed-43dc-a8b2-93193f4d63b0": {
-          "uuid": "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
-          "title": "Vega Burger ",
-          "itemDescription": "Bun, champignons, guacamole sauce, sweet peppers, zucchini, marrow, eggplant, tomatoes, olives, iceberg lettuce, and hash browns (380g).",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d838503-66a9-4be6-922b-8ffc7449ee0c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "27b526d6-7f4f-4d01-82e7-a5cd739b8131": {
-          "uuid": "27b526d6-7f4f-4d01-82e7-a5cd739b8131",
-          "title": "Bavarian burger",
-          "itemDescription": "Bun, iceberg lettuce, mushrooms, pickled cucumber, sausages, barbecue sauce, cheese sauce ( 290 g).",
-          "price": 8500,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "734b7c1d-237b-4798-8fa6-e3d1696c5031": {
-          "uuid": "734b7c1d-237b-4798-8fa6-e3d1696c5031",
-          "title": "French fries",
-          "itemDescription": "Middle (100g) or big (180g).",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "f4a98165-c940-470d-9cc4-6f603917c32f"
-          ]
-        },
-        "e07e5b74-a70e-4ad3-9a2b-300be5bc724c": {
-          "uuid": "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
-          "title": "BBQ sauce",
-          "itemDescription": "",
-          "price": 1000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "6e584b94-259b-42c8-b837-2c10cbc7f1ac": {
-          "uuid": "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
-          "title": "Fried mushrooms",
-          "itemDescription": "200g.",
-          "price": 4000,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422": {
-          "uuid": "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
-          "title": "Classic Burger ",
-          "itemDescription": "Bun, mayonnaise, red onions, tomatoes, iceberg lettuce, beef cutlet, pickled cucumbers, cheddar cheese, and ketchup (370g).",
-          "price": 8500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d919ed9-22c0-458b-bd09-3c2242a59773",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "36cdafd8-caca-41d2-842a-cc4ffacf9d1a",
-          "title": "Burgers",
-          "subtitle": "",
-          "itemUuids": [
-            "95977266-dff1-475a-923b-b5ca9871ff68",
-            "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
-            "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
-            "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
-            "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
-            "8884498a-918b-45ad-89be-b9baafaf6d83",
-            "7bc03209-e69b-490e-8690-c9d595891d2e",
-            "80038389-e3da-4e01-9bf4-07565708017c",
-            "810b401e-9355-4eff-9faa-66e7d7f24fde",
-            "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
-            "dde348ca-904f-4760-b492-9ef8c04b5ddc",
-            "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
-            "aa58aed1-417c-4589-ba46-33912e0e9e16",
-            "01a5e647-005d-4321-902f-085bcafc577a",
-            "abf5b1b4-0142-42de-b23e-160e55624d17",
-            "27b526d6-7f4f-4d01-82e7-a5cd739b8131"
-          ]
-        },
-        {
-          "uuid": "74e91148-8efe-4c1d-a949-92e250c1a46d",
-          "title": "Hot appetizers",
-          "subtitle": "",
-          "itemUuids": [
-            "0cdb13dc-d29c-4504-8684-bba12e326f1c",
-            "9a23161e-7fe5-47ab-808b-d956c577617d",
-            "6cd28f1c-eb79-4057-b10e-14890a70d110",
-            "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
-            "734b7c1d-237b-4798-8fa6-e3d1696c5031",
-            "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
-            "9ae92432-e931-4ccd-a3d0-d367e97c3ecf"
-          ]
-        },
-        {
-          "uuid": "0963eab6-5c30-461a-89ce-df5fd8a30453",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "a509fcd9-df52-4824-a237-fd5d515d0f50",
-            "d62d6cc6-a77f-4f27-857c-559aa8bb969e"
-          ]
-        },
-        {
-          "uuid": "68f58363-a518-445b-85e2-2d85f60d4801",
-          "title": "Beverages",
-          "subtitle": "",
-          "itemUuids": [
-            "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
-            "eb94240a-ead0-47ea-8389-601fe114690b",
-            "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
-            "7907d822-36cb-4dda-a272-99d75d6af833"
-          ]
-        },
-        {
-          "uuid": "3bf56766-2da9-4202-acf2-6416ef4a1da8",
-          "title": "Sauces",
-          "subtitle": "",
-          "itemUuids": [
-            "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
-            "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
-            "4943383d-a255-4593-aed6-e20a7987a057",
-            "988e45e2-6f2e-460a-a909-29366f2a872a",
-            "e20f9043-10e1-4e8f-8652-dc14f0062016",
-            "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.45221199999999,
     "longitude": 30.517241,
@@ -583,5 +129,440 @@
     "storeRatingScore": 4.178947368421053,
     "ratingCount": "190"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981",
+  "items": {
+    "abf5b1b4-0142-42de-b23e-160e55624d17": {
+      "uuid": "abf5b1b4-0142-42de-b23e-160e55624d17",
+      "title": "The Butchers Burger",
+      "itemDescription": "Bun, iceberg lettuce, capers, mayonnaise, BBQ sauce, cheese sauce, beef cutlet, bacon, and cheddar cheese (350g).",
+      "price": 9500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "4943383d-a255-4593-aed6-e20a7987a057": {
+      "uuid": "4943383d-a255-4593-aed6-e20a7987a057",
+      "title": " Cheese sauce",
+      "itemDescription": "",
+      "price": 1000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8884498a-918b-45ad-89be-b9baafaf6d83": {
+      "uuid": "8884498a-918b-45ad-89be-b9baafaf6d83",
+      "title": "Cheese Burger",
+      "itemDescription": "Bun, beef cutlet, blue cheese sauce, mozzarella cheese, cheddar cheese, iceberg lettuce, gherkins, and sweet peppers (380g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0486df5-7fd1-4192-8fa1-17cb547dd16e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e7e2513e-bdea-49a1-887d-a5eec6a399f0": {
+      "uuid": "e7e2513e-bdea-49a1-887d-a5eec6a399f0",
+      "title": "Twins Burgers",
+      "itemDescription": "Bun, beef, iceberg lettuce, tomatoes, cucumbers, and tartar sauce. Two burgers (2х230g).",
+      "price": 8500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac": {
+      "uuid": "52ed0a00-6a6d-48ed-8fb0-33ed0230b3ac",
+      "title": "Sweet Chili Sauce",
+      "itemDescription": "",
+      "price": 1000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "04b07eb8-987f-42ec-9073-7a4e6c80f6c1": {
+      "uuid": "04b07eb8-987f-42ec-9073-7a4e6c80f6c1",
+      "title": "Fanta",
+      "itemDescription": "250ml.",
+      "price": 2100,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "95977266-dff1-475a-923b-b5ca9871ff68": {
+      "uuid": "95977266-dff1-475a-923b-b5ca9871ff68",
+      "title": "Hamburger",
+      "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
+      "price": 7000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f7c2f257-a8a3-41cc-b842-c15ee046e8b0": {
+      "uuid": "f7c2f257-a8a3-41cc-b842-c15ee046e8b0",
+      "title": "Coca Cola",
+      "itemDescription": "250/500ml.",
+      "price": 2100,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
+      ]
+    },
+    "7bc03209-e69b-490e-8690-c9d595891d2e": {
+      "uuid": "7bc03209-e69b-490e-8690-c9d595891d2e",
+      "title": "BBQ Burger",
+      "itemDescription": "Bun, BBQ sauce, iceberg lettuce, champignons, bacon, beef cutlet, onions, cheddar cheese, and capers (380g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/52cbf6b4-1abf-4fcb-83be-4d3eb1906b8d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8fccce40-02b1-432a-aed9-c3b743f9bb7d": {
+      "uuid": "8fccce40-02b1-432a-aed9-c3b743f9bb7d",
+      "title": "Steak Burger",
+      "itemDescription": "Bun, beef steak, champignons, bacon, iceberg lettuce, cream and mustard sauce, and mozzarella (380g).",
+      "price": 9900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "d62d6cc6-a77f-4f27-857c-559aa8bb969e": {
+      "uuid": "d62d6cc6-a77f-4f27-857c-559aa8bb969e",
+      "title": "Greek salad",
+      "itemDescription": "150g.",
+      "price": 4000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "aa58aed1-417c-4589-ba46-33912e0e9e16": {
+      "uuid": "aa58aed1-417c-4589-ba46-33912e0e9e16",
+      "title": "Burger with turkey",
+      "itemDescription": "Bun, turkey steak, tomatoes, fresh cucumbers, iceberg lettuce, and mayonnaise (320g).",
+      "price": 8500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "810b401e-9355-4eff-9faa-66e7d7f24fde": {
+      "uuid": "810b401e-9355-4eff-9faa-66e7d7f24fde",
+      "title": "Burger in tortilla",
+      "itemDescription": "Beef cutlet, tortilla, sweet peppers, Mexican sauce, iceberg lettuce, and tomatoes (270g).",
+      "price": 8500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/04baf16a-777c-49dd-aa1d-7bf62b106188",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9ae92432-e931-4ccd-a3d0-d367e97c3ecf": {
+      "uuid": "9ae92432-e931-4ccd-a3d0-d367e97c3ecf",
+      "title": "Taco",
+      "itemDescription": "Tortilla, jalapeno, minced beef, mozzarella, sweet chili, and iceberg lettuce (200g).",
+      "price": 8000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a509fcd9-df52-4824-a237-fd5d515d0f50": {
+      "uuid": "a509fcd9-df52-4824-a237-fd5d515d0f50",
+      "title": "Coleslaw salad",
+      "itemDescription": "150g.",
+      "price": 3000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "68568d0b-ff04-4ecb-b5ab-83cd17192ed6": {
+      "uuid": "68568d0b-ff04-4ecb-b5ab-83cd17192ed6",
+      "title": "Hani Bi Burger",
+      "itemDescription": "Bun, honey and mustard sauce, iceberg lettuce, fried egg, sweet peppers, chicken cutlet, and mustard sauce (380g).",
+      "price": 8500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831": {
+      "uuid": "bfd17ba5-c128-4fb4-8c80-bcdfef0d0831",
+      "title": " Mayonnaise sauce",
+      "itemDescription": "",
+      "price": 0,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "988e45e2-6f2e-460a-a909-29366f2a872a": {
+      "uuid": "988e45e2-6f2e-460a-a909-29366f2a872a",
+      "title": "Teriyaki sauce",
+      "itemDescription": "",
+      "price": 1000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9f5083f2-75f2-4a0a-8ad9-9a409db968e0": {
+      "uuid": "9f5083f2-75f2-4a0a-8ad9-9a409db968e0",
+      "title": "Chicken Burger",
+      "itemDescription": "Bun, tomatoes, iceberg lettuce, chicken cutlet, cheddar cheese, ketchup, and mayonnaise (330g).",
+      "price": 6500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e20f9043-10e1-4e8f-8652-dc14f0062016": {
+      "uuid": "e20f9043-10e1-4e8f-8652-dc14f0062016",
+      "title": "Ketchup sauce",
+      "itemDescription": "",
+      "price": 0,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "20904d55-b3f2-4d99-84b0-74fbe8bf2d54": {
+      "uuid": "20904d55-b3f2-4d99-84b0-74fbe8bf2d54",
+      "title": "Country style potatoes",
+      "itemDescription": "Country style potatoes , roasted onions, and cheese sauce (200g).",
+      "price": 4500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bcaeba89-6c91-4126-9af6-8d47f4335ad5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7907d822-36cb-4dda-a272-99d75d6af833": {
+      "uuid": "7907d822-36cb-4dda-a272-99d75d6af833",
+      "title": "Rich juice",
+      "itemDescription": "Flavor to choose from (200ml).",
+      "price": 2800,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "f96d8b01-d13e-44de-82ea-d2da985ec72d"
+      ]
+    },
+    "eb94240a-ead0-47ea-8389-601fe114690b": {
+      "uuid": "eb94240a-ead0-47ea-8389-601fe114690b",
+      "title": "Coca Cola Light",
+      "itemDescription": "250/500ml.",
+      "price": 2100,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "52c22a6b-a44b-4a97-87d6-ce7fdd4a3237"
+      ]
+    },
+    "dde348ca-904f-4760-b492-9ef8c04b5ddc": {
+      "uuid": "dde348ca-904f-4760-b492-9ef8c04b5ddc",
+      "title": "Hawaiian Burger",
+      "itemDescription": "Bun, tomatoes, iceberg lettuce, beef cutlet, honey, Teriyaki sauce, and pineapple (370g).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/32afd32d-cfc0-4ddd-8bbf-ece3c39162d2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "01a5e647-005d-4321-902f-085bcafc577a": {
+      "uuid": "01a5e647-005d-4321-902f-085bcafc577a",
+      "title": "Burger with mussels",
+      "itemDescription": "Bun, mussels, carrots, iceberg lettuce, hash browns , and tartar sauce (370g).",
+      "price": 8500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000
+    },
+    "80038389-e3da-4e01-9bf4-07565708017c": {
+      "uuid": "80038389-e3da-4e01-9bf4-07565708017c",
+      "title": "Dos Amigos Burger",
+      "itemDescription": "Bun, jalapeno peppers, sweet peppers, tomatoes, chipotle, iceberg lettuce, 2 beef cutlets, pickled cucumbers, cheddar cheese, BBQ sauce, and bacon (550g).",
+      "price": 14500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a260836-d426-4dbe-9778-d79266049bef",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0cdb13dc-d29c-4504-8684-bba12e326f1c": {
+      "uuid": "0cdb13dc-d29c-4504-8684-bba12e326f1c",
+      "title": "Grilled vegetables",
+      "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, and chipotle sauce (300g).",
+      "price": 4500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9a23161e-7fe5-47ab-808b-d956c577617d": {
+      "uuid": "9a23161e-7fe5-47ab-808b-d956c577617d",
+      "title": "Grilled vegetables with steak",
+      "itemDescription": "Eggplant, zucchini, sweet peppers, champignons, tomatoes, olives, iceberg lettuce, onions, chipotle sauce, and beef steak (420g).",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c92c1af-54b7-4e6f-9f62-622cf0c6e145",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6cd28f1c-eb79-4057-b10e-14890a70d110": {
+      "uuid": "6cd28f1c-eb79-4057-b10e-14890a70d110",
+      "title": "Cheese sticks",
+      "itemDescription": "200g.",
+      "price": 6500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e4329e31-a2ed-43dc-a8b2-93193f4d63b0": {
+      "uuid": "e4329e31-a2ed-43dc-a8b2-93193f4d63b0",
+      "title": "Vega Burger ",
+      "itemDescription": "Bun, champignons, guacamole sauce, sweet peppers, zucchini, marrow, eggplant, tomatoes, olives, iceberg lettuce, and hash browns (380g).",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d838503-66a9-4be6-922b-8ffc7449ee0c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "27b526d6-7f4f-4d01-82e7-a5cd739b8131": {
+      "uuid": "27b526d6-7f4f-4d01-82e7-a5cd739b8131",
+      "title": "Bavarian burger",
+      "itemDescription": "Bun, iceberg lettuce, mushrooms, pickled cucumber, sausages, barbecue sauce, cheese sauce ( 290 g).",
+      "price": 8500,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "734b7c1d-237b-4798-8fa6-e3d1696c5031": {
+      "uuid": "734b7c1d-237b-4798-8fa6-e3d1696c5031",
+      "title": "French fries",
+      "itemDescription": "Middle (100g) or big (180g).",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "f4a98165-c940-470d-9cc4-6f603917c32f"
+      ]
+    },
+    "e07e5b74-a70e-4ad3-9a2b-300be5bc724c": {
+      "uuid": "e07e5b74-a70e-4ad3-9a2b-300be5bc724c",
+      "title": "BBQ sauce",
+      "itemDescription": "",
+      "price": 1000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "6e584b94-259b-42c8-b837-2c10cbc7f1ac": {
+      "uuid": "6e584b94-259b-42c8-b837-2c10cbc7f1ac",
+      "title": "Fried mushrooms",
+      "itemDescription": "200g.",
+      "price": 4000,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422": {
+      "uuid": "2f7a6f58-b101-41ed-a24a-5ddf8ac3d422",
+      "title": "Classic Burger ",
+      "itemDescription": "Bun, mayonnaise, red onions, tomatoes, iceberg lettuce, beef cutlet, pickled cucumbers, cheddar cheese, and ketchup (370g).",
+      "price": 8500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d919ed9-22c0-458b-bd09-3c2242a59773",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

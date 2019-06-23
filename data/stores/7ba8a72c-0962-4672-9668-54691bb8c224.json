@@ -25,880 +25,110 @@
   ],
   "sections": [
     {
-      "uuid": "fb0a32db-af33-4afe-8de9-37d5bd1af8f5",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "890e319e-1613-4452-a54f-25750db6b346",
-        "4190b3f1-7e0b-4e55-ab57-b4e873d14ba2",
-        "52f77fda-e7c4-4120-bdbb-932f3e992573",
-        "36af02da-90f3-48ad-a8cf-84ee3d471c1f",
-        "977bd694-3002-471e-81f5-495d43eb8e1d",
-        "710fb3b8-92c7-4e3f-8c3e-24846d9f2950",
-        "3b486243-7882-4a5f-92a0-6e73b108e4eb"
+      "uuid": "890e319e-1613-4452-a54f-25750db6b346",
+      "title": "Rolls",
+      "subtitle": "",
+      "itemUuids": [
+        "51a075f7-7f7c-4610-8012-6dbfe0f0b913",
+        "db2d8d6d-d02a-45f4-be1e-846f217d92ee",
+        "16e76c5b-a153-4e9b-8e94-eef1bee06312",
+        "9d6ae28b-0d64-4404-9670-40b6689d0800",
+        "26c6883e-e9d3-45bd-a31d-00857a58ddc7",
+        "dd488aa6-cadb-450f-8420-c6d6fbd50f58",
+        "01b3879e-b1a1-4dc4-8196-555f8d6017ee",
+        "7d590059-0825-447a-9475-733f95e2a064",
+        "b9213858-3f28-4ac5-b4d4-b76da164e2a7",
+        "20eb84a2-cb72-45ab-9d9f-e5961715c8f6",
+        "33812db4-0c69-451f-a164-c7205eb75370",
+        "8461f3b2-05aa-4f0a-89f7-b6904f7213c4",
+        "99429c69-dafc-4c6e-ac8e-c1ffacb3027e",
+        "25ac9829-f1e6-43c0-9e52-2ea21ce36c77",
+        "313e6ecb-fdc3-4868-8d9e-87ca07794b75",
+        "9534f911-d9e8-4b79-9c22-7296108bc4e5",
+        "589523c7-34d6-4dab-aa4d-bf6f4eebfe83",
+        "0e4ef5ae-fb74-468a-add8-9868d9dc891b"
+      ]
+    },
+    {
+      "uuid": "4190b3f1-7e0b-4e55-ab57-b4e873d14ba2",
+      "title": " Sets",
+      "subtitle": "",
+      "itemUuids": [
+        "8d546580-1ba5-4df8-9eb1-595b0dbcb0b8",
+        "96219422-e8d2-4d5f-ba71-cfd783049898",
+        "f0a6d69e-bb95-43b7-b948-afc06576bd51",
+        "5a2658e6-62b2-4326-8456-6722cfdb3b1c",
+        "c2d0ce2b-f879-42cf-b810-7669d3e3ab0d",
+        "54584dee-1069-4beb-9084-7f43340f5ec1",
+        "b69d5218-436a-44c0-8194-c556ba244a76",
+        "1397d98a-5e02-4bf9-8236-2fbd00bd520f"
+      ]
+    },
+    {
+      "uuid": "52f77fda-e7c4-4120-bdbb-932f3e992573",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "1ea0ad32-c7bc-4361-93eb-0e92ec7e43a3",
+        "1e762d39-a34e-4031-a6bd-4ac0121eb85b",
+        "eca4a81e-4480-40d8-865a-5543dd70c473",
+        "acc22def-6571-49d6-9863-3665c5f5f5d3"
+      ]
+    },
+    {
+      "uuid": "36af02da-90f3-48ad-a8cf-84ee3d471c1f",
+      "title": "Kitchen",
+      "subtitle": "",
+      "itemUuids": [
+        "8b076e4d-e956-4c9b-b9cb-221a767b779d",
+        "27dba9cf-d9e3-49a5-8ed1-bb98a99e726f",
+        "f04e19d0-8968-4925-9be8-44e5c3615aa5",
+        "c2d4cccb-7b1f-4754-90d2-ff42606551a9",
+        "ae25a8be-c15a-4c7d-86f2-40f2d703b63d",
+        "8d9e3ad9-dacf-4595-9e06-49bd2b55b426",
+        "added36a-ae4d-4b38-904e-d2f9238bdf02",
+        "b27aba9f-cedf-4b6f-9ec6-a3cbb561a3cf",
+        "f6d9f013-31f0-4be0-88b0-c813c15ca586",
+        "eb2b01fb-661c-48da-bc2c-5e7b913979da",
+        "c6b8c15e-e375-4c06-a25e-f9523148fdf4",
+        "a56653b7-ab35-452a-ac33-8992e3186b54"
+      ]
+    },
+    {
+      "uuid": "977bd694-3002-471e-81f5-495d43eb8e1d",
+      "title": "Sides",
+      "subtitle": "",
+      "itemUuids": [
+        "31f06c0d-de51-4ddf-9dca-286554a30c8c",
+        "75e24a05-345e-464f-a6be-89c432c76449",
+        "3145b977-cb68-4571-bf97-51500d95264f"
+      ]
+    },
+    {
+      "uuid": "710fb3b8-92c7-4e3f-8c3e-24846d9f2950",
+      "title": "Desserts",
+      "subtitle": "",
+      "itemUuids": [
+        "e78bdef4-2d34-4660-b071-1355338f8aaa",
+        "66fb0ad2-7df5-4c63-a1d0-eeadb05145e2",
+        "b491e304-7781-4dd1-bfdf-8fc62d2cacb1"
+      ]
+    },
+    {
+      "uuid": "3b486243-7882-4a5f-92a0-6e73b108e4eb",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "c4e3653c-ffe1-4680-b0a8-01ecb8658bdf",
+        "6e09fb7c-1b72-4646-b5eb-be1b60bd7df1",
+        "5bf9f2f4-096f-4eaf-a1f0-1531e53f9fbb",
+        "9a9edaad-eec9-40fb-9641-5f2d78afa679",
+        "8ed9327f-3b1e-44b6-9c73-7e77e0c20b1c",
+        "7aaa2dee-2037-4a38-87bf-050b18c051bb",
+        "44720a90-5c53-4ff4-bd15-11029c78c259"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "fb0a32db-af33-4afe-8de9-37d5bd1af8f5": {
-      "itemsMap": {
-        "9d6ae28b-0d64-4404-9670-40b6689d0800": {
-          "uuid": "9d6ae28b-0d64-4404-9670-40b6689d0800",
-          "title": "Philadelphia with sesame and salmon",
-          "itemDescription": "Rice, salmon, cream cheese, cucumber, avocado, sesame, and nori.",
-          "price": 9400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4615707-ea3c-478d-88f6-699b654c392c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "ae25a8be-c15a-4c7d-86f2-40f2d703b63d": {
-          "uuid": "ae25a8be-c15a-4c7d-86f2-40f2d703b63d",
-          "title": "Egg noodles with chicken and vegetables",
-          "itemDescription": "Egg noodles, chicken fillet, vegetable mix, sesame, teriyaki sauce, and kimchi sauce (wok).",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/97f87ec0-de1b-4add-b923-2a6ba9efb138",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e78bdef4-2d34-4660-b071-1355338f8aaa": {
-          "uuid": "e78bdef4-2d34-4660-b071-1355338f8aaa",
-          "title": "Matcha cream mousse",
-          "itemDescription": "Cream, cream cheese, matcha tea, biscuit, fresh lime juice, yuzu juice, chocolate cookies, lime, and powdered sugar, mint.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/18dde3a0-1a47-4ec0-a551-0e3a64639a89",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "20eb84a2-cb72-45ab-9d9f-e5961715c8f6": {
-          "uuid": "20eb84a2-cb72-45ab-9d9f-e5961715c8f6",
-          "title": "California with flying fish roe and salmon",
-          "itemDescription": "Rice, salmon, cucumber, flying fish roe, avocado, and nori.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5be19c0b-a0d8-4f3f-89d6-06e64a273ed6",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "9534f911-d9e8-4b79-9c22-7296108bc4e5": {
-          "uuid": "9534f911-d9e8-4b79-9c22-7296108bc4e5",
-          "title": "Crab roll with hiyashi",
-          "itemDescription": "Rice, crab mix with masago roe and mayonnaise, hiyashi, nut sauce, daikon, and nori.",
-          "price": 10400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5bcc4332-e645-4ddf-8bae-66c7fa20edc2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "b69d5218-436a-44c0-8194-c556ba244a76": {
-          "uuid": "b69d5218-436a-44c0-8194-c556ba244a76",
-          "title": "De Lux Set",
-          "itemDescription": "Philadelphia deluxe with Salmon, Green Dragon, Shrimp tempura crunch, Smile roll, Spicy roll with tuna (950g) ",
-          "price": 63900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6c6d7f2b-92ba-4674-8831-33198e1ca4f3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "f04e19d0-8968-4925-9be8-44e5c3615aa5": {
-          "uuid": "f04e19d0-8968-4925-9be8-44e5c3615aa5",
-          "title": "Vegetable fried rice",
-          "itemDescription": "Rice, mushrooms, bell pepper, onion, soy sauce, hondashi, and sesame.",
-          "price": 4900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/080450d7-4451-4965-8a1e-232cda3d8f4f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b9213858-3f28-4ac5-b4d4-b76da164e2a7": {
-          "uuid": "b9213858-3f28-4ac5-b4d4-b76da164e2a7",
-          "title": "California with flying fish roe and smoked salmon",
-          "itemDescription": "Rice, smoked salmon, cucumber, flying roe, avocado, and nori.",
-          "price": 11400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b330439d-c5a4-4188-b7be-dbd4bbe6ee8a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "c2d0ce2b-f879-42cf-b810-7669d3e3ab0d": {
-          "uuid": "c2d0ce2b-f879-42cf-b810-7669d3e3ab0d",
-          "title": "Fusion Set",
-          "itemDescription": "Spicy roll with tuna, Roll with duck in daikon, Roll with smoked salmon, Roll with crab and salmon, Roll with mussels, Cheddar roll (1110 g) ",
-          "price": 57900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/68577750-57c9-47ca-ad92-1f0c6ee1c499",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "1e762d39-a34e-4031-a6bd-4ac0121eb85b": {
-          "uuid": "1e762d39-a34e-4031-a6bd-4ac0121eb85b",
-          "title": "Beijing chicken salad",
-          "itemDescription": "Chinese cabbage, chicken fillet, radicchio salad, tomatoes, cucumber, lemon-nut sauce, fried rice noodles, sesame, and cilantro.",
-          "price": 7400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9b5163bb-a9c9-43cc-b240-ff0de91c67b8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8461f3b2-05aa-4f0a-89f7-b6904f7213c4": {
-          "uuid": "8461f3b2-05aa-4f0a-89f7-b6904f7213c4",
-          "title": "Red dragon",
-          "itemDescription": "Rice, salmon, eel, tamago, cucumber, masago roe, mayonnaise, and nori.",
-          "price": 18900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf8d2079-4cf9-456c-b6cb-e807588bdce4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "33812db4-0c69-451f-a164-c7205eb75370": {
-          "uuid": "33812db4-0c69-451f-a164-c7205eb75370",
-          "title": "California with sesame and salmon",
-          "itemDescription": "Rice, salmon, cucumber, sesame, avocado, and nori.",
-          "price": 9400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfa279bb-a9aa-499a-9bb7-c506c1784ea7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "f0a6d69e-bb95-43b7-b948-afc06576bd51": {
-          "uuid": "f0a6d69e-bb95-43b7-b948-afc06576bd51",
-          "title": "Philadelphia Set Middle",
-          "itemDescription": "Philadelphia deluxe with salmon, Philadelphia with shrimp, Smile roll, Crunch with salmon Well Done (820п)",
-          "price": 47900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/33af0a4a-ca69-429e-bb74-416a783896f9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "5a2658e6-62b2-4326-8456-6722cfdb3b1c": {
-          "uuid": "5a2658e6-62b2-4326-8456-6722cfdb3b1c",
-          "title": "Philadelphia Set Max",
-          "itemDescription": "Philadelphia deluxe with salmon, Unagi Philadelphia, Philadelphia with shrimp, Sushiya rainbow roll, Cheddar roll (1010 g) ",
-          "price": 56900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/33855007-26be-4950-bce3-b29940f3dd04",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "c4e3653c-ffe1-4680-b0a8-01ecb8658bdf": {
-          "uuid": "c4e3653c-ffe1-4680-b0a8-01ecb8658bdf",
-          "title": "Miso soup",
-          "itemDescription": "Miso broth, tofu, wakame, and green onion.",
-          "price": 3400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e79875b1-95b4-4092-8595-25a4100dbd5f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c2d4cccb-7b1f-4754-90d2-ff42606551a9": {
-          "uuid": "c2d4cccb-7b1f-4754-90d2-ff42606551a9",
-          "title": "Udon noodle with veal",
-          "itemDescription": "Udon noodle, veal, champignons, bell pepper, corn, black pepper sauce, tonkatsu sauce, leeks, and garlic.",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea496d88-ef3f-4c59-93f0-4916386cba34",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "f6d9f013-31f0-4be0-88b0-c813c15ca586": {
-          "uuid": "f6d9f013-31f0-4be0-88b0-c813c15ca586",
-          "title": "Chicken curry with steamed rice",
-          "itemDescription": "Chicken, steamed rice, chicken broth, coconut milk, bell pepper, zucchini, champignons, curry paste, fish sauce, ginger, chilli cilantro, and sesame.",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/12022e9f-12ba-4ebb-b245-3d5d443aab4e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "25ac9829-f1e6-43c0-9e52-2ea21ce36c77": {
-          "uuid": "25ac9829-f1e6-43c0-9e52-2ea21ce36c77",
-          "title": "Golden unagi dragon",
-          "itemDescription": "Rice, eel, tamago, cucumber, unagi sauce, sesame, and nori.",
-          "price": 19400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3537842d-defe-46b7-8b90-3a8131345e6a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "5bf9f2f4-096f-4eaf-a1f0-1531e53f9fbb": {
-          "uuid": "5bf9f2f4-096f-4eaf-a1f0-1531e53f9fbb",
-          "title": "Salmon miso soup",
-          "itemDescription": "Miso broth, salmon, tofu, wakame, and green onion.",
-          "price": 4400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6750f417-4bd6-4769-8703-2c29f4e16112",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "75e24a05-345e-464f-a6be-89c432c76449": {
-          "uuid": "75e24a05-345e-464f-a6be-89c432c76449",
-          "title": "Colored rice chips",
-          "itemDescription": "Rice chips and sunflower oil.",
-          "price": 2900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6c6fb6c0-8e0c-4cd9-a3a3-81e43c523e8e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7aaa2dee-2037-4a38-87bf-050b18c051bb": {
-          "uuid": "7aaa2dee-2037-4a38-87bf-050b18c051bb",
-          "title": "Udon soup with chicken and shrimp",
-          "itemDescription": "Cler broth, glass noodles, chicken fillet, shrimp tempura, egg, shiitake mushrooms, wakame, and green onions.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea7c1a6b-d3d1-4d20-9c25-8db9af005c86",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "1ea0ad32-c7bc-4361-93eb-0e92ec7e43a3": {
-          "uuid": "1ea0ad32-c7bc-4361-93eb-0e92ec7e43a3",
-          "title": "Hiyashi seaweed with sesame",
-          "itemDescription": "Hiyashi and sesame.",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc182e08-3ee0-4dfd-a73f-ed3095ff65f1",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "26c6883e-e9d3-45bd-a31d-00857a58ddc7": {
-          "uuid": "26c6883e-e9d3-45bd-a31d-00857a58ddc7",
-          "title": "Philadelphia with sesame and smoked salmon",
-          "itemDescription": "Rice, smoked salmon, cream cheese, cucumber, avocado, sesame, and nori.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/606a81c6-5c8f-4e6a-b16e-c5a793a0caae",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "b27aba9f-cedf-4b6f-9ec6-a3cbb561a3cf": {
-          "uuid": "b27aba9f-cedf-4b6f-9ec6-a3cbb561a3cf",
-          "title": "Fried gedza dumplings with chicken and salad",
-          "itemDescription": "Gedza with chicken, Asian salad, daikon, tempura sauce, green onion, and sesame. To choose from 125 or 160 g.",
-          "price": 8400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/757204d1-ce2e-42d4-b4da-cfef56c4d412",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "dbf779b2-5d76-4916-b4be-3b35553d56a2"
-          ]
-        },
-        "db2d8d6d-d02a-45f4-be1e-846f217d92ee": {
-          "uuid": "db2d8d6d-d02a-45f4-be1e-846f217d92ee",
-          "title": "Philadelphia deluxe with smoked salmon",
-          "itemDescription": "Rice, smoked salmon, cream cheese, avocado flying fish roe, and nori.",
-          "price": 15900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/44ca16e2-e5e3-4f6c-b9b8-685bd49e44fe",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "dd488aa6-cadb-450f-8420-c6d6fbd50f58": {
-          "uuid": "dd488aa6-cadb-450f-8420-c6d6fbd50f58",
-          "title": "Unagi Philadelphia",
-          "itemDescription": "Rice, eel, cream cheese, cucumber, sesame, masago roe, and nori.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3945ad74-2703-496f-9c6a-6b9c50c3e337",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "54584dee-1069-4beb-9084-7f43340f5ec1": {
-          "uuid": "54584dee-1069-4beb-9084-7f43340f5ec1",
-          "title": "Big Fish Set",
-          "itemDescription": "Rainbow Big Fish roll, Philadelphia Big Fish with smoked salmon and tuna, Philadelphia Big Fish with salmon, Felix sushi with sea bass, Felix sushi with salmon (650g)",
-          "price": 60900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/76390b18-bef4-473f-bf00-98f43f4f1049",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "51a075f7-7f7c-4610-8012-6dbfe0f0b913": {
-          "uuid": "51a075f7-7f7c-4610-8012-6dbfe0f0b913",
-          "title": "Philadelphia deluxe with salmon",
-          "itemDescription": "Rice, salmon, cream cheese, avocado, flying fish roe, and nori.",
-          "price": 14400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5fbe388e-b8ba-458c-907b-7c36479740ab",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "16e76c5b-a153-4e9b-8e94-eef1bee06312": {
-          "uuid": "16e76c5b-a153-4e9b-8e94-eef1bee06312",
-          "title": "Philadelphia with shrimp",
-          "itemDescription": "Rice, shrimp tempura, cream cheese, bell pepper, cucumber, and nori.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/606f7d05-128f-4b68-a198-ae3fa5283bfe",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "c6b8c15e-e375-4c06-a25e-f9523148fdf4": {
-          "uuid": "c6b8c15e-e375-4c06-a25e-f9523148fdf4",
-          "title": "Sweet and sour pork",
-          "itemDescription": "Pork, steamed rice, broccoli, champignons, bell pepper, paprika sauce, kimchi sauce, onion, cilantro, and sesame.",
-          "price": 13400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e545095-eb9f-4e4c-a2a1-7418788d7681",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "eca4a81e-4480-40d8-865a-5543dd70c473": {
-          "uuid": "eca4a81e-4480-40d8-865a-5543dd70c473",
-          "title": "Salmon salad",
-          "itemDescription": "Salmon, quinoa, salad mix, and citrus-mustard sauce.",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a181774-6e10-49ef-966c-c43ee5e063e7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "b491e304-7781-4dd1-bfdf-8fc62d2cacb1": {
-          "uuid": "b491e304-7781-4dd1-bfdf-8fc62d2cacb1",
-          "title": "Pumpkin cheesecake",
-          "itemDescription": "Pumpkin puree, cream cheese, cookies, butter, sugar, mint, cinnamon, cocoa powder.",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a5d4114-5fee-4f27-bbaa-6f30bf8f1700",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "313e6ecb-fdc3-4868-8d9e-87ca07794b75": {
-          "uuid": "313e6ecb-fdc3-4868-8d9e-87ca07794b75",
-          "title": "Chicken roll",
-          "itemDescription": "Rice, chicken, cream cheese, flying fish roe, nori, sesame, cucumber, takuan, green onion, and spice sauce.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0debcf94-022a-430d-aef6-1b08cf91fb13",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "27dba9cf-d9e3-49a5-8ed1-bb98a99e726f": {
-          "uuid": "27dba9cf-d9e3-49a5-8ed1-bb98a99e726f",
-          "title": "Shrimp fried rice",
-          "itemDescription": "Rice, shrimp, egg, soy sauce, hondashi, and sesame.",
-          "price": 7400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ee66b49-2578-41c3-829b-37e9e9e5bbca",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0e4ef5ae-fb74-468a-add8-9868d9dc891b": {
-          "uuid": "0e4ef5ae-fb74-468a-add8-9868d9dc891b",
-          "title": "Futomaki with smoked tuna",
-          "itemDescription": "Rice, smoked tuna, broccoli, lollo biondo salad, spice sauce, and nori.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/28e7d0bb-80df-45d4-beeb-551cdc536d0f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "6e09fb7c-1b72-4646-b5eb-be1b60bd7df1": {
-          "uuid": "6e09fb7c-1b72-4646-b5eb-be1b60bd7df1",
-          "title": "Eel miso soup",
-          "itemDescription": "Miso broth, eel, tofu, wakame, green onion.",
-          "price": 5400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f1445e4-ef27-4f26-83cc-ed72fd849207",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "9a9edaad-eec9-40fb-9641-5f2d78afa679": {
-          "uuid": "9a9edaad-eec9-40fb-9641-5f2d78afa679",
-          "title": "Ramen soup with Chashu pork",
-          "itemDescription": "Ramen broth, pork Chashu, ramen noodles, pickled egg, onion, cilantro, nori, and chili oil. To choose from 440 or 570 g.",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2de87ecd-0d82-4f04-b7cc-159d56576960",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7ba5742e-bf37-407b-bb6e-4a63c4b11c36"
-          ]
-        },
-        "8b076e4d-e956-4c9b-b9cb-221a767b779d": {
-          "uuid": "8b076e4d-e956-4c9b-b9cb-221a767b779d",
-          "title": "Chicken fried rice",
-          "itemDescription": "Rice, chicken fillet, egg, soy sauce, and sesame.",
-          "price": 6400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/90839cc3-768d-43ee-895a-35d750cdd7b6",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "01b3879e-b1a1-4dc4-8196-555f8d6017ee": {
-          "uuid": "01b3879e-b1a1-4dc4-8196-555f8d6017ee",
-          "title": "Philadelphia green with salmon",
-          "itemDescription": "Rice, cucumber, cream cheese, salmon, avocado, salmon roe, and nori.",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d403a77-b400-4bc4-8014-afc1bea40df7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "8d9e3ad9-dacf-4595-9e06-49bd2b55b426": {
-          "uuid": "8d9e3ad9-dacf-4595-9e06-49bd2b55b426",
-          "title": "Glass noodles with seafood",
-          "itemDescription": "Glass noodles, seafood mix, vegetable mix, tonkatsu sauce, oyster sauce, and garlic (wok).",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b62f865-4c6f-4fa2-ad6f-8bdd3ef763fd",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "a56653b7-ab35-452a-ac33-8992e3186b54": {
-          "uuid": "a56653b7-ab35-452a-ac33-8992e3186b54",
-          "title": "Yakitori chicken",
-          "itemDescription": "Chicken, steamed rice, teriyaki sauce, wine, leeks, sesame, cilantro.",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/52fbea9c-d238-459a-adc4-677a68c90a59",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "7d590059-0825-447a-9475-733f95e2a064": {
-          "uuid": "7d590059-0825-447a-9475-733f95e2a064",
-          "title": "Classic California with flying fish roe",
-          "itemDescription": "Rice, cucumber, crab stick, flying fish roe, avocado, mayonnaise, and nori.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ebba7c0-7102-4d20-a5d6-ef9eac7e3347",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "acc22def-6571-49d6-9863-3665c5f5f5d3": {
-          "uuid": "acc22def-6571-49d6-9863-3665c5f5f5d3",
-          "title": "Seafood salad",
-          "itemDescription": "Shrimps, octopus, shell mussels, salad mix, peas microgreen, mango, and spinach sauce.",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b12cc73-8217-4954-985d-c0c1e7da8aea",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8ed9327f-3b1e-44b6-9c73-7e77e0c20b1c": {
-          "uuid": "8ed9327f-3b1e-44b6-9c73-7e77e0c20b1c",
-          "title": "Tom yam soup",
-          "itemDescription": "Chicken broth, shrimp, coconut milk, Tom Yam paste, champignons, lime, fungus mushrooms, fish sauce, onion, ginger, lemongrass, chilli pepper, basil, and hondashi.",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/da1be528-63de-4f91-bfa7-272012c01deb",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "added36a-ae4d-4b38-904e-d2f9238bdf02": {
-          "uuid": "added36a-ae4d-4b38-904e-d2f9238bdf02",
-          "title": "Fried gedza dumplings with veal and salad",
-          "itemDescription": "Veal gedza, Asian salad, daikon, tempura sauce, green onion, and sesame. To choose from 125 or 160 g.",
-          "price": 8400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e62891fe-ae38-45b3-a15f-1483774afaae",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "dbf779b2-5d76-4916-b4be-3b35553d56a2"
-          ]
-        },
-        "99429c69-dafc-4c6e-ac8e-c1ffacb3027e": {
-          "uuid": "99429c69-dafc-4c6e-ac8e-c1ffacb3027e",
-          "title": "Green dragon",
-          "itemDescription": "Rice, eel, avocado, tamago, cucumber, unagi sauce, sesame, and nori.",
-          "price": 17900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/14aab32a-da4f-4ec9-b328-167143a2e76e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "3145b977-cb68-4571-bf97-51500d95264f": {
-          "uuid": "3145b977-cb68-4571-bf97-51500d95264f",
-          "title": "Nut sauce",
-          "itemDescription": "Sunflower oil, cashew nuts, soy sauce, mirin, rice vinegar, apple, sesame, sugar, onion, and garlic.",
-          "price": 1400,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "eb2b01fb-661c-48da-bc2c-5e7b913979da": {
-          "uuid": "eb2b01fb-661c-48da-bc2c-5e7b913979da",
-          "title": "Thai rice with Chashu pork",
-          "itemDescription": "Steamed rise, Chashu pork, egg, carrot, soy sauce, onion, and hondash.",
-          "price": 7400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d13cf84-c86a-4847-872c-c8ea5bfc0628",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "66fb0ad2-7df5-4c63-a1d0-eeadb05145e2": {
-          "uuid": "66fb0ad2-7df5-4c63-a1d0-eeadb05145e2",
-          "title": "Mango mousse",
-          "itemDescription": "Cream, cream cheese, mango, chocolate biscuits, mint, fresh lime juice, yuzu juice, powdered sugar.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7716f21-b8ac-45da-8fd7-58b111863576",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "31f06c0d-de51-4ddf-9dca-286554a30c8c": {
-          "uuid": "31f06c0d-de51-4ddf-9dca-286554a30c8c",
-          "title": "Classic rice chips",
-          "itemDescription": "Rice chips and sunflower oil.",
-          "price": 2900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4fc3343-664e-48a2-abdd-be0e5a572b34",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8d546580-1ba5-4df8-9eb1-595b0dbcb0b8": {
-          "uuid": "8d546580-1ba5-4df8-9eb1-595b0dbcb0b8",
-          "title": "Sea Set Middle",
-          "itemDescription": "Spicy roll with tuna, Roll with crab and salmon, Roll with mussels, Cheddar roll (740g)",
-          "price": 34900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/36bb1671-6388-4605-918e-e2250353cdb5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "44720a90-5c53-4ff4-bd15-11029c78c259": {
-          "uuid": "44720a90-5c53-4ff4-bd15-11029c78c259",
-          "title": "Chicken miso soup",
-          "itemDescription": "Miso broth, egg noodles, chicken fillet, quail egg, wakame, sesame, and green onions.",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/65c59bf2-8a36-4bab-ae19-319649988da8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "96219422-e8d2-4d5f-ba71-cfd783049898": {
-          "uuid": "96219422-e8d2-4d5f-ba71-cfd783049898",
-          "title": "Sea Max Set",
-          "itemDescription": "Philadelphia with salmon, Shrimp tempura crunch, California with roe and yellowtail, Crab roll with hiyashi, Spicy roll with tuna (1010g) ",
-          "price": 46900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c34ddeb-5b89-4be0-9161-7c4e22180cad",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "1397d98a-5e02-4bf9-8236-2fbd00bd520f": {
-          "uuid": "1397d98a-5e02-4bf9-8236-2fbd00bd520f",
-          "title": "Kampai Set",
-          "itemDescription": "Unagi Philadelphia, Philadelphia with shrimp, Classic California with flying fish roe, California with sesame and salmon, Chicken roll, California with roe and yellowtail, Spicy roll with tuna, Roll with mussels (1500 g) ",
-          "price": 74900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea626eef-3c4c-4553-97f0-8e604b9cd4a8",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        },
-        "589523c7-34d6-4dab-aa4d-bf6f4eebfe83": {
-          "uuid": "589523c7-34d6-4dab-aa4d-bf6f4eebfe83",
-          "title": "Roll with tuna felix",
-          "itemDescription": "Rice, tuna, flying fish roe, Japanese mayonnaise, cucumber, takuan, green onions, and nori.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/98d8b166-e529-43a9-9531-844afb6a6b02",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
-          ]
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "890e319e-1613-4452-a54f-25750db6b346",
-          "title": "Rolls",
-          "subtitle": "",
-          "itemUuids": [
-            "51a075f7-7f7c-4610-8012-6dbfe0f0b913",
-            "db2d8d6d-d02a-45f4-be1e-846f217d92ee",
-            "16e76c5b-a153-4e9b-8e94-eef1bee06312",
-            "9d6ae28b-0d64-4404-9670-40b6689d0800",
-            "26c6883e-e9d3-45bd-a31d-00857a58ddc7",
-            "dd488aa6-cadb-450f-8420-c6d6fbd50f58",
-            "01b3879e-b1a1-4dc4-8196-555f8d6017ee",
-            "7d590059-0825-447a-9475-733f95e2a064",
-            "b9213858-3f28-4ac5-b4d4-b76da164e2a7",
-            "20eb84a2-cb72-45ab-9d9f-e5961715c8f6",
-            "33812db4-0c69-451f-a164-c7205eb75370",
-            "8461f3b2-05aa-4f0a-89f7-b6904f7213c4",
-            "99429c69-dafc-4c6e-ac8e-c1ffacb3027e",
-            "25ac9829-f1e6-43c0-9e52-2ea21ce36c77",
-            "313e6ecb-fdc3-4868-8d9e-87ca07794b75",
-            "9534f911-d9e8-4b79-9c22-7296108bc4e5",
-            "589523c7-34d6-4dab-aa4d-bf6f4eebfe83",
-            "0e4ef5ae-fb74-468a-add8-9868d9dc891b"
-          ]
-        },
-        {
-          "uuid": "4190b3f1-7e0b-4e55-ab57-b4e873d14ba2",
-          "title": " Sets",
-          "subtitle": "",
-          "itemUuids": [
-            "8d546580-1ba5-4df8-9eb1-595b0dbcb0b8",
-            "96219422-e8d2-4d5f-ba71-cfd783049898",
-            "f0a6d69e-bb95-43b7-b948-afc06576bd51",
-            "5a2658e6-62b2-4326-8456-6722cfdb3b1c",
-            "c2d0ce2b-f879-42cf-b810-7669d3e3ab0d",
-            "54584dee-1069-4beb-9084-7f43340f5ec1",
-            "b69d5218-436a-44c0-8194-c556ba244a76",
-            "1397d98a-5e02-4bf9-8236-2fbd00bd520f"
-          ]
-        },
-        {
-          "uuid": "52f77fda-e7c4-4120-bdbb-932f3e992573",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "1ea0ad32-c7bc-4361-93eb-0e92ec7e43a3",
-            "1e762d39-a34e-4031-a6bd-4ac0121eb85b",
-            "eca4a81e-4480-40d8-865a-5543dd70c473",
-            "acc22def-6571-49d6-9863-3665c5f5f5d3"
-          ]
-        },
-        {
-          "uuid": "36af02da-90f3-48ad-a8cf-84ee3d471c1f",
-          "title": "Kitchen",
-          "subtitle": "",
-          "itemUuids": [
-            "8b076e4d-e956-4c9b-b9cb-221a767b779d",
-            "27dba9cf-d9e3-49a5-8ed1-bb98a99e726f",
-            "f04e19d0-8968-4925-9be8-44e5c3615aa5",
-            "c2d4cccb-7b1f-4754-90d2-ff42606551a9",
-            "ae25a8be-c15a-4c7d-86f2-40f2d703b63d",
-            "8d9e3ad9-dacf-4595-9e06-49bd2b55b426",
-            "added36a-ae4d-4b38-904e-d2f9238bdf02",
-            "b27aba9f-cedf-4b6f-9ec6-a3cbb561a3cf",
-            "f6d9f013-31f0-4be0-88b0-c813c15ca586",
-            "eb2b01fb-661c-48da-bc2c-5e7b913979da",
-            "c6b8c15e-e375-4c06-a25e-f9523148fdf4",
-            "a56653b7-ab35-452a-ac33-8992e3186b54"
-          ]
-        },
-        {
-          "uuid": "977bd694-3002-471e-81f5-495d43eb8e1d",
-          "title": "Sides",
-          "subtitle": "",
-          "itemUuids": [
-            "31f06c0d-de51-4ddf-9dca-286554a30c8c",
-            "75e24a05-345e-464f-a6be-89c432c76449",
-            "3145b977-cb68-4571-bf97-51500d95264f"
-          ]
-        },
-        {
-          "uuid": "710fb3b8-92c7-4e3f-8c3e-24846d9f2950",
-          "title": "Desserts",
-          "subtitle": "",
-          "itemUuids": [
-            "e78bdef4-2d34-4660-b071-1355338f8aaa",
-            "66fb0ad2-7df5-4c63-a1d0-eeadb05145e2",
-            "b491e304-7781-4dd1-bfdf-8fc62d2cacb1"
-          ]
-        },
-        {
-          "uuid": "3b486243-7882-4a5f-92a0-6e73b108e4eb",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "c4e3653c-ffe1-4680-b0a8-01ecb8658bdf",
-            "6e09fb7c-1b72-4646-b5eb-be1b60bd7df1",
-            "5bf9f2f4-096f-4eaf-a1f0-1531e53f9fbb",
-            "9a9edaad-eec9-40fb-9641-5f2d78afa679",
-            "8ed9327f-3b1e-44b6-9c73-7e77e0c20b1c",
-            "7aaa2dee-2037-4a38-87bf-050b18c051bb",
-            "44720a90-5c53-4ff4-bd15-11029c78c259"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.43883654193364,
     "longitude": 30.484408818940935,
@@ -949,5 +179,754 @@
     "storeRatingScore": 4.135869565217392,
     "ratingCount": "184"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/48f9fc96-99be-4ec3-8665-ceff46cde345"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/48f9fc96-99be-4ec3-8665-ceff46cde345",
+  "items": {
+    "9d6ae28b-0d64-4404-9670-40b6689d0800": {
+      "uuid": "9d6ae28b-0d64-4404-9670-40b6689d0800",
+      "title": "Philadelphia with sesame and salmon",
+      "itemDescription": "Rice, salmon, cream cheese, cucumber, avocado, sesame, and nori.",
+      "price": 9400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4615707-ea3c-478d-88f6-699b654c392c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "ae25a8be-c15a-4c7d-86f2-40f2d703b63d": {
+      "uuid": "ae25a8be-c15a-4c7d-86f2-40f2d703b63d",
+      "title": "Egg noodles with chicken and vegetables",
+      "itemDescription": "Egg noodles, chicken fillet, vegetable mix, sesame, teriyaki sauce, and kimchi sauce (wok).",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/97f87ec0-de1b-4add-b923-2a6ba9efb138",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e78bdef4-2d34-4660-b071-1355338f8aaa": {
+      "uuid": "e78bdef4-2d34-4660-b071-1355338f8aaa",
+      "title": "Matcha cream mousse",
+      "itemDescription": "Cream, cream cheese, matcha tea, biscuit, fresh lime juice, yuzu juice, chocolate cookies, lime, and powdered sugar, mint.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/18dde3a0-1a47-4ec0-a551-0e3a64639a89",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "20eb84a2-cb72-45ab-9d9f-e5961715c8f6": {
+      "uuid": "20eb84a2-cb72-45ab-9d9f-e5961715c8f6",
+      "title": "California with flying fish roe and salmon",
+      "itemDescription": "Rice, salmon, cucumber, flying fish roe, avocado, and nori.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5be19c0b-a0d8-4f3f-89d6-06e64a273ed6",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "9534f911-d9e8-4b79-9c22-7296108bc4e5": {
+      "uuid": "9534f911-d9e8-4b79-9c22-7296108bc4e5",
+      "title": "Crab roll with hiyashi",
+      "itemDescription": "Rice, crab mix with masago roe and mayonnaise, hiyashi, nut sauce, daikon, and nori.",
+      "price": 10400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5bcc4332-e645-4ddf-8bae-66c7fa20edc2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "b69d5218-436a-44c0-8194-c556ba244a76": {
+      "uuid": "b69d5218-436a-44c0-8194-c556ba244a76",
+      "title": "De Lux Set",
+      "itemDescription": "Philadelphia deluxe with Salmon, Green Dragon, Shrimp tempura crunch, Smile roll, Spicy roll with tuna (950g) ",
+      "price": 63900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6c6d7f2b-92ba-4674-8831-33198e1ca4f3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "f04e19d0-8968-4925-9be8-44e5c3615aa5": {
+      "uuid": "f04e19d0-8968-4925-9be8-44e5c3615aa5",
+      "title": "Vegetable fried rice",
+      "itemDescription": "Rice, mushrooms, bell pepper, onion, soy sauce, hondashi, and sesame.",
+      "price": 4900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/080450d7-4451-4965-8a1e-232cda3d8f4f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b9213858-3f28-4ac5-b4d4-b76da164e2a7": {
+      "uuid": "b9213858-3f28-4ac5-b4d4-b76da164e2a7",
+      "title": "California with flying fish roe and smoked salmon",
+      "itemDescription": "Rice, smoked salmon, cucumber, flying roe, avocado, and nori.",
+      "price": 11400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b330439d-c5a4-4188-b7be-dbd4bbe6ee8a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "c2d0ce2b-f879-42cf-b810-7669d3e3ab0d": {
+      "uuid": "c2d0ce2b-f879-42cf-b810-7669d3e3ab0d",
+      "title": "Fusion Set",
+      "itemDescription": "Spicy roll with tuna, Roll with duck in daikon, Roll with smoked salmon, Roll with crab and salmon, Roll with mussels, Cheddar roll (1110 g) ",
+      "price": 57900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/68577750-57c9-47ca-ad92-1f0c6ee1c499",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "1e762d39-a34e-4031-a6bd-4ac0121eb85b": {
+      "uuid": "1e762d39-a34e-4031-a6bd-4ac0121eb85b",
+      "title": "Beijing chicken salad",
+      "itemDescription": "Chinese cabbage, chicken fillet, radicchio salad, tomatoes, cucumber, lemon-nut sauce, fried rice noodles, sesame, and cilantro.",
+      "price": 7400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9b5163bb-a9c9-43cc-b240-ff0de91c67b8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8461f3b2-05aa-4f0a-89f7-b6904f7213c4": {
+      "uuid": "8461f3b2-05aa-4f0a-89f7-b6904f7213c4",
+      "title": "Red dragon",
+      "itemDescription": "Rice, salmon, eel, tamago, cucumber, masago roe, mayonnaise, and nori.",
+      "price": 18900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf8d2079-4cf9-456c-b6cb-e807588bdce4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "33812db4-0c69-451f-a164-c7205eb75370": {
+      "uuid": "33812db4-0c69-451f-a164-c7205eb75370",
+      "title": "California with sesame and salmon",
+      "itemDescription": "Rice, salmon, cucumber, sesame, avocado, and nori.",
+      "price": 9400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfa279bb-a9aa-499a-9bb7-c506c1784ea7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "f0a6d69e-bb95-43b7-b948-afc06576bd51": {
+      "uuid": "f0a6d69e-bb95-43b7-b948-afc06576bd51",
+      "title": "Philadelphia Set Middle",
+      "itemDescription": "Philadelphia deluxe with salmon, Philadelphia with shrimp, Smile roll, Crunch with salmon Well Done (820п)",
+      "price": 47900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/33af0a4a-ca69-429e-bb74-416a783896f9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "5a2658e6-62b2-4326-8456-6722cfdb3b1c": {
+      "uuid": "5a2658e6-62b2-4326-8456-6722cfdb3b1c",
+      "title": "Philadelphia Set Max",
+      "itemDescription": "Philadelphia deluxe with salmon, Unagi Philadelphia, Philadelphia with shrimp, Sushiya rainbow roll, Cheddar roll (1010 g) ",
+      "price": 56900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/33855007-26be-4950-bce3-b29940f3dd04",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "c4e3653c-ffe1-4680-b0a8-01ecb8658bdf": {
+      "uuid": "c4e3653c-ffe1-4680-b0a8-01ecb8658bdf",
+      "title": "Miso soup",
+      "itemDescription": "Miso broth, tofu, wakame, and green onion.",
+      "price": 3400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e79875b1-95b4-4092-8595-25a4100dbd5f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c2d4cccb-7b1f-4754-90d2-ff42606551a9": {
+      "uuid": "c2d4cccb-7b1f-4754-90d2-ff42606551a9",
+      "title": "Udon noodle with veal",
+      "itemDescription": "Udon noodle, veal, champignons, bell pepper, corn, black pepper sauce, tonkatsu sauce, leeks, and garlic.",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea496d88-ef3f-4c59-93f0-4916386cba34",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "f6d9f013-31f0-4be0-88b0-c813c15ca586": {
+      "uuid": "f6d9f013-31f0-4be0-88b0-c813c15ca586",
+      "title": "Chicken curry with steamed rice",
+      "itemDescription": "Chicken, steamed rice, chicken broth, coconut milk, bell pepper, zucchini, champignons, curry paste, fish sauce, ginger, chilli cilantro, and sesame.",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/12022e9f-12ba-4ebb-b245-3d5d443aab4e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "25ac9829-f1e6-43c0-9e52-2ea21ce36c77": {
+      "uuid": "25ac9829-f1e6-43c0-9e52-2ea21ce36c77",
+      "title": "Golden unagi dragon",
+      "itemDescription": "Rice, eel, tamago, cucumber, unagi sauce, sesame, and nori.",
+      "price": 19400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3537842d-defe-46b7-8b90-3a8131345e6a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "5bf9f2f4-096f-4eaf-a1f0-1531e53f9fbb": {
+      "uuid": "5bf9f2f4-096f-4eaf-a1f0-1531e53f9fbb",
+      "title": "Salmon miso soup",
+      "itemDescription": "Miso broth, salmon, tofu, wakame, and green onion.",
+      "price": 4400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6750f417-4bd6-4769-8703-2c29f4e16112",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "75e24a05-345e-464f-a6be-89c432c76449": {
+      "uuid": "75e24a05-345e-464f-a6be-89c432c76449",
+      "title": "Colored rice chips",
+      "itemDescription": "Rice chips and sunflower oil.",
+      "price": 2900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6c6fb6c0-8e0c-4cd9-a3a3-81e43c523e8e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7aaa2dee-2037-4a38-87bf-050b18c051bb": {
+      "uuid": "7aaa2dee-2037-4a38-87bf-050b18c051bb",
+      "title": "Udon soup with chicken and shrimp",
+      "itemDescription": "Cler broth, glass noodles, chicken fillet, shrimp tempura, egg, shiitake mushrooms, wakame, and green onions.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea7c1a6b-d3d1-4d20-9c25-8db9af005c86",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "1ea0ad32-c7bc-4361-93eb-0e92ec7e43a3": {
+      "uuid": "1ea0ad32-c7bc-4361-93eb-0e92ec7e43a3",
+      "title": "Hiyashi seaweed with sesame",
+      "itemDescription": "Hiyashi and sesame.",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc182e08-3ee0-4dfd-a73f-ed3095ff65f1",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "26c6883e-e9d3-45bd-a31d-00857a58ddc7": {
+      "uuid": "26c6883e-e9d3-45bd-a31d-00857a58ddc7",
+      "title": "Philadelphia with sesame and smoked salmon",
+      "itemDescription": "Rice, smoked salmon, cream cheese, cucumber, avocado, sesame, and nori.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/606a81c6-5c8f-4e6a-b16e-c5a793a0caae",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "b27aba9f-cedf-4b6f-9ec6-a3cbb561a3cf": {
+      "uuid": "b27aba9f-cedf-4b6f-9ec6-a3cbb561a3cf",
+      "title": "Fried gedza dumplings with chicken and salad",
+      "itemDescription": "Gedza with chicken, Asian salad, daikon, tempura sauce, green onion, and sesame. To choose from 125 or 160 g.",
+      "price": 8400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/757204d1-ce2e-42d4-b4da-cfef56c4d412",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "dbf779b2-5d76-4916-b4be-3b35553d56a2"
+      ]
+    },
+    "db2d8d6d-d02a-45f4-be1e-846f217d92ee": {
+      "uuid": "db2d8d6d-d02a-45f4-be1e-846f217d92ee",
+      "title": "Philadelphia deluxe with smoked salmon",
+      "itemDescription": "Rice, smoked salmon, cream cheese, avocado flying fish roe, and nori.",
+      "price": 15900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/44ca16e2-e5e3-4f6c-b9b8-685bd49e44fe",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "dd488aa6-cadb-450f-8420-c6d6fbd50f58": {
+      "uuid": "dd488aa6-cadb-450f-8420-c6d6fbd50f58",
+      "title": "Unagi Philadelphia",
+      "itemDescription": "Rice, eel, cream cheese, cucumber, sesame, masago roe, and nori.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3945ad74-2703-496f-9c6a-6b9c50c3e337",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "54584dee-1069-4beb-9084-7f43340f5ec1": {
+      "uuid": "54584dee-1069-4beb-9084-7f43340f5ec1",
+      "title": "Big Fish Set",
+      "itemDescription": "Rainbow Big Fish roll, Philadelphia Big Fish with smoked salmon and tuna, Philadelphia Big Fish with salmon, Felix sushi with sea bass, Felix sushi with salmon (650g)",
+      "price": 60900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/76390b18-bef4-473f-bf00-98f43f4f1049",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "51a075f7-7f7c-4610-8012-6dbfe0f0b913": {
+      "uuid": "51a075f7-7f7c-4610-8012-6dbfe0f0b913",
+      "title": "Philadelphia deluxe with salmon",
+      "itemDescription": "Rice, salmon, cream cheese, avocado, flying fish roe, and nori.",
+      "price": 14400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5fbe388e-b8ba-458c-907b-7c36479740ab",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "16e76c5b-a153-4e9b-8e94-eef1bee06312": {
+      "uuid": "16e76c5b-a153-4e9b-8e94-eef1bee06312",
+      "title": "Philadelphia with shrimp",
+      "itemDescription": "Rice, shrimp tempura, cream cheese, bell pepper, cucumber, and nori.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/606f7d05-128f-4b68-a198-ae3fa5283bfe",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "c6b8c15e-e375-4c06-a25e-f9523148fdf4": {
+      "uuid": "c6b8c15e-e375-4c06-a25e-f9523148fdf4",
+      "title": "Sweet and sour pork",
+      "itemDescription": "Pork, steamed rice, broccoli, champignons, bell pepper, paprika sauce, kimchi sauce, onion, cilantro, and sesame.",
+      "price": 13400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e545095-eb9f-4e4c-a2a1-7418788d7681",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "eca4a81e-4480-40d8-865a-5543dd70c473": {
+      "uuid": "eca4a81e-4480-40d8-865a-5543dd70c473",
+      "title": "Salmon salad",
+      "itemDescription": "Salmon, quinoa, salad mix, and citrus-mustard sauce.",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a181774-6e10-49ef-966c-c43ee5e063e7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "b491e304-7781-4dd1-bfdf-8fc62d2cacb1": {
+      "uuid": "b491e304-7781-4dd1-bfdf-8fc62d2cacb1",
+      "title": "Pumpkin cheesecake",
+      "itemDescription": "Pumpkin puree, cream cheese, cookies, butter, sugar, mint, cinnamon, cocoa powder.",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a5d4114-5fee-4f27-bbaa-6f30bf8f1700",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "313e6ecb-fdc3-4868-8d9e-87ca07794b75": {
+      "uuid": "313e6ecb-fdc3-4868-8d9e-87ca07794b75",
+      "title": "Chicken roll",
+      "itemDescription": "Rice, chicken, cream cheese, flying fish roe, nori, sesame, cucumber, takuan, green onion, and spice sauce.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0debcf94-022a-430d-aef6-1b08cf91fb13",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "27dba9cf-d9e3-49a5-8ed1-bb98a99e726f": {
+      "uuid": "27dba9cf-d9e3-49a5-8ed1-bb98a99e726f",
+      "title": "Shrimp fried rice",
+      "itemDescription": "Rice, shrimp, egg, soy sauce, hondashi, and sesame.",
+      "price": 7400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ee66b49-2578-41c3-829b-37e9e9e5bbca",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0e4ef5ae-fb74-468a-add8-9868d9dc891b": {
+      "uuid": "0e4ef5ae-fb74-468a-add8-9868d9dc891b",
+      "title": "Futomaki with smoked tuna",
+      "itemDescription": "Rice, smoked tuna, broccoli, lollo biondo salad, spice sauce, and nori.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/28e7d0bb-80df-45d4-beeb-551cdc536d0f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "6e09fb7c-1b72-4646-b5eb-be1b60bd7df1": {
+      "uuid": "6e09fb7c-1b72-4646-b5eb-be1b60bd7df1",
+      "title": "Eel miso soup",
+      "itemDescription": "Miso broth, eel, tofu, wakame, green onion.",
+      "price": 5400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f1445e4-ef27-4f26-83cc-ed72fd849207",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "9a9edaad-eec9-40fb-9641-5f2d78afa679": {
+      "uuid": "9a9edaad-eec9-40fb-9641-5f2d78afa679",
+      "title": "Ramen soup with Chashu pork",
+      "itemDescription": "Ramen broth, pork Chashu, ramen noodles, pickled egg, onion, cilantro, nori, and chili oil. To choose from 440 or 570 g.",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2de87ecd-0d82-4f04-b7cc-159d56576960",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7ba5742e-bf37-407b-bb6e-4a63c4b11c36"
+      ]
+    },
+    "8b076e4d-e956-4c9b-b9cb-221a767b779d": {
+      "uuid": "8b076e4d-e956-4c9b-b9cb-221a767b779d",
+      "title": "Chicken fried rice",
+      "itemDescription": "Rice, chicken fillet, egg, soy sauce, and sesame.",
+      "price": 6400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/90839cc3-768d-43ee-895a-35d750cdd7b6",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "01b3879e-b1a1-4dc4-8196-555f8d6017ee": {
+      "uuid": "01b3879e-b1a1-4dc4-8196-555f8d6017ee",
+      "title": "Philadelphia green with salmon",
+      "itemDescription": "Rice, cucumber, cream cheese, salmon, avocado, salmon roe, and nori.",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d403a77-b400-4bc4-8014-afc1bea40df7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "8d9e3ad9-dacf-4595-9e06-49bd2b55b426": {
+      "uuid": "8d9e3ad9-dacf-4595-9e06-49bd2b55b426",
+      "title": "Glass noodles with seafood",
+      "itemDescription": "Glass noodles, seafood mix, vegetable mix, tonkatsu sauce, oyster sauce, and garlic (wok).",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b62f865-4c6f-4fa2-ad6f-8bdd3ef763fd",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "a56653b7-ab35-452a-ac33-8992e3186b54": {
+      "uuid": "a56653b7-ab35-452a-ac33-8992e3186b54",
+      "title": "Yakitori chicken",
+      "itemDescription": "Chicken, steamed rice, teriyaki sauce, wine, leeks, sesame, cilantro.",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/52fbea9c-d238-459a-adc4-677a68c90a59",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "7d590059-0825-447a-9475-733f95e2a064": {
+      "uuid": "7d590059-0825-447a-9475-733f95e2a064",
+      "title": "Classic California with flying fish roe",
+      "itemDescription": "Rice, cucumber, crab stick, flying fish roe, avocado, mayonnaise, and nori.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ebba7c0-7102-4d20-a5d6-ef9eac7e3347",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "acc22def-6571-49d6-9863-3665c5f5f5d3": {
+      "uuid": "acc22def-6571-49d6-9863-3665c5f5f5d3",
+      "title": "Seafood salad",
+      "itemDescription": "Shrimps, octopus, shell mussels, salad mix, peas microgreen, mango, and spinach sauce.",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b12cc73-8217-4954-985d-c0c1e7da8aea",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8ed9327f-3b1e-44b6-9c73-7e77e0c20b1c": {
+      "uuid": "8ed9327f-3b1e-44b6-9c73-7e77e0c20b1c",
+      "title": "Tom yam soup",
+      "itemDescription": "Chicken broth, shrimp, coconut milk, Tom Yam paste, champignons, lime, fungus mushrooms, fish sauce, onion, ginger, lemongrass, chilli pepper, basil, and hondashi.",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/da1be528-63de-4f91-bfa7-272012c01deb",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "added36a-ae4d-4b38-904e-d2f9238bdf02": {
+      "uuid": "added36a-ae4d-4b38-904e-d2f9238bdf02",
+      "title": "Fried gedza dumplings with veal and salad",
+      "itemDescription": "Veal gedza, Asian salad, daikon, tempura sauce, green onion, and sesame. To choose from 125 or 160 g.",
+      "price": 8400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e62891fe-ae38-45b3-a15f-1483774afaae",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "dbf779b2-5d76-4916-b4be-3b35553d56a2"
+      ]
+    },
+    "99429c69-dafc-4c6e-ac8e-c1ffacb3027e": {
+      "uuid": "99429c69-dafc-4c6e-ac8e-c1ffacb3027e",
+      "title": "Green dragon",
+      "itemDescription": "Rice, eel, avocado, tamago, cucumber, unagi sauce, sesame, and nori.",
+      "price": 17900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/14aab32a-da4f-4ec9-b328-167143a2e76e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "3145b977-cb68-4571-bf97-51500d95264f": {
+      "uuid": "3145b977-cb68-4571-bf97-51500d95264f",
+      "title": "Nut sauce",
+      "itemDescription": "Sunflower oil, cashew nuts, soy sauce, mirin, rice vinegar, apple, sesame, sugar, onion, and garlic.",
+      "price": 1400,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "eb2b01fb-661c-48da-bc2c-5e7b913979da": {
+      "uuid": "eb2b01fb-661c-48da-bc2c-5e7b913979da",
+      "title": "Thai rice with Chashu pork",
+      "itemDescription": "Steamed rise, Chashu pork, egg, carrot, soy sauce, onion, and hondash.",
+      "price": 7400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d13cf84-c86a-4847-872c-c8ea5bfc0628",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "66fb0ad2-7df5-4c63-a1d0-eeadb05145e2": {
+      "uuid": "66fb0ad2-7df5-4c63-a1d0-eeadb05145e2",
+      "title": "Mango mousse",
+      "itemDescription": "Cream, cream cheese, mango, chocolate biscuits, mint, fresh lime juice, yuzu juice, powdered sugar.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7716f21-b8ac-45da-8fd7-58b111863576",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "31f06c0d-de51-4ddf-9dca-286554a30c8c": {
+      "uuid": "31f06c0d-de51-4ddf-9dca-286554a30c8c",
+      "title": "Classic rice chips",
+      "itemDescription": "Rice chips and sunflower oil.",
+      "price": 2900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4fc3343-664e-48a2-abdd-be0e5a572b34",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8d546580-1ba5-4df8-9eb1-595b0dbcb0b8": {
+      "uuid": "8d546580-1ba5-4df8-9eb1-595b0dbcb0b8",
+      "title": "Sea Set Middle",
+      "itemDescription": "Spicy roll with tuna, Roll with crab and salmon, Roll with mussels, Cheddar roll (740g)",
+      "price": 34900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/36bb1671-6388-4605-918e-e2250353cdb5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "44720a90-5c53-4ff4-bd15-11029c78c259": {
+      "uuid": "44720a90-5c53-4ff4-bd15-11029c78c259",
+      "title": "Chicken miso soup",
+      "itemDescription": "Miso broth, egg noodles, chicken fillet, quail egg, wakame, sesame, and green onions.",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/65c59bf2-8a36-4bab-ae19-319649988da8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "96219422-e8d2-4d5f-ba71-cfd783049898": {
+      "uuid": "96219422-e8d2-4d5f-ba71-cfd783049898",
+      "title": "Sea Max Set",
+      "itemDescription": "Philadelphia with salmon, Shrimp tempura crunch, California with roe and yellowtail, Crab roll with hiyashi, Spicy roll with tuna (1010g) ",
+      "price": 46900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c34ddeb-5b89-4be0-9161-7c4e22180cad",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "1397d98a-5e02-4bf9-8236-2fbd00bd520f": {
+      "uuid": "1397d98a-5e02-4bf9-8236-2fbd00bd520f",
+      "title": "Kampai Set",
+      "itemDescription": "Unagi Philadelphia, Philadelphia with shrimp, Classic California with flying fish roe, California with sesame and salmon, Chicken roll, California with roe and yellowtail, Spicy roll with tuna, Roll with mussels (1500 g) ",
+      "price": 74900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea626eef-3c4c-4553-97f0-8e604b9cd4a8",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    },
+    "589523c7-34d6-4dab-aa4d-bf6f4eebfe83": {
+      "uuid": "589523c7-34d6-4dab-aa4d-bf6f4eebfe83",
+      "title": "Roll with tuna felix",
+      "itemDescription": "Rice, tuna, flying fish roe, Japanese mayonnaise, cucumber, takuan, green onions, and nori.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/98d8b166-e529-43a9-9531-844afb6a6b02",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f7858bc-ca36-4f8c-8d0a-edf5dacab58c"
+      ]
+    }
+  }
 }

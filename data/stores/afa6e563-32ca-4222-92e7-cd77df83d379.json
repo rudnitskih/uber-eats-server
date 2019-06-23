@@ -20,330 +20,45 @@
   ],
   "sections": [
     {
-      "uuid": "bb4d773e-b81e-4368-bf2f-163a74c58386",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 9:45 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "f5a3eb1b-db18-4d3d-a25f-74343ee51f14",
-        "18875057-fa15-422f-837c-ca1a480a6934",
-        "cfc16af3-5779-46da-9828-c5dcf7fc7b43",
-        "a54d633e-a223-4756-b096-05464c63d581"
+      "uuid": "f5a3eb1b-db18-4d3d-a25f-74343ee51f14",
+      "title": "Vegan soups",
+      "itemUuids": [
+        "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
+        "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
+        "3efbe527-6a87-4b24-81e3-01d345b1b2cd"
+      ]
+    },
+    {
+      "uuid": "18875057-fa15-422f-837c-ca1a480a6934",
+      "title": "Bowls",
+      "itemUuids": [
+        "a265f5e7-bef8-4064-8ead-1d3163f609a2",
+        "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
+        "611647df-cfdb-4001-a3a8-c0963e4c19d3",
+        "2f32e009-6a10-43b8-8fbe-9ece3c021a38"
+      ]
+    },
+    {
+      "uuid": "cfc16af3-5779-46da-9828-c5dcf7fc7b43",
+      "title": "Salads",
+      "itemUuids": [
+        "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
+        "405f2a55-88e7-4180-a90e-ef4ca815f84d",
+        "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
+        "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f"
+      ]
+    },
+    {
+      "uuid": "a54d633e-a223-4756-b096-05464c63d581",
+      "title": "Desserts",
+      "itemUuids": [
+        "3556abde-02be-4b33-aae0-2629412c5d5a",
+        "70980dc4-22d9-4e25-9104-041eec4168b1",
+        "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
+        "46fdc437-1d10-45ed-ae34-d86623de7644"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "bb4d773e-b81e-4368-bf2f-163a74c58386": {
-      "itemsMap": {
-        "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c": {
-          "uuid": "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
-          "title": "Raw Chia dessert mango",
-          "itemDescription": "Chia in coconut milk, mango puree, honey, and orange (150g).",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e2e840f-b081-4e47-9f64-88629fb3141e"
-        },
-        "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f": {
-          "uuid": "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f",
-          "title": "Vegan Thai salad with funchoza",
-          "itemDescription": "Bean noodles-funcheza, tofu, wakame seaweed, tomatoes, cilantro, sesame, sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (150g).",
-          "price": 8500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "405f2a55-88e7-4180-a90e-ef4ca815f84d": {
-          "uuid": "405f2a55-88e7-4180-a90e-ef4ca815f84d",
-          "title": "Raw Tabbouleh with sprouted mung bean",
-          "itemDescription": "Sprouted mung beans, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
-          "price": 7500,
-          "suspendUntil": 8640000000
-        },
-        "70980dc4-22d9-4e25-9104-041eec4168b1": {
-          "uuid": "70980dc4-22d9-4e25-9104-041eec4168b1",
-          "title": "Vegan Vanilla trifle",
-          "itemDescription": "Chocolate biscuit, vanilla cream, cherry, and mint (150g).",
-          "price": 6500,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Вегетаріанська страва",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "04ad06f0-e3cf-435f-92f9-1e37c64bb88d": {
-          "uuid": "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
-          "title": "Vegan Thai soup",
-          "itemDescription": "Bean noodles-funchoza, tofu, wakame seaweed, cilantro, sesame seeds, and chili slices in a separate package (400g).",
-          "price": 10500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a12e19c-d596-4b0d-aff6-ea8e9fe1e83c",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "46fdc437-1d10-45ed-ae34-d86623de7644": {
-          "uuid": "46fdc437-1d10-45ed-ae34-d86623de7644",
-          "title": "Raw Chia dessert nuts",
-          "itemDescription": "Chia in coconut milk, date, almond, cashew, hazelnut, honey, and dried cranberries (150g).",
-          "price": 7500
-        },
-        "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146": {
-          "uuid": "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
-          "title": "Raw Tabbouleh with sprouted buckwheat",
-          "itemDescription": "Sprouted buckwheat, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecba9324-2532-457e-b690-78cae7433d59",
-          "suspendUntil": 8640000000
-        },
-        "a265f5e7-bef8-4064-8ead-1d3163f609a2": {
-          "uuid": "a265f5e7-bef8-4064-8ead-1d3163f609a2",
-          "title": "Vegan Bowl English breakfast",
-          "itemDescription": "Soy tomato sausage, tofu omelet, couscous, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (370g).",
-          "price": 11500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/282e6257-a921-44b0-8877-34f1c9bc2299",
-          "nutritionalInfo": {},
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11": {
-          "uuid": "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
-          "title": "Vegan Bowl with sweet tofu",
-          "itemDescription": "Buckwheat noodles, sweet tofu, nori, tomatoes, spinach, dressing and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (350g).",
-          "price": 12000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/03766cf2-a1fd-4a57-88d6-7e0214ffd304",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129": {
-          "uuid": "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
-          "title": "Vegan Ramen",
-          "itemDescription": "Rice noodles, shiitake mushrooms; soy chops, cilantro, sesame seeds, and chili slices in a separate package (475g).",
-          "price": 11500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1a0cc06-63d6-4ab0-ab28-219893c980c7",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "611647df-cfdb-4001-a3a8-c0963e4c19d3": {
-          "uuid": "611647df-cfdb-4001-a3a8-c0963e4c19d3",
-          "title": "Vegan Bowl Quinoa",
-          "itemDescription": "Quinoa bulgur, stewed eggplant, soy steak, spinach, tomatoes, red cabbage, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
-          "price": 10500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/770c30e1-945b-4ac4-9dae-d085bb4047d9",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "3556abde-02be-4b33-aae0-2629412c5d5a": {
-          "uuid": "3556abde-02be-4b33-aae0-2629412c5d5a",
-          "title": "Vegan Chocolate trifle",
-          "itemDescription": "Chocolate biscuit, chocolate cream, cherry, and mint (150g).",
-          "price": 6500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bca432c-b950-48ea-8cfa-c66194f90540",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "58cb5042-b37e-4ccf-8e26-d3dde17efe08": {
-          "uuid": "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
-          "title": "Vegan Super-salad with beet hummus",
-          "itemDescription": "Beetroot hummus, chickpeas, spinach, slices of vegetables, tomatoes, olives, and celery (150g).",
-          "price": 6500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/01849431-e6ae-497b-b447-e1ca9be64ac5",
-          "suspendUntil": 8640000000,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "3efbe527-6a87-4b24-81e3-01d345b1b2cd": {
-          "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
-          "title": "Кимчи-Рамен",
-          "itemDescription": "Овочевий бульйон, кімчі, пшенична локшина та соєве м'ясо. ",
-          "price": 12500,
-          "nutritionalInfo": {}
-        },
-        "2f32e009-6a10-43b8-8fbe-9ece3c021a38": {
-          "uuid": "2f32e009-6a10-43b8-8fbe-9ece3c021a38",
-          "title": "Vegan Bowl Couscous",
-          "itemDescription": "Crumbly couscous, shiitake mushrooms, wakame seaweed, spinach, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
-          "price": 10500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/df41f76e-8730-4107-a2b6-6eef368239da",
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "f5a3eb1b-db18-4d3d-a25f-74343ee51f14",
-          "title": "Vegan soups",
-          "itemUuids": [
-            "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
-            "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
-            "3efbe527-6a87-4b24-81e3-01d345b1b2cd"
-          ]
-        },
-        {
-          "uuid": "18875057-fa15-422f-837c-ca1a480a6934",
-          "title": "Bowls",
-          "itemUuids": [
-            "a265f5e7-bef8-4064-8ead-1d3163f609a2",
-            "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
-            "611647df-cfdb-4001-a3a8-c0963e4c19d3",
-            "2f32e009-6a10-43b8-8fbe-9ece3c021a38"
-          ]
-        },
-        {
-          "uuid": "cfc16af3-5779-46da-9828-c5dcf7fc7b43",
-          "title": "Salads",
-          "itemUuids": [
-            "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
-            "405f2a55-88e7-4180-a90e-ef4ca815f84d",
-            "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
-            "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f"
-          ]
-        },
-        {
-          "uuid": "a54d633e-a223-4756-b096-05464c63d581",
-          "title": "Desserts",
-          "itemUuids": [
-            "3556abde-02be-4b33-aae0-2629412c5d5a",
-            "70980dc4-22d9-4e25-9104-041eec4168b1",
-            "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
-            "46fdc437-1d10-45ed-ae34-d86623de7644"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.442383,
     "longitude": 30.521535,
@@ -382,5 +97,272 @@
     "storeRatingScore": 4.704,
     "ratingCount": "125"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e",
+  "items": {
+    "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c": {
+      "uuid": "5bc673e6-bf13-4dc8-9050-a7ca3533fd8c",
+      "title": "Raw Chia dessert mango",
+      "itemDescription": "Chia in coconut milk, mango puree, honey, and orange (150g).",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e2e840f-b081-4e47-9f64-88629fb3141e"
+    },
+    "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f": {
+      "uuid": "9e8f1538-f9c5-4199-8fb5-1b67d3814b9f",
+      "title": "Vegan Thai salad with funchoza",
+      "itemDescription": "Bean noodles-funcheza, tofu, wakame seaweed, tomatoes, cilantro, sesame, sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (150g).",
+      "price": 8500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "405f2a55-88e7-4180-a90e-ef4ca815f84d": {
+      "uuid": "405f2a55-88e7-4180-a90e-ef4ca815f84d",
+      "title": "Raw Tabbouleh with sprouted mung bean",
+      "itemDescription": "Sprouted mung beans, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
+      "price": 7500,
+      "suspendUntil": 8640000000
+    },
+    "70980dc4-22d9-4e25-9104-041eec4168b1": {
+      "uuid": "70980dc4-22d9-4e25-9104-041eec4168b1",
+      "title": "Vegan Vanilla trifle",
+      "itemDescription": "Chocolate biscuit, vanilla cream, cherry, and mint (150g).",
+      "price": 6500,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Вегетаріанська страва",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "04ad06f0-e3cf-435f-92f9-1e37c64bb88d": {
+      "uuid": "04ad06f0-e3cf-435f-92f9-1e37c64bb88d",
+      "title": "Vegan Thai soup",
+      "itemDescription": "Bean noodles-funchoza, tofu, wakame seaweed, cilantro, sesame seeds, and chili slices in a separate package (400g).",
+      "price": 10500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a12e19c-d596-4b0d-aff6-ea8e9fe1e83c",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "46fdc437-1d10-45ed-ae34-d86623de7644": {
+      "uuid": "46fdc437-1d10-45ed-ae34-d86623de7644",
+      "title": "Raw Chia dessert nuts",
+      "itemDescription": "Chia in coconut milk, date, almond, cashew, hazelnut, honey, and dried cranberries (150g).",
+      "price": 7500
+    },
+    "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146": {
+      "uuid": "fa32e9f6-0f2f-4d6a-8049-7b9e00e92146",
+      "title": "Raw Tabbouleh with sprouted buckwheat",
+      "itemDescription": "Sprouted buckwheat, tomatoes, cucumbers, dill, parsley, mint, pomegranate, and peanut sauce in a separate package (150g).",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecba9324-2532-457e-b690-78cae7433d59",
+      "suspendUntil": 8640000000
+    },
+    "a265f5e7-bef8-4064-8ead-1d3163f609a2": {
+      "uuid": "a265f5e7-bef8-4064-8ead-1d3163f609a2",
+      "title": "Vegan Bowl English breakfast",
+      "itemDescription": "Soy tomato sausage, tofu omelet, couscous, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (370g).",
+      "price": 11500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/282e6257-a921-44b0-8877-34f1c9bc2299",
+      "nutritionalInfo": {},
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11": {
+      "uuid": "e86c0a3b-f1e6-4648-bca0-f9dd26ed9d11",
+      "title": "Vegan Bowl with sweet tofu",
+      "itemDescription": "Buckwheat noodles, sweet tofu, nori, tomatoes, spinach, dressing and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (350g).",
+      "price": 12000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/03766cf2-a1fd-4a57-88d6-7e0214ffd304",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129": {
+      "uuid": "dcf9d189-be90-48fd-a4f9-8e6d6d7fa129",
+      "title": "Vegan Ramen",
+      "itemDescription": "Rice noodles, shiitake mushrooms; soy chops, cilantro, sesame seeds, and chili slices in a separate package (475g).",
+      "price": 11500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1a0cc06-63d6-4ab0-ab28-219893c980c7",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "611647df-cfdb-4001-a3a8-c0963e4c19d3": {
+      "uuid": "611647df-cfdb-4001-a3a8-c0963e4c19d3",
+      "title": "Vegan Bowl Quinoa",
+      "itemDescription": "Quinoa bulgur, stewed eggplant, soy steak, spinach, tomatoes, red cabbage, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
+      "price": 10500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/770c30e1-945b-4ac4-9dae-d085bb4047d9",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "3556abde-02be-4b33-aae0-2629412c5d5a": {
+      "uuid": "3556abde-02be-4b33-aae0-2629412c5d5a",
+      "title": "Vegan Chocolate trifle",
+      "itemDescription": "Chocolate biscuit, chocolate cream, cherry, and mint (150g).",
+      "price": 6500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bca432c-b950-48ea-8cfa-c66194f90540",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "58cb5042-b37e-4ccf-8e26-d3dde17efe08": {
+      "uuid": "58cb5042-b37e-4ccf-8e26-d3dde17efe08",
+      "title": "Vegan Super-salad with beet hummus",
+      "itemDescription": "Beetroot hummus, chickpeas, spinach, slices of vegetables, tomatoes, olives, and celery (150g).",
+      "price": 6500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/01849431-e6ae-497b-b447-e1ca9be64ac5",
+      "suspendUntil": 8640000000,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "3efbe527-6a87-4b24-81e3-01d345b1b2cd": {
+      "uuid": "3efbe527-6a87-4b24-81e3-01d345b1b2cd",
+      "title": "Кимчи-Рамен",
+      "itemDescription": "Овочевий бульйон, кімчі, пшенична локшина та соєве м'ясо. ",
+      "price": 12500,
+      "nutritionalInfo": {}
+    },
+    "2f32e009-6a10-43b8-8fbe-9ece3c021a38": {
+      "uuid": "2f32e009-6a10-43b8-8fbe-9ece3c021a38",
+      "title": "Vegan Bowl Couscous",
+      "itemDescription": "Crumbly couscous, shiitake mushrooms, wakame seaweed, spinach, tomatoes, dressing, and sauce mix in a separate package: peanut sauce with olive oil, and lemon juice (320g).",
+      "price": 10500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/df41f76e-8730-4107-a2b6-6eef368239da",
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    }
+  }
 }

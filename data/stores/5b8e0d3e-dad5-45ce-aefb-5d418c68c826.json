@@ -20,361 +20,100 @@
   ],
   "sections": [
     {
-      "uuid": "285c08c5-57c1-4bcc-a78a-a5bd046082c7",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "9e2e7193-c86c-4d9e-847a-52648d377cc2",
-        "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
-        "517da1b0-7280-4212-b6a6-f70f381ccf93",
-        "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
-        "7073690f-2109-4da5-b397-0c64658beb0e",
-        "27afcc8e-dd00-4454-b763-d241373383eb",
-        "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
-        "5e560ec2-ad5f-4a84-8123-350b746a82dc",
-        "d6c20943-91eb-45c8-8308-3aad6f3e9360",
-        "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02"
+      "uuid": "9e2e7193-c86c-4d9e-847a-52648d377cc2",
+      "title": "Cold appetizers",
+      "itemUuids": [
+        "d6493732-49e0-4d25-9022-94172d6b596d",
+        "1b33e3ef-98bb-4777-bae6-a386056a766c",
+        "e5b36668-5c4d-4776-a558-f7fab12ce461",
+        "824e5afb-cd37-44d0-a6d9-d1334f29d229",
+        "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
+        "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
+        "c741224d-5c4a-4e13-8378-60566e79574a"
+      ]
+    },
+    {
+      "uuid": "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
+      "title": "Hot appetizers",
+      "itemUuids": [
+        "311e2ccb-cf53-401a-99c0-60afba855e34",
+        "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
+        "e0dee223-3fc4-4c76-8120-f7376961e919"
+      ]
+    },
+    {
+      "uuid": "517da1b0-7280-4212-b6a6-f70f381ccf93",
+      "title": "Salads",
+      "itemUuids": [
+        "58ea0376-e5d7-46e7-af14-15b9fd1c2765"
+      ]
+    },
+    {
+      "uuid": "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
+      "title": "Meat, salo, jamon",
+      "itemUuids": [
+        "f4c4c37a-9435-487e-a938-2b8737c6e195",
+        "7b7c3297-56b3-424e-9461-f82a3f4027f5",
+        "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
+        "cc143339-2d74-4450-9ffb-837d6d989d5f",
+        "88e4b48e-b724-42fa-b211-5ca87a886157",
+        "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
+        "392f069b-a854-409d-8b19-98d83eb47907"
+      ]
+    },
+    {
+      "uuid": "7073690f-2109-4da5-b397-0c64658beb0e",
+      "title": "Meat&Bread",
+      "itemUuids": [
+        "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
+        "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
+        "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca"
+      ]
+    },
+    {
+      "uuid": "27afcc8e-dd00-4454-b763-d241373383eb",
+      "title": "Steaks",
+      "itemUuids": [
+        "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
+        "ce60e09c-44ec-41eb-9160-dfa8ceda892f"
+      ]
+    },
+    {
+      "uuid": "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
+      "title": "Main couses",
+      "itemUuids": [
+        "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
+        "34554ada-d493-4f43-92b1-0882c7bc1aa5",
+        "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0"
+      ]
+    },
+    {
+      "uuid": "5e560ec2-ad5f-4a84-8123-350b746a82dc",
+      "title": "Fish",
+      "itemUuids": [
+        "624107f0-9658-43a9-992c-dd8a7b75cb70",
+        "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
+        "5bf88beb-9017-439a-9846-bbba124e3a75"
+      ]
+    },
+    {
+      "uuid": "d6c20943-91eb-45c8-8308-3aad6f3e9360",
+      "title": "Soups",
+      "itemUuids": [
+        "dfb7a256-6650-4b56-a3e4-0de742737e40",
+        "17b780ab-8d3a-43f8-9dda-2c7a638321ac"
+      ]
+    },
+    {
+      "uuid": "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02",
+      "title": "Desserts",
+      "itemUuids": [
+        "6cf322ba-4d9a-428f-8023-f43935033db2",
+        "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
+        "51331986-bea4-4ff0-be54-66670de07e62"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "285c08c5-57c1-4bcc-a78a-a5bd046082c7": {
-      "itemsMap": {
-        "7b7c3297-56b3-424e-9461-f82a3f4027f5": {
-          "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
-          "title": "Smoked chicken",
-          "itemDescription": "360g.",
-          "price": 12800
-        },
-        "bb341fc9-5bc9-4115-a49a-a13e17e7b908": {
-          "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
-          "title": "Foie gras pate",
-          "itemDescription": "100/30g.",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c78939-67d4-4f76-a4e0-76244df2ca89"
-        },
-        "99efa044-cbac-4a8a-8b63-c343cd5cd1d1": {
-          "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
-          "title": "Chicken Kyiv",
-          "itemDescription": "250g.",
-          "price": 13800,
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "51331986-bea4-4ff0-be54-66670de07e62": {
-          "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
-          "title": "Cheesecake",
-          "itemDescription": "120g.",
-          "price": 8900
-        },
-        "e5b36668-5c4d-4776-a558-f7fab12ce461": {
-          "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
-          "title": "Vorschmack",
-          "itemDescription": "120g.",
-          "price": 9900
-        },
-        "3f0347a8-7ab9-4110-9311-7553d8f0ec3c": {
-          "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
-          "title": "Rib eye steak",
-          "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (250g).",
-          "price": 34900,
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "17b780ab-8d3a-43f8-9dda-2c7a638321ac": {
-          "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
-          "title": "Chicken noodle soup with spinach and radish",
-          "itemDescription": "300g.",
-          "price": 6900
-        },
-        "cc143339-2d74-4450-9ffb-837d6d989d5f": {
-          "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
-          "title": "Bacon",
-          "itemDescription": "50g.",
-          "price": 4900
-        },
-        "dfb7a256-6650-4b56-a3e4-0de742737e40": {
-          "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
-          "title": "Red borscht",
-          "itemDescription": "300g.",
-          "price": 6900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/10491552-9be3-4525-8828-01beeb9d3d75"
-        },
-        "311e2ccb-cf53-401a-99c0-60afba855e34": {
-          "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
-          "title": "Foie gras",
-          "itemDescription": "100/50g.",
-          "price": 19900
-        },
-        "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca": {
-          "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
-          "title": "Pastrami sandwich",
-          "itemDescription": "300g.",
-          "price": 13800
-        },
-        "c741224d-5c4a-4e13-8378-60566e79574a": {
-          "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
-          "title": "Bread",
-          "itemDescription": "100g.",
-          "price": 1900
-        },
-        "9fa7025b-cfe6-4e4d-a821-e40ebb853414": {
-          "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
-          "title": "Catfish fillet",
-          "itemDescription": "300g.",
-          "price": 19800,
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "951dad28-76e1-4acc-9bce-02a0ac0e9a25": {
-          "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
-          "title": "Honey cream pie",
-          "itemDescription": "120g.",
-          "price": 8900
-        },
-        "ec92e02f-e3a9-400a-92d3-98484eb14fdb": {
-          "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
-          "title": "Marbled beef burger",
-          "itemDescription": "300g.",
-          "price": 13800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5c29deb-fd84-4ae0-aa86-0eeebec81c74"
-        },
-        "f4c4c37a-9435-487e-a938-2b8737c6e195": {
-          "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
-          "title": "Black pudding",
-          "itemDescription": "50g.",
-          "price": 4900
-        },
-        "4b4fbf50-2b0b-4717-baef-6cc50d4262a8": {
-          "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
-          "title": "Black pudding",
-          "itemDescription": "120/100g.",
-          "price": 9900
-        },
-        "624107f0-9658-43a9-992c-dd8a7b75cb70": {
-          "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
-          "title": "River trout with vegetables",
-          "itemDescription": "300g",
-          "price": 19900,
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194": {
-          "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
-          "title": "Pulled pork burger",
-          "itemDescription": "300g.",
-          "price": 12800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/e99d71fe-2dd5-471a-bc92-6ec1c6307349"
-        },
-        "d6493732-49e0-4d25-9022-94172d6b596d": {
-          "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
-          "title": "Vegetables with nut cream",
-          "itemDescription": "80/220g.",
-          "price": 7900
-        },
-        "58ea0376-e5d7-46e7-af14-15b9fd1c2765": {
-          "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
-          "title": "Smoked beef salad",
-          "itemDescription": "150g.",
-          "price": 9800
-        },
-        "88e4b48e-b724-42fa-b211-5ca87a886157": {
-          "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
-          "title": "Pastrami",
-          "itemDescription": "50g.",
-          "price": 4900
-        },
-        "1b33e3ef-98bb-4777-bae6-a386056a766c": {
-          "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
-          "title": "Pickled and sour vegetables",
-          "itemDescription": "300g.",
-          "price": 8900
-        },
-        "34554ada-d493-4f43-92b1-0882c7bc1aa5": {
-          "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
-          "title": "Chicken with honey sauce",
-          "itemDescription": "250g.",
-          "price": 14800,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7625258-f2f1-4892-863b-dd16a1e513af",
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "e0dee223-3fc4-4c76-8120-f7376961e919": {
-          "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
-          "title": "Homemade fried sausage",
-          "itemDescription": "150/100g.",
-          "price": 9900
-        },
-        "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0": {
-          "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
-          "title": "Stewed young goat meat",
-          "itemDescription": "300g.",
-          "price": 19900,
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "5bf88beb-9017-439a-9846-bbba124e3a75": {
-          "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
-          "title": "Sterlet",
-          "itemDescription": "500g.",
-          "price": 38900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/21faedd6-7b45-4999-96e1-d97e1f349bc7",
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "824e5afb-cd37-44d0-a6d9-d1334f29d229": {
-          "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
-          "title": "Soft salted sprats with canapes",
-          "itemDescription": "90/100/30g.",
-          "price": 6900
-        },
-        "6cf322ba-4d9a-428f-8023-f43935033db2": {
-          "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
-          "title": "Kyiv cake",
-          "itemDescription": "120g.",
-          "price": 8900
-        },
-        "ce60e09c-44ec-41eb-9160-dfa8ceda892f": {
-          "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
-          "title": "Filet mignon",
-          "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (150g).",
-          "price": 29900,
-          "customizationUuids": [
-            "525c8493-2248-495d-b2b0-f3ca31deda2c"
-          ]
-        },
-        "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421": {
-          "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
-          "title": "Herring with potatoes",
-          "itemDescription": "100/80/30g.",
-          "price": 9800
-        },
-        "8691a1df-5c5e-4b7e-9be5-174bf50dce8f": {
-          "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
-          "title": "Homemade sausage",
-          "itemDescription": "50g.",
-          "price": 4900
-        },
-        "392f069b-a854-409d-8b19-98d83eb47907": {
-          "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
-          "title": "Meat set: salo, bacon, pastrami, and black pudding",
-          "itemDescription": "200/60g.",
-          "price": 14900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0208323e-0980-478d-ab27-d2d9332cb7cf"
-        },
-        "61391680-3027-48e4-9bd8-4fc4e2f2c68d": {
-          "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
-          "title": "Salted salo",
-          "itemDescription": "50g.",
-          "price": 4900
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "9e2e7193-c86c-4d9e-847a-52648d377cc2",
-          "title": "Cold appetizers",
-          "itemUuids": [
-            "d6493732-49e0-4d25-9022-94172d6b596d",
-            "1b33e3ef-98bb-4777-bae6-a386056a766c",
-            "e5b36668-5c4d-4776-a558-f7fab12ce461",
-            "824e5afb-cd37-44d0-a6d9-d1334f29d229",
-            "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
-            "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
-            "c741224d-5c4a-4e13-8378-60566e79574a"
-          ]
-        },
-        {
-          "uuid": "6ee5bb06-65f3-4df8-a7e7-6e8ec460f9cc",
-          "title": "Hot appetizers",
-          "itemUuids": [
-            "311e2ccb-cf53-401a-99c0-60afba855e34",
-            "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
-            "e0dee223-3fc4-4c76-8120-f7376961e919"
-          ]
-        },
-        {
-          "uuid": "517da1b0-7280-4212-b6a6-f70f381ccf93",
-          "title": "Salads",
-          "itemUuids": [
-            "58ea0376-e5d7-46e7-af14-15b9fd1c2765"
-          ]
-        },
-        {
-          "uuid": "8c78f5e8-05b4-41ae-849b-8dc1e9f0a2a0",
-          "title": "Meat, salo, jamon",
-          "itemUuids": [
-            "f4c4c37a-9435-487e-a938-2b8737c6e195",
-            "7b7c3297-56b3-424e-9461-f82a3f4027f5",
-            "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
-            "cc143339-2d74-4450-9ffb-837d6d989d5f",
-            "88e4b48e-b724-42fa-b211-5ca87a886157",
-            "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
-            "392f069b-a854-409d-8b19-98d83eb47907"
-          ]
-        },
-        {
-          "uuid": "7073690f-2109-4da5-b397-0c64658beb0e",
-          "title": "Meat&Bread",
-          "itemUuids": [
-            "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
-            "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
-            "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca"
-          ]
-        },
-        {
-          "uuid": "27afcc8e-dd00-4454-b763-d241373383eb",
-          "title": "Steaks",
-          "itemUuids": [
-            "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
-            "ce60e09c-44ec-41eb-9160-dfa8ceda892f"
-          ]
-        },
-        {
-          "uuid": "2ab1521a-7df4-4201-b5d2-e75fe7c35c2a",
-          "title": "Main couses",
-          "itemUuids": [
-            "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
-            "34554ada-d493-4f43-92b1-0882c7bc1aa5",
-            "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0"
-          ]
-        },
-        {
-          "uuid": "5e560ec2-ad5f-4a84-8123-350b746a82dc",
-          "title": "Fish",
-          "itemUuids": [
-            "624107f0-9658-43a9-992c-dd8a7b75cb70",
-            "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
-            "5bf88beb-9017-439a-9846-bbba124e3a75"
-          ]
-        },
-        {
-          "uuid": "d6c20943-91eb-45c8-8308-3aad6f3e9360",
-          "title": "Soups",
-          "itemUuids": [
-            "dfb7a256-6650-4b56-a3e4-0de742737e40",
-            "17b780ab-8d3a-43f8-9dda-2c7a638321ac"
-          ]
-        },
-        {
-          "uuid": "8f6dc51e-1638-4cb1-9d9e-5266d50f0c02",
-          "title": "Desserts",
-          "itemUuids": [
-            "6cf322ba-4d9a-428f-8023-f43935033db2",
-            "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
-            "51331986-bea4-4ff0-be54-66670de07e62"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.450893,
     "longitude": 30.5226522,
@@ -414,5 +153,242 @@
     "storeRatingScore": 4.5,
     "ratingCount": "56"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c",
+  "items": {
+    "7b7c3297-56b3-424e-9461-f82a3f4027f5": {
+      "uuid": "7b7c3297-56b3-424e-9461-f82a3f4027f5",
+      "title": "Smoked chicken",
+      "itemDescription": "360g.",
+      "price": 12800
+    },
+    "bb341fc9-5bc9-4115-a49a-a13e17e7b908": {
+      "uuid": "bb341fc9-5bc9-4115-a49a-a13e17e7b908",
+      "title": "Foie gras pate",
+      "itemDescription": "100/30g.",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c78939-67d4-4f76-a4e0-76244df2ca89"
+    },
+    "99efa044-cbac-4a8a-8b63-c343cd5cd1d1": {
+      "uuid": "99efa044-cbac-4a8a-8b63-c343cd5cd1d1",
+      "title": "Chicken Kyiv",
+      "itemDescription": "250g.",
+      "price": 13800,
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "51331986-bea4-4ff0-be54-66670de07e62": {
+      "uuid": "51331986-bea4-4ff0-be54-66670de07e62",
+      "title": "Cheesecake",
+      "itemDescription": "120g.",
+      "price": 8900
+    },
+    "e5b36668-5c4d-4776-a558-f7fab12ce461": {
+      "uuid": "e5b36668-5c4d-4776-a558-f7fab12ce461",
+      "title": "Vorschmack",
+      "itemDescription": "120g.",
+      "price": 9900
+    },
+    "3f0347a8-7ab9-4110-9311-7553d8f0ec3c": {
+      "uuid": "3f0347a8-7ab9-4110-9311-7553d8f0ec3c",
+      "title": "Rib eye steak",
+      "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (250g).",
+      "price": 34900,
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "17b780ab-8d3a-43f8-9dda-2c7a638321ac": {
+      "uuid": "17b780ab-8d3a-43f8-9dda-2c7a638321ac",
+      "title": "Chicken noodle soup with spinach and radish",
+      "itemDescription": "300g.",
+      "price": 6900
+    },
+    "cc143339-2d74-4450-9ffb-837d6d989d5f": {
+      "uuid": "cc143339-2d74-4450-9ffb-837d6d989d5f",
+      "title": "Bacon",
+      "itemDescription": "50g.",
+      "price": 4900
+    },
+    "dfb7a256-6650-4b56-a3e4-0de742737e40": {
+      "uuid": "dfb7a256-6650-4b56-a3e4-0de742737e40",
+      "title": "Red borscht",
+      "itemDescription": "300g.",
+      "price": 6900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/10491552-9be3-4525-8828-01beeb9d3d75"
+    },
+    "311e2ccb-cf53-401a-99c0-60afba855e34": {
+      "uuid": "311e2ccb-cf53-401a-99c0-60afba855e34",
+      "title": "Foie gras",
+      "itemDescription": "100/50g.",
+      "price": 19900
+    },
+    "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca": {
+      "uuid": "a3eeec7d-c9a5-490e-9eb7-6b050acf3aca",
+      "title": "Pastrami sandwich",
+      "itemDescription": "300g.",
+      "price": 13800
+    },
+    "c741224d-5c4a-4e13-8378-60566e79574a": {
+      "uuid": "c741224d-5c4a-4e13-8378-60566e79574a",
+      "title": "Bread",
+      "itemDescription": "100g.",
+      "price": 1900
+    },
+    "9fa7025b-cfe6-4e4d-a821-e40ebb853414": {
+      "uuid": "9fa7025b-cfe6-4e4d-a821-e40ebb853414",
+      "title": "Catfish fillet",
+      "itemDescription": "300g.",
+      "price": 19800,
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "951dad28-76e1-4acc-9bce-02a0ac0e9a25": {
+      "uuid": "951dad28-76e1-4acc-9bce-02a0ac0e9a25",
+      "title": "Honey cream pie",
+      "itemDescription": "120g.",
+      "price": 8900
+    },
+    "ec92e02f-e3a9-400a-92d3-98484eb14fdb": {
+      "uuid": "ec92e02f-e3a9-400a-92d3-98484eb14fdb",
+      "title": "Marbled beef burger",
+      "itemDescription": "300g.",
+      "price": 13800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5c29deb-fd84-4ae0-aa86-0eeebec81c74"
+    },
+    "f4c4c37a-9435-487e-a938-2b8737c6e195": {
+      "uuid": "f4c4c37a-9435-487e-a938-2b8737c6e195",
+      "title": "Black pudding",
+      "itemDescription": "50g.",
+      "price": 4900
+    },
+    "4b4fbf50-2b0b-4717-baef-6cc50d4262a8": {
+      "uuid": "4b4fbf50-2b0b-4717-baef-6cc50d4262a8",
+      "title": "Black pudding",
+      "itemDescription": "120/100g.",
+      "price": 9900
+    },
+    "624107f0-9658-43a9-992c-dd8a7b75cb70": {
+      "uuid": "624107f0-9658-43a9-992c-dd8a7b75cb70",
+      "title": "River trout with vegetables",
+      "itemDescription": "300g",
+      "price": 19900,
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194": {
+      "uuid": "ffea77a7-9ef4-4acd-9ff0-ba19e2f94194",
+      "title": "Pulled pork burger",
+      "itemDescription": "300g.",
+      "price": 12800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/e99d71fe-2dd5-471a-bc92-6ec1c6307349"
+    },
+    "d6493732-49e0-4d25-9022-94172d6b596d": {
+      "uuid": "d6493732-49e0-4d25-9022-94172d6b596d",
+      "title": "Vegetables with nut cream",
+      "itemDescription": "80/220g.",
+      "price": 7900
+    },
+    "58ea0376-e5d7-46e7-af14-15b9fd1c2765": {
+      "uuid": "58ea0376-e5d7-46e7-af14-15b9fd1c2765",
+      "title": "Smoked beef salad",
+      "itemDescription": "150g.",
+      "price": 9800
+    },
+    "88e4b48e-b724-42fa-b211-5ca87a886157": {
+      "uuid": "88e4b48e-b724-42fa-b211-5ca87a886157",
+      "title": "Pastrami",
+      "itemDescription": "50g.",
+      "price": 4900
+    },
+    "1b33e3ef-98bb-4777-bae6-a386056a766c": {
+      "uuid": "1b33e3ef-98bb-4777-bae6-a386056a766c",
+      "title": "Pickled and sour vegetables",
+      "itemDescription": "300g.",
+      "price": 8900
+    },
+    "34554ada-d493-4f43-92b1-0882c7bc1aa5": {
+      "uuid": "34554ada-d493-4f43-92b1-0882c7bc1aa5",
+      "title": "Chicken with honey sauce",
+      "itemDescription": "250g.",
+      "price": 14800,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7625258-f2f1-4892-863b-dd16a1e513af",
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "e0dee223-3fc4-4c76-8120-f7376961e919": {
+      "uuid": "e0dee223-3fc4-4c76-8120-f7376961e919",
+      "title": "Homemade fried sausage",
+      "itemDescription": "150/100g.",
+      "price": 9900
+    },
+    "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0": {
+      "uuid": "58c4a7c3-4f1b-4867-9868-1ffe6b2ca2d0",
+      "title": "Stewed young goat meat",
+      "itemDescription": "300g.",
+      "price": 19900,
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "5bf88beb-9017-439a-9846-bbba124e3a75": {
+      "uuid": "5bf88beb-9017-439a-9846-bbba124e3a75",
+      "title": "Sterlet",
+      "itemDescription": "500g.",
+      "price": 38900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/21faedd6-7b45-4999-96e1-d97e1f349bc7",
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "824e5afb-cd37-44d0-a6d9-d1334f29d229": {
+      "uuid": "824e5afb-cd37-44d0-a6d9-d1334f29d229",
+      "title": "Soft salted sprats with canapes",
+      "itemDescription": "90/100/30g.",
+      "price": 6900
+    },
+    "6cf322ba-4d9a-428f-8023-f43935033db2": {
+      "uuid": "6cf322ba-4d9a-428f-8023-f43935033db2",
+      "title": "Kyiv cake",
+      "itemDescription": "120g.",
+      "price": 8900
+    },
+    "ce60e09c-44ec-41eb-9160-dfa8ceda892f": {
+      "uuid": "ce60e09c-44ec-41eb-9160-dfa8ceda892f",
+      "title": "Filet mignon",
+      "itemDescription": "Charcoal fried, 20-40 days dry-aged beef (150g).",
+      "price": 29900,
+      "customizationUuids": [
+        "525c8493-2248-495d-b2b0-f3ca31deda2c"
+      ]
+    },
+    "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421": {
+      "uuid": "e5d0d770-2640-4aa5-bd69-6d6e4dfc7421",
+      "title": "Herring with potatoes",
+      "itemDescription": "100/80/30g.",
+      "price": 9800
+    },
+    "8691a1df-5c5e-4b7e-9be5-174bf50dce8f": {
+      "uuid": "8691a1df-5c5e-4b7e-9be5-174bf50dce8f",
+      "title": "Homemade sausage",
+      "itemDescription": "50g.",
+      "price": 4900
+    },
+    "392f069b-a854-409d-8b19-98d83eb47907": {
+      "uuid": "392f069b-a854-409d-8b19-98d83eb47907",
+      "title": "Meat set: salo, bacon, pastrami, and black pudding",
+      "itemDescription": "200/60g.",
+      "price": 14900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0208323e-0980-478d-ab27-d2d9332cb7cf"
+    },
+    "61391680-3027-48e4-9bd8-4fc4e2f2c68d": {
+      "uuid": "61391680-3027-48e4-9bd8-4fc4e2f2c68d",
+      "title": "Salted salo",
+      "itemDescription": "50g.",
+      "price": 4900
+    }
+  }
 }

@@ -20,894 +20,153 @@
   ],
   "sections": [
     {
-      "uuid": "743f8bd8-96f1-4cfd-8aa5-d52b8c81dba9",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 9:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "5a590b10-2e8b-477e-88bc-c6f88433eb6d",
-        "0a038054-6715-419c-83f8-120ddb69b963",
-        "6eb5a1f6-f2e2-4e30-824d-b50cae4a115f",
-        "0bc7cd89-1062-429f-94c8-4d52bbd30f94",
-        "aefc381a-08c2-47d1-b968-023972a4832e",
-        "bfb533c7-dc87-4f43-8844-f64564055ed3",
-        "a91f1cd3-f853-4ff6-945a-40fe299575ae",
-        "ecfa3ae6-1581-4ff2-8ee9-355d8e883eed",
-        "64768863-ae50-4a0f-a5a1-28def59f4c5f",
-        "35b0714e-0dcf-4dd7-8195-a64bf92b1a93",
-        "628eec63-bd39-427b-ba4a-9a2fbd99ac8c"
+      "uuid": "5a590b10-2e8b-477e-88bc-c6f88433eb6d",
+      "title": "Breakfast",
+      "itemUuids": [
+        "1540c4d8-834b-4eb3-b35b-4bca54d48588",
+        "37f11d6a-8118-438c-b34f-80b49cb568e1",
+        "d7013225-3360-467f-bb1a-f4cf548edc44",
+        "272b6985-6995-4f17-851e-71352e3afb30",
+        "086ef93d-5a43-4bd5-b56e-f299ef7cc1fa",
+        "dd60f454-6b97-42f0-a1f4-b3fd44cc3a20",
+        "b8f9fd52-ce41-4e7f-b56a-018fa27c41dd",
+        "c4371f3d-35eb-49cd-8894-0ef82602dd1f",
+        "309aea89-c1ab-4df6-a64e-7205868f9aac"
+      ]
+    },
+    {
+      "uuid": "0a038054-6715-419c-83f8-120ddb69b963",
+      "title": "Sandwiches",
+      "itemUuids": [
+        "be6d257a-d6db-477b-9778-cd25813e7650",
+        "93f29f19-6dea-421f-a39a-155b77244eb8",
+        "4b9c3541-0313-46a4-8624-5fe6f4fe7709",
+        "580374e2-fe1e-43d1-92d2-6c1dbe3e4ec5",
+        "a1cd66af-6bf9-4900-9388-67b6a26d54b2",
+        "06ceb3c6-90e4-471f-97ea-dfe1f8095623",
+        "a4c3dbb2-d220-45bf-a095-dc24a187f5ba"
+      ]
+    },
+    {
+      "uuid": "6eb5a1f6-f2e2-4e30-824d-b50cae4a115f",
+      "title": "Salads",
+      "itemUuids": [
+        "056c6a8c-33f1-4a77-b446-3cfc8367b42c",
+        "7bdfce01-2764-4672-bf2f-6988951eb600",
+        "a0b3c4e5-2d90-4b93-b5bc-490ad9828abd",
+        "dc3d5059-0569-4e3f-b77c-f30e764ca43b",
+        "bea3e299-8ecd-464e-a79e-b37093fc4677",
+        "3aec9b9a-1681-4f6b-bd23-61f7ecc710a2",
+        "40167db1-c6ee-4500-b183-a3dd0575372e",
+        "4d77c298-f7d6-46f5-8b4b-fb5fc8ae515a"
+      ]
+    },
+    {
+      "uuid": "0bc7cd89-1062-429f-94c8-4d52bbd30f94",
+      "title": "Soups",
+      "itemUuids": [
+        "a2b0fd53-626e-45b3-9a98-a8393a069747",
+        "625d99ac-5c36-4fb5-86fd-3f907869b010",
+        "c6ac81ea-f5fd-432b-8171-9722badb36af",
+        "d449221f-511d-42b0-9c2f-809e39c5b41c"
+      ]
+    },
+    {
+      "uuid": "aefc381a-08c2-47d1-b968-023972a4832e",
+      "title": "Warm Bowls",
+      "itemUuids": [
+        "77fb3485-12c3-4653-b0a8-c72164d272e3",
+        "e4fba9b0-6f1f-48c7-82dd-7b119a17b996",
+        "e5a85b9d-a1b9-47a6-be64-fdc1c15d6c89",
+        "c518761d-b912-497c-94a1-a43dbdd40172",
+        "1d828cdb-871d-4ff2-848b-db7efebaee1d",
+        "8f4591c6-b1dc-47e4-b483-1b714e49815a",
+        "24cdc084-4b67-4a70-b321-1f2860a334a1",
+        "96228fae-a56a-4dc0-8b82-7d601e573f5a",
+        "ac17f06a-fdc0-4b70-bc84-c6e95c3f344c",
+        "5e018af4-abe3-4879-bf10-1744f74d3773"
+      ]
+    },
+    {
+      "uuid": "bfb533c7-dc87-4f43-8844-f64564055ed3",
+      "title": "Bake",
+      "itemUuids": [
+        "7b4e80dd-625a-4353-85d1-4874314eb8ac",
+        "61eafa62-4169-4306-a14f-fec9ff6eff95",
+        "0e95d9dc-68e9-4e08-9d2c-7b0998053542",
+        "358aa9c5-f9ee-45fd-9b9e-88e1470e16e6",
+        "f4696a1d-c77d-4d62-acfc-55e909670e1a",
+        "672e9d76-bd72-4337-b3f3-7838d170f8b9",
+        "8937567c-215e-439d-a3ef-73a226e9574b",
+        "d1496d1a-0339-4078-9db9-38fdb28f51b4",
+        "252a6ab9-6725-45c4-be52-7b3ece518b74",
+        "cff79a89-12a1-43c2-afd1-e39a83f441f0",
+        "31fa14c0-908e-44a8-9b51-b12a21916cf2",
+        "2ef90517-f878-48f0-938d-e65e8538ee9e",
+        "44c6e877-cd95-4c18-aedd-f9764a92e641",
+        "bc08acbc-1c88-48e3-b2cf-d28e7d738550",
+        "c2a0c2ae-8eca-4898-8573-e1706f678d23",
+        "5d64c1e2-fd71-4db7-aea5-1b3449fb309e",
+        "2f16bd6f-e150-415e-a0d1-2502819e053b"
+      ]
+    },
+    {
+      "uuid": "a91f1cd3-f853-4ff6-945a-40fe299575ae",
+      "title": "Desserts",
+      "itemUuids": [
+        "34e730da-f7bd-4bf5-8085-7aeecf621193",
+        "3cf14554-e4af-4314-a61f-d39da65b7b3e",
+        "a0cb62c3-9ed6-4411-b598-59f96b75c3d6",
+        "d5055968-f8de-41f5-b190-b7235a144bff",
+        "4208e829-884f-4ec8-bbda-f402fde4e487"
+      ]
+    },
+    {
+      "uuid": "ecfa3ae6-1581-4ff2-8ee9-355d8e883eed",
+      "title": "Cold drinks",
+      "itemUuids": [
+        "55970e59-9fc9-4d95-a455-fdcf855dba78",
+        "1b9d767d-35db-4ed5-94b3-f66001beff8c",
+        "ec6b59dd-5e9d-4c18-bd83-f43aec831a82",
+        "37c652fa-992c-42c6-a720-c9595886cf51",
+        "ce9b9da0-1341-4e34-9a64-6fc3eb8fa552",
+        "95a19bac-9be0-4a08-af51-f1239f8db4f4",
+        "2da7066c-4d9a-4a8a-8f39-45acd82799fc",
+        "1167305f-01a0-4869-83e5-350f87e42948",
+        "c895d7d8-6eb1-44ec-86d4-92ccfd5d9823"
+      ]
+    },
+    {
+      "uuid": "64768863-ae50-4a0f-a5a1-28def59f4c5f",
+      "title": "Fresh",
+      "itemUuids": [
+        "4a044659-e45a-4560-b4e8-b14915bcd61a",
+        "aea17dd4-9f67-4503-9999-e444dbf4cc8a",
+        "b5ced659-416a-474f-8b90-4f520fa2cf05"
+      ]
+    },
+    {
+      "uuid": "35b0714e-0dcf-4dd7-8195-a64bf92b1a93",
+      "title": "Smoothies",
+      "itemUuids": [
+        "73b5cf9f-d333-4af4-89cc-a5488e4c9a7e",
+        "641e3df5-00c8-4432-8c5c-c44e5b6237e7",
+        "a63cec06-4512-4972-8b2b-ad9a966d5e07",
+        "80a9be9f-75ab-4d3f-add1-5f45158a912c",
+        "491af85c-3d6c-4263-9110-695db782110a",
+        "a193f1b6-94b7-4677-9466-335bd7ddb4ec"
+      ]
+    },
+    {
+      "uuid": "628eec63-bd39-427b-ba4a-9a2fbd99ac8c",
+      "title": "Kefir",
+      "itemUuids": [
+        "01a0fe66-dd31-4d25-9db8-445a9674ca1f",
+        "f88d2026-c4b5-4cf3-8317-3bddbcb32d1c",
+        "02090496-a5f7-4b37-9e13-3d378e9f0267"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "743f8bd8-96f1-4cfd-8aa5-d52b8c81dba9": {
-      "itemsMap": {
-        "bc08acbc-1c88-48e3-b2cf-d28e7d738550": {
-          "uuid": "bc08acbc-1c88-48e3-b2cf-d28e7d738550",
-          "title": "Strawberry-banana pie",
-          "price": 4300,
-          "nutritionalInfo": {}
-        },
-        "491af85c-3d6c-4263-9110-695db782110a": {
-          "uuid": "491af85c-3d6c-4263-9110-695db782110a",
-          "title": "Forever Red # 1",
-          "itemDescription": "Beet, grapes, lemongrass, plum. 300 g",
-          "price": 5900,
-          "nutritionalInfo": {
-            "displayString": "96 Cal."
-          }
-        },
-        "37c652fa-992c-42c6-a720-c9595886cf51": {
-          "uuid": "37c652fa-992c-42c6-a720-c9595886cf51",
-          "title": "Probiotic tea Kombucha Live",
-          "itemDescription": "",
-          "price": 5000,
-          "nutritionalInfo": {}
-        },
-        "ac17f06a-fdc0-4b70-bc84-c6e95c3f344c": {
-          "uuid": "ac17f06a-fdc0-4b70-bc84-c6e95c3f344c",
-          "title": "Pike perch with aioli sauce",
-          "itemDescription": "Pike perch, brussels sprouts, quinoa, egg, garlic, oyster sauce. 250 g",
-          "price": 18900,
-          "nutritionalInfo": {
-            "displayString": "643 Cal."
-          }
-        },
-        "e5a85b9d-a1b9-47a6-be64-fdc1c15d6c89": {
-          "uuid": "e5a85b9d-a1b9-47a6-be64-fdc1c15d6c89",
-          "title": "Mussels with sweet potatoes",
-          "itemDescription": "Sweet potatoes, mussels, quinoa, chickpeas, edamame beans, oyster sauce, beets, celery. 320 g",
-          "price": 15900,
-          "nutritionalInfo": {
-            "displayString": "429 Cal."
-          }
-        },
-        "b8f9fd52-ce41-4e7f-b56a-018fa27c41dd": {
-          "uuid": "b8f9fd52-ce41-4e7f-b56a-018fa27c41dd",
-          "title": "Oatmeal Banana, Brazil Nut & Rosehip Syrup",
-          "itemDescription": "Oatmeal, banana, brazil nut, rosehip syrup, sugar. 270 g",
-          "price": 8900,
-          "nutritionalInfo": {
-            "displayString": "402 Cal."
-          }
-        },
-        "4d77c298-f7d6-46f5-8b4b-fb5fc8ae515a": {
-          "uuid": "4d77c298-f7d6-46f5-8b4b-fb5fc8ae515a",
-          "title": "Curry hummus with parsley sauce",
-          "itemDescription": "Hummus, sesame, garlic, lentils, chickpeas, parsley. 200 g",
-          "price": 4900,
-          "nutritionalInfo": {
-            "displayString": "365 Cal."
-          }
-        },
-        "34e730da-f7bd-4bf5-8085-7aeecf621193": {
-          "uuid": "34e730da-f7bd-4bf5-8085-7aeecf621193",
-          "title": "Coconut pudding with pineapple",
-          "itemDescription": "Coconut, milk, semolina, butter, pineapple, sugar. 200 g",
-          "price": 6500,
-          "nutritionalInfo": {
-            "displayString": "447 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "31fa14c0-908e-44a8-9b51-b12a21916cf2": {
-          "uuid": "31fa14c0-908e-44a8-9b51-b12a21916cf2",
-          "title": "Shortbread with red currant and apple jam",
-          "itemDescription": "Shortbread dough, apple jam, red currant, cinnamon. 110 g",
-          "price": 3900,
-          "nutritionalInfo": {
-            "displayString": "302 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "2f16bd6f-e150-415e-a0d1-2502819e053b": {
-          "uuid": "2f16bd6f-e150-415e-a0d1-2502819e053b",
-          "title": "Carrot cookies",
-          "price": 3500,
-          "nutritionalInfo": {}
-        },
-        "1d828cdb-871d-4ff2-848b-db7efebaee1d": {
-          "uuid": "1d828cdb-871d-4ff2-848b-db7efebaee1d",
-          "title": "Falafel",
-          "itemDescription": "Beans, chickpeas, avocado, apple, chili, lemon, tomatoes, onions, cilantro, flour, carrots, celery, parsnip. 270 g",
-          "price": 13900,
-          "nutritionalInfo": {
-            "displayString": "199 Cal."
-          }
-        },
-        "1167305f-01a0-4869-83e5-350f87e42948": {
-          "uuid": "1167305f-01a0-4869-83e5-350f87e42948",
-          "title": "Fruit Water Passion Fruit",
-          "itemDescription": "300 g",
-          "price": 2000,
-          "nutritionalInfo": {
-            "displayString": "10 Cal."
-          }
-        },
-        "672e9d76-bd72-4337-b3f3-7838d170f8b9": {
-          "uuid": "672e9d76-bd72-4337-b3f3-7838d170f8b9",
-          "title": "Lemon muffin with blackcurrant",
-          "itemDescription": "Flour, egg, butter, sugar, lemon, black currant, ginger. 90 g",
-          "price": 3000,
-          "nutritionalInfo": {
-            "displayString": "256 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "be6d257a-d6db-477b-9778-cd25813e7650": {
-          "uuid": "be6d257a-d6db-477b-9778-cd25813e7650",
-          "title": "Pita with falafel",
-          "itemDescription": "Pita, beans, chickpeas, tomatoes, mango, mint yogurt chutney, lettuce, onions, garlic, yogurt mint sauce. 260 g",
-          "price": 9300,
-          "nutritionalInfo": {
-            "displayString": "282 Cal."
-          }
-        },
-        "77fb3485-12c3-4653-b0a8-c72164d272e3": {
-          "uuid": "77fb3485-12c3-4653-b0a8-c72164d272e3",
-          "title": "Chicken Tikka Masala",
-          "itemDescription": "Chicken, tomatoes, curry, rice mix, pickled cucumber, sesame, cilantro. 310 g",
-          "price": 14700,
-          "nutritionalInfo": {
-            "displayString": "770 Cal."
-          }
-        },
-        "358aa9c5-f9ee-45fd-9b9e-88e1470e16e6": {
-          "uuid": "358aa9c5-f9ee-45fd-9b9e-88e1470e16e6",
-          "title": "Coconut cheese pie with black currant",
-          "itemDescription": "Rye dough, black currant, orange, coconut, sugar. 125 g",
-          "price": 5000,
-          "nutritionalInfo": {
-            "displayString": "428 Cal."
-          }
-        },
-        "4a044659-e45a-4560-b4e8-b14915bcd61a": {
-          "uuid": "4a044659-e45a-4560-b4e8-b14915bcd61a",
-          "title": "Orange",
-          "itemDescription": "300 g",
-          "price": 7900,
-          "nutritionalInfo": {
-            "displayString": "129 Cal."
-          }
-        },
-        "d449221f-511d-42b0-9c2f-809e39c5b41c": {
-          "uuid": "d449221f-511d-42b0-9c2f-809e39c5b41c",
-          "title": "Potato cream soup",
-          "itemDescription": "Carrots, potatoes, onions, garlic, basil. 300 g ",
-          "price": 6500,
-          "nutritionalInfo": {
-            "displayString": "218 Cal."
-          }
-        },
-        "272b6985-6995-4f17-851e-71352e3afb30": {
-          "uuid": "272b6985-6995-4f17-851e-71352e3afb30",
-          "title": "Omelette with chili con carne",
-          "itemDescription": "Egg, milk, turkey, beans, tomatoes, bell pepper, cilantro, broccoli, mushrooms, garlic, chili. 280 g",
-          "price": 11500,
-          "nutritionalInfo": {
-            "displayString": "405 Cal."
-          }
-        },
-        "c2a0c2ae-8eca-4898-8573-e1706f678d23": {
-          "uuid": "c2a0c2ae-8eca-4898-8573-e1706f678d23",
-          "title": "Marzipan with matcha tea",
-          "price": 2900,
-          "nutritionalInfo": {}
-        },
-        "73b5cf9f-d333-4af4-89cc-a5488e4c9a7e": {
-          "uuid": "73b5cf9f-d333-4af4-89cc-a5488e4c9a7e",
-          "title": "Orange Boost # 2",
-          "itemDescription": "Carrots, flax seeds, coconut, mango, hemp seeds. 300 g",
-          "price": 5800,
-          "nutritionalInfo": {
-            "displayString": "216 Cal."
-          }
-        },
-        "8937567c-215e-439d-a3ef-73a226e9574b": {
-          "uuid": "8937567c-215e-439d-a3ef-73a226e9574b",
-          "title": "Spicy orange cookie",
-          "itemDescription": "Egg, flour, butter, sesame, honey, sugar, orange, cinnamon. 80 g",
-          "price": 3800,
-          "nutritionalInfo": {
-            "displayString": "300 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "1540c4d8-834b-4eb3-b35b-4bca54d48588": {
-          "uuid": "1540c4d8-834b-4eb3-b35b-4bca54d48588",
-          "title": "Tomato Shakshuka",
-          "itemDescription": "Egg, onion, tomatoes, bell pepper, cilantro, parsley, hummus (lentils, chickpeas, sesame, garlic), mayonnaise, feta. 300 g",
-          "price": 10800,
-          "nutritionalInfo": {
-            "displayString": "479 Cal."
-          }
-        },
-        "44c6e877-cd95-4c18-aedd-f9764a92e641": {
-          "uuid": "44c6e877-cd95-4c18-aedd-f9764a92e641",
-          "title": "Coconut cookies with poppy seeds",
-          "price": 2000,
-          "nutritionalInfo": {}
-        },
-        "252a6ab9-6725-45c4-be52-7b3ece518b74": {
-          "uuid": "252a6ab9-6725-45c4-be52-7b3ece518b74",
-          "title": "Peanut cookie with oatmeal and cocoa beans",
-          "itemDescription": "Oatmeal, cocoa, nutmeg, coconut, honey, аmaretto liqueur, egg, walnut, sugar. 50 g",
-          "price": 3300,
-          "nutritionalInfo": {
-            "displayString": "315 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "ce9b9da0-1341-4e34-9a64-6fc3eb8fa552": {
-          "uuid": "ce9b9da0-1341-4e34-9a64-6fc3eb8fa552",
-          "title": "Cold coffee Landessa Vanilla",
-          "itemDescription": "",
-          "price": 5000,
-          "nutritionalInfo": {}
-        },
-        "f88d2026-c4b5-4cf3-8317-3bddbcb32d1c": {
-          "uuid": "f88d2026-c4b5-4cf3-8317-3bddbcb32d1c",
-          "title": "Pineapple, berries & lime",
-          "itemDescription": "Kefir, elderberry, pineapple, black currant, red currant, lime leaves. 300 g",
-          "price": 6500,
-          "nutritionalInfo": {
-            "displayString": "152 Cal."
-          }
-        },
-        "ec6b59dd-5e9d-4c18-bd83-f43aec831a82": {
-          "uuid": "ec6b59dd-5e9d-4c18-bd83-f43aec831a82",
-          "title": "Oshee Vitamin Drink",
-          "itemDescription": "",
-          "price": 5000,
-          "nutritionalInfo": {}
-        },
-        "086ef93d-5a43-4bd5-b56e-f299ef7cc1fa": {
-          "uuid": "086ef93d-5a43-4bd5-b56e-f299ef7cc1fa",
-          "title": "Steam cheese cakes Mango & Strawberry",
-          "itemDescription": "Homemade cottage cheese, flour, egg, mango, strawberry, sugar. 220 g",
-          "price": 9800,
-          "nutritionalInfo": {
-            "displayString": "397 Cal."
-          }
-        },
-        "4b9c3541-0313-46a4-8624-5fe6f4fe7709": {
-          "uuid": "4b9c3541-0313-46a4-8624-5fe6f4fe7709",
-          "title": "Gyros with chicken",
-          "itemDescription": "Pita, chicken, sour cream, mint, cucumber, garlic, parsley, onion, bell pepper, tomatoes, lettuce. 240 g",
-          "price": 10500,
-          "nutritionalInfo": {
-            "displayString": "271 Cal."
-          }
-        },
-        "c518761d-b912-497c-94a1-a43dbdd40172": {
-          "uuid": "c518761d-b912-497c-94a1-a43dbdd40172",
-          "title": "Tofu cheese with mango chili sauce",
-          "itemDescription": "Tofu cheese, tomatoes, edamame beans, onion, mango, passion fruit, chili, quinoa, hoisin sauce. 280 g",
-          "price": 13700,
-          "nutritionalInfo": {
-            "displayString": "419 Cal."
-          }
-        },
-        "c6ac81ea-f5fd-432b-8171-9722badb36af": {
-          "uuid": "c6ac81ea-f5fd-432b-8171-9722badb36af",
-          "title": "Moroccan chickpea soup",
-          "itemDescription": "Chickpeas, onion, bell pepper, celery, tomatoes, garlic, cilantro, chili. 300 g",
-          "price": 7500,
-          "nutritionalInfo": {
-            "displayString": "339 Cal."
-          }
-        },
-        "5e018af4-abe3-4879-bf10-1744f74d3773": {
-          "uuid": "5e018af4-abe3-4879-bf10-1744f74d3773",
-          "title": "Duck meatballs with wine sauce",
-          "itemDescription": "Duck, wheat noodles, carrots, onions, egg, daikon, wine sauce, flour, garlic, butter. 310 ",
-          "price": 17800,
-          "nutritionalInfo": {
-            "displayString": "776 Cal."
-          }
-        },
-        "625d99ac-5c36-4fb5-86fd-3f907869b010": {
-          "uuid": "625d99ac-5c36-4fb5-86fd-3f907869b010",
-          "title": "Pho with chicken",
-          "itemDescription": "Chicken broth, rice noodles, chicken, green onions, parsley, soy sprouts. 320 g",
-          "price": 7300,
-          "nutritionalInfo": {
-            "displayString": "218 Cal."
-          }
-        },
-        "95a19bac-9be0-4a08-af51-f1239f8db4f4": {
-          "uuid": "95a19bac-9be0-4a08-af51-f1239f8db4f4",
-          "title": "Cold tea Cswiss",
-          "itemDescription": "",
-          "price": 5000,
-          "nutritionalInfo": {}
-        },
-        "2ef90517-f878-48f0-938d-e65e8538ee9e": {
-          "uuid": "2ef90517-f878-48f0-938d-e65e8538ee9e",
-          "title": "Ginger biscuits with sea buckthorn",
-          "price": 2500,
-          "nutritionalInfo": {}
-        },
-        "f4696a1d-c77d-4d62-acfc-55e909670e1a": {
-          "uuid": "f4696a1d-c77d-4d62-acfc-55e909670e1a",
-          "title": "Dried figs & cherry candy",
-          "itemDescription": "Figs, raisins, cherries, almonds, sugar. 50 g",
-          "price": 3100,
-          "nutritionalInfo": {
-            "displayString": "146 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "80a9be9f-75ab-4d3f-add1-5f45158a912c": {
-          "uuid": "80a9be9f-75ab-4d3f-add1-5f45158a912c",
-          "title": "Go Green # 2",
-          "itemDescription": "Pasternak, ginger, lemon, kefir, parsnip, raisins. 300 g",
-          "price": 6500,
-          "nutritionalInfo": {
-            "displayString": "91 Cal."
-          }
-        },
-        "056c6a8c-33f1-4a77-b446-3cfc8367b42c": {
-          "uuid": "056c6a8c-33f1-4a77-b446-3cfc8367b42c",
-          "title": "Roast Beef Chipotle",
-          "itemDescription": "Lettuce, roast beef, bell pepper, corn, beans, feta, onion, cilantro, garlic. 230 g",
-          "price": 11900,
-          "nutritionalInfo": {
-            "displayString": "470 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "37f11d6a-8118-438c-b34f-80b49cb568e1": {
-          "uuid": "37f11d6a-8118-438c-b34f-80b49cb568e1",
-          "title": "Fried eggs with meatballs",
-          "itemDescription": "Egg, veal, mashed potatoes, broccoli, cucumber, pesto. 250 g",
-          "price": 11500,
-          "nutritionalInfo": {
-            "displayString": "480 Cal."
-          }
-        },
-        "580374e2-fe1e-43d1-92d2-6c1dbe3e4ec5": {
-          "uuid": "580374e2-fe1e-43d1-92d2-6c1dbe3e4ec5",
-          "title": "Roll Banh Mi with beef kebab",
-          "itemDescription": "Radish, cucumber, chinese cabbage, cilantro, kimchi sauce, flour, veal, cheese, onion, egg, carrot, lettuce. 250 g\n",
-          "price": 11500,
-          "nutritionalInfo": {
-            "displayString": "529 Cal."
-          },
-          "suspendUntil": 1559509199
-        },
-        "b5ced659-416a-474f-8b90-4f520fa2cf05": {
-          "uuid": "b5ced659-416a-474f-8b90-4f520fa2cf05",
-          "title": "Apple",
-          "itemDescription": "300 g",
-          "price": 4900,
-          "nutritionalInfo": {
-            "displayString": "141 Cal."
-          }
-        },
-        "d1496d1a-0339-4078-9db9-38fdb28f51b4": {
-          "uuid": "d1496d1a-0339-4078-9db9-38fdb28f51b4",
-          "title": "Сroissant with almond",
-          "itemDescription": "150 g",
-          "price": 5900,
-          "nutritionalInfo": {
-            "displayString": "600 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "4208e829-884f-4ec8-bbda-f402fde4e487": {
-          "uuid": "4208e829-884f-4ec8-bbda-f402fde4e487",
-          "title": "Homemade yoghurt with mango, quinoa and chia seeds",
-          "itemDescription": "Yogurt, quinoa, mango, chia, sugar. 200 g",
-          "price": 7900,
-          "nutritionalInfo": {
-            "displayString": "393 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "a4c3dbb2-d220-45bf-a095-dc24a187f5ba": {
-          "uuid": "a4c3dbb2-d220-45bf-a095-dc24a187f5ba",
-          "title": "BBQ Turkey",
-          "itemDescription": "Rye baguette, turkey, prunes, bell pepper, garlic, onion, cauliflower, cucumber, cheese, lettuce. 230 g",
-          "price": 10900,
-          "nutritionalInfo": {
-            "displayString": "371 Cal."
-          }
-        },
-        "c4371f3d-35eb-49cd-8894-0ef82602dd1f": {
-          "uuid": "c4371f3d-35eb-49cd-8894-0ef82602dd1f",
-          "title": "Oatmeal Chia, Apple & Almond",
-          "itemDescription": "Oatmeal, banana, apple, chia, almonds, raisins, cinnamon, sugar. 270 g",
-          "price": 8500,
-          "nutritionalInfo": {
-            "displayString": "576 Cal."
-          }
-        },
-        "c895d7d8-6eb1-44ec-86d4-92ccfd5d9823": {
-          "uuid": "c895d7d8-6eb1-44ec-86d4-92ccfd5d9823",
-          "title": "Fruit Water Citrus",
-          "itemDescription": "300 g",
-          "price": 2000,
-          "nutritionalInfo": {
-            "displayString": "4 Cal."
-          }
-        },
-        "d7013225-3360-467f-bb1a-f4cf548edc44": {
-          "uuid": "d7013225-3360-467f-bb1a-f4cf548edc44",
-          "title": "Japanese breakfast with salmon",
-          "itemDescription": "Egg, salmon, tomatoes, avocado, mango, lemon, rice, nori seaweed. 240 g",
-          "price": 12700,
-          "nutritionalInfo": {
-            "displayString": "627 Cal."
-          }
-        },
-        "dd60f454-6b97-42f0-a1f4-b3fd44cc3a20": {
-          "uuid": "dd60f454-6b97-42f0-a1f4-b3fd44cc3a20",
-          "title": "Steam cheese cakes Cherry & Sour Cream with orange",
-          "itemDescription": "Homemade cottage cheese, flour, egg, cherry, orange, sour cream, sugar. 230 g",
-          "price": 9800,
-          "nutritionalInfo": {
-            "displayString": "406 Cal."
-          }
-        },
-        "3aec9b9a-1681-4f6b-bd23-61f7ecc710a2": {
-          "uuid": "3aec9b9a-1681-4f6b-bd23-61f7ecc710a2",
-          "title": "Baked vegetables paste ",
-          "itemDescription": "Celery, carrots, sesame, garlic, lemon, tomatoes, lettuce. 200 g",
-          "price": 6100,
-          "nutritionalInfo": {
-            "displayString": "153 Cal."
-          }
-        },
-        "bea3e299-8ecd-464e-a79e-b37093fc4677": {
-          "uuid": "bea3e299-8ecd-464e-a79e-b37093fc4677",
-          "title": "Avocado Maghreb",
-          "itemDescription": "Lettuce, avocado, beetroot, couscous, cucumber, lemon, cottage cheese, pomegranate sauce.  230 g\n",
-          "price": 13700,
-          "nutritionalInfo": {
-            "displayString": "522 Cal."
-          }
-        },
-        "93f29f19-6dea-421f-a39a-155b77244eb8": {
-          "uuid": "93f29f19-6dea-421f-a39a-155b77244eb8",
-          "title": "Fajita roll with chicken",
-          "itemDescription": "Pita, chicken, bell pepper, beans, tomatoes, onions, garlic, cheese, lettuce. 200 g",
-          "price": 10800,
-          "nutritionalInfo": {
-            "displayString": "267 Cal."
-          }
-        },
-        "55970e59-9fc9-4d95-a455-fdcf855dba78": {
-          "uuid": "55970e59-9fc9-4d95-a455-fdcf855dba78",
-          "title": "Still mineral water",
-          "itemDescription": "",
-          "price": 2000,
-          "nutritionalInfo": {}
-        },
-        "01a0fe66-dd31-4d25-9db8-445a9674ca1f": {
-          "uuid": "01a0fe66-dd31-4d25-9db8-445a9674ca1f",
-          "title": "Apple sherbet",
-          "itemDescription": "Kefir, oatmeal, walnut, honey, apple, cinnamon. 300 g",
-          "price": 4900,
-          "nutritionalInfo": {
-            "displayString": "370 Cal."
-          }
-        },
-        "2da7066c-4d9a-4a8a-8f39-45acd82799fc": {
-          "uuid": "2da7066c-4d9a-4a8a-8f39-45acd82799fc",
-          "title": "Fruit Water Rhubarb + Elderberry",
-          "itemDescription": "300 g",
-          "price": 2000,
-          "nutritionalInfo": {
-            "displayString": "18 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "61eafa62-4169-4306-a14f-fec9ff6eff95": {
-          "uuid": "61eafa62-4169-4306-a14f-fec9ff6eff95",
-          "title": "Poppy pie with pineapple",
-          "itemDescription": "Shortbread dough, cocoa, cottage cheese, poppy, pineapple, orange, sugar. 125 g",
-          "price": 6500,
-          "nutritionalInfo": {
-            "displayString": "296 Cal."
-          }
-        },
-        "a63cec06-4512-4972-8b2b-ad9a966d5e07": {
-          "uuid": "a63cec06-4512-4972-8b2b-ad9a966d5e07",
-          "title": "Go Green # 1",
-          "itemDescription": "Apple, avocado, lemongrass, spirulina. 300 g",
-          "price": 6900,
-          "nutritionalInfo": {
-            "displayString": "147 Cal."
-          }
-        },
-        "a2b0fd53-626e-45b3-9a98-a8393a069747": {
-          "uuid": "a2b0fd53-626e-45b3-9a98-a8393a069747",
-          "title": "Tom yum with tofu",
-          "itemDescription": "Tom yam broth, shiitake mushrooms, wheat noodles, tofu, corn, carrots, cilantro. 320 g",
-          "price": 7700,
-          "nutritionalInfo": {
-            "displayString": "220 Cal."
-          }
-        },
-        "dc3d5059-0569-4e3f-b77c-f30e764ca43b": {
-          "uuid": "dc3d5059-0569-4e3f-b77c-f30e764ca43b",
-          "title": "Salmon Dijon",
-          "itemDescription": "Lettuce, salmon, egg, milk, flour, green peas, quinoa, tomatoes, lemon sauce with honey, mustard. 230 g",
-          "price": 13900,
-          "nutritionalInfo": {
-            "displayString": "495 Cal."
-          }
-        },
-        "309aea89-c1ab-4df6-a64e-7205868f9aac": {
-          "uuid": "309aea89-c1ab-4df6-a64e-7205868f9aac",
-          "title": "Oatmeal Mango, Pineapple & Coconut",
-          "itemDescription": "Oatmeal, mango, pineapple, coconut, sugar. 290 g",
-          "price": 9800,
-          "nutritionalInfo": {
-            "displayString": "632 Cal."
-          }
-        },
-        "06ceb3c6-90e4-471f-97ea-dfe1f8095623": {
-          "uuid": "06ceb3c6-90e4-471f-97ea-dfe1f8095623",
-          "title": "Rye baguette with salmon",
-          "itemDescription": "Rye baguette, salmon, homemade mayonnaise, mustard, cucumber, lettuce, egg. 220 g",
-          "price": 12700,
-          "nutritionalInfo": {
-            "displayString": "464 Cal."
-          }
-        },
-        "02090496-a5f7-4b37-9e13-3d378e9f0267": {
-          "uuid": "02090496-a5f7-4b37-9e13-3d378e9f0267",
-          "title": "Mango & Mint",
-          "itemDescription": "Kefir, mango, mint. 300 g",
-          "price": 6900,
-          "nutritionalInfo": {
-            "displayString": "172 Cal."
-          }
-        },
-        "a193f1b6-94b7-4677-9466-335bd7ddb4ec": {
-          "uuid": "a193f1b6-94b7-4677-9466-335bd7ddb4ec",
-          "title": "Forever Red # 2",
-          "itemDescription": "Elderberry, rhubarb, apple, black currant. 100 g",
-          "price": 5500,
-          "nutritionalInfo": {
-            "displayString": "99 Cal."
-          }
-        },
-        "96228fae-a56a-4dc0-8b82-7d601e573f5a": {
-          "uuid": "96228fae-a56a-4dc0-8b82-7d601e573f5a",
-          "title": "Chili con carne with turkey",
-          "itemDescription": "Turkey, beans, tomatoes, bell pepper, onion, garlic, butter, rice, sour cream, cucumber, mint, corn chips. 290 g",
-          "price": 14900,
-          "nutritionalInfo": {
-            "displayString": "734 Cal."
-          }
-        },
-        "a0b3c4e5-2d90-4b93-b5bc-490ad9828abd": {
-          "uuid": "a0b3c4e5-2d90-4b93-b5bc-490ad9828abd",
-          "title": "Curry Chicken",
-          "itemDescription": "Lettuce, curry chicken, carrot, celery, apple, nut sauce, peanuts. 240 g",
-          "price": 10900,
-          "nutritionalInfo": {
-            "displayString": "554 Cal."
-          }
-        },
-        "3cf14554-e4af-4314-a61f-d39da65b7b3e": {
-          "uuid": "3cf14554-e4af-4314-a61f-d39da65b7b3e",
-          "title": "Cottage cheese mousse with mango and dark chocolate",
-          "itemDescription": "Cottage cheese, milk, mint, mango, dark chocolate. 190 g",
-          "price": 6500,
-          "nutritionalInfo": {
-            "displayString": "389 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "8f4591c6-b1dc-47e4-b483-1b714e49815a": {
-          "uuid": "8f4591c6-b1dc-47e4-b483-1b714e49815a",
-          "title": "Baked vegetables with plum sauce",
-          "itemDescription": "Broccoli, cauliflower, parsnips, parsley, celery, carrots, quinoa, plum sauce. 320 g",
-          "price": 13500,
-          "nutritionalInfo": {
-            "displayString": "354 Cal."
-          }
-        },
-        "0e95d9dc-68e9-4e08-9d2c-7b0998053542": {
-          "uuid": "0e95d9dc-68e9-4e08-9d2c-7b0998053542",
-          "title": "Сottage cheese pie with cowberry",
-          "itemDescription": "Shortbread dough, cottage cheese, orange, cowberry, sugar. 125 g",
-          "price": 5000,
-          "nutritionalInfo": {
-            "displayString": "319 Cal."
-          }
-        },
-        "24cdc084-4b67-4a70-b321-1f2860a334a1": {
-          "uuid": "24cdc084-4b67-4a70-b321-1f2860a334a1",
-          "title": "Beef tagine with pumpkin and dried apricots",
-          "itemDescription": "Beef, pumpkin, celery, dried apricots, ginger, lemongrass, chickpeas, radish. 320 g ",
-          "price": 16900,
-          "nutritionalInfo": {
-            "displayString": "406 Cal."
-          }
-        },
-        "7bdfce01-2764-4672-bf2f-6988951eb600": {
-          "uuid": "7bdfce01-2764-4672-bf2f-6988951eb600",
-          "title": "Squid Kimchi",
-          "itemDescription": "Squid, lettuce, lentils, tomatoes, onions, garlic, broccoli, wakaame seaweed, kimchi sauce. 210 g",
-          "price": 12500,
-          "nutritionalInfo": {
-            "displayString": "326 Cal."
-          }
-        },
-        "aea17dd4-9f67-4503-9999-e444dbf4cc8a": {
-          "uuid": "aea17dd4-9f67-4503-9999-e444dbf4cc8a",
-          "title": "Carrot",
-          "itemDescription": "300 g",
-          "price": 4900,
-          "nutritionalInfo": {
-            "displayString": "123 Cal."
-          }
-        },
-        "d5055968-f8de-41f5-b190-b7235a144bff": {
-          "uuid": "d5055968-f8de-41f5-b190-b7235a144bff",
-          "title": "Homemade yogurt with oatmeal, cocoa and dried fruits",
-          "itemDescription": "Yogurt, oatmeal, dried apricots, flax seeds, raisins, cocoa, walnuts, elderberry, sugar. 210 g",
-          "price": 6900,
-          "nutritionalInfo": {
-            "displayString": "527 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "e4fba9b0-6f1f-48c7-82dd-7b119a17b996": {
-          "uuid": "e4fba9b0-6f1f-48c7-82dd-7b119a17b996",
-          "title": "Sicilian meatballs",
-          "itemDescription": "Veal, cheese, egg, tomatoes, bulgur, carrot, apple, celery, flour, garlic, orange. 320 g",
-          "price": 14900,
-          "nutritionalInfo": {
-            "displayString": "636 Cal."
-          }
-        },
-        "40167db1-c6ee-4500-b183-a3dd0575372e": {
-          "uuid": "40167db1-c6ee-4500-b183-a3dd0575372e",
-          "title": "Pepper mousse with cottage cheese",
-          "itemDescription": "Bell pepper, tomatoes, onions, garlic, cilantro, chickpeas, cottage cheese. 180 g",
-          "price": 5500,
-          "nutritionalInfo": {
-            "displayString": "143 Cal."
-          }
-        },
-        "5d64c1e2-fd71-4db7-aea5-1b3449fb309e": {
-          "uuid": "5d64c1e2-fd71-4db7-aea5-1b3449fb309e",
-          "title": "Lavender sherbet",
-          "price": 2000,
-          "nutritionalInfo": {}
-        },
-        "7b4e80dd-625a-4353-85d1-4874314eb8ac": {
-          "uuid": "7b4e80dd-625a-4353-85d1-4874314eb8ac",
-          "title": "Croissant",
-          "itemDescription": "100 g",
-          "price": 3100,
-          "nutritionalInfo": {
-            "displayString": "363 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "1b9d767d-35db-4ed5-94b3-f66001beff8c": {
-          "uuid": "1b9d767d-35db-4ed5-94b3-f66001beff8c",
-          "title": "Sparkling water",
-          "itemDescription": "",
-          "price": 2000,
-          "nutritionalInfo": {}
-        },
-        "cff79a89-12a1-43c2-afd1-e39a83f441f0": {
-          "uuid": "cff79a89-12a1-43c2-afd1-e39a83f441f0",
-          "title": "Croissant with honey, nuts and grated cocoa",
-          "itemDescription": "150 g",
-          "price": 5900,
-          "nutritionalInfo": {
-            "displayString": "630 Cal."
-          },
-          "suspendUntil": 8640000000
-        },
-        "a1cd66af-6bf9-4900-9388-67b6a26d54b2": {
-          "uuid": "a1cd66af-6bf9-4900-9388-67b6a26d54b2",
-          "title": "Roll with fish nuggets",
-          "itemDescription": "Pita, fish nuggets, egg, flour, cucumber, lettuce, beets, onion, garlic, kimchi sauce. 260 g",
-          "price": 12700,
-          "nutritionalInfo": {
-            "displayString": "470 Cal."
-          }
-        },
-        "a0cb62c3-9ed6-4411-b598-59f96b75c3d6": {
-          "uuid": "a0cb62c3-9ed6-4411-b598-59f96b75c3d6",
-          "title": "Cottage cheese and coffee mousse with chia and cherry jam",
-          "itemDescription": "Cherry, cottage cheese, amaretto liqueur, chia, milk, coffee, sugar. 200 g",
-          "price": 4900,
-          "nutritionalInfo": {
-            "displayString": "324 Cal."
-          }
-        },
-        "641e3df5-00c8-4432-8c5c-c44e5b6237e7": {
-          "uuid": "641e3df5-00c8-4432-8c5c-c44e5b6237e7",
-          "title": "Orange Boost # 1",
-          "itemDescription": "Pumpkin, orange, parsnip, mint. 300g",
-          "price": 5800,
-          "nutritionalInfo": {
-            "displayString": "72 Cal."
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "5a590b10-2e8b-477e-88bc-c6f88433eb6d",
-          "title": "Breakfast",
-          "itemUuids": [
-            "1540c4d8-834b-4eb3-b35b-4bca54d48588",
-            "37f11d6a-8118-438c-b34f-80b49cb568e1",
-            "d7013225-3360-467f-bb1a-f4cf548edc44",
-            "272b6985-6995-4f17-851e-71352e3afb30",
-            "086ef93d-5a43-4bd5-b56e-f299ef7cc1fa",
-            "dd60f454-6b97-42f0-a1f4-b3fd44cc3a20",
-            "b8f9fd52-ce41-4e7f-b56a-018fa27c41dd",
-            "c4371f3d-35eb-49cd-8894-0ef82602dd1f",
-            "309aea89-c1ab-4df6-a64e-7205868f9aac"
-          ]
-        },
-        {
-          "uuid": "0a038054-6715-419c-83f8-120ddb69b963",
-          "title": "Sandwiches",
-          "itemUuids": [
-            "be6d257a-d6db-477b-9778-cd25813e7650",
-            "93f29f19-6dea-421f-a39a-155b77244eb8",
-            "4b9c3541-0313-46a4-8624-5fe6f4fe7709",
-            "580374e2-fe1e-43d1-92d2-6c1dbe3e4ec5",
-            "a1cd66af-6bf9-4900-9388-67b6a26d54b2",
-            "06ceb3c6-90e4-471f-97ea-dfe1f8095623",
-            "a4c3dbb2-d220-45bf-a095-dc24a187f5ba"
-          ]
-        },
-        {
-          "uuid": "6eb5a1f6-f2e2-4e30-824d-b50cae4a115f",
-          "title": "Salads",
-          "itemUuids": [
-            "056c6a8c-33f1-4a77-b446-3cfc8367b42c",
-            "7bdfce01-2764-4672-bf2f-6988951eb600",
-            "a0b3c4e5-2d90-4b93-b5bc-490ad9828abd",
-            "dc3d5059-0569-4e3f-b77c-f30e764ca43b",
-            "bea3e299-8ecd-464e-a79e-b37093fc4677",
-            "3aec9b9a-1681-4f6b-bd23-61f7ecc710a2",
-            "40167db1-c6ee-4500-b183-a3dd0575372e",
-            "4d77c298-f7d6-46f5-8b4b-fb5fc8ae515a"
-          ]
-        },
-        {
-          "uuid": "0bc7cd89-1062-429f-94c8-4d52bbd30f94",
-          "title": "Soups",
-          "itemUuids": [
-            "a2b0fd53-626e-45b3-9a98-a8393a069747",
-            "625d99ac-5c36-4fb5-86fd-3f907869b010",
-            "c6ac81ea-f5fd-432b-8171-9722badb36af",
-            "d449221f-511d-42b0-9c2f-809e39c5b41c"
-          ]
-        },
-        {
-          "uuid": "aefc381a-08c2-47d1-b968-023972a4832e",
-          "title": "Warm Bowls",
-          "itemUuids": [
-            "77fb3485-12c3-4653-b0a8-c72164d272e3",
-            "e4fba9b0-6f1f-48c7-82dd-7b119a17b996",
-            "e5a85b9d-a1b9-47a6-be64-fdc1c15d6c89",
-            "c518761d-b912-497c-94a1-a43dbdd40172",
-            "1d828cdb-871d-4ff2-848b-db7efebaee1d",
-            "8f4591c6-b1dc-47e4-b483-1b714e49815a",
-            "24cdc084-4b67-4a70-b321-1f2860a334a1",
-            "96228fae-a56a-4dc0-8b82-7d601e573f5a",
-            "ac17f06a-fdc0-4b70-bc84-c6e95c3f344c",
-            "5e018af4-abe3-4879-bf10-1744f74d3773"
-          ]
-        },
-        {
-          "uuid": "bfb533c7-dc87-4f43-8844-f64564055ed3",
-          "title": "Bake",
-          "itemUuids": [
-            "7b4e80dd-625a-4353-85d1-4874314eb8ac",
-            "61eafa62-4169-4306-a14f-fec9ff6eff95",
-            "0e95d9dc-68e9-4e08-9d2c-7b0998053542",
-            "358aa9c5-f9ee-45fd-9b9e-88e1470e16e6",
-            "f4696a1d-c77d-4d62-acfc-55e909670e1a",
-            "672e9d76-bd72-4337-b3f3-7838d170f8b9",
-            "8937567c-215e-439d-a3ef-73a226e9574b",
-            "d1496d1a-0339-4078-9db9-38fdb28f51b4",
-            "252a6ab9-6725-45c4-be52-7b3ece518b74",
-            "cff79a89-12a1-43c2-afd1-e39a83f441f0",
-            "31fa14c0-908e-44a8-9b51-b12a21916cf2",
-            "2ef90517-f878-48f0-938d-e65e8538ee9e",
-            "44c6e877-cd95-4c18-aedd-f9764a92e641",
-            "bc08acbc-1c88-48e3-b2cf-d28e7d738550",
-            "c2a0c2ae-8eca-4898-8573-e1706f678d23",
-            "5d64c1e2-fd71-4db7-aea5-1b3449fb309e",
-            "2f16bd6f-e150-415e-a0d1-2502819e053b"
-          ]
-        },
-        {
-          "uuid": "a91f1cd3-f853-4ff6-945a-40fe299575ae",
-          "title": "Desserts",
-          "itemUuids": [
-            "34e730da-f7bd-4bf5-8085-7aeecf621193",
-            "3cf14554-e4af-4314-a61f-d39da65b7b3e",
-            "a0cb62c3-9ed6-4411-b598-59f96b75c3d6",
-            "d5055968-f8de-41f5-b190-b7235a144bff",
-            "4208e829-884f-4ec8-bbda-f402fde4e487"
-          ]
-        },
-        {
-          "uuid": "ecfa3ae6-1581-4ff2-8ee9-355d8e883eed",
-          "title": "Cold drinks",
-          "itemUuids": [
-            "55970e59-9fc9-4d95-a455-fdcf855dba78",
-            "1b9d767d-35db-4ed5-94b3-f66001beff8c",
-            "ec6b59dd-5e9d-4c18-bd83-f43aec831a82",
-            "37c652fa-992c-42c6-a720-c9595886cf51",
-            "ce9b9da0-1341-4e34-9a64-6fc3eb8fa552",
-            "95a19bac-9be0-4a08-af51-f1239f8db4f4",
-            "2da7066c-4d9a-4a8a-8f39-45acd82799fc",
-            "1167305f-01a0-4869-83e5-350f87e42948",
-            "c895d7d8-6eb1-44ec-86d4-92ccfd5d9823"
-          ]
-        },
-        {
-          "uuid": "64768863-ae50-4a0f-a5a1-28def59f4c5f",
-          "title": "Fresh",
-          "itemUuids": [
-            "4a044659-e45a-4560-b4e8-b14915bcd61a",
-            "aea17dd4-9f67-4503-9999-e444dbf4cc8a",
-            "b5ced659-416a-474f-8b90-4f520fa2cf05"
-          ]
-        },
-        {
-          "uuid": "35b0714e-0dcf-4dd7-8195-a64bf92b1a93",
-          "title": "Smoothies",
-          "itemUuids": [
-            "73b5cf9f-d333-4af4-89cc-a5488e4c9a7e",
-            "641e3df5-00c8-4432-8c5c-c44e5b6237e7",
-            "a63cec06-4512-4972-8b2b-ad9a966d5e07",
-            "80a9be9f-75ab-4d3f-add1-5f45158a912c",
-            "491af85c-3d6c-4263-9110-695db782110a",
-            "a193f1b6-94b7-4677-9466-335bd7ddb4ec"
-          ]
-        },
-        {
-          "uuid": "628eec63-bd39-427b-ba4a-9a2fbd99ac8c",
-          "title": "Kefir",
-          "itemUuids": [
-            "01a0fe66-dd31-4d25-9db8-445a9674ca1f",
-            "f88d2026-c4b5-4cf3-8317-3bddbcb32d1c",
-            "02090496-a5f7-4b37-9e13-3d378e9f0267"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.442927,
     "longitude": 30.4982845,
@@ -946,5 +205,721 @@
     "storeRatingScore": 4.468531468531468,
     "ratingCount": "143"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/9f0b368c-3c0a-4b3c-a92a-b0f880d8dc0d"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/9f0b368c-3c0a-4b3c-a92a-b0f880d8dc0d",
+  "items": {
+    "bc08acbc-1c88-48e3-b2cf-d28e7d738550": {
+      "uuid": "bc08acbc-1c88-48e3-b2cf-d28e7d738550",
+      "title": "Strawberry-banana pie",
+      "price": 4300,
+      "nutritionalInfo": {}
+    },
+    "491af85c-3d6c-4263-9110-695db782110a": {
+      "uuid": "491af85c-3d6c-4263-9110-695db782110a",
+      "title": "Forever Red # 1",
+      "itemDescription": "Beet, grapes, lemongrass, plum. 300 g",
+      "price": 5900,
+      "nutritionalInfo": {
+        "displayString": "96 Cal."
+      }
+    },
+    "37c652fa-992c-42c6-a720-c9595886cf51": {
+      "uuid": "37c652fa-992c-42c6-a720-c9595886cf51",
+      "title": "Probiotic tea Kombucha Live",
+      "itemDescription": "",
+      "price": 5000,
+      "nutritionalInfo": {}
+    },
+    "ac17f06a-fdc0-4b70-bc84-c6e95c3f344c": {
+      "uuid": "ac17f06a-fdc0-4b70-bc84-c6e95c3f344c",
+      "title": "Pike perch with aioli sauce",
+      "itemDescription": "Pike perch, brussels sprouts, quinoa, egg, garlic, oyster sauce. 250 g",
+      "price": 18900,
+      "nutritionalInfo": {
+        "displayString": "643 Cal."
+      }
+    },
+    "e5a85b9d-a1b9-47a6-be64-fdc1c15d6c89": {
+      "uuid": "e5a85b9d-a1b9-47a6-be64-fdc1c15d6c89",
+      "title": "Mussels with sweet potatoes",
+      "itemDescription": "Sweet potatoes, mussels, quinoa, chickpeas, edamame beans, oyster sauce, beets, celery. 320 g",
+      "price": 15900,
+      "nutritionalInfo": {
+        "displayString": "429 Cal."
+      }
+    },
+    "b8f9fd52-ce41-4e7f-b56a-018fa27c41dd": {
+      "uuid": "b8f9fd52-ce41-4e7f-b56a-018fa27c41dd",
+      "title": "Oatmeal Banana, Brazil Nut & Rosehip Syrup",
+      "itemDescription": "Oatmeal, banana, brazil nut, rosehip syrup, sugar. 270 g",
+      "price": 8900,
+      "nutritionalInfo": {
+        "displayString": "402 Cal."
+      }
+    },
+    "4d77c298-f7d6-46f5-8b4b-fb5fc8ae515a": {
+      "uuid": "4d77c298-f7d6-46f5-8b4b-fb5fc8ae515a",
+      "title": "Curry hummus with parsley sauce",
+      "itemDescription": "Hummus, sesame, garlic, lentils, chickpeas, parsley. 200 g",
+      "price": 4900,
+      "nutritionalInfo": {
+        "displayString": "365 Cal."
+      }
+    },
+    "34e730da-f7bd-4bf5-8085-7aeecf621193": {
+      "uuid": "34e730da-f7bd-4bf5-8085-7aeecf621193",
+      "title": "Coconut pudding with pineapple",
+      "itemDescription": "Coconut, milk, semolina, butter, pineapple, sugar. 200 g",
+      "price": 6500,
+      "nutritionalInfo": {
+        "displayString": "447 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "31fa14c0-908e-44a8-9b51-b12a21916cf2": {
+      "uuid": "31fa14c0-908e-44a8-9b51-b12a21916cf2",
+      "title": "Shortbread with red currant and apple jam",
+      "itemDescription": "Shortbread dough, apple jam, red currant, cinnamon. 110 g",
+      "price": 3900,
+      "nutritionalInfo": {
+        "displayString": "302 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "2f16bd6f-e150-415e-a0d1-2502819e053b": {
+      "uuid": "2f16bd6f-e150-415e-a0d1-2502819e053b",
+      "title": "Carrot cookies",
+      "price": 3500,
+      "nutritionalInfo": {}
+    },
+    "1d828cdb-871d-4ff2-848b-db7efebaee1d": {
+      "uuid": "1d828cdb-871d-4ff2-848b-db7efebaee1d",
+      "title": "Falafel",
+      "itemDescription": "Beans, chickpeas, avocado, apple, chili, lemon, tomatoes, onions, cilantro, flour, carrots, celery, parsnip. 270 g",
+      "price": 13900,
+      "nutritionalInfo": {
+        "displayString": "199 Cal."
+      }
+    },
+    "1167305f-01a0-4869-83e5-350f87e42948": {
+      "uuid": "1167305f-01a0-4869-83e5-350f87e42948",
+      "title": "Fruit Water Passion Fruit",
+      "itemDescription": "300 g",
+      "price": 2000,
+      "nutritionalInfo": {
+        "displayString": "10 Cal."
+      }
+    },
+    "672e9d76-bd72-4337-b3f3-7838d170f8b9": {
+      "uuid": "672e9d76-bd72-4337-b3f3-7838d170f8b9",
+      "title": "Lemon muffin with blackcurrant",
+      "itemDescription": "Flour, egg, butter, sugar, lemon, black currant, ginger. 90 g",
+      "price": 3000,
+      "nutritionalInfo": {
+        "displayString": "256 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "be6d257a-d6db-477b-9778-cd25813e7650": {
+      "uuid": "be6d257a-d6db-477b-9778-cd25813e7650",
+      "title": "Pita with falafel",
+      "itemDescription": "Pita, beans, chickpeas, tomatoes, mango, mint yogurt chutney, lettuce, onions, garlic, yogurt mint sauce. 260 g",
+      "price": 9300,
+      "nutritionalInfo": {
+        "displayString": "282 Cal."
+      }
+    },
+    "77fb3485-12c3-4653-b0a8-c72164d272e3": {
+      "uuid": "77fb3485-12c3-4653-b0a8-c72164d272e3",
+      "title": "Chicken Tikka Masala",
+      "itemDescription": "Chicken, tomatoes, curry, rice mix, pickled cucumber, sesame, cilantro. 310 g",
+      "price": 14700,
+      "nutritionalInfo": {
+        "displayString": "770 Cal."
+      }
+    },
+    "358aa9c5-f9ee-45fd-9b9e-88e1470e16e6": {
+      "uuid": "358aa9c5-f9ee-45fd-9b9e-88e1470e16e6",
+      "title": "Coconut cheese pie with black currant",
+      "itemDescription": "Rye dough, black currant, orange, coconut, sugar. 125 g",
+      "price": 5000,
+      "nutritionalInfo": {
+        "displayString": "428 Cal."
+      }
+    },
+    "4a044659-e45a-4560-b4e8-b14915bcd61a": {
+      "uuid": "4a044659-e45a-4560-b4e8-b14915bcd61a",
+      "title": "Orange",
+      "itemDescription": "300 g",
+      "price": 7900,
+      "nutritionalInfo": {
+        "displayString": "129 Cal."
+      }
+    },
+    "d449221f-511d-42b0-9c2f-809e39c5b41c": {
+      "uuid": "d449221f-511d-42b0-9c2f-809e39c5b41c",
+      "title": "Potato cream soup",
+      "itemDescription": "Carrots, potatoes, onions, garlic, basil. 300 g ",
+      "price": 6500,
+      "nutritionalInfo": {
+        "displayString": "218 Cal."
+      }
+    },
+    "272b6985-6995-4f17-851e-71352e3afb30": {
+      "uuid": "272b6985-6995-4f17-851e-71352e3afb30",
+      "title": "Omelette with chili con carne",
+      "itemDescription": "Egg, milk, turkey, beans, tomatoes, bell pepper, cilantro, broccoli, mushrooms, garlic, chili. 280 g",
+      "price": 11500,
+      "nutritionalInfo": {
+        "displayString": "405 Cal."
+      }
+    },
+    "c2a0c2ae-8eca-4898-8573-e1706f678d23": {
+      "uuid": "c2a0c2ae-8eca-4898-8573-e1706f678d23",
+      "title": "Marzipan with matcha tea",
+      "price": 2900,
+      "nutritionalInfo": {}
+    },
+    "73b5cf9f-d333-4af4-89cc-a5488e4c9a7e": {
+      "uuid": "73b5cf9f-d333-4af4-89cc-a5488e4c9a7e",
+      "title": "Orange Boost # 2",
+      "itemDescription": "Carrots, flax seeds, coconut, mango, hemp seeds. 300 g",
+      "price": 5800,
+      "nutritionalInfo": {
+        "displayString": "216 Cal."
+      }
+    },
+    "8937567c-215e-439d-a3ef-73a226e9574b": {
+      "uuid": "8937567c-215e-439d-a3ef-73a226e9574b",
+      "title": "Spicy orange cookie",
+      "itemDescription": "Egg, flour, butter, sesame, honey, sugar, orange, cinnamon. 80 g",
+      "price": 3800,
+      "nutritionalInfo": {
+        "displayString": "300 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "1540c4d8-834b-4eb3-b35b-4bca54d48588": {
+      "uuid": "1540c4d8-834b-4eb3-b35b-4bca54d48588",
+      "title": "Tomato Shakshuka",
+      "itemDescription": "Egg, onion, tomatoes, bell pepper, cilantro, parsley, hummus (lentils, chickpeas, sesame, garlic), mayonnaise, feta. 300 g",
+      "price": 10800,
+      "nutritionalInfo": {
+        "displayString": "479 Cal."
+      }
+    },
+    "44c6e877-cd95-4c18-aedd-f9764a92e641": {
+      "uuid": "44c6e877-cd95-4c18-aedd-f9764a92e641",
+      "title": "Coconut cookies with poppy seeds",
+      "price": 2000,
+      "nutritionalInfo": {}
+    },
+    "252a6ab9-6725-45c4-be52-7b3ece518b74": {
+      "uuid": "252a6ab9-6725-45c4-be52-7b3ece518b74",
+      "title": "Peanut cookie with oatmeal and cocoa beans",
+      "itemDescription": "Oatmeal, cocoa, nutmeg, coconut, honey, аmaretto liqueur, egg, walnut, sugar. 50 g",
+      "price": 3300,
+      "nutritionalInfo": {
+        "displayString": "315 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "ce9b9da0-1341-4e34-9a64-6fc3eb8fa552": {
+      "uuid": "ce9b9da0-1341-4e34-9a64-6fc3eb8fa552",
+      "title": "Cold coffee Landessa Vanilla",
+      "itemDescription": "",
+      "price": 5000,
+      "nutritionalInfo": {}
+    },
+    "f88d2026-c4b5-4cf3-8317-3bddbcb32d1c": {
+      "uuid": "f88d2026-c4b5-4cf3-8317-3bddbcb32d1c",
+      "title": "Pineapple, berries & lime",
+      "itemDescription": "Kefir, elderberry, pineapple, black currant, red currant, lime leaves. 300 g",
+      "price": 6500,
+      "nutritionalInfo": {
+        "displayString": "152 Cal."
+      }
+    },
+    "ec6b59dd-5e9d-4c18-bd83-f43aec831a82": {
+      "uuid": "ec6b59dd-5e9d-4c18-bd83-f43aec831a82",
+      "title": "Oshee Vitamin Drink",
+      "itemDescription": "",
+      "price": 5000,
+      "nutritionalInfo": {}
+    },
+    "086ef93d-5a43-4bd5-b56e-f299ef7cc1fa": {
+      "uuid": "086ef93d-5a43-4bd5-b56e-f299ef7cc1fa",
+      "title": "Steam cheese cakes Mango & Strawberry",
+      "itemDescription": "Homemade cottage cheese, flour, egg, mango, strawberry, sugar. 220 g",
+      "price": 9800,
+      "nutritionalInfo": {
+        "displayString": "397 Cal."
+      }
+    },
+    "4b9c3541-0313-46a4-8624-5fe6f4fe7709": {
+      "uuid": "4b9c3541-0313-46a4-8624-5fe6f4fe7709",
+      "title": "Gyros with chicken",
+      "itemDescription": "Pita, chicken, sour cream, mint, cucumber, garlic, parsley, onion, bell pepper, tomatoes, lettuce. 240 g",
+      "price": 10500,
+      "nutritionalInfo": {
+        "displayString": "271 Cal."
+      }
+    },
+    "c518761d-b912-497c-94a1-a43dbdd40172": {
+      "uuid": "c518761d-b912-497c-94a1-a43dbdd40172",
+      "title": "Tofu cheese with mango chili sauce",
+      "itemDescription": "Tofu cheese, tomatoes, edamame beans, onion, mango, passion fruit, chili, quinoa, hoisin sauce. 280 g",
+      "price": 13700,
+      "nutritionalInfo": {
+        "displayString": "419 Cal."
+      }
+    },
+    "c6ac81ea-f5fd-432b-8171-9722badb36af": {
+      "uuid": "c6ac81ea-f5fd-432b-8171-9722badb36af",
+      "title": "Moroccan chickpea soup",
+      "itemDescription": "Chickpeas, onion, bell pepper, celery, tomatoes, garlic, cilantro, chili. 300 g",
+      "price": 7500,
+      "nutritionalInfo": {
+        "displayString": "339 Cal."
+      }
+    },
+    "5e018af4-abe3-4879-bf10-1744f74d3773": {
+      "uuid": "5e018af4-abe3-4879-bf10-1744f74d3773",
+      "title": "Duck meatballs with wine sauce",
+      "itemDescription": "Duck, wheat noodles, carrots, onions, egg, daikon, wine sauce, flour, garlic, butter. 310 ",
+      "price": 17800,
+      "nutritionalInfo": {
+        "displayString": "776 Cal."
+      }
+    },
+    "625d99ac-5c36-4fb5-86fd-3f907869b010": {
+      "uuid": "625d99ac-5c36-4fb5-86fd-3f907869b010",
+      "title": "Pho with chicken",
+      "itemDescription": "Chicken broth, rice noodles, chicken, green onions, parsley, soy sprouts. 320 g",
+      "price": 7300,
+      "nutritionalInfo": {
+        "displayString": "218 Cal."
+      }
+    },
+    "95a19bac-9be0-4a08-af51-f1239f8db4f4": {
+      "uuid": "95a19bac-9be0-4a08-af51-f1239f8db4f4",
+      "title": "Cold tea Cswiss",
+      "itemDescription": "",
+      "price": 5000,
+      "nutritionalInfo": {}
+    },
+    "2ef90517-f878-48f0-938d-e65e8538ee9e": {
+      "uuid": "2ef90517-f878-48f0-938d-e65e8538ee9e",
+      "title": "Ginger biscuits with sea buckthorn",
+      "price": 2500,
+      "nutritionalInfo": {}
+    },
+    "f4696a1d-c77d-4d62-acfc-55e909670e1a": {
+      "uuid": "f4696a1d-c77d-4d62-acfc-55e909670e1a",
+      "title": "Dried figs & cherry candy",
+      "itemDescription": "Figs, raisins, cherries, almonds, sugar. 50 g",
+      "price": 3100,
+      "nutritionalInfo": {
+        "displayString": "146 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "80a9be9f-75ab-4d3f-add1-5f45158a912c": {
+      "uuid": "80a9be9f-75ab-4d3f-add1-5f45158a912c",
+      "title": "Go Green # 2",
+      "itemDescription": "Pasternak, ginger, lemon, kefir, parsnip, raisins. 300 g",
+      "price": 6500,
+      "nutritionalInfo": {
+        "displayString": "91 Cal."
+      }
+    },
+    "056c6a8c-33f1-4a77-b446-3cfc8367b42c": {
+      "uuid": "056c6a8c-33f1-4a77-b446-3cfc8367b42c",
+      "title": "Roast Beef Chipotle",
+      "itemDescription": "Lettuce, roast beef, bell pepper, corn, beans, feta, onion, cilantro, garlic. 230 g",
+      "price": 11900,
+      "nutritionalInfo": {
+        "displayString": "470 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "37f11d6a-8118-438c-b34f-80b49cb568e1": {
+      "uuid": "37f11d6a-8118-438c-b34f-80b49cb568e1",
+      "title": "Fried eggs with meatballs",
+      "itemDescription": "Egg, veal, mashed potatoes, broccoli, cucumber, pesto. 250 g",
+      "price": 11500,
+      "nutritionalInfo": {
+        "displayString": "480 Cal."
+      }
+    },
+    "580374e2-fe1e-43d1-92d2-6c1dbe3e4ec5": {
+      "uuid": "580374e2-fe1e-43d1-92d2-6c1dbe3e4ec5",
+      "title": "Roll Banh Mi with beef kebab",
+      "itemDescription": "Radish, cucumber, chinese cabbage, cilantro, kimchi sauce, flour, veal, cheese, onion, egg, carrot, lettuce. 250 g\n",
+      "price": 11500,
+      "nutritionalInfo": {
+        "displayString": "529 Cal."
+      },
+      "suspendUntil": 1559509199
+    },
+    "b5ced659-416a-474f-8b90-4f520fa2cf05": {
+      "uuid": "b5ced659-416a-474f-8b90-4f520fa2cf05",
+      "title": "Apple",
+      "itemDescription": "300 g",
+      "price": 4900,
+      "nutritionalInfo": {
+        "displayString": "141 Cal."
+      }
+    },
+    "d1496d1a-0339-4078-9db9-38fdb28f51b4": {
+      "uuid": "d1496d1a-0339-4078-9db9-38fdb28f51b4",
+      "title": "Сroissant with almond",
+      "itemDescription": "150 g",
+      "price": 5900,
+      "nutritionalInfo": {
+        "displayString": "600 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "4208e829-884f-4ec8-bbda-f402fde4e487": {
+      "uuid": "4208e829-884f-4ec8-bbda-f402fde4e487",
+      "title": "Homemade yoghurt with mango, quinoa and chia seeds",
+      "itemDescription": "Yogurt, quinoa, mango, chia, sugar. 200 g",
+      "price": 7900,
+      "nutritionalInfo": {
+        "displayString": "393 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "a4c3dbb2-d220-45bf-a095-dc24a187f5ba": {
+      "uuid": "a4c3dbb2-d220-45bf-a095-dc24a187f5ba",
+      "title": "BBQ Turkey",
+      "itemDescription": "Rye baguette, turkey, prunes, bell pepper, garlic, onion, cauliflower, cucumber, cheese, lettuce. 230 g",
+      "price": 10900,
+      "nutritionalInfo": {
+        "displayString": "371 Cal."
+      }
+    },
+    "c4371f3d-35eb-49cd-8894-0ef82602dd1f": {
+      "uuid": "c4371f3d-35eb-49cd-8894-0ef82602dd1f",
+      "title": "Oatmeal Chia, Apple & Almond",
+      "itemDescription": "Oatmeal, banana, apple, chia, almonds, raisins, cinnamon, sugar. 270 g",
+      "price": 8500,
+      "nutritionalInfo": {
+        "displayString": "576 Cal."
+      }
+    },
+    "c895d7d8-6eb1-44ec-86d4-92ccfd5d9823": {
+      "uuid": "c895d7d8-6eb1-44ec-86d4-92ccfd5d9823",
+      "title": "Fruit Water Citrus",
+      "itemDescription": "300 g",
+      "price": 2000,
+      "nutritionalInfo": {
+        "displayString": "4 Cal."
+      }
+    },
+    "d7013225-3360-467f-bb1a-f4cf548edc44": {
+      "uuid": "d7013225-3360-467f-bb1a-f4cf548edc44",
+      "title": "Japanese breakfast with salmon",
+      "itemDescription": "Egg, salmon, tomatoes, avocado, mango, lemon, rice, nori seaweed. 240 g",
+      "price": 12700,
+      "nutritionalInfo": {
+        "displayString": "627 Cal."
+      }
+    },
+    "dd60f454-6b97-42f0-a1f4-b3fd44cc3a20": {
+      "uuid": "dd60f454-6b97-42f0-a1f4-b3fd44cc3a20",
+      "title": "Steam cheese cakes Cherry & Sour Cream with orange",
+      "itemDescription": "Homemade cottage cheese, flour, egg, cherry, orange, sour cream, sugar. 230 g",
+      "price": 9800,
+      "nutritionalInfo": {
+        "displayString": "406 Cal."
+      }
+    },
+    "3aec9b9a-1681-4f6b-bd23-61f7ecc710a2": {
+      "uuid": "3aec9b9a-1681-4f6b-bd23-61f7ecc710a2",
+      "title": "Baked vegetables paste ",
+      "itemDescription": "Celery, carrots, sesame, garlic, lemon, tomatoes, lettuce. 200 g",
+      "price": 6100,
+      "nutritionalInfo": {
+        "displayString": "153 Cal."
+      }
+    },
+    "bea3e299-8ecd-464e-a79e-b37093fc4677": {
+      "uuid": "bea3e299-8ecd-464e-a79e-b37093fc4677",
+      "title": "Avocado Maghreb",
+      "itemDescription": "Lettuce, avocado, beetroot, couscous, cucumber, lemon, cottage cheese, pomegranate sauce.  230 g\n",
+      "price": 13700,
+      "nutritionalInfo": {
+        "displayString": "522 Cal."
+      }
+    },
+    "93f29f19-6dea-421f-a39a-155b77244eb8": {
+      "uuid": "93f29f19-6dea-421f-a39a-155b77244eb8",
+      "title": "Fajita roll with chicken",
+      "itemDescription": "Pita, chicken, bell pepper, beans, tomatoes, onions, garlic, cheese, lettuce. 200 g",
+      "price": 10800,
+      "nutritionalInfo": {
+        "displayString": "267 Cal."
+      }
+    },
+    "55970e59-9fc9-4d95-a455-fdcf855dba78": {
+      "uuid": "55970e59-9fc9-4d95-a455-fdcf855dba78",
+      "title": "Still mineral water",
+      "itemDescription": "",
+      "price": 2000,
+      "nutritionalInfo": {}
+    },
+    "01a0fe66-dd31-4d25-9db8-445a9674ca1f": {
+      "uuid": "01a0fe66-dd31-4d25-9db8-445a9674ca1f",
+      "title": "Apple sherbet",
+      "itemDescription": "Kefir, oatmeal, walnut, honey, apple, cinnamon. 300 g",
+      "price": 4900,
+      "nutritionalInfo": {
+        "displayString": "370 Cal."
+      }
+    },
+    "2da7066c-4d9a-4a8a-8f39-45acd82799fc": {
+      "uuid": "2da7066c-4d9a-4a8a-8f39-45acd82799fc",
+      "title": "Fruit Water Rhubarb + Elderberry",
+      "itemDescription": "300 g",
+      "price": 2000,
+      "nutritionalInfo": {
+        "displayString": "18 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "61eafa62-4169-4306-a14f-fec9ff6eff95": {
+      "uuid": "61eafa62-4169-4306-a14f-fec9ff6eff95",
+      "title": "Poppy pie with pineapple",
+      "itemDescription": "Shortbread dough, cocoa, cottage cheese, poppy, pineapple, orange, sugar. 125 g",
+      "price": 6500,
+      "nutritionalInfo": {
+        "displayString": "296 Cal."
+      }
+    },
+    "a63cec06-4512-4972-8b2b-ad9a966d5e07": {
+      "uuid": "a63cec06-4512-4972-8b2b-ad9a966d5e07",
+      "title": "Go Green # 1",
+      "itemDescription": "Apple, avocado, lemongrass, spirulina. 300 g",
+      "price": 6900,
+      "nutritionalInfo": {
+        "displayString": "147 Cal."
+      }
+    },
+    "a2b0fd53-626e-45b3-9a98-a8393a069747": {
+      "uuid": "a2b0fd53-626e-45b3-9a98-a8393a069747",
+      "title": "Tom yum with tofu",
+      "itemDescription": "Tom yam broth, shiitake mushrooms, wheat noodles, tofu, corn, carrots, cilantro. 320 g",
+      "price": 7700,
+      "nutritionalInfo": {
+        "displayString": "220 Cal."
+      }
+    },
+    "dc3d5059-0569-4e3f-b77c-f30e764ca43b": {
+      "uuid": "dc3d5059-0569-4e3f-b77c-f30e764ca43b",
+      "title": "Salmon Dijon",
+      "itemDescription": "Lettuce, salmon, egg, milk, flour, green peas, quinoa, tomatoes, lemon sauce with honey, mustard. 230 g",
+      "price": 13900,
+      "nutritionalInfo": {
+        "displayString": "495 Cal."
+      }
+    },
+    "309aea89-c1ab-4df6-a64e-7205868f9aac": {
+      "uuid": "309aea89-c1ab-4df6-a64e-7205868f9aac",
+      "title": "Oatmeal Mango, Pineapple & Coconut",
+      "itemDescription": "Oatmeal, mango, pineapple, coconut, sugar. 290 g",
+      "price": 9800,
+      "nutritionalInfo": {
+        "displayString": "632 Cal."
+      }
+    },
+    "06ceb3c6-90e4-471f-97ea-dfe1f8095623": {
+      "uuid": "06ceb3c6-90e4-471f-97ea-dfe1f8095623",
+      "title": "Rye baguette with salmon",
+      "itemDescription": "Rye baguette, salmon, homemade mayonnaise, mustard, cucumber, lettuce, egg. 220 g",
+      "price": 12700,
+      "nutritionalInfo": {
+        "displayString": "464 Cal."
+      }
+    },
+    "02090496-a5f7-4b37-9e13-3d378e9f0267": {
+      "uuid": "02090496-a5f7-4b37-9e13-3d378e9f0267",
+      "title": "Mango & Mint",
+      "itemDescription": "Kefir, mango, mint. 300 g",
+      "price": 6900,
+      "nutritionalInfo": {
+        "displayString": "172 Cal."
+      }
+    },
+    "a193f1b6-94b7-4677-9466-335bd7ddb4ec": {
+      "uuid": "a193f1b6-94b7-4677-9466-335bd7ddb4ec",
+      "title": "Forever Red # 2",
+      "itemDescription": "Elderberry, rhubarb, apple, black currant. 100 g",
+      "price": 5500,
+      "nutritionalInfo": {
+        "displayString": "99 Cal."
+      }
+    },
+    "96228fae-a56a-4dc0-8b82-7d601e573f5a": {
+      "uuid": "96228fae-a56a-4dc0-8b82-7d601e573f5a",
+      "title": "Chili con carne with turkey",
+      "itemDescription": "Turkey, beans, tomatoes, bell pepper, onion, garlic, butter, rice, sour cream, cucumber, mint, corn chips. 290 g",
+      "price": 14900,
+      "nutritionalInfo": {
+        "displayString": "734 Cal."
+      }
+    },
+    "a0b3c4e5-2d90-4b93-b5bc-490ad9828abd": {
+      "uuid": "a0b3c4e5-2d90-4b93-b5bc-490ad9828abd",
+      "title": "Curry Chicken",
+      "itemDescription": "Lettuce, curry chicken, carrot, celery, apple, nut sauce, peanuts. 240 g",
+      "price": 10900,
+      "nutritionalInfo": {
+        "displayString": "554 Cal."
+      }
+    },
+    "3cf14554-e4af-4314-a61f-d39da65b7b3e": {
+      "uuid": "3cf14554-e4af-4314-a61f-d39da65b7b3e",
+      "title": "Cottage cheese mousse with mango and dark chocolate",
+      "itemDescription": "Cottage cheese, milk, mint, mango, dark chocolate. 190 g",
+      "price": 6500,
+      "nutritionalInfo": {
+        "displayString": "389 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "8f4591c6-b1dc-47e4-b483-1b714e49815a": {
+      "uuid": "8f4591c6-b1dc-47e4-b483-1b714e49815a",
+      "title": "Baked vegetables with plum sauce",
+      "itemDescription": "Broccoli, cauliflower, parsnips, parsley, celery, carrots, quinoa, plum sauce. 320 g",
+      "price": 13500,
+      "nutritionalInfo": {
+        "displayString": "354 Cal."
+      }
+    },
+    "0e95d9dc-68e9-4e08-9d2c-7b0998053542": {
+      "uuid": "0e95d9dc-68e9-4e08-9d2c-7b0998053542",
+      "title": "Сottage cheese pie with cowberry",
+      "itemDescription": "Shortbread dough, cottage cheese, orange, cowberry, sugar. 125 g",
+      "price": 5000,
+      "nutritionalInfo": {
+        "displayString": "319 Cal."
+      }
+    },
+    "24cdc084-4b67-4a70-b321-1f2860a334a1": {
+      "uuid": "24cdc084-4b67-4a70-b321-1f2860a334a1",
+      "title": "Beef tagine with pumpkin and dried apricots",
+      "itemDescription": "Beef, pumpkin, celery, dried apricots, ginger, lemongrass, chickpeas, radish. 320 g ",
+      "price": 16900,
+      "nutritionalInfo": {
+        "displayString": "406 Cal."
+      }
+    },
+    "7bdfce01-2764-4672-bf2f-6988951eb600": {
+      "uuid": "7bdfce01-2764-4672-bf2f-6988951eb600",
+      "title": "Squid Kimchi",
+      "itemDescription": "Squid, lettuce, lentils, tomatoes, onions, garlic, broccoli, wakaame seaweed, kimchi sauce. 210 g",
+      "price": 12500,
+      "nutritionalInfo": {
+        "displayString": "326 Cal."
+      }
+    },
+    "aea17dd4-9f67-4503-9999-e444dbf4cc8a": {
+      "uuid": "aea17dd4-9f67-4503-9999-e444dbf4cc8a",
+      "title": "Carrot",
+      "itemDescription": "300 g",
+      "price": 4900,
+      "nutritionalInfo": {
+        "displayString": "123 Cal."
+      }
+    },
+    "d5055968-f8de-41f5-b190-b7235a144bff": {
+      "uuid": "d5055968-f8de-41f5-b190-b7235a144bff",
+      "title": "Homemade yogurt with oatmeal, cocoa and dried fruits",
+      "itemDescription": "Yogurt, oatmeal, dried apricots, flax seeds, raisins, cocoa, walnuts, elderberry, sugar. 210 g",
+      "price": 6900,
+      "nutritionalInfo": {
+        "displayString": "527 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "e4fba9b0-6f1f-48c7-82dd-7b119a17b996": {
+      "uuid": "e4fba9b0-6f1f-48c7-82dd-7b119a17b996",
+      "title": "Sicilian meatballs",
+      "itemDescription": "Veal, cheese, egg, tomatoes, bulgur, carrot, apple, celery, flour, garlic, orange. 320 g",
+      "price": 14900,
+      "nutritionalInfo": {
+        "displayString": "636 Cal."
+      }
+    },
+    "40167db1-c6ee-4500-b183-a3dd0575372e": {
+      "uuid": "40167db1-c6ee-4500-b183-a3dd0575372e",
+      "title": "Pepper mousse with cottage cheese",
+      "itemDescription": "Bell pepper, tomatoes, onions, garlic, cilantro, chickpeas, cottage cheese. 180 g",
+      "price": 5500,
+      "nutritionalInfo": {
+        "displayString": "143 Cal."
+      }
+    },
+    "5d64c1e2-fd71-4db7-aea5-1b3449fb309e": {
+      "uuid": "5d64c1e2-fd71-4db7-aea5-1b3449fb309e",
+      "title": "Lavender sherbet",
+      "price": 2000,
+      "nutritionalInfo": {}
+    },
+    "7b4e80dd-625a-4353-85d1-4874314eb8ac": {
+      "uuid": "7b4e80dd-625a-4353-85d1-4874314eb8ac",
+      "title": "Croissant",
+      "itemDescription": "100 g",
+      "price": 3100,
+      "nutritionalInfo": {
+        "displayString": "363 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "1b9d767d-35db-4ed5-94b3-f66001beff8c": {
+      "uuid": "1b9d767d-35db-4ed5-94b3-f66001beff8c",
+      "title": "Sparkling water",
+      "itemDescription": "",
+      "price": 2000,
+      "nutritionalInfo": {}
+    },
+    "cff79a89-12a1-43c2-afd1-e39a83f441f0": {
+      "uuid": "cff79a89-12a1-43c2-afd1-e39a83f441f0",
+      "title": "Croissant with honey, nuts and grated cocoa",
+      "itemDescription": "150 g",
+      "price": 5900,
+      "nutritionalInfo": {
+        "displayString": "630 Cal."
+      },
+      "suspendUntil": 8640000000
+    },
+    "a1cd66af-6bf9-4900-9388-67b6a26d54b2": {
+      "uuid": "a1cd66af-6bf9-4900-9388-67b6a26d54b2",
+      "title": "Roll with fish nuggets",
+      "itemDescription": "Pita, fish nuggets, egg, flour, cucumber, lettuce, beets, onion, garlic, kimchi sauce. 260 g",
+      "price": 12700,
+      "nutritionalInfo": {
+        "displayString": "470 Cal."
+      }
+    },
+    "a0cb62c3-9ed6-4411-b598-59f96b75c3d6": {
+      "uuid": "a0cb62c3-9ed6-4411-b598-59f96b75c3d6",
+      "title": "Cottage cheese and coffee mousse with chia and cherry jam",
+      "itemDescription": "Cherry, cottage cheese, amaretto liqueur, chia, milk, coffee, sugar. 200 g",
+      "price": 4900,
+      "nutritionalInfo": {
+        "displayString": "324 Cal."
+      }
+    },
+    "641e3df5-00c8-4432-8c5c-c44e5b6237e7": {
+      "uuid": "641e3df5-00c8-4432-8c5c-c44e5b6237e7",
+      "title": "Orange Boost # 1",
+      "itemDescription": "Pumpkin, orange, parsnip, mint. 300g",
+      "price": 5800,
+      "nutritionalInfo": {
+        "displayString": "72 Cal."
+      }
+    }
+  }
 }

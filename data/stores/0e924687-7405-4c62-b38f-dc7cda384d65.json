@@ -25,329 +25,59 @@
   ],
   "sections": [
     {
-      "uuid": "1162579b-bffb-49ae-b175-5aad33b33394",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "648dd082-ee36-4c6a-bf80-91d88823b338",
-        "4cd34c2a-e5c0-410f-803c-b135bec5920e",
-        "1b4124d8-f095-4fa4-8851-f677c106e4a9",
-        "acaafa3e-fe50-404c-83b6-569c589c0ee4"
+      "uuid": "648dd082-ee36-4c6a-bf80-91d88823b338",
+      "title": "Burgers",
+      "itemUuids": [
+        "8cb3339c-297c-4d50-aa58-706fadbe83b5",
+        "2517a105-8216-47a5-a193-2a279b35dfad",
+        "cc11988b-986d-4df6-8a8c-d87ff15ef675",
+        "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
+        "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
+        "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
+        "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
+      ]
+    },
+    {
+      "uuid": "4cd34c2a-e5c0-410f-803c-b135bec5920e",
+      "title": "WOK Noodles",
+      "itemUuids": [
+        "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
+        "3b7251a8-97c8-4c43-964b-df6367532d1f",
+        "d7ffd128-1209-4149-a5ec-37046575fefa",
+        "59161214-d30d-4cd5-84f7-afa96d74a433",
+        "26dfc360-68ba-4736-ab89-15de7f41c905",
+        "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
+        "a64a84ae-8fa0-4ccf-af25-13b53c055767",
+        "066b749d-b5fb-4fdb-946b-19c84f609343",
+        "51958266-64ad-4c6d-8074-df9e8761ca14"
+      ]
+    },
+    {
+      "uuid": "1b4124d8-f095-4fa4-8851-f677c106e4a9",
+      "title": "Cofe",
+      "itemUuids": [
+        "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
+        "1aec275a-96c7-45ee-a4dd-811b91edc635",
+        "412cf43c-7bbf-4a88-9383-d77bb96c4590",
+        "8081ef16-53e1-4a21-afb6-fdc261584062",
+        "50282151-651e-451f-9f38-1d85209b7c26"
+      ]
+    },
+    {
+      "uuid": "acaafa3e-fe50-404c-83b6-569c589c0ee4",
+      "title": "Drinks",
+      "itemUuids": [
+        "b6622460-e448-4fcc-b9a9-ce19e874268d",
+        "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
+        "19bf3973-b540-4c0a-9049-7da1df146623",
+        "0ba0d913-9933-41e9-a305-3d128d94cd11",
+        "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
+        "92230b76-247e-4ddd-8f57-519337ddff94",
+        "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
+        "3a5379dc-14be-4f6f-895b-4d826d79d87b"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "1162579b-bffb-49ae-b175-5aad33b33394": {
-      "itemsMap": {
-        "a64a84ae-8fa0-4ccf-af25-13b53c055767": {
-          "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
-          "title": "Vegetable fried rice",
-          "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-          "price": 7300,
-          "customizationUuids": [
-            "19a21429-16e6-4538-afa7-27d1023ab491"
-          ]
-        },
-        "f645e9fe-758d-4521-ab0c-dc4b1749ffc5": {
-          "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
-          "title": "MATYA Burger",
-          "itemDescription": "Sesame bun, double beef cutlet, double bacon, double Chedder, fried egg, Coleslaw salad, drawn butter \nwith garlic, and «BBQ» sauce, and - handmade by Furgonet (XL-480g).\n",
-          "price": 29700
-        },
-        "cc11988b-986d-4df6-8a8c-d87ff15ef675": {
-          "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
-          "title": "Smoked Burger",
-          "itemDescription": "Sesame bun, beef cutlet with baked beacon, napa cabbage Kimchi, cream sauce with anchovy, and cilantro - handmade by Furgoneta (S-200g/XL-300g). Size to choose from.\n",
-          "price": 9700,
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
-          ]
-        },
-        "4d475860-3bbe-47f9-b18a-32a45c6a79ee": {
-          "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
-          "title": "Red Bull",
-          "itemDescription": "",
-          "price": 6900
-        },
-        "0ba0d913-9933-41e9-a305-3d128d94cd11": {
-          "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
-          "title": "Water",
-          "itemDescription": "500ml.",
-          "price": 3000
-        },
-        "26dfc360-68ba-4736-ab89-15de7f41c905": {
-          "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
-          "title": "Rice noodles with chicken",
-          "itemDescription": "Chinese rice noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n\n",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbea604f-b278-4e9e-8798-14cc8dc4eb47",
-          "customizationUuids": [
-            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-          ]
-        },
-        "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b": {
-          "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
-          "title": "Seasonal fruit drink",
-          "itemDescription": "500ml.",
-          "price": 4500
-        },
-        "51958266-64ad-4c6d-8074-df9e8761ca14": {
-          "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
-          "title": "Beef fried rice",
-          "itemDescription": "Rice, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-          "price": 11900,
-          "customizationUuids": [
-            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-          ]
-        },
-        "d7ffd128-1209-4149-a5ec-37046575fefa": {
-          "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
-          "title": "Egg noodles with beef",
-          "itemDescription": "Egg noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679",
-          "customizationUuids": [
-            "c6d85c27-b441-439b-9ef5-5fa046a9ab7d"
-          ]
-        },
-        "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348": {
-          "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
-          "title": "Burger with Grilled Lamb",
-          "itemDescription": "Sesame bun, lamb cutlet, sauce with Feta cheese and herbs, - handmade by Furgoneta, green and black olives, tomato slice, cucumber, and red onion (S-200g/XL-350g). Size to choose from.\n",
-          "price": 11300,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/577fed00-4682-48b2-a34b-c71270918c40",
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
-          ]
-        },
-        "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa": {
-          "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
-          "title": "Бургер Ківі",
-          "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
-          "price": 15900,
-          "nutritionalInfo": {},
-          "suspendUntil": 8640000000
-        },
-        "066b749d-b5fb-4fdb-946b-19c84f609343": {
-          "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
-          "title": "Chicken fried rice",
-          "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a7ce300-fc23-459c-8ede-5fbff9b2cffa",
-          "customizationUuids": [
-            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-          ]
-        },
-        "610aae91-b2c8-40ba-8e5a-b881c27c6de0": {
-          "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
-          "title": "Espresso",
-          "itemDescription": "",
-          "price": 2500,
-          "suspendUntil": 8640000000
-        },
-        "3a5379dc-14be-4f6f-895b-4d826d79d87b": {
-          "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
-          "title": "Fresh juice",
-          "itemDescription": "Flavor to choose",
-          "price": 1700,
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "e2415d09-ad5d-47bb-b18c-747ff6a14f4d"
-          ]
-        },
-        "92230b76-247e-4ddd-8f57-519337ddff94": {
-          "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
-          "title": "Evervess Tonic",
-          "itemDescription": "",
-          "price": 4200
-        },
-        "8cb3339c-297c-4d50-aa58-706fadbe83b5": {
-          "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
-          "title": "Grilled Chicken Burger",
-          "itemDescription": "Sesame seed bun, chicken breast, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce Sesame Tomato Sauce (S-200g/XL-300g). Size to choose from.\n",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bebdb3d4-5959-470b-9e01-5145958bfaed",
-          "customizationUuids": [
-            "76980b20-9035-40fa-846d-8783a6a947f5"
-          ]
-        },
-        "412cf43c-7bbf-4a88-9383-d77bb96c4590": {
-          "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
-          "title": "Americano with milk",
-          "itemDescription": "",
-          "price": 2700,
-          "suspendUntil": 8640000000
-        },
-        "1aec275a-96c7-45ee-a4dd-811b91edc635": {
-          "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
-          "title": "Americano",
-          "itemDescription": "",
-          "price": 2500,
-          "suspendUntil": 8640000000
-        },
-        "2517a105-8216-47a5-a193-2a279b35dfad": {
-          "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
-          "title": "Grilled Beef Burger",
-          "itemDescription": "Sesame seed bun, beef, bacon, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce BBQ (S-200g/XL-300g). Size to choose from.\n\n",
-          "price": 9700,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f5e3115-6858-48af-8dd3-7baed9271c2a",
-          "customizationUuids": [
-            "a8c16b79-1011-460c-9f71-5a52c44c60b0"
-          ]
-        },
-        "72b5af9e-ff79-4081-ba80-d7cdca5b0df4": {
-          "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
-          "title": "Egg noodles with vegetables",
-          "itemDescription": "Egg noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-          "price": 7900,
-          "customizationUuids": [
-            "ff18d7df-60b7-4f81-b242-dcb6628329da"
-          ]
-        },
-        "c0207e25-2bed-4526-890b-4f1ce62e8d4f": {
-          "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
-          "title": "Rice noodles with beef",
-          "itemDescription": "Chinese rice noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-          "price": 14700,
-          "customizationUuids": [
-            "30d19442-be44-4b71-ab6a-4a10696b106e"
-          ]
-        },
-        "59161214-d30d-4cd5-84f7-afa96d74a433": {
-          "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
-          "title": "Rice noodles with vegetables",
-          "itemDescription": "Chinese rice noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/ХL–450g). Size to choose from.\n",
-          "price": 9900,
-          "customizationUuids": [
-            "14bca678-62fe-46aa-9809-375051d6e513"
-          ]
-        },
-        "b6622460-e448-4fcc-b9a9-ce19e874268d": {
-          "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
-          "title": "Lemonade citrus-mango",
-          "itemDescription": "500ml.",
-          "price": 6000
-        },
-        "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3": {
-          "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
-          "title": "Vegetarian burger",
-          "itemDescription": "Steamed wheat bun, chickpea cutlet with green peas, spinach with light garlic aroma, handmade walnut sauce, hiyashi salad with chili and nut sauce, tofu, fresh cucumber, and fresh tomato (XL-320g).\n",
-          "price": 14900,
-          "suspendUntil": 8640000000,
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian ",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "8081ef16-53e1-4a21-afb6-fdc261584062": {
-          "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
-          "title": "Cappuccino",
-          "itemDescription": "",
-          "price": 3400,
-          "suspendUntil": 8640000000
-        },
-        "50282151-651e-451f-9f38-1d85209b7c26": {
-          "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
-          "title": "Latte",
-          "itemDescription": "",
-          "price": 3800,
-          "suspendUntil": 8640000000
-        },
-        "5610946a-f0d7-4ed6-8ace-e2d4205aaf14": {
-          "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
-          "title": "Borjomi",
-          "itemDescription": "300ml.",
-          "price": 4800
-        },
-        "3b7251a8-97c8-4c43-964b-df6367532d1f": {
-          "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
-          "title": "Egg noodles with chicken",
-          "itemDescription": "Egg noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
-          "price": 9700,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/65958e69-84e2-4183-88c0-e7e07c41f0b9",
-          "customizationUuids": [
-            "a8c16b79-1011-460c-9f71-5a52c44c60b0"
-          ]
-        },
-        "19bf3973-b540-4c0a-9049-7da1df146623": {
-          "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
-          "title": "Pepsi",
-          "itemDescription": "500ml.",
-          "price": 3000
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "648dd082-ee36-4c6a-bf80-91d88823b338",
-          "title": "Burgers",
-          "itemUuids": [
-            "8cb3339c-297c-4d50-aa58-706fadbe83b5",
-            "2517a105-8216-47a5-a193-2a279b35dfad",
-            "cc11988b-986d-4df6-8a8c-d87ff15ef675",
-            "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
-            "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
-            "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
-            "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa"
-          ]
-        },
-        {
-          "uuid": "4cd34c2a-e5c0-410f-803c-b135bec5920e",
-          "title": "WOK Noodles",
-          "itemUuids": [
-            "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
-            "3b7251a8-97c8-4c43-964b-df6367532d1f",
-            "d7ffd128-1209-4149-a5ec-37046575fefa",
-            "59161214-d30d-4cd5-84f7-afa96d74a433",
-            "26dfc360-68ba-4736-ab89-15de7f41c905",
-            "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
-            "a64a84ae-8fa0-4ccf-af25-13b53c055767",
-            "066b749d-b5fb-4fdb-946b-19c84f609343",
-            "51958266-64ad-4c6d-8074-df9e8761ca14"
-          ]
-        },
-        {
-          "uuid": "1b4124d8-f095-4fa4-8851-f677c106e4a9",
-          "title": "Cofe",
-          "itemUuids": [
-            "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
-            "1aec275a-96c7-45ee-a4dd-811b91edc635",
-            "412cf43c-7bbf-4a88-9383-d77bb96c4590",
-            "8081ef16-53e1-4a21-afb6-fdc261584062",
-            "50282151-651e-451f-9f38-1d85209b7c26"
-          ]
-        },
-        {
-          "uuid": "acaafa3e-fe50-404c-83b6-569c589c0ee4",
-          "title": "Drinks",
-          "itemUuids": [
-            "b6622460-e448-4fcc-b9a9-ce19e874268d",
-            "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
-            "19bf3973-b540-4c0a-9049-7da1df146623",
-            "0ba0d913-9933-41e9-a305-3d128d94cd11",
-            "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
-            "92230b76-247e-4ddd-8f57-519337ddff94",
-            "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
-            "3a5379dc-14be-4f6f-895b-4d826d79d87b"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.440267,
     "longitude": 30.523493,
@@ -386,5 +116,257 @@
     "storeRatingScore": 4.572192513368984,
     "ratingCount": "187"
   },
-  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg"
+  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg",
+  "items": {
+    "a64a84ae-8fa0-4ccf-af25-13b53c055767": {
+      "uuid": "a64a84ae-8fa0-4ccf-af25-13b53c055767",
+      "title": "Vegetable fried rice",
+      "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+      "price": 7300,
+      "customizationUuids": [
+        "19a21429-16e6-4538-afa7-27d1023ab491"
+      ]
+    },
+    "f645e9fe-758d-4521-ab0c-dc4b1749ffc5": {
+      "uuid": "f645e9fe-758d-4521-ab0c-dc4b1749ffc5",
+      "title": "MATYA Burger",
+      "itemDescription": "Sesame bun, double beef cutlet, double bacon, double Chedder, fried egg, Coleslaw salad, drawn butter \nwith garlic, and «BBQ» sauce, and - handmade by Furgonet (XL-480g).\n",
+      "price": 29700
+    },
+    "cc11988b-986d-4df6-8a8c-d87ff15ef675": {
+      "uuid": "cc11988b-986d-4df6-8a8c-d87ff15ef675",
+      "title": "Smoked Burger",
+      "itemDescription": "Sesame bun, beef cutlet with baked beacon, napa cabbage Kimchi, cream sauce with anchovy, and cilantro - handmade by Furgoneta (S-200g/XL-300g). Size to choose from.\n",
+      "price": 9700,
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
+      ]
+    },
+    "4d475860-3bbe-47f9-b18a-32a45c6a79ee": {
+      "uuid": "4d475860-3bbe-47f9-b18a-32a45c6a79ee",
+      "title": "Red Bull",
+      "itemDescription": "",
+      "price": 6900
+    },
+    "0ba0d913-9933-41e9-a305-3d128d94cd11": {
+      "uuid": "0ba0d913-9933-41e9-a305-3d128d94cd11",
+      "title": "Water",
+      "itemDescription": "500ml.",
+      "price": 3000
+    },
+    "26dfc360-68ba-4736-ab89-15de7f41c905": {
+      "uuid": "26dfc360-68ba-4736-ab89-15de7f41c905",
+      "title": "Rice noodles with chicken",
+      "itemDescription": "Chinese rice noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n\n",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbea604f-b278-4e9e-8798-14cc8dc4eb47",
+      "customizationUuids": [
+        "ff18d7df-60b7-4f81-b242-dcb6628329da"
+      ]
+    },
+    "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b": {
+      "uuid": "75cc9fbf-b4e8-46d4-bf48-3f39e1f58c0b",
+      "title": "Seasonal fruit drink",
+      "itemDescription": "500ml.",
+      "price": 4500
+    },
+    "51958266-64ad-4c6d-8074-df9e8761ca14": {
+      "uuid": "51958266-64ad-4c6d-8074-df9e8761ca14",
+      "title": "Beef fried rice",
+      "itemDescription": "Rice, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+      "price": 11900,
+      "customizationUuids": [
+        "ff18d7df-60b7-4f81-b242-dcb6628329da"
+      ]
+    },
+    "d7ffd128-1209-4149-a5ec-37046575fefa": {
+      "uuid": "d7ffd128-1209-4149-a5ec-37046575fefa",
+      "title": "Egg noodles with beef",
+      "itemDescription": "Egg noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n\n",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d53efe3b-fa12-40eb-bdd9-1c8d14fb0679",
+      "customizationUuids": [
+        "c6d85c27-b441-439b-9ef5-5fa046a9ab7d"
+      ]
+    },
+    "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348": {
+      "uuid": "3d5c350a-5c21-49f4-9bfc-ff2e2a0a7348",
+      "title": "Burger with Grilled Lamb",
+      "itemDescription": "Sesame bun, lamb cutlet, sauce with Feta cheese and herbs, - handmade by Furgoneta, green and black olives, tomato slice, cucumber, and red onion (S-200g/XL-350g). Size to choose from.\n",
+      "price": 11300,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/577fed00-4682-48b2-a34b-c71270918c40",
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "d70f6e3c-3dcb-4ea5-b98d-14b83da81354"
+      ]
+    },
+    "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa": {
+      "uuid": "79122ed4-d9d8-4bbb-9ca8-1f426cb4ccfa",
+      "title": "Бургер Ківі",
+      "itemDescription": "Булочка з кунжутом, соковита котлета з яловичини вищого гатунку, айсберг,ананас, огірок свіжий, топлене масло з часником, фірмовий соус «Теріякі» - handmade by Furgoneta",
+      "price": 15900,
+      "nutritionalInfo": {},
+      "suspendUntil": 8640000000
+    },
+    "066b749d-b5fb-4fdb-946b-19c84f609343": {
+      "uuid": "066b749d-b5fb-4fdb-946b-19c84f609343",
+      "title": "Chicken fried rice",
+      "itemDescription": "Rice, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a7ce300-fc23-459c-8ede-5fbff9b2cffa",
+      "customizationUuids": [
+        "ff18d7df-60b7-4f81-b242-dcb6628329da"
+      ]
+    },
+    "610aae91-b2c8-40ba-8e5a-b881c27c6de0": {
+      "uuid": "610aae91-b2c8-40ba-8e5a-b881c27c6de0",
+      "title": "Espresso",
+      "itemDescription": "",
+      "price": 2500,
+      "suspendUntil": 8640000000
+    },
+    "3a5379dc-14be-4f6f-895b-4d826d79d87b": {
+      "uuid": "3a5379dc-14be-4f6f-895b-4d826d79d87b",
+      "title": "Fresh juice",
+      "itemDescription": "Flavor to choose",
+      "price": 1700,
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "e2415d09-ad5d-47bb-b18c-747ff6a14f4d"
+      ]
+    },
+    "92230b76-247e-4ddd-8f57-519337ddff94": {
+      "uuid": "92230b76-247e-4ddd-8f57-519337ddff94",
+      "title": "Evervess Tonic",
+      "itemDescription": "",
+      "price": 4200
+    },
+    "8cb3339c-297c-4d50-aa58-706fadbe83b5": {
+      "uuid": "8cb3339c-297c-4d50-aa58-706fadbe83b5",
+      "title": "Grilled Chicken Burger",
+      "itemDescription": "Sesame seed bun, chicken breast, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce Sesame Tomato Sauce (S-200g/XL-300g). Size to choose from.\n",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bebdb3d4-5959-470b-9e01-5145958bfaed",
+      "customizationUuids": [
+        "76980b20-9035-40fa-846d-8783a6a947f5"
+      ]
+    },
+    "412cf43c-7bbf-4a88-9383-d77bb96c4590": {
+      "uuid": "412cf43c-7bbf-4a88-9383-d77bb96c4590",
+      "title": "Americano with milk",
+      "itemDescription": "",
+      "price": 2700,
+      "suspendUntil": 8640000000
+    },
+    "1aec275a-96c7-45ee-a4dd-811b91edc635": {
+      "uuid": "1aec275a-96c7-45ee-a4dd-811b91edc635",
+      "title": "Americano",
+      "itemDescription": "",
+      "price": 2500,
+      "suspendUntil": 8640000000
+    },
+    "2517a105-8216-47a5-a193-2a279b35dfad": {
+      "uuid": "2517a105-8216-47a5-a193-2a279b35dfad",
+      "title": "Grilled Beef Burger",
+      "itemDescription": "Sesame seed bun, beef, bacon, Cheddar, brand salad Cole Slaw, special «Creamy garlic sauce», and special sauce BBQ (S-200g/XL-300g). Size to choose from.\n\n",
+      "price": 9700,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f5e3115-6858-48af-8dd3-7baed9271c2a",
+      "customizationUuids": [
+        "a8c16b79-1011-460c-9f71-5a52c44c60b0"
+      ]
+    },
+    "72b5af9e-ff79-4081-ba80-d7cdca5b0df4": {
+      "uuid": "72b5af9e-ff79-4081-ba80-d7cdca5b0df4",
+      "title": "Egg noodles with vegetables",
+      "itemDescription": "Egg noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+      "price": 7900,
+      "customizationUuids": [
+        "ff18d7df-60b7-4f81-b242-dcb6628329da"
+      ]
+    },
+    "c0207e25-2bed-4526-890b-4f1ce62e8d4f": {
+      "uuid": "c0207e25-2bed-4526-890b-4f1ce62e8d4f",
+      "title": "Rice noodles with beef",
+      "itemDescription": "Chinese rice noodles, beef, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+      "price": 14700,
+      "customizationUuids": [
+        "30d19442-be44-4b71-ab6a-4a10696b106e"
+      ]
+    },
+    "59161214-d30d-4cd5-84f7-afa96d74a433": {
+      "uuid": "59161214-d30d-4cd5-84f7-afa96d74a433",
+      "title": "Rice noodles with vegetables",
+      "itemDescription": "Chinese rice noodles, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/ХL–450g). Size to choose from.\n",
+      "price": 9900,
+      "customizationUuids": [
+        "14bca678-62fe-46aa-9809-375051d6e513"
+      ]
+    },
+    "b6622460-e448-4fcc-b9a9-ce19e874268d": {
+      "uuid": "b6622460-e448-4fcc-b9a9-ce19e874268d",
+      "title": "Lemonade citrus-mango",
+      "itemDescription": "500ml.",
+      "price": 6000
+    },
+    "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3": {
+      "uuid": "4d56bc86-dd9a-41f9-b2f6-ed224258d5f3",
+      "title": "Vegetarian burger",
+      "itemDescription": "Steamed wheat bun, chickpea cutlet with green peas, spinach with light garlic aroma, handmade walnut sauce, hiyashi salad with chili and nut sauce, tofu, fresh cucumber, and fresh tomato (XL-320g).\n",
+      "price": 14900,
+      "suspendUntil": 8640000000,
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian ",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "8081ef16-53e1-4a21-afb6-fdc261584062": {
+      "uuid": "8081ef16-53e1-4a21-afb6-fdc261584062",
+      "title": "Cappuccino",
+      "itemDescription": "",
+      "price": 3400,
+      "suspendUntil": 8640000000
+    },
+    "50282151-651e-451f-9f38-1d85209b7c26": {
+      "uuid": "50282151-651e-451f-9f38-1d85209b7c26",
+      "title": "Latte",
+      "itemDescription": "",
+      "price": 3800,
+      "suspendUntil": 8640000000
+    },
+    "5610946a-f0d7-4ed6-8ace-e2d4205aaf14": {
+      "uuid": "5610946a-f0d7-4ed6-8ace-e2d4205aaf14",
+      "title": "Borjomi",
+      "itemDescription": "300ml.",
+      "price": 4800
+    },
+    "3b7251a8-97c8-4c43-964b-df6367532d1f": {
+      "uuid": "3b7251a8-97c8-4c43-964b-df6367532d1f",
+      "title": "Egg noodles with chicken",
+      "itemDescription": "Egg noodles, chicken filet, chicken egg, onion, carrot, napa cabbage, broccoli, cauliflower, asparagus bean, garlic mash, sesame seed, sauce handmade by Furgoneta, scallion, and peanut (S-225g/XL-450g). Size to choose from.\n\n",
+      "price": 9700,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/65958e69-84e2-4183-88c0-e7e07c41f0b9",
+      "customizationUuids": [
+        "a8c16b79-1011-460c-9f71-5a52c44c60b0"
+      ]
+    },
+    "19bf3973-b540-4c0a-9049-7da1df146623": {
+      "uuid": "19bf3973-b540-4c0a-9049-7da1df146623",
+      "title": "Pepsi",
+      "itemDescription": "500ml.",
+      "price": 3000
+    }
+  }
 }

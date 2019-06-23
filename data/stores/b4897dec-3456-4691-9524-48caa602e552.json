@@ -15,961 +15,110 @@
   ],
   "sections": [
     {
-      "uuid": "3cfc2c76-fdac-46c2-908d-465584f23d24",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 9:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "5a6ff282-b8a9-46c0-a74d-c0be6b5bdcdb",
-        "621e8a3c-3978-47b9-be3a-99d9fd520cc5",
-        "7c685d62-8b27-4593-b196-dced4567be3f",
-        "140b8206-77ec-4bce-99cb-0b80b2180826",
-        "1ec6baad-e113-41e4-bf1f-e758644b9e49",
-        "ad8d0e5c-6d8f-4672-8287-7ee801a683a2",
-        "e5228bd6-a0cb-4e40-bbc7-471a85c6c48d"
+      "uuid": "5a6ff282-b8a9-46c0-a74d-c0be6b5bdcdb",
+      "title": "Popular",
+      "subtitle": "",
+      "itemUuids": [
+        "49dcc293-fb0b-4193-affc-d2e117507ebc",
+        "eaf59a2e-a426-4bea-b691-e5d6d993ad1e",
+        "44155373-5605-4ed2-b084-d1b231265801",
+        "fff44155-03aa-43af-844d-3a25f8b808bc",
+        "495065e2-afa6-4659-8771-37e01c903ae9",
+        "8531040b-7966-4f86-bb28-46be91c55fed",
+        "73c819ae-9c98-40be-9640-89bf8c5ee563",
+        "41057f70-e140-4136-a70f-3aed6ac7a287",
+        "cfaca2b5-9f79-47c2-b484-490e0a8f9f58",
+        "8b6529e8-3f67-4259-b830-a3e0058d41e6"
+      ]
+    },
+    {
+      "uuid": "621e8a3c-3978-47b9-be3a-99d9fd520cc5",
+      "title": "WOK with noodles XL",
+      "subtitle": "",
+      "itemUuids": [
+        "51dd7a29-2918-4c18-97e0-a35a4f974039",
+        "5abe04c3-14fc-44d5-806a-43db7649849c",
+        "44155373-5605-4ed2-b084-d1b231265801",
+        "4c39e491-98b9-42ba-a806-e775e194c2f1",
+        "50a16a08-7692-4d6d-a343-dcde6d757d79",
+        "fcb9595c-c7a9-4068-9f5d-274e17f26d39",
+        "fff44155-03aa-43af-844d-3a25f8b808bc",
+        "0ed4be49-137a-402c-ba1f-27e1468e7372",
+        "fdffe478-2404-4199-b784-4c8ebcfe17d9",
+        "66309d8f-dc10-4de1-bb76-52b995cccb97",
+        "74bdc800-ec11-4d56-996c-59c2a3ca375d",
+        "49dcc293-fb0b-4193-affc-d2e117507ebc",
+        "eaf59a2e-a426-4bea-b691-e5d6d993ad1e",
+        "7b0a8769-a795-4725-b71e-12a71b0c536c"
+      ]
+    },
+    {
+      "uuid": "7c685d62-8b27-4593-b196-dced4567be3f",
+      "title": "Soups",
+      "subtitle": "",
+      "itemUuids": [
+        "a53e4611-e374-4813-88fe-883147d6dcef",
+        "21222bc5-e16c-46c9-a5b9-43f323c7c979",
+        "4d5e9c80-ebe8-4ed4-be8d-62e38946d9c8",
+        "0e5739be-483c-4797-8f83-c50fedae9596",
+        "4dc560cd-bd59-4dd7-ac7d-a6fbdfd1366f",
+        "c783915b-df7a-4a0f-b1a6-34c62708a40b",
+        "8531040b-7966-4f86-bb28-46be91c55fed",
+        "2eedf27a-fa24-4661-8907-cdc32afd03fa",
+        "e4081c82-7dd2-43fd-a43a-1614f23fee14",
+        "15ecf8e9-99af-45eb-9ec0-c115fc0f8f5a",
+        "73c819ae-9c98-40be-9640-89bf8c5ee563",
+        "81dfc97f-1e31-4bc3-94f9-cf130d9a8b39"
+      ]
+    },
+    {
+      "uuid": "140b8206-77ec-4bce-99cb-0b80b2180826",
+      "title": "Fried dumplings Gedza",
+      "subtitle": "",
+      "itemUuids": [
+        "dcd60a46-099e-404a-8b4a-d4c38b1cb0f7",
+        "41057f70-e140-4136-a70f-3aed6ac7a287",
+        "e1279e63-173f-4c4a-961d-b79176de34b7",
+        "2a9cf0b3-eca4-42bd-9f69-18edc6119a8c"
+      ]
+    },
+    {
+      "uuid": "1ec6baad-e113-41e4-bf1f-e758644b9e49",
+      "title": "Salads",
+      "subtitle": "",
+      "itemUuids": [
+        "cfaca2b5-9f79-47c2-b484-490e0a8f9f58",
+        "67ce732a-c0ca-4772-9353-b4dd1e3ec0a8",
+        "5b7e2c8c-afe4-42e0-980b-c3c50b6cf124",
+        "c07243f2-5a69-4f9a-a980-95a198360097",
+        "9ff48b2f-a979-4531-a366-714abd7ddcae",
+        "828f675c-e2cb-4a3b-8f00-08fb7190e054"
+      ]
+    },
+    {
+      "uuid": "ad8d0e5c-6d8f-4672-8287-7ee801a683a2",
+      "title": "Stir frying rice",
+      "subtitle": "",
+      "itemUuids": [
+        "495065e2-afa6-4659-8771-37e01c903ae9",
+        "439d62d7-f681-4e2a-a8fc-13c49064da77",
+        "ae3471ce-3eb4-4d58-b501-3e908245a161",
+        "3adfeda6-75e4-4bb9-984b-ef572c49c625",
+        "918469b8-94e9-4be2-8599-ed3e5e9b8b7c"
+      ]
+    },
+    {
+      "uuid": "e5228bd6-a0cb-4e40-bbc7-471a85c6c48d",
+      "title": "Beverages",
+      "subtitle": "",
+      "itemUuids": [
+        "8b6529e8-3f67-4259-b830-a3e0058d41e6",
+        "8fd8d7b9-e3b7-471d-8153-6e4f0df7a745",
+        "95eeb956-495c-4bf7-bc88-e3c71b200656",
+        "531315a5-6908-4e5b-91b3-a9c9c29214b4"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "3cfc2c76-fdac-46c2-908d-465584f23d24": {
-      "itemsMap": {
-        "50a16a08-7692-4d6d-a343-dcde6d757d79": {
-          "uuid": "50a16a08-7692-4d6d-a343-dcde6d757d79",
-          "title": "Seafood with vegetables in Teriyaki sauce",
-          "itemDescription": "400g. Sweetish taste. Shrimps, squid, pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
-          "price": 11000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa4c3a29-1407-4310-b95d-5235d5309c39",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "918469b8-94e9-4be2-8599-ed3e5e9b8b7c": {
-          "uuid": "918469b8-94e9-4be2-8599-ed3e5e9b8b7c",
-          "title": "Fried rice with vegetables",
-          "itemDescription": "450g. Basmati rice fried in soy sauce with broccoli, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
-          "price": 7500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/61807a79-e979-4ce8-a92b-5998059b6d2b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "531315a5-6908-4e5b-91b3-a9c9c29214b4": {
-          "uuid": "531315a5-6908-4e5b-91b3-a9c9c29214b4",
-          "title": "Aqua Minerale",
-          "itemDescription": "500 ml, without gas",
-          "price": 2900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f2e5ddf-d61a-44e2-a0f0-9b56b2bfb371",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "15ecf8e9-99af-45eb-9ec0-c115fc0f8f5a": {
-          "uuid": "15ecf8e9-99af-45eb-9ec0-c115fc0f8f5a",
-          "title": "Noodle Soup with Chicken’s dumplings",
-          "itemDescription": "450g. Soup with egg noodles, Gedza dumplings with chicken, egg, shiitake mushrooms, mushroom, green onions, spinach, nori, sesame.",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/39bc0bdb-c21d-4d65-848a-7676e395d43c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "67ce732a-c0ca-4772-9353-b4dd1e3ec0a8": {
-          "uuid": "67ce732a-c0ca-4772-9353-b4dd1e3ec0a8",
-          "title": "Vegetable salad",
-          "itemDescription": "230g. Mixed salad, pea chickpeas, carrots, mushroom, shiitake mushroom, tomato, cucumber, sesame.",
-          "price": 6500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e56e9aa-7f59-4cad-bb62-177b677ac0ed",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fdffe478-2404-4199-b784-4c8ebcfe17d9": {
-          "uuid": "fdffe478-2404-4199-b784-4c8ebcfe17d9",
-          "title": "Beef with vegetables in Sichuan sauce",
-          "itemDescription": "350g. The aftertaste of hot pepper. Corn-mini, string beans, onion, Bulgarian pepper, wood mushroom, carrots, Szechuan pepper.",
-          "price": 7400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6f22ecd-a221-4b95-b719-037e2f353f9a",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "203ee641-81a1-4a25-9e18-bf814301ea18",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "8fd8d7b9-e3b7-471d-8153-6e4f0df7a745": {
-          "uuid": "8fd8d7b9-e3b7-471d-8153-6e4f0df7a745",
-          "title": "Pepsi",
-          "itemDescription": "330 ml",
-          "price": 2900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b3af7fe-ed42-4f90-be55-50964783529c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "cfaca2b5-9f79-47c2-b484-490e0a8f9f58": {
-          "uuid": "cfaca2b5-9f79-47c2-b484-490e0a8f9f58",
-          "title": "Hiashi algae with vegetables",
-          "itemDescription": "220g. Hiashi, carrots, cucumber, walnut sauce, sesame. ",
-          "price": 6500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9c6c99d-8b01-49ef-96bb-b24a0e9429fb",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "e4081c82-7dd2-43fd-a43a-1614f23fee14": {
-          "uuid": "e4081c82-7dd2-43fd-a43a-1614f23fee14",
-          "title": "Noodle Soup Udon",
-          "itemDescription": "500g. Bouillon, chicken, crab meat, rice noodles, egg, shiitake mushrooms, nori, green onions, sesame seeds.",
-          "price": 9500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d97f70a1-7f69-4f0b-b16c-0b3e1d7a33f7",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "41057f70-e140-4136-a70f-3aed6ac7a287": {
-          "uuid": "41057f70-e140-4136-a70f-3aed6ac7a287",
-          "title": "Fried dumplings with chicken",
-          "itemDescription": "130g. Fried Gedza dumplings with chicken, Teriyaki sauce, pea shoots.",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/3128973e-cc43-413c-baae-74286c13e0de",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "8b6529e8-3f67-4259-b830-a3e0058d41e6": {
-          "uuid": "8b6529e8-3f67-4259-b830-a3e0058d41e6",
-          "title": "Lemonade Mango",
-          "itemDescription": "250ml. Seven ap, syrup, mango",
-          "price": 3900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7638fa28-496d-4892-9b32-67b7250c050c",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "3adfeda6-75e4-4bb9-984b-ef572c49c625": {
-          "uuid": "3adfeda6-75e4-4bb9-984b-ef572c49c625",
-          "title": "Fried rice with shrimps and vegetables",
-          "itemDescription": "450g. Basmati rice fried in soy sauce with shrimps, eggi, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f786fe09-0b7e-4745-857a-dd8b8b969a41",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ae3471ce-3eb4-4d58-b501-3e908245a161": {
-          "uuid": "ae3471ce-3eb4-4d58-b501-3e908245a161",
-          "title": "Fried rice with beef and vegetables",
-          "itemDescription": "450g. Basmati rice fried in soy sauce with beef, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f7222c0a-89de-4710-b85f-036025fae8a2",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "dcd60a46-099e-404a-8b4a-d4c38b1cb0f7": {
-          "uuid": "dcd60a46-099e-404a-8b4a-d4c38b1cb0f7",
-          "title": "Fried dumplings with shrimps",
-          "itemDescription": "130g. Fried Gedza dumplings with shrimps, Teriyaki sauce, pea shoots.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/ceac66a4-eb95-4c21-ba1c-70378911801d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "81dfc97f-1e31-4bc3-94f9-cf130d9a8b39": {
-          "uuid": "81dfc97f-1e31-4bc3-94f9-cf130d9a8b39",
-          "title": "Noodle Tom Yam Soup with chicken",
-          "itemDescription": "400g. Spicy coconut curry soup with bean noodles, chicken, mushrooms, shiitake mushrooms, corn, peas.",
-          "price": 10500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b81f01-bd9b-4ea0-8027-8b952c4d9075",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "9ff48b2f-a979-4531-a366-714abd7ddcae": {
-          "uuid": "9ff48b2f-a979-4531-a366-714abd7ddcae",
-          "title": "Salad with mango, avocado, and chicken",
-          "itemDescription": "270g. Mixed salads, pea chickpeas, carrots, mushrooms, cucumber, avocado (30 gr), mango (30 gr), chicken.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4740c47e-3f5f-4090-b810-630f06ce6a9f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "828f675c-e2cb-4a3b-8f00-08fb7190e054": {
-          "uuid": "828f675c-e2cb-4a3b-8f00-08fb7190e054",
-          "title": "Salad with mango, avocado, and noodles",
-          "itemDescription": "210g. Mixed salads, pea chickpeas, carrots, mushrooms, cucumber, avocado (40 gr), mango (40 gr), noodles, peanuts.",
-          "price": 8900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/82fde324-b61e-4674-bb92-d768aa17eb5d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian ",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "44155373-5605-4ed2-b084-d1b231265801": {
-          "uuid": "44155373-5605-4ed2-b084-d1b231265801",
-          "title": "Duck with vegetables in Kim Chi sauce",
-          "itemDescription": "300g. Spicy pungent taste with a sweet and sour aftertaste. Carrots, peppers, shiitake mushrooms, pea chickpeas, onions.",
-          "price": 9000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb568d7e-c1ed-4820-9981-e73e1c14d838",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "7761601a-5ffa-442f-96c0-a35313f79ce9",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "fff44155-03aa-43af-844d-3a25f8b808bc": {
-          "uuid": "fff44155-03aa-43af-844d-3a25f8b808bc",
-          "title": "Beef with vegetables in Teriyaki sauce",
-          "itemDescription": "390g. Slightish aftertaste. Corn-mini, string beans, onion, bell pepper, mushroom, shiitake mushroom.",
-          "price": 9400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a118cfcf-a54c-40a5-a9f7-133fd5ad7d1d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "203ee641-81a1-4a25-9e18-bf814301ea18",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "21222bc5-e16c-46c9-a5b9-43f323c7c979": {
-          "uuid": "21222bc5-e16c-46c9-a5b9-43f323c7c979",
-          "title": "Noodle Soup with noodles and duck",
-          "itemDescription": "450g. Spicy soup with egg noodles, duck, eggs, shiitake mushrooms, spinach. ",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/12d3c996-aae8-44a9-88ce-3d47babe4c89",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0e5739be-483c-4797-8f83-c50fedae9596": {
-          "uuid": "0e5739be-483c-4797-8f83-c50fedae9596",
-          "title": "Miso soup with seafood",
-          "itemDescription": "450g. Miso soup with bean noodles, shrimps, squid, shiitake mushrooms, tree mushrooms, corn, spinach, wakame, sesame.",
-          "price": 11900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf43ca0f-2d13-4715-bdbd-ccba5df482ba",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "0ed4be49-137a-402c-ba1f-27e1468e7372": {
-          "uuid": "0ed4be49-137a-402c-ba1f-27e1468e7372",
-          "title": "Beef with vegetables in Black Pepper sauce",
-          "itemDescription": "390g. Pungent taste. Bulgarian pepper, corn-mini, carrots, green beans, mushroom, onions.",
-          "price": 7400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/82701b35-4b6b-4983-83ba-2f1817f0c674",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "203ee641-81a1-4a25-9e18-bf814301ea18",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "a53e4611-e374-4813-88fe-883147d6dcef": {
-          "uuid": "a53e4611-e374-4813-88fe-883147d6dcef",
-          "title": "Noodle Soup with noodles and chicken",
-          "itemDescription": "450g. Spicy soup with egg noodles, chicken, eggs, shiitake mushrooms, spinach, nori.",
-          "price": 8500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f6f20285-0d08-4545-97ef-5964d3ec5c72",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fcb9595c-c7a9-4068-9f5d-274e17f26d39": {
-          "uuid": "fcb9595c-c7a9-4068-9f5d-274e17f26d39",
-          "title": "Seafood with vegetables in Kung Pao sauce",
-          "itemDescription": "400g. Spicy with a faintly tasted taste. Shrimps, squid, corn-mini, Bulgarian pepper, chili, onion, mushroom, string beans.",
-          "price": 10400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/068e9668-a712-4c2e-999f-23477e5284b1",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "c07243f2-5a69-4f9a-a980-95a198360097": {
-          "uuid": "c07243f2-5a69-4f9a-a980-95a198360097",
-          "title": "Crab's salad ",
-          "itemDescription": "240g. Mixed salad, carrots, cucumber, mushrooms, crab meat, walnut sauce, sesame seeds.",
-          "price": 8500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/f26df043-ff5b-43db-885b-f0201595ff90",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "eaf59a2e-a426-4bea-b691-e5d6d993ad1e": {
-          "uuid": "eaf59a2e-a426-4bea-b691-e5d6d993ad1e",
-          "title": "Chicken with vegetables in Teriyaki sauce",
-          "itemDescription": "360g. Sweetish taste. Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
-          "price": 6400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/4a33840c-8029-4b97-b120-81ae3bb36746",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "49dcc293-fb0b-4193-affc-d2e117507ebc": {
-          "uuid": "49dcc293-fb0b-4193-affc-d2e117507ebc",
-          "title": "Chicken with vegetables in Kung Pao sauce",
-          "itemDescription": "350g. Spicy with sweet taste. Red bell pepper, green haricot, chili, peanut, green onion. ",
-          "price": 4000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/548acc76-99dc-45f8-8ab8-e6684bfe1bed",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "e1279e63-173f-4c4a-961d-b79176de34b7": {
-          "uuid": "e1279e63-173f-4c4a-961d-b79176de34b7",
-          "title": "Fried dumplings with beef",
-          "itemDescription": "130g. Fried Gedza dumplings with beef, Teriyaki sauce, pea shoots.",
-          "price": 5900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c290b7ea-6ab9-44dc-a0ae-8ffee21cc289",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "73c819ae-9c98-40be-9640-89bf8c5ee563": {
-          "uuid": "73c819ae-9c98-40be-9640-89bf8c5ee563",
-          "title": "Noodle Tom Yam Soup with seafood",
-          "itemDescription": "400g. Spicy coconut curry soup with bean noodles, shrimps, squid, mushrooms, shiitake mushrooms, corn, peas.",
-          "price": 13900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a987ca36-78f6-43bb-95c1-f3c711b7e13d",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "74bdc800-ec11-4d56-996c-59c2a3ca375d": {
-          "uuid": "74bdc800-ec11-4d56-996c-59c2a3ca375d",
-          "title": "Chicken with vegetables in oyster sauce",
-          "itemDescription": "390g. Spicy taste with a sweet and sour aftertaste. Broccoli, corn-mini, carrots, champignon mushrooms, shiitake, Bulgarian pepper.",
-          "price": 6000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/36ce67f2-d4af-42a2-8f5b-cb00d74826c0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "2a9cf0b3-eca4-42bd-9f69-18edc6119a8c": {
-          "uuid": "2a9cf0b3-eca4-42bd-9f69-18edc6119a8c",
-          "title": "Fried dumplings with duck",
-          "itemDescription": "130g. Fried Gedza dumplings with duck, Teriyaki sauce, pea shoots.",
-          "price": 6900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "4c39e491-98b9-42ba-a806-e775e194c2f1": {
-          "uuid": "4c39e491-98b9-42ba-a806-e775e194c2f1",
-          "title": "Shrimps with vegetables in Teriyaki sauce",
-          "itemDescription": "350g. Sweetish taste.Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
-          "price": 10000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8afb431-42b2-4a5c-8995-f70f5939a193",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7761601a-5ffa-442f-96c0-a35313f79ce9",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "51dd7a29-2918-4c18-97e0-a35a4f974039": {
-          "uuid": "51dd7a29-2918-4c18-97e0-a35a4f974039",
-          "title": "Vegetables in Teriyaki sauce",
-          "itemDescription": "390g. Mix of vegetables: Bulgarian pepper, corn-mini, mushrooms champignons, carrots, broccoli, onions.",
-          "price": 4400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/feb44b0f-ff64-4753-829f-4b43ea95462e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7"
-          ]
-        },
-        "c783915b-df7a-4a0f-b1a6-34c62708a40b": {
-          "uuid": "c783915b-df7a-4a0f-b1a6-34c62708a40b",
-          "title": "Miso soup with chicken",
-          "itemDescription": "450g. Miso soup with bean noodles, chicken, shiitake mushrooms, mushrooms, corn, spinach, wakame, sesame seeds.",
-          "price": 8500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfcf83e1-d478-47ec-85fd-24757621b2c9",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "95eeb956-495c-4bf7-bc88-e3c71b200656": {
-          "uuid": "95eeb956-495c-4bf7-bc88-e3c71b200656",
-          "title": "Lemonade Grenadine",
-          "itemDescription": "250ml. Seven up, syrup",
-          "price": 3900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/432cd324-73b3-4793-a328-61b118c56efc",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "66309d8f-dc10-4de1-bb76-52b995cccb97": {
-          "uuid": "66309d8f-dc10-4de1-bb76-52b995cccb97",
-          "title": "Beef with vegetables in Kim Chi sauce",
-          "itemDescription": "300g. Spicy pungent taste with a sweet and sour aftertaste. Carrots, peppers, shiitake mushrooms, pea chickpeas, onions.",
-          "price": 8000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/a38383d3-e647-4314-8dda-3a5ce12f113e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          },
-          "customizationUuids": [
-            "7761601a-5ffa-442f-96c0-a35313f79ce9",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "5abe04c3-14fc-44d5-806a-43db7649849c": {
-          "uuid": "5abe04c3-14fc-44d5-806a-43db7649849c",
-          "title": "Duck with vegetables in Teriyaki sauce",
-          "itemDescription": "350g. Sweetish taste. Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
-          "price": 10000,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b82a879-ffb8-48b8-b910-1e0d4ac86b03",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "7761601a-5ffa-442f-96c0-a35313f79ce9",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "2eedf27a-fa24-4661-8907-cdc32afd03fa": {
-          "uuid": "2eedf27a-fa24-4661-8907-cdc32afd03fa",
-          "title": "Coconut Noodle Soup with shrimps",
-          "itemDescription": "400g. Coconut soup with spicy curry paste, bean noodles, shrimps, mushrooms, shiitake mushrooms, tomato and spinach. ",
-          "price": 11500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1caed304-08ba-4891-b2be-c2ec571f4922",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "7b0a8769-a795-4725-b71e-12a71b0c536c": {
-          "uuid": "7b0a8769-a795-4725-b71e-12a71b0c536c",
-          "title": "Chicken with vegetables in spicy mushroom sauce",
-          "itemDescription": "390g. Pungent taste. Bulgarian pepper, corn-mini, carrots, green beans, mushroom, onions.",
-          "price": 5400,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7041695a-aa42-4a58-b8a7-608457114807",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "203ee641-81a1-4a25-9e18-bf814301ea18",
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "439d62d7-f681-4e2a-a8fc-13c49064da77": {
-          "uuid": "439d62d7-f681-4e2a-a8fc-13c49064da77",
-          "title": "Fried rice with duck and vegetables",
-          "itemDescription": "450g. Basmati rice fried in soy sauce with duck, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
-          "price": 13500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9da1b06-dbd0-428a-8dc8-37a9af265043",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "8531040b-7966-4f86-bb28-46be91c55fed": {
-          "uuid": "8531040b-7966-4f86-bb28-46be91c55fed",
-          "title": "Coconut Noodle Soup with chicken",
-          "itemDescription": "400g. Coconut soup with spicy curry paste, bean noodles, chicken, mushroom, shiitake mushrooms, tomatoes, spinach. ",
-          "price": 9500,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9479820-6902-47ec-9a60-bc0c3ef3f5bd",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-            "text": "🌶Spicy",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "5b7e2c8c-afe4-42e0-980b-c3c50b6cf124": {
-          "uuid": "5b7e2c8c-afe4-42e0-980b-c3c50b6cf124",
-          "title": "Salad NoodlesCaesar with chicken",
-          "itemDescription": "330g. Mixed salad, chicken, tomatoes, parmesan, eggs, croutons, Caesar dressing.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b99eeeb2-73e9-4519-bde9-b5f0a1a8166e",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "495065e2-afa6-4659-8771-37e01c903ae9": {
-          "uuid": "495065e2-afa6-4659-8771-37e01c903ae9",
-          "title": "Fried rice with chicken and vegetables",
-          "itemDescription": "450g. Basmati rice fried in soy sauce with chicken, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
-          "price": 9900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fb3fdfe-9b17-4d94-8422-d1fabd7173f5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
-          ]
-        },
-        "4dc560cd-bd59-4dd7-ac7d-a6fbdfd1366f": {
-          "uuid": "4dc560cd-bd59-4dd7-ac7d-a6fbdfd1366f",
-          "title": "Miso soup with vegetables",
-          "itemDescription": "400g. Miso soup with bean noodles, shiitake mushrooms, mushrooms, corn, spinach, wakame, sesame seeds.",
-          "price": 7900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d55ed2d-beaf-43f5-9599-5bdc8c61cd06",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "endorsement": {
-            "backgroundColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconColor": {
-              "alpha": 1,
-              "color": "59BD5A"
-            },
-            "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-            "text": "Vegetarian ",
-            "textColor": {
-              "alpha": 1,
-              "color": "FFFFFF"
-            }
-          }
-        },
-        "4d5e9c80-ebe8-4ed4-be8d-62e38946d9c8": {
-          "uuid": "4d5e9c80-ebe8-4ed4-be8d-62e38946d9c8",
-          "title": "Noodle Soup with noodles and seafood",
-          "itemDescription": "450g. Spicy soup with egg noodles, shrimps, squid, eggs, shiitake mushrooms, spinach. ",
-          "price": 12900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0767ef6c-529f-48b4-8815-f5c5c62ce18f",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "5a6ff282-b8a9-46c0-a74d-c0be6b5bdcdb",
-          "title": "Popular",
-          "subtitle": "",
-          "itemUuids": [
-            "49dcc293-fb0b-4193-affc-d2e117507ebc",
-            "eaf59a2e-a426-4bea-b691-e5d6d993ad1e",
-            "44155373-5605-4ed2-b084-d1b231265801",
-            "fff44155-03aa-43af-844d-3a25f8b808bc",
-            "495065e2-afa6-4659-8771-37e01c903ae9",
-            "8531040b-7966-4f86-bb28-46be91c55fed",
-            "73c819ae-9c98-40be-9640-89bf8c5ee563",
-            "41057f70-e140-4136-a70f-3aed6ac7a287",
-            "cfaca2b5-9f79-47c2-b484-490e0a8f9f58",
-            "8b6529e8-3f67-4259-b830-a3e0058d41e6"
-          ]
-        },
-        {
-          "uuid": "621e8a3c-3978-47b9-be3a-99d9fd520cc5",
-          "title": "WOK with noodles XL",
-          "subtitle": "",
-          "itemUuids": [
-            "51dd7a29-2918-4c18-97e0-a35a4f974039",
-            "5abe04c3-14fc-44d5-806a-43db7649849c",
-            "44155373-5605-4ed2-b084-d1b231265801",
-            "4c39e491-98b9-42ba-a806-e775e194c2f1",
-            "50a16a08-7692-4d6d-a343-dcde6d757d79",
-            "fcb9595c-c7a9-4068-9f5d-274e17f26d39",
-            "fff44155-03aa-43af-844d-3a25f8b808bc",
-            "0ed4be49-137a-402c-ba1f-27e1468e7372",
-            "fdffe478-2404-4199-b784-4c8ebcfe17d9",
-            "66309d8f-dc10-4de1-bb76-52b995cccb97",
-            "74bdc800-ec11-4d56-996c-59c2a3ca375d",
-            "49dcc293-fb0b-4193-affc-d2e117507ebc",
-            "eaf59a2e-a426-4bea-b691-e5d6d993ad1e",
-            "7b0a8769-a795-4725-b71e-12a71b0c536c"
-          ]
-        },
-        {
-          "uuid": "7c685d62-8b27-4593-b196-dced4567be3f",
-          "title": "Soups",
-          "subtitle": "",
-          "itemUuids": [
-            "a53e4611-e374-4813-88fe-883147d6dcef",
-            "21222bc5-e16c-46c9-a5b9-43f323c7c979",
-            "4d5e9c80-ebe8-4ed4-be8d-62e38946d9c8",
-            "0e5739be-483c-4797-8f83-c50fedae9596",
-            "4dc560cd-bd59-4dd7-ac7d-a6fbdfd1366f",
-            "c783915b-df7a-4a0f-b1a6-34c62708a40b",
-            "8531040b-7966-4f86-bb28-46be91c55fed",
-            "2eedf27a-fa24-4661-8907-cdc32afd03fa",
-            "e4081c82-7dd2-43fd-a43a-1614f23fee14",
-            "15ecf8e9-99af-45eb-9ec0-c115fc0f8f5a",
-            "73c819ae-9c98-40be-9640-89bf8c5ee563",
-            "81dfc97f-1e31-4bc3-94f9-cf130d9a8b39"
-          ]
-        },
-        {
-          "uuid": "140b8206-77ec-4bce-99cb-0b80b2180826",
-          "title": "Fried dumplings Gedza",
-          "subtitle": "",
-          "itemUuids": [
-            "dcd60a46-099e-404a-8b4a-d4c38b1cb0f7",
-            "41057f70-e140-4136-a70f-3aed6ac7a287",
-            "e1279e63-173f-4c4a-961d-b79176de34b7",
-            "2a9cf0b3-eca4-42bd-9f69-18edc6119a8c"
-          ]
-        },
-        {
-          "uuid": "1ec6baad-e113-41e4-bf1f-e758644b9e49",
-          "title": "Salads",
-          "subtitle": "",
-          "itemUuids": [
-            "cfaca2b5-9f79-47c2-b484-490e0a8f9f58",
-            "67ce732a-c0ca-4772-9353-b4dd1e3ec0a8",
-            "5b7e2c8c-afe4-42e0-980b-c3c50b6cf124",
-            "c07243f2-5a69-4f9a-a980-95a198360097",
-            "9ff48b2f-a979-4531-a366-714abd7ddcae",
-            "828f675c-e2cb-4a3b-8f00-08fb7190e054"
-          ]
-        },
-        {
-          "uuid": "ad8d0e5c-6d8f-4672-8287-7ee801a683a2",
-          "title": "Stir frying rice",
-          "subtitle": "",
-          "itemUuids": [
-            "495065e2-afa6-4659-8771-37e01c903ae9",
-            "439d62d7-f681-4e2a-a8fc-13c49064da77",
-            "ae3471ce-3eb4-4d58-b501-3e908245a161",
-            "3adfeda6-75e4-4bb9-984b-ef572c49c625",
-            "918469b8-94e9-4be2-8599-ed3e5e9b8b7c"
-          ]
-        },
-        {
-          "uuid": "e5228bd6-a0cb-4e40-bbc7-471a85c6c48d",
-          "title": "Beverages",
-          "subtitle": "",
-          "itemUuids": [
-            "8b6529e8-3f67-4259-b830-a3e0058d41e6",
-            "8fd8d7b9-e3b7-471d-8153-6e4f0df7a745",
-            "95eeb956-495c-4bf7-bc88-e3c71b200656",
-            "531315a5-6908-4e5b-91b3-a9c9c29214b4"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.442647703993565,
     "longitude": 30.521395343482457,
@@ -1019,5 +168,835 @@
     "storeRatingScore": 4.554770318021202,
     "ratingCount": "500+"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/61685c91-0f9c-4968-b384-64a65fc01a1e"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/61685c91-0f9c-4968-b384-64a65fc01a1e",
+  "items": {
+    "50a16a08-7692-4d6d-a343-dcde6d757d79": {
+      "uuid": "50a16a08-7692-4d6d-a343-dcde6d757d79",
+      "title": "Seafood with vegetables in Teriyaki sauce",
+      "itemDescription": "400g. Sweetish taste. Shrimps, squid, pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
+      "price": 11000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa4c3a29-1407-4310-b95d-5235d5309c39",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "918469b8-94e9-4be2-8599-ed3e5e9b8b7c": {
+      "uuid": "918469b8-94e9-4be2-8599-ed3e5e9b8b7c",
+      "title": "Fried rice with vegetables",
+      "itemDescription": "450g. Basmati rice fried in soy sauce with broccoli, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
+      "price": 7500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/61807a79-e979-4ce8-a92b-5998059b6d2b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "531315a5-6908-4e5b-91b3-a9c9c29214b4": {
+      "uuid": "531315a5-6908-4e5b-91b3-a9c9c29214b4",
+      "title": "Aqua Minerale",
+      "itemDescription": "500 ml, without gas",
+      "price": 2900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f2e5ddf-d61a-44e2-a0f0-9b56b2bfb371",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "15ecf8e9-99af-45eb-9ec0-c115fc0f8f5a": {
+      "uuid": "15ecf8e9-99af-45eb-9ec0-c115fc0f8f5a",
+      "title": "Noodle Soup with Chicken’s dumplings",
+      "itemDescription": "450g. Soup with egg noodles, Gedza dumplings with chicken, egg, shiitake mushrooms, mushroom, green onions, spinach, nori, sesame.",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/39bc0bdb-c21d-4d65-848a-7676e395d43c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "67ce732a-c0ca-4772-9353-b4dd1e3ec0a8": {
+      "uuid": "67ce732a-c0ca-4772-9353-b4dd1e3ec0a8",
+      "title": "Vegetable salad",
+      "itemDescription": "230g. Mixed salad, pea chickpeas, carrots, mushroom, shiitake mushroom, tomato, cucumber, sesame.",
+      "price": 6500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e56e9aa-7f59-4cad-bb62-177b677ac0ed",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fdffe478-2404-4199-b784-4c8ebcfe17d9": {
+      "uuid": "fdffe478-2404-4199-b784-4c8ebcfe17d9",
+      "title": "Beef with vegetables in Sichuan sauce",
+      "itemDescription": "350g. The aftertaste of hot pepper. Corn-mini, string beans, onion, Bulgarian pepper, wood mushroom, carrots, Szechuan pepper.",
+      "price": 7400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6f22ecd-a221-4b95-b719-037e2f353f9a",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "203ee641-81a1-4a25-9e18-bf814301ea18",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "8fd8d7b9-e3b7-471d-8153-6e4f0df7a745": {
+      "uuid": "8fd8d7b9-e3b7-471d-8153-6e4f0df7a745",
+      "title": "Pepsi",
+      "itemDescription": "330 ml",
+      "price": 2900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b3af7fe-ed42-4f90-be55-50964783529c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "cfaca2b5-9f79-47c2-b484-490e0a8f9f58": {
+      "uuid": "cfaca2b5-9f79-47c2-b484-490e0a8f9f58",
+      "title": "Hiashi algae with vegetables",
+      "itemDescription": "220g. Hiashi, carrots, cucumber, walnut sauce, sesame. ",
+      "price": 6500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9c6c99d-8b01-49ef-96bb-b24a0e9429fb",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "e4081c82-7dd2-43fd-a43a-1614f23fee14": {
+      "uuid": "e4081c82-7dd2-43fd-a43a-1614f23fee14",
+      "title": "Noodle Soup Udon",
+      "itemDescription": "500g. Bouillon, chicken, crab meat, rice noodles, egg, shiitake mushrooms, nori, green onions, sesame seeds.",
+      "price": 9500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d97f70a1-7f69-4f0b-b16c-0b3e1d7a33f7",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "41057f70-e140-4136-a70f-3aed6ac7a287": {
+      "uuid": "41057f70-e140-4136-a70f-3aed6ac7a287",
+      "title": "Fried dumplings with chicken",
+      "itemDescription": "130g. Fried Gedza dumplings with chicken, Teriyaki sauce, pea shoots.",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/3128973e-cc43-413c-baae-74286c13e0de",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "8b6529e8-3f67-4259-b830-a3e0058d41e6": {
+      "uuid": "8b6529e8-3f67-4259-b830-a3e0058d41e6",
+      "title": "Lemonade Mango",
+      "itemDescription": "250ml. Seven ap, syrup, mango",
+      "price": 3900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7638fa28-496d-4892-9b32-67b7250c050c",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "3adfeda6-75e4-4bb9-984b-ef572c49c625": {
+      "uuid": "3adfeda6-75e4-4bb9-984b-ef572c49c625",
+      "title": "Fried rice with shrimps and vegetables",
+      "itemDescription": "450g. Basmati rice fried in soy sauce with shrimps, eggi, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f786fe09-0b7e-4745-857a-dd8b8b969a41",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ae3471ce-3eb4-4d58-b501-3e908245a161": {
+      "uuid": "ae3471ce-3eb4-4d58-b501-3e908245a161",
+      "title": "Fried rice with beef and vegetables",
+      "itemDescription": "450g. Basmati rice fried in soy sauce with beef, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f7222c0a-89de-4710-b85f-036025fae8a2",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "dcd60a46-099e-404a-8b4a-d4c38b1cb0f7": {
+      "uuid": "dcd60a46-099e-404a-8b4a-d4c38b1cb0f7",
+      "title": "Fried dumplings with shrimps",
+      "itemDescription": "130g. Fried Gedza dumplings with shrimps, Teriyaki sauce, pea shoots.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/ceac66a4-eb95-4c21-ba1c-70378911801d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "81dfc97f-1e31-4bc3-94f9-cf130d9a8b39": {
+      "uuid": "81dfc97f-1e31-4bc3-94f9-cf130d9a8b39",
+      "title": "Noodle Tom Yam Soup with chicken",
+      "itemDescription": "400g. Spicy coconut curry soup with bean noodles, chicken, mushrooms, shiitake mushrooms, corn, peas.",
+      "price": 10500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8b81f01-bd9b-4ea0-8027-8b952c4d9075",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "9ff48b2f-a979-4531-a366-714abd7ddcae": {
+      "uuid": "9ff48b2f-a979-4531-a366-714abd7ddcae",
+      "title": "Salad with mango, avocado, and chicken",
+      "itemDescription": "270g. Mixed salads, pea chickpeas, carrots, mushrooms, cucumber, avocado (30 gr), mango (30 gr), chicken.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4740c47e-3f5f-4090-b810-630f06ce6a9f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "828f675c-e2cb-4a3b-8f00-08fb7190e054": {
+      "uuid": "828f675c-e2cb-4a3b-8f00-08fb7190e054",
+      "title": "Salad with mango, avocado, and noodles",
+      "itemDescription": "210g. Mixed salads, pea chickpeas, carrots, mushrooms, cucumber, avocado (40 gr), mango (40 gr), noodles, peanuts.",
+      "price": 8900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/82fde324-b61e-4674-bb92-d768aa17eb5d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian ",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "44155373-5605-4ed2-b084-d1b231265801": {
+      "uuid": "44155373-5605-4ed2-b084-d1b231265801",
+      "title": "Duck with vegetables in Kim Chi sauce",
+      "itemDescription": "300g. Spicy pungent taste with a sweet and sour aftertaste. Carrots, peppers, shiitake mushrooms, pea chickpeas, onions.",
+      "price": 9000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb568d7e-c1ed-4820-9981-e73e1c14d838",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "7761601a-5ffa-442f-96c0-a35313f79ce9",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "fff44155-03aa-43af-844d-3a25f8b808bc": {
+      "uuid": "fff44155-03aa-43af-844d-3a25f8b808bc",
+      "title": "Beef with vegetables in Teriyaki sauce",
+      "itemDescription": "390g. Slightish aftertaste. Corn-mini, string beans, onion, bell pepper, mushroom, shiitake mushroom.",
+      "price": 9400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a118cfcf-a54c-40a5-a9f7-133fd5ad7d1d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "203ee641-81a1-4a25-9e18-bf814301ea18",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "21222bc5-e16c-46c9-a5b9-43f323c7c979": {
+      "uuid": "21222bc5-e16c-46c9-a5b9-43f323c7c979",
+      "title": "Noodle Soup with noodles and duck",
+      "itemDescription": "450g. Spicy soup with egg noodles, duck, eggs, shiitake mushrooms, spinach. ",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/12d3c996-aae8-44a9-88ce-3d47babe4c89",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0e5739be-483c-4797-8f83-c50fedae9596": {
+      "uuid": "0e5739be-483c-4797-8f83-c50fedae9596",
+      "title": "Miso soup with seafood",
+      "itemDescription": "450g. Miso soup with bean noodles, shrimps, squid, shiitake mushrooms, tree mushrooms, corn, spinach, wakame, sesame.",
+      "price": 11900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf43ca0f-2d13-4715-bdbd-ccba5df482ba",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "0ed4be49-137a-402c-ba1f-27e1468e7372": {
+      "uuid": "0ed4be49-137a-402c-ba1f-27e1468e7372",
+      "title": "Beef with vegetables in Black Pepper sauce",
+      "itemDescription": "390g. Pungent taste. Bulgarian pepper, corn-mini, carrots, green beans, mushroom, onions.",
+      "price": 7400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/82701b35-4b6b-4983-83ba-2f1817f0c674",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "203ee641-81a1-4a25-9e18-bf814301ea18",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "a53e4611-e374-4813-88fe-883147d6dcef": {
+      "uuid": "a53e4611-e374-4813-88fe-883147d6dcef",
+      "title": "Noodle Soup with noodles and chicken",
+      "itemDescription": "450g. Spicy soup with egg noodles, chicken, eggs, shiitake mushrooms, spinach, nori.",
+      "price": 8500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f6f20285-0d08-4545-97ef-5964d3ec5c72",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fcb9595c-c7a9-4068-9f5d-274e17f26d39": {
+      "uuid": "fcb9595c-c7a9-4068-9f5d-274e17f26d39",
+      "title": "Seafood with vegetables in Kung Pao sauce",
+      "itemDescription": "400g. Spicy with a faintly tasted taste. Shrimps, squid, corn-mini, Bulgarian pepper, chili, onion, mushroom, string beans.",
+      "price": 10400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/068e9668-a712-4c2e-999f-23477e5284b1",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "c07243f2-5a69-4f9a-a980-95a198360097": {
+      "uuid": "c07243f2-5a69-4f9a-a980-95a198360097",
+      "title": "Crab's salad ",
+      "itemDescription": "240g. Mixed salad, carrots, cucumber, mushrooms, crab meat, walnut sauce, sesame seeds.",
+      "price": 8500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/f26df043-ff5b-43db-885b-f0201595ff90",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "eaf59a2e-a426-4bea-b691-e5d6d993ad1e": {
+      "uuid": "eaf59a2e-a426-4bea-b691-e5d6d993ad1e",
+      "title": "Chicken with vegetables in Teriyaki sauce",
+      "itemDescription": "360g. Sweetish taste. Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
+      "price": 6400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/4a33840c-8029-4b97-b120-81ae3bb36746",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "49dcc293-fb0b-4193-affc-d2e117507ebc": {
+      "uuid": "49dcc293-fb0b-4193-affc-d2e117507ebc",
+      "title": "Chicken with vegetables in Kung Pao sauce",
+      "itemDescription": "350g. Spicy with sweet taste. Red bell pepper, green haricot, chili, peanut, green onion. ",
+      "price": 4000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/548acc76-99dc-45f8-8ab8-e6684bfe1bed",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "e1279e63-173f-4c4a-961d-b79176de34b7": {
+      "uuid": "e1279e63-173f-4c4a-961d-b79176de34b7",
+      "title": "Fried dumplings with beef",
+      "itemDescription": "130g. Fried Gedza dumplings with beef, Teriyaki sauce, pea shoots.",
+      "price": 5900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c290b7ea-6ab9-44dc-a0ae-8ffee21cc289",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "73c819ae-9c98-40be-9640-89bf8c5ee563": {
+      "uuid": "73c819ae-9c98-40be-9640-89bf8c5ee563",
+      "title": "Noodle Tom Yam Soup with seafood",
+      "itemDescription": "400g. Spicy coconut curry soup with bean noodles, shrimps, squid, mushrooms, shiitake mushrooms, corn, peas.",
+      "price": 13900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a987ca36-78f6-43bb-95c1-f3c711b7e13d",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "74bdc800-ec11-4d56-996c-59c2a3ca375d": {
+      "uuid": "74bdc800-ec11-4d56-996c-59c2a3ca375d",
+      "title": "Chicken with vegetables in oyster sauce",
+      "itemDescription": "390g. Spicy taste with a sweet and sour aftertaste. Broccoli, corn-mini, carrots, champignon mushrooms, shiitake, Bulgarian pepper.",
+      "price": 6000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/36ce67f2-d4af-42a2-8f5b-cb00d74826c0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "2a9cf0b3-eca4-42bd-9f69-18edc6119a8c": {
+      "uuid": "2a9cf0b3-eca4-42bd-9f69-18edc6119a8c",
+      "title": "Fried dumplings with duck",
+      "itemDescription": "130g. Fried Gedza dumplings with duck, Teriyaki sauce, pea shoots.",
+      "price": 6900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "4c39e491-98b9-42ba-a806-e775e194c2f1": {
+      "uuid": "4c39e491-98b9-42ba-a806-e775e194c2f1",
+      "title": "Shrimps with vegetables in Teriyaki sauce",
+      "itemDescription": "350g. Sweetish taste.Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
+      "price": 10000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8afb431-42b2-4a5c-8995-f70f5939a193",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7761601a-5ffa-442f-96c0-a35313f79ce9",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "51dd7a29-2918-4c18-97e0-a35a4f974039": {
+      "uuid": "51dd7a29-2918-4c18-97e0-a35a4f974039",
+      "title": "Vegetables in Teriyaki sauce",
+      "itemDescription": "390g. Mix of vegetables: Bulgarian pepper, corn-mini, mushrooms champignons, carrots, broccoli, onions.",
+      "price": 4400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/feb44b0f-ff64-4753-829f-4b43ea95462e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "e64b70b6-3a3a-4c17-9bba-4ef33bd683c7"
+      ]
+    },
+    "c783915b-df7a-4a0f-b1a6-34c62708a40b": {
+      "uuid": "c783915b-df7a-4a0f-b1a6-34c62708a40b",
+      "title": "Miso soup with chicken",
+      "itemDescription": "450g. Miso soup with bean noodles, chicken, shiitake mushrooms, mushrooms, corn, spinach, wakame, sesame seeds.",
+      "price": 8500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfcf83e1-d478-47ec-85fd-24757621b2c9",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "95eeb956-495c-4bf7-bc88-e3c71b200656": {
+      "uuid": "95eeb956-495c-4bf7-bc88-e3c71b200656",
+      "title": "Lemonade Grenadine",
+      "itemDescription": "250ml. Seven up, syrup",
+      "price": 3900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/432cd324-73b3-4793-a328-61b118c56efc",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "66309d8f-dc10-4de1-bb76-52b995cccb97": {
+      "uuid": "66309d8f-dc10-4de1-bb76-52b995cccb97",
+      "title": "Beef with vegetables in Kim Chi sauce",
+      "itemDescription": "300g. Spicy pungent taste with a sweet and sour aftertaste. Carrots, peppers, shiitake mushrooms, pea chickpeas, onions.",
+      "price": 8000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/a38383d3-e647-4314-8dda-3a5ce12f113e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      },
+      "customizationUuids": [
+        "7761601a-5ffa-442f-96c0-a35313f79ce9",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "5abe04c3-14fc-44d5-806a-43db7649849c": {
+      "uuid": "5abe04c3-14fc-44d5-806a-43db7649849c",
+      "title": "Duck with vegetables in Teriyaki sauce",
+      "itemDescription": "350g. Sweetish taste. Pepper, broccoli, carrots, shiitake mushrooms, green peas, green onions.",
+      "price": 10000,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b82a879-ffb8-48b8-b910-1e0d4ac86b03",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "7761601a-5ffa-442f-96c0-a35313f79ce9",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "2eedf27a-fa24-4661-8907-cdc32afd03fa": {
+      "uuid": "2eedf27a-fa24-4661-8907-cdc32afd03fa",
+      "title": "Coconut Noodle Soup with shrimps",
+      "itemDescription": "400g. Coconut soup with spicy curry paste, bean noodles, shrimps, mushrooms, shiitake mushrooms, tomato and spinach. ",
+      "price": 11500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1caed304-08ba-4891-b2be-c2ec571f4922",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "7b0a8769-a795-4725-b71e-12a71b0c536c": {
+      "uuid": "7b0a8769-a795-4725-b71e-12a71b0c536c",
+      "title": "Chicken with vegetables in spicy mushroom sauce",
+      "itemDescription": "390g. Pungent taste. Bulgarian pepper, corn-mini, carrots, green beans, mushroom, onions.",
+      "price": 5400,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7041695a-aa42-4a58-b8a7-608457114807",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "203ee641-81a1-4a25-9e18-bf814301ea18",
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "439d62d7-f681-4e2a-a8fc-13c49064da77": {
+      "uuid": "439d62d7-f681-4e2a-a8fc-13c49064da77",
+      "title": "Fried rice with duck and vegetables",
+      "itemDescription": "450g. Basmati rice fried in soy sauce with duck, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
+      "price": 13500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9da1b06-dbd0-428a-8dc8-37a9af265043",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "8531040b-7966-4f86-bb28-46be91c55fed": {
+      "uuid": "8531040b-7966-4f86-bb28-46be91c55fed",
+      "title": "Coconut Noodle Soup with chicken",
+      "itemDescription": "400g. Coconut soup with spicy curry paste, bean noodles, chicken, mushroom, shiitake mushrooms, tomatoes, spinach. ",
+      "price": 9500,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9479820-6902-47ec-9a60-bc0c3ef3f5bd",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
+        "text": "🌶Spicy",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "5b7e2c8c-afe4-42e0-980b-c3c50b6cf124": {
+      "uuid": "5b7e2c8c-afe4-42e0-980b-c3c50b6cf124",
+      "title": "Salad NoodlesCaesar with chicken",
+      "itemDescription": "330g. Mixed salad, chicken, tomatoes, parmesan, eggs, croutons, Caesar dressing.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b99eeeb2-73e9-4519-bde9-b5f0a1a8166e",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "495065e2-afa6-4659-8771-37e01c903ae9": {
+      "uuid": "495065e2-afa6-4659-8771-37e01c903ae9",
+      "title": "Fried rice with chicken and vegetables",
+      "itemDescription": "450g. Basmati rice fried in soy sauce with chicken, egg, onion, chilli peppers, mushrooms mushrooms, carrots and beans.",
+      "price": 9900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fb3fdfe-9b17-4d94-8422-d1fabd7173f5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "0a60e4b7-4e57-4ee5-8d62-c1e62b37588c"
+      ]
+    },
+    "4dc560cd-bd59-4dd7-ac7d-a6fbdfd1366f": {
+      "uuid": "4dc560cd-bd59-4dd7-ac7d-a6fbdfd1366f",
+      "title": "Miso soup with vegetables",
+      "itemDescription": "400g. Miso soup with bean noodles, shiitake mushrooms, mushrooms, corn, spinach, wakame, sesame seeds.",
+      "price": 7900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d55ed2d-beaf-43f5-9599-5bdc8c61cd06",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "endorsement": {
+        "backgroundColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconColor": {
+          "alpha": 1,
+          "color": "59BD5A"
+        },
+        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
+        "text": "Vegetarian ",
+        "textColor": {
+          "alpha": 1,
+          "color": "FFFFFF"
+        }
+      }
+    },
+    "4d5e9c80-ebe8-4ed4-be8d-62e38946d9c8": {
+      "uuid": "4d5e9c80-ebe8-4ed4-be8d-62e38946d9c8",
+      "title": "Noodle Soup with noodles and seafood",
+      "itemDescription": "450g. Spicy soup with egg noodles, shrimps, squid, eggs, shiitake mushrooms, spinach. ",
+      "price": 12900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0767ef6c-529f-48b4-8815-f5c5c62ce18f",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

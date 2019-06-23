@@ -15,231 +15,41 @@
   ],
   "sections": [
     {
-      "uuid": "5d04e5c4-41d3-4d6c-942c-f45722786ac6",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "10:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "f5a1dd9d-023e-4685-866b-750b39654825",
-        "f520e32c-b4cd-483d-835d-fdfe7da8b2c4",
-        "726de0cd-160d-464f-8e9d-da18ae24f699"
+      "uuid": "f5a1dd9d-023e-4685-866b-750b39654825",
+      "title": "Pizza",
+      "subtitle": "",
+      "itemUuids": [
+        "7992ee86-e622-4ad7-b5fc-37e79a4b96b5",
+        "ca0468e3-d62c-4965-8a17-a140048a72b4",
+        "8a726aca-229e-4794-9ae7-27648b96c923",
+        "c79a18e0-a4c6-4abc-b705-3e615f143750",
+        "bffe914d-176d-4a77-b02d-04dc6b13a28a",
+        "0f9dcb96-237f-4ab7-b2ab-80f404b31e35",
+        "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7",
+        "fdcb225c-d2a2-4715-aaa2-157b09197b61",
+        "14732987-41e0-4fb4-a51e-e974aa453d3a",
+        "8796fa2a-3291-440e-aad3-f67973aa67c4"
+      ]
+    },
+    {
+      "uuid": "f520e32c-b4cd-483d-835d-fdfe7da8b2c4",
+      "title": "Salad",
+      "subtitle": "",
+      "itemUuids": [
+        "39a598a9-858c-4b06-94c6-d5f63d4bd9d5"
+      ]
+    },
+    {
+      "uuid": "726de0cd-160d-464f-8e9d-da18ae24f699",
+      "title": "Beverages",
+      "subtitle": "",
+      "itemUuids": [
+        "09225537-56c9-47cc-b72b-9ad6dd5c8c92",
+        "bbb68682-29d8-47d7-bcfe-d2b30191c68a",
+        "52060a39-f4e2-42c8-a4b7-e8cad838f261"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "5d04e5c4-41d3-4d6c-942c-f45722786ac6": {
-      "itemsMap": {
-        "7992ee86-e622-4ad7-b5fc-37e79a4b96b5": {
-          "uuid": "7992ee86-e622-4ad7-b5fc-37e79a4b96b5",
-          "title": "Pizza Margarita",
-          "itemDescription": "Sauce, mozzarella, tomatoes, and oregano.\n",
-          "price": 16900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b38fabb2-758f-4760-9777-0e7f073b9136",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "52060a39-f4e2-42c8-a4b7-e8cad838f261": {
-          "uuid": "52060a39-f4e2-42c8-a4b7-e8cad838f261",
-          "title": "Borjomi",
-          "itemDescription": "Mineral water (glass) 500 ml.",
-          "price": 4900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "14732987-41e0-4fb4-a51e-e974aa453d3a": {
-          "uuid": "14732987-41e0-4fb4-a51e-e974aa453d3a",
-          "title": "Pizza Ranch",
-          "itemDescription": "Creamy sauce, mozzarella, ham, bacon, garlic, tomatoes, and Caesar sauce.",
-          "price": 22900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/94c31de9-5914-400f-9a8d-bbb742befcc3",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bbb68682-29d8-47d7-bcfe-d2b30191c68a": {
-          "uuid": "bbb68682-29d8-47d7-bcfe-d2b30191c68a",
-          "title": "Morshinska",
-          "itemDescription": "Still water 500 ml.",
-          "price": 2900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "fdcb225c-d2a2-4715-aaa2-157b09197b61": {
-          "uuid": "fdcb225c-d2a2-4715-aaa2-157b09197b61",
-          "title": "Pizza Vegetariano",
-          "itemDescription": "Sauce, mozzarella, olives, sweet pepper, onion, tomatoes, champignons, cheddar, and oregano.",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b53d0dcc-9ab5-4cd4-8afd-65680176ce29",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "ca0468e3-d62c-4965-8a17-a140048a72b4": {
-          "uuid": "ca0468e3-d62c-4965-8a17-a140048a72b4",
-          "title": "Pizza Quattro Formaggi",
-          "itemDescription": "Creamy sauce, mozzarella, Parmesan, gouda cheese, cheddar, and oregano.",
-          "price": 21900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/71e23dfa-b375-4bf6-9e5c-9d3c7bb74eae",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "bffe914d-176d-4a77-b02d-04dc6b13a28a": {
-          "uuid": "bffe914d-176d-4a77-b02d-04dc6b13a28a",
-          "title": "Pizza Capricciosa",
-          "itemDescription": "Sauce, mozzarella, ham, champignons, and olives.",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb60a703-9d7c-4fd4-b31d-541e045c88c5",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8a726aca-229e-4794-9ae7-27648b96c923": {
-          "uuid": "8a726aca-229e-4794-9ae7-27648b96c923",
-          "title": "Pizza Tradizionale",
-          "itemDescription": "Sauce, mozzarella, pepperoni, ham, and champignons.",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0c0c7df-8c61-4c6d-a846-7d363dd6cd02",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "09225537-56c9-47cc-b72b-9ad6dd5c8c92": {
-          "uuid": "09225537-56c9-47cc-b72b-9ad6dd5c8c92",
-          "title": "Sandora",
-          "itemDescription": "Sandora juice to choose.",
-          "price": 5900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          },
-          "customizationUuids": [
-            "3f19f998-1b24-44e2-98e2-ea8d348ddb63"
-          ]
-        },
-        "0f9dcb96-237f-4ab7-b2ab-80f404b31e35": {
-          "uuid": "0f9dcb96-237f-4ab7-b2ab-80f404b31e35",
-          "title": "Pizza Frutti di Mare (Lagoon)",
-          "itemDescription": "Sauce, mozzarella, and sea cocktail.",
-          "price": 27900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/62873483-400a-4885-bcaf-056e9c3edf4b",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "8796fa2a-3291-440e-aad3-f67973aa67c4": {
-          "uuid": "8796fa2a-3291-440e-aad3-f67973aa67c4",
-          "title": "Pizza Pepperoni",
-          "itemDescription": "Sauce, pepperoni, and mozzarella.",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/d31edeea-eccb-4bda-9e04-8df5286f90c0",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7": {
-          "uuid": "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7",
-          "title": "Pizza Con Carne (Meat hunter)",
-          "itemDescription": "Sauce, mozzarella, ham, salami, pepperoni, chicken fillet, and onion.",
-          "price": 21900,
-          "imageUrl": "",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "c79a18e0-a4c6-4abc-b705-3e615f143750": {
-          "uuid": "c79a18e0-a4c6-4abc-b705-3e615f143750",
-          "title": "Pizza Diablo",
-          "itemDescription": "Chili sauce, mozzarella, salami, hunter's (smoked) sausages, and Parmesan.",
-          "price": 19900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/0155a3a3-186a-401c-85ab-3d4704e2b9c4",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        },
-        "39a598a9-858c-4b06-94c6-d5f63d4bd9d5": {
-          "uuid": "39a598a9-858c-4b06-94c6-d5f63d4bd9d5",
-          "title": "Greek salad",
-          "itemDescription": "Red onion, olives (black), cucumbers, sweet pepper, tomatoes, and feta cheese.",
-          "price": 10900,
-          "imageUrl": "https://d1ralsognjng37.cloudfront.net/c299978f-9f94-4ee1-ab1a-c8911d8f2f26",
-          "nutritionalInfo": {
-            "allergens": [
-              ""
-            ]
-          }
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "f5a1dd9d-023e-4685-866b-750b39654825",
-          "title": "Pizza",
-          "subtitle": "",
-          "itemUuids": [
-            "7992ee86-e622-4ad7-b5fc-37e79a4b96b5",
-            "ca0468e3-d62c-4965-8a17-a140048a72b4",
-            "8a726aca-229e-4794-9ae7-27648b96c923",
-            "c79a18e0-a4c6-4abc-b705-3e615f143750",
-            "bffe914d-176d-4a77-b02d-04dc6b13a28a",
-            "0f9dcb96-237f-4ab7-b2ab-80f404b31e35",
-            "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7",
-            "fdcb225c-d2a2-4715-aaa2-157b09197b61",
-            "14732987-41e0-4fb4-a51e-e974aa453d3a",
-            "8796fa2a-3291-440e-aad3-f67973aa67c4"
-          ]
-        },
-        {
-          "uuid": "f520e32c-b4cd-483d-835d-fdfe7da8b2c4",
-          "title": "Salad",
-          "subtitle": "",
-          "itemUuids": [
-            "39a598a9-858c-4b06-94c6-d5f63d4bd9d5"
-          ]
-        },
-        {
-          "uuid": "726de0cd-160d-464f-8e9d-da18ae24f699",
-          "title": "Beverages",
-          "subtitle": "",
-          "itemUuids": [
-            "09225537-56c9-47cc-b72b-9ad6dd5c8c92",
-            "bbb68682-29d8-47d7-bcfe-d2b30191c68a",
-            "52060a39-f4e2-42c8-a4b7-e8cad838f261"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.462782,
     "longitude": 30.494972,
@@ -289,5 +99,178 @@
     "storeRatingScore": 4.300813008130081,
     "ratingCount": "123"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc",
+  "items": {
+    "7992ee86-e622-4ad7-b5fc-37e79a4b96b5": {
+      "uuid": "7992ee86-e622-4ad7-b5fc-37e79a4b96b5",
+      "title": "Pizza Margarita",
+      "itemDescription": "Sauce, mozzarella, tomatoes, and oregano.\n",
+      "price": 16900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b38fabb2-758f-4760-9777-0e7f073b9136",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "52060a39-f4e2-42c8-a4b7-e8cad838f261": {
+      "uuid": "52060a39-f4e2-42c8-a4b7-e8cad838f261",
+      "title": "Borjomi",
+      "itemDescription": "Mineral water (glass) 500 ml.",
+      "price": 4900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "14732987-41e0-4fb4-a51e-e974aa453d3a": {
+      "uuid": "14732987-41e0-4fb4-a51e-e974aa453d3a",
+      "title": "Pizza Ranch",
+      "itemDescription": "Creamy sauce, mozzarella, ham, bacon, garlic, tomatoes, and Caesar sauce.",
+      "price": 22900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/94c31de9-5914-400f-9a8d-bbb742befcc3",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bbb68682-29d8-47d7-bcfe-d2b30191c68a": {
+      "uuid": "bbb68682-29d8-47d7-bcfe-d2b30191c68a",
+      "title": "Morshinska",
+      "itemDescription": "Still water 500 ml.",
+      "price": 2900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "fdcb225c-d2a2-4715-aaa2-157b09197b61": {
+      "uuid": "fdcb225c-d2a2-4715-aaa2-157b09197b61",
+      "title": "Pizza Vegetariano",
+      "itemDescription": "Sauce, mozzarella, olives, sweet pepper, onion, tomatoes, champignons, cheddar, and oregano.",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b53d0dcc-9ab5-4cd4-8afd-65680176ce29",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "ca0468e3-d62c-4965-8a17-a140048a72b4": {
+      "uuid": "ca0468e3-d62c-4965-8a17-a140048a72b4",
+      "title": "Pizza Quattro Formaggi",
+      "itemDescription": "Creamy sauce, mozzarella, Parmesan, gouda cheese, cheddar, and oregano.",
+      "price": 21900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/71e23dfa-b375-4bf6-9e5c-9d3c7bb74eae",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "bffe914d-176d-4a77-b02d-04dc6b13a28a": {
+      "uuid": "bffe914d-176d-4a77-b02d-04dc6b13a28a",
+      "title": "Pizza Capricciosa",
+      "itemDescription": "Sauce, mozzarella, ham, champignons, and olives.",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb60a703-9d7c-4fd4-b31d-541e045c88c5",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8a726aca-229e-4794-9ae7-27648b96c923": {
+      "uuid": "8a726aca-229e-4794-9ae7-27648b96c923",
+      "title": "Pizza Tradizionale",
+      "itemDescription": "Sauce, mozzarella, pepperoni, ham, and champignons.",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0c0c7df-8c61-4c6d-a846-7d363dd6cd02",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "09225537-56c9-47cc-b72b-9ad6dd5c8c92": {
+      "uuid": "09225537-56c9-47cc-b72b-9ad6dd5c8c92",
+      "title": "Sandora",
+      "itemDescription": "Sandora juice to choose.",
+      "price": 5900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      },
+      "customizationUuids": [
+        "3f19f998-1b24-44e2-98e2-ea8d348ddb63"
+      ]
+    },
+    "0f9dcb96-237f-4ab7-b2ab-80f404b31e35": {
+      "uuid": "0f9dcb96-237f-4ab7-b2ab-80f404b31e35",
+      "title": "Pizza Frutti di Mare (Lagoon)",
+      "itemDescription": "Sauce, mozzarella, and sea cocktail.",
+      "price": 27900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/62873483-400a-4885-bcaf-056e9c3edf4b",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "8796fa2a-3291-440e-aad3-f67973aa67c4": {
+      "uuid": "8796fa2a-3291-440e-aad3-f67973aa67c4",
+      "title": "Pizza Pepperoni",
+      "itemDescription": "Sauce, pepperoni, and mozzarella.",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/d31edeea-eccb-4bda-9e04-8df5286f90c0",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7": {
+      "uuid": "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7",
+      "title": "Pizza Con Carne (Meat hunter)",
+      "itemDescription": "Sauce, mozzarella, ham, salami, pepperoni, chicken fillet, and onion.",
+      "price": 21900,
+      "imageUrl": "",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "c79a18e0-a4c6-4abc-b705-3e615f143750": {
+      "uuid": "c79a18e0-a4c6-4abc-b705-3e615f143750",
+      "title": "Pizza Diablo",
+      "itemDescription": "Chili sauce, mozzarella, salami, hunter's (smoked) sausages, and Parmesan.",
+      "price": 19900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/0155a3a3-186a-401c-85ab-3d4704e2b9c4",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    },
+    "39a598a9-858c-4b06-94c6-d5f63d4bd9d5": {
+      "uuid": "39a598a9-858c-4b06-94c6-d5f63d4bd9d5",
+      "title": "Greek salad",
+      "itemDescription": "Red onion, olives (black), cucumbers, sweet pepper, tomatoes, and feta cheese.",
+      "price": 10900,
+      "imageUrl": "https://d1ralsognjng37.cloudfront.net/c299978f-9f94-4ee1-ab1a-c8911d8f2f26",
+      "nutritionalInfo": {
+        "allergens": [
+          ""
+        ]
+      }
+    }
+  }
 }

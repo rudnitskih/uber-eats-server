@@ -20,337 +20,71 @@
   ],
   "sections": [
     {
-      "uuid": "5441ecfe-fb76-43a3-bf96-72042fb5726a",
-      "title": "SWITCH LANGUAGE (ENG)",
-      "subtitle": "11:00 AM – 10:00 PM",
-      "isOnSale": true,
-      "subsectionUuids": [
-        "42fbb929-fe20-4d39-afbb-05faf9a40d48",
-        "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
-        "550421a8-cadc-42d8-97f7-0cfb98a99859",
-        "376c0798-ab5a-4437-a569-c70bda0c2a40",
-        "5e7266b2-cef3-4329-9dd9-75b2c7521981"
+      "uuid": "42fbb929-fe20-4d39-afbb-05faf9a40d48",
+      "title": "Starters",
+      "itemUuids": [
+        "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
+        "9857966e-4c9f-42e6-bfdc-4820bb6936af",
+        "7549ec73-7e54-434b-a6bb-25294e78b065",
+        "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
+        "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
+        "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
+        "682397f6-2951-4ba7-8c8d-0df11abda8e0",
+        "26575601-8dbc-48e6-9b15-eb3768fae450",
+        "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
+        "522b0828-7048-40ea-b5d3-bd5ca917f5c7"
+      ]
+    },
+    {
+      "uuid": "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
+      "title": "Homemade pates and mousses",
+      "itemUuids": [
+        "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
+        "74f07519-0fce-43c8-815a-bf3cb6066d07",
+        "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
+        "1dcc552e-a1cb-406f-9137-4e49fa967749",
+        "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
+        "75f01784-8f17-4b04-b2b2-1d63ec9c438d"
+      ]
+    },
+    {
+      "uuid": "550421a8-cadc-42d8-97f7-0cfb98a99859",
+      "title": "Salads",
+      "itemUuids": [
+        "750950ae-db9f-4ab7-b90c-bd97c777812e",
+        "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
+        "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
+        "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
+        "b4196b6e-5d40-4f04-995d-83983028ef89",
+        "e662333e-aa1c-4492-aab3-b1d85807e15d",
+        "750bf2cd-efa9-4e63-a71c-56456565fc36",
+        "e2f1fd86-02fc-46c0-8d0c-629a66588c2f"
+      ]
+    },
+    {
+      "uuid": "376c0798-ab5a-4437-a569-c70bda0c2a40",
+      "title": "Soups",
+      "itemUuids": [
+        "6279dd4e-5ad8-40bd-97fb-39f024796736",
+        "932cb404-6552-413c-b57f-a702a03ece23",
+        "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
+        "c056129a-f54a-49f9-90a4-759977438963",
+        "efa35b00-41be-40f2-82b6-767ad7bd0784"
+      ]
+    },
+    {
+      "uuid": "5e7266b2-cef3-4329-9dd9-75b2c7521981",
+      "title": "Main platters",
+      "itemUuids": [
+        "691e75b6-1481-43b9-ba8d-117e23fd2d47",
+        "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
+        "c5f513a1-584d-4689-a025-a3b628a9f3cf",
+        "7205240f-7e63-4838-b792-c633e5425523",
+        "d453bd59-b99f-4424-bc2b-a37e28be33ff",
+        "0ba88047-429a-4722-b66b-a264f16f6f17"
       ]
     }
   ],
-  "sectionEntitiesMap": {
-    "5441ecfe-fb76-43a3-bf96-72042fb5726a": {
-      "itemsMap": {
-        "5d0d2d27-99a0-41a8-822c-f999a065dfcb": {
-          "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
-          "title": "Salmon carpaccio",
-          "itemDescription": "",
-          "price": 18300
-        },
-        "682397f6-2951-4ba7-8c8d-0df11abda8e0": {
-          "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
-          "title": "Homemade herring with potatoes",
-          "itemDescription": "",
-          "price": 8900
-        },
-        "efa35b00-41be-40f2-82b6-767ad7bd0784": {
-          "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
-          "title": "Creamy oyster soup",
-          "itemDescription": "",
-          "price": 12700
-        },
-        "75f01784-8f17-4b04-b2b2-1d63ec9c438d": {
-          "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
-          "title": "Pate with shrimps",
-          "itemDescription": "For 100g.",
-          "price": 7600,
-          "customizationUuids": [
-            "4aa5e76d-8818-464d-a147-c2d925936156"
-          ]
-        },
-        "9857966e-4c9f-42e6-bfdc-4820bb6936af": {
-          "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
-          "title": "Bruschetta with salmon",
-          "itemDescription": "",
-          "price": 12300
-        },
-        "932cb404-6552-413c-b57f-a702a03ece23": {
-          "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
-          "title": "Tomato fish soup",
-          "itemDescription": "",
-          "price": 16500,
-          "suspendUntil": 8640000000
-        },
-        "1d76e9a7-c0d7-4068-9e8e-468376d17f36": {
-          "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
-          "title": "Provencal salad with fresh tuna",
-          "itemDescription": "",
-          "price": 23800
-        },
-        "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a": {
-          "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
-          "title": "Black sea soup",
-          "itemDescription": "",
-          "price": 6200
-        },
-        "ae4834ef-b6b6-4c40-ac90-25c914fbb987": {
-          "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
-          "title": "Mimosa salad with pollock liver",
-          "itemDescription": "",
-          "price": 9200
-        },
-        "e2f1fd86-02fc-46c0-8d0c-629a66588c2f": {
-          "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
-          "title": "Warm seafood salad",
-          "itemDescription": "",
-          "price": 19300
-        },
-        "750950ae-db9f-4ab7-b90c-bd97c777812e": {
-          "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
-          "title": "Fresh salad with seafood and ginger dressing",
-          "itemDescription": "",
-          "price": 19700
-        },
-        "522b0828-7048-40ea-b5d3-bd5ca917f5c7": {
-          "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
-          "title": "Tuna tartar",
-          "itemDescription": "",
-          "price": 25700
-        },
-        "74f07519-0fce-43c8-815a-bf3cb6066d07": {
-          "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
-          "title": "Pate with tuna",
-          "itemDescription": "For 100g.",
-          "price": 6200,
-          "customizationUuids": [
-            "097e7437-cd0c-43e2-9bde-ce2f72f58fc9"
-          ]
-        },
-        "1dcc552e-a1cb-406f-9137-4e49fa967749": {
-          "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
-          "title": "Pate with salmon",
-          "itemDescription": "For 100g.",
-          "price": 6800,
-          "customizationUuids": [
-            "b61680f9-41e6-4895-82af-996ca885b764"
-          ]
-        },
-        "e662333e-aa1c-4492-aab3-b1d85807e15d": {
-          "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
-          "title": "Arugula, with shrimp, cherry tomatoes and Parmesan cheese",
-          "itemDescription": "",
-          "price": 19500
-        },
-        "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d": {
-          "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
-          "title": "Green salad with Rapana",
-          "itemDescription": "",
-          "price": 15300
-        },
-        "d453bd59-b99f-4424-bc2b-a37e28be33ff": {
-          "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
-          "title": "Shellfish pasta",
-          "itemDescription": "",
-          "price": 18600
-        },
-        "7be0d00e-ba71-473f-9b90-db0e77f7a1e1": {
-          "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
-          "title": "Pate with stingray liver",
-          "itemDescription": "For 100g.",
-          "price": 4200,
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "8df972ec-5272-4c51-911a-809535940633"
-          ]
-        },
-        "691e75b6-1481-43b9-ba8d-117e23fd2d47": {
-          "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
-          "title": "Mussels in a sauce of your choice",
-          "itemDescription": "Cream, garlic, tomato and soy sauces to choose from.",
-          "price": 8800,
-          "suspendUntil": 8640000000,
-          "customizationUuids": [
-            "1d861093-c1a7-44cb-811b-f1210ef9269e",
-            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-          ]
-        },
-        "750bf2cd-efa9-4e63-a71c-56456565fc36": {
-          "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
-          "title": "Caesar with salted salmon",
-          "itemDescription": "",
-          "price": 17600
-        },
-        "7205240f-7e63-4838-b792-c633e5425523": {
-          "uuid": "7205240f-7e63-4838-b792-c633e5425523",
-          "title": "Pikeperch cutlets with mashed potato",
-          "itemDescription": "",
-          "price": 15200
-        },
-        "6279dd4e-5ad8-40bd-97fb-39f024796736": {
-          "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
-          "title": "Salmon cream soup",
-          "itemDescription": "",
-          "price": 14600,
-          "suspendUntil": 8640000000
-        },
-        "3a4bcba3-c23f-458d-8289-5ba4ac631fb5": {
-          "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
-          "title": "Homemade sprats with croutons",
-          "itemDescription": "",
-          "price": 8900
-        },
-        "c056129a-f54a-49f9-90a4-759977438963": {
-          "uuid": "c056129a-f54a-49f9-90a4-759977438963",
-          "title": "Fish solyanka",
-          "itemDescription": "",
-          "price": 14700
-        },
-        "26575601-8dbc-48e6-9b15-eb3768fae450": {
-          "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
-          "title": "Salmon tartar with Transcarpathian pike caviar",
-          "itemDescription": "",
-          "price": 19200
-        },
-        "889b3424-5c4e-4d5c-b58e-7f4bff15d082": {
-          "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
-          "title": "Salted kilka with potatoes",
-          "itemDescription": "",
-          "price": 5500
-        },
-        "0ba88047-429a-4722-b66b-a264f16f6f17": {
-          "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
-          "title": "Rapana meat with mushrooms and cherry tomatoes",
-          "itemDescription": "",
-          "price": 16200,
-          "customizationUuids": [
-            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-          ]
-        },
-        "04c6ce13-b00a-4da9-b031-8d9ba05d98c9": {
-          "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
-          "title": "Pate with cod liver",
-          "itemDescription": "For 100g.",
-          "price": 6300,
-          "customizationUuids": [
-            "5aa81bb0-8fcd-463c-9511-6d83e6250ea7"
-          ]
-        },
-        "5fb29ece-34f0-4b79-9614-ad2120be3bfd": {
-          "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
-          "title": "Carpathian pike caviar with spring onion",
-          "itemDescription": "",
-          "price": 17200
-        },
-        "d9f388ce-bb1e-4ae3-bcfb-7249560685a3": {
-          "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
-          "title": "Odessa forshmak with croutons",
-          "itemDescription": "",
-          "price": 7500
-        },
-        "c5f513a1-584d-4689-a025-a3b628a9f3cf": {
-          "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
-          "title": "Pike quenelle in creamy sauce",
-          "itemDescription": "",
-          "price": 14200,
-          "customizationUuids": [
-            "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
-          ]
-        },
-        "b4196b6e-5d40-4f04-995d-83983028ef89": {
-          "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
-          "title": "Olivier for your choise",
-          "itemDescription": "Mussels, rapana, or salmon.",
-          "price": 9600,
-          "customizationUuids": [
-            "7fd1a034-74d0-4411-beea-0a9fa16103e6"
-          ]
-        },
-        "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60": {
-          "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
-          "title": "Pate with mussels",
-          "itemDescription": "For 100g.",
-          "price": 4800,
-          "customizationUuids": [
-            "bffcd94a-bb07-457f-8333-36705748b833"
-          ]
-        },
-        "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3": {
-          "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
-          "title": "Seafood risotto",
-          "itemDescription": "",
-          "price": 18400
-        },
-        "7549ec73-7e54-434b-a6bb-25294e78b065": {
-          "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
-          "title": "Bruschetta with lightly-salted kilka, homemade sprats, homemade herring",
-          "itemDescription": "",
-          "price": 7700
-        }
-      },
-      "decoratedSubsections": [
-        {
-          "uuid": "42fbb929-fe20-4d39-afbb-05faf9a40d48",
-          "title": "Starters",
-          "itemUuids": [
-            "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
-            "9857966e-4c9f-42e6-bfdc-4820bb6936af",
-            "7549ec73-7e54-434b-a6bb-25294e78b065",
-            "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
-            "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
-            "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
-            "682397f6-2951-4ba7-8c8d-0df11abda8e0",
-            "26575601-8dbc-48e6-9b15-eb3768fae450",
-            "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
-            "522b0828-7048-40ea-b5d3-bd5ca917f5c7"
-          ]
-        },
-        {
-          "uuid": "12ed8d5e-5528-4ca5-89ea-6ddd74c2abe4",
-          "title": "Homemade pates and mousses",
-          "itemUuids": [
-            "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
-            "74f07519-0fce-43c8-815a-bf3cb6066d07",
-            "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
-            "1dcc552e-a1cb-406f-9137-4e49fa967749",
-            "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
-            "75f01784-8f17-4b04-b2b2-1d63ec9c438d"
-          ]
-        },
-        {
-          "uuid": "550421a8-cadc-42d8-97f7-0cfb98a99859",
-          "title": "Salads",
-          "itemUuids": [
-            "750950ae-db9f-4ab7-b90c-bd97c777812e",
-            "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
-            "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
-            "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
-            "b4196b6e-5d40-4f04-995d-83983028ef89",
-            "e662333e-aa1c-4492-aab3-b1d85807e15d",
-            "750bf2cd-efa9-4e63-a71c-56456565fc36",
-            "e2f1fd86-02fc-46c0-8d0c-629a66588c2f"
-          ]
-        },
-        {
-          "uuid": "376c0798-ab5a-4437-a569-c70bda0c2a40",
-          "title": "Soups",
-          "itemUuids": [
-            "6279dd4e-5ad8-40bd-97fb-39f024796736",
-            "932cb404-6552-413c-b57f-a702a03ece23",
-            "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
-            "c056129a-f54a-49f9-90a4-759977438963",
-            "efa35b00-41be-40f2-82b6-767ad7bd0784"
-          ]
-        },
-        {
-          "uuid": "5e7266b2-cef3-4329-9dd9-75b2c7521981",
-          "title": "Main platters",
-          "itemUuids": [
-            "691e75b6-1481-43b9-ba8d-117e23fd2d47",
-            "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
-            "c5f513a1-584d-4689-a025-a3b628a9f3cf",
-            "7205240f-7e63-4838-b792-c633e5425523",
-            "d453bd59-b99f-4424-bc2b-a37e28be33ff",
-            "0ba88047-429a-4722-b66b-a264f16f6f17"
-          ]
-        }
-      ]
-    }
-  },
   "location": {
     "latitude": 50.4539978,
     "longitude": 30.5114524,
@@ -373,5 +107,252 @@
     "storeRatingScore": 4.670886075949367,
     "ratingCount": "79"
   },
-  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9"
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9",
+  "items": {
+    "5d0d2d27-99a0-41a8-822c-f999a065dfcb": {
+      "uuid": "5d0d2d27-99a0-41a8-822c-f999a065dfcb",
+      "title": "Salmon carpaccio",
+      "itemDescription": "",
+      "price": 18300
+    },
+    "682397f6-2951-4ba7-8c8d-0df11abda8e0": {
+      "uuid": "682397f6-2951-4ba7-8c8d-0df11abda8e0",
+      "title": "Homemade herring with potatoes",
+      "itemDescription": "",
+      "price": 8900
+    },
+    "efa35b00-41be-40f2-82b6-767ad7bd0784": {
+      "uuid": "efa35b00-41be-40f2-82b6-767ad7bd0784",
+      "title": "Creamy oyster soup",
+      "itemDescription": "",
+      "price": 12700
+    },
+    "75f01784-8f17-4b04-b2b2-1d63ec9c438d": {
+      "uuid": "75f01784-8f17-4b04-b2b2-1d63ec9c438d",
+      "title": "Pate with shrimps",
+      "itemDescription": "For 100g.",
+      "price": 7600,
+      "customizationUuids": [
+        "4aa5e76d-8818-464d-a147-c2d925936156"
+      ]
+    },
+    "9857966e-4c9f-42e6-bfdc-4820bb6936af": {
+      "uuid": "9857966e-4c9f-42e6-bfdc-4820bb6936af",
+      "title": "Bruschetta with salmon",
+      "itemDescription": "",
+      "price": 12300
+    },
+    "932cb404-6552-413c-b57f-a702a03ece23": {
+      "uuid": "932cb404-6552-413c-b57f-a702a03ece23",
+      "title": "Tomato fish soup",
+      "itemDescription": "",
+      "price": 16500,
+      "suspendUntil": 8640000000
+    },
+    "1d76e9a7-c0d7-4068-9e8e-468376d17f36": {
+      "uuid": "1d76e9a7-c0d7-4068-9e8e-468376d17f36",
+      "title": "Provencal salad with fresh tuna",
+      "itemDescription": "",
+      "price": 23800
+    },
+    "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a": {
+      "uuid": "e7b8a507-ee26-46d9-a3dc-cb5e7061c26a",
+      "title": "Black sea soup",
+      "itemDescription": "",
+      "price": 6200
+    },
+    "ae4834ef-b6b6-4c40-ac90-25c914fbb987": {
+      "uuid": "ae4834ef-b6b6-4c40-ac90-25c914fbb987",
+      "title": "Mimosa salad with pollock liver",
+      "itemDescription": "",
+      "price": 9200
+    },
+    "e2f1fd86-02fc-46c0-8d0c-629a66588c2f": {
+      "uuid": "e2f1fd86-02fc-46c0-8d0c-629a66588c2f",
+      "title": "Warm seafood salad",
+      "itemDescription": "",
+      "price": 19300
+    },
+    "750950ae-db9f-4ab7-b90c-bd97c777812e": {
+      "uuid": "750950ae-db9f-4ab7-b90c-bd97c777812e",
+      "title": "Fresh salad with seafood and ginger dressing",
+      "itemDescription": "",
+      "price": 19700
+    },
+    "522b0828-7048-40ea-b5d3-bd5ca917f5c7": {
+      "uuid": "522b0828-7048-40ea-b5d3-bd5ca917f5c7",
+      "title": "Tuna tartar",
+      "itemDescription": "",
+      "price": 25700
+    },
+    "74f07519-0fce-43c8-815a-bf3cb6066d07": {
+      "uuid": "74f07519-0fce-43c8-815a-bf3cb6066d07",
+      "title": "Pate with tuna",
+      "itemDescription": "For 100g.",
+      "price": 6200,
+      "customizationUuids": [
+        "097e7437-cd0c-43e2-9bde-ce2f72f58fc9"
+      ]
+    },
+    "1dcc552e-a1cb-406f-9137-4e49fa967749": {
+      "uuid": "1dcc552e-a1cb-406f-9137-4e49fa967749",
+      "title": "Pate with salmon",
+      "itemDescription": "For 100g.",
+      "price": 6800,
+      "customizationUuids": [
+        "b61680f9-41e6-4895-82af-996ca885b764"
+      ]
+    },
+    "e662333e-aa1c-4492-aab3-b1d85807e15d": {
+      "uuid": "e662333e-aa1c-4492-aab3-b1d85807e15d",
+      "title": "Arugula, with shrimp, cherry tomatoes and Parmesan cheese",
+      "itemDescription": "",
+      "price": 19500
+    },
+    "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d": {
+      "uuid": "17b0dea1-48d3-4dec-b927-aeb74a5e3c1d",
+      "title": "Green salad with Rapana",
+      "itemDescription": "",
+      "price": 15300
+    },
+    "d453bd59-b99f-4424-bc2b-a37e28be33ff": {
+      "uuid": "d453bd59-b99f-4424-bc2b-a37e28be33ff",
+      "title": "Shellfish pasta",
+      "itemDescription": "",
+      "price": 18600
+    },
+    "7be0d00e-ba71-473f-9b90-db0e77f7a1e1": {
+      "uuid": "7be0d00e-ba71-473f-9b90-db0e77f7a1e1",
+      "title": "Pate with stingray liver",
+      "itemDescription": "For 100g.",
+      "price": 4200,
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "8df972ec-5272-4c51-911a-809535940633"
+      ]
+    },
+    "691e75b6-1481-43b9-ba8d-117e23fd2d47": {
+      "uuid": "691e75b6-1481-43b9-ba8d-117e23fd2d47",
+      "title": "Mussels in a sauce of your choice",
+      "itemDescription": "Cream, garlic, tomato and soy sauces to choose from.",
+      "price": 8800,
+      "suspendUntil": 8640000000,
+      "customizationUuids": [
+        "1d861093-c1a7-44cb-811b-f1210ef9269e",
+        "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+      ]
+    },
+    "750bf2cd-efa9-4e63-a71c-56456565fc36": {
+      "uuid": "750bf2cd-efa9-4e63-a71c-56456565fc36",
+      "title": "Caesar with salted salmon",
+      "itemDescription": "",
+      "price": 17600
+    },
+    "7205240f-7e63-4838-b792-c633e5425523": {
+      "uuid": "7205240f-7e63-4838-b792-c633e5425523",
+      "title": "Pikeperch cutlets with mashed potato",
+      "itemDescription": "",
+      "price": 15200
+    },
+    "6279dd4e-5ad8-40bd-97fb-39f024796736": {
+      "uuid": "6279dd4e-5ad8-40bd-97fb-39f024796736",
+      "title": "Salmon cream soup",
+      "itemDescription": "",
+      "price": 14600,
+      "suspendUntil": 8640000000
+    },
+    "3a4bcba3-c23f-458d-8289-5ba4ac631fb5": {
+      "uuid": "3a4bcba3-c23f-458d-8289-5ba4ac631fb5",
+      "title": "Homemade sprats with croutons",
+      "itemDescription": "",
+      "price": 8900
+    },
+    "c056129a-f54a-49f9-90a4-759977438963": {
+      "uuid": "c056129a-f54a-49f9-90a4-759977438963",
+      "title": "Fish solyanka",
+      "itemDescription": "",
+      "price": 14700
+    },
+    "26575601-8dbc-48e6-9b15-eb3768fae450": {
+      "uuid": "26575601-8dbc-48e6-9b15-eb3768fae450",
+      "title": "Salmon tartar with Transcarpathian pike caviar",
+      "itemDescription": "",
+      "price": 19200
+    },
+    "889b3424-5c4e-4d5c-b58e-7f4bff15d082": {
+      "uuid": "889b3424-5c4e-4d5c-b58e-7f4bff15d082",
+      "title": "Salted kilka with potatoes",
+      "itemDescription": "",
+      "price": 5500
+    },
+    "0ba88047-429a-4722-b66b-a264f16f6f17": {
+      "uuid": "0ba88047-429a-4722-b66b-a264f16f6f17",
+      "title": "Rapana meat with mushrooms and cherry tomatoes",
+      "itemDescription": "",
+      "price": 16200,
+      "customizationUuids": [
+        "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+      ]
+    },
+    "04c6ce13-b00a-4da9-b031-8d9ba05d98c9": {
+      "uuid": "04c6ce13-b00a-4da9-b031-8d9ba05d98c9",
+      "title": "Pate with cod liver",
+      "itemDescription": "For 100g.",
+      "price": 6300,
+      "customizationUuids": [
+        "5aa81bb0-8fcd-463c-9511-6d83e6250ea7"
+      ]
+    },
+    "5fb29ece-34f0-4b79-9614-ad2120be3bfd": {
+      "uuid": "5fb29ece-34f0-4b79-9614-ad2120be3bfd",
+      "title": "Carpathian pike caviar with spring onion",
+      "itemDescription": "",
+      "price": 17200
+    },
+    "d9f388ce-bb1e-4ae3-bcfb-7249560685a3": {
+      "uuid": "d9f388ce-bb1e-4ae3-bcfb-7249560685a3",
+      "title": "Odessa forshmak with croutons",
+      "itemDescription": "",
+      "price": 7500
+    },
+    "c5f513a1-584d-4689-a025-a3b628a9f3cf": {
+      "uuid": "c5f513a1-584d-4689-a025-a3b628a9f3cf",
+      "title": "Pike quenelle in creamy sauce",
+      "itemDescription": "",
+      "price": 14200,
+      "customizationUuids": [
+        "b3803dc4-c3fc-4261-883d-bafe2c9e3068"
+      ]
+    },
+    "b4196b6e-5d40-4f04-995d-83983028ef89": {
+      "uuid": "b4196b6e-5d40-4f04-995d-83983028ef89",
+      "title": "Olivier for your choise",
+      "itemDescription": "Mussels, rapana, or salmon.",
+      "price": 9600,
+      "customizationUuids": [
+        "7fd1a034-74d0-4411-beea-0a9fa16103e6"
+      ]
+    },
+    "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60": {
+      "uuid": "4f8134c8-f7bd-4cab-9eb6-a2e30b813f60",
+      "title": "Pate with mussels",
+      "itemDescription": "For 100g.",
+      "price": 4800,
+      "customizationUuids": [
+        "bffcd94a-bb07-457f-8333-36705748b833"
+      ]
+    },
+    "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3": {
+      "uuid": "3c6b1d6f-e72c-4528-927f-a1cbc60be8e3",
+      "title": "Seafood risotto",
+      "itemDescription": "",
+      "price": 18400
+    },
+    "7549ec73-7e54-434b-a6bb-25294e78b065": {
+      "uuid": "7549ec73-7e54-434b-a6bb-25294e78b065",
+      "title": "Bruschetta with lightly-salted kilka, homemade sprats, homemade herring",
+      "itemDescription": "",
+      "price": 7700
+    }
+  }
 }
