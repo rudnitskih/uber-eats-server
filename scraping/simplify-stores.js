@@ -19,7 +19,6 @@ fs.readdir(dirname, function (err, filenames) {
 function processFile(filePath, data) {
   delete data.regionId;
 
-
   const rawdata = JSON.stringify(data, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {
     if (err) throw err;
