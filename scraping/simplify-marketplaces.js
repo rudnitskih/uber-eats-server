@@ -7,8 +7,7 @@ let marketplaces = JSON.parse(rawdata);
 
 
 marketplaces.feed = marketplaces.feed.map((feedItem) => {
-  delete feedItem.location.reference;
-  delete feedItem.location.reference;
+  delete feedItem.closedEtaMessage;
 
   return feedItem;
 });

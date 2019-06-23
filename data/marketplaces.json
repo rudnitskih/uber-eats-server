@@ -403,9 +403,6 @@
     {
       "uuid": "6585ad84-b9b0-4ab0-be54-f22657cd29bc",
       "title": "Musafir (вул. Саксаганського)",
-      "tagline": {
-        "text": "₴₴ • Middle Eastern"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed032859-05fa-4761-9a4f-ac5fb7d5859a",
       "heroImage": {
         "items": [
@@ -456,9 +453,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Saksahanskoho St, 57а, На Черный Вход, Kyiv, 02000"
-        },
-        "reference": "ChIJGcdSOvvO1EARgus_Ib7FQdI",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -468,22 +463,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Найпопулярніші янтики та чебуреки",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Найпопулярніші янтики та чебуреки",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/ed032859-05fa-4761-9a4f-ac5fb7d5859a",
       "tags": [
         {
@@ -516,14 +496,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380501649676"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "2de9bfbe-33e4-4d0f-aafa-96e5eb15e286",
       "title": "Berliner Döner (б-р Т. Шевченка)",
-      "tagline": {
-        "text": "₴ • Fast Food • Middle Eastern • Turkish • European"
-      },
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w550-01.jpg",
       "heroImage": {
         "items": [
@@ -570,9 +548,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Tarasa Shevchenko Blvd, 31, Kyiv, 02000"
-        },
-        "reference": "ChIJaasw6vTO1EARgDUx0Zp3hEA",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -634,14 +610,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380689480731"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "a4b2a7ab-bfd4-4b0f-b208-0bfbf90fecb5",
       "title": "Gogi (б-р Т. Шевченка)",
-      "tagline": {
-        "text": "₴₴ • Georgian • European • Pastry"
-      },
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w550-40.jpg",
       "heroImage": {
         "items": [
@@ -691,9 +665,7 @@
           "postalCode": "",
           "region": "",
           "formattedAddress": "Tarasa Shevchenko Blvd, 2, Kyiv, Ukraine, 02000, "
-        },
-        "reference": "ChIJsw3VTP_O1EARwvcDIetatFc",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -713,22 +685,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Традиційні грузинські хінкалі та хачапурі",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Традиційні грузинські хінкалі та хачапурі",
       "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w550-40.jpg",
       "tags": [
         {
@@ -761,14 +718,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380636150989"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "3797de4f-edb9-4b99-bc04-e9ef79037df9",
       "title": "Milk Bar",
-      "tagline": {
-        "text": "₴₴ • Desserts • European"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
       "heroImage": {
         "items": [
@@ -818,9 +773,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Shota Rustaveli St, 16, Kyiv, 02000"
-        },
-        "reference": "ChIJR0XP9P7O1EARstuxY9bvR_0",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -835,22 +788,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Десерти, про які всі говорять",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Десерти, про які всі говорять",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
       "tags": [
         {
@@ -878,14 +816,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380442370907"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "8476752b-08cb-4280-8066-41bc3c0dca4c",
       "title": "Meiwei (вул. Велика Васильківська)",
-      "tagline": {
-        "text": "₴₴ • Chinese • Asian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/f51103dd-acd1-4b10-a87c-6a40c2f5884e",
       "heroImage": {
         "items": [
@@ -932,9 +868,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Velyka Vasylkivska St, 23, Kyiv, 02000"
-        },
-        "reference": "ChIJbz0VvP7O1EARfMI9kFz-5o8",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -981,14 +915,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380673113545"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "b4966a8c-1b47-41f1-94ce-3f138127f9f0",
       "title": "Green 13 (Бессарабська площа)",
-      "tagline": {
-        "text": "₴ • Vegan • Vegetarian • Street Food"
-      },
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w550-47.jpg",
       "heroImage": {
         "items": [
@@ -1038,9 +970,7 @@
           "postalCode": "02000",
           "region": "Kyiv city",
           "formattedAddress": "Bessarabs'Ka Square, 2, 13, Kyiv, Kyiv city 02000"
-        },
-        "reference": "ChIJ7dKDYP_O1EARIi9g2-kdQwg",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -1060,22 +990,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-        "text": "Веганський стріт-фуд",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Веганський стріт-фуд",
       "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w550-47.jpg",
       "tags": [
         {
@@ -1118,14 +1033,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380982940231"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "c4f38df6-a5b7-4eb5-929b-02e398a85d8f",
       "title": "ORANG+UTAN (вул. С. Петлюри)",
-      "tagline": {
-        "text": "₴ • Healthy • Vegetarian • Vegan"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/b25926dd-02a8-4a75-8f81-1f25a08c8be0",
       "heroImage": {
         "items": [
@@ -1195,22 +1108,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-        "text": "Сендвіч-бар здорової їжі",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Сендвіч-бар здорової їжі",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b25926dd-02a8-4a75-8f81-1f25a08c8be0",
       "tags": [
         {
@@ -1243,14 +1141,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380679906910"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "b4897dec-3456-4691-9524-48caa602e552",
       "title": "Noodle Doodle (Бессарабська площа)",
-      "tagline": {
-        "text": "₴ • Asian • Chinese"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d86b04b-4383-4f96-a7bc-1b460326ca9d",
       "heroImage": {
         "items": [
@@ -1354,14 +1250,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380673204446"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "cd9eef63-9536-461d-9f19-5358f4b4fa66",
       "title": "Сушия (просп. Перемоги 3)",
-      "tagline": {
-        "text": "₴₴ • Japanese • Rolls • Sushi • Asian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
       "heroImage": {
         "items": [
@@ -1411,9 +1305,7 @@
           "postalCode": "",
           "region": "",
           "formattedAddress": "Peremohy Ave, 3, Kyiv, Ukraine, 02000, "
-        },
-        "reference": "ChIJt9gRjovO1EARjL6ikQ1M8X8",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -1438,10 +1330,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Справжні японські суші"
-      },
+      "endorsement": "Справжні японські суші",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
       "tags": [
         {
@@ -1489,14 +1378,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380674032929"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "d7086561-2409-4c9f-a13e-f397c7dc9fb0",
       "title": "Балувана Галя",
-      "tagline": {
-        "text": "₴₴ • Ukrainian • European • Comfort Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/61eb08eb-01d3-462f-aad2-e9a577a99417",
       "heroImage": {
         "items": [
@@ -1543,9 +1430,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Antonovycha St, 50, Kyiv, 02000"
-        },
-        "reference": "ChIJSSYr3eLO1EARfh8fLxAbEQI",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -1597,14 +1482,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380933193939"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "49152074-1425-4770-b8e5-abe80736c635",
       "title": "Mimosa Brooklyn Pizza",
-      "tagline": {
-        "text": "₴₴ • Italian • Pizza • American"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e8d32ee-5f96-45dc-99db-19b17001d4ee",
       "heroImage": {
         "items": [
@@ -1654,9 +1537,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Baseina St, 1/2, Kyiv, 02000"
-        },
-        "reference": "ChIJBc00ef_O1EAR6jasFA_Rx7Y",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -1676,22 +1557,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Смачна піца на хрусткому коржі",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Смачна піца на хрусткому коржі",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0e8d32ee-5f96-45dc-99db-19b17001d4ee",
       "tags": [
         {
@@ -1724,14 +1590,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380660670158"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "e476dc30-429f-4228-ab27-e10552a4f0c2",
       "title": "Burger Farm (б-р Шевченка)",
-      "tagline": {
-        "text": "₴ • American • BBQ • Traditional American"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/48efae80-7609-44a2-bec8-afbae76fab98",
       "heroImage": {
         "items": [
@@ -1830,14 +1694,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380506340451"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "7ba8a72c-0962-4672-9668-54691bb8c224",
       "title": "Сушия (вул. Г. Кірпи)",
-      "tagline": {
-        "text": "₴₴ • Japanese • Sushi • Rolls • Asian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/be1c1aa8-604c-4b62-966b-807ca06adab0",
       "heroImage": {
         "items": [
@@ -1912,10 +1774,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Справжні японські суші"
-      },
+      "endorsement": "Справжні японські суші",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/be1c1aa8-604c-4b62-966b-807ca06adab0",
       "tags": [
         {
@@ -1958,14 +1817,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380672098257"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "e8cdd7bd-a859-4471-9c57-8fd655e75e17",
       "title": "Dogs & Tails",
-      "tagline": {
-        "text": "₴₴ • American • European • Street Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b",
       "heroImage": {
         "items": [
@@ -2012,9 +1869,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Shota Rustaveli St, 19, Kyiv, 02000"
-        },
-        "reference": "ChIJZ9gJY_7O1EARAHRdVuzI_Os",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -2071,14 +1926,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380443530907"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "3e4d17c9-e135-425f-ad14-c5a31d8fc5c0",
       "title": "П.Пельмені",
-      "tagline": {
-        "text": "₴ • Eastern European • Ukrainian • Comfort Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
       "heroImage": {
         "items": [
@@ -2177,14 +2030,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380633740510"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "b89c1c6e-97d2-484d-912a-d15b8c9e1e30",
       "title": "Жовте море (вул. Пушкінська)",
-      "tagline": {
-        "text": "₴₴ • Japanese • Chinese • Sushi"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
       "heroImage": {
         "items": [
@@ -2283,14 +2134,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380442245555"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "ac62b80f-5757-4bd1-a2fa-10064fba4c89",
       "title": "Bistro Bistro (вул. Шота Руставелі)",
-      "tagline": {
-        "text": "₴ • American • Street Food • Fast Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/689352da-8b67-4ec9-b84b-50459d7d56f8",
       "heroImage": {
         "items": [
@@ -2360,22 +2209,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Улюблені хот-доги столиці",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Улюблені хот-доги столиці",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/689352da-8b67-4ec9-b84b-50459d7d56f8",
       "tags": [
         {
@@ -2408,14 +2242,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380502938633"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "8dd6b32e-94ab-413d-a409-32e56f649223",
       "title": "Mira cafe (Бессарабська площа)",
-      "tagline": {
-        "text": "₴₴ • European • Vegan • Healthy"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
       "heroImage": {
         "items": [
@@ -2465,9 +2297,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
-        },
-        "reference": "ChIJ7dKDYP_O1EARIi9g2-kdQwg",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -2487,22 +2317,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Збалансовані страви з натуральних продуктів",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Збалансовані страви з натуральних продуктів",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
       "tags": [
         {
@@ -2540,14 +2355,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380677432322"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "5a2ab93f-635d-47fd-9dce-b62ec1ef41f7",
       "title": "ЇZH",
-      "tagline": {
-        "text": "₴ • American • Burger • Street Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
       "heroImage": {
         "items": [
@@ -2594,9 +2407,7 @@
           "postalCode": "",
           "region": "",
           "formattedAddress": "Zolotovoritska St, 3/2, Kyiv, Ukraine, 02000, "
-        },
-        "reference": "ChIJdb6G1lvO1EARrhb4zwK70UA",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -2648,14 +2459,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380663139959"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "e977baa2-fa97-4292-847b-edb5e6ddd271",
       "title": "PASTATECA",
-      "tagline": {
-        "text": "₴₴ • European • Pasta • Italian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
       "heroImage": {
         "items": [
@@ -2702,9 +2511,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Lva Tolstoho St, 11/61, Kyiv, 02000"
-        },
-        "reference": "ChIJOZn0ffnO1EARiuCJrIgM1sI",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -2766,14 +2573,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380673206580"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "a9618f36-3494-44e9-91eb-df74d0827e15",
       "title": "Viet Bar",
-      "tagline": {
-        "text": "₴₴ • Asian • Vietnamese"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/7de8ef71-0282-48bd-bee3-a9b8e8d34c07",
       "heroImage": {
         "items": [
@@ -2820,9 +2625,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Вулиця Велика Васильківська, 88, Київ, Украина, 02000"
-        },
-        "reference": "ChIJlVcUmB3P1EARwp6UmbiDNuw",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -2874,14 +2677,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380935200949"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "6de9aa89-2985-49ce-bad4-b85720e150d2",
       "title": "ShashlikYan (вул. Велика Васильківська)",
-      "tagline": {
-        "text": "₴ • Middle Eastern • BBQ • Desserts • Salad • Juice and smoothies"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/dba367fc-e42b-4eb3-a532-220c5046abf5",
       "heroImage": {
         "items": [
@@ -2961,22 +2762,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Шашлик в кращих вірменських традиціях ",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Шашлик в кращих вірменських традиціях ",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/dba367fc-e42b-4eb3-a532-220c5046abf5",
       "tags": [
         {
@@ -3019,14 +2805,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380443840988"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "3d1e4ba7-3461-45d1-9a82-9ec55c80c2c5",
       "title": "Ой, Мамо! Це було в Тбiлiсi",
-      "tagline": {
-        "text": "₴₴ • Georgian • Pastry • Middle Eastern"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cfe6bc9-0bff-4f46-85d6-75c9b2392016",
       "heroImage": {
         "items": [
@@ -3073,9 +2857,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Saksahanskoho St, 109, Kyiv, 02000"
-        },
-        "reference": "ChIJOVVKgPTO1EARjKIKJp9UqNY",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3127,14 +2909,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380934201667"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "0e924687-7405-4c62-b38f-dc7cda384d65",
       "title": "Furgoneta",
-      "tagline": {
-        "text": "₴ • Vegetarian • Burger • Asian • Fast Food"
-      },
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
       "heroImage": {
         "items": [
@@ -3181,9 +2961,7 @@
           "postalCode": "02000",
           "region": "Kyiv city",
           "formattedAddress": "Baseina St, 13, Kyiv, Kyiv city 02000"
-        },
-        "reference": "ChIJHfXOvv_O1EARRolWw09mmLQ",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3240,14 +3018,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380501498999"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "07a42419-c83a-47cf-8f3c-99c05e38bc04",
       "title": "Нікого не їм",
-      "tagline": {
-        "text": "₴ • Vegan • Vegetarian • Street Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/25884f4c-c176-4388-affb-45e5e55018a1",
       "heroImage": {
         "items": [
@@ -3351,14 +3127,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380633722232"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "ebb14e0c-96f1-44c1-ae09-a72e3d65f7c3",
       "title": "The Butcher Burgers",
-      "tagline": {
-        "text": "₴₴ • American • Burger • Salad"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
       "heroImage": {
         "items": [
@@ -3405,9 +3179,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Sofiivs'Ka St, 23, Kyiv, 02000"
-        },
-        "reference": "ChIJWziDV1rO1EAR4Cgomnf8m38",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3459,14 +3231,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380639461405"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "cdee8e3d-c389-45b4-990a-5846770f97b2",
       "title": "MY! Burgers & Fries",
-      "tagline": {
-        "text": "₴ • Burger"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/671b9d74-d74c-4185-8065-c72ae499c8d3",
       "heroImage": {
         "items": [
@@ -3513,9 +3283,7 @@
           "postalCode": "01023",
           "region": "",
           "formattedAddress": "Спортивна Площа, 1a, Київ, Украина, 01023"
-        },
-        "reference": "ChIJsw1yMf7O1EARGOp80OTXej0",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3547,14 +3315,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380979382747"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "72885776-28fe-4247-b6ad-78da220db01a",
       "title": "Pho.Kyiv",
-      "tagline": {
-        "text": "₴₴ • Vietnamese"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/efecb48a-58b1-4adf-a802-9901a2b30611",
       "heroImage": {
         "items": [
@@ -3601,9 +3367,7 @@
           "postalCode": "02000",
           "region": "Kyiv city",
           "formattedAddress": "Velyka Zhytomyrska St, 26, Kyiv, Kyiv city 02000"
-        },
-        "reference": "ChIJ2VUD6FzO1EAR0tKqKEGDgvM",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3640,14 +3404,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380672604343"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "78ef7b98-249c-4bdc-b5bc-3efb952c5265",
       "title": "Walker Food (вул. Хрещатик)",
-      "tagline": {
-        "text": "₴ • Fast Food • Burger • Asian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d3df769-97e8-4d3a-820c-000d40662070",
       "heroImage": {
         "items": [
@@ -3694,9 +3456,7 @@
           "postalCode": "",
           "region": "",
           "formattedAddress": "Khreschatyk St, 19, Kyiv, Ukraine, 02000, "
-        },
-        "reference": "ChIJh_EMmlbO1EARcEEiq-qqpBQ",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3748,14 +3508,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380983503115"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "c01016d0-016b-4237-b98e-c72b3b2994e7",
       "title": "Simple",
-      "tagline": {
-        "text": "₴ • European • Healthy • Vegetarian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/d959fcf0-3b5c-4932-b516-4ef08bddd7b9",
       "heroImage": {
         "items": [
@@ -3802,9 +3560,7 @@
           "postalCode": "02000",
           "region": "Kyiv city",
           "formattedAddress": "Saksahanskoho St, 102, Kyiv, Kyiv city 02000"
-        },
-        "reference": "ChIJYT4D7vPO1EAR8Nx2aQyK5Ac",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3856,14 +3612,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380442880808"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "02337366-27f2-4034-9dc4-362ca17d14b2",
       "title": "Mira cafe (вул. Еспланадна)",
-      "tagline": {
-        "text": "₴₴ • European • Vegan • Healthy"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/25749b8e-06a5-487f-a7ba-390799ebb550",
       "heroImage": {
         "items": [
@@ -3913,9 +3667,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Esplanadna St, 32, Kyiv, 02000"
-        },
-        "reference": "ChIJ_T-65f3O1EARCGcCawhMSfw",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -3935,22 +3687,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Збалансовані страви з натуральних продуктів",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Збалансовані страви з натуральних продуктів",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/25749b8e-06a5-487f-a7ba-390799ebb550",
       "tags": [
         {
@@ -3988,14 +3725,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380677432322"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "3f4f5a77-150b-43cc-a4ee-d8859909b627",
       "title": "True Burger Bar",
-      "tagline": {
-        "text": "₴₴ • American • Burger • Salad"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
       "heroImage": {
         "items": [
@@ -4094,14 +3829,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380990109993"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "a181db96-b909-4846-9cd0-412ea5fc5673",
       "title": "Green 13 (вул. Велика Житомирська)",
-      "tagline": {
-        "text": "₴ • Vegan • Vegetarian • Street Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1fcbae1-6ec8-4ac0-8950-0e7e59987cda",
       "heroImage": {
         "items": [
@@ -4151,9 +3884,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Velyka Zhytomyrska St, 40, Kyiv, 02000"
-        },
-        "reference": "ChIJ1U-jDF3O1EARnNz2NFbpWI4",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -4173,22 +3904,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-        "text": "Веганський стріт-фуд",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Веганський стріт-фуд",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c1fcbae1-6ec8-4ac0-8950-0e7e59987cda",
       "tags": [
         {
@@ -4231,14 +3947,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380681783268"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "164a36fc-d71c-4d00-9719-7a88aac3f4a3",
       "title": "Lemongrass Cafe",
-      "tagline": {
-        "text": "₴₴ • European • Ukrainian • Italian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e613af55-5537-4b9a-afd2-b265cdfe57bf",
       "heroImage": {
         "items": [
@@ -4285,9 +3999,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Zolotoustivska St, 14, Kyiv, 02000"
-        },
-        "reference": "ChIJl6eNM4rO1EARpmwlxVjnC6E",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -4339,14 +4051,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380443314003"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "b620fe87-4d5f-4316-9eae-8deb35f28a24",
       "title": "Naprosecco Oyster & Co",
-      "tagline": {
-        "text": "₴ • Seafood • Burger • European"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
       "heroImage": {
         "items": [
@@ -4393,9 +4103,7 @@
           "postalCode": "04070",
           "region": "",
           "formattedAddress": "Petra Sahaidachnoho St, 41, Kyiv, 04070"
-        },
-        "reference": "ChIJa4TOD0HO1EARRwhlOwg02p4",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -4442,14 +4150,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380992891511"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "38301644-05b7-4238-b353-db331dbbfcd8",
       "title": "Bistro Bistro (вул. І. Франка)",
-      "tagline": {
-        "text": "₴ • American • Street Food • Fast Food"
-      },
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
       "heroImage": {
         "items": [
@@ -4519,22 +4225,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Улюблені хот-доги столиці",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Улюблені хот-доги столиці",
       "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
       "tags": [
         {
@@ -4567,14 +4258,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380669068161"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "dd3f2fbf-b2e2-47e5-ac3a-54a481d3ad5a",
       "title": "Avocado (вул. Інституцька) ",
-      "tagline": {
-        "text": "₴₴ • European • Vegetarian • Healthy • Burger"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/59373330-03ea-4d53-af9b-d5d172d24411",
       "heroImage": {
         "items": [
@@ -4621,9 +4310,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Instytutska St, 27, Kyiv, 02000"
-        },
-        "reference": "EiNJbnN0eXR1dHNrYSBTdCwgMjcvNiwgS3lpdiwgVWtyYWluZSIwEi4KFAoSCdleMXusz9RAERyKWh1L9cWCEBsqFAoSCa89WKNTztRAEcCUmyzyIOjT",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -4695,14 +4382,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380954344788"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "03af4130-d007-4d50-a907-4c2723e63486",
       "title": "Celentano (вул. Велика Васильківська)",
-      "tagline": {
-        "text": "₴₴ • Italian • European"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/03a60f51-9cea-4e8e-8408-5a093b46d086",
       "heroImage": {
         "items": [
@@ -4749,9 +4434,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Velyka Vasylkivska St, 111, Kyiv, 02000"
-        },
-        "reference": "ChIJg3LCVD3P1EART1nbIeOwc0w",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -4803,14 +4486,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380445855997"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "dc3805b0-c217-46cc-9116-26a348127d04",
       "title": "Zigzag",
-      "tagline": {
-        "text": "₴₴ • European • Breakfast and brunch • Burger"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9",
       "heroImage": {
         "items": [
@@ -4857,9 +4538,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Reitarska St, 13, Kyiv, 02000"
-        },
-        "reference": "ChIJma3Q4FvO1EARbkc40HdYuyg",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -4921,14 +4600,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380683856551"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "abd909f9-9917-4952-9bae-f701f422321e",
       "title": "Street Hub Круасан",
-      "tagline": {
-        "text": "₴ • Modern French • European • Fast Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/32642c43-8a73-4db7-a242-3d0c698543a8",
       "heroImage": {
         "items": [
@@ -5027,14 +4704,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380671749434"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "7d0dd7b9-5ae0-4c23-b69f-047a7b459835",
       "title": "Döner Kebab & Burger",
-      "tagline": {
-        "text": "₴₴ • Turkish • Eastern European • Burger • Asian • Salad • Comfort Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/318dda12-2a82-425f-a0c7-d8797f0722a0",
       "heroImage": {
         "items": [
@@ -5173,14 +4848,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380668448574"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "9bb5f578-a8fe-46ca-b04e-116a7393696a",
       "title": "Maisatai.bar",
-      "tagline": {
-        "text": "₴₴ • Asian • Thai"
-      },
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w550-1b.jpg",
       "heroImage": {
         "items": [
@@ -5227,9 +4900,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Vozdvyzhens'Ka St, 51, Kyiv, 02000"
-        },
-        "reference": "ChIJcXdWrUPO1EARF1hzJF50Nfo",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -5291,14 +4962,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380986766443"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "019ab37a-02b3-495c-ad3e-32a47c0e8538",
       "title": "Mira cafe (вул. Ярославів Вал)",
-      "tagline": {
-        "text": "₴₴ • European • Vegan friendly • Healthy"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbe421-5942-40fe-88d3-0991c3721d1a",
       "heroImage": {
         "items": [
@@ -5348,9 +5017,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Yaroslaviv Val St, 20, Kyiv, 02000"
-        },
-        "reference": "ChIJY2HOU1nO1EARmi7DGmwZxeU",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -5370,22 +5037,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Збалансовані страви з натуральних продуктів",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Збалансовані страви з натуральних продуктів",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/03fbe421-5942-40fe-88d3-0991c3721d1a",
       "tags": [
         {
@@ -5423,14 +5075,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380677432322"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "b318911f-1c17-4d57-b0ef-3c0fcbd7f17e",
       "title": "Шишка",
-      "tagline": {
-        "text": "₴₴ • Vegetarian • European"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6f5a386-80b2-490e-afe2-d227170444b4",
       "heroImage": {
         "items": [
@@ -5519,14 +5169,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380682286161"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "28c2ef4c-ff9d-4bed-b6b4-0d9603aaaa1c",
       "title": "Fish & Pussycat ",
-      "tagline": {
-        "text": "₴₴₴ • Japanese • Sushi • Seafood"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
       "heroImage": {
         "items": [
@@ -5573,9 +5221,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Baseina St, 5б, Kyiv, 02000"
-        },
-        "reference": "ChIJdTkknP_O1EAREjxWwu5Qw3I",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -5627,14 +5273,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380667126164"
-      }
+      },
+      "priceLevel": "₴₴₴"
     },
     {
       "uuid": "03fa0bf3-b60a-4876-80c9-15d018029c61",
       "title": "Барсук",
-      "tagline": {
-        "text": "₴₴ • European • Ukrainian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ef9ebf7-84a0-404e-9b05-48f39865bf44",
       "heroImage": {
         "items": [
@@ -5733,14 +5377,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380503863629"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "7988ae6c-9bf7-4b35-ad8b-277988f8bb52",
       "title": "Hedonist Bar & Kitchen",
-      "tagline": {
-        "text": "₴₴ • European • Burger • Asian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
       "heroImage": {
         "items": [
@@ -5787,9 +5429,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Antonovycha St, 45, Kyiv, 02000"
-        },
-        "reference": "ChIJ40LdxeLO1EARpIG1l9iMVVQ",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -5841,14 +5481,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380688637772"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "8548894f-0b8a-4388-b627-6886b301e65a",
       "title": "Nebos",
-      "tagline": {
-        "text": "₴₴ • Vegan • Vegetarian friendly"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf",
       "heroImage": {
         "items": [
@@ -5895,9 +5533,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Mala Zhytomyrska St, 3, Kyiv, 02000"
-        },
-        "reference": "EkDQstGD0LvQuNGG0Y8g0JzQsNC70LAg0JbQuNGC0L7QvNC40YDRgdGM0LrQsCwgMy80LCBLeWl2LCBVa3JhaW5lIjASLgoUChIJReH5nlrO1EARiD2rjKoR9q4QAyoUChIJvcdvvVrO1EARZz8zk2M7iDw",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -5939,14 +5575,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380934325753"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "e507b2ca-c104-4988-a512-c99558d516fe",
       "title": "Carnivora (вул. Cічових Стрільців)",
-      "tagline": {
-        "text": "₴ • Ukrainian • Comfort Food • Burger"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/162d8d7d-7e73-42f0-94bc-d1f0e7050477",
       "heroImage": {
         "items": [
@@ -5993,9 +5627,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Sichovykh Striltsiv St, 84, Kyiv, 02000"
-        },
-        "reference": "ChIJU78aXnvO1EARCBEvRR2qk24",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -6047,14 +5679,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380983481338"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "39a3d947-2a9f-4d4d-958f-1b8c16912bca",
       "title": "Al Faro",
-      "tagline": {
-        "text": "₴₴ • Italian • European • Pizza"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
       "heroImage": {
         "items": [
@@ -6101,9 +5731,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Velyka Vasylkivska St, 49а, Kyiv, 02000"
-        },
-        "reference": "ChIJY-toE_3O1EARQU_0xkcs65k",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -6155,14 +5783,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380981143300"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "a743b05f-520b-4459-87e2-c7b786ef1d75",
       "title": "Софра (Кловський узвіз)",
-      "tagline": {
-        "text": "₴ • Middle Eastern • Turkish • Eastern European"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
       "heroImage": {
         "items": [
@@ -6261,14 +5887,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380931237290"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "57d5f153-d4f6-4b06-811c-bc6abbc34a56",
       "title": "Чорноморка (вул. Гончара)",
-      "tagline": {
-        "text": "₴₴ • Seafood • Jewish • European"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
       "heroImage": {
         "items": [
@@ -6318,9 +5942,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Olesia Honchara St, 15/3, Kyiv, 02000"
-        },
-        "reference": "ChIJEdo2YlzO1EARmLDhQqjBRtw",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -6340,22 +5962,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Риба і морепродукти за доступними цінами",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Риба і морепродукти за доступними цінами",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
       "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9",
       "etaRange": {
@@ -6371,14 +5978,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380678140505"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "f1397232-dfb7-45d8-bc0d-52a2ec2c517b",
       "title": "MOMO (вул. П. Сагайдачного)",
-      "tagline": {
-        "text": "₴ • Vegetarian • European • Breakfast and brunch"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/b1ec01e3-404b-4836-bf26-fc7825abae12",
       "heroImage": {
         "items": [
@@ -6477,14 +6082,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380683648364"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "65eb8bb8-4928-4777-8453-7128181c3bc6",
       "title": "Urban Space 500",
-      "tagline": {
-        "text": "₴₴ • Healthy • Modern European • Vegetarian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
       "heroImage": {
         "items": [
@@ -6531,9 +6134,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Borysa Hrinchenka St, 9, Kyiv, 02000"
-        },
-        "reference": "ChIJSzm8zlDO1EARJiP842cWivk",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -6585,14 +6186,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380631618400"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "b3f84976-ef9c-428e-8652-4e1bb3cbe17c",
       "title": "Walker Food (вул. Антоновича)",
-      "tagline": {
-        "text": "₴ • Fast Food • Burger • Asian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
       "heroImage": {
         "items": [
@@ -6691,14 +6290,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380673528686"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "17cc3a74-f19d-443e-ad45-4081baf8378c",
       "title": "Чашка espresso bar",
-      "tagline": {
-        "text": "₴ • Breakfast and brunch • Desserts • Coffee and tea"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
       "heroImage": {
         "items": [
@@ -6745,9 +6342,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Velyka Vasylkivska St, 1-3, Kyiv, 02000"
-        },
-        "reference": "ChIJhXruQf_O1EAR4x9eH3xbWX0",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -6799,14 +6394,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380504163416"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "7c955a00-c104-4013-b84f-0b60820bcdf4",
       "title": "Pesto Cafe (ТЦ Globus)",
-      "tagline": {
-        "text": "₴₴ • European • Italian • Pizza"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c8833d8-ef99-4e45-8d56-f878f6c76f26",
       "heroImage": {
         "items": [
@@ -6856,9 +6449,7 @@
           "postalCode": "",
           "region": "",
           "formattedAddress": "Maidan Nezalezhnosti, 1, "
-        },
-        "reference": "ChIJbyssX1DO1EARSVCSAsOLcDw",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -6878,22 +6469,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Щовівторка отримуй другу піцу у подарунок! ",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Щовівторка отримуй другу піцу у подарунок! ",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3c8833d8-ef99-4e45-8d56-f878f6c76f26",
       "tags": [
         {
@@ -6946,14 +6522,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380992253333"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "0cfc4355-1d49-4ea1-a1f1-7e142acf7b53",
       "title": "Rooster Grill Bar",
-      "tagline": {
-        "text": "₴₴ • Burger • Chicken • Breakfast and brunch"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/adc7aa5c-a287-4686-94aa-4b6f1236bfd6",
       "heroImage": {
         "items": [
@@ -7000,9 +6574,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Velyka Vasylkivska St, 68, Kyiv, 02000"
-        },
-        "reference": "ChIJ61U1suLO1EARrqHC4tTYUFA",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -7054,14 +6626,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380686770066"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "13acfa58-7856-4bd5-93bd-c01b815ede05",
       "title": "Радіо Тбілісі",
-      "tagline": {
-        "text": "₴₴ • Georgian • Pastry • Middle Eastern"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
       "heroImage": {
         "items": [
@@ -7108,9 +6678,7 @@
           "postalCode": "02000",
           "region": "Kyiv city",
           "formattedAddress": "Dmytrivska St, 9-11, Kyiv, Kyiv city 02000"
-        },
-        "reference": "ChIJG4JcRIrO1EARDPP5hTSnn0M",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -7162,14 +6730,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380978853333"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "6093dce6-0754-4732-9f5a-f3de0c7c1c58",
       "title": "Fujiwara Yoshi (вул. Солом'янська)",
-      "tagline": {
-        "text": "₴₴₴ • Sushi • Asian • Japanese"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71",
       "heroImage": {
         "items": [
@@ -7219,9 +6785,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Solomianska St, 15a, Kyiv, 02000"
-        },
-        "reference": "ChIJTw1RnsbO1EARX7ARMzW7FCc",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -7241,22 +6805,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Улюблені суші",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Улюблені суші",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71",
       "tags": [
         {
@@ -7289,14 +6838,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380443600209"
-      }
+      },
+      "priceLevel": "₴₴₴"
     },
     {
       "uuid": "cd953e68-9d65-4913-bfec-e9b5cb733ebf",
       "title": "To Be",
-      "tagline": {
-        "text": "₴₴ • Japanese • Asian • Sushi"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
       "heroImage": {
         "items": [
@@ -7343,9 +6890,7 @@
           "postalCode": "04071",
           "region": "",
           "formattedAddress": "Verkhnii Val St, 2а, Kyiv, 04071"
-        },
-        "reference": "ChIJ0288cGnO1EARfLUvUUby0xA",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -7397,14 +6942,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380442228944"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "8df83017-ebf0-4537-9d61-7eff81bbfb07",
       "title": "Cafe Dash",
-      "tagline": {
-        "text": "₴ • Turkish • Middle Eastern • Pizza • Desserts"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc0cde72-256c-4d78-82ec-01df38f73028",
       "heroImage": {
         "items": [
@@ -7538,14 +7081,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380442355528"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "5b8e0d3e-dad5-45ce-aefb-5d418c68c826",
       "title": "Остання Барикада",
-      "tagline": {
-        "text": "₴₴ • Ukrainian • European • Seafood"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
       "heroImage": {
         "items": [
@@ -7595,9 +7136,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
-        },
-        "reference": "ChIJd5zPWFDO1EARRHwv22XPIuk",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -7617,22 +7156,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "100% українська гастрономія",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "100% українська гастрономія",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
       "tags": [
         {
@@ -7665,14 +7189,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380689071991"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "fa243926-23fd-44bc-a59b-89bc6ecf46da",
       "title": "Kebab Dash",
-      "tagline": {
-        "text": "₴ • Middle Eastern • Desserts • Turkish • Salad • Desserts"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/c6e01037-0310-4149-82fa-d8c7ef97fd83",
       "heroImage": {
         "items": [
@@ -7796,14 +7318,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380737003700"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "10e3a5d8-318c-4ea0-b4c8-c1d033214bb3",
       "title": "Star Burger (вул. Хрещатик)",
-      "tagline": {
-        "text": "₴ • Burger • American"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
       "heroImage": {
         "items": [
@@ -7853,9 +7373,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Khreschatyk St, 7/11, Kyiv, 02000"
-        },
-        "reference": "ChIJM_i9vFHO1EAR0G9RwJij7m4",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -7870,10 +7388,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Всі бургери по 69 грн"
-      },
+      "endorsement": "Всі бургери по 69 грн",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
       "tags": [
         {
@@ -7911,14 +7426,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380678282081"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "a6d87a7c-f22a-4f88-b00d-fe9a00197820",
       "title": "Yummy Dogs",
-      "tagline": {
-        "text": "₴ • American • Bar Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
       "heroImage": {
         "items": [
@@ -7965,9 +7478,7 @@
           "postalCode": "",
           "region": "",
           "formattedAddress": "Bohdana Khmel'Nyts'Koho St, 16-22, Kyiv, Ukraine, 02000, "
-        },
-        "reference": "ChIJMVxxvVfO1EARzuo3bvueJQ8",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -8009,14 +7520,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380688893393"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "afa6e563-32ca-4222-92e7-cd77df83d379",
       "title": " Ra.Man (Sumasbrod)",
-      "tagline": {
-        "text": "₴ • Vegetarian • Street Food • Vegan"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
       "heroImage": {
         "items": [
@@ -8063,9 +7572,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
-        },
-        "reference": "ChIJ7dKDYP_O1EARIi9g2-kdQwg",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -8117,14 +7624,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380442350017"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "3e37f16a-2393-4ed0-82a5-f746953bdcaf",
       "title": "Dogz&Burgerz (ТЦ Globus)",
-      "tagline": {
-        "text": "₴ • American • Fast Food • Street Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
       "heroImage": {
         "items": [
@@ -8171,9 +7676,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
-        },
-        "reference": "ChIJd5zPWFDO1EARRHwv22XPIuk",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -8225,14 +7728,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380684134219"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "3c11d072-0243-47cc-a86f-38092d4aa787",
       "title": "Mon Cher (вул. Жилянська)",
-      "tagline": {
-        "text": "₴₴ • Lebanese • European • Comfort Food"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/c45e439b-7208-47fb-9c84-5b8b19067328",
       "heroImage": {
         "items": [
@@ -8279,9 +7780,7 @@
           "postalCode": "01032",
           "region": "",
           "formattedAddress": "Zhylianska St, 124, Kyiv, 01032"
-        },
-        "reference": "ChIJjewEu_PO1EARXjzMqGbWx9k",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -8333,14 +7832,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380444652437"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "cf68d4ec-4f37-4ac7-bb97-ec12b49d7d83",
       "title": "Napoli-Pizza",
-      "tagline": {
-        "text": "₴₴ • Italian • Pizza"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
       "heroImage": {
         "items": [
@@ -8387,9 +7884,7 @@
           "postalCode": "02000",
           "region": "Kyiv city",
           "formattedAddress": "Hlybochytska St, 33/37, Kyiv, Kyiv city 02000"
-        },
-        "reference": "ChIJRTaw5m_O1EAR-EiRYmF7qQ0",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -8446,14 +7941,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380933662527"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "74c28978-9be2-454e-ae60-503a1f23c2a6",
       "title": "Arizona Tacos",
-      "tagline": {
-        "text": "₴ • Mexican • Tex Mex • Latin American"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
       "heroImage": {
         "items": [
@@ -8552,14 +8045,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380983001614"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "2ebc7123-ef78-440d-9352-cd46f3943b90",
       "title": "Spicy NoSpicy",
-      "tagline": {
-        "text": "₴₴ • Asian • Chinese • Vietnamese"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
       "heroImage": {
         "items": [
@@ -8606,9 +8097,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Velyka Vasylkivska St, 114, Kyiv, 02000"
-        },
-        "reference": "ChIJk6nh9RjP1EARbreAXolKFPs",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -8660,14 +8149,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380443346845"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "d24e2260-0044-4cf8-8314-1a5f33f9f878",
       "title": "Yaro (вул. Володимирська)",
-      "tagline": {
-        "text": "₴₴ • Healthy • European • Vegan"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/cbed4179-5ea1-4c43-94ab-a907746e58da",
       "heroImage": {
         "items": [
@@ -8717,9 +8204,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Volodymyrska St, 51-53, Салон , Kyiv, 02000"
-        },
-        "reference": "ChIJEy_mJljO1EARqXK4gyGo9wU",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -8739,22 +8224,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-        "text": "Здорові обіди та десерти без цукру",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Здорові обіди та десерти без цукру",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/cbed4179-5ea1-4c43-94ab-a907746e58da",
       "tags": [
         {
@@ -8797,14 +8267,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380981112061"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "9f17d333-e541-4dc8-b158-04613ecc461f",
       "title": "Сушия (просп. Голосіївський)",
-      "tagline": {
-        "text": "₴₴ • Japanese • Sushi • Rolls • Asian"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/f643aaaa-c2ee-4828-9cdf-55f2450e068b",
       "heroImage": {
         "items": [
@@ -8879,10 +8347,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Справжні японські суші"
-      },
+      "endorsement": "Справжні японські суші",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/f643aaaa-c2ee-4828-9cdf-55f2450e068b",
       "tags": [
         {
@@ -8920,14 +8385,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380672429787"
-      }
+      },
+      "priceLevel": "₴₴"
     },
     {
       "uuid": "340b03bf-ed03-4574-8118-d406ec34d39b",
       "title": "Noodle Doodle (вул. Велика Васильківська)",
-      "tagline": {
-        "text": "₴ • Asian • Chinese"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/8eac1eb0-db4a-499e-afd5-116b92a03a7b",
       "heroImage": {
         "items": [
@@ -8974,9 +8437,7 @@
           "postalCode": "03150",
           "region": "",
           "formattedAddress": "Velyka Vasylkivska St, 66, Kyiv, 03150"
-        },
-        "reference": "ChIJHz1qS_3O1EARIr-l0k6Z6BU",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -9033,14 +8494,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380671021196"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "8299a40f-b34e-4b77-ae57-9ac3d325b754",
       "title": "Noodle Doodle (Майдан Незалежності)",
-      "tagline": {
-        "text": "₴ • Asian • Chinese"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b214c90-f214-4472-88a9-26c4bb549f1c",
       "heroImage": {
         "items": [
@@ -9087,9 +8546,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
-        },
-        "reference": "ChIJd5zPWFDO1EARRHwv22XPIuk",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -9146,14 +8603,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380675695300"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "76856923-ba2c-4841-a053-82eeddca3ae3",
       "title": "Green 13 (б-р Т. Шевченка)",
-      "tagline": {
-        "text": "₴ • Vegan • Vegetarian • Street Food"
-      },
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w550-47.jpg",
       "heroImage": {
         "items": [
@@ -9203,9 +8658,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Бульвар Тараса Шевченка, 26, Київ, Украина, 02000"
-        },
-        "reference": "ChIJq9paW_bO1EAR4oV0_VLsJwg",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -9225,22 +8678,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-        "text": "Веганський стріт-фуд",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Веганський стріт-фуд",
       "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w550-47.jpg",
       "tags": [
         {
@@ -9283,14 +8721,12 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380966487235"
-      }
+      },
+      "priceLevel": "₴"
     },
     {
       "uuid": "43f6d4f5-605b-46b9-9760-7682e37b8c99",
       "title": "Gogi (вул. Мала Житомирська)",
-      "tagline": {
-        "text": "₴₴ • Georgian • Pastry • European"
-      },
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/dfae85a2-6a62-462a-9663-f137309bad1c",
       "heroImage": {
         "items": [
@@ -9340,9 +8776,7 @@
           "postalCode": "02000",
           "region": "",
           "formattedAddress": "Mala Zhytomyrska St, 15, Kyiv, 02000"
-        },
-        "reference": "EixNYWxhIFpoeXRvbXlyc2thIFN0cmVldCwgMTXQsCwgS3lpdiwgVWtyYWluZSIwEi4KFAoSCbsbis9aztRAEYsLKrwoi6jWEA8qFAoSCb3Hb71aztRAEWc_M5NjO4g8",
-        "referenceType": "google_places"
+        }
       },
       "categories": [
         {
@@ -9362,22 +8796,7 @@
         }
       ],
       "closedEtaMessage": "Opens on Monday",
-      "endorsement": {
-        "backgroundColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconColor": {
-          "alpha": 1,
-          "color": "59BD5A"
-        },
-        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-        "text": "Традиційні грузинські хінкалі та хачапурі",
-        "textColor": {
-          "alpha": 1,
-          "color": "FFFFFF"
-        }
-      },
+      "endorsement": "Традиційні грузинські хінкалі та хачапурі",
       "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/dfae85a2-6a62-462a-9663-f137309bad1c",
       "tags": [
         {
@@ -9410,7 +8829,8 @@
       },
       "publicContact": {
         "publicPhoneNumber": "+380930574745"
-      }
+      },
+      "priceLevel": "₴₴"
     }
   ]
 }
