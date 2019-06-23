@@ -399,10 +399,10 @@
       ]
     }
   ],
-  "feed": {
+  "feed":
+  {
     "feedItems": [
       {
-        "type": "STORE",
         "uuid": "6585ad84-b9b0-4ab0-be54-f22657cd29bc",
         "payload": {
           "storePayload": {
@@ -476,11 +476,9 @@
             },
             "trackingCode": "{\"uuid\":\"d6315910-81e1-4baf-af6e-d561fab9230f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"6585ad84-b9b0-4ab0-be54-f22657cd29bc\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2118,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "2de9bfbe-33e4-4d0f-aafa-96e5eb15e286",
         "payload": {
           "storePayload": {
@@ -542,11 +540,9 @@
             },
             "trackingCode": "{\"uuid\":\"d24185e9-26fe-4d03-bec7-e6ef18943a8c\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"2de9bfbe-33e4-4d0f-aafa-96e5eb15e286\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2138,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "a4b2a7ab-bfd4-4b0f-b208-0bfbf90fecb5",
         "payload": {
           "storePayload": {
@@ -611,11 +607,9 @@
             },
             "trackingCode": "{\"uuid\":\"2d6fbd75-d7a7-40ee-92c9-a8fbd95ce9f2\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"a4b2a7ab-bfd4-4b0f-b208-0bfbf90fecb5\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2542,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "3797de4f-edb9-4b99-bc04-e9ef79037df9",
         "payload": {
           "storePayload": {
@@ -680,11 +674,9 @@
             },
             "trackingCode": "{\"uuid\":\"7cf9434b-8371-4145-83ac-bd9021eb83d1\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"3797de4f-edb9-4b99-bc04-e9ef79037df9\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1520,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "8476752b-08cb-4280-8066-41bc3c0dca4c",
         "payload": {
           "storePayload": {
@@ -746,11 +738,9 @@
             },
             "trackingCode": "{\"uuid\":\"1cd8390c-24ca-4cc5-83a2-67538dc54ea6\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"8476752b-08cb-4280-8066-41bc3c0dca4c\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2278,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "b4966a8c-1b47-41f1-94ce-3f138127f9f0",
         "payload": {
           "storePayload": {
@@ -815,11 +805,9 @@
             },
             "trackingCode": "{\"uuid\":\"903c7211-d810-4864-aa01-50504519cbf3\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"b4966a8c-1b47-41f1-94ce-3f138127f9f0\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1411,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "c4f38df6-a5b7-4eb5-929b-02e398a85d8f",
         "payload": {
           "storePayload": {
@@ -884,11 +872,9 @@
             },
             "trackingCode": "{\"uuid\":\"f1012cac-cb41-4a74-8d30-92550d0d244c\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"c4f38df6-a5b7-4eb5-929b-02e398a85d8f\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2762,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "b4897dec-3456-4691-9524-48caa602e552",
         "payload": {
           "storePayload": {
@@ -950,11 +936,9 @@
             },
             "trackingCode": "{\"uuid\":\"1c8d8646-4862-42d4-98ef-9b55b3cdcc39\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"b4897dec-3456-4691-9524-48caa602e552\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1002,\"dropoffETARange\":{\"min\":10,\"max\":20,\"raw\":15},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "cd9eef63-9536-461d-9f19-5358f4b4fa66",
         "payload": {
           "storePayload": {
@@ -1019,11 +1003,9 @@
             },
             "trackingCode": "{\"uuid\":\"3c65a7d5-c426-4830-9f06-cfcca9e9c350\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"cd9eef63-9536-461d-9f19-5358f4b4fa66\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2312,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "d7086561-2409-4c9f-a13e-f397c7dc9fb0",
         "payload": {
           "storePayload": {
@@ -1085,11 +1067,9 @@
             },
             "trackingCode": "{\"uuid\":\"7fc046d4-a6ac-4894-82e9-45e0da81d8b8\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"d7086561-2409-4c9f-a13e-f397c7dc9fb0\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2460,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "49152074-1425-4770-b8e5-abe80736c635",
         "payload": {
           "storePayload": {
@@ -1154,11 +1134,9 @@
             },
             "trackingCode": "{\"uuid\":\"9d606b39-adba-4126-bfee-51d7ebf63000\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"49152074-1425-4770-b8e5-abe80736c635\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1946,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "e476dc30-429f-4228-ab27-e10552a4f0c2",
         "payload": {
           "storePayload": {
@@ -1220,11 +1198,9 @@
             },
             "trackingCode": "{\"uuid\":\"ca9d4a48-6862-4bb7-af95-fecd41b860cb\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"e476dc30-429f-4228-ab27-e10552a4f0c2\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1779,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "7ba8a72c-0962-4672-9668-54691bb8c224",
         "payload": {
           "storePayload": {
@@ -1289,11 +1265,9 @@
             },
             "trackingCode": "{\"uuid\":\"139b9469-15e5-431a-b3dd-bf36f1f9fc7b\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"7ba8a72c-0962-4672-9668-54691bb8c224\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2616,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "e8cdd7bd-a859-4471-9c57-8fd655e75e17",
         "payload": {
           "storePayload": {
@@ -1355,11 +1329,9 @@
             },
             "trackingCode": "{\"uuid\":\"13b46ab6-ad0b-4e2a-8ae2-96474d2f49ce\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"e8cdd7bd-a859-4471-9c57-8fd655e75e17\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1848,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "3e4d17c9-e135-425f-ad14-c5a31d8fc5c0",
         "payload": {
           "storePayload": {
@@ -1421,11 +1393,9 @@
             },
             "trackingCode": "{\"uuid\":\"c1008938-560c-4bc6-8c49-a2d1875795f2\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"3e4d17c9-e135-425f-ad14-c5a31d8fc5c0\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1607,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "b89c1c6e-97d2-484d-912a-d15b8c9e1e30",
         "payload": {
           "storePayload": {
@@ -1487,11 +1457,9 @@
             },
             "trackingCode": "{\"uuid\":\"fc227195-b7a9-4fec-912f-a224be99588f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"b89c1c6e-97d2-484d-912a-d15b8c9e1e30\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2473,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "ac62b80f-5757-4bd1-a2fa-10064fba4c89",
         "payload": {
           "storePayload": {
@@ -1556,11 +1524,9 @@
             },
             "trackingCode": "{\"uuid\":\"7878b252-3742-42c9-b478-ba669f2ee519\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"ac62b80f-5757-4bd1-a2fa-10064fba4c89\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1950,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "8dd6b32e-94ab-413d-a409-32e56f649223",
         "payload": {
           "storePayload": {
@@ -1625,11 +1591,9 @@
             },
             "trackingCode": "{\"uuid\":\"971e09e7-66ae-41a5-ae8b-6e1dadfc2434\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"8dd6b32e-94ab-413d-a409-32e56f649223\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":836,\"dropoffETARange\":{\"min\":10,\"max\":20,\"raw\":15},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "5a2ab93f-635d-47fd-9dce-b62ec1ef41f7",
         "payload": {
           "storePayload": {
@@ -1691,11 +1655,9 @@
             },
             "trackingCode": "{\"uuid\":\"9d5dad1a-47fe-441b-99c8-143aa4b394f2\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"5a2ab93f-635d-47fd-9dce-b62ec1ef41f7\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1918,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "e977baa2-fa97-4292-847b-edb5e6ddd271",
         "payload": {
           "storePayload": {
@@ -1757,11 +1719,9 @@
             },
             "trackingCode": "{\"uuid\":\"e4098259-3c5b-4f8f-9eac-c1209c922a8f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"e977baa2-fa97-4292-847b-edb5e6ddd271\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1685,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "a9618f36-3494-44e9-91eb-df74d0827e15",
         "payload": {
           "storePayload": {
@@ -1823,11 +1783,9 @@
             },
             "trackingCode": "{\"uuid\":\"849e41ee-e3a0-45b1-8aa6-077b166cebcf\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"a9618f36-3494-44e9-91eb-df74d0827e15\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2177,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "6de9aa89-2985-49ce-bad4-b85720e150d2",
         "payload": {
           "storePayload": {
@@ -1892,11 +1850,9 @@
             },
             "trackingCode": "{\"uuid\":\"6c6fcda9-8692-4814-a162-b67b74585450\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"6de9aa89-2985-49ce-bad4-b85720e150d2\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":3121,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "3d1e4ba7-3461-45d1-9a82-9ec55c80c2c5",
         "payload": {
           "storePayload": {
@@ -1958,11 +1914,9 @@
             },
             "trackingCode": "{\"uuid\":\"b7dc2af4-e1d6-4963-ad0c-4d0dea145bd3\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"3d1e4ba7-3461-45d1-9a82-9ec55c80c2c5\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2666,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "0e924687-7405-4c62-b38f-dc7cda384d65",
         "payload": {
           "storePayload": {
@@ -2024,11 +1978,9 @@
             },
             "trackingCode": "{\"uuid\":\"54eb01a0-f72b-4a81-b5a3-e8433d5e3323\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"0e924687-7405-4c62-b38f-dc7cda384d65\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2312,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "07a42419-c83a-47cf-8f3c-99c05e38bc04",
         "payload": {
           "storePayload": {
@@ -2090,11 +2042,9 @@
             },
             "trackingCode": "{\"uuid\":\"ab74b5f2-4e8d-4823-832f-d787d320f852\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"07a42419-c83a-47cf-8f3c-99c05e38bc04\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2352,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "ebb14e0c-96f1-44c1-ae09-a72e3d65f7c3",
         "payload": {
           "storePayload": {
@@ -2156,11 +2106,9 @@
             },
             "trackingCode": "{\"uuid\":\"ef9b6635-5554-4852-a9a5-d22d8ef50b19\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"ebb14e0c-96f1-44c1-ae09-a72e3d65f7c3\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":3010,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "cdee8e3d-c389-45b4-990a-5846770f97b2",
         "payload": {
           "storePayload": {
@@ -2222,11 +2170,9 @@
             },
             "trackingCode": "{\"uuid\":\"1b92cea7-d270-4df2-8920-f36d362f13a2\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"cdee8e3d-c389-45b4-990a-5846770f97b2\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2172,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "72885776-28fe-4247-b6ad-78da220db01a",
         "payload": {
           "storePayload": {
@@ -2288,11 +2234,9 @@
             },
             "trackingCode": "{\"uuid\":\"1609cee6-8235-460d-917c-3f75a11575b8\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"72885776-28fe-4247-b6ad-78da220db01a\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2280,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "78ef7b98-249c-4bdc-b5bc-3efb952c5265",
         "payload": {
           "storePayload": {
@@ -2354,11 +2298,9 @@
             },
             "trackingCode": "{\"uuid\":\"6981347c-7991-4a06-8546-c5760d2f584d\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"78ef7b98-249c-4bdc-b5bc-3efb952c5265\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1621,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "c01016d0-016b-4237-b98e-c72b3b2994e7",
         "payload": {
           "storePayload": {
@@ -2420,11 +2362,9 @@
             },
             "trackingCode": "{\"uuid\":\"4bfbe954-a3a8-4e0c-b55d-277956a22c8d\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"c01016d0-016b-4237-b98e-c72b3b2994e7\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1626,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "02337366-27f2-4034-9dc4-362ca17d14b2",
         "payload": {
           "storePayload": {
@@ -2489,11 +2429,9 @@
             },
             "trackingCode": "{\"uuid\":\"bc554be7-5921-4bc4-bc62-94ae5300dd6f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"02337366-27f2-4034-9dc4-362ca17d14b2\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1018,\"dropoffETARange\":{\"min\":10,\"max\":20,\"raw\":15},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "3f4f5a77-150b-43cc-a4ee-d8859909b627",
         "payload": {
           "storePayload": {
@@ -2555,11 +2493,9 @@
             },
             "trackingCode": "{\"uuid\":\"817625d0-d098-48de-bbc7-92070d87b841\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"3f4f5a77-150b-43cc-a4ee-d8859909b627\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1929,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "a181db96-b909-4846-9cd0-412ea5fc5673",
         "payload": {
           "storePayload": {
@@ -2624,11 +2560,9 @@
             },
             "trackingCode": "{\"uuid\":\"f97d8083-f1a6-414b-b5e3-f0b4bd79d66f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"a181db96-b909-4846-9cd0-412ea5fc5673\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2001,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "164a36fc-d71c-4d00-9719-7a88aac3f4a3",
         "payload": {
           "storePayload": {
@@ -2690,11 +2624,9 @@
             },
             "trackingCode": "{\"uuid\":\"5b1669e6-4249-4f3d-bc02-c2320d88da12\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"164a36fc-d71c-4d00-9719-7a88aac3f4a3\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2908,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "b620fe87-4d5f-4316-9eae-8deb35f28a24",
         "payload": {
           "storePayload": {
@@ -2756,11 +2688,9 @@
             },
             "trackingCode": "{\"uuid\":\"3ca749e1-4d66-47f7-9c4e-cd9f6637ca59\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"b620fe87-4d5f-4316-9eae-8deb35f28a24\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2581,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "38301644-05b7-4238-b353-db331dbbfcd8",
         "payload": {
           "storePayload": {
@@ -2825,11 +2755,9 @@
             },
             "trackingCode": "{\"uuid\":\"a38661eb-cc2b-49f2-8bc4-38acb2124df2\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"38301644-05b7-4238-b353-db331dbbfcd8\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2697,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "dd3f2fbf-b2e2-47e5-ac3a-54a481d3ad5a",
         "payload": {
           "storePayload": {
@@ -2891,11 +2819,9 @@
             },
             "trackingCode": "{\"uuid\":\"dbf38319-e923-4813-96d9-3037082ea1df\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"dd3f2fbf-b2e2-47e5-ac3a-54a481d3ad5a\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2247,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "03af4130-d007-4d50-a907-4c2723e63486",
         "payload": {
           "storePayload": {
@@ -2957,11 +2883,9 @@
             },
             "trackingCode": "{\"uuid\":\"7c520081-39fc-47c4-aa30-7fc15149d6c6\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"03af4130-d007-4d50-a907-4c2723e63486\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2716,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "dc3805b0-c217-46cc-9116-26a348127d04",
         "payload": {
           "storePayload": {
@@ -3023,11 +2947,9 @@
             },
             "trackingCode": "{\"uuid\":\"71152657-6363-4beb-9dc5-6e284add55da\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"dc3805b0-c217-46cc-9116-26a348127d04\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2993,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "abd909f9-9917-4952-9bae-f701f422321e",
         "payload": {
           "storePayload": {
@@ -3089,11 +3011,9 @@
             },
             "trackingCode": "{\"uuid\":\"976d5066-4059-4339-ad62-d26961a325de\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"abd909f9-9917-4952-9bae-f701f422321e\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1983,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "7d0dd7b9-5ae0-4c23-b69f-047a7b459835",
         "payload": {
           "storePayload": {
@@ -3155,11 +3075,9 @@
             },
             "trackingCode": "{\"uuid\":\"4992769c-9c4a-4791-8813-50d09ee7be43\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"7d0dd7b9-5ae0-4c23-b69f-047a7b459835\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2810,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "9bb5f578-a8fe-46ca-b04e-116a7393696a",
         "payload": {
           "storePayload": {
@@ -3221,11 +3139,9 @@
             },
             "trackingCode": "{\"uuid\":\"b470e0e8-835e-438f-a04d-2924683c1086\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"9bb5f578-a8fe-46ca-b04e-116a7393696a\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2611,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "019ab37a-02b3-495c-ad3e-32a47c0e8538",
         "payload": {
           "storePayload": {
@@ -3290,11 +3206,9 @@
             },
             "trackingCode": "{\"uuid\":\"7d8345ef-fab0-4269-a83e-2ce6e25b4917\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"019ab37a-02b3-495c-ad3e-32a47c0e8538\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1480,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "b318911f-1c17-4d57-b0ef-3c0fcbd7f17e",
         "payload": {
           "storePayload": {
@@ -3356,11 +3270,9 @@
             },
             "trackingCode": "{\"uuid\":\"ee429ea2-2738-4944-bc26-6f0dd08f0324\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"b318911f-1c17-4d57-b0ef-3c0fcbd7f17e\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1714,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "28c2ef4c-ff9d-4bed-b6b4-0d9603aaaa1c",
         "payload": {
           "storePayload": {
@@ -3422,11 +3334,9 @@
             },
             "trackingCode": "{\"uuid\":\"6727141c-5dc3-409c-b7a8-0bfd31f224f2\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"28c2ef4c-ff9d-4bed-b6b4-0d9603aaaa1c\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":3065,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "03fa0bf3-b60a-4876-80c9-15d018029c61",
         "payload": {
           "storePayload": {
@@ -3488,11 +3398,9 @@
             },
             "trackingCode": "{\"uuid\":\"37667080-2567-4423-b9ac-86b094d60f45\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"03fa0bf3-b60a-4876-80c9-15d018029c61\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2254,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "7988ae6c-9bf7-4b35-ad8b-277988f8bb52",
         "payload": {
           "storePayload": {
@@ -3554,11 +3462,9 @@
             },
             "trackingCode": "{\"uuid\":\"4a6acd37-3a9f-4a32-b67c-4a023561fcf9\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"7988ae6c-9bf7-4b35-ad8b-277988f8bb52\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2732,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "8548894f-0b8a-4388-b627-6886b301e65a",
         "payload": {
           "storePayload": {
@@ -3620,11 +3526,9 @@
             },
             "trackingCode": "{\"uuid\":\"a5803291-615a-4184-b97b-9f9632b8497c\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"8548894f-0b8a-4388-b627-6886b301e65a\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2591,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "e507b2ca-c104-4988-a512-c99558d516fe",
         "payload": {
           "storePayload": {
@@ -3686,11 +3590,9 @@
             },
             "trackingCode": "{\"uuid\":\"fbb44f93-9bff-450d-a79e-bb80a86431fd\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"e507b2ca-c104-4988-a512-c99558d516fe\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1592,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "39a3d947-2a9f-4d4d-958f-1b8c16912bca",
         "payload": {
           "storePayload": {
@@ -3752,11 +3654,9 @@
             },
             "trackingCode": "{\"uuid\":\"6b79e178-7efe-4340-8247-d158b0af44cb\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"39a3d947-2a9f-4d4d-958f-1b8c16912bca\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1843,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "a743b05f-520b-4459-87e2-c7b786ef1d75",
         "payload": {
           "storePayload": {
@@ -3818,11 +3718,9 @@
             },
             "trackingCode": "{\"uuid\":\"d7866f7c-5620-4fc7-9d29-363913b90847\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"a743b05f-520b-4459-87e2-c7b786ef1d75\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":3160,\"dropoffETARange\":{\"min\":50,\"max\":60,\"raw\":55},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "57d5f153-d4f6-4b06-811c-bc6abbc34a56",
         "payload": {
           "storePayload": {
@@ -3887,11 +3785,9 @@
             },
             "trackingCode": "{\"uuid\":\"be27ebb9-f421-4c2a-ae16-1be5a3d6c253\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"57d5f153-d4f6-4b06-811c-bc6abbc34a56\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2869,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "f1397232-dfb7-45d8-bc0d-52a2ec2c517b",
         "payload": {
           "storePayload": {
@@ -3953,11 +3849,9 @@
             },
             "trackingCode": "{\"uuid\":\"24c99939-022e-4f1d-84b4-4faf65f57ee3\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"f1397232-dfb7-45d8-bc0d-52a2ec2c517b\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2048,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "65eb8bb8-4928-4777-8453-7128181c3bc6",
         "payload": {
           "storePayload": {
@@ -4019,11 +3913,9 @@
             },
             "trackingCode": "{\"uuid\":\"8c1ac20b-b633-4a63-b4b6-882d9da9b103\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"65eb8bb8-4928-4777-8453-7128181c3bc6\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2344,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "b3f84976-ef9c-428e-8652-4e1bb3cbe17c",
         "payload": {
           "storePayload": {
@@ -4085,11 +3977,9 @@
             },
             "trackingCode": "{\"uuid\":\"9f073e77-0d4d-4faf-ab04-a8d4cd893731\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"b3f84976-ef9c-428e-8652-4e1bb3cbe17c\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2114,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "17cc3a74-f19d-443e-ad45-4081baf8378c",
         "payload": {
           "storePayload": {
@@ -4151,11 +4041,9 @@
             },
             "trackingCode": "{\"uuid\":\"28ac27aa-1691-46e1-a197-989e5c9bd56f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"17cc3a74-f19d-443e-ad45-4081baf8378c\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2713,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "7c955a00-c104-4013-b84f-0b60820bcdf4",
         "payload": {
           "storePayload": {
@@ -4220,11 +4108,9 @@
             },
             "trackingCode": "{\"uuid\":\"8aa8dd48-e52d-47ac-99ba-04776d566a5e\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"7c955a00-c104-4013-b84f-0b60820bcdf4\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2984,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "0cfc4355-1d49-4ea1-a1f1-7e142acf7b53",
         "payload": {
           "storePayload": {
@@ -4286,11 +4172,9 @@
             },
             "trackingCode": "{\"uuid\":\"2b69dd11-90a7-4f6e-a104-81067ce7453b\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"0cfc4355-1d49-4ea1-a1f1-7e142acf7b53\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2155,\"dropoffETARange\":{\"min\":30,\"max\":40,\"raw\":35},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "13acfa58-7856-4bd5-93bd-c01b815ede05",
         "payload": {
           "storePayload": {
@@ -4352,11 +4236,9 @@
             },
             "trackingCode": "{\"uuid\":\"39c40435-75a3-4088-a6f3-2c7ff65c7ec9\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"13acfa58-7856-4bd5-93bd-c01b815ede05\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":3209,\"dropoffETARange\":{\"min\":50,\"max\":60,\"raw\":55},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "6093dce6-0754-4732-9f5a-f3de0c7c1c58",
         "payload": {
           "storePayload": {
@@ -4421,11 +4303,9 @@
             },
             "trackingCode": "{\"uuid\":\"52fe9a35-a9bf-441a-af83-ed34dcf12e19\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"6093dce6-0754-4732-9f5a-f3de0c7c1c58\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":3297,\"dropoffETARange\":{\"min\":50,\"max\":60,\"raw\":55},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "cd953e68-9d65-4913-bfec-e9b5cb733ebf",
         "payload": {
           "storePayload": {
@@ -4487,11 +4367,9 @@
             },
             "trackingCode": "{\"uuid\":\"6c6a372a-01f8-417e-829d-9f9db5ffc7c8\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"cd953e68-9d65-4913-bfec-e9b5cb733ebf\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2819,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "8df83017-ebf0-4537-9d61-7eff81bbfb07",
         "payload": {
           "storePayload": {
@@ -4553,11 +4431,9 @@
             },
             "trackingCode": "{\"uuid\":\"e17bb050-0c52-491e-9d14-737ad7af66b8\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"8df83017-ebf0-4537-9d61-7eff81bbfb07\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2429,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "5b8e0d3e-dad5-45ce-aefb-5d418c68c826",
         "payload": {
           "storePayload": {
@@ -4622,11 +4498,9 @@
             },
             "trackingCode": "{\"uuid\":\"04c50c94-2c39-4946-bda4-437fa950af09\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"5b8e0d3e-dad5-45ce-aefb-5d418c68c826\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1936,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "fa243926-23fd-44bc-a59b-89bc6ecf46da",
         "payload": {
           "storePayload": {
@@ -4688,11 +4562,9 @@
             },
             "trackingCode": "{\"uuid\":\"09221cc8-7668-4b3d-97a6-1270ff730fe6\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"fa243926-23fd-44bc-a59b-89bc6ecf46da\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":3027,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "10e3a5d8-318c-4ea0-b4c8-c1d033214bb3",
         "payload": {
           "storePayload": {
@@ -4757,11 +4629,9 @@
             },
             "trackingCode": "{\"uuid\":\"bde3d8ba-fab1-4420-b0ea-5df68b78fb20\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"10e3a5d8-318c-4ea0-b4c8-c1d033214bb3\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2897,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "a6d87a7c-f22a-4f88-b00d-fe9a00197820",
         "payload": {
           "storePayload": {
@@ -4823,11 +4693,9 @@
             },
             "trackingCode": "{\"uuid\":\"5bad7a3d-aa88-461a-a4e9-5d0bd6a5e3ef\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"a6d87a7c-f22a-4f88-b00d-fe9a00197820\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1842,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "afa6e563-32ca-4222-92e7-cd77df83d379",
         "payload": {
           "storePayload": {
@@ -4889,11 +4757,9 @@
             },
             "trackingCode": "{\"uuid\":\"eeb69f9b-5713-4e25-86bb-25ba7138b1e9\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"afa6e563-32ca-4222-92e7-cd77df83d379\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1229,\"dropoffETARange\":{\"min\":15,\"max\":25,\"raw\":20},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "3e37f16a-2393-4ed0-82a5-f746953bdcaf",
         "payload": {
           "storePayload": {
@@ -4955,11 +4821,9 @@
             },
             "trackingCode": "{\"uuid\":\"d626140b-f340-4dc8-bce8-b20020ee20ff\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"3e37f16a-2393-4ed0-82a5-f746953bdcaf\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2260,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "3c11d072-0243-47cc-a86f-38092d4aa787",
         "payload": {
           "storePayload": {
@@ -5029,11 +4893,9 @@
             },
             "trackingCode": "{\"uuid\":\"e371b5df-46c9-407a-b5a5-db2437f4349f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"3c11d072-0243-47cc-a86f-38092d4aa787\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2745,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "cf68d4ec-4f37-4ac7-bb97-ec12b49d7d83",
         "payload": {
           "storePayload": {
@@ -5095,11 +4957,9 @@
             },
             "trackingCode": "{\"uuid\":\"0ed4c1f3-faa2-4080-b656-7426c8bdfa20\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"cf68d4ec-4f37-4ac7-bb97-ec12b49d7d83\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2631,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "74c28978-9be2-454e-ae60-503a1f23c2a6",
         "payload": {
           "storePayload": {
@@ -5161,11 +5021,9 @@
             },
             "trackingCode": "{\"uuid\":\"b8aaca8f-dad3-4885-98b5-e6f76bc83713\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"74c28978-9be2-454e-ae60-503a1f23c2a6\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1797,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "2ebc7123-ef78-440d-9352-cd46f3943b90",
         "payload": {
           "storePayload": {
@@ -5227,11 +5085,9 @@
             },
             "trackingCode": "{\"uuid\":\"c31bcfa2-eca0-498c-9589-29dc688f1b56\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"2ebc7123-ef78-440d-9352-cd46f3943b90\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2549,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "d24e2260-0044-4cf8-8314-1a5f33f9f878",
         "payload": {
           "storePayload": {
@@ -5296,11 +5152,9 @@
             },
             "trackingCode": "{\"uuid\":\"03e6a3e4-d2db-455d-b52e-75c9e11edd27\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"d24e2260-0044-4cf8-8314-1a5f33f9f878\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1372,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "9f17d333-e541-4dc8-b158-04613ecc461f",
         "payload": {
           "storePayload": {
@@ -5365,11 +5219,9 @@
             },
             "trackingCode": "{\"uuid\":\"170c1f8c-66c0-4052-ad73-8e8c25084c2f\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"9f17d333-e541-4dc8-b158-04613ecc461f\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2762,\"dropoffETARange\":{\"min\":40,\"max\":50,\"raw\":45},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "340b03bf-ed03-4574-8118-d406ec34d39b",
         "payload": {
           "storePayload": {
@@ -5431,11 +5283,9 @@
             },
             "trackingCode": "{\"uuid\":\"f630a362-97a5-483b-98df-aa24dc97bffc\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"340b03bf-ed03-4574-8118-d406ec34d39b\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1493,\"dropoffETARange\":{\"min\":20,\"max\":30,\"raw\":25},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "8299a40f-b34e-4b77-ae57-9ac3d325b754",
         "payload": {
           "storePayload": {
@@ -5497,11 +5347,9 @@
             },
             "trackingCode": "{\"uuid\":\"04618655-40a2-49fa-a160-e44834bee726\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"8299a40f-b34e-4b77-ae57-9ac3d325b754\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2528,\"dropoffETARange\":{\"min\":35,\"max\":45,\"raw\":40},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "76856923-ba2c-4841-a053-82eeddca3ae3",
         "payload": {
           "storePayload": {
@@ -5566,11 +5414,9 @@
             },
             "trackingCode": "{\"uuid\":\"717f2e96-76cf-4895-af0b-958d1984677d\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"76856923-ba2c-4841-a053-82eeddca3ae3\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":1885,\"dropoffETARange\":{\"min\":25,\"max\":35,\"raw\":30},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "STORE",
         "uuid": "43f6d4f5-605b-46b9-9760-7682e37b8c99",
         "payload": {
           "storePayload": {
@@ -5635,11 +5481,9 @@
             },
             "trackingCode": "{\"uuid\":\"8e6a5c0e-48f3-4010-abfa-99b4636802ba\",\"codeType\":\"STORE\",\"metaInfo\":{\"pluginName\":\"StorefrontFeedPlugin\",\"analyticsLabel\":\"store_front\"},\"storePayload\":{\"storeUUID\":\"43f6d4f5-605b-46b9-9760-7682e37b8c99\",\"isOrderable\":true,\"score\":{\"total\":0},\"etdInfo\":{\"dropoffETASec\":2976,\"dropoffETARange\":{\"min\":45,\"max\":55,\"raw\":50},\"etdMode\":\"PREDICTION\"},\"fareInfo\":{\"serviceFee\":30,\"multiplier\":1}}}"
           }
-        },
-        "analyticsLabel": "store_front"
+        }
       },
       {
-        "type": "SEE_ALL_STORES",
         "uuid": "3e4704d1-bc09-11e6-9412-a45e60e89c49",
         "payload": {
           "seeAllStoresPayload": {
@@ -5653,8 +5497,7 @@
               }
             }
           }
-        },
-        "analyticsLabel": "see_all_stores"
+        }
       }
     ],
     "storesMap": {
