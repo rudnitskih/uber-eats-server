@@ -3251,66 +3251,6 @@
       "priceBucket": "₴₴₴"
     },
     {
-      "uuid": "03fa0bf3-b60a-4876-80c9-15d018029c61",
-      "title": "Барсук",
-      "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ef9ebf7-84a0-404e-9b05-48f39865bf44",
-      "location": {
-        "latitude": 50.431722355650145,
-        "longitude": 30.54119956174974,
-        "address": "Yevgena Gutsala Lane, 3"
-      },
-      "categories": [
-        {
-          "uuid": "European",
-          "name": "Європейська",
-          "keyName": "European"
-        },
-        {
-          "uuid": "Ukrainian",
-          "name": "Українська",
-          "keyName": "Ukrainian"
-        }
-      ],
-      "tags": [
-        {
-          "uuid": "European",
-          "name": "Європейська",
-          "keyName": "European"
-        },
-        {
-          "uuid": "Ukrainian",
-          "name": "Українська",
-          "keyName": "Ukrainian"
-        },
-        {
-          "uuid": "Salad",
-          "name": "Салати",
-          "keyName": "Salad"
-        },
-        {
-          "uuid": "BreakfastAndBrunch",
-          "name": "Сніданок і бранч",
-          "keyName": "BreakfastAndBrunch"
-        }
-      ],
-      "etaRange": {
-        "min": 35,
-        "max": 45,
-        "raw": 40
-      },
-      "sellsAlcohol": false,
-      "slug": "барсук",
-      "rawRatingStats": {
-        "storeRatingScore": 4.7,
-        "ratingCount": "100"
-      },
-      "publicContact": {
-        "publicPhoneNumber": "+380503863629"
-      },
-      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/bcb86e4b-3cbe-4830-9e03-a43a4b820721",
-      "priceBucket": "₴₴"
-    },
-    {
       "uuid": "7988ae6c-9bf7-4b35-ad8b-277988f8bb52",
       "title": "Hedonist Bar & Kitchen",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
