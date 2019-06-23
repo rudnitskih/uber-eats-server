@@ -17,8 +17,7 @@ fs.readdir(dirname, function (err, filenames) {
 });
 
 function processFile(filePath, data) {
-  delete data.heroImageUrl;
-  delete data.heroImage;
+  delete data.subsectionsMap;
 
   const rawdata = JSON.stringify({...data}, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {
