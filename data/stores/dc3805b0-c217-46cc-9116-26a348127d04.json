@@ -171,87 +171,6 @@
             "5cefc5f4-9f96-4a55-9b26-8ff614c4af8a",
             "7c7227f1-407c-4673-a8d6-184ab50593bf",
             "0ae9a209-4422-46b4-84a9-ae1adb6e90b2"
-          ],
-          "displayItems": [
-            {
-              "uuid": "1a9acd43-086c-476e-9da8-c8823d48b57d",
-              "title": "Benedict eggs with potato latkes, bacon and mushrooms",
-              "itemDescription": "",
-              "price": 14500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a634e6f0-280e-410e-9552-b29c5a278901",
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "ca9a82eb-1059-4d56-9db6-5d9186ac5574"
-              ]
-            },
-            {
-              "uuid": "49d094d2-fc05-4a74-9f8b-6337ee699756",
-              "title": "Avocado toast with poached egg",
-              "itemDescription": "Brinsen cheese, and sweet pepper.",
-              "price": 16500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/26badbe5-f7a7-4e54-bb04-d1d6bcd938ee",
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "eccef26c-477e-4d3b-b350-188f2a9b02da"
-              ]
-            },
-            {
-              "uuid": "4c0722be-5fdd-4c45-b0c5-2f4dfd72dda2",
-              "title": "Egg sandwich with bacon",
-              "itemDescription": "",
-              "price": 13500,
-              "customizationUuids": [
-                "eccef26c-477e-4d3b-b350-188f2a9b02da"
-              ]
-            },
-            {
-              "uuid": "9677a089-7b03-469a-aabd-7325af570916",
-              "title": "Egg sandwich with salmon, avocado and brinsen cheese",
-              "itemDescription": "",
-              "price": 15500,
-              "customizationUuids": [
-                "eccef26c-477e-4d3b-b350-188f2a9b02da"
-              ]
-            },
-            {
-              "uuid": "576dc5b1-5a90-40d1-b5d9-1bdf0819fe7f",
-              "title": "Oatmeal with mushrooms, parmesan, and poached egg",
-              "itemDescription": "",
-              "price": 9700,
-              "customizationUuids": [
-                "eccef26c-477e-4d3b-b350-188f2a9b02da"
-              ]
-            },
-            {
-              "uuid": "8e68091c-8557-4a3c-91cc-07a1691e645a",
-              "title": "Crispy waffles with melted mozzarella, and vegetables",
-              "itemDescription": "",
-              "price": 11700,
-              "customizationUuids": [
-                "eccef26c-477e-4d3b-b350-188f2a9b02da"
-              ]
-            },
-            {
-              "uuid": "5cefc5f4-9f96-4a55-9b26-8ff614c4af8a",
-              "title": "Scrambled eggs with salmon, fresh vegetable salad, and toasts",
-              "itemDescription": "",
-              "price": 18500,
-              "customizationUuids": [
-                "eccef26c-477e-4d3b-b350-188f2a9b02da"
-              ]
-            },
-            {
-              "uuid": "7c7227f1-407c-4673-a8d6-184ab50593bf",
-              "title": "Sweet cheese dumplings with yogurt, fresh berries",
-              "itemDescription": "",
-              "price": 12800
-            },
-            {
-              "uuid": "0ae9a209-4422-46b4-84a9-ae1adb6e90b2",
-              "title": "Creamy polenta with poached egg, asparagus, tomatoes under parmesan",
-              "price": 15800,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -260,28 +179,6 @@
           "itemUuids": [
             "00544990-e1c4-4fe2-90be-d68818bd4e42",
             "da850bff-ccaa-4021-8e59-a2e0e271edf9"
-          ],
-          "displayItems": [
-            {
-              "uuid": "00544990-e1c4-4fe2-90be-d68818bd4e42",
-              "title": "Tomato soup with chanterelles bruschetta, and truffle oil",
-              "itemDescription": "",
-              "price": 11500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/36fb7048-31bc-4eb5-9fe2-fe7611c84f48",
-              "customizationUuids": [
-                "4380f8b7-5862-403f-a11b-6c08a95a4658"
-              ]
-            },
-            {
-              "uuid": "da850bff-ccaa-4021-8e59-a2e0e271edf9",
-              "title": "Zucchini cream soup with chanterelles bruschetta",
-              "itemDescription": "",
-              "price": 13000,
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "4380f8b7-5862-403f-a11b-6c08a95a4658"
-              ]
-            }
           ]
         },
         {
@@ -291,31 +188,6 @@
             "45771d5a-b0cc-4016-b1f8-caa0b1d4297b",
             "141e58fd-7081-491c-9615-937419d4ae64",
             "19c0f8a5-7532-48a3-a785-5bc91b4e2e4f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "45771d5a-b0cc-4016-b1f8-caa0b1d4297b",
-              "title": "Apple cake with salted caramel, and whipped cream",
-              "itemDescription": "",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/40a9752a-f62a-43e3-b61a-b2d21f99695a"
-            },
-            {
-              "uuid": "141e58fd-7081-491c-9615-937419d4ae64",
-              "title": "Chocolate mousse with cream, and orange confit",
-              "itemDescription": "",
-              "price": 9800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c338f583-71b1-4126-8614-063d653029c9"
-            },
-            {
-              "uuid": "19c0f8a5-7532-48a3-a785-5bc91b4e2e4f",
-              "title": "Cherry pie with cream",
-              "itemDescription": "",
-              "price": 9500,
-              "customizationUuids": [
-                "f305d703-39c7-4164-ac19-a0c1887e1120"
-              ]
-            }
           ]
         }
       ]

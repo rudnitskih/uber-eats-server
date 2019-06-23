@@ -751,33 +751,6 @@
             "3ff47c1c-8a66-45b8-9bbf-0ffa9bb268ea",
             "c3e0b297-deac-475c-833e-c464a777177f",
             "c3879a77-c5bf-467e-92a8-2a113a3b6bfa"
-          ],
-          "displayItems": [
-            {
-              "uuid": "b8240c05-224e-405e-95af-bfb8e9ec539e",
-              "title": "Oatmeal with fruit and nuts",
-              "itemDescription": "250g.",
-              "price": 6500
-            },
-            {
-              "uuid": "3ff47c1c-8a66-45b8-9bbf-0ffa9bb268ea",
-              "title": "Omelet with spinach, ham, cheese and tomatoes",
-              "itemDescription": "250/100g.",
-              "price": 7500
-            },
-            {
-              "uuid": "c3e0b297-deac-475c-833e-c464a777177f",
-              "title": "Scrambled eggs with Viennese sausage and vegetables",
-              "itemDescription": "200/100g.",
-              "price": 7500
-            },
-            {
-              "uuid": "c3879a77-c5bf-467e-92a8-2a113a3b6bfa",
-              "title": "Cheesecakes with raisins, sour cream and jam",
-              "itemDescription": "250g.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a325d88c-6e76-4731-bcce-910955c4df0d"
-            }
           ]
         },
         {
@@ -800,105 +773,6 @@
             "733c7a09-1717-4642-9e31-aeb3ab441999",
             "7968778d-3390-4e43-b38a-7816683de734",
             "b11f5c46-dac4-402d-a998-1ff57e765dde"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e45649a5-59bb-4d97-b1a8-c96d33ed31ea",
-              "title": "Assorted vegetables",
-              "itemDescription": "Tomatoes, cucumbers,bell pepper, and radish (200/50g).",
-              "price": 9500
-            },
-            {
-              "uuid": "75e64d44-2cd9-486e-967a-2c80eb4c3744",
-              "title": "Assorted meat",
-              "itemDescription": "Basturma, balyk, smoked sausage, salami, and spicy bacon (250g).",
-              "price": 17000
-            },
-            {
-              "uuid": "46841b3b-6d2f-4e12-ad49-388429c5e9ac",
-              "title": "Assorted fish",
-              "itemDescription": "Butter, salmon, bruschetta with smoked fish (200g).",
-              "price": 24000
-            },
-            {
-              "uuid": "485fbe4e-362d-42f4-8f5a-1f44c4c4d380",
-              "title": "Assorted cheese",
-              "itemDescription": "Dorblu, Camembert, Parmesan, goat cheese in nuts flakes, seasonal fruit, cranberry sauce, grapes, and nuts (200g).",
-              "price": 23000
-            },
-            {
-              "uuid": "f53129db-884b-4316-a393-aa2ef6e1155a",
-              "title": "Assorted Lebanese appetizers",
-              "itemDescription": "Hummus, Baba Ghanouj, Labneh, shanklish, olives, and Lebanese cheese (500g).",
-              "price": 18500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1823222b-5794-4f4f-9b4c-eb7ad39e1f01"
-            },
-            {
-              "uuid": "23b40ed3-9ce6-4fd9-a0bd-153ced0229a3",
-              "title": "Assorted pickles",
-              "itemDescription": "Tomatoes, cucumbers, cabbage, hot peppers, Korean carrots, garlic, and marinated mushrooms (500g).",
-              "price": 10500
-            },
-            {
-              "uuid": "b54e1d3c-0e1f-42db-b9cc-d295f9b66425",
-              "title": "Labneh",
-              "itemDescription": "Mediterranean cheese (150g).",
-              "price": 7000
-            },
-            {
-              "uuid": "fca6fa6d-680b-474b-a43b-c04dbda854a6",
-              "title": "Shanklish",
-              "itemDescription": "Goat Cheese, tomato, spring onion, and olive oil (150g).",
-              "price": 8000
-            },
-            {
-              "uuid": "df6da8a6-5f92-4993-a8e1-48561964cfae",
-              "title": "Hummus",
-              "itemDescription": "Chickpeas with sesame oil (150g).",
-              "price": 7500
-            },
-            {
-              "uuid": "2c09e910-9fb7-4790-ad38-05572d394e9a",
-              "title": "Babaghanouj",
-              "itemDescription": "Roasted eggplant with sesame oil (150g).",
-              "price": 8500
-            },
-            {
-              "uuid": "1900d392-ae35-42de-a2ce-8814069cce85",
-              "title": "Pancakes with salmon, and Philadelphia cheese",
-              "itemDescription": "250g.",
-              "price": 21000
-            },
-            {
-              "uuid": "9ce3718d-cb61-418b-99d1-5f2cdfa400df",
-              "title": "Salo with garlic, croutons, and pickles",
-              "itemDescription": "75/75/50g.",
-              "price": 11000
-            },
-            {
-              "uuid": "b4b29f52-eca9-452c-90c5-27b1ffcb2b1b",
-              "title": "Pike caviar with butter, and toast",
-              "itemDescription": "50/30/20g.",
-              "price": 23000
-            },
-            {
-              "uuid": "733c7a09-1717-4642-9e31-aeb3ab441999",
-              "title": "Appetizer of eggplants and zucchini",
-              "itemDescription": "With capers, dried tomatoes, and nuts (250g).",
-              "price": 12000
-            },
-            {
-              "uuid": "7968778d-3390-4e43-b38a-7816683de734",
-              "title": "Chicken pate with pistachios and berry marmalade",
-              "itemDescription": "150/30g.",
-              "price": 11500
-            },
-            {
-              "uuid": "b11f5c46-dac4-402d-a998-1ff57e765dde",
-              "title": "Snack of mackerel and herring with baked potatoes",
-              "itemDescription": "250g.",
-              "price": 10500
-            }
           ]
         },
         {
@@ -918,89 +792,6 @@
             "d8f17276-dce4-46a0-8989-b3211f283a20",
             "517590f6-8170-4ccb-9f17-ac88ed863d0c",
             "fb059416-3dc1-4d27-9ea4-0761b38513d7"
-          ],
-          "displayItems": [
-            {
-              "uuid": "d6e878c4-19da-4377-b5d8-0736676dbe82",
-              "title": "Tabbouleh",
-              "itemDescription": "Parsley, tomatoes, onions,olive oil, and burguli (250g).",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/937b7616-8db4-4a5c-b25a-4aedae67f826"
-            },
-            {
-              "uuid": "b78f46c1-d467-465b-952c-57508b60db6b",
-              "title": "Fattouch",
-              "itemDescription": "Tomatoes, cucumbers, bell pepper, radish, dried crust, and olive oil (250g).",
-              "price": 9500
-            },
-            {
-              "uuid": "fe62995c-8903-42fd-ab1c-9eba94cb609a",
-              "title": "Mon Cher salad",
-              "itemDescription": "Prawns, squids, caviar, cucumber, corn salad, and eggs with mayonnaise (250g).",
-              "price": 19000
-            },
-            {
-              "uuid": "7336afc5-9ee3-438b-b03f-82dd293afbc6",
-              "title": "Caesar salad",
-              "itemDescription": "Iceberg lettuce, chicken, young Parmesan, boiled eggs, tomatoes, and croutons with Caesar sauce (250g).",
-              "price": 14000
-            },
-            {
-              "uuid": "60372f99-780d-49cf-9615-aca939cf8e49",
-              "title": "Warm salad",
-              "itemDescription": "Lettuce, beef, mushrooms, bell pepper, and honey-mustard sauce (250g).",
-              "price": 16000
-            },
-            {
-              "uuid": "d038b327-9fe8-4e19-8349-cce09dc4417a",
-              "title": "Salad with tongue and porcini mushrooms",
-              "itemDescription": "250g.",
-              "price": 16000
-            },
-            {
-              "uuid": "d1197b1a-3ded-4724-85ca-beebd2d6fad4",
-              "title": "Greek salad",
-              "itemDescription": "Tomato, cucumber, pepper, feta cheese, olives, onions, olive oil, and honey-mustard sauce (250g).",
-              "price": 12000
-            },
-            {
-              "uuid": "b5cfe8b1-4d5f-43f1-951b-dc8ee4d80912",
-              "title": "Beetroot salad with duck, warm cheese, arugula, and peanut sauce",
-              "itemDescription": "300g.",
-              "price": 19000
-            },
-            {
-              "uuid": "90230838-8511-44bf-8f1b-c24c92c2dccd",
-              "title": "Salad with turkey, Philadelphia and cowberry sauce",
-              "itemDescription": "280g.",
-              "price": 14000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d89ca4d-b585-47d5-9ea7-c4414e480a8c"
-            },
-            {
-              "uuid": "19540a2a-37e4-4ffb-baa5-e5986accaac0",
-              "title": "Chicken liver, spinach, and nuts salad",
-              "itemDescription": "250g.",
-              "price": 13000
-            },
-            {
-              "uuid": "d8f17276-dce4-46a0-8989-b3211f283a20",
-              "title": "Salad with avocado, arugula, and salted salmon",
-              "itemDescription": "250g.",
-              "price": 18500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4f8873d-8377-4a48-9adb-4d4cf1e7178e"
-            },
-            {
-              "uuid": "517590f6-8170-4ccb-9f17-ac88ed863d0c",
-              "title": "Caesar with shrimp, avocado, and salmon",
-              "itemDescription": "300g.",
-              "price": 24000
-            },
-            {
-              "uuid": "fb059416-3dc1-4d27-9ea4-0761b38513d7",
-              "title": "Salad with herring, lightly salted cucumber, beans, and fragrant oil",
-              "itemDescription": "300g.",
-              "price": 13000
-            }
           ]
         },
         {
@@ -1014,51 +805,6 @@
             "7eed5809-d938-4a7a-9e99-a22dcc6f6fb2",
             "fc5e234a-37fc-47f6-b00d-24730a224594",
             "ad1cbd13-1715-4222-a740-376bbfe031dc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "75630a39-0e82-492c-9270-c9d72c8831e1",
-              "title": "Cream soup with mushrooms",
-              "itemDescription": "300g.",
-              "price": 8500
-            },
-            {
-              "uuid": "650f405a-38de-47dc-888a-22b106ff11bc",
-              "title": "Ukrainian borsch",
-              "itemDescription": "300g.",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c0da8a95-a332-45ca-b1e0-d17084626e98"
-            },
-            {
-              "uuid": "39aca76c-debd-4a32-9ec2-8ef81d3bcbf7",
-              "title": "Solyanka with meat",
-              "itemDescription": "300g.",
-              "price": 9500
-            },
-            {
-              "uuid": "a1d60577-ec83-4a71-b048-2800eb839ab2",
-              "title": "Broth with turkey meatballs, and egg",
-              "itemDescription": "300g.",
-              "price": 8500
-            },
-            {
-              "uuid": "7eed5809-d938-4a7a-9e99-a22dcc6f6fb2",
-              "title": "Chilean ukha",
-              "itemDescription": "300g.",
-              "price": 16000
-            },
-            {
-              "uuid": "fc5e234a-37fc-47f6-b00d-24730a224594",
-              "title": "Lentil cream soup",
-              "itemDescription": "300g.",
-              "price": 7500
-            },
-            {
-              "uuid": "ad1cbd13-1715-4222-a740-376bbfe031dc",
-              "title": "Shurpa with veal tails with beans",
-              "itemDescription": "300g.",
-              "price": 9500
-            }
           ]
         },
         {
@@ -1076,76 +822,6 @@
             "0f93e1be-06c3-495e-b0fc-742278d10057",
             "d8198988-9dc4-4a58-8ef8-fe801ccc1b1d",
             "cd1a6409-2bf2-4343-b27b-da527d627c9a"
-          ],
-          "displayItems": [
-            {
-              "uuid": "b5d26e0a-e308-4f44-bb1d-12fce7e9f4d2",
-              "title": "Lebanese Assorted meats",
-              "itemDescription": "500g.",
-              "price": 22000
-            },
-            {
-              "uuid": "0f9b2b4a-3f02-41d8-8f47-9a73437b4083",
-              "title": "Hummus with meat, and nuts",
-              "itemDescription": "Chick peas stuffed with meat and olive oil (200g).",
-              "price": 9000
-            },
-            {
-              "uuid": "b35202f1-1446-4efb-a614-6e3566c69528",
-              "title": "Kibby",
-              "itemDescription": "Fried meatballs with pine nuts, and onions (200g).",
-              "price": 8500
-            },
-            {
-              "uuid": "1cece1bc-70c1-4b1d-a6c9-f13c31a36576",
-              "title": "Kebab from suluguni in puff pastry on the grill",
-              "itemDescription": "300g.",
-              "price": 11500
-            },
-            {
-              "uuid": "11c2b443-6538-4659-9a5c-44a65f93e941",
-              "title": "Spinach pancakes with smoked salmon, caviar, and cream sauce",
-              "itemDescription": "300g.",
-              "price": 18000
-            },
-            {
-              "uuid": "40fa1a74-cef6-48e2-ada7-c35b94e7686a",
-              "title": "Sambushiki with spinach",
-              "itemDescription": "6 pcs.",
-              "price": 6000
-            },
-            {
-              "uuid": "adacd83a-bb76-40e3-9817-81297f54a8a7",
-              "title": "Sambushiki with meat",
-              "itemDescription": "6 pcs.",
-              "price": 6000
-            },
-            {
-              "uuid": "ee75c2e3-71ad-4f07-95df-474e2dbfc905",
-              "title": "Sambushiki with cheese",
-              "itemDescription": "6 pcs.",
-              "price": 6000
-            },
-            {
-              "uuid": "0f93e1be-06c3-495e-b0fc-742278d10057",
-              "title": "Mon Cher sambushiki with cheese",
-              "itemDescription": "6 pcs.",
-              "price": 7500
-            },
-            {
-              "uuid": "d8198988-9dc4-4a58-8ef8-fe801ccc1b1d",
-              "title": "Assorted sambushiki",
-              "itemDescription": "8 pcs.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/dfd50f56-61a4-4806-9c20-ccef16374495"
-            },
-            {
-              "uuid": "cd1a6409-2bf2-4343-b27b-da527d627c9a",
-              "title": "Falafel with herbs",
-              "itemDescription": "200/100g.",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/245fcdc4-54de-43a1-8f8e-883b0333110b"
-            }
           ]
         },
         {
@@ -1164,81 +840,6 @@
             "72008139-e0a0-498e-82be-ed30faf26e17",
             "3c524897-bcde-489b-85f2-4dfb03209330",
             "3d52c4e1-2046-4e24-bc0c-820b90a2eaee"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e12392d4-4e4b-4540-abaf-69ff3c171144",
-              "title": "Pork on the bone with white mushroom sauce",
-              "itemDescription": "300/150g.",
-              "price": 17000
-            },
-            {
-              "uuid": "b64bca9f-216a-4a0d-b37d-e02836eed567",
-              "title": "Meat Mix Grill with vegetables",
-              "itemDescription": "Lulya-kebab, mutton on the bone, shashlik kebab from veal, shishashuk, and half of chicken (800/200g).",
-              "price": 50000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe21976d-53d7-43b1-807c-f76a317fb68f"
-            },
-            {
-              "uuid": "1c70ce71-c721-4ceb-a362-208cd7ab7623",
-              "title": "Kebab",
-              "itemDescription": "200/150g.",
-              "price": 16000
-            },
-            {
-              "uuid": "f4d7eba5-bd34-4177-8264-0a62cd236749",
-              "title": "Skewers of Pork on the grill",
-              "itemDescription": "200/150g.",
-              "price": 17000
-            },
-            {
-              "uuid": "cad277e8-e2ec-4a89-9e5d-207b9f503ef3",
-              "title": "Lamb chops",
-              "itemDescription": "200/150g.",
-              "price": 19000
-            },
-            {
-              "uuid": "fa9da81c-14c8-4645-b690-dd741bfee077",
-              "title": "Veal chops",
-              "itemDescription": "",
-              "price": 22000
-            },
-            {
-              "uuid": "049bc2a8-b9b7-4c2f-b346-468105aee2d1",
-              "title": "Skewers of beef on the grill",
-              "itemDescription": "200/150g.",
-              "price": 18000
-            },
-            {
-              "uuid": "0f0743f6-1145-401e-b22c-136ab88aa4ee",
-              "title": "Veal steak on the grill",
-              "itemDescription": "200/150g.",
-              "price": 25000
-            },
-            {
-              "uuid": "f0382566-065a-4892-b706-1055786e8743",
-              "title": "Shawarma",
-              "itemDescription": "Veal, hamus, pickled cucumber, and tomato (200/150g).",
-              "price": 16000
-            },
-            {
-              "uuid": "72008139-e0a0-498e-82be-ed30faf26e17",
-              "title": "Lebanese pilaf with turkey, and nuts",
-              "itemDescription": "300/150g.",
-              "price": 13000
-            },
-            {
-              "uuid": "3c524897-bcde-489b-85f2-4dfb03209330",
-              "title": "Beef tongue on the grill with pepper sauce",
-              "itemDescription": "200/50g.",
-              "price": 13000
-            },
-            {
-              "uuid": "3d52c4e1-2046-4e24-bc0c-820b90a2eaee",
-              "title": "Ribs in the sauce \"hoisin sauce\"",
-              "itemDescription": "300g.",
-              "price": 13000
-            }
           ]
         },
         {
@@ -1251,47 +852,6 @@
             "3c2f5a56-41c8-44e5-8428-d2176eb913f6",
             "4067b1a0-ac28-48af-98b7-bf721769fe17",
             "d25073bd-6e51-4f4b-a252-5d6db933ec90"
-          ],
-          "displayItems": [
-            {
-              "uuid": "134ee7cf-3e01-43d3-9eb2-1875b4dc1328",
-              "title": "Shish Taouk",
-              "itemDescription": "Сhicken fillet, and garlic sauce (200/150g).",
-              "price": 15000
-            },
-            {
-              "uuid": "40141de4-c6fd-446d-9288-4e2e7e279006",
-              "title": "Skewer of turkey with mustard sauce",
-              "itemDescription": "200/150g.",
-              "price": 17500
-            },
-            {
-              "uuid": "3c6c03e2-fd0b-494a-a21b-52ce4d36aacd",
-              "title": "Mon Cher cherry chicken",
-              "itemDescription": "600/150g.",
-              "price": 19500
-            },
-            {
-              "uuid": "3c2f5a56-41c8-44e5-8428-d2176eb913f6",
-              "title": "Fettuccine pasta with bacon, chicken hearts, and cream sauce",
-              "itemDescription": "300g.",
-              "price": 13000
-            },
-            {
-              "uuid": "4067b1a0-ac28-48af-98b7-bf721769fe17",
-              "title": "Hot griddle with spinach, vegetables, and couscous",
-              "itemDescription": "300g.",
-              "price": 17000,
-              "customizationUuids": [
-                "48f5a0ae-65f0-477f-996d-ae6dd4a2bc70"
-              ]
-            },
-            {
-              "uuid": "d25073bd-6e51-4f4b-a252-5d6db933ec90",
-              "title": "Lyulya-Turkey kebab",
-              "itemDescription": "250/100g.",
-              "price": 16000
-            }
           ]
         },
         {
@@ -1301,27 +861,6 @@
             "9576edb4-dcc4-4dfb-9098-16e9b4b94bcc",
             "a58899cd-0485-45c2-a669-a8e484259b63",
             "005e0fe2-b3ea-425b-9fa5-db496f379ffe"
-          ],
-          "displayItems": [
-            {
-              "uuid": "9576edb4-dcc4-4dfb-9098-16e9b4b94bcc",
-              "title": "Salmon fillet on grill with vegetables",
-              "itemDescription": "200/150g.",
-              "price": 28000
-            },
-            {
-              "uuid": "a58899cd-0485-45c2-a669-a8e484259b63",
-              "title": "Pike Cutlets with Avocado Sauce",
-              "itemDescription": "250/150g.",
-              "price": 16000
-            },
-            {
-              "uuid": "005e0fe2-b3ea-425b-9fa5-db496f379ffe",
-              "title": "Grilled dorado with vegetables",
-              "itemDescription": "300/150g.",
-              "price": 23000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a28e009f-2307-462d-a4dc-a1d84918c610"
-            }
           ]
         },
         {
@@ -1334,44 +873,6 @@
             "f14822c8-bf77-43a8-933b-fa8b4cfc0224",
             "d477e500-b223-40a2-ba47-4d79ecd3b867",
             "0c9cf510-44c6-42ea-a84c-7028ca2a192f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c6c61053-ba04-443c-a832-57ab3d9370ee",
-              "title": "French fries",
-              "itemDescription": "200g.",
-              "price": 5500
-            },
-            {
-              "uuid": "b44202b0-1f6b-4903-abdf-b085508705a8",
-              "title": "Potatoes in village style",
-              "itemDescription": "200g.",
-              "price": 4000
-            },
-            {
-              "uuid": "6dd058c3-654c-4b74-ba14-8d3dffc62d29",
-              "title": "Fried potatoes",
-              "itemDescription": "200g.",
-              "price": 4000
-            },
-            {
-              "uuid": "f14822c8-bf77-43a8-933b-fa8b4cfc0224",
-              "title": "Mashed potatoes",
-              "itemDescription": "200g.",
-              "price": 4000
-            },
-            {
-              "uuid": "d477e500-b223-40a2-ba47-4d79ecd3b867",
-              "title": "Rice with vegetables",
-              "itemDescription": "150g.",
-              "price": 4500
-            },
-            {
-              "uuid": "0c9cf510-44c6-42ea-a84c-7028ca2a192f",
-              "title": "Grilled vegetables",
-              "itemDescription": "300g.",
-              "price": 8500
-            }
           ]
         },
         {
@@ -1381,26 +882,6 @@
             "a9b1d48b-fb69-4605-8660-2149d5873df1",
             "2ae826c2-97a2-4082-ba71-2232e4224f6a",
             "b400218f-ae56-47d7-8905-43724b2f561a"
-          ],
-          "displayItems": [
-            {
-              "uuid": "a9b1d48b-fb69-4605-8660-2149d5873df1",
-              "title": "Shawarma",
-              "itemDescription": "Veal hamus, pickled cucumber, tomato, parsley, Tarator sauce, and Crimean onion (250g).",
-              "price": 7000
-            },
-            {
-              "uuid": "2ae826c2-97a2-4082-ba71-2232e4224f6a",
-              "title": "Shish Taouk",
-              "itemDescription": "Chicken on the grill, pickled cucumber, tomato, cabbage salad, garlic sauce, and French fries (250g).",
-              "price": 7000
-            },
-            {
-              "uuid": "b400218f-ae56-47d7-8905-43724b2f561a",
-              "title": "Falafel",
-              "itemDescription": "Bean burgers, radish, tomato, pickled cucumber, tarator, and parsley (250g).",
-              "price": 6000
-            }
           ]
         },
         {
@@ -1410,26 +891,6 @@
             "3530a6db-3e8f-403f-9b53-3335ec97ac11",
             "58e6601e-5a17-4389-a250-1a8ff6f03d33",
             "26e6fcd1-3fa2-4fc3-aea8-c78d621d8ab7"
-          ],
-          "displayItems": [
-            {
-              "uuid": "3530a6db-3e8f-403f-9b53-3335ec97ac11",
-              "title": "Basturma",
-              "itemDescription": "100g.",
-              "price": 6500
-            },
-            {
-              "uuid": "58e6601e-5a17-4389-a250-1a8ff6f03d33",
-              "title": "Peanuts",
-              "itemDescription": "80g.",
-              "price": 5500
-            },
-            {
-              "uuid": "26e6fcd1-3fa2-4fc3-aea8-c78d621d8ab7",
-              "title": "Pistachios",
-              "itemDescription": "80g.",
-              "price": 8000
-            }
           ]
         },
         {
@@ -1439,26 +900,6 @@
             "0a0eef18-9a77-4d68-9de8-8b6f5076a918",
             "765eadc5-938f-4f97-81c5-7c2d12dcab46",
             "a447824d-81d0-4a41-870e-f36c67163786"
-          ],
-          "displayItems": [
-            {
-              "uuid": "0a0eef18-9a77-4d68-9de8-8b6f5076a918",
-              "title": "Manakeesh Zaatar",
-              "itemDescription": "Lozenge with spices, tomatoes, and onion (300g).",
-              "price": 6000
-            },
-            {
-              "uuid": "765eadc5-938f-4f97-81c5-7c2d12dcab46",
-              "title": "Manakeesh with cheese",
-              "itemDescription": "300g.",
-              "price": 9500
-            },
-            {
-              "uuid": "a447824d-81d0-4a41-870e-f36c67163786",
-              "title": "Araes Kafta",
-              "itemDescription": "Baked lebanese bread stuffed with kebab (300g).",
-              "price": 9500
-            }
           ]
         },
         {
@@ -1468,26 +909,6 @@
             "56adc939-92f2-4eb9-99ba-eb02ee2ce45e",
             "f622ff49-1b41-443b-909c-40d744b7651c",
             "d254d262-4b64-44bc-aaac-6f00cf95ae93"
-          ],
-          "displayItems": [
-            {
-              "uuid": "56adc939-92f2-4eb9-99ba-eb02ee2ce45e",
-              "title": "Mon Cher desserts in range",
-              "itemDescription": "",
-              "price": 9000
-            },
-            {
-              "uuid": "f622ff49-1b41-443b-909c-40d744b7651c",
-              "title": "Knafa",
-              "itemDescription": "",
-              "price": 7500
-            },
-            {
-              "uuid": "d254d262-4b64-44bc-aaac-6f00cf95ae93",
-              "title": "Fruit plate",
-              "itemDescription": "700g.",
-              "price": 18000
-            }
           ]
         },
         {
@@ -1507,95 +928,6 @@
             "8e99c91f-8896-4089-96f3-34b4ccd4c677",
             "94ac2526-3940-4dd1-b442-a7aee0717760",
             "41e0edcd-1089-41c0-a382-d0434f87b5ca"
-          ],
-          "displayItems": [
-            {
-              "uuid": "8da81d6f-393c-48d7-9e70-0372d4889024",
-              "title": "Burn",
-              "itemDescription": "250ml.",
-              "price": 5000
-            },
-            {
-              "uuid": "55445c73-1633-46a4-9056-17c3c155eb2d",
-              "title": "Coca-Cola",
-              "itemDescription": "",
-              "price": 3000,
-              "customizationUuids": [
-                "b6ef8fef-5b5c-483d-ab61-197587f7dcdd"
-              ]
-            },
-            {
-              "uuid": "7f468ae5-c8e2-4e70-a3c8-675bfdfec719",
-              "title": "Сoca-Cola Light",
-              "itemDescription": "250ml.",
-              "price": 3000
-            },
-            {
-              "uuid": "2fdec252-855a-454a-9a06-c5eafeab8496",
-              "title": "Fanta",
-              "itemDescription": "250ml.",
-              "price": 3000
-            },
-            {
-              "uuid": "81757f26-1a87-4ec0-ad9a-a7a124d94f28",
-              "title": "Sprite",
-              "itemDescription": "",
-              "price": 3000,
-              "customizationUuids": [
-                "3b152392-a9fd-433b-b11e-660babc517e6"
-              ]
-            },
-            {
-              "uuid": "a29ebd82-6cbc-4dc1-9a99-8fac04ef20ac",
-              "title": "Uzvar",
-              "itemDescription": "250ml.",
-              "price": 2000
-            },
-            {
-              "uuid": "ce27b0ed-4055-4e3f-afeb-9bcd369f8f65",
-              "title": "Morshinska",
-              "itemDescription": "500ml.",
-              "price": 4000,
-              "customizationUuids": [
-                "0365e3da-9c3c-49ab-aa2e-d8a82db75eab"
-              ]
-            },
-            {
-              "uuid": "6c2d45f3-f42e-4fa8-b647-ad3aaa2ce722",
-              "title": "Borjomi",
-              "itemDescription": "500ml.",
-              "price": 5500
-            },
-            {
-              "uuid": "820a7149-218f-4974-b7f6-851547a57cad",
-              "title": "Cranberry juice",
-              "itemDescription": "250ml.",
-              "price": 2500
-            },
-            {
-              "uuid": "775484f5-6c54-47fc-a08e-0392f9a0b239",
-              "title": "Tonic",
-              "itemDescription": "500ml.",
-              "price": 3500
-            },
-            {
-              "uuid": "8e99c91f-8896-4089-96f3-34b4ccd4c677",
-              "title": "Juice",
-              "itemDescription": "250ml.",
-              "price": 2500
-            },
-            {
-              "uuid": "94ac2526-3940-4dd1-b442-a7aee0717760",
-              "title": "Ayran",
-              "itemDescription": "250ml.",
-              "price": 4000
-            },
-            {
-              "uuid": "41e0edcd-1089-41c0-a382-d0434f87b5ca",
-              "title": "Ayran (copy)",
-              "itemDescription": "250ml.",
-              "price": 4000
-            }
           ]
         },
         {
@@ -1606,34 +938,6 @@
             "ba6157b9-8f0b-49b5-a296-aa011856db78",
             "5fc9046e-fa21-44c2-ad1e-f6a64e573a86",
             "cc856f96-5b3e-4303-b545-5e5a1bddfc52"
-          ],
-          "displayItems": [
-            {
-              "uuid": "65387990-a51e-4dfb-87b6-25dadfb87f2b",
-              "title": "Corona",
-              "itemDescription": "330ml.",
-              "price": 6500,
-              "rules": "You must be 21 or older"
-            },
-            {
-              "uuid": "ba6157b9-8f0b-49b5-a296-aa011856db78",
-              "title": "Baltic n/a",
-              "itemDescription": "500ml.",
-              "price": 4500
-            },
-            {
-              "uuid": "5fc9046e-fa21-44c2-ad1e-f6a64e573a86",
-              "title": "Warsteiner",
-              "itemDescription": "330ml.",
-              "price": 5500,
-              "rules": "You must be 21 or older"
-            },
-            {
-              "uuid": "cc856f96-5b3e-4303-b545-5e5a1bddfc52",
-              "title": "Warsteiner n/a",
-              "itemDescription": "330ml.",
-              "price": 5500
-            }
           ]
         },
         {
@@ -1644,36 +948,6 @@
             "cd071ce4-d1e8-432d-8b5b-c417c3235ba3",
             "4794b2f3-6c10-4671-8630-8410dbc42760",
             "696975eb-b3cb-4e4a-9e98-36a523f4f046"
-          ],
-          "displayItems": [
-            {
-              "uuid": "50de4f60-6eba-4d8a-a199-ee31f9da3988",
-              "title": "Grimbergen double - ambree",
-              "itemDescription": "0.5 l.",
-              "price": 9000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "cd071ce4-d1e8-432d-8b5b-c417c3235ba3",
-              "title": "Kronenbourg blanc",
-              "itemDescription": "0.5 l.",
-              "price": 9000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4794b2f3-6c10-4671-8630-8410dbc42760",
-              "title": "Lvivske 1715",
-              "itemDescription": "0.5 l.",
-              "price": 5000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "696975eb-b3cb-4e4a-9e98-36a523f4f046",
-              "title": "Mon Cher unfiltered",
-              "itemDescription": "0.5 l.",
-              "price": 6000,
-              "nutritionalInfo": {}
-            }
           ]
         }
       ]

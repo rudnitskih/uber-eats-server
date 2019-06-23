@@ -69,23 +69,6 @@
           "itemUuids": [
             "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
             "f306c97d-87be-40fc-80cd-103238c9bd71"
-          ],
-          "displayItems": [
-            {
-              "uuid": "514091cc-2359-4bfa-82a2-35bfe9ca06d4",
-              "title": "Лангустин",
-              "itemDescription": "Аргентинська креветка (1 шт).",
-              "price": 4400,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b94ed17-801f-489a-9e1c-3b91f0f5c6c0",
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "f306c97d-87be-40fc-80cd-103238c9bd71",
-              "title": "Мідії чилійські (чищені)",
-              "itemDescription": "",
-              "price": 5500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2722bbef-330c-4835-b18e-70255a9d06fb"
-            }
           ]
         },
         {
@@ -94,21 +77,6 @@
           "itemUuids": [
             "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
             "b081a78d-58d5-4321-9e70-3de02cf82f4d"
-          ],
-          "displayItems": [
-            {
-              "uuid": "64c7b96d-7e17-47da-9d6f-442eb79ec72f",
-              "title": "Моршинська",
-              "itemDescription": "400 мл.",
-              "price": 3300,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "b081a78d-58d5-4321-9e70-3de02cf82f4d",
-              "title": "Coca Cola",
-              "itemDescription": "330 мл.",
-              "price": 3300
-            }
           ]
         }
       ]

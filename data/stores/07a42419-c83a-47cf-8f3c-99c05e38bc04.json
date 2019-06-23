@@ -523,103 +523,6 @@
             "7831c587-1cb3-4dca-95c2-f9696a86768b",
             "a9ec1116-bef5-46b9-bef2-07ffe5c9b326",
             "4faa9932-cccc-46ea-8bd7-cc1a37011bf6"
-          ],
-          "displayItems": [
-            {
-              "uuid": "a71ccbed-b981-43a2-830a-90ea7f9fa8fc",
-              "title": "Сheeseburger",
-              "itemDescription": "Cheese, falafel/seitan, tomato, pickled cucumber, onion, salad, ginger, and mustard sauce.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfd62fc9-f817-4d16-9a56-5fa62c416dfd",
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              },
-              "customizationUuids": [
-                "f328025c-d8da-427f-824c-76831522b980"
-              ]
-            },
-            {
-              "uuid": "f2fa970b-5f3e-49c9-b461-3d158c5659d2",
-              "title": "Nori Burger",
-              "itemDescription": "Tofu, nori, pickled cucumbers, onion, ginger, salad, tomato and tartar sauce.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/98c2a933-dcc8-4444-97b0-4cf56579a313",
-              "nutritionalInfo": {},
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "2fb72809-6e21-4a13-a9ab-58de7ce999d7",
-              "title": "Hawaiian Burger",
-              "itemDescription": "Falafel, tinned pineapple, pepper, salad, curry sauce, sweet and sour sauce.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/abeeb452-20b4-483d-ba40-00069ae74736",
-              "nutritionalInfo": {},
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "7831c587-1cb3-4dca-95c2-f9696a86768b",
-              "title": "Green Burger",
-              "itemDescription": "Green lentils, champignon, sunflower seeds, garlic, capers, parsley, dill, cucumbers, rucola salad, tomato, and sauce.",
-              "price": 8000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "a9ec1116-bef5-46b9-bef2-07ffe5c9b326",
-              "title": "Chili burger",
-              "itemDescription": "Pickled soya meat, onion, cucumbers, tofu, tomato, rucola salad, salad, and chili sauce.",
-              "price": 8000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4faa9932-cccc-46ea-8bd7-cc1a37011bf6",
-              "title": "BBQ",
-              "itemDescription": "Pickled soya meat, onion, cucumbers, tofu, tomato, salad, and BBQ sauce.",
-              "price": 8000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -633,149 +536,6 @@
             "a0c00238-89d0-45d6-a101-2699d7b5f82d",
             "bd07d857-d6b7-49c3-8dc0-f7f0fe66b952",
             "43fb3092-13d9-40b1-8a17-dc9b0d7f6cd5"
-          ],
-          "displayItems": [
-            {
-              "uuid": "9abe8384-d58d-4f6e-b054-d64103ac1108",
-              "title": "Roll with seitan",
-              "itemDescription": "Seitan, onion, pickled cucumbers, tofu, cabbage, spicy carrot, tomato, salad, and BBQ sauce.",
-              "price": 7000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b17f3b9-e9b4-490e-8603-c53faeff06fb",
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "4d443c41-1ada-411f-8bb6-d0d22a0de0da",
-              "title": "Roll with falafel",
-              "itemDescription": "Falafel, cabbage, pickled cucumbers, spicy carrot, champignons, onion, tomato, tartar and BBQ sauces.",
-              "price": 7000,
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "7c50c507-62c5-4a7f-8585-84ab4c58562e",
-              "title": "Roll with avocado",
-              "itemDescription": "Avocado, tofu, nori, rucola salad, cucumbers, tomato, pepper, ginger and spirulina sauce.\n",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d280c785-849e-487c-a344-dc5252a63870",
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "3bfbd008-08bd-4b4d-b7e6-235b0fea9e55",
-              "title": "Roll with seitan sausage",
-              "itemDescription": "Seitan sausage, onion, cucumbers, tofu, cabbage, spicy carrot, tomato, salad,  sauce.\n",
-              "price": 7000,
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "a0c00238-89d0-45d6-a101-2699d7b5f82d",
-              "title": "Roll with tofu",
-              "itemDescription": "Tofu, onion, pickled cucumbers, cabbage, spicy carrot, tomato, salad, and BBQ sauce.",
-              "price": 7000,
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "bd07d857-d6b7-49c3-8dc0-f7f0fe66b952",
-              "title": "Roll with soya meat",
-              "itemDescription": "Soya meat, onion, pickled cucumbers, tofu, cabbage, spicy carrot, tomato, salad, and BBQ sauce.",
-              "price": 7000,
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "43fb3092-13d9-40b1-8a17-dc9b0d7f6cd5",
-              "title": "With hummus",
-              "itemDescription": "Special hummus, celery, pepper, and tomato.",
-              "price": 9000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -785,61 +545,6 @@
             "965c17bb-0ad3-4037-a9f3-07cbdec10454",
             "acbda703-12f6-4329-9ecd-305652364a73",
             "72fb4173-581e-46ee-9489-18bbd96da76e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "965c17bb-0ad3-4037-a9f3-07cbdec10454",
-              "title": "Mushroom Hot-dog",
-              "itemDescription": "Seitan sausage, salad, cucumbers, tomato, champignons, dill, and sauce.",
-              "price": 7000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/85f839f9-2e4e-4a7d-997c-26c331d600d2",
-              "nutritionalInfo": {},
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "acbda703-12f6-4329-9ecd-305652364a73",
-              "title": "Chili Hot-dog",
-              "itemDescription": "Seitan sausage, spicy carrot, salad, cucumbers, chili, salad and sauce.\n",
-              "price": 7000,
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            },
-            {
-              "uuid": "72fb4173-581e-46ee-9489-18bbd96da76e",
-              "title": "Pesto Hot-dog",
-              "itemDescription": "Seitan sausage, rucola salad, olives, tofu, tomato and pesto sauce.",
-              "price": 7000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e480bf2c-5e32-4cbc-b330-6b5a7bd92743"
-            }
           ]
         },
         {
@@ -847,31 +552,6 @@
           "title": "Noodles",
           "itemUuids": [
             "5f94349c-39d1-4716-95a6-38dccea05825"
-          ],
-          "displayItems": [
-            {
-              "uuid": "5f94349c-39d1-4716-95a6-38dccea05825",
-              "title": "Rice noodle",
-              "itemDescription": "Seitan, tofu, onion, ginger, chili, asparagus, black salt, curry, garlic, sesame, soy sauce, peanuts.",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee151953-3616-4523-bb0c-63b2565236ee",
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              }
-            }
           ]
         },
         {
@@ -879,35 +559,6 @@
           "title": "Lunch",
           "itemUuids": [
             "25a5bbf8-8db6-4160-b25c-17a1940382e8"
-          ],
-          "displayItems": [
-            {
-              "uuid": "25a5bbf8-8db6-4160-b25c-17a1940382e8",
-              "title": "Lunch menu",
-              "itemDescription": "Bulgur/couscous, seitan/falafel, vegetable salad",
-              "price": 7500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2e978f53-17e1-4a8a-b867-690ae4975c28",
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              },
-              "customizationUuids": [
-                "f328025c-d8da-427f-824c-76831522b980",
-                "3e5735aa-1245-4e88-bcf8-5d64441bb0f8"
-              ]
-            }
           ]
         },
         {
@@ -918,32 +569,6 @@
             "392ef8df-2e74-4be8-8b05-2d050da2c9dc",
             "e773a283-1f4d-4dc1-8792-7086fd69189a",
             "4eef7184-1208-4b97-9211-82b59dec0dbc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c658f7a8-afff-49a9-815b-30a9a087fb17",
-              "title": "Bonaqua",
-              "itemDescription": " 330 мл, негазована ",
-              "price": 3000
-            },
-            {
-              "uuid": "392ef8df-2e74-4be8-8b05-2d050da2c9dc",
-              "title": "Pepsi",
-              "itemDescription": "0,33",
-              "price": 2000
-            },
-            {
-              "uuid": "e773a283-1f4d-4dc1-8792-7086fd69189a",
-              "title": "Tea",
-              "price": 2500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4eef7184-1208-4b97-9211-82b59dec0dbc",
-              "title": "Fritz-cola",
-              "price": 7000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -952,59 +577,6 @@
           "itemUuids": [
             "e9a6e19c-7608-4b0b-87b0-ff6814c76617",
             "0b88b75a-5f00-4b88-b13d-161d35a8ffdf"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e9a6e19c-7608-4b0b-87b0-ff6814c76617",
-              "title": "French fries",
-              "itemDescription": "",
-              "price": 3500,
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              },
-              "customizationUuids": [
-                "75b10986-1168-4e56-960e-57f602b765c6"
-              ]
-            },
-            {
-              "uuid": "0b88b75a-5f00-4b88-b13d-161d35a8ffdf",
-              "title": "Fried tofu",
-              "itemDescription": "",
-              "price": 4000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/82b0e327-4b5e-4e17-b9b4-a5a786b740d3",
-              "endorsement": {
-                "backgroundColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconColor": {
-                  "alpha": 1,
-                  "color": "59BD5A"
-                },
-                "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png",
-                "text": "Vegetarian course",
-                "textColor": {
-                  "alpha": 1,
-                  "color": "FFFFFF"
-                }
-              },
-              "customizationUuids": [
-                "75b10986-1168-4e56-960e-57f602b765c6"
-              ]
-            }
           ]
         },
         {
@@ -1012,15 +584,6 @@
           "title": "Soup",
           "itemUuids": [
             "738ff9ee-34a1-4769-aa0e-0885e7b2161e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "738ff9ee-34a1-4769-aa0e-0885e7b2161e",
-              "title": "Soup",
-              "itemDescription": "",
-              "price": 4000,
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -1028,15 +591,6 @@
           "title": "Desserts",
           "itemUuids": [
             "cbfeb385-324d-426e-8ff2-225c9cd599f8"
-          ],
-          "displayItems": [
-            {
-              "uuid": "cbfeb385-324d-426e-8ff2-225c9cd599f8",
-              "title": "TWIX",
-              "itemDescription": "Vegan Twix with almond, dates and coconut oil. ",
-              "price": 4000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1050,50 +604,6 @@
             "d4951abd-e5f5-414e-a870-202e675bb747",
             "7d9a9ffc-140d-4807-910c-e09ad5a11e61",
             "dcbbab1f-bbd4-4ceb-9314-463c8e2aef32"
-          ],
-          "displayItems": [
-            {
-              "uuid": "b0d889a1-8836-4fa1-b718-80b124b24aeb",
-              "title": "Garlic",
-              "price": 1500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "2d598a49-8fb4-4654-8569-21502f0da4bb",
-              "title": "BBQ",
-              "price": 1500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "84b21417-672c-442e-ac8a-390e5d2dfdca",
-              "title": "TarTar",
-              "price": 1500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "b2194540-e0f7-42e5-93ed-ecc9f69077a4",
-              "title": "Chili",
-              "price": 1500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "d4951abd-e5f5-414e-a870-202e675bb747",
-              "title": "Curry",
-              "price": 1500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "7d9a9ffc-140d-4807-910c-e09ad5a11e61",
-              "title": "Mustard",
-              "price": 1500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "dcbbab1f-bbd4-4ceb-9314-463c8e2aef32",
-              "title": "Spirulina",
-              "price": 1500,
-              "nutritionalInfo": {}
-            }
           ]
         }
       ]

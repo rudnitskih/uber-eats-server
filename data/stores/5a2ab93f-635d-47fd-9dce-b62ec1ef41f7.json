@@ -213,31 +213,6 @@
             "81f76c50-f7c0-45ae-887b-acc0c56e6770",
             "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c",
             "6a872325-10ad-4e22-b5e8-bed6b08773fc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "81f76c50-f7c0-45ae-887b-acc0c56e6770",
-              "title": "Chicken Waffle Burger",
-              "itemDescription": "BURGER WITH JUICY CRUNCHY CHIKEN, BELL PEPPER, TOMATO, SPINACH AND HOMEMADE MAYONNAISE (320 g).",
-              "price": 10900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/95f9096a-e661-483b-8ca9-5373037374c8",
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "8cd64766-ee7a-45ba-81d4-c7499ecfdd7c",
-              "title": "Beef Waffle Burger",
-              "itemDescription": "BURGER WITH DOUBLE BEEF PATTIE, BBQ SAUCE, ICEBERG LETTUCE, CHEDDAR, PICKLE, BACON AND BLUE ONION (W ITH COLE SLAW ) (340 g/ 50 g).",
-              "price": 12900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2892b1fd-60b6-42fc-ad99-3f1993891e4f"
-            },
-            {
-              "uuid": "6a872325-10ad-4e22-b5e8-bed6b08773fc",
-              "title": "Fish Waffle Burger",
-              "itemDescription": "BURGER W ITH MACKEREL, ICEBERG LETTUCE, SALSA AND HOMEMADE MAYONNAISE (330 g).",
-              "price": 11900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/991da114-a216-49c3-9c82-124bd8c3f50e"
-            }
           ]
         },
         {
@@ -247,29 +222,6 @@
             "bd130dd8-dbf6-47e3-8ae6-ded5651798c2",
             "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b",
             "a3497295-52b5-46ee-8de2-1b3c6a11b651"
-          ],
-          "displayItems": [
-            {
-              "uuid": "bd130dd8-dbf6-47e3-8ae6-ded5651798c2",
-              "title": "Chiken Bowl",
-              "itemDescription": "BOWL WITH CHICKEN, BEANS, CORN COBS, SALSA, SPINACH AND BULGOGI SAUCE (300 g).",
-              "price": 10900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d31f74c-a9ef-476d-9bab-e7c061f9ac7a"
-            },
-            {
-              "uuid": "fa49bfa6-22c8-4c05-b57a-0b3f8acdce4b",
-              "title": "Tofu Bowl",
-              "itemDescription": "BOWL WITH TOFU, HUMMUS, QUINOA, MUSHROOMS, SPINACH, GUACAMOLE AND GRAPEFRUIT (340 g).",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ab7a827-03d6-498a-92a5-6827c0699467"
-            },
-            {
-              "uuid": "a3497295-52b5-46ee-8de2-1b3c6a11b651",
-              "title": "Falafel Bowl",
-              "itemDescription": "BOWL WITH FALAFEL, BEET HUMMUS, YOGURT, AVOCADO, BEANS, ARUGULA AND GREEN PEA (300 g).",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/287a7776-b751-48c8-ae82-92fb8290481e"
-            }
           ]
         },
         {
@@ -278,21 +230,6 @@
           "itemUuids": [
             "4cc27069-7923-4968-ba8a-83758dae5642",
             "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b"
-          ],
-          "displayItems": [
-            {
-              "uuid": "4cc27069-7923-4968-ba8a-83758dae5642",
-              "title": "Veggie French Fries",
-              "itemDescription": "FRENCH FRIES WITH GUACAMOLE, SALSA, YOGURT (240 g).",
-              "price": 6900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a9f1a1e-93c6-4cbe-8d5c-de10dc2d2b72"
-            },
-            {
-              "uuid": "8bc3dfd9-e474-4ef8-9acf-9126bfbc235b",
-              "title": "French fries",
-              "itemDescription": "180 g.",
-              "price": 3500
-            }
           ]
         },
         {
@@ -300,15 +237,6 @@
           "title": "Bites",
           "itemUuids": [
             "84edd146-e0c3-40f2-a283-0d0e9dcc5c91"
-          ],
-          "displayItems": [
-            {
-              "uuid": "84edd146-e0c3-40f2-a283-0d0e9dcc5c91",
-              "title": "Chicken Bites",
-              "itemDescription": "Fried chicken slices with honey and mustard dipping sauce, and cole slaw salad.",
-              "price": 8900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/85debce1-dc16-4b3d-9659-ec2a8a5613e1"
-            }
           ]
         },
         {
@@ -316,15 +244,6 @@
           "title": "Soups",
           "itemUuids": [
             "37065557-48cd-4553-a302-8b46f9f31922"
-          ],
-          "displayItems": [
-            {
-              "uuid": "37065557-48cd-4553-a302-8b46f9f31922",
-              "title": "Hangover-Chicken",
-              "itemDescription": "Chicken broth with egg noodles, and egg (300 ml).",
-              "price": 4900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/011b393e-202e-42e6-9149-8482d0d5c053"
-            }
           ]
         },
         {
@@ -334,30 +253,6 @@
             "b140fa30-d3f7-4f19-91b9-ad3ec451f72d",
             "b66d372d-9cd0-4477-a1c1-b3f6af192322",
             "279750de-1776-4f75-bcd9-ca8b74d71577"
-          ],
-          "displayItems": [
-            {
-              "uuid": "b140fa30-d3f7-4f19-91b9-ad3ec451f72d",
-              "title": "Classic waffles",
-              "itemDescription": "Sweet waffles with nuts, and chocolate (160 g).",
-              "price": 3900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8fdcce84-5757-4bf2-8d6a-f73b253d423c",
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "b66d372d-9cd0-4477-a1c1-b3f6af192322",
-              "title": "Chocolate waffles",
-              "itemDescription": "Wafers with caramelized banana, and orange curd (160 g).",
-              "price": 5900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/347fd60f-1b09-4953-894f-cd692b5925f6"
-            },
-            {
-              "uuid": "279750de-1776-4f75-bcd9-ca8b74d71577",
-              "title": "Chia dessert",
-              "itemDescription": "Mousse of apples, banana and greens with pieces of persimmon, and chia seeds in oat milk (260 g).",
-              "price": 4500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/23355cc8-ba12-4ab8-8d24-52aebd9cba4a"
-            }
           ]
         },
         {
@@ -368,32 +263,6 @@
             "93d6cca4-b748-40c0-817a-a9f6ba6252f9",
             "a476e141-2e03-418b-9e64-fbcb1c91d3bd",
             "41f2d07a-4c67-494f-997c-61feda083cf3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "b8ee69aa-5bd3-4269-a9e6-3127fcfac3cb",
-              "title": "BBQ",
-              "itemDescription": "",
-              "price": 1000
-            },
-            {
-              "uuid": "93d6cca4-b748-40c0-817a-a9f6ba6252f9",
-              "title": "Honey and mustard",
-              "itemDescription": "",
-              "price": 1000
-            },
-            {
-              "uuid": "a476e141-2e03-418b-9e64-fbcb1c91d3bd",
-              "title": "Sweet chili",
-              "itemDescription": "",
-              "price": 1500
-            },
-            {
-              "uuid": "41f2d07a-4c67-494f-997c-61feda083cf3",
-              "title": "Cranberry",
-              "itemDescription": "",
-              "price": 1500
-            }
           ]
         },
         {
@@ -407,56 +276,6 @@
             "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
             "a408deba-ec5b-4c64-b3e2-babfa7ee7780",
             "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938"
-          ],
-          "displayItems": [
-            {
-              "uuid": "2d1d90f9-6aa7-40f8-b782-b9a6d8111a60",
-              "title": "Pepsi 0,33",
-              "itemDescription": "",
-              "price": 1500
-            },
-            {
-              "uuid": "7ab41931-ef50-4f41-a0c0-95fea6eed2a3",
-              "title": "Mirinda 0,33",
-              "itemDescription": "",
-              "price": 1500
-            },
-            {
-              "uuid": "c25c95ce-6ad2-4645-a940-7a6b3a2d1672",
-              "title": "Dr.Pepper 0.33",
-              "itemDescription": "",
-              "price": 3500
-            },
-            {
-              "uuid": "479d3a21-291e-4036-bc9a-d35f3d07b526",
-              "title": "TonicRoyalclub 0,33",
-              "itemDescription": "",
-              "price": 2500
-            },
-            {
-              "uuid": "cafa9fd7-6486-4bf5-bfb1-2c3351b08d89",
-              "title": "Ginger ale Royal club 0,33",
-              "itemDescription": "",
-              "price": 2500
-            },
-            {
-              "uuid": "a408deba-ec5b-4c64-b3e2-babfa7ee7780",
-              "title": "Galicia juice 0,3",
-              "itemDescription": "",
-              "price": 3000,
-              "customizationUuids": [
-                "1107d0bd-250c-4fea-a32f-4d4c08b3e699"
-              ]
-            },
-            {
-              "uuid": "7a5c16ab-c5d4-4379-b6ab-027f5cfa5938",
-              "title": "Underwood kraft beer 0,33",
-              "itemDescription": "",
-              "price": 7500,
-              "customizationUuids": [
-                "fd551492-e7ef-46c6-8b69-3a58269186d6"
-              ]
-            }
           ]
         }
       ]

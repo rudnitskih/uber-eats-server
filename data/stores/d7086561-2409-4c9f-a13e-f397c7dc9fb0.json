@@ -346,32 +346,6 @@
             "44dc0aef-77cb-47cf-889d-d869df3a8773",
             "31ff362f-18e0-4546-bff2-1ae52f10aa2b",
             "46db590f-759b-48ce-9d9b-a251578e7181"
-          ],
-          "displayItems": [
-            {
-              "uuid": "10dfd0ca-b684-4cce-97c4-ae8a1875c8bd",
-              "title": "Specialty salad with turkey and perfume refueling",
-              "itemDescription": "Baked turkey, fried bacon, boiled egg, fresh tomatoes, lettuce, hard cheese, croutons, and special sauce with anchovies (200 g).",
-              "price": 8900
-            },
-            {
-              "uuid": "44dc0aef-77cb-47cf-889d-d869df3a8773",
-              "title": "Baked beetroot with prunes",
-              "itemDescription": "Baked beetroots, fried onions, walnuts, and sunflower oil (190g).",
-              "price": 5700
-            },
-            {
-              "uuid": "31ff362f-18e0-4546-bff2-1ae52f10aa2b",
-              "title": "Olivier salad",
-              "itemDescription": "Baked chicken fillet, ham, boiled potatoes, carrots, egg, fresh and pickled cucumbers, green peas, sour cream, and mayonnaise. ",
-              "price": 7500
-            },
-            {
-              "uuid": "46db590f-759b-48ce-9d9b-a251578e7181",
-              "title": "Dressed herring",
-              "itemDescription": "Herring, pickled onions, boiled potatoes, carrots, beets and eggs, sunflower oil, and mayonnaise (250 g).",
-              "price": 7200
-            }
           ]
         },
         {
@@ -380,20 +354,6 @@
           "itemUuids": [
             "3cddcc67-d481-4f6d-b799-f97a8eafff7c",
             "274bdcba-a0c6-49de-ba51-f9ed9c81e3da"
-          ],
-          "displayItems": [
-            {
-              "uuid": "3cddcc67-d481-4f6d-b799-f97a8eafff7c",
-              "title": "Chicken broth with quenelles",
-              "itemDescription": "Chicken broth, boiled meatballs, egg, and crouton of wheat bread. (300\\10 g)",
-              "price": 5400
-            },
-            {
-              "uuid": "274bdcba-a0c6-49de-ba51-f9ed9c81e3da",
-              "title": "Bograch",
-              "itemDescription": "Bacon, pork, veal, pork ribs, onions, potatoes, carrots, tomatoes, garlic, paprika, red peppers, and sour cream.(300\\30g)",
-              "price": 8000
-            }
           ]
         },
         {
@@ -406,48 +366,6 @@
             "de6c512c-3031-4fda-9660-69a4ba669f51",
             "512c8413-139b-43f0-958a-0da3d0c09c07",
             "055aa6fb-3060-42e1-b4b7-4ff2600cfe8d"
-          ],
-          "displayItems": [
-            {
-              "uuid": "299742d6-15d7-4d64-bd17-8d6ac2e94c47",
-              "title": "Chicken pate with toasted bread",
-              "itemDescription": "Chicken thighs, chicken liver, onions, cognac, cream, butter, and croutons of rye bread.",
-              "price": 7000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f9b4bae-d6f3-4f9e-a9c8-eb8ebe08d452",
-              "rules": "You must be 21 or older"
-            },
-            {
-              "uuid": "f1ee80a9-4672-4784-ba8d-2a55b0e28950",
-              "title": "Forschmack Odessa style",
-              "itemDescription": "Mackerel fillet, herring fillet, baked apple, onions, apple cider vinegar, soy sauce, sugar, butter, and croutons of rye bread. 130\\60g",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a33c2556-06b2-4ae2-b35f-5ddc858fa9ac"
-            },
-            {
-              "uuid": "508420b1-9970-48e1-88bf-ad5d2bc538cd",
-              "title": "Meat plate by own production",
-              "itemDescription": "baked ham,  turkey, veal (180\\30g)",
-              "price": 9700,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/58df89e9-4d42-43cd-aad1-b80406a67add"
-            },
-            {
-              "uuid": "de6c512c-3031-4fda-9660-69a4ba669f51",
-              "title": "Marinated Ukrainian salo",
-              "itemDescription": "Marinated belly bacon, red onions, mustard, horseradish, and garlic.",
-              "price": 8500
-            },
-            {
-              "uuid": "512c8413-139b-43f0-958a-0da3d0c09c07",
-              "title": "Homemade pickles",
-              "itemDescription": "Sauerkraut, pickled cucumbers and tomatoes, onions, greens, and sunflower oil.",
-              "price": 5200
-            },
-            {
-              "uuid": "055aa6fb-3060-42e1-b4b7-4ff2600cfe8d",
-              "title": "Herring with potatoes and pickled onions",
-              "itemDescription": "Boiled potatoes, herring, pickled red onions, green onions, and sunflower oil.",
-              "price": 6000
-            }
           ]
         },
         {
@@ -458,32 +376,6 @@
             "51697b49-741f-4dc0-b11e-13396f6068c3",
             "2c97f1d5-1fa8-4ffe-b01d-2d011c7eb3f7",
             "022d7165-68c7-4ffd-99af-2d6841cac8a0"
-          ],
-          "displayItems": [
-            {
-              "uuid": "3725cecb-ef98-48c3-8d13-0dfd5286c6ce",
-              "title": "Mashed potatoes",
-              "itemDescription": "Potatoes, milk, cream, and butter.",
-              "price": 4600
-            },
-            {
-              "uuid": "51697b49-741f-4dc0-b11e-13396f6068c3",
-              "title": "Rice with vegetables",
-              "itemDescription": "Boiled rice, vegetables (beans, corn, green peas, carrots, green beans), fried onions, butter, and greens.\n",
-              "price": 4600
-            },
-            {
-              "uuid": "2c97f1d5-1fa8-4ffe-b01d-2d011c7eb3f7",
-              "title": "Buckwheat porridge with mushrooms and onions",
-              "itemDescription": "Buckwheat porridge, butter, fried champignons, and fried onions. (180g)",
-              "price": 4600
-            },
-            {
-              "uuid": "022d7165-68c7-4ffd-99af-2d6841cac8a0",
-              "title": "Baked vegetables",
-              "itemDescription": "mushrooms, cabbiage, potato, carrot (200g)",
-              "price": 5100
-            }
           ]
         },
         {
@@ -498,57 +390,6 @@
             "41d9a80d-ac92-4613-974d-e5f7f282e187",
             "30c666c4-8780-467d-8ed1-3dc489661a90",
             "c75683e6-5788-4fdd-80ef-7b5a9ba8218a"
-          ],
-          "displayItems": [
-            {
-              "uuid": "85f914eb-8156-4001-ae9d-cfe09823d6d6",
-              "title": "Zrazy potatoes with meat",
-              "itemDescription": "Potatoes, eggs, flour, salt, minced meat: pork and veal, onions, and sour cream.",
-              "price": 7200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b1da9c6-ef93-478a-97cb-dce317574b2a"
-            },
-            {
-              "uuid": "8715d9b6-dbd8-4917-8009-85e990bdc8ef",
-              "title": "Potato pancakes with sour cream",
-              "itemDescription": "Potatoes, sour cream, mayonnaise, onions, garlic, flour, and egg.",
-              "price": 6900
-            },
-            {
-              "uuid": "8be5b629-7ec4-4c48-a392-793e26adc23f",
-              "title": "Banosh",
-              "itemDescription": "Corn, cream, sour cream, chicken, fried bacon, and bryndza. (300 g)",
-              "price": 7300
-            },
-            {
-              "uuid": "b17d9a2c-b620-4fdb-8749-483800e812a3",
-              "title": "Pancakes with neat's tongue and cheese",
-              "itemDescription": "Pancakes, boiled veal meat, veal tongue, suluguni cheese, onions, basil, chicken broth, and butter.",
-              "price": 7600
-            },
-            {
-              "uuid": "6fa4a70f-2ce7-4d4e-822c-62a8268cf3d0",
-              "title": "Scrambled eggs",
-              "itemDescription": "Eggs, ham, cream, hard cheese, tomatoes, onions green onions, served with croutons of baguette, mushroom sauce, and bacon.",
-              "price": 6600
-            },
-            {
-              "uuid": "41d9a80d-ac92-4613-974d-e5f7f282e187",
-              "title": "Holubtsi",
-              "itemDescription": "Minced meat (pork and chicken), rice, cream, onions, carrots, cabbages, tomato paste, egg, sour cream, and cream.(300\\30g)",
-              "price": 8300
-            },
-            {
-              "uuid": "30c666c4-8780-467d-8ed1-3dc489661a90",
-              "title": "Pike cutlets  and horseradish sauce",
-              "itemDescription": "Pike fillet, chicken thigh, onions, cream, egg, toast bread, and bread crumbs.\n",
-              "price": 8600
-            },
-            {
-              "uuid": "c75683e6-5788-4fdd-80ef-7b5a9ba8218a",
-              "title": "Chicken cutlets with mushroom sauce",
-              "itemDescription": "",
-              "price": 8200
-            }
           ]
         },
         {
@@ -557,23 +398,6 @@
           "itemUuids": [
             "06de3068-4e1b-496f-a4b1-8b8fdfe13bea",
             "41b9d597-442e-48df-be3f-ee68c1a6634d"
-          ],
-          "displayItems": [
-            {
-              "uuid": "06de3068-4e1b-496f-a4b1-8b8fdfe13bea",
-              "title": "Chicken julienne",
-              "itemDescription": "Chicken fillet, champignons, onions, cream sauce, and cheese. (250g)",
-              "price": 10300,
-              "customizationUuids": [
-                "dd2fa7c8-a89f-4f66-a265-7cad028102e4"
-              ]
-            },
-            {
-              "uuid": "41b9d597-442e-48df-be3f-ee68c1a6634d",
-              "title": "Beefsteak",
-              "itemDescription": "Veal, fried onions, cracklings and egg (200\\25g)",
-              "price": 9800
-            }
           ]
         },
         {
@@ -584,35 +408,6 @@
             "880866dd-d5d2-4a6e-98eb-1fc48c475b36",
             "03f1152b-b9b5-44e9-a1ea-f9c4ea2d1b4b",
             "202a86b5-de62-435e-b239-aa3f689a890d"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c0291232-031e-42d0-a71c-fd5da125ff0d",
-              "title": "Pork ribs with baked apples and cranberry sauce",
-              "itemDescription": "Pork rib, green apples, marinated onions, red peppers, and bay leaf.\n\n",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c5af0da4-8391-4d78-9456-c4d0f24ac093"
-            },
-            {
-              "uuid": "880866dd-d5d2-4a6e-98eb-1fc48c475b36",
-              "title": "Blood sausage with baked potatoes",
-              "itemDescription": "Salo, blood, boiled buckwheat porridge, fried onions, garlic, salt, pepper, milk, and potatoes with skin. (130\\100\\25g)",
-              "price": 8100,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/27dbc261-44f9-47ca-b72e-30de39dc989d"
-            },
-            {
-              "uuid": "03f1152b-b9b5-44e9-a1ea-f9c4ea2d1b4b",
-              "title": "Homemade sausage with baked cabbage",
-              "itemDescription": "Sausage homemade: salo, pork shovel, garlic, milk, egg, salt, pepper, bay leave, cabbage, acid whey based mayonnaise, garlic, and parsley.",
-              "price": 9300,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4b3e183-240e-419d-8ece-6b89ae9a3261"
-            },
-            {
-              "uuid": "202a86b5-de62-435e-b239-aa3f689a890d",
-              "title": "Mackerel baked in herbs with parsnips",
-              "itemDescription": "Mackerel fillet, soy sauce, butter, basil, parsley, mint, dill, rosemary, thyme, lemon. Puree: parsnip, butter, cream 30%, garlic, salt, and pepper.",
-              "price": 9300
-            }
           ]
         },
         {
@@ -623,33 +418,6 @@
             "ff4df1db-83c6-4eaa-a348-33b14607eab2",
             "8aa1699f-2ebc-4244-83e4-8239fbad41dc",
             "9418089e-928e-4f47-b1db-465e109201b4"
-          ],
-          "displayItems": [
-            {
-              "uuid": "da5e756f-01e0-4572-b939-fd51f23f1c56",
-              "title": "Cheese pancakes",
-              "itemDescription": "Cheese, raisins, sugar, egg, and semolina. (190\\30g)",
-              "price": 6800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2cdedbd-5d0c-4633-a604-9c1a5e0fd90c"
-            },
-            {
-              "uuid": "ff4df1db-83c6-4eaa-a348-33b14607eab2",
-              "title": "Pancakes with honey and nuts",
-              "itemDescription": "Pancakes, nut and honey filling (roasted walnuts, butter, honey), and sour cream (170 g).",
-              "price": 6800
-            },
-            {
-              "uuid": "8aa1699f-2ebc-4244-83e4-8239fbad41dc",
-              "title": "Lviv cheesecake  ",
-              "itemDescription": "biscuit base, chees, shokc glaze (150 g)",
-              "price": 6500
-            },
-            {
-              "uuid": "9418089e-928e-4f47-b1db-465e109201b4",
-              "title": "Honey cake",
-              "itemDescription": "Honey, eggs, sugar, flour, and butter (130 g).",
-              "price": 5300
-            }
           ]
         },
         {
@@ -659,35 +427,6 @@
             "b3bfb098-7fa2-4014-b067-03bfa6392b42",
             "8e508353-e1fd-49ac-ab64-6b1bd636e6c9",
             "9f300583-58ba-48a4-8747-4fe43b0fe759"
-          ],
-          "displayItems": [
-            {
-              "uuid": "b3bfb098-7fa2-4014-b067-03bfa6392b42",
-              "title": "Dumplings",
-              "itemDescription": "6 dumplings per serve.\n",
-              "price": 400,
-              "customizationUuids": [
-                "ebca58f7-fe9d-40a5-9c3f-9128260a6f9f"
-              ]
-            },
-            {
-              "uuid": "8e508353-e1fd-49ac-ab64-6b1bd636e6c9",
-              "title": "Sweet dumplings",
-              "itemDescription": "6 dumplings per serve.\n",
-              "price": 400,
-              "customizationUuids": [
-                "ffb6cbfe-af0c-4bb5-ba12-9c42efbc7378"
-              ]
-            },
-            {
-              "uuid": "9f300583-58ba-48a4-8747-4fe43b0fe759",
-              "title": "Pelmeni",
-              "itemDescription": "14 pelmeni per serve.",
-              "price": 500,
-              "customizationUuids": [
-                "9e599236-8a09-4bc1-864f-9a1a351a6567"
-              ]
-            }
           ]
         },
         {
@@ -700,60 +439,6 @@
             "7a46d122-dbed-48f4-9f77-2643a33a2e95",
             "67925ba6-49dd-49be-a262-02902c7cfb67",
             "a3b554a6-2b12-4c2c-8ef9-d0bc3c696fe1"
-          ],
-          "displayItems": [
-            {
-              "uuid": "9a919705-126f-48d2-9f35-06d183c042b7",
-              "title": "Rich juice",
-              "itemDescription": "300 ml.",
-              "price": 3100,
-              "customizationUuids": [
-                "5c3af106-8441-47f1-b031-231b501cc361"
-              ]
-            },
-            {
-              "uuid": "14a4d36b-a552-4e50-b50c-31e54f77ef73",
-              "title": "VODA",
-              "itemDescription": "500 ml.",
-              "price": 2800,
-              "customizationUuids": [
-                "cd756c50-62ab-4204-9364-eea366df835c",
-                "54223e91-3ca9-4b80-a67e-949ea497c49d"
-              ]
-            },
-            {
-              "uuid": "b35aaade-61a7-4559-9a69-4d0a66680c6f",
-              "title": "Coca-cola",
-              "itemDescription": " 250 ml.",
-              "price": 3900
-            },
-            {
-              "uuid": "7a46d122-dbed-48f4-9f77-2643a33a2e95",
-              "title": "Dried fruit drink \"Uzvar\"",
-              "itemDescription": "dried apple and pear",
-              "price": 3100,
-              "customizationUuids": [
-                "984d1fbd-f221-4923-826a-8b640090874d"
-              ]
-            },
-            {
-              "uuid": "67925ba6-49dd-49be-a262-02902c7cfb67",
-              "title": "Berries compot",
-              "itemDescription": "",
-              "price": 3100,
-              "customizationUuids": [
-                "984d1fbd-f221-4923-826a-8b640090874d"
-              ]
-            },
-            {
-              "uuid": "a3b554a6-2b12-4c2c-8ef9-d0bc3c696fe1",
-              "title": "Kyzyl mors",
-              "itemDescription": "",
-              "price": 3500,
-              "customizationUuids": [
-                "a66461eb-623b-4fb0-baaf-7a559707464d"
-              ]
-            }
           ]
         }
       ]

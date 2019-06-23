@@ -320,40 +320,6 @@
             "74d7211b-577b-4bb5-ab37-c4ac18008e19",
             "00141984-30cc-488e-98c8-1773fa28c777",
             "0223de0d-a890-4d63-b47f-5312c4888ea3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "fa718be1-0f34-444b-9a04-b138ef1cdb0a",
-              "title": "Asian style grilled chicken salad",
-              "itemDescription": "Red cabbage, green salad, carrot, tomatoes, radish, sweet pepper, chicken, peanut sauce, and deep fried noodles (220 g).",
-              "price": 16500,
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "74d7211b-577b-4bb5-ab37-c4ac18008e19",
-              "title": "Grilled Halloumi Salad",
-              "itemDescription": "with sweet potato, Boston salad, broccoli, Parmesan, flax seed, basil and mint-tarragon dressing",
-              "price": 15900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b96631b2-c1a3-48e8-9873-9fd27f2542d7",
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "00141984-30cc-488e-98c8-1773fa28c777",
-              "title": "Greek salad with home-made pita bread",
-              "itemDescription": "Tomato, cucumber, Bulgarian pepper, red onion, feta cheese, olives \"Kalamata\", baby Robin salad, fresh basil, olive oil, and wine pink vinegar (280 g).",
-              "price": 15500,
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "0223de0d-a890-4d63-b47f-5312c4888ea3",
-              "title": "Burrata salad",
-              "itemDescription": "Burrata salad with tomatoes, raddish, spinach and sweet pepper chutney",
-              "price": 16900,
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199
-            }
           ]
         },
         {
@@ -362,27 +328,6 @@
           "itemUuids": [
             "8576348a-1762-4010-80a5-0e563f97d4e1",
             "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674"
-          ],
-          "displayItems": [
-            {
-              "uuid": "8576348a-1762-4010-80a5-0e563f97d4e1",
-              "title": "Gazpacho soup",
-              "itemDescription": "Cold tomato soup",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ce3802ac-7838-41c5-bf63-0635b74d5f78",
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199,
-              "customizationUuids": [
-                "234c6036-fd47-4f0b-91ed-f6826dd009b6"
-              ]
-            },
-            {
-              "uuid": "4a4fd1e1-8207-4ea4-a5d4-d05a22cc2674",
-              "title": "Summer chicken soup",
-              "itemDescription": "Soup with sorgnum, coconut milk and chicken meatballs",
-              "price": 8900,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -391,25 +336,6 @@
           "itemUuids": [
             "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0",
             "ff16b927-5ecb-4876-9f87-512f08e9ffbe"
-          ],
-          "displayItems": [
-            {
-              "uuid": "f4768faa-f7eb-4b4c-8541-bde6b1e21fa0",
-              "title": "Seared Salmon",
-              "itemDescription": "Salmon with asparagus, broccolini and green beans (430 g).",
-              "price": 24500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/38d1c80a-6bce-4b64-89cd-2c91adc760fe",
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "ff16b927-5ecb-4876-9f87-512f08e9ffbe",
-              "title": "Home made Tagliatelle Pasta",
-              "itemDescription": "With beans, creamy spinach, romanesco, Parmesan, Philadelphia and fresh mint",
-              "price": 19500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2168016f-7604-4517-bf01-cd9536d53606",
-              "suspendUntil": 1559509199
-            }
           ]
         },
         {
@@ -419,36 +345,6 @@
             "df485dfb-8210-499e-be5c-73484dd1a426",
             "5fe126b7-a5e3-41b7-b164-9cf6b18a615e",
             "01bf6d0c-832f-4bc1-b741-ff35a6344acf"
-          ],
-          "displayItems": [
-            {
-              "uuid": "df485dfb-8210-499e-be5c-73484dd1a426",
-              "title": "4 cheese melt",
-              "itemDescription": "Bechamel, cheddar, mozzarella, parmesan, and zaramelized onions (240 g).\t\t\t\t\t",
-              "price": 19900,
-              "suspendUntil": 1559509199,
-              "customizationUuids": [
-                "5908e213-9e81-4f0a-a194-700e7abe8903"
-              ]
-            },
-            {
-              "uuid": "5fe126b7-a5e3-41b7-b164-9cf6b18a615e",
-              "title": "Tuna salad melt",
-              "itemDescription": "With tomato, and cheddar (240 g).\t\t",
-              "price": 19900,
-              "suspendUntil": 1559509199,
-              "customizationUuids": [
-                "14c62396-d7f0-4d4a-87e9-8a6412144f18"
-              ]
-            },
-            {
-              "uuid": "01bf6d0c-832f-4bc1-b741-ff35a6344acf",
-              "title": "X-tra crispy fried chicken sandwich with fries",
-              "itemDescription": "Soy and ginger marinated chicken, red cabbage and carrots, melted Gouda, and sasame lemon aioli. Served with fries (330+140g).\t\t\t\t",
-              "price": 18900,
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199
-            }
           ]
         },
         {
@@ -457,22 +353,6 @@
           "itemUuids": [
             "528c7da4-c402-426c-b7db-562742dc40f6",
             "3e977056-1c7a-4402-b559-43c0d5c37b30"
-          ],
-          "displayItems": [
-            {
-              "uuid": "528c7da4-c402-426c-b7db-562742dc40f6",
-              "title": "Sirniki",
-              "itemDescription": "With sour cream, and honey (270 g).",
-              "price": 9900,
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "3e977056-1c7a-4402-b559-43c0d5c37b30",
-              "title": "Sirniki \"3 leches\"",
-              "itemDescription": "Ukrainian sirniki with 3 leches sauce, and Philadelphia cream (270 g).",
-              "price": 11500,
-              "suspendUntil": 1559509199
-            }
           ]
         },
         {
@@ -486,60 +366,6 @@
             "9586543c-07bd-461b-a467-b5bfd8ae3a72",
             "c694a5d2-495d-4f89-a47a-3deb600894cb",
             "90776bb8-e91b-4e18-9676-e941c41f7872"
-          ],
-          "displayItems": [
-            {
-              "uuid": "8a6aa0a6-d857-44ca-8d08-b5bfcabee8d2",
-              "title": "Popcorn unicorn",
-              "itemDescription": "The magic of caramel and popcorn (320 g).\t\t\t\t\t\t\t",
-              "price": 11500
-            },
-            {
-              "uuid": "4cad0003-99e4-4294-8e1d-6c1b6c16b8e9",
-              "title": "Red velvet",
-              "itemDescription": "Layers of soft red cake with cream cheese topping (240 g).\t\t\t\t\t\t",
-              "price": 9500
-            },
-            {
-              "uuid": "764ba78d-a0b5-403d-a4cb-5b8f39a9cfa4",
-              "title": "Carrot cake with tahini cream",
-              "itemDescription": "(280 g).",
-              "price": 10500
-            },
-            {
-              "uuid": "14c16db2-e0fc-4384-a3fb-023fd3e90d4c",
-              "title": "3 leches",
-              "itemDescription": "Vanilla sponge soaked with three types of milk - condensed, baked milk and cream (180 g).",
-              "price": 6900,
-              "customizationUuids": [
-                "234c6036-fd47-4f0b-91ed-f6826dd009b6"
-              ]
-            },
-            {
-              "uuid": "9586543c-07bd-461b-a467-b5bfd8ae3a72",
-              "title": "Chocolate flourless cake",
-              "itemDescription": "(175g)",
-              "price": 11500
-            },
-            {
-              "uuid": "c694a5d2-495d-4f89-a47a-3deb600894cb",
-              "title": "Miso Cake",
-              "itemDescription": "Бісквітні коржі з додаванням місо-пасти, крему на основі сиру Філадельфії та Маскарпоне та свіжої груші.",
-              "price": 11500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/58df5559-5d86-43b6-a026-7b8a04f59a4c",
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "234c6036-fd47-4f0b-91ed-f6826dd009b6"
-              ]
-            },
-            {
-              "uuid": "90776bb8-e91b-4e18-9676-e941c41f7872",
-              "title": "Strawberry Lemonade",
-              "itemDescription": "Lemon sponge with the addition of Philadelphia cream, passionfruit and raspberry custard, fresh strawberries and white chocolate.",
-              "price": 12500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/728f7615-dfc9-47fa-9d41-9992efbf6b2f",
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -548,24 +374,6 @@
           "itemUuids": [
             "9822e98e-06d0-409b-90a9-19de1a2dc164",
             "4edb7d9d-b922-43ba-8526-c388a4f07c2c"
-          ],
-          "displayItems": [
-            {
-              "uuid": "9822e98e-06d0-409b-90a9-19de1a2dc164",
-              "title": "English cheesecake",
-              "itemDescription": "Oreo crust, cream of Philadelphia and salted caramel (140 g).\t\t\t\t\t\t\t",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9a42d120-d91e-4b2d-b5c9-e4e2033d4e3d",
-              "customizationUuids": [
-                "234c6036-fd47-4f0b-91ed-f6826dd009b6"
-              ]
-            },
-            {
-              "uuid": "4edb7d9d-b922-43ba-8526-c388a4f07c2c",
-              "title": "Coney Island cheesecake",
-              "itemDescription": "Lighter version of s classic New York cheesecake (190 g).",
-              "price": 10500
-            }
           ]
         },
         {
@@ -577,50 +385,6 @@
             "a6115d76-d563-4123-b075-86b84b93bf2f",
             "44669a3b-1a86-46c6-976d-a43ca6396fbe",
             "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1"
-          ],
-          "displayItems": [
-            {
-              "uuid": "94d41400-2ca0-44a7-a6c9-92dcbc7ac744",
-              "title": "Blondie",
-              "itemDescription": "White chocolate  (130 g).",
-              "price": 7500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7297f003-c2c5-454f-9a15-bf73fdef40cf",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "de47f64f-7e8c-455a-8e9e-a69591044e98",
-              "title": "Blueberry muffin",
-              "itemDescription": "(210 g).",
-              "price": 8900
-            },
-            {
-              "uuid": "a6115d76-d563-4123-b075-86b84b93bf2f",
-              "title": "Brownie",
-              "itemDescription": "(200g)",
-              "price": 8900
-            },
-            {
-              "uuid": "44669a3b-1a86-46c6-976d-a43ca6396fbe",
-              "title": "Whoopie Cookie",
-              "itemDescription": "Шоколадні бісквіти з кремом Філадельфія та м'яким малиновим мармеладом",
-              "price": 10500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/77c492b0-5eac-4019-b439-255e32fa920c",
-              "suspendUntil": 1559509199,
-              "customizationUuids": [
-                "ac9cb89c-55c2-427c-825a-30c9677f69d7"
-              ]
-            },
-            {
-              "uuid": "2b7bd335-50fc-40b4-a62f-ce4e23c75fd1",
-              "title": "PeanutButter Sandwich",
-              "itemDescription": "Peanut Crispy Cookies with Philadelphia Cream and Condensed Milk.",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8b030e9-2dc7-4dc2-a486-2c30d9f73688",
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "ac9cb89c-55c2-427c-825a-30c9677f69d7"
-              ]
-            }
           ]
         },
         {
@@ -629,26 +393,6 @@
           "itemUuids": [
             "f2db4067-7410-4667-a4a4-7d94b0aab437",
             "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5"
-          ],
-          "displayItems": [
-            {
-              "uuid": "f2db4067-7410-4667-a4a4-7d94b0aab437",
-              "title": "Milk bar banana pudding",
-              "itemDescription": "Classic Brooklyn dessert with bananas, and vanilla cookies (220 g).",
-              "price": 9500
-            },
-            {
-              "uuid": "4cede9f9-0c1e-49dc-b14b-f6fa4814b4b5",
-              "title": "Rum, Vika, Rum",
-              "itemDescription": "Десерт з додаванням полуничного джему з свіжою полуницею з додаванням рому, білого шоколаду та крему Маскарпоне з йогуртом.",
-              "price": 13500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/06e7648a-9b25-427c-862b-98f56a20ea9f",
-              "nutritionalInfo": {},
-              "suspendUntil": 1559509199,
-              "customizationUuids": [
-                "ac9cb89c-55c2-427c-825a-30c9677f69d7"
-              ]
-            }
           ]
         },
         {
@@ -659,44 +403,6 @@
             "67f8f012-8de8-4cc6-8078-b4833d7cd939",
             "88ab9ed7-9c31-4c0b-b806-23557c243ea7",
             "6a574d1a-4c33-4536-a665-708fb888128d"
-          ],
-          "displayItems": [
-            {
-              "uuid": "2a97e008-ee92-4a68-abd4-011904e2b305",
-              "title": "Omelette with chicken",
-              "itemDescription": "Omelette with chicken, tomatoes, cheese and fries or green salad as a side ",
-              "price": 14500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/979afc04-e449-4d85-ac3c-20ec18bb8717",
-              "customizationUuids": [
-                "2c663f51-2683-4178-bc68-70fdcacbb124"
-              ]
-            },
-            {
-              "uuid": "67f8f012-8de8-4cc6-8078-b4833d7cd939",
-              "title": "Soup of the week",
-              "itemDescription": "Cauliflower cream soup",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/197108d0-b1fd-4eaa-9c5f-ce240043a5b8",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "88ab9ed7-9c31-4c0b-b806-23557c243ea7",
-              "title": "A stack of waffles for two",
-              "itemDescription": "With chocolate and nut home-made cream ",
-              "price": 19900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5076beae-df1c-4cd6-884d-2762c716a391",
-              "customizationUuids": [
-                "234c6036-fd47-4f0b-91ed-f6826dd009b6"
-              ]
-            },
-            {
-              "uuid": "6a574d1a-4c33-4536-a665-708fb888128d",
-              "title": "Prosciutto Waffles",
-              "itemDescription": "with Philadelphia cheese,rocket, cherry tomatoes, pumpkin and sesame seeds,",
-              "price": 21000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b190876-c437-4734-a4af-c2ea3f72e340",
-              "nutritionalInfo": {}
-            }
           ]
         }
       ]

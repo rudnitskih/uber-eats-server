@@ -385,85 +385,6 @@
             "2ca540e6-67c8-4044-8199-e519ff67ffd2",
             "1eae645d-fc62-4762-b093-9638640f8506",
             "edfaea54-fa38-4680-b00a-9529f0a1795c"
-          ],
-          "displayItems": [
-            {
-              "uuid": "1f0f932f-f910-420b-907a-3f27ad511a72",
-              "title": "Brynza",
-              "itemDescription": "100g",
-              "price": 2000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7adc7ba3-459f-4d67-b259-065cf05d9da0",
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "f5a9db1c-7fa4-4f89-8c2d-8a83db8a317c"
-              ]
-            },
-            {
-              "uuid": "b745bcc0-40d1-41a3-a8ed-b53d085b8e82",
-              "title": "Sulguni cheese",
-              "itemDescription": "100g",
-              "price": 2000,
-              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a21291064a5e7130dd9b3cd6d37bd33d"
-            },
-            {
-              "uuid": "0cbf2094-0afc-4c6c-bdd2-b698ca0660a7",
-              "title": "Bastirma",
-              "itemDescription": "100g",
-              "price": 5200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0155ea86-679d-492c-a8c3-b6c3315ee4a4"
-            },
-            {
-              "uuid": "cbba86b5-9392-4ff7-8120-8acbf523257a",
-              "title": "Sujuk",
-              "itemDescription": "100g",
-              "price": 5000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/700791ab-7686-4f59-9c66-959d7160c252"
-            },
-            {
-              "uuid": "d65519c3-dbaa-4310-9fda-683131e36dc5",
-              "title": "Pickled hot pepper",
-              "itemDescription": "50g",
-              "price": 2000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/baf574fa-a391-4dd3-a818-08c7d8cc79b9"
-            },
-            {
-              "uuid": "b88a821a-cffb-4fbb-a837-a82d5fc4067e",
-              "title": "Assorted pickles",
-              "itemDescription": "500g",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/37c42c0b-40e1-406a-9969-62d708e4e65c"
-            },
-            {
-              "uuid": "1e047958-37e8-40ca-825f-23a42d7d0fb2",
-              "title": "Pickles to choose",
-              "itemDescription": "",
-              "price": 1000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b9ef9813-4c12-4cc8-afda-50a1ba8de90e",
-              "customizationUuids": [
-                "615db2b5-f2d7-4c82-9820-cdfff8e381f9"
-              ]
-            },
-            {
-              "uuid": "2ca540e6-67c8-4044-8199-e519ff67ffd2",
-              "title": "Fresh greens",
-              "itemDescription": "50g",
-              "price": 3000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d00b18c7-2ad8-484a-96e5-f18a3b927ec3"
-            },
-            {
-              "uuid": "1eae645d-fc62-4762-b093-9638640f8506",
-              "title": "Pickled onion",
-              "itemDescription": "100g",
-              "price": 2000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca07c083-29c2-47f5-b3b7-6cb055cc5592"
-            },
-            {
-              "uuid": "edfaea54-fa38-4680-b00a-9529f0a1795c",
-              "title": "Matsoni",
-              "itemDescription": "fermented milk product of Armenian origin (500g)",
-              "price": 2000,
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -475,43 +396,6 @@
             "5b5a064e-43a8-4743-bbe6-d79b259e09fd",
             "363271cc-1e33-491a-8a5e-f6af49b501d7",
             "5478fac2-afa3-49bf-a9bf-07ed4559c186"
-          ],
-          "displayItems": [
-            {
-              "uuid": "6342d062-d205-43e1-99e3-b785cd09889a",
-              "title": "Greek salad",
-              "itemDescription": "Tomatoes, cucumbers, sweet pepper, feta cheese, kalamata olives, red onion, and olive oil (250g)",
-              "price": 9200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/da70bb64-b995-4163-878e-c94618db927c"
-            },
-            {
-              "uuid": "3c16f560-5c9c-4889-bab9-c6ee7fbfef64",
-              "title": "Vegetable salad with basil",
-              "itemDescription": "Cucumber, tomato, sweet pepper, dried basil, oil (200g)",
-              "price": 5500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e38f2fe8-4dc1-4eea-976d-e713296faa1d"
-            },
-            {
-              "uuid": "5b5a064e-43a8-4743-bbe6-d79b259e09fd",
-              "title": "Imam bayildi",
-              "itemDescription": "Stewed vegetables: eggplant, tomatoes, sweet pepper, onion, garlic, cilantro, dill, and oil (200g)\n",
-              "price": 7800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c469122c-1100-4245-a5cc-53c070d32188"
-            },
-            {
-              "uuid": "363271cc-1e33-491a-8a5e-f6af49b501d7",
-              "title": "Ajapsandal",
-              "itemDescription": "Barbecue vegetables: tomatoes, sweet pepper, eggplant, fresh cilantro and dill, oil (200g)",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9713aafc-6c10-4338-aafd-9c05f1e2e82c"
-            },
-            {
-              "uuid": "5478fac2-afa3-49bf-a9bf-07ed4559c186",
-              "title": "Vegetable Platter",
-              "itemDescription": "Cucumbers, tomatoes, sweet pepper (200g)",
-              "price": 5500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/51afc67d-1dce-4d35-b577-ef903f1ec98d"
-            }
           ]
         },
         {
@@ -519,18 +403,6 @@
           "title": "Khachapuri",
           "itemUuids": [
             "e7d827fc-7deb-443a-bae0-dff9f727eedf"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e7d827fc-7deb-443a-bae0-dff9f727eedf",
-              "title": "Khachapuri to chose",
-              "itemDescription": "Adjarian/Armenian/Imeretian/Megrelian/Kubdari",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/125676d3-0292-4476-a8a6-f3649e29c6e3",
-              "customizationUuids": [
-                "e7b68a9d-de3d-4a5c-b6a6-13866a4020f4"
-              ]
-            }
           ]
         },
         {
@@ -538,18 +410,6 @@
           "title": "Armenian lavash",
           "itemUuids": [
             "67d06cca-ca9a-43b5-b222-2ded756e6e05"
-          ],
-          "displayItems": [
-            {
-              "uuid": "67d06cca-ca9a-43b5-b222-2ded756e6e05",
-              "title": "Armenian lavash",
-              "itemDescription": "to choose",
-              "price": 5200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ed67b60-8832-452e-ba45-2095734da62e",
-              "customizationUuids": [
-                "0df3ecb5-0d6d-422e-90fa-9a4258a002ea"
-              ]
-            }
           ]
         },
         {
@@ -563,79 +423,6 @@
             "71d68f92-7b40-4935-acd3-c0f5845533a3",
             "da05df3d-423a-4c76-a2b3-ed8117342d67",
             "c4aaa596-1113-4670-ab5f-202ccbe2d35f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "6c4ddce4-0a77-48af-9189-b21162c7530f",
-              "title": "Poultry",
-              "itemDescription": "to choose",
-              "price": 6000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/408f6eb1-f848-4519-8152-0675c3ef6893",
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "9284d9a5-7496-4ec2-8487-cf84c0e827bf"
-              ]
-            },
-            {
-              "uuid": "8b5657b8-f06c-40b5-ab0f-b5a01e64ab8d",
-              "title": "Veal",
-              "itemDescription": "to choose",
-              "price": 13400,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6381d67a-2bbc-43e1-8f7d-7bab9e00e9a3",
-              "customizationUuids": [
-                "f7c03863-57b9-40d9-8eb0-72b511b7121c"
-              ]
-            },
-            {
-              "uuid": "6921946c-2d40-4a54-adc9-e372d52d4607",
-              "title": "Lamb",
-              "itemDescription": "to choose",
-              "price": 14200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/19b4a046-d691-4508-bbab-29173d234ade",
-              "customizationUuids": [
-                "3be94c8c-d70c-4be5-a7d3-966ebaaf07f1"
-              ]
-            },
-            {
-              "uuid": "a60f195a-f370-42fb-94aa-5c80645bc8df",
-              "title": "Pork",
-              "itemDescription": "to choose",
-              "price": 10200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4dc1d722-1294-454a-9688-a6b265f024a6",
-              "customizationUuids": [
-                "3df2e36e-422d-4138-affc-1c3b911a2be2"
-              ]
-            },
-            {
-              "uuid": "71d68f92-7b40-4935-acd3-c0f5845533a3",
-              "title": "Fish",
-              "itemDescription": "to choose",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd176c8a-df30-4adc-89cb-803599c49c00",
-              "customizationUuids": [
-                "882460c5-e97f-43f7-9291-05d2a2a5b12f"
-              ]
-            },
-            {
-              "uuid": "da05df3d-423a-4c76-a2b3-ed8117342d67",
-              "title": "Barbecue vegetables",
-              "itemDescription": "to choose\nprcie for 200g",
-              "price": 5000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/127cbc51-824c-4314-aa9e-2cc94f1b5066",
-              "customizationUuids": [
-                "19d27284-4674-4fe8-b2c0-dd3032903020"
-              ]
-            },
-            {
-              "uuid": "c4aaa596-1113-4670-ab5f-202ccbe2d35f",
-              "title": "Lulah kebab",
-              "itemDescription": "to choose\n200g",
-              "price": 10600,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4f10c6b-e6b0-4c28-8077-13a6f212e820",
-              "customizationUuids": [
-                "70129b9a-afd3-4fb8-8d56-cb67fc024e85"
-              ]
-            }
           ]
         },
         {
@@ -643,18 +430,6 @@
           "title": "Side",
           "itemUuids": [
             "f739796e-e001-437f-b339-ab880d07ae04"
-          ],
-          "displayItems": [
-            {
-              "uuid": "f739796e-e001-437f-b339-ab880d07ae04",
-              "title": "To choose",
-              "itemDescription": "200g ",
-              "price": 3000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e414ae1-48eb-4bad-9a61-af04168e798c",
-              "customizationUuids": [
-                "b4ae3b72-653e-4bec-9873-d7a140bc115b"
-              ]
-            }
           ]
         },
         {
@@ -662,18 +437,6 @@
           "title": "Sauce",
           "itemUuids": [
             "fd07dc3c-1bdc-4f0f-92ff-db729d6bfcb8"
-          ],
-          "displayItems": [
-            {
-              "uuid": "fd07dc3c-1bdc-4f0f-92ff-db729d6bfcb8",
-              "title": "To choose",
-              "itemDescription": "",
-              "price": 2500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a3d98d8-6c0a-4eec-bd67-ba09482c0e19",
-              "customizationUuids": [
-                "140910be-c8da-4a68-a44b-65e06b91778c"
-              ]
-            }
           ]
         },
         {
@@ -681,18 +444,6 @@
           "title": "Lavash",
           "itemUuids": [
             "e6cc49c6-6d35-4067-a14b-ceb3b1b89839"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e6cc49c6-6d35-4067-a14b-ceb3b1b89839",
-              "title": "To choose",
-              "itemDescription": "",
-              "price": 1400,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a3b986d2-1d3a-4c32-937e-925fb11d08d0",
-              "customizationUuids": [
-                "9e59a68a-1e58-4595-a09b-6b35bc0b087b"
-              ]
-            }
           ]
         },
         {
@@ -700,18 +451,6 @@
           "title": "Deserts",
           "itemUuids": [
             "5d965c10-5bf0-427e-834c-d2f1a865b4f3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "5d965c10-5bf0-427e-834c-d2f1a865b4f3",
-              "title": "To choose",
-              "itemDescription": "",
-              "price": 5000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7b910c11-a583-457c-b359-0a9f90950869",
-              "customizationUuids": [
-                "fc7488fd-06e7-4ac5-99dd-d42b65d1eb71"
-              ]
-            }
           ]
         },
         {
@@ -719,18 +458,6 @@
           "title": "East sweets",
           "itemUuids": [
             "971f7633-0d69-48f2-ade9-60a517c8f6cc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "971f7633-0d69-48f2-ade9-60a517c8f6cc",
-              "title": "To choose",
-              "itemDescription": "",
-              "price": 1500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4463e80c-e5f8-4242-b4aa-1853bb128c5e",
-              "customizationUuids": [
-                "a5e93e95-1b87-4249-b8ea-77f639f9f576"
-              ]
-            }
           ]
         },
         {
@@ -743,62 +470,6 @@
             "2fd9f7a1-c4fe-4c1e-9bcb-fc9106d99aa1",
             "541b8532-98cb-45bc-8af9-0a56ebe3d21e",
             "957f610f-0986-4c52-a1c2-fcf7ca5c7645"
-          ],
-          "displayItems": [
-            {
-              "uuid": "96a49ad3-74de-4161-bdfa-890b35624d47",
-              "title": "Tan|Ayran",
-              "itemDescription": "put your choise in comments",
-              "price": 2000,
-              "customizationUuids": [
-                "72bfd38a-c12b-4975-a46b-70126115a2d4"
-              ]
-            },
-            {
-              "uuid": "ed2f769e-432d-4a64-9f21-282d34b3fef9",
-              "title": "Fanta/Coca-cola/Coca-cola zero/Sprite/Pepsi",
-              "itemDescription": "put your choice in commetns",
-              "price": 2500,
-              "customizationUuids": [
-                "33812c27-d4fb-4eb5-be4f-cffe71a57702"
-              ]
-            },
-            {
-              "uuid": "8188c89e-4524-49fd-aede-6a820b8864fc",
-              "title": "Millino lemonade",
-              "itemDescription": "500 ml",
-              "price": 3000,
-              "customizationUuids": [
-                "34540907-b708-4aa0-bfe6-68c7cf747189"
-              ]
-            },
-            {
-              "uuid": "2fd9f7a1-c4fe-4c1e-9bcb-fc9106d99aa1",
-              "title": "Natahtari lemonade",
-              "itemDescription": "500 ml",
-              "price": 4000,
-              "customizationUuids": [
-                "c1ca561a-44d6-49ed-b2df-429c9ff2f215"
-              ]
-            },
-            {
-              "uuid": "541b8532-98cb-45bc-8af9-0a56ebe3d21e",
-              "title": "Juice \"Ani\"",
-              "itemDescription": "Put your choice in comments\napricot/cherry/peach/tomato/sweet briar/apple/pomergranate",
-              "price": 2500,
-              "customizationUuids": [
-                "ae38c5a7-1199-43c2-b299-402f10e4d65b"
-              ]
-            },
-            {
-              "uuid": "957f610f-0986-4c52-a1c2-fcf7ca5c7645",
-              "title": "Mineral water",
-              "itemDescription": "500 ml",
-              "price": 2000,
-              "customizationUuids": [
-                "a0d76e44-1799-4eb1-b35f-6036991d9bf3"
-              ]
-            }
           ]
         },
         {
@@ -806,17 +477,6 @@
           "title": "Set",
           "itemUuids": [
             "81f7f7ca-ecb6-49ce-b054-dd0730572a41"
-          ],
-          "displayItems": [
-            {
-              "uuid": "81f7f7ca-ecb6-49ce-b054-dd0730572a41",
-              "title": "Lulah-kebab + drink",
-              "itemDescription": "put your choice in comments\n(juice/cola/pepsi/tan)",
-              "price": 8500,
-              "customizationUuids": [
-                "305fc617-c051-4169-aeed-1174b56eae93"
-              ]
-            }
           ]
         }
       ]

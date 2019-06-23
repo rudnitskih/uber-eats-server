@@ -770,45 +770,6 @@
             "a547e426-cc72-4b4f-88da-4277be81aaed",
             "469f2d07-b95a-492c-91fc-ba7eae5afbd4",
             "c29e127b-661a-4359-ac69-51a603bdec79"
-          ],
-          "displayItems": [
-            {
-              "uuid": "79c7cb3d-ea88-4df2-a66b-5be3cb43b3af",
-              "title": "Oatmeal with milk, juicy mango, and nuts",
-              "itemDescription": "270g.",
-              "price": 5500
-            },
-            {
-              "uuid": "2f71bbc0-ebbe-42b8-aed3-37505aff74c9",
-              "title": "Omelet with vegetables, and mushrooms",
-              "itemDescription": "200g.",
-              "price": 6500
-            },
-            {
-              "uuid": "bfdfc249-9b8d-4e3b-bb0c-8789abcc679f",
-              "title": "Cottage cheese cakes with berry jam & sour cream",
-              "itemDescription": "170/40g.",
-              "price": 7800
-            },
-            {
-              "uuid": "a547e426-cc72-4b4f-88da-4277be81aaed",
-              "title": "Pancakes with lightly salted salmon, and cream cheese",
-              "itemDescription": "220g.",
-              "price": 11900
-            },
-            {
-              "uuid": "469f2d07-b95a-492c-91fc-ba7eae5afbd4",
-              "title": "Scrambled with lightly salted salmon, cream cheese, and croutons",
-              "itemDescription": "220g.",
-              "price": 11900
-            },
-            {
-              "uuid": "c29e127b-661a-4359-ac69-51a603bdec79",
-              "title": "\"Pancakes with apples and  cinnamon with raspberry sauce\"",
-              "itemDescription": "200 g",
-              "price": 6500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -820,43 +781,6 @@
             "6d3e5b63-d81f-4d58-9176-8837446cd95c",
             "340a6155-b742-4f65-9ed1-348aeb23bf4b",
             "6c2571f8-de3d-4be0-a80c-3685505b0c90"
-          ],
-          "displayItems": [
-            {
-              "uuid": "f58740b4-95b2-482b-82d9-1191a5cbc69a",
-              "title": "Ukrainian borsch with lard, mustard and croutons",
-              "itemDescription": "300/40/30 ",
-              "price": 7500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "46d81e0f-fccb-4ed5-8508-5959edb55a69",
-              "title": "Mushroom cream soup",
-              "itemDescription": "300 ml",
-              "price": 7800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "6d3e5b63-d81f-4d58-9176-8837446cd95c",
-              "title": "Cream soup with broccoli and grilled salmon ",
-              "itemDescription": "300 ml",
-              "price": 9500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "340a6155-b742-4f65-9ed1-348aeb23bf4b",
-              "title": "Tom Yam ( salmon, shrimps, mussels, mushrooms and rice noodles with coconut milk",
-              "itemDescription": "350 ml",
-              "price": 15500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "6c2571f8-de3d-4be0-a80c-3685505b0c90",
-              "title": "Chicken broth with noodles and egg",
-              "itemDescription": "300 ml",
-              "price": 5800,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -877,99 +801,6 @@
             "def620fa-20b2-4507-9712-4cb3d4729937",
             "5288e926-2400-46a1-9481-3a484875dd91",
             "e9e98165-5589-4a10-933b-395cec3189d1"
-          ],
-          "displayItems": [
-            {
-              "uuid": "541a2f4f-36e0-4b4a-b3a4-f770e54e4f3b",
-              "title": "Ukranian lard with croutons, and mustard",
-              "itemDescription": "100/40/30g.",
-              "price": 7900
-            },
-            {
-              "uuid": "784d07bd-bd5c-4691-a74b-be7eed0a0585",
-              "title": "Cheese plate with honey, and nuts",
-              "itemDescription": "Dor Blue, Brie Cheese, and Parmesan (150/30/30g).",
-              "price": 15500
-            },
-            {
-              "uuid": "a5725f66-a464-48d8-aa6a-e796f53dea44",
-              "title": "Meat plate",
-              "itemDescription": "Hamon, Salami, Paperoni, and Bacon (220g).",
-              "price": 16200
-            },
-            {
-              "uuid": "d7deff84-6c83-453e-b980-ce241a764e4f",
-              "title": "Veal carpaccio",
-              "itemDescription": "150g.",
-              "price": 14800
-            },
-            {
-              "uuid": "3c2a22bc-41b7-497d-a99c-95b3d5008618",
-              "title": "Salmon carpaccio",
-              "itemDescription": "130g.",
-              "price": 16800
-            },
-            {
-              "uuid": "20baf691-23a9-436c-8627-6f1eb06a5063",
-              "title": "Salmon tar tar on avocado pillow with arugula",
-              "itemDescription": "135g.",
-              "price": 17800
-            },
-            {
-              "uuid": "22c2512c-259b-4f4d-b2f6-10e974a8a516",
-              "title": "Cheese sticks with berry sauce",
-              "itemDescription": "200/40g.",
-              "price": 8500
-            },
-            {
-              "uuid": "deab8f93-fad0-4ff2-9bfc-f576764d77e4",
-              "title": "Bruschettes with lightly salted salmon and cream cheese",
-              "itemDescription": "2 pc",
-              "price": 8500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "d4fd64d3-1218-42f8-9b4a-59cf9d565d95",
-              "title": "Bruschettes with eel fish, cream cheese and cucumber",
-              "itemDescription": "2 pc",
-              "price": 9900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "510866a6-9f2a-4afe-a30b-461ef68ef98c",
-              "title": "Bruschettes with  baked paprika and Bree cheese  ",
-              "itemDescription": "2 pc",
-              "price": 7500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "863f7025-dc09-4606-aa08-630d82ee8991",
-              "title": "Bruschettes with Parma ham, delicate cream cheese and cherry tomatoes",
-              "itemDescription": "2 pc",
-              "price": 7800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "def620fa-20b2-4507-9712-4cb3d4729937",
-              "title": "Bruschettes with sweet cherry tomatoes and avocado with sauce from Chef",
-              "itemDescription": "2 pc",
-              "price": 6500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "5288e926-2400-46a1-9481-3a484875dd91",
-              "title": "Fried eggplants in Chinese sweet and sour sauce with sweet baked paprika ",
-              "itemDescription": "300 g",
-              "price": 10500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "e9e98165-5589-4a10-933b-395cec3189d1",
-              "title": "Fresh bun own cooking",
-              "itemDescription": "30 g",
-              "price": 1500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -984,61 +815,6 @@
             "467627c1-b1f8-48f7-94e5-af6cf134690d",
             "3824248c-086e-4f2b-980f-fd169aa89ac5",
             "4cd0acfa-02f5-41c1-80ee-d3b6316f7944"
-          ],
-          "displayItems": [
-            {
-              "uuid": "269eeec4-0151-482b-b368-a33ce59a8604",
-              "title": "Greek salad with fresh vegetables, cream-cheese, and olives",
-              "itemDescription": "240g.",
-              "price": 8900
-            },
-            {
-              "uuid": "c98d2d62-6d5d-4efa-9afc-09c1ab65ecc3",
-              "title": "Warm salad with chicken liver, juicy mango with mustard-honey sauce with pumpkin seeds",
-              "itemDescription": "250g.",
-              "price": 12800
-            },
-            {
-              "uuid": "1fdb8686-9602-4225-ad54-8d48640a7965",
-              "title": "Caesar salad with grilled chicken fillet, and Hungarian bacon with egg \"Poached\"",
-              "itemDescription": "260g.",
-              "price": 13500
-            },
-            {
-              "uuid": "99fa74fa-71bc-4fef-a50f-824bc5c5e22b",
-              "title": "Salad with grilled shrimps under parmesan cheese with \"Caesar\" sauce, and croutons",
-              "itemDescription": "200g.",
-              "price": 14800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/820dfa09-f87b-43d9-bb44-5b8e354fa33d"
-            },
-            {
-              "uuid": "55502709-f430-4012-90c9-9d7a27beb000",
-              "title": "Salad with arugula, avocado, mango and cherry tomatoes with cashew nuts and cranberries in soy-honey sauce",
-              "itemDescription": "170 g",
-              "price": 9800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "467627c1-b1f8-48f7-94e5-af6cf134690d",
-              "title": "Lettuce with lightly salted salmon, cherry tomatoes & cream cheese with \"Lemongrass\" sauce",
-              "itemDescription": "230 g",
-              "price": 15500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "3824248c-086e-4f2b-980f-fd169aa89ac5",
-              "title": "Fresh salad with lettuce, eel fish, rolls of cucumber & cream cheese with Unagi sauce & sesame",
-              "itemDescription": "260 g",
-              "price": 17800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4cd0acfa-02f5-41c1-80ee-d3b6316f7944",
-              "title": "Warm salad with lettuce, grilled octopus, shrimps, squids, mussels & cherry tomatoes",
-              "itemDescription": "220 g",
-              "price": 22500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1058,101 +834,6 @@
             "5ca0f452-76a0-48cd-847f-536a6ef726b2",
             "d0ea4ddd-75ce-45ca-a0b7-2ce658ffce0a",
             "2f88aac9-3fe9-40b3-be4b-e5b56e73473d"
-          ],
-          "displayItems": [
-            {
-              "uuid": "741a1eca-bac7-4ef6-9e31-63666cc17b5a",
-              "title": "Potato pancakes with fried mushrooms and onion marmalade",
-              "itemDescription": "300 п",
-              "price": 11000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "dac6028b-2554-4c99-94e3-0abea4ab7f32",
-              "title": "Fried chicken fillet in sweet and sour sauce with sesame",
-              "itemDescription": "250 g",
-              "price": 11000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "cf252f35-9c6c-4d99-bc63-bffbda441ba5",
-              "title": "Grilled chicken fillet with zucchini, cherry tomatoes and \"Roquefort\" sauce",
-              "itemDescription": "250 g",
-              "price": 11800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "ca3cf62a-b715-44f1-a96e-fcdfc77c281c",
-              "title": "\"Chicken boneless thigh in \"\"Yakitori\"\" sauce with rise noodles and vegetables \"",
-              "itemDescription": "350 g",
-              "price": 12900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "a6426d38-32b0-4792-b976-8a75d513e3c5",
-              "title": "Young beef in mushroom sauce and cream mashed potatoes",
-              "itemDescription": "360 g",
-              "price": 13900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "eed8202d-64b1-4015-aa86-7c4e8aa60771",
-              "title": "\"Pork scallop medallions in bacon with  grilled broccoli with Cheddar sauce\"",
-              "itemDescription": "290 g",
-              "price": 16500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "0615dbff-9507-43e9-978d-1bcb398b6914",
-              "title": "\"Juicy pork steak and grilled vegetables with  spicy red sauce \"",
-              "itemDescription": "370 g",
-              "price": 17800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "f12ea218-befb-4b02-a308-6125eed8eba2",
-              "title": "Steak Ossobuko with a bone stewed at the demiglace  sauce with lettuce and warm cherry tomatoes",
-              "itemDescription": "370 g",
-              "price": 17800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "0f7ffdf6-6799-4e0a-82b1-24d3e634da7b",
-              "title": "Fillet Mignon with salsa of baked paprika, arugula and green butter",
-              "itemDescription": "280 g",
-              "price": 19800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "fffa33b6-8afe-4412-8f9b-515575047dd2",
-              "title": "Duck breast with baked apples and cherry sauce",
-              "itemDescription": "230 g",
-              "price": 18800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "5ca0f452-76a0-48cd-847f-536a6ef726b2",
-              "title": "Burger with juicy grilled chicken, fresh tomatoes and cucumbers in \"Caesar\" sauce & baked potatoes with Cheddar sauce",
-              "itemDescription": "470 g",
-              "price": 12800,
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "d0ea4ddd-75ce-45ca-a0b7-2ce658ffce0a",
-              "title": "Burger with cutlet from beef, crispy bacon, pickled cucumbers, tomatoes, lettuce, cheddar cheese and chef's sauce with baked potatoes & spicy red sauce",
-              "itemDescription": "470 g",
-              "price": 15800,
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "2f88aac9-3fe9-40b3-be4b-e5b56e73473d",
-              "title": "Hot frying pan with meat and potatoes",
-              "itemDescription": "360 g",
-              "price": 14800,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1165,50 +846,6 @@
             "4f7fe7d8-7553-4289-834c-1c6dace6bb02",
             "25684245-cd72-4331-816e-29063ecbe1ab",
             "205a0984-71b2-4ea8-93e5-a5c598f320bb"
-          ],
-          "displayItems": [
-            {
-              "uuid": "ea561673-3088-4c81-8f96-eb92f51c87fc",
-              "title": "Mussels in shells in creamy sauce ",
-              "itemDescription": "300 g",
-              "price": 15800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "affe0ad6-cfb5-4304-a3bd-d10ac819115a",
-              "title": "\"Mussels in shells in  wine-garlic sauce \"",
-              "itemDescription": "300 g",
-              "price": 15800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "418db24f-0d7f-44fe-9836-6d64e234fd5a",
-              "title": "Shrimp in coconut milk with creamy couscous ",
-              "itemDescription": "250 g",
-              "price": 23500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4f7fe7d8-7553-4289-834c-1c6dace6bb02",
-              "title": "Sibas fillet with salsa of baked paprika and fresh spinach",
-              "itemDescription": "250 g",
-              "price": 24800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "25684245-cd72-4331-816e-29063ecbe1ab",
-              "title": "Salmon with \"Blue Cheese\" sauce with fresh spinach & mint",
-              "itemDescription": "250 g",
-              "price": 24800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "205a0984-71b2-4ea8-93e5-a5c598f320bb",
-              "title": "\"Hot frying pan with with salmon, shrimps, squids, mussels and rice noodles \"",
-              "itemDescription": "300 g",
-              "price": 25500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1220,43 +857,6 @@
             "2cc1cc43-9b2f-498b-aa12-c1ab64f088ed",
             "a3ea2b1d-7e41-490d-ba9f-6f168f81863d",
             "4acac143-9559-4354-b68c-825822a74ac6"
-          ],
-          "displayItems": [
-            {
-              "uuid": "d605feb7-692f-4c58-a20d-1a3749943ae9",
-              "title": "Spaghetti with seafood",
-              "itemDescription": "Squid, shrimp, and mussels (300g).",
-              "price": 14800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/675ee7d5-c8c3-417b-948f-19825537297f"
-            },
-            {
-              "uuid": "8db717fd-6fed-4e09-8fc5-377ca6db06ea",
-              "title": "Fettuccine with duck breast  and tomatoes",
-              "itemDescription": "300 g",
-              "price": 12500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "2cc1cc43-9b2f-498b-aa12-c1ab64f088ed",
-              "title": "Fettuccine \"4 cheeses\"",
-              "itemDescription": "250 g",
-              "price": 11000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "a3ea2b1d-7e41-490d-ba9f-6f168f81863d",
-              "title": "Spaghetti \"Carbonara\"",
-              "itemDescription": "250 g",
-              "price": 11000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4acac143-9559-4354-b68c-825822a74ac6",
-              "title": "Fettuccine with baked sweet paprika and cherry tomatoes ",
-              "itemDescription": "300 g",
-              "price": 8500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1272,90 +872,6 @@
             "590aae37-01e4-4193-af99-8e650c90706a",
             "4d8f5c25-c014-439d-a9ab-75c8ad33b550",
             "a69b76e7-caf6-4646-932d-f18a443d7afd"
-          ],
-          "displayItems": [
-            {
-              "uuid": "92527e56-cb3d-46e2-bd1a-6702252d3e42",
-              "title": "Pizza \"Margarita\"",
-              "itemDescription": "With tomatoes, mozzarella, fresh basil, and \"Pesto\" sauce.",
-              "price": 8900,
-              "customizationUuids": [
-                "46359485-edda-498a-98ad-b921b54388ac"
-              ]
-            },
-            {
-              "uuid": "65b45ccb-c54e-40ad-aa16-51b3aee2d087",
-              "title": "Pizza \"Hawaii\"",
-              "itemDescription": "Tender chicken fillet, sweet corn, and pineapple with mozzarella cheese in red sauce.",
-              "price": 9500,
-              "customizationUuids": [
-                "e3a9f256-ee72-475c-9674-4bdbd5882a49"
-              ]
-            },
-            {
-              "uuid": "38f89dab-5f56-4d5c-9635-36b4093db2ad",
-              "title": "Pizza \"Pink\"",
-              "itemDescription": "Juicy ham, mushrooms, pickled Kherson onion, red sauce, and mozzarella.",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2a11e843-90bf-4277-b50c-768dd3b29f01",
-              "customizationUuids": [
-                "b0e2061c-b53d-4131-864a-707ae19c6e55"
-              ]
-            },
-            {
-              "uuid": "7065c4c7-a4f3-4333-be8c-d9c7acad0b3b",
-              "title": "Pizza \"Bavarian\"",
-              "itemDescription": "Italian salami, hunting sausages, smoked bacon, tomatoes in mustard sauce, and mozzarella cheese.",
-              "price": 9700,
-              "customizationUuids": [
-                "707880be-bffa-4ad0-9e62-2e55aa93f032"
-              ]
-            },
-            {
-              "uuid": "bd10580b-2bf6-42d6-aa3e-ab2a06c550b1",
-              "title": "Pizza \"Hunting\"",
-              "itemDescription": "Hunting sausages, salami, champignons in red sauce with sweet corn, and mozzarella",
-              "price": 9700,
-              "customizationUuids": [
-                "707880be-bffa-4ad0-9e62-2e55aa93f032"
-              ]
-            },
-            {
-              "uuid": "4c2588db-84a1-48ba-97c6-a7b8eb723b9f",
-              "title": "Pizza \"Peperoni\"",
-              "itemDescription": "Peperoni, and mozzarella in red sauce.",
-              "price": 9700,
-              "customizationUuids": [
-                "e1a5c7a8-9102-4b81-bbd8-74b67cf315e4"
-              ]
-            },
-            {
-              "uuid": "590aae37-01e4-4193-af99-8e650c90706a",
-              "title": "Pizza \"Meat\"",
-              "itemDescription": "Beef, pork, and chicken fillet with pickled cucumbers, mozzarella. and white sauce.",
-              "price": 10900,
-              "customizationUuids": [
-                "5ebd99af-0584-411c-a09d-6a9b5f0745fe"
-              ]
-            },
-            {
-              "uuid": "4d8f5c25-c014-439d-a9ab-75c8ad33b550",
-              "title": "Pizza \"4 Cheeses\"",
-              "itemDescription": "Mozzarella, parmesan, brie cheese, and blue cheese with cream sauce with arugula.",
-              "price": 10900,
-              "customizationUuids": [
-                "5ebd99af-0584-411c-a09d-6a9b5f0745fe"
-              ]
-            },
-            {
-              "uuid": "a69b76e7-caf6-4646-932d-f18a443d7afd",
-              "title": "Pizza \"Di Mare\"",
-              "itemDescription": "With salmon, mussels, squids with arugula in white cream sauce under the mozzarella.",
-              "price": 12900,
-              "customizationUuids": [
-                "4603bb3e-6c4d-41c2-9c38-601597b9f5d0"
-              ]
-            }
           ]
         },
         {
@@ -1367,39 +883,6 @@
             "301cf022-661e-4154-887d-31ec55195225",
             "e385f066-dcce-4467-a39f-062124489498",
             "c13fcb6b-6fbb-4562-bb84-6ca120225979"
-          ],
-          "displayItems": [
-            {
-              "uuid": "231cde77-1ff0-4cf4-a8b4-31031a31882b",
-              "title": "Baked potatoes with herbs, and garlic",
-              "itemDescription": "200g.",
-              "price": 3900
-            },
-            {
-              "uuid": "90469cbf-0844-4e60-be9b-445e8bf0adaa",
-              "title": "Creamy mashed potatoes",
-              "itemDescription": "200g.",
-              "price": 3900
-            },
-            {
-              "uuid": "301cf022-661e-4154-887d-31ec55195225",
-              "title": "French fries",
-              "itemDescription": "200g.",
-              "price": 4800
-            },
-            {
-              "uuid": "e385f066-dcce-4467-a39f-062124489498",
-              "title": "Grilled vegetables",
-              "itemDescription": "200g.",
-              "price": 6500
-            },
-            {
-              "uuid": "c13fcb6b-6fbb-4562-bb84-6ca120225979",
-              "title": "Grilled broccoli with Cheddar sauce",
-              "itemDescription": "200 g",
-              "price": 5900,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1410,35 +893,6 @@
             "17eafb9d-2dd1-475a-aca8-2bce6bb9e40e",
             "70738b89-fd69-4acb-b93e-bad23439cc5c",
             "4d987cb3-4216-40b1-8e18-d145d848611f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e8951a3e-57d7-43c2-8413-d52820249d8e",
-              "title": "Cheesecake in dark chocolate with passion fruit on biscuit crumbs",
-              "itemDescription": "150g.",
-              "price": 8900
-            },
-            {
-              "uuid": "17eafb9d-2dd1-475a-aca8-2bce6bb9e40e",
-              "title": "Cheesecake mango-orange with caramel sauce",
-              "itemDescription": "180 g",
-              "price": 8900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "70738b89-fd69-4acb-b93e-bad23439cc5c",
-              "title": "Warm apple pie with crispy crust and ice cream",
-              "itemDescription": "150/50 g",
-              "price": 7800,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4d987cb3-4216-40b1-8e18-d145d848611f",
-              "title": "Chocolate Fondan with passion fruit sauce & ice cream ",
-              "itemDescription": "150/50 g",
-              "price": 9500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1455,79 +909,6 @@
             "afe550f7-ae54-4959-ab85-017a2e37cd16",
             "266a8f10-eef4-4581-bdf6-c6763e3818a9",
             "7d725957-32b5-47c6-95b9-15031126ef08"
-          ],
-          "displayItems": [
-            {
-              "uuid": "3df01e24-acf0-421c-8516-243ad98b3c84",
-              "title": "Mors",
-              "itemDescription": "250ml.",
-              "price": 2000
-            },
-            {
-              "uuid": "5d6bf70d-9be3-4d90-8cd4-f5e328ec3d1f",
-              "title": "Variety juices",
-              "itemDescription": "250ml.",
-              "price": 2500,
-              "customizationUuids": [
-                "d51890be-ccc1-4a42-ab3c-241a8d2a6a03"
-              ]
-            },
-            {
-              "uuid": "1ef278d0-e9ed-4627-84d3-2ac83857c1d6",
-              "title": "Coca-Cola",
-              "itemDescription": "250ml.",
-              "price": 3000
-            },
-            {
-              "uuid": "33dbea7f-09aa-43b9-9e0f-d8a5ca14b819",
-              "title": "Fanta",
-              "itemDescription": "250ml.",
-              "price": 3000
-            },
-            {
-              "uuid": "768be7c8-59ea-40e5-a440-443aa5e532d5",
-              "title": "Sprite",
-              "itemDescription": "250ml.",
-              "price": 3000
-            },
-            {
-              "uuid": "d33c571b-7504-4ce6-a5a8-11ffd5c30302",
-              "title": "Schweppes Tonic",
-              "itemDescription": "250ml.",
-              "price": 3000,
-              "customizationUuids": [
-                "91f02d37-dadf-4fa0-b9af-7f1e8b5ae845"
-              ]
-            },
-            {
-              "uuid": "2c6d29b7-93ce-41dd-99a8-439a85aef561",
-              "title": "Borjomi (mineral water)",
-              "itemDescription": "330ml.",
-              "price": 4500
-            },
-            {
-              "uuid": "afe550f7-ae54-4959-ab85-017a2e37cd16",
-              "title": "Morshynska",
-              "itemDescription": "500ml.",
-              "price": 4500,
-              "customizationUuids": [
-                "88f3f793-dd30-422f-abc7-dc5b81894d78"
-              ]
-            },
-            {
-              "uuid": "266a8f10-eef4-4581-bdf6-c6763e3818a9",
-              "title": "Mojito non-alcoholic (classic, passion fruit, raspberry)",
-              "itemDescription": "400 g",
-              "price": 5500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "7d725957-32b5-47c6-95b9-15031126ef08",
-              "title": "Homemade lemonade (ginger/passion fruit/buckthorn/citrus/lavender/lemongrass)",
-              "itemDescription": "400 ml",
-              "price": 5000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1546,90 +927,6 @@
             "6673521b-898f-4dc4-8545-f83057c03f5f",
             "b67c38a0-98b6-40e5-a384-04ef9449c394",
             "967a8486-cdcb-4b25-971b-18c2565d6d67"
-          ],
-          "displayItems": [
-            {
-              "uuid": "ae54e96b-0a43-4b96-85f7-b5c35e8320ba",
-              "title": "Espresso",
-              "itemDescription": "30ml.",
-              "price": 2500
-            },
-            {
-              "uuid": "06308dfe-8ae0-4636-ab8f-81c4dee8cd7e",
-              "title": "Double espresso",
-              "itemDescription": "60ml.",
-              "price": 4000
-            },
-            {
-              "uuid": "fb6b9191-922e-4517-be74-882bb4bcdb4b",
-              "title": "Americano",
-              "itemDescription": "120ml.",
-              "price": 2500
-            },
-            {
-              "uuid": "bcf21939-1cd0-49a4-bf87-bed5cea92fb4",
-              "title": "Latte",
-              "itemDescription": "180ml.",
-              "price": 4000
-            },
-            {
-              "uuid": "68f9be56-45d4-4d0e-8480-1236f1947b6f",
-              "title": "Cappuccino",
-              "itemDescription": "200ml.",
-              "price": 4000
-            },
-            {
-              "uuid": "4ec7c140-f117-4d86-8c32-d3be8d9ab170",
-              "title": "Moccachino",
-              "itemDescription": "Coffee, chocolate, milk, and aramel (250ml).",
-              "price": 5500
-            },
-            {
-              "uuid": "5d2c6e60-7841-45c8-a4b2-9a0221de8b9e",
-              "title": "Raf Coffee",
-              "itemDescription": "200ml.",
-              "price": 4500
-            },
-            {
-              "uuid": "61280274-4d15-4817-922e-575ab19bb553",
-              "title": "Flate White",
-              "itemDescription": "Double espresso, and cream (150ml).",
-              "price": 4500,
-              "customizationUuids": [
-                "2effeca7-d272-48f1-a657-14ac8cae744d"
-              ]
-            },
-            {
-              "uuid": "d8ebd6df-92b5-4288-9fd4-de346cef282b",
-              "title": "Cocoa",
-              "itemDescription": "230ml.",
-              "price": 4000
-            },
-            {
-              "uuid": "6673521b-898f-4dc4-8545-f83057c03f5f",
-              "title": "Tea",
-              "itemDescription": "250ml.",
-              "price": 2500,
-              "customizationUuids": [
-                "14925486-f585-426b-a762-1312f6cace30"
-              ]
-            },
-            {
-              "uuid": "b67c38a0-98b6-40e5-a384-04ef9449c394",
-              "title": "Homemade tea",
-              "itemDescription": "250ml.",
-              "price": 3500,
-              "customizationUuids": [
-                "34f239b6-adcf-4f33-8920-f69cf80f162d"
-              ]
-            },
-            {
-              "uuid": "967a8486-cdcb-4b25-971b-18c2565d6d67",
-              "title": "Cappuccino \"Pine nut\"",
-              "itemDescription": "200 ml",
-              "price": 5500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -1641,43 +938,6 @@
             "93714ed2-16d3-4e9d-829e-f6329066ef35",
             "e0f54aa5-4a82-4773-a835-6fd07cdac911",
             "a327ac1b-5c1a-436c-af26-1e8b16b4a0d2"
-          ],
-          "displayItems": [
-            {
-              "uuid": "4cd40206-7019-40f2-908f-e234b96dadd6",
-              "title": "\"Exotic\" (mango, passion fruit, mango juice)",
-              "itemDescription": "350 ml",
-              "price": 6900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "08a7c9a1-5e6d-4cb7-b819-a80f23cf8d8e",
-              "title": "\"Berry\" (raspberries, black currants, strawberry syrup, mint)",
-              "itemDescription": "350 ml",
-              "price": 6900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "93714ed2-16d3-4e9d-829e-f6329066ef35",
-              "title": "\"Colada\" (pineapple, pineapple juice, coconut syrup)",
-              "itemDescription": "350 ml",
-              "price": 6900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "e0f54aa5-4a82-4773-a835-6fd07cdac911",
-              "title": "\"Fusion\" (avocado, cucumber, mint, lemon)",
-              "itemDescription": "350 ml",
-              "price": 6900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "a327ac1b-5c1a-436c-af26-1e8b16b4a0d2",
-              "title": "\"Tropic\"  (mango, pineapple, orange juice, grenadine)",
-              "itemDescription": "350 ml",
-              "price": 6900,
-              "nutritionalInfo": {}
-            }
           ]
         }
       ]

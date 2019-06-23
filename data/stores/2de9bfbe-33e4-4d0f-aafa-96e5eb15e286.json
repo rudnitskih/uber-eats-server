@@ -429,45 +429,6 @@
             "e04da976-2d57-42ec-8996-fd794964ad26",
             "5b4ae395-355a-487b-93a7-85970976f77c",
             "50226bf6-0eb1-40a2-bc54-a42e50c548ff"
-          ],
-          "displayItems": [
-            {
-              "uuid": "60bc82a9-127f-4ca1-b9bd-55a697170d9d",
-              "title": "Kofte Durum Veal",
-              "itemDescription": "Kebab in the form of sausage of chopped veal with pickled onions, tomatoes, and greens mix with red sauce. Served in flat bread (240g).",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/82140b6a-5348-49f0-9d92-5679bfe7e955",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "e08771d0-f388-4586-9038-69d3b920379c",
-              "title": "Durum Doner Chicken",
-              "itemDescription": "Classics of the genre - durum doner in flat bread with juicy chicken, lettuce, cucumbers, tomatoes, and special hot tomato sauce (330g).",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/417d24f8-1b5b-453d-bf44-405d69b4988b"
-            },
-            {
-              "uuid": "e04da976-2d57-42ec-8996-fd794964ad26",
-              "title": "Durum Doner Veal",
-              "itemDescription": "Classics of the genre - durum doner in flat bread with juicy veal, lettuce, cucumbers, tomatoes, and special hot tomato sauce (330g).",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/41eb9aa6-3696-4868-ba0b-d6bacf14a913"
-            },
-            {
-              "uuid": "5b4ae395-355a-487b-93a7-85970976f77c",
-              "title": "Durum Doner Caesar",
-              "itemDescription": "Поєднання дюрум донера та салату Цезар. Ніжне м'ясо курки донер з салатом айсберг, сиром пармезан, томатами черрі, зеленню та вершковим соусом Цезар. Подається в лаваші (350g).",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/78e1aa97-d70b-43b1-a7a9-0f90e2d62dac"
-            },
-            {
-              "uuid": "50226bf6-0eb1-40a2-bc54-a42e50c548ff",
-              "title": "Kofte Durum Turkey",
-              "itemDescription": "Lula kebab with delicate turkey, marinated onions, tomatoes, and mix of salads with red sauce. Served in flat bread (260g).",
-              "price": 7500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7f0ab03d-1a79-444a-9edb-fb1f01d0339e",
-              "suspendUntil": 1559509199
-            }
           ]
         },
         {
@@ -481,62 +442,6 @@
             "9fc0d8e7-9818-4cf3-9805-5e3b7ffec21f",
             "a61c165f-21cf-4767-b08f-05b1ed6366f5",
             "cdee1ad5-2e66-4520-9d2a-847ce10dca0c"
-          ],
-          "displayItems": [
-            {
-              "uuid": "5d4af53f-2f1e-4a51-a55a-cb5639bda31f",
-              "title": "Tombik Berliner with chicken",
-              "itemDescription": "The tombik invented in the 1970s in Berlin by Turkish emigrant Kadir Nurman. Doner chicken meat served in a lightly toasted triangle-shaped kefir bun with vegetables, and sauce. Taste of Berlin right now (350g).",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a088917d-7c26-4db8-aa25-11e9c42cd405"
-            },
-            {
-              "uuid": "7a201000-2af6-4a79-9419-d44f55496bed",
-              "title": "Tombik German with chicken",
-              "itemDescription": "Germans were so fond of the tombiks, that invented their own youth version of the rich snack - in addition to meat in Turkish bun, we also add cheese, and French fries. Super rich snack for real youth (430g).",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/59085177-4951-4d4c-a9ec-c13f3d3e5915",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "d2eb7548-9285-4bf8-8742-bb7fa264adf0",
-              "title": "Tombik Turkish with chicken",
-              "itemDescription": "Large tombik in Turkish bun for those who like more meat! Chicken with greens mix, tomatoes, and special sauce. For true meat hooligans (400g).",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3887a696-23eb-4226-9a73-f870d86eea29",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "4854140d-894a-40bd-86ea-1013cc425feb",
-              "title": "Burger Arizona",
-              "itemDescription": "Наш єдиний та унікальний справжній американець у меню. Аризона це бургер з великою\nсоковитою телячою котлетою з сиром та міксом салату. Цікава деталь - ви ніколи не вгадаєте -\nякий колір булки вам дістанеться - це сюрприз (250 грамів).",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5738e09-29d0-455a-8013-57ae290340ae",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "9fc0d8e7-9818-4cf3-9805-5e3b7ffec21f",
-              "title": "Tombik Berliner with veal",
-              "itemDescription": "The tombik invented in the 1970s in Berlin by Turkish emigrant Kadir Nurman. Doner veal meat served in a lightly toasted triangle- shaped kefir bun with vegetables, and sauce. Taste of Berlin right now (360g).",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cc1442f-6d01-46c5-9a58-45aeb65ce46b"
-            },
-            {
-              "uuid": "a61c165f-21cf-4767-b08f-05b1ed6366f5",
-              "title": "Tombik German with veal",
-              "itemDescription": "Germans were so fond of the tombiks, that invented their own youth version of the rich snack - in addition to meat in Turkish bun, we also add cheese, and French fries. Super rich snack for real youth (430g).",
-              "price": 10500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e22f9265-4eae-49ca-b3de-181e7c5a7cef",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "cdee1ad5-2e66-4520-9d2a-847ce10dca0c",
-              "title": "Tombik Turkish with veal",
-              "itemDescription": "Large tombik in Turkish bun for those who like more meat! Veal with greens mix, tomatoes, and special sauce. For true meat hooligans (400g).",
-              "price": 12000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff6fb03f-81a1-4b1e-bc8b-768cebc9fb2c",
-              "suspendUntil": 1559509199
-            }
           ]
         },
         {
@@ -550,57 +455,6 @@
             "92245c9a-62ca-4e7f-8b25-2c42a4ff715a",
             "fa38f575-77b3-4fa3-975e-71eb8a84bffa",
             "2b31d4d6-1eba-4a8f-8b6c-3ce4a313f007"
-          ],
-          "displayItems": [
-            {
-              "uuid": "773faad0-d7c8-48ca-90a6-7ad0993f134b",
-              "title": "Cordon Bleu (for children)",
-              "itemDescription": "Delicious crispy chicken in bread crumbs with bacon, and cheese inside. Served in a box with French fries. That`s exactly what your child wants (250g).",
-              "price": 7500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9fa4651d-609c-4134-af13-71fbece6c6d8"
-            },
-            {
-              "uuid": "dd1a93f1-45a9-43c4-a798-3b949489c323",
-              "title": "Doner Box Fries XL Chicken",
-              "itemDescription": "Meat of chicken in a box with a side dish, and two sauces: white, and red. The box comes with crispy French fries (310g).",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7462df42-70e5-4988-ace6-614b5cf6e836"
-            },
-            {
-              "uuid": "3615730b-d8bc-4983-9227-2f09199184e6",
-              "title": "Doner Box Rise XL Chicken",
-              "itemDescription": "Meat of chicken in a box with a side dish, and two sauces: white, and red. The box comes with rice, and vegetables (green peas, kidney beans, corn, and carrots), (350g).",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ab7566e-1550-445b-8bf2-b2677aa938d9"
-            },
-            {
-              "uuid": "34bb37a3-2e8c-4ba1-a4c0-ae8ff8548600",
-              "title": "Doner Box Fitness XL Chicken",
-              "itemDescription": "This box is for those who watches the weight precisely - chicken meat in a box with salad mix garnish (5 kinds), tomatoes, and cucumbers. So light, so tasty, so fitness (300g).",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ba9165c-2db8-4fc2-9a37-4e4f50988fac"
-            },
-            {
-              "uuid": "92245c9a-62ca-4e7f-8b25-2c42a4ff715a",
-              "title": "Doner Box Fries XL Veal",
-              "itemDescription": "Meat of veal in a box with a side dish, and two sauces: white, and red. The box comes with crispy French fries (310g).",
-              "price": 12000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/595681e5-6fbc-42ea-9208-6f39a4817a2c"
-            },
-            {
-              "uuid": "fa38f575-77b3-4fa3-975e-71eb8a84bffa",
-              "title": "Doner Box Rise XL Veal",
-              "itemDescription": "Meat of veal in a box with a side dish, and two sauces: white, and red. The box comes with rice, and vegetables (green peas, kidney beans, corn, and carrots), (350g).",
-              "price": 12000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f9ba5be-5400-4a25-88b1-63d54949f459"
-            },
-            {
-              "uuid": "2b31d4d6-1eba-4a8f-8b6c-3ce4a313f007",
-              "title": "Doner Box Fitness Beef XL",
-              "itemDescription": "This box is for those who watches the weight precisely - veal meat in a box with salad mix garnish (5 kinds), tomatoes, and cucumbers. So light, so tasty, so fitness (300g).",
-              "price": 12000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a04bb5e1-f3b7-4f3b-82e9-23b7630fd986"
-            }
           ]
         },
         {
@@ -612,46 +466,6 @@
             "9eee530f-c5bc-4223-b728-608dde419e80",
             "8050f248-7462-4f47-b581-25c6cd4d2e25",
             "c5f2d5ce-cb28-4f1c-aa3c-c31f90a88710"
-          ],
-          "displayItems": [
-            {
-              "uuid": "79b0afdf-c8fd-4bf1-917b-fceb7a62ed21",
-              "title": "Falafel in flat bread",
-              "itemDescription": "Falafel cooked according to Arabic recipe. Served in flat bred with lettuce, cucumbers, and tomatoes, and special cream sauce (360g).",
-              "price": 7500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9790bc8e-e647-4207-887e-972ca0e5154d",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "b679a374-88f3-41d1-abf2-14fb04a322f2",
-              "title": "Falafel servings",
-              "itemDescription": "Falafel cooked according to Arabic recipe. With vegetables, and special cream sauce (270g).",
-              "price": 7500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/09e2cd18-7009-41f2-9372-92439ea65b1f",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "9eee530f-c5bc-4223-b728-608dde419e80",
-              "title": "Fish Roll Durum",
-              "itemDescription": "Durum in flat bread with whitefish, cream cheese, mix of vegetables, and white sauce (270g).",
-              "price": 10500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2fdf488-f6c4-486f-bd92-2f077eb47cf1",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "8050f248-7462-4f47-b581-25c6cd4d2e25",
-              "title": "Fish & Chips",
-              "itemDescription": "Традиційна британська фаст-фуд страва для смачного перекусу (290 грамів).",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b1f48d8f-f701-4ec7-8830-d999856ffb53",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "c5f2d5ce-cb28-4f1c-aa3c-c31f90a88710",
-              "title": "Durum Vegi",
-              "itemDescription": "Вегетаріанський дюрум в лаваші з сиром Халумі та міксом овочів з вершковим соусом (330 грамів).",
-              "price": 9000
-            }
           ]
         },
         {
@@ -662,36 +476,6 @@
             "702fd0f3-596f-41ab-8a64-f10081f6b039",
             "febbc585-b75b-4661-bd17-ed96521007fd",
             "fd9b30ab-d225-4e51-8b43-08f3122f01f1"
-          ],
-          "displayItems": [
-            {
-              "uuid": "af6aaadd-3505-4870-a21f-fe467d798f9e",
-              "title": "Chicken Soup with Noodles",
-              "itemDescription": "Hot, transparent chicken broth with meat, and quail egg, and with homemade noodles (270g).",
-              "price": 5500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e345fa64-36fe-41d2-a0aa-96e63e2cfb47"
-            },
-            {
-              "uuid": "702fd0f3-596f-41ab-8a64-f10081f6b039",
-              "title": "Tomato Kharcho Soup",
-              "itemDescription": "A thick classic kharcho tomato soup from our chef with veal, and rice (a little bit hot as it should be), 270g.",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/470e35c3-4c20-4073-b583-1506927f911a"
-            },
-            {
-              "uuid": "febbc585-b75b-4661-bd17-ed96521007fd",
-              "title": "Veal Soup with Noodles",
-              "itemDescription": "Hot, transparent veal broth with meat, and quail egg, and with homemade noodles (270g).",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/497df8e0-51c4-42a6-9462-4232d206e1a0"
-            },
-            {
-              "uuid": "fd9b30ab-d225-4e51-8b43-08f3122f01f1",
-              "title": "Mushroom cream soup",
-              "itemDescription": "Cream soup with champignon, and porcini mushrooms. Delicious, dietetic, vegetarian (270g).",
-              "price": 7000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b049d10-d3d8-4def-ac21-0f137c24118f"
-            }
           ]
         },
         {
@@ -704,50 +488,6 @@
             "36026387-3228-4705-89ad-20a6e67b5e85",
             "3bb5d114-1c61-471e-931e-e052dd98a32c",
             "697757e5-37e4-48cc-825c-d65c4f0e02f6"
-          ],
-          "displayItems": [
-            {
-              "uuid": "75234d38-9ff7-40f9-a325-c75f30bddccf",
-              "title": "Coleslaw salad",
-              "itemDescription": "Classic American salad of cabbages, carrots, and celery. Dressed with Provencal sauce (210g).",
-              "price": 5500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0107c8f7-743a-4428-a25f-7b4d9d2f24fa"
-            },
-            {
-              "uuid": "4581d3f2-5905-4785-b723-6eb0c616b51a",
-              "title": "Tabbouleh salad",
-              "itemDescription": "Chicken meat, bulgur, tomatoes, cucumbers, sweet peppers, and lettuce mix (5 kinds). Dressed with light sauce (210g).",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/06c9e23a-c852-40c7-ac54-585287dd8f44"
-            },
-            {
-              "uuid": "6c663c4f-48ae-402d-bc85-55060f3e8fc0",
-              "title": "Greek salad",
-              "itemDescription": "Feta cheese, black olives, tomatoes, cucumbers, sweet peppers, and lettuce mix (5 kinds). Dressed with light sauce (210g).",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1775b4cd-cbf0-4934-8f86-842c03003163"
-            },
-            {
-              "uuid": "36026387-3228-4705-89ad-20a6e67b5e85",
-              "title": "Fattoush salad",
-              "itemDescription": "Chicken meat, crispy chips of flat bread, tomatoes, cucumbers, sweet peppers, and lettuce mix (5 kinds). Dressed with light sauce (210g).",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6437086c-d299-4920-ad89-9f8369a76956"
-            },
-            {
-              "uuid": "3bb5d114-1c61-471e-931e-e052dd98a32c",
-              "title": "Caesar salad with veal",
-              "itemDescription": "Iceberg lettuce with tomatoes, veal, wheat bread croutons, and parmesan cheese. Dressed with Caesar sauce (210g).",
-              "price": 7500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a43d0fb0-34b6-46f4-b38f-c799738d9bb2"
-            },
-            {
-              "uuid": "697757e5-37e4-48cc-825c-d65c4f0e02f6",
-              "title": "Caesar salad with chicken",
-              "itemDescription": "Iceberg lettuce with tomatoes, chicken, wheat bread croutons, and parmesan cheese. Dressed with Caesar sauce (210g).",
-              "price": 7000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5655a0f-3565-4c02-81c5-a12e68f7266d"
-            }
           ]
         },
         {
@@ -759,44 +499,6 @@
             "c0cb221b-bc22-42aa-9b7d-aff9186a5844",
             "c80384b6-3b31-49c3-a509-8077879b9d6b",
             "24cd311e-70c7-4412-b902-25d75f78cef9"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e4427130-3954-42b0-be9d-6dc6b4f4b7cf",
-              "title": "Chips of flat bread with spices HOMEMADE",
-              "itemDescription": "Our special homemade chips of flat bread with spices. Cooked with feeling. Munch crunch! (50g).",
-              "price": 2500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5797a38a-6095-418a-8af0-3ffd8ad694f9"
-            },
-            {
-              "uuid": "7d688048-d7c6-4453-a5e0-4e3c25b23424",
-              "title": "Potato balls",
-              "itemDescription": "Fried crispy potato balls.",
-              "price": 4500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e9d3042-6090-4318-a0a2-aec354c638d9"
-            },
-            {
-              "uuid": "c0cb221b-bc22-42aa-9b7d-aff9186a5844",
-              "title": "Onion rings",
-              "itemDescription": "Crispy coated onion rings according to the classic recipe, served with tartar sauce (150g).",
-              "price": 4500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/95430c2d-d7ae-4763-9771-49ac44905a6f"
-            },
-            {
-              "uuid": "c80384b6-3b31-49c3-a509-8077879b9d6b",
-              "title": "Cheese sticks",
-              "itemDescription": "Cheese sticks, fried in a crispy golden batter with flaxseeds (240g).",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/21dbc09d-a424-4823-99ed-b7a014491195",
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "24cd311e-70c7-4412-b902-25d75f78cef9",
-              "title": "Fried tiger prawns with two sauces",
-              "itemDescription": "Fried crispy tiger prawns served with Cocktail sauce (400g).",
-              "price": 13500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2cc7a32-e299-4947-9dee-5098f1e0b388"
-            }
           ]
         },
         {
@@ -809,46 +511,6 @@
             "fc0c21f2-5992-4d26-bdf3-248c0169de54",
             "836a73ce-cca6-44c7-82e8-efd1a6a732df",
             "86c010d6-f7f5-40f1-b445-0c408d345e86"
-          ],
-          "displayItems": [
-            {
-              "uuid": "7d7c1ddf-7998-4f16-b929-6be1cace1f12",
-              "title": "Airan",
-              "itemDescription": "200ml",
-              "price": 2500
-            },
-            {
-              "uuid": "1f91bf0f-b95f-4130-9602-b38602737430",
-              "title": "Mors",
-              "itemDescription": "300ml",
-              "price": 2500,
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "a9202c02-9a7b-460f-b416-ac566043b537",
-              "title": "Uzvar",
-              "itemDescription": "300ml",
-              "price": 2500,
-              "suspendUntil": 1559509199
-            },
-            {
-              "uuid": "fc0c21f2-5992-4d26-bdf3-248c0169de54",
-              "title": "Coca-Cola",
-              "itemDescription": "500ml",
-              "price": 2500
-            },
-            {
-              "uuid": "836a73ce-cca6-44c7-82e8-efd1a6a732df",
-              "title": "Fanta",
-              "itemDescription": "500 мл.",
-              "price": 2500
-            },
-            {
-              "uuid": "86c010d6-f7f5-40f1-b445-0c408d345e86",
-              "title": "Sprite",
-              "itemDescription": "500ml",
-              "price": 2500
-            }
           ]
         },
         {
@@ -863,59 +525,6 @@
             "4d744e9b-de86-41ea-a866-e0caa5b7121a",
             "4188466d-c1d7-4076-960c-1ea3fe29baa6",
             "9b69434d-e797-4a8d-8f8d-5f457965e4cc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "8de8f48c-dca6-4158-b274-3c5ab8d081d3",
-              "title": "Lvivske",
-              "itemDescription": "Light beer, bottle (500 ml).",
-              "price": 4000,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "5e9ee5fd-41ed-48f9-af62-9daafb3cf971",
-              "title": "Kronenbourg Blanche",
-              "itemDescription": "Wheat beer, bottle (460 ml).",
-              "price": 5500
-            },
-            {
-              "uuid": "b10192f2-92c5-4b83-bd3c-556077ddae58",
-              "title": "Grimbergen Double Ambree",
-              "itemDescription": "Dark beer, bottle (330 ml).",
-              "price": 6500
-            },
-            {
-              "uuid": "c352ee52-383c-4a26-8a4c-a3742177e376",
-              "title": "Guinness",
-              "itemDescription": "Dark beer, bottle (330 ml).",
-              "price": 6500
-            },
-            {
-              "uuid": "3f449cff-d22b-4001-addf-f6c77de40036",
-              "title": "Warsteiner",
-              "itemDescription": "330 мл",
-              "price": 6500
-            },
-            {
-              "uuid": "4d744e9b-de86-41ea-a866-e0caa5b7121a",
-              "title": "Grimbergen Blonde",
-              "itemDescription": "330 мл",
-              "price": 6500
-            },
-            {
-              "uuid": "4188466d-c1d7-4076-960c-1ea3fe29baa6",
-              "title": "Garage",
-              "itemDescription": "330 мл",
-              "price": 4000,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "9b69434d-e797-4a8d-8f8d-5f457965e4cc",
-              "title": "Carlsberg",
-              "itemDescription": "500 ml",
-              "price": 4500,
-              "suspendUntil": 8640000000
-            }
           ]
         }
       ]

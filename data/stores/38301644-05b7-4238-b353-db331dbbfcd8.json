@@ -150,89 +150,6 @@
             "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
             "c73ad940-23f8-49b1-8307-7c88d09f34a8",
             "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46"
-          ],
-          "displayItems": [
-            {
-              "uuid": "f8459330-c30c-4190-9686-b405471334f4",
-              "title": "Chicago",
-              "itemDescription": "Milk sausages, cheese sauce, hot sauce, red sauce, relish of pickled cucumbers, and marinated onion, fried bacon, and greens.",
-              "price": 7200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d032dfdd-63a1-4db3-b848-d540986c8c5d",
-              "customizationUuids": [
-                "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-              ]
-            },
-            {
-              "uuid": "9643a374-4ece-4a43-90fd-d221a69a8ddb",
-              "title": "Lacio",
-              "itemDescription": "Milk sausage, cream sauce, white wine, bacon, and onion sauce, fried cheese, Parmesan, basil, kostas, Bavarian sausage, Greek salad with olives, Kalamata, basil, and balsamic cream.",
-              "price": 7800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/388069a2-7ded-4056-bb41-0634ef3e8427",
-              "customizationUuids": [
-                "62d674bc-73d4-4738-8388-2ddc817da536"
-              ]
-            },
-            {
-              "uuid": "851d122b-2f34-42c3-91c2-63a8bc915534",
-              "title": "Pekin",
-              "itemDescription": "Milk sausage, napa (Korean) cabbage, wood ear mushrooms, soy beetroot, carrots, oyster sauce, chili sauce, sesame oil, and sesame seeds.",
-              "price": 7200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a0a5472-a09d-4554-9e87-ce3defb108ba",
-              "customizationUuids": [
-                "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-              ]
-            },
-            {
-              "uuid": "0b2c99a9-7ced-4c18-970e-b3c997050b03",
-              "title": "Costas",
-              "itemDescription": "Bavarian or milk sausage, sauce of soft cheese, and yogurt, tomatoes, cucumbers, sweet peppers, basil, Kalamata olives, and balsamic glaze.",
-              "price": 7600,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/604e36bc-6f1b-4395-be0a-b90a142261f9",
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "cbbfff9f-099c-4c8e-9f1f-6e971c6a5a60",
-                "62d674bc-73d4-4738-8388-2ddc817da536"
-              ]
-            },
-            {
-              "uuid": "40bd6602-d2db-445d-b895-0f5000b0ef49",
-              "title": "Bavaria",
-              "itemDescription": "Bavarian sausage, special red sauce, Bavarian mustard, pickled cucumber, fried bacon, caramelized onion, and greens.",
-              "price": 7800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd6507c0-fd6d-456b-b423-0389f0b24081",
-              "customizationUuids": [
-                "4dd0965f-2a4c-4e2c-a5b4-119918d4d2c4"
-              ]
-            },
-            {
-              "uuid": "50fcfa92-3e3a-445c-bc2f-9a56eb0c2bea",
-              "title": "Jovanny",
-              "itemDescription": "Milk sausage, sauce of Dorblu, and Gorgonzola cheese, arugula, tomatoes, and grated Dorblu cheese.",
-              "price": 7600,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfdeb35f-f4be-4c17-86ce-4cab1c4e0b5c",
-              "customizationUuids": [
-                "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-              ]
-            },
-            {
-              "uuid": "c73ad940-23f8-49b1-8307-7c88d09f34a8",
-              "title": "New-York",
-              "itemDescription": "Milk sausage, special red sauce, American mustard, sauerkraut, pickled carrots, pickled cucumbers, caramelized onions, and greens.",
-              "price": 7200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b76c3cd9-5aaa-4a03-bb54-351bbe3417bd",
-              "customizationUuids": [
-                "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-              ]
-            },
-            {
-              "uuid": "46ac8caf-2efe-4ffb-86e8-cfaa63fb5d46",
-              "title": "Bangkok",
-              "itemDescription": "Bavarian sausage, sauce made from: coconut oil, shrimp paste, tomato paste, peanut, dried garlic, chili, sugar, oyster and soy sauce, salad of young cabbage, pickled carrots, peanut butter, cilantro and mint.",
-              "price": 7000,
-              "customizationUuids": [
-                "4a81e3fa-9a83-4363-8d00-cd85a66af56b"
-              ]
-            }
           ]
         },
         {
@@ -242,30 +159,6 @@
             "e27cc42b-30f4-43df-8753-6670f4c1d326",
             "6c7101e8-c17d-426e-a89a-69e3381f93ef",
             "6f26c8a1-c666-4178-bdb7-0f06640eba6f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e27cc42b-30f4-43df-8753-6670f4c1d326",
-              "title": "Pepsi",
-              "itemDescription": "330ml.",
-              "price": 2500
-            },
-            {
-              "uuid": "6c7101e8-c17d-426e-a89a-69e3381f93ef",
-              "title": "Mirinda",
-              "itemDescription": "330ml.",
-              "price": 2500,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "6f26c8a1-c666-4178-bdb7-0f06640eba6f",
-              "title": "Bloody Mary (non-alcoholic)",
-              "itemDescription": "",
-              "price": 5000,
-              "customizationUuids": [
-                "98733e1e-69a9-40ec-ba6a-f0015759eba3"
-              ]
-            }
           ]
         }
       ]

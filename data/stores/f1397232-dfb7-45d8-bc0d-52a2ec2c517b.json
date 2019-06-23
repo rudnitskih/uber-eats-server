@@ -420,59 +420,6 @@
             "033f79c8-fa22-490c-aca2-82aba68c2cef",
             "87c8ef5f-ee1e-4f42-b58e-ac2700a463d3",
             "2d5d2b17-68f1-4426-bc57-d8c8d77d1ce9"
-          ],
-          "displayItems": [
-            {
-              "uuid": "4079ede1-9f6d-4ae8-b98f-b4c8b173fac9",
-              "title": "Oatmeal with dried fruits",
-              "itemDescription": "Oatmeal, milk, butter, walnut, raisins, dried apricots, and cranberries.",
-              "price": 5500,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "c112cc38-0eae-4197-92a2-41d60729c7ac",
-              "title": "Sweet pretty breakfast",
-              "itemDescription": "Yogurt and caramelized fruits.",
-              "price": 4000,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "6b0e8deb-b449-4056-89ec-820ca42113c8",
-              "title": "Caramelized fruits",
-              "itemDescription": "Apple, walnut, raisins, vinegar, and dried cranberries.",
-              "price": 5500
-            },
-            {
-              "uuid": "a1758c0b-d3b4-4375-9b20-d6118b82f35d",
-              "title": "English breakfast wrap",
-              "itemDescription": "Tortilla, egg, bacon, salad, bell pepper, beans, and honey mustard sauce.",
-              "price": 7500,
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "033f79c8-fa22-490c-aca2-82aba68c2cef",
-              "title": "Granola",
-              "itemDescription": "Granola own production, clabber, cherry confiture.",
-              "price": 4000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "87c8ef5f-ee1e-4f42-b58e-ac2700a463d3",
-              "title": "Oatmeal pancakes",
-              "itemDescription": "Cherry confiture.",
-              "price": 3000,
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "2d5d2b17-68f1-4426-bc57-d8c8d77d1ce9",
-              "title": "Hemp protein pancakes",
-              "itemDescription": "Protein pancakes, cherry confiture.",
-              "price": 7000,
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -483,35 +430,6 @@
             "2506f5e7-2285-4795-93cb-0f3d861f2665",
             "6346f2f0-73a4-4f26-b923-e4a17a71262f",
             "4b4f5154-21a5-40b0-bf77-e732062d1b19"
-          ],
-          "displayItems": [
-            {
-              "uuid": "9621c475-d040-4dbf-b4cd-d15ec416b66d",
-              "title": "Classic falafel",
-              "itemDescription": "Falafel, falafel sauce.",
-              "price": 4500
-            },
-            {
-              "uuid": "2506f5e7-2285-4795-93cb-0f3d861f2665",
-              "title": "Hummus with pine nuts",
-              "itemDescription": "Hummus, pine nuts, and olive oil.",
-              "price": 6000
-            },
-            {
-              "uuid": "6346f2f0-73a4-4f26-b923-e4a17a71262f",
-              "title": "Pumpkin hummus",
-              "itemDescription": "Nut and pumpkin hummus, bread made of flax, pine nuts, and cranberry.",
-              "price": 6000
-            },
-            {
-              "uuid": "4b4f5154-21a5-40b0-bf77-e732062d1b19",
-              "title": "Liver mousse with sauce in assortment",
-              "itemDescription": "Chicken liver, cream, onion, wine, butter, and bread made of flax. To choose from sauce.",
-              "price": 5000,
-              "customizationUuids": [
-                "252db79b-f2e0-4892-905a-73c784eafb0f"
-              ]
-            }
           ]
         },
         {
@@ -525,66 +443,6 @@
             "649fec65-2c5d-4d0b-8a47-9ab1695ae66c",
             "ccad9f08-68f2-41d2-bc85-d8e813e02638",
             "836de486-a566-4c4b-8453-d45adc074b78"
-          ],
-          "displayItems": [
-            {
-              "uuid": "6b16559a-790a-430b-b9a8-ab9db156879e",
-              "title": "Chicken cherry",
-              "itemDescription": "Caramelized chicken liver, salad, cherry tomatoes. To choose from L or XL.",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/81666d1e-18ed-4e92-8356-1bdcb9bdf11c",
-              "customizationUuids": [
-                "7830656f-689c-4273-a4e7-17c928a140c5"
-              ]
-            },
-            {
-              "uuid": "7a634ccc-8ed9-45a5-9300-1b16db50647d",
-              "title": "Nicoise",
-              "itemDescription": "Tuna, egg, cherry tomatoes, salad, lemon, beans, olives, and onion. To choose from L or XL.",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/510f4038-ec99-4e3f-94bc-fbcdcbd8b689",
-              "customizationUuids": [
-                "0a1904dc-87b4-4b71-a553-3375e2adb6cf"
-              ]
-            },
-            {
-              "uuid": "6edd2d1d-389b-4992-bdde-d627c9bd3258",
-              "title": "Red White",
-              "itemDescription": "Orange, feta cheese, pumpkin seeds, beets, salad mix, and cranberry sauce.",
-              "price": 6500
-            },
-            {
-              "uuid": "af711cf2-ba8d-4a8b-aa55-3576f60ef5e9",
-              "title": "Greek",
-              "itemDescription": "Tomato, cucumber, salad, feta cheese, olive oil, and onion.",
-              "price": 8500
-            },
-            {
-              "uuid": "649fec65-2c5d-4d0b-8a47-9ab1695ae66c",
-              "title": "Tuscan",
-              "itemDescription": "Chicken fillet, egg, Parmesan cheese, cherry tomatoes, ranch sauce. To choose from L or XL.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a11b64d-789a-4287-800c-b4d69972a61a",
-              "customizationUuids": [
-                "a554c865-d99a-461b-8386-8113fa0de910"
-              ]
-            },
-            {
-              "uuid": "ccad9f08-68f2-41d2-bc85-d8e813e02638",
-              "title": "Pumpkin salad",
-              "itemDescription": "Salad mix, beans, pumpkin, pumpkin seeds, sunflower oil, microgreen, sunflower oil. ",
-              "price": 7500,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "836de486-a566-4c4b-8453-d45adc074b78",
-              "title": "Indocup",
-              "itemDescription": "Salad mix, baked turkey, cherry tomatoes, and sauce with capers. To choose from L or XL.",
-              "price": 8500,
-              "customizationUuids": [
-                "8db617fa-5c82-4c28-861a-e6d11d9c0637"
-              ]
-            }
           ]
         },
         {
@@ -594,27 +452,6 @@
             "8aee6c94-d9b7-41b5-8008-5e8d0ef6f413",
             "8ec49624-87c5-4175-a967-e303792aeb4c",
             "8805c056-10a5-4716-9e0a-301968bcd72e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "8aee6c94-d9b7-41b5-8008-5e8d0ef6f413",
-              "title": "Silk Road",
-              "itemDescription": "White bread, tomato, dried apricots sauce, mixed salad, and chicken fillet.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1aee93cf-ba3d-46f6-8773-15f2a096b9b9"
-            },
-            {
-              "uuid": "8ec49624-87c5-4175-a967-e303792aeb4c",
-              "title": "Tuna surf",
-              "itemDescription": "Canned tuna, tomatoes, iceberg lettuce, tartar sauce, egg, onion.",
-              "price": 8500
-            },
-            {
-              "uuid": "8805c056-10a5-4716-9e0a-301968bcd72e",
-              "title": "Feta-pesto",
-              "itemDescription": "Brown toast bread, green pesto, feta cheese, spinach, caramelized onion.",
-              "price": 7500
-            }
           ]
         },
         {
@@ -626,41 +463,6 @@
             "b05161f9-6b0b-45b0-bf12-817aff8e4d9b",
             "cdb1b0a2-4f4f-46ed-8fe9-b1d53d6fb27f",
             "8ab4ceb0-8a0a-4d1f-bf67-f591d903fad7"
-          ],
-          "displayItems": [
-            {
-              "uuid": "b96fe715-0c1c-4fed-a8b8-b9220d086d63",
-              "title": "Daal",
-              "itemDescription": "Beans, lentil, carrot, ginger, celery, garlic, chili peppers, tomatoes, coconut milk, leek, and bell pepper.",
-              "price": 5000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5d53bbf-1e96-4caa-b01e-d323926a3784"
-            },
-            {
-              "uuid": "0186c236-5751-40d0-99fc-28ebad5d8aab",
-              "title": "Cream soup champignon",
-              "itemDescription": "Onion, champignons, sunflower oil, chicken broth, wine, milk, and potatoes.",
-              "price": 5000,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "b05161f9-6b0b-45b0-bf12-817aff8e4d9b",
-              "title": "Lentil",
-              "itemDescription": "Lentil, potato, onion, leek, garlic, wine, soy sauce, sesame oil, and sunflower oil.",
-              "price": 5000
-            },
-            {
-              "uuid": "cdb1b0a2-4f4f-46ed-8fe9-b1d53d6fb27f",
-              "title": "Miso",
-              "itemDescription": "Fish broth, tofu, miso paste, hondashi fish, sesame, wakame, leek shiitake.",
-              "price": 5000
-            },
-            {
-              "uuid": "8ab4ceb0-8a0a-4d1f-bf67-f591d903fad7",
-              "title": "Pumpkin cream soup",
-              "itemDescription": "Pumpkin, onion, garlic, vegetable broth, sunflower oil, pumpkin seeds, sesame oil.",
-              "price": 5000,
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -670,28 +472,6 @@
             "0ae52793-9978-4ff7-9e09-1127e58d5924",
             "4679f3ef-ff07-4924-a7ef-f5194e4d41e8",
             "0452ca17-ad17-4925-99f4-a97370f8f3a7"
-          ],
-          "displayItems": [
-            {
-              "uuid": "0ae52793-9978-4ff7-9e09-1127e58d5924",
-              "title": "Coco pho with chicken",
-              "itemDescription": "Ginger root, lemongrass, coconut milk, chicken fillet, chicken broth, rice, soy sprouts, pumpkin seeds, and chili peppers.",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d28e1d12-0dec-41b9-b5ec-2b4aeee2b2ae"
-            },
-            {
-              "uuid": "4679f3ef-ff07-4924-a7ef-f5194e4d41e8",
-              "title": "Coco pho with tofu",
-              "itemDescription": "Spinach, pumpkin seeds, marinated tofu, rice, lemongrass, coconut milk, ginger, and lime leaves.",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9976de14-5991-4ada-87df-96e4522c2db2"
-            },
-            {
-              "uuid": "0452ca17-ad17-4925-99f4-a97370f8f3a7",
-              "title": "Pho with sea perch",
-              "itemDescription": "Chili peppers, ginger root, soy sprouts, sea bass, rice noodles, and pickled mushrooms.",
-              "price": 8500
-            }
           ]
         },
         {
@@ -707,67 +487,6 @@
             "dcf5dbdd-4b7e-4107-a849-c922a0665ee6",
             "14d16b4a-dc2c-425f-896c-27b2a5a401ae",
             "344fdaa2-1f1c-4e87-9a73-76c605e2a771"
-          ],
-          "displayItems": [
-            {
-              "uuid": "72c1ef64-6f0f-48d6-a8fd-b29b685882a3",
-              "title": "Chicken balls wrap",
-              "itemDescription": "Tortilla, bechamel sauce, tomato sauce, onion, chicken meatballs, and sulguni cheese.",
-              "price": 8500
-            },
-            {
-              "uuid": "63692a8d-b0c8-4026-89be-4f10b4f3caf7",
-              "title": "Mexican wrap",
-              "itemDescription": "Bell pepper, red bean, leek, bolognese sauce, soy meatballs, tofu, and spinach.",
-              "price": 8500
-            },
-            {
-              "uuid": "8ed737cd-117b-4120-b8dc-c37117dab6b1",
-              "title": "Veganeze wrap",
-              "itemDescription": "Tortilla, leek, spinach, corn, bolognese sauce, tofu, and baked falafel.",
-              "price": 8000
-            },
-            {
-              "uuid": "b79e67f0-9b8f-48c3-bd52-48872e31b0fe",
-              "title": "Asian wrap",
-              "itemDescription": "Tortilla, tofu, romaine lettuce, asparagus, sesame oil, and beans.",
-              "price": 8000,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "78c377e2-9128-4aff-b6f6-50e506446adf",
-              "title": "Dark knight",
-              "itemDescription": "Feta cheese, egg, spinach, butter, black tortilla, black olives, and green olives.",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1720629a-bf29-4fbd-ac71-b4f58e27e51c"
-            },
-            {
-              "uuid": "09cf72d8-17bb-44a2-bce4-788529771c3a",
-              "title": "Green roll",
-              "itemDescription": "Tortilla, spinach, tofu, bell pepper, eggplant, zucchini, cucumber, peanut sauce, soy sauce, and sunflower oil.",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab653dda-7993-4022-9fa0-5e0603f371af"
-            },
-            {
-              "uuid": "dcf5dbdd-4b7e-4107-a849-c922a0665ee6",
-              "title": "Submarine",
-              "itemDescription": "Rice, nori, iceberg lettuce, tartar sauce, spinach, cucumber, salad, egg, wakame, peanut sauce, sriracha sauce.",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0f71907-7f8b-48bb-9d2a-50e79ffacb25"
-            },
-            {
-              "uuid": "14d16b4a-dc2c-425f-896c-27b2a5a401ae",
-              "title": "Cesaritto",
-              "itemDescription": "Seaweed, iceberg lettuce, spinach, rice, cucumber, tomato, red cabbage, chicken fillet, egg, Caesar sauce, and homemade mayonnaise.",
-              "price": 8500
-            },
-            {
-              "uuid": "344fdaa2-1f1c-4e87-9a73-76c605e2a771",
-              "title": "Sushirrito with falafel",
-              "itemDescription": "Rice, nori seaweed, romaine lettuce, cucumber, honey-mustard sauce, bell pepper, and tomato.",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe0f3678-3a23-401d-b272-9c3ec4074d6f"
-            }
           ]
         },
         {
@@ -779,51 +498,6 @@
             "24e778ef-8700-4cf5-9e97-3f497efc88e0",
             "0cce0d10-54a3-44da-9488-bafccf9a3678",
             "e58b4ec7-8877-47a4-a557-33cbce1c769f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "9c4cb605-c2b9-4c6c-b8c1-c9cfb7bf19fc",
-              "title": "Jambalaya",
-              "itemDescription": "Cream, chicken, chicken broth, bell pepper, bechamel sauce, sriracha sauce, and couscous. To choose from L or XL.",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f36def1-ad12-4584-b708-501e7b43b165",
-              "customizationUuids": [
-                "758fdcf7-a839-4f6c-9d63-e74592119b19"
-              ]
-            },
-            {
-              "uuid": "4a434106-9c10-49aa-b3b4-077f991952c2",
-              "title": "Wok with sea bass",
-              "itemDescription": "Sea bass, caramelized pumpkin, Thai sauce to fish, rice, sesame, onion, beans, spinach, and chili pepper. To choose from L or XL.",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/26c2eb03-ac12-4e3a-abc7-e9412f4af775",
-              "customizationUuids": [
-                "e713d8c2-7d08-444c-be93-47e2635c7ee5"
-              ]
-            },
-            {
-              "uuid": "24e778ef-8700-4cf5-9e97-3f497efc88e0",
-              "title": "Wok with turkey",
-              "itemDescription": "Turkey fillet, bell pepper, pumpkin bean, soy seeds, onions, rice noodles, and oyster sauce. To choose from L or XL.",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d0492bf-3823-434a-b941-f4b347b1d819",
-              "customizationUuids": [
-                "6d5751b9-af87-4feb-bdd1-5b52a288c0de"
-              ]
-            },
-            {
-              "uuid": "0cce0d10-54a3-44da-9488-bafccf9a3678",
-              "title": "Wok with falafel",
-              "itemDescription": "Falafel, bulgur, Asian coconut sauce, onion, soy sprouts, green beans, and bell peppers.",
-              "price": 8000
-            },
-            {
-              "uuid": "e58b4ec7-8877-47a4-a557-33cbce1c769f",
-              "title": "Sabzi with falafel",
-              "itemDescription": "Falafel, lentil garnish (onion, beans, celery, canned beans, and carrots).",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7937c412-fba2-49c8-bea2-0dd6418b891b"
-            }
           ]
         },
         {
@@ -835,40 +509,6 @@
             "602ff15a-57a9-443c-8b94-c5f8f91d974f",
             "0e4dfe71-d9f0-4068-bbef-e522d12026da",
             "00bad5b3-3ca8-458c-a17f-e7bdd005ae7e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "2bd1e913-c74d-4e7c-91a9-81fbefcb3e46",
-              "title": "Chocolate trifle",
-              "itemDescription": "Cherry, chocolate biscuit, chocolate cream, and mint.",
-              "price": 4500
-            },
-            {
-              "uuid": "035fdfef-e5a3-454a-99a8-e944dde71092",
-              "title": "Hazelnut brownie",
-              "itemDescription": "Dark chocolate, butter, egg, sugar, flour, and hazelnuts.",
-              "price": 6500
-            },
-            {
-              "uuid": "602ff15a-57a9-443c-8b94-c5f8f91d974f",
-              "title": "Chia mango",
-              "itemDescription": "Coconut milk, chia seeds, mango, sugar, and mint.",
-              "price": 7000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/52929f5b-b1ee-4d00-8cec-34420347f513"
-            },
-            {
-              "uuid": "0e4dfe71-d9f0-4068-bbef-e522d12026da",
-              "title": "Coconut lemon cake",
-              "itemDescription": "Coconut milk, lemon, sunflower oil, flour, sugar, and coconut.",
-              "price": 5000
-            },
-            {
-              "uuid": "00bad5b3-3ca8-458c-a17f-e7bdd005ae7e",
-              "title": "Carrot cake with hazelnuts",
-              "itemDescription": "Carrots, flour, ginger, cinnamon, ginger, sunflower oil, and hazelnuts.",
-              "price": 4000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a846740d-1566-46f5-935a-6022f85ad858"
-            }
           ]
         },
         {
@@ -879,32 +519,6 @@
             "a3dfc774-4355-4dd1-9a44-020c35277357",
             "4f930dd2-2346-4d67-813f-36082a7b2960",
             "8824fa76-bca8-4173-b333-e67971b6f9ee"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c8a682f3-5877-468e-bbc0-47a08675af8b",
-              "title": "Olive oil",
-              "itemDescription": "",
-              "price": 1000
-            },
-            {
-              "uuid": "a3dfc774-4355-4dd1-9a44-020c35277357",
-              "title": "Soy sauce",
-              "itemDescription": "",
-              "price": 1000
-            },
-            {
-              "uuid": "4f930dd2-2346-4d67-813f-36082a7b2960",
-              "title": "Peanut sauce",
-              "itemDescription": "",
-              "price": 1000
-            },
-            {
-              "uuid": "8824fa76-bca8-4173-b333-e67971b6f9ee",
-              "title": "Honey mustard sauce",
-              "itemDescription": "",
-              "price": 1000
-            }
           ]
         }
       ]

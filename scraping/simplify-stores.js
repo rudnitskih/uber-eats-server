@@ -17,16 +17,9 @@ fs.readdir(dirname, function (err, filenames) {
 });
 
 function processFile(filePath, data) {
-  const sections = data.sections;
-  const mainSection = sections.find(({title}) => title.toLowerCase().includes('eng') || title.includes('Menu') );
-
-  sections.forEach((section) => {
-    if (section !== mainSection) {
-      delete data.sectionEntitiesMap[section.uuid];
-    }
+  Object.values(data.sectionEntitiesMap)[0].decoratedSubsections.forEach((decoratedSubsection) => {
+    delete decoratedSubsection.displayItems;
   });
-
-  data.sections = [mainSection];
 
   const rawdata = JSON.stringify({...data}, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {

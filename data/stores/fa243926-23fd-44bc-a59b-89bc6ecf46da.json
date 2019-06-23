@@ -406,20 +406,6 @@
           "itemUuids": [
             "82aef5a4-9a76-475b-a8e8-cb5505be38bd",
             "8a6f282b-749f-4e15-91e5-0f35d7488025"
-          ],
-          "displayItems": [
-            {
-              "uuid": "82aef5a4-9a76-475b-a8e8-cb5505be38bd",
-              "title": "Lentil soup",
-              "itemDescription": "250g.",
-              "price": 7500
-            },
-            {
-              "uuid": "8a6f282b-749f-4e15-91e5-0f35d7488025",
-              "title": "Dushpara",
-              "itemDescription": "250g.",
-              "price": 8000
-            }
           ]
         },
         {
@@ -430,33 +416,6 @@
             "6843b3c8-5704-4350-a234-04f49e31f6b9",
             "cec421eb-c310-496d-9ee9-e94356b35fe2",
             "7a2aade2-712d-4193-8cf6-e8ab180f961f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "dd77fe79-d81a-4ac2-bc8e-44380944ab03",
-              "title": "Diet chicken salad",
-              "itemDescription": "Lettuce, grilled chicken breast, sweet pepper, cucumber, tomato, and pomegranate sauce (300g).",
-              "price": 12500
-            },
-            {
-              "uuid": "6843b3c8-5704-4350-a234-04f49e31f6b9",
-              "title": "Salad with tender lamb",
-              "itemDescription": "Marinated lamb, lettuce, sweet pepper, cucumber, tomato, and pomegranate sauce (300g).",
-              "price": 14000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/491c0d6d-0d6e-4440-bea2-24895ada5dcf"
-            },
-            {
-              "uuid": "cec421eb-c310-496d-9ee9-e94356b35fe2",
-              "title": "Choban salad",
-              "itemDescription": "Tomatoes, cucumbers, onions, green pepper, parsley, olive oil, and lemon sauce (300g).",
-              "price": 8500
-            },
-            {
-              "uuid": "7a2aade2-712d-4193-8cf6-e8ab180f961f",
-              "title": "\"Gavurdagy” salad",
-              "itemDescription": "Tomato, cucumber, walnut, sumac, onions, parsley, and pomegranate sauce (300g).",
-              "price": 8500
-            }
           ]
         },
         {
@@ -471,57 +430,6 @@
             "f0fa3914-5140-48cc-8c1a-0df160ce8573",
             "07650c13-6f44-4697-8501-fb8ee2c1911e",
             "7088a1fb-7afb-4e06-af38-a4c0d999c93f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "dabdfbda-da48-4beb-ac4c-c436bcebc01e",
-              "title": "Pide with minced meat",
-              "itemDescription": "Ground beef, tomatoes, onions, parsley, and green pepper (300g).",
-              "price": 13000
-            },
-            {
-              "uuid": "8b6247f4-160d-4871-8fba-77cea3df1b88",
-              "title": "Pide with minced meat and cheese",
-              "itemDescription": "Ground beef, tomatoes, onions, parsley, green pepper, and cheese (300g).",
-              "price": 14000
-            },
-            {
-              "uuid": "2f091af9-7769-42b4-815f-f090fa18261f",
-              "title": "Pide with meat",
-              "itemDescription": "Tenderloin, tomatoes, parsley, and green pepper (300g).",
-              "price": 14000
-            },
-            {
-              "uuid": "6ef4237e-6f4b-4c48-9755-37697b3a5b91",
-              "title": "Pide with meat and cheese",
-              "itemDescription": "Tenderloin, tomatoes, parsley, green pepper, and cheese (300g).",
-              "price": 15000
-            },
-            {
-              "uuid": "f2afd919-5909-416b-acdd-75d40151a5db",
-              "title": "Pide with spinach and cheese",
-              "itemDescription": "Spinach, onions, and feta cheese (300g).",
-              "price": 13500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa417a90-8219-410f-aff5-4456cae379a0"
-            },
-            {
-              "uuid": "f0fa3914-5140-48cc-8c1a-0df160ce8573",
-              "title": "Lahmacun",
-              "itemDescription": "Ground beef, tomatoes, onions, parsley, green pepper, and lemon (150g).",
-              "price": 8000
-            },
-            {
-              "uuid": "07650c13-6f44-4697-8501-fb8ee2c1911e",
-              "title": "Lahmacun with cheese",
-              "itemDescription": "150g.",
-              "price": 7500
-            },
-            {
-              "uuid": "7088a1fb-7afb-4e06-af38-a4c0d999c93f",
-              "title": "Lahmacun with nuts",
-              "itemDescription": "Ground beef, tomatoes, onions, parsley, green pepper, walnuts, and lemon (150g).",
-              "price": 8500
-            }
           ]
         },
         {
@@ -551,150 +459,6 @@
             "09210de7-d9ed-4928-bf2c-0934ee5ec90f",
             "b577915f-6e55-46b7-a5d8-30ccbfcdd6e7",
             "5e4f26da-e332-4abf-849e-8adf5701e091"
-          ],
-          "displayItems": [
-            {
-              "uuid": "dc9f82f3-04a3-4ee1-a8ff-4871eb0bd32c",
-              "title": "Lamb chop steak",
-              "itemDescription": "500g.",
-              "price": 27000
-            },
-            {
-              "uuid": "4eff801f-3225-4700-9777-7f6bda05d8b5",
-              "title": "The lamb on the grill",
-              "itemDescription": "Grilled slices of marinated lamb, rice, onion, and grilled vegetables (500g).",
-              "price": 26500
-            },
-            {
-              "uuid": "9a1709d1-86f3-4b8e-9967-b25cca2217a2",
-              "title": "Grilled cutlets",
-              "itemDescription": "Grilled beef cutlets, onion, chips, tomato, and hot pepper cooked on brazier (400g).",
-              "price": 23500
-            },
-            {
-              "uuid": "f891f490-d342-4005-9385-1fc16c0d6311",
-              "title": "Beef entrecote",
-              "itemDescription": "Grilled beef entrecote, fried potato, tomatoes, and pepper (500g).",
-              "price": 33000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c26f3f8-88eb-4e0d-a479-bbd3b81b9bf9"
-            },
-            {
-              "uuid": "c17ae75a-46c9-45d1-82c4-663636b925e9",
-              "title": "Beefsteak",
-              "itemDescription": "Veal chops, aubergine sauce, and vegetables grilled (400g).",
-              "price": 27000
-            },
-            {
-              "uuid": "d6040ec8-b8cb-48c1-ba4c-baf9e4873941",
-              "title": "“Das” Kebab",
-              "itemDescription": "Lamb wrapped in curls, fried tomatoes, peppers, eggplant, roasted with cheddar cheese, potato chips, onions, tomatoes and peppers, cooked, and barbecue (400g).",
-              "price": 28000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0606e5b6-b61e-4bd3-809c-59dd555ec970"
-            },
-            {
-              "uuid": "25d39bb1-3bfa-4e93-90fa-6c89bd6c5cd1",
-              "title": "Skewers of lamb",
-              "itemDescription": "400g.",
-              "price": 27000
-            },
-            {
-              "uuid": "ec89e704-13fb-47fd-b7d8-6e26aedd7eca",
-              "title": "Chicken legs",
-              "itemDescription": "400g.",
-              "price": 21000
-            },
-            {
-              "uuid": "c7890856-095a-4daa-8f20-a5bd503b0a67",
-              "title": "Chicken barbeque",
-              "itemDescription": "400g.",
-              "price": 21000
-            },
-            {
-              "uuid": "14f2c168-89f6-4bda-a24b-ef5342f41408",
-              "title": "Chicken fillet on the grill",
-              "itemDescription": "400g.",
-              "price": 23500
-            },
-            {
-              "uuid": "257241d7-ca0f-4749-a58d-4f04bdb92731",
-              "title": "Lamb on skewers",
-              "itemDescription": "Lamb, bulgur, onion, tomato, pepper, and pita (500g).",
-              "price": 27000
-            },
-            {
-              "uuid": "faae771b-fe45-4113-90b3-9501b32cc61e",
-              "title": "Skewers of mutton ribs",
-              "itemDescription": "Lamb ribs, bulgur, onions, tomatoes, and peppers (400g).",
-              "price": 21500
-            },
-            {
-              "uuid": "d672146f-e2c0-4f10-9a2e-4d552a08e9bb",
-              "title": "Skewers of lamb lung",
-              "itemDescription": "Lamb lungs, kurdjuk, bulgur, onions, tomatoes, peppers, and pita (400g).",
-              "price": 21500
-            },
-            {
-              "uuid": "67a39beb-dcf0-4ff2-9a2f-648601bf6b83",
-              "title": "“Adana” kebab",
-              "itemDescription": "400g.",
-              "price": 22500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/45b683b9-c7b4-4ce5-b7cc-f18dad7718d3"
-            },
-            {
-              "uuid": "2046c8eb-52bc-46c3-bcf5-fede0eef579f",
-              "title": "“Urfa” kebab",
-              "itemDescription": "400g.",
-              "price": 22500
-            },
-            {
-              "uuid": "c5d97636-9c61-4077-a6f2-c9e8f0257715",
-              "title": "Adanli Halil",
-              "itemDescription": "Hot kebab with sujuk, beef, and special salad (400g).",
-              "price": 27000
-            },
-            {
-              "uuid": "457b5799-99bc-4404-8d80-8f48de5b1ff1",
-              "title": "Lamb kebab with pistachios",
-              "itemDescription": "400g.",
-              "price": 26000
-            },
-            {
-              "uuid": "91ac9865-5036-4ae8-9974-89bfc4015423",
-              "title": "Dash Kulbaste",
-              "itemDescription": "Veal, rice, tomato, hot pepper, garlic, and tender vegetable sauce (400g).",
-              "price": 28000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ff30632-5558-4976-884b-0186087f8166"
-            },
-            {
-              "uuid": "69c04830-4bf2-4033-98e5-c6647c71fb57",
-              "title": "Kebab with yogurt",
-              "itemDescription": "Calf caraway, sliced bread, yogurt, tomato, pepper, and butter (500g).",
-              "price": 20500
-            },
-            {
-              "uuid": "48cbe3b2-19db-4a48-9435-8342ad8af4ac",
-              "title": "Karski’s lamb",
-              "itemDescription": "Lamb chops, aubergine sauce with garlicand yogurt, and grilled vegetables (400g).",
-              "price": 28000
-            },
-            {
-              "uuid": "09210de7-d9ed-4928-bf2c-0934ee5ec90f",
-              "title": "Alinazik",
-              "itemDescription": "Skewers of lamb, eggplant, garlic yogurt, grilled peppers and tomatoes, chili powder, and butter (500g). ",
-              "price": 23500
-            },
-            {
-              "uuid": "b577915f-6e55-46b7-a5d8-30ccbfcdd6e7",
-              "title": "Chicken wings",
-              "itemDescription": "Chicken wings, tomatoes, peppers, rice, fries, and lavash (500g).",
-              "price": 26000
-            },
-            {
-              "uuid": "5e4f26da-e332-4abf-849e-8adf5701e091",
-              "title": "Ezme kebab",
-              "itemDescription": "Lamb meat, onions, garlic, hot peppers, and tomatoes (500g).",
-              "price": 23500
-            }
           ]
         },
         {
@@ -704,30 +468,6 @@
             "555f894b-de21-4bff-b8cd-e177e07b1ab0",
             "1b5dc2cb-5b1e-4669-9917-b02614e68b6f",
             "ddec2acb-d729-455c-8f32-c97e022c87ad"
-          ],
-          "displayItems": [
-            {
-              "uuid": "555f894b-de21-4bff-b8cd-e177e07b1ab0",
-              "title": "“Saj ichi” of lamb and chicken",
-              "itemDescription": "Lamb and chicken, tomatoes, peppers, onions, garlic, mushrooms, and pita bread (400g).",
-              "price": 27000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/77c1a1bf-d37f-47ee-b7e8-65a287ee24ec",
-              "customizationUuids": [
-                "aa49d679-37ec-46f8-ab7d-7d2b414007aa"
-              ]
-            },
-            {
-              "uuid": "1b5dc2cb-5b1e-4669-9917-b02614e68b6f",
-              "title": "Giblets in a pan",
-              "itemDescription": "Lamb liver, lungs and heart, onions, vegetables, and pita bread (400g).",
-              "price": 26000
-            },
-            {
-              "uuid": "ddec2acb-d729-455c-8f32-c97e022c87ad",
-              "title": "Chicken with Tarhun",
-              "itemDescription": "Chicken legs, tomatoes, peppers, rice, fries, and tarkhun (350g).",
-              "price": 22500
-            }
           ]
         },
         {
@@ -738,32 +478,6 @@
             "b9999d3d-6026-4f48-9a8c-8a8d0750d97c",
             "2139d5b5-767c-43ba-a55d-eb6dbf2fcb26",
             "37742670-0498-4f12-9700-c778aa2b6946"
-          ],
-          "displayItems": [
-            {
-              "uuid": "65596fa8-e6b1-4905-b51c-187b4de20149",
-              "title": "Grilled seabass",
-              "itemDescription": "Grilled seabass, mix vegetables, red onion, and lemon (400g).",
-              "price": 38000
-            },
-            {
-              "uuid": "b9999d3d-6026-4f48-9a8c-8a8d0750d97c",
-              "title": "Barbecue salmon",
-              "itemDescription": "Salmon, French fries, tomato, bell pepper, rice, and lolo rosso (400g).",
-              "price": 35000
-            },
-            {
-              "uuid": "2139d5b5-767c-43ba-a55d-eb6dbf2fcb26",
-              "title": "Grilled salmon",
-              "itemDescription": "Grilled salmon with roasted seasonal vegetables (400g).",
-              "price": 34000
-            },
-            {
-              "uuid": "37742670-0498-4f12-9700-c778aa2b6946",
-              "title": "Dorado on the grill",
-              "itemDescription": "Dorado, cherry tomatoes, lolo rosso, lemon, broccoli, cauliflower, and carrots (400g).",
-              "price": 38000
-            }
           ]
         },
         {
@@ -773,26 +487,6 @@
             "31b8285c-a33b-4e8e-8118-64f725b9ba1c",
             "fa783147-3659-4f29-924e-f95dbfa001a6",
             "06bb859c-ad22-4c8a-b61c-87ab33b45bdd"
-          ],
-          "displayItems": [
-            {
-              "uuid": "31b8285c-a33b-4e8e-8118-64f725b9ba1c",
-              "title": "Rice pudding",
-              "itemDescription": "150g.",
-              "price": 8000
-            },
-            {
-              "uuid": "fa783147-3659-4f29-924e-f95dbfa001a6",
-              "title": "Kunefe",
-              "itemDescription": "250g.",
-              "price": 13500
-            },
-            {
-              "uuid": "06bb859c-ad22-4c8a-b61c-87ab33b45bdd",
-              "title": "Baklava with pistachios",
-              "itemDescription": "150g.",
-              "price": 13000
-            }
           ]
         },
         {
@@ -808,65 +502,6 @@
             "92440c9b-2b30-4269-b2e5-4818a344e845",
             "a65b0921-a8b8-4d75-aee8-a71a5a09bb57",
             "75d794a6-9994-4761-a3e8-0a137a9dd9fb"
-          ],
-          "displayItems": [
-            {
-              "uuid": "50b16f0c-f942-4e6d-acb1-1089a0a130f9",
-              "title": "Coca-Cola",
-              "itemDescription": "250ml.",
-              "price": 3700
-            },
-            {
-              "uuid": "8b7ec862-9ea2-4296-8656-69271d4a9556",
-              "title": "Fanta",
-              "itemDescription": "250ml.",
-              "price": 3700
-            },
-            {
-              "uuid": "f0cd27d5-7ff9-40d6-9183-8f043e9a7829",
-              "title": "Sprite",
-              "itemDescription": "250мл.",
-              "price": 3700
-            },
-            {
-              "uuid": "029551ec-b6cd-426b-b607-2081e2427fcc",
-              "title": "Bonaqua",
-              "itemDescription": "Still or sparkling water (330ml).",
-              "price": 3700,
-              "customizationUuids": [
-                "9bad8013-148d-4b5b-9e71-0e5a3cb1f69d"
-              ]
-            },
-            {
-              "uuid": "a5a04650-a7f8-4b3e-b139-39470bf33eeb",
-              "title": "Borjomi",
-              "itemDescription": "330мл.",
-              "price": 5500
-            },
-            {
-              "uuid": "a1e98ad8-de28-4e73-8b5c-a2b2df9a7e41",
-              "title": "Ayran",
-              "itemDescription": "250мл.",
-              "price": 3500
-            },
-            {
-              "uuid": "92440c9b-2b30-4269-b2e5-4818a344e845",
-              "title": "Salgam",
-              "itemDescription": "330ml.",
-              "price": 7700
-            },
-            {
-              "uuid": "a65b0921-a8b8-4d75-aee8-a71a5a09bb57",
-              "title": "Nestea",
-              "itemDescription": "500ml.",
-              "price": 4400
-            },
-            {
-              "uuid": "75d794a6-9994-4761-a3e8-0a137a9dd9fb",
-              "title": "Sirma",
-              "itemDescription": "330мл.",
-              "price": 5000
-            }
           ]
         }
       ]

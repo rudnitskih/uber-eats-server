@@ -299,26 +299,6 @@
             "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
             "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
             "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361"
-          ],
-          "displayItems": [
-            {
-              "uuid": "a8cd0aab-0eed-444d-93f2-e8bb594a0ac8",
-              "title": "Kharcho with veal",
-              "itemDescription": "Soup with veal, rice, and herbs",
-              "price": 9000
-            },
-            {
-              "uuid": "675d4173-c63f-4bc0-99d1-ca6c02a2554b",
-              "title": "Chicken broth",
-              "itemDescription": "Broth with chicken, handmade noodles and egg",
-              "price": 8400
-            },
-            {
-              "uuid": "2a09b2f1-dcfb-4f46-a438-a9a5a6a2d361",
-              "title": "Vegetable soup",
-              "itemDescription": "Soup with eight kinds of vegetables",
-              "price": 7500
-            }
           ]
         },
         {
@@ -328,26 +308,6 @@
             "812c71f4-3854-4105-b63a-6208b541c9e2",
             "286e9ed5-8fbe-4867-99d3-2f13645876df",
             "ba1bd79b-8231-4c61-aaaa-919c59efda4e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "812c71f4-3854-4105-b63a-6208b541c9e2",
-              "title": "Vake salad",
-              "itemDescription": "Salad with chiken fillet, champignons, fresh vegetables and cured cranberry",
-              "price": 11800
-            },
-            {
-              "uuid": "286e9ed5-8fbe-4867-99d3-2f13645876df",
-              "title": "Tbilisi salad",
-              "itemDescription": "Fresh vegetables with onion and walnut paste.",
-              "price": 11200
-            },
-            {
-              "uuid": "ba1bd79b-8231-4c61-aaaa-919c59efda4e",
-              "title": "Urban salad",
-              "itemDescription": "Roasted vegetables with walnut paste and fresh coriander.",
-              "price": 12100
-            }
           ]
         },
         {
@@ -358,32 +318,6 @@
             "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
             "c567265c-73ed-4d2c-9071-37e635089561",
             "6c784003-1e5a-448f-abec-2f4fb0f64f26"
-          ],
-          "displayItems": [
-            {
-              "uuid": "61478c36-7c49-4349-ab26-03472210b01f",
-              "title": "Avlabari dolma",
-              "itemDescription": "Beef and pork with rice wrapped in grape leaf",
-              "price": 16000
-            },
-            {
-              "uuid": "ff88c1b5-ccbd-4df1-a8a2-3ec8b3269b0f",
-              "title": "Chanakhi",
-              "itemDescription": "pork roast with vegetables in tomato sauce",
-              "price": 10800
-            },
-            {
-              "uuid": "c567265c-73ed-4d2c-9071-37e635089561",
-              "title": "Chicken tapaka",
-              "itemDescription": "Roasted chicken with adjika",
-              "price": 20800
-            },
-            {
-              "uuid": "6c784003-1e5a-448f-abec-2f4fb0f64f26",
-              "title": "Didube odzhahuri",
-              "itemDescription": "Pork roast with potatoes, onion and garlic",
-              "price": 12300
-            }
           ]
         },
         {
@@ -393,28 +327,6 @@
             "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
             "b4162bce-ef32-424c-8054-5770a992b12f",
             "4d1950a5-abba-4d1d-9195-03a9583562d7"
-          ],
-          "displayItems": [
-            {
-              "uuid": "15e08d06-f388-4a40-a92a-c5cb43c6fd49",
-              "title": "Napoleon cake",
-              "itemDescription": "",
-              "price": 9000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4adf9e74-d3e8-487f-bedc-4b4b3c2e4307"
-            },
-            {
-              "uuid": "b4162bce-ef32-424c-8054-5770a992b12f",
-              "title": "Donut",
-              "itemDescription": "Tbilisi donut with custard ",
-              "price": 6400,
-              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/34c1e4335e3f66cf485103a2f6f19efa"
-            },
-            {
-              "uuid": "4d1950a5-abba-4d1d-9195-03a9583562d7",
-              "title": "Baklava",
-              "itemDescription": "Baklava with walnuts,honey and cinnamon",
-              "price": 8500
-            }
           ]
         },
         {
@@ -424,26 +336,6 @@
             "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
             "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
             "308c81c0-8dfd-489c-9445-52e2b8caf0c6"
-          ],
-          "displayItems": [
-            {
-              "uuid": "99622a32-fa02-4a9c-b78a-6aaf68ff7307",
-              "title": "Khinkali with lamb",
-              "itemDescription": "Khinkali with lamb and cilantro (4pc.)",
-              "price": 7600
-            },
-            {
-              "uuid": "43d09d9b-be38-4ba6-b13a-4c4dd4f4d299",
-              "title": "Khinkali with mix of beef and pork",
-              "itemDescription": "Khinkali with mix of beef and pork, with cilanto (4pc.)",
-              "price": 7600
-            },
-            {
-              "uuid": "308c81c0-8dfd-489c-9445-52e2b8caf0c6",
-              "title": "Khinkali with cheese",
-              "itemDescription": "Khinkali with cheese suluguni (4 pc.)",
-              "price": 7200
-            }
           ]
         },
         {
@@ -453,26 +345,6 @@
             "375233bf-5772-4e47-9668-a6882b1eb82b",
             "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
             "eb4972f9-4b53-49d4-bac9-0a35c69da455"
-          ],
-          "displayItems": [
-            {
-              "uuid": "375233bf-5772-4e47-9668-a6882b1eb82b",
-              "title": "Pkhali mix",
-              "itemDescription": "Snack on the basis of vegetables (green lobio, carrot, beetroot, spinach) with with walnut paste and cilantro",
-              "price": 10700
-            },
-            {
-              "uuid": "0e1d7654-1ef8-4212-96bf-e5c7a8540e1a",
-              "title": "Fried badrijani",
-              "itemDescription": "Fried eggplants with walnut paste ",
-              "price": 12200
-            },
-            {
-              "uuid": "eb4972f9-4b53-49d4-bac9-0a35c69da455",
-              "title": "Tbili zucchini",
-              "itemDescription": "Fried zucchini with fresh tomato and mayo",
-              "price": 12300
-            }
           ]
         },
         {
@@ -486,50 +358,6 @@
             "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
             "599dec63-2256-4935-8671-e8e48033a4d7",
             "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa"
-          ],
-          "displayItems": [
-            {
-              "uuid": "995ec41e-7c5e-4ecf-8970-b456e012bb0d",
-              "title": "Kubdari",
-              "itemDescription": "Pie with beef",
-              "price": 13500
-            },
-            {
-              "uuid": "2cb2f097-fba9-4d3f-bb21-922cd2dd3050",
-              "title": "Tbilisuri khachapuri",
-              "itemDescription": "Khachapuri with tripple suluguni cheese",
-              "price": 19000
-            },
-            {
-              "uuid": "58eee4bd-d2a8-42e3-b36f-29696a9124af",
-              "title": "Megruli khachapuri",
-              "itemDescription": "Khachapuri with double suluguni cheese",
-              "price": 14200
-            },
-            {
-              "uuid": "c7a83f21-de89-4077-9d00-b8a1b159fe7c",
-              "title": "Imeruli khachapuri",
-              "itemDescription": "Khachapuri with suluguni cheese",
-              "price": 13500
-            },
-            {
-              "uuid": "c990a3c0-298b-45fb-bb4f-d3830881ceb2",
-              "title": "Ossetian khachapuri",
-              "itemDescription": "Khachapuri with suluguni cheese and spinach",
-              "price": 11400
-            },
-            {
-              "uuid": "599dec63-2256-4935-8671-e8e48033a4d7",
-              "title": "Adjaruli khachapuri",
-              "itemDescription": "Khachapuri with suluguni cheese and yolk",
-              "price": 14000
-            },
-            {
-              "uuid": "cbdbf6b5-dce8-42e9-aae6-b920ebb88caa",
-              "title": "Lazuri khachapuri",
-              "itemDescription": "Pie with beef, smoked suluguni cheese and tomatoes",
-              "price": 17900
-            }
           ]
         },
         {
@@ -538,20 +366,6 @@
           "itemUuids": [
             "03b08417-83cb-4be9-975c-4affb1eac981",
             "9fc9abb6-f7c1-4821-bd88-8c265e3d9866"
-          ],
-          "displayItems": [
-            {
-              "uuid": "03b08417-83cb-4be9-975c-4affb1eac981",
-              "title": "Baked potatoes",
-              "itemDescription": "Baked potatoes with garlic and green",
-              "price": 5200
-            },
-            {
-              "uuid": "9fc9abb6-f7c1-4821-bd88-8c265e3d9866",
-              "title": "French fries",
-              "itemDescription": "French fries with ketchup",
-              "price": 5600
-            }
           ]
         },
         {
@@ -564,45 +378,6 @@
             "c75b070f-ad16-418d-ab9f-b6f6e322a860",
             "172c6650-5f44-483f-b35c-b615f0b474be",
             "76aa2919-9e93-4887-8f2b-6af958f75908"
-          ],
-          "displayItems": [
-            {
-              "uuid": "bfd52c86-06f8-452c-a14c-6ba5f74b93e0",
-              "title": "Shashlik from pork shish",
-              "itemDescription": "Pork shish with satsebeli sause (300/50g.) The price is based on the weight of raw meet",
-              "price": 32500,
-              "imageUrl": ""
-            },
-            {
-              "uuid": "3212c033-aea3-47a1-9d1d-b8031e97315f",
-              "title": "Shashlik from pork tenderloin",
-              "itemDescription": "Pork tenderloin with satsebeli sause (250/50г) The price is based on the weight of raw meat",
-              "price": 22300
-            },
-            {
-              "uuid": "7b869bbe-071c-42cb-a262-ac77b27c8383",
-              "title": "Shashlik from chicken",
-              "itemDescription": "Chicken with satsebeli sause (250/50г) The price is based on the weight of raw meat",
-              "price": 20800
-            },
-            {
-              "uuid": "c75b070f-ad16-418d-ab9f-b6f6e322a860",
-              "title": "Kebab of beef",
-              "itemDescription": "Beef kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
-              "price": 18000
-            },
-            {
-              "uuid": "172c6650-5f44-483f-b35c-b615f0b474be",
-              "title": "Kebab of lamb",
-              "itemDescription": "Lamb kebab with satsebeli sause (200/50г) The price is based on the weight of raw meat",
-              "price": 19400
-            },
-            {
-              "uuid": "76aa2919-9e93-4887-8f2b-6af958f75908",
-              "title": "Kebab of turkey and cheese",
-              "itemDescription": "Turkey kebab with cheese and satsebeli sause (200/50г) The price is based on the weight of raw meat",
-              "price": 18000
-            }
           ]
         },
         {
@@ -616,50 +391,6 @@
             "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
             "736b1870-8713-4f45-99a2-952d41625d89",
             "e0446900-895e-4deb-bbe6-0aa302279198"
-          ],
-          "displayItems": [
-            {
-              "uuid": "219343aa-5956-4943-9c34-75abd181a6d1",
-              "title": "Lemonade Natahtari Tarragon 0.5l",
-              "itemDescription": "",
-              "price": 6500
-            },
-            {
-              "uuid": "cc7167b8-9dc9-4515-858e-85066321d5fb",
-              "title": "Lemonade Natahtari Pear 0.5l",
-              "itemDescription": "",
-              "price": 6500
-            },
-            {
-              "uuid": "144d4fc4-3994-457f-8756-5fc7c6a3a8a8",
-              "title": "Lemonade Natahtari Lemon 0.5l",
-              "itemDescription": "",
-              "price": 6500
-            },
-            {
-              "uuid": "80b207eb-29a3-4d67-8274-42244199fae4",
-              "title": "Lemonade Natahtari Saperavi 0.5l",
-              "itemDescription": "",
-              "price": 6500
-            },
-            {
-              "uuid": "f33dbf78-1be6-4ac5-a43f-2b39d2881450",
-              "title": "Lemonade Natahtari Feijoa",
-              "itemDescription": "",
-              "price": 6500
-            },
-            {
-              "uuid": "736b1870-8713-4f45-99a2-952d41625d89",
-              "title": "Borjomi 0.5l",
-              "itemDescription": "",
-              "price": 5800
-            },
-            {
-              "uuid": "e0446900-895e-4deb-bbe6-0aa302279198",
-              "title": "Borjomi 0.3l",
-              "itemDescription": "",
-              "price": 5200
-            }
           ]
         }
       ]

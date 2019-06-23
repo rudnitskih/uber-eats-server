@@ -170,34 +170,6 @@
             "f226d645-8c36-44af-b5d0-984421487738",
             "5dad71b5-4168-401f-9c4c-9f561ee84341",
             "9fe9c0fc-4cea-4c75-82bc-6d492d094dea"
-          ],
-          "displayItems": [
-            {
-              "uuid": "f226d645-8c36-44af-b5d0-984421487738",
-              "title": "Taco with chicken ",
-              "itemDescription": "Corn and wheat tortilla, chicken steak, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
-              "price": 4000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b944fef1-a08d-4332-b853-2d67e5859cb6",
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "5dad71b5-4168-401f-9c4c-9f561ee84341",
-              "title": "Taco with veal ",
-              "itemDescription": "Corn and wheat tortilla, stewed veal, Mexican beans, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
-              "price": 4500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/da042e23-2eec-40cc-aae3-7cdca31a90cd",
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "9fe9c0fc-4cea-4c75-82bc-6d492d094dea",
-              "title": "Taco vegetarian  ",
-              "itemDescription": "Corn and wheat tortilla, Mexican beans, sweet corn grill, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (160g).",
-              "price": 4000,
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -207,30 +179,6 @@
             "99838a20-5da1-4531-9f63-8d2d7115fca0",
             "11ce5daa-04de-4edb-a16c-3890d8743e53",
             "d77efe5e-d6ff-4b8d-b556-9180eec4f720"
-          ],
-          "displayItems": [
-            {
-              "uuid": "99838a20-5da1-4531-9f63-8d2d7115fca0",
-              "title": "Burrito with chicken  ",
-              "itemDescription": "Wheat tortilla, chicken steak, Mexican beans, Mexican rice, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
-              "price": 6000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1f075d0-cbc9-4385-81ee-07ad6edecbd2",
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "11ce5daa-04de-4edb-a16c-3890d8743e53",
-              "title": "Burrito with veal ",
-              "itemDescription": "Wheat tortilla, stewed veal, Mexican beans, Mexican rice, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
-              "price": 7000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "d77efe5e-d6ff-4b8d-b556-9180eec4f720",
-              "title": "Burrito vegetarian ",
-              "itemDescription": "Wheat tortilla, Mexican beans, sweet corn grill, lettuce mix, tomato salsa, greens, cheese mix, and salsa sauce (320g).",
-              "price": 6000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -240,30 +188,6 @@
             "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf",
             "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745",
             "6dfec574-ab31-49b0-a0bc-3903035232b6"
-          ],
-          "displayItems": [
-            {
-              "uuid": "1ed7b89c-e300-4cdd-ae59-fe2fde80abcf",
-              "title": "Quesadilla with cheese ",
-              "itemDescription": "Wheat tortilla, cheese mix, sweet peppers, greens, and salsa sauce (280g).",
-              "price": 6000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "87a8cb03-6d9f-4a60-843d-b6d7ebbc4745",
-              "title": "Quesadilla with chicken   ",
-              "itemDescription": "Wheat tortilla, chicken steak, cheese mix, sweet peppers, greens, and salsa sauce (280g).",
-              "price": 6000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc35780d-d649-430c-a637-962734db7a21",
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "6dfec574-ab31-49b0-a0bc-3903035232b6",
-              "title": "Quesadilla with veal ",
-              "itemDescription": "Wheat tortilla, cheese mix, stewed veal, sweet peppers, greens, and salsa sauce (280g).",
-              "price": 7000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -271,17 +195,6 @@
           "title": "Nachos",
           "itemUuids": [
             "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41"
-          ],
-          "displayItems": [
-            {
-              "uuid": "6bf03c44-8544-41cf-9d82-c1dbc1c2ab41",
-              "title": "Nachos chips with salsa ",
-              "itemDescription": "Corn chips and salsa sauce (70g).",
-              "price": 2500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e4cc052-3a80-41fe-8a89-797700166692",
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -289,16 +202,6 @@
           "title": "Soups",
           "itemUuids": [
             "059f754a-db83-489e-a8cb-e52bf9f24105"
-          ],
-          "displayItems": [
-            {
-              "uuid": "059f754a-db83-489e-a8cb-e52bf9f24105",
-              "title": "Tacos soup ",
-              "itemDescription": "Veal broth, veal, tomato puree, beans, potatoes, corn, greens, cheese, and nachos (350g).",
-              "price": 5000,
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -309,45 +212,6 @@
             "a6efd3a7-4e46-424f-aeac-b453095420d8",
             "00bb17fe-d077-4d7a-a212-24ecd5c87196",
             "7f78f88e-e407-4f6b-8062-095539b0561f"
-          ],
-          "displayItems": [
-            {
-              "uuid": "30ef3952-a2c9-48c5-bb3e-96c917d3e7ff",
-              "title": "Lemonades Limo-Fresh ",
-              "itemDescription": "To choose from tates: mojito, pear or ginger (500ml).",
-              "price": 4000,
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "3bfd92b1-21e8-4de8-92fb-8655fefebbf2"
-              ]
-            },
-            {
-              "uuid": "a6efd3a7-4e46-424f-aeac-b453095420d8",
-              "title": "Coca-Cola",
-              "itemDescription": "To choose from Coca-Cola or dietary Coca-Cola (330ml).",
-              "price": 2500,
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "dc5a244a-36ca-48e8-84c6-19400f27b711"
-              ]
-            },
-            {
-              "uuid": "00bb17fe-d077-4d7a-a212-24ecd5c87196",
-              "title": "Cold tea",
-              "itemDescription": "To choose from gree or black tea (500ml).",
-              "price": 2500,
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "a0d52aa4-2fee-4ac5-8b02-93daffe6557c"
-              ]
-            },
-            {
-              "uuid": "7f78f88e-e407-4f6b-8062-095539b0561f",
-              "title": "Still water",
-              "itemDescription": "500ml.",
-              "price": 2500,
-              "nutritionalInfo": {}
-            }
           ]
         }
       ]

@@ -298,57 +298,6 @@
             "0495a1b2-d90f-439e-a99c-16f2cef66a33",
             "887bd05e-2ddc-4d2b-b1e0-e65e2799c1ad",
             "e9ed6b0e-57bd-4f48-979a-71972f88ab61"
-          ],
-          "displayItems": [
-            {
-              "uuid": "ae727445-1c3b-4304-86ad-e555d811908d",
-              "title": "Udon noodles with chicken, and wood ear mushrooms",
-              "itemDescription": "320g.",
-              "price": 12900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/82c7fcb0-bc1f-4cf6-af61-2f2bff8a14fd",
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "f8a8e705-3376-4901-b52d-b45b93188118",
-              "title": "Udon noodles with vegetables, mushrooms, and soybean sprouts",
-              "itemDescription": "320g.",
-              "price": 12300,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "0495a1b2-d90f-439e-a99c-16f2cef66a33",
-              "title": "Fried rice with duck, peanuts, and vegetables",
-              "itemDescription": "250g.",
-              "price": 12900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d7b78d37-0e50-4f1d-baf6-d11d7b6053cf",
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "887bd05e-2ddc-4d2b-b1e0-e65e2799c1ad",
-              "title": "Fried rice with vegetables, and tofu cheese",
-              "itemDescription": "250g.",
-              "price": 12300,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2c54c8c-3c08-45f0-a313-1a023604117c",
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "e9ed6b0e-57bd-4f48-979a-71972f88ab61",
-              "title": "Chicken, and shrimp pad thai",
-              "itemDescription": "300g.",
-              "price": 15900,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            }
           ]
         },
         {
@@ -359,45 +308,6 @@
             "3e2df73c-69dc-4ae4-8990-74bffcb619a1",
             "16161e3c-e457-4580-9034-1912e3494334",
             "2007a2de-6b40-49f6-9f0a-a8094da36c42"
-          ],
-          "displayItems": [
-            {
-              "uuid": "189e784e-3d9f-4bd6-bd37-81e27874aebb",
-              "title": "Ramen with pork brisket",
-              "itemDescription": "650g.",
-              "price": 14800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e74fbb58-f8f1-43ff-a1b6-0f65f4e68375",
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "3e2df73c-69dc-4ae4-8990-74bffcb619a1",
-              "title": "Ramen with roasted duck breast",
-              "itemDescription": "650g.",
-              "price": 17900,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "16161e3c-e457-4580-9034-1912e3494334",
-              "title": "Ramen with marinated chicken",
-              "itemDescription": "650g.",
-              "price": 13800,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "2007a2de-6b40-49f6-9f0a-a8094da36c42",
-              "title": "Spicy Ramen",
-              "itemDescription": "15g.",
-              "price": 1500,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            }
           ]
         },
         {
@@ -406,22 +316,6 @@
           "itemUuids": [
             "200e9345-be28-4403-870c-0e7994e0af38",
             "3532c191-9cda-4c14-b369-944ec317f7dc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "200e9345-be28-4403-870c-0e7994e0af38",
-              "title": "Chicken wings Lollipops with saucer sauce",
-              "itemDescription": "250/35г.",
-              "price": 14900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "3532c191-9cda-4c14-b369-944ec317f7dc",
-              "title": "Chicken GongBao fried with vegetables",
-              "itemDescription": "300г.",
-              "price": 15900,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -439,124 +333,6 @@
             "e0e7d0bf-e12c-40e4-a83b-aca9332acfaa",
             "859bdae6-9626-402a-a23f-07c2605e6470",
             "35ae415b-4297-4ba5-90f4-887799effa8c"
-          ],
-          "displayItems": [
-            {
-              "uuid": "64d77aa8-4d48-4a2a-a14d-55fd8319cfed",
-              "title": "Smoked coconut shrimps with chilli, and galangal",
-              "itemDescription": "(55/20/10/10g)",
-              "price": 10900,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "bd85c2c1-dfde-40f9-985b-269e64916a1b",
-              "title": "Baby octopus in asian herbs",
-              "itemDescription": "(70/20/10/10g)",
-              "price": 9800,
-              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/03f8fc5dce5449307676427ef2de4e87",
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "b41e0bf3-b172-47b9-834b-79f00285e1ec",
-              "title": "Frog legs",
-              "itemDescription": "(55/20/10/10g)",
-              "price": 6400,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "7c3a5df9-bed3-4932-aeaf-59a6722e9273",
-              "title": "Chicken hearts in chili-garlic sauce",
-              "itemDescription": "(55/20/10/10g)",
-              "price": 4700,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "a35424d2-1f0b-4fc4-a304-f45b841d7e06",
-              "title": "Marinated chicken fillet with lemongrass, and lime leaves",
-              "itemDescription": "(100/20/10/10g)",
-              "price": 6400,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/53d16afe-bef2-4b61-b4fa-9c02cf1026e2",
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "79b7b519-6aff-4ee2-ad15-15609d70c324",
-              "title": "Duck breast in chinese five-spice powder, and plum sauce",
-              "itemDescription": "(80/20/10/10g)",
-              "price": 10900,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "035acf20-afad-4f81-acd2-e7388a504c75",
-              "title": "Pork tenderloin yakitori",
-              "itemDescription": "(65/20/10/10g)",
-              "price": 7200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/eec30b3e-ae6e-423a-9f00-296abb274836",
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "e5a60e30-75d6-45f9-b4b9-4d53473774a6",
-              "title": "BBQ pork brisket",
-              "itemDescription": "(60/20/10/10g)",
-              "price": 8400,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "e0e7d0bf-e12c-40e4-a83b-aca9332acfaa",
-              "title": "Grilled corn with butter, and fish sauce",
-              "itemDescription": "(200/20/10/10g)",
-              "price": 5300,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/772e2377-9768-42ab-a816-80c2ac0bed44",
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "859bdae6-9626-402a-a23f-07c2605e6470",
-              "title": "Pickled tofu cheese",
-              "itemDescription": "(95/20/10/10g)\n",
-              "price": 5700,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/66bedca3-ee10-4119-b69d-e7fd39144ee8",
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            },
-            {
-              "uuid": "35ae415b-4297-4ba5-90f4-887799effa8c",
-              "title": "Vegetables: broccoli, and cauliflower",
-              "itemDescription": "(80/20/10/10g)",
-              "price": 3700,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf",
-                "ac03a59b-7322-49a7-acc8-c08e0af63181"
-              ]
-            }
           ]
         },
         {
@@ -564,15 +340,6 @@
           "title": "Soups",
           "itemUuids": [
             "e61fe41d-375a-4913-b1cc-6f97fbfe3b9b"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e61fe41d-375a-4913-b1cc-6f97fbfe3b9b",
-              "title": "Korean cold soup Kuksi with pickled chicken and funchozy",
-              "itemDescription": "560г.",
-              "price": 12800,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -581,26 +348,6 @@
           "itemUuids": [
             "e652db1c-a229-44a6-a629-fe0efce8debc",
             "7159175b-c990-4588-858a-bd3aff19559e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e652db1c-a229-44a6-a629-fe0efce8debc",
-              "title": "Spicy pickled cabbage kimchi",
-              "itemDescription": "155g.",
-              "price": 6900,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            },
-            {
-              "uuid": "7159175b-c990-4588-858a-bd3aff19559e",
-              "title": "Roasted eggplant, and tofu salad with miso dressing",
-              "itemDescription": "170g.",
-              "price": 9600,
-              "customizationUuids": [
-                "1a130859-570f-4148-9442-4621ddd31bcf"
-              ]
-            }
           ]
         },
         {
@@ -609,21 +356,6 @@
           "itemUuids": [
             "0a380711-a18d-4a6b-8158-42eebba99745",
             "36566199-217f-448c-b439-02b3c9a80090"
-          ],
-          "displayItems": [
-            {
-              "uuid": "0a380711-a18d-4a6b-8158-42eebba99745",
-              "title": "Peanut cheesecake",
-              "itemDescription": "150g.",
-              "price": 9800
-            },
-            {
-              "uuid": "36566199-217f-448c-b439-02b3c9a80090",
-              "title": "Ho Chí Minh City cake",
-              "itemDescription": "120g.",
-              "price": 9800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2874a176-d217-44db-aede-fb17f5c74531"
-            }
           ]
         }
       ]

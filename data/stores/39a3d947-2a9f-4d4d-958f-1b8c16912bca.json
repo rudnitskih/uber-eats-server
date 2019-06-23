@@ -298,104 +298,6 @@
             "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
             "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
             "130f3ea8-fec2-402e-b19d-ac33e772d5f0"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c1776c66-82ae-4607-83ca-0badf11ed9ea",
-              "title": "Focaccia pesto, and parmesan",
-              "itemDescription": "Traditional Italian bread with pesto, and Parmesan (240g).",
-              "price": 18300,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ca2ba05-be51-40c2-a1e1-56a3d8b775ee"
-            },
-            {
-              "uuid": "3fb272e8-5533-4a76-8a27-fd32e7126313",
-              "title": "Pizza Al Faro",
-              "itemDescription": "Mozzarella, tomato sauce, arugula, bresaola, cherry tomatoes, truffle oil, and parmesan cheese (600g).",
-              "price": 32000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c88e1ef5-f5f0-4bf5-88ce-f6a5a3c1c213"
-            },
-            {
-              "uuid": "8bdd04ab-5ddb-4bfa-aeae-71a33ad0584a",
-              "title": "Pizza Margarita",
-              "itemDescription": "Tomato sauce, mozzarella, and basil (450g).",
-              "price": 15500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c063795-2b74-42b9-b9be-8c986b3c231f"
-            },
-            {
-              "uuid": "5d7e8a93-2ccd-41d5-a833-c318e2df604e",
-              "title": "Pizza Prosciutto with mushrooms",
-              "itemDescription": "Tomato sauce, ham, champignons, and mozzarella cheese (500g).",
-              "price": 21000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2be67bf8-2dcf-40d6-af8a-483f6ab0b68f"
-            },
-            {
-              "uuid": "cee66d2f-26ee-4920-bb05-01ccc745b077",
-              "title": "Pizza Diablo",
-              "itemDescription": "Tomato sauce, mozzarella cheese, and spicy salami (450g).",
-              "price": 22000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6731e385-6b09-4227-b32f-64dbef0aa6fb"
-            },
-            {
-              "uuid": "ca9d57fe-da10-4d01-a74b-911c7f59e39f",
-              "title": "Pizza Prosciutto crudo",
-              "itemDescription": "Ricotta, parmesan, mozzarella, and prosciutto crudo (460g).",
-              "price": 23500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c261fcaa-3985-4b14-85fc-61694118f855"
-            },
-            {
-              "uuid": "9298a296-bb6b-4ea3-9ab6-f9cbd28bf3de",
-              "title": "Pizza with wild mushrooms, and Italian cheese",
-              "itemDescription": "Porcini mushrooms, chanterelles, champignons, caciocavallo, mozzarella, and truffle oil (450g).",
-              "price": 29500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/245194f9-5855-4b02-8f44-16f9d1713b26"
-            },
-            {
-              "uuid": "4d1cbec2-0b0c-4a47-ad0a-bc3b1a88c114",
-              "title": "Pizza with prawns, and spinach",
-              "itemDescription": "Ricotta, cream, prawns, and spinach (560g).",
-              "price": 29000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/56059da0-40bb-4987-8662-41305238608b"
-            },
-            {
-              "uuid": "f08896a9-35c6-4b0e-ab74-d632b351af26",
-              "title": "Pizza Four cheese",
-              "itemDescription": "Mozzarella, ricotta, gorgonzola, caciocavallo, and сream (460g).",
-              "price": 24500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa14db6f-36f0-4961-bce6-ff76c3913365"
-            },
-            {
-              "uuid": "496aac2b-5189-4d3d-bcbc-80589363fb43",
-              "title": "Home-made lemonade",
-              "itemDescription": "250ml.",
-              "price": 6500,
-              "nutritionalInfo": {},
-              "customizationUuids": [
-                "295e58c1-6e82-4491-99f9-54a89c8843aa"
-              ]
-            },
-            {
-              "uuid": "e443f561-6f5b-4792-9d42-7b87b37cfd3e",
-              "title": "Alpina",
-              "itemDescription": "Mozzarella, caciocavallo, bacon, smoked ricotta and mushrooms (530g).",
-              "price": 24500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/557bc507-240a-4b6d-ae46-b85a7d52606b",
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "0dd24c03-2cfb-479a-b90d-11d949bff9c5",
-              "title": "Pear & Gorgonzola pizza",
-              "itemDescription": "Cream, mozzarella, gorgonzola and pear (550g).",
-              "price": 25500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d3982f0-74aa-444d-9d80-d6579dc9c894",
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "130f3ea8-fec2-402e-b19d-ac33e772d5f0",
-              "title": "Homemade Italian bread with grissini",
-              "itemDescription": "120 g",
-              "price": 6500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -404,22 +306,6 @@
           "itemUuids": [
             "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
             "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff"
-          ],
-          "displayItems": [
-            {
-              "uuid": "bd7837ad-ebb7-48e4-bed8-733f0e7e3faf",
-              "title": "Business Lunch 1",
-              "itemDescription": "Salad with grilled chicken and vegetables, cream of pumpkin soup, polpette beef and potatoes with delicate ricotta, ciabatta.",
-              "price": 22000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "676e4dea-bd00-4ebe-9c5d-daabe07ee7ff",
-              "title": "Business Lunch 2",
-              "itemDescription": "Salad with mackerel fish and vegetables, chicken broth with meatballs, chicken fillet with muschroom souce, ciabatta.",
-              "price": 22000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -432,50 +318,6 @@
             "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
             "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
             "c39a5b35-63d6-4064-9d1b-2067c2070c30"
-          ],
-          "displayItems": [
-            {
-              "uuid": "addafc80-f803-49cc-a08a-b7c8a0ffd9ec",
-              "title": "Salad with salmon and goat cheese",
-              "itemDescription": "",
-              "price": 23500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "30983f85-77c5-4243-a817-633a3c20252d",
-              "title": "Salad with shrims, avocado and quinoa",
-              "itemDescription": "",
-              "price": 25000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "7e4198fe-d5c7-4365-a287-32582366cdb9",
-              "title": "Caprese salad",
-              "itemDescription": "mozzarella, tomatoes and basil",
-              "price": 17500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "b1b092a4-70b5-4c1a-a96f-598e70b09b30",
-              "title": "Cesarone salad",
-              "itemDescription": "chicken fillet, grilled shrimps, cherry tomatoes served in a crispy focaccia with cerasone sauce",
-              "price": 25500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "71e10d0a-03f5-4e92-81cd-c3132bc1e8fb",
-              "title": "Salad with duck, caramelized pear and berry sauce",
-              "itemDescription": "",
-              "price": 21500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "c39a5b35-63d6-4064-9d1b-2067c2070c30",
-              "title": "Warm salad with beef and baked vegetables",
-              "itemDescription": "",
-              "price": 26500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -489,57 +331,6 @@
             "4be7c573-8abd-424c-8ea0-805c72cc41b4",
             "031294b5-3566-4013-9f8a-08fab35701a3",
             "bf399e1a-2070-4033-8042-1d2030ceb9d2"
-          ],
-          "displayItems": [
-            {
-              "uuid": "13dd15db-6b8e-4c86-adec-9dd83765d1c4",
-              "title": "Pappardelle with shrimps with cream truffle sauce",
-              "itemDescription": "",
-              "price": 26000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "e5e4380a-8a20-4504-b5d1-322a685be147",
-              "title": "Spaghetti carbonara",
-              "itemDescription": "",
-              "price": 18500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "ba1da91b-95e0-40d7-b0b0-9ce832ab6c87",
-              "title": "Tagliatelle with chanterelles mushrooms and rabbit",
-              "itemDescription": "",
-              "price": 23000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "873d458d-64b5-47ba-8b0f-e1c8e4bae061",
-              "title": "Ravioli pasta with wild mushrooms and truffles",
-              "itemDescription": "",
-              "price": 21900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4be7c573-8abd-424c-8ea0-805c72cc41b4",
-              "title": "Lasagna",
-              "itemDescription": "",
-              "price": 18500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "031294b5-3566-4013-9f8a-08fab35701a3",
-              "title": "Lasagna with salmon, spinach and bechamel sauce",
-              "itemDescription": "",
-              "price": 25900,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "bf399e1a-2070-4033-8042-1d2030ceb9d2",
-              "title": "Risotto with white mushrooms and parmesan cheese",
-              "itemDescription": "",
-              "price": 18900,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -552,50 +343,6 @@
             "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
             "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
             "f7098dff-5970-434e-8c39-9495e761faa6"
-          ],
-          "displayItems": [
-            {
-              "uuid": "752ef292-9653-4f4c-8ffc-7053f56e594b",
-              "title": "Tiramisu ",
-              "itemDescription": "",
-              "price": 13000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "d0ee2fb4-acd0-4166-b718-09a9305beb22",
-              "title": "Cheesecake",
-              "itemDescription": "",
-              "price": 13500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "8141fbfd-5e57-49dc-85cf-691bd5d4efc7",
-              "title": "Pear & Apple Strudel",
-              "itemDescription": "",
-              "price": 12000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "6f04f56b-6b97-4773-a0f7-cb967f5f98ac",
-              "title": "Cannoli: crispy pastries with chocolate and vanilla cream ",
-              "itemDescription": "",
-              "price": 13500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "d4d4c8d6-0a45-4018-9451-e39aaadf0821",
-              "title": "Muscular sphere with salted caramel",
-              "itemDescription": "",
-              "price": 13000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "f7098dff-5970-434e-8c39-9495e761faa6",
-              "title": "Napoleon cake",
-              "itemDescription": "",
-              "price": 11000,
-              "nutritionalInfo": {}
-            }
           ]
         }
       ]

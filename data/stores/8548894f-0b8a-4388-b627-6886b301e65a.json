@@ -346,39 +346,6 @@
             "39626eec-5a16-4065-8629-944a9429a5e1",
             "1a949847-f263-4f85-81ec-a3f82b8428e1",
             "32a52dec-2dc4-459d-9fba-d13a44640a27"
-          ],
-          "displayItems": [
-            {
-              "uuid": "3f2ccbb6-c0e2-4e8b-8554-9aeeb50d144c",
-              "title": "Olivier salad",
-              "itemDescription": "cucumber, avocado, mushrooms, zucchini,\ncarrots, green peas, dressing Olivier (200g)",
-              "price": 7500
-            },
-            {
-              "uuid": "e29e17bd-c341-4238-ae91-95aeea204cea",
-              "title": "Wakame seaweed salad with avocado and sesame",
-              "itemDescription": "wakame seaweed, spinach, pickled carrots,\navocado, sunflower oil, Himalayan salt (180g)",
-              "price": 8900
-            },
-            {
-              "uuid": "39626eec-5a16-4065-8629-944a9429a5e1",
-              "title": "Caesar salad raw style",
-              "itemDescription": "lettuce mix, cherry tomatoes, cashew cheese, flax crackers, Pitta sauce(220g)",
-              "price": 8900
-            },
-            {
-              "uuid": "1a949847-f263-4f85-81ec-a3f82b8428e1",
-              "title": "Salad with arugula, cherry, avocado and grapes",
-              "itemDescription": "Iceberg, arugula, grapes, cherry, avocado, cheese cashew cutlet, salad dressing, sprouted black sesame (220g)",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/892aeb10-ed97-443c-a8b1-e3900f7bb393"
-            },
-            {
-              "uuid": "32a52dec-2dc4-459d-9fba-d13a44640a27",
-              "title": "Vitamin salad with avocado and broccoli",
-              "itemDescription": "zucchini, cauliflower, broccoli, corn, avocado, onion, bell pepper, mix green lettuce, sunflower mayonnaise, Himalayan salt (235g)",
-              "price": 9500
-            }
           ]
         },
         {
@@ -389,32 +356,6 @@
             "a887ef12-c500-4894-bad5-c8c5f44a3b2e",
             "14048908-d3e9-413f-8ab9-ae1ded5cd269",
             "15dd969b-05b3-4f32-bce2-f98aff246e1e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c927d533-5459-4580-a387-526015436bfe",
-              "title": "Assorted bruschetta",
-              "itemDescription": "Spicy crispbread, hummus, cucumber, cherry, dried mushroom & tomato, cashew cheese, basil, arugula, olive, Pesto sauce, cashew mayonnaise, pine nuts (190g)",
-              "price": 8900
-            },
-            {
-              "uuid": "a887ef12-c500-4894-bad5-c8c5f44a3b2e",
-              "title": "Nachos with guacomole",
-              "itemDescription": "Guacamole from avocados, tomatoes, kenza, onions. Served with Nachos (200g)",
-              "price": 9500
-            },
-            {
-              "uuid": "14048908-d3e9-413f-8ab9-ae1ded5cd269",
-              "title": "Specialty chesse plate",
-              "itemDescription": "3 types of cashew cheese, Pitta, Salsa sauces, cashew and sunflower seeds mayonnaise, crispbread of sprouted wheat (420g)",
-              "price": 29000
-            },
-            {
-              "uuid": "15dd969b-05b3-4f32-bce2-f98aff246e1e",
-              "title": "Tasting plate",
-              "itemDescription": "flax cutlet breaded, vegetable balls, falafel, tomato and pesto sauces, sunflower seeds mayonnaise, cucumber, cherry, celery (260/90g)",
-              "price": 9500
-            }
           ]
         },
         {
@@ -426,39 +367,6 @@
             "b2d93a5e-7657-4b40-bf05-2349b98d63d0",
             "6a882331-314d-47f3-ae23-4780cc3d2f3e",
             "14bcf73f-0f3e-4147-905d-9a563f25d8b9"
-          ],
-          "displayItems": [
-            {
-              "uuid": "68437d26-7618-4f06-ba98-b49d4c513d23",
-              "title": "Corn soup",
-              "itemDescription": "corn, carrot, coconut milk, garlic, sea salt, onion, sunflower oil (240g)",
-              "price": 6000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c5442e4e-324c-474f-9dc9-ac6f1f572231"
-            },
-            {
-              "uuid": "e7a40199-bc8e-4e04-a0fc-2122382956b7",
-              "title": "Ukrainian borscht with cream and pampushka (a kind of bread)",
-              "itemDescription": "beet, carrot, tomatoes, cabbage, avocado, bell pepper (220/50/30g)",
-              "price": 5900
-            },
-            {
-              "uuid": "b2d93a5e-7657-4b40-bf05-2349b98d63d0",
-              "title": "Spinach soup with  almond milk",
-              "itemDescription": "spinach, broccoli, avocado,  almond milk, mushroom, green peas,  zucchini, cucumber, cherry tomatoes, paprik (250g)",
-              "price": 6500
-            },
-            {
-              "uuid": "6a882331-314d-47f3-ae23-4780cc3d2f3e",
-              "title": "Minestrone",
-              "itemDescription": "Sweet pepper, tomatoes, dried peppers and mushrooms, olive oil, avocado, Himalayan salt (250g)",
-              "price": 6500
-            },
-            {
-              "uuid": "14bcf73f-0f3e-4147-905d-9a563f25d8b9",
-              "title": "Mushroom cream soup",
-              "itemDescription": "cashew, curry, mushroom, honey, onion, spice (200g)",
-              "price": 7000
-            }
           ]
         },
         {
@@ -476,78 +384,6 @@
             "c84c1d0e-2951-4fa3-856f-f4f84aad62a8",
             "83fd62ef-ca7e-46b0-ae46-095b7415c638",
             "754bb3f2-948c-41bf-a0e2-c6b11942b7e8"
-          ],
-          "displayItems": [
-            {
-              "uuid": "77a71f4e-bd2a-48cb-ba70-7cd11a97f738",
-              "title": "Hummus with vegetables",
-              "itemDescription": "Sesame, chickpeas, olive oil, paprika, basil, garlic, served with carrot, celery, zucchini, cucumber, bell pepper (240g)",
-              "price": 7400
-            },
-            {
-              "uuid": "638e6c22-1d95-477a-b717-f02efcdf73be",
-              "title": "Pasta or sprouted buckwheat with Pesto sauce",
-              "itemDescription": "zucchini or sprouted buckwheat,\ntomato, sesame, olive, Pesto sauce (270g)",
-              "price": 8500,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "37025b42-5934-4ba7-9d77-cf7cbeb56885",
-              "title": "Green peas mash",
-              "itemDescription": "Green peas, cucumber, bell pepper, dried tomatoes, sprouted wheat crispbread, mash, chili (170g)",
-              "price": 8500
-            },
-            {
-              "uuid": "3342edad-7ff5-454c-b98d-24caf984effa",
-              "title": "Vegetable mix",
-              "itemDescription": "dried pepper and mushroom, mix letucce, tomato, avocado (200g)\n",
-              "price": 9500
-            },
-            {
-              "uuid": "e00aa614-efe3-457f-84b2-234bec8667d2",
-              "title": "Vegetable roll",
-              "itemDescription": "Seaweed nori, cauliflower, avocado, cucumber, bell pepper, cashew cheese, Pesto sauce (220/30g)",
-              "price": 10500
-            },
-            {
-              "uuid": "c050ac09-685b-4f9f-b1f4-6c19ba088660",
-              "title": "Roll with hummus",
-              "itemDescription": "Seaweed nori, hummus, spinach, carrot, cucumber, bell pepper, nut mayonnaise (170/30 g)",
-              "price": 10500
-            },
-            {
-              "uuid": "1c2e2c5c-6f41-4bc0-8782-eeffd22bffe3",
-              "title": "Dragon roll",
-              "itemDescription": "seaweed nori, cauliflower, avocado, zucchini,cashew cheese sticks, black sesame (210/30 g)",
-              "price": 11500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7c800a5b-c643-4225-913a-548a2974fd35"
-            },
-            {
-              "uuid": "16aa413c-879f-4774-913a-779ea84fc2d7",
-              "title": "Open cheese pie",
-              "itemDescription": "cashew cheese, tomato, bell pepper, cucumber, honey  (120g)",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/cc07bf28-ff7b-4187-872b-9155cb49207d"
-            },
-            {
-              "uuid": "c84c1d0e-2951-4fa3-856f-f4f84aad62a8",
-              "title": "Pizza with cashew cheese and dried pepper",
-              "itemDescription": "Flax cracker with tomato, onion, cashew cheese, tomato sauce, Pesto sauce dried pepper, corn, cauliflower (350g)",
-              "price": 17000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed142a9b-def9-40da-9065-3aeafb766ffe"
-            },
-            {
-              "uuid": "83fd62ef-ca7e-46b0-ae46-095b7415c638",
-              "title": "Set of rolls",
-              "itemDescription": "Vegetable roll, Roll with hummus, Dragon roll (600/60g)",
-              "price": 31500
-            },
-            {
-              "uuid": "754bb3f2-948c-41bf-a0e2-c6b11942b7e8",
-              "title": "Pizza with guacamole",
-              "itemDescription": "Flax cracker with tomatoes, onion, guacamole, iceberg, dried tomatoes, grapes, cherry, sprouted sesame black seeds (490g)",
-              "price": 17000
-            }
           ]
         },
         {
@@ -565,76 +401,6 @@
             "52f5f008-512b-4dd9-8b4d-91c760c1a097",
             "bc985f3b-84fe-408a-8aff-afdef82d4615",
             "d7f9d53e-2a07-487f-a760-60d062bf87bc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "6c11a357-8773-49ea-a6f1-3a3c3195e2e2",
-              "title": "Sandwiches with vegetable",
-              "itemDescription": "Bread flax seeds, lettuce, tomatoes, cashew cheese, vegetable balls, tomato sauce, dried onion (170g)",
-              "price": 7500,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "e59c6bab-9f6f-4153-af2c-e7eedd9f3f33",
-              "title": "Salami burger",
-              "itemDescription": "bread flax seeds, breaded cutlet, pickled carrot,\nsunflower mayonnaise, Pesto sauce (165g)",
-              "price": 7900
-            },
-            {
-              "uuid": "50de12d5-b009-437a-b258-fadce44756f2",
-              "title": "Cheese burger",
-              "itemDescription": "Bread flax seeds, lettuce, cashew cheese cutlet, cheese sauce, tomatoes, Pesto sauce (200g)",
-              "price": 8500
-            },
-            {
-              "uuid": "b085982d-4af8-454f-8be1-5410cdf60f85",
-              "title": "Brurrito with dried tomatoes and mango sauce",
-              "itemDescription": "pita, salad mix, sprouted mash, arugula, dried tomatoes, mango sauce (200g)",
-              "price": 9500
-            },
-            {
-              "uuid": "3addc078-64b4-46d9-aaf1-7a60b870f140",
-              "title": "Burrito homemade",
-              "itemDescription": "flax pita, cabbage, breaded cutlet, cucumber, carrot, sunflower mayonnaise (300g)",
-              "price": 9500
-            },
-            {
-              "uuid": "0b2a9fd8-67be-41c3-9650-fdda641cf36e",
-              "title": "Burrito with falafel",
-              "itemDescription": "flax pita, falafel, cherry, cabbage, Pita sause (260g)",
-              "price": 9500
-            },
-            {
-              "uuid": "8bba2659-cfb7-40a1-9790-255473d163fb",
-              "title": "Burrito a la Toscana",
-              "itemDescription": "Flax pita, lettuce, tomatoes, bell pepper, avocado, cauliflower, olives, Pesto sauce (265g)",
-              "price": 9900
-            },
-            {
-              "uuid": "7b90092a-4795-4dd0-abb8-e930c28a453b",
-              "title": "Seaweed burrito with vegetable balls",
-              "itemDescription": "Flax pita, cashew cheese, seaweed nori, cabbage, cucumber, vegetable balls, tomato sauce (225g)",
-              "price": 9900
-            },
-            {
-              "uuid": "52f5f008-512b-4dd9-8b4d-91c760c1a097",
-              "title": "Burrito with guacomole",
-              "itemDescription": "Flax pita, iceberg, guacamole, chili, black sprouted sesame black seeds, peppercorn, zucchini (370g) ",
-              "price": 11500
-            },
-            {
-              "uuid": "bc985f3b-84fe-408a-8aff-afdef82d4615",
-              "title": "Burrito with chesse cticks and bell pepper",
-              "itemDescription": "Flax pita, lettuce, cashew cheese, cucumber, bell pepper, cashew mayonnaise (240g)",
-              "price": 11500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3de6a2dc-c2a6-47ed-a235-812dbf3db03a"
-            },
-            {
-              "uuid": "d7f9d53e-2a07-487f-a760-60d062bf87bc",
-              "title": "Mini sandwiches with tomatoes and cashew cheese",
-              "itemDescription": "nachos, lettuce, tomatoes, cashew cheese, sunflower mayonnaise (180g)",
-              "price": 8500
-            }
           ]
         },
         {
@@ -646,41 +412,6 @@
             "2bb7b2eb-a136-44e9-9587-7446eeaf17fa",
             "4f57c4f1-b2e5-4cd8-8f87-9f645527e95e",
             "024ab7df-efd7-4b2c-a70c-9bc848c8f5ea"
-          ],
-          "displayItems": [
-            {
-              "uuid": "73f1c20a-fc32-421d-b0b9-a115a280ae7c",
-              "title": "Banoff",
-              "itemDescription": "cashew, almond, coffee, coconut, date,\nsesame, banana, coconut butter, vanilla stick (125g)",
-              "price": 7000
-            },
-            {
-              "uuid": "1ce40b46-7cbd-4d86-830f-718d282a44e9",
-              "title": "Blueberry cake",
-              "itemDescription": "walnut, cocoa, cashew, coconut, honey, fresh lemon juice, blueberres, butter coconu (135g)",
-              "price": 8500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/85370b8d-e36d-4036-ac70-54ed4f0bb15e"
-            },
-            {
-              "uuid": "2bb7b2eb-a136-44e9-9587-7446eeaf17fa",
-              "title": "Roll with cherry",
-              "itemDescription": "Banana, almond, cashew cheese, butter cocoa, dates, cherry, chocolate glaze (140g)",
-              "price": 9400
-            },
-            {
-              "uuid": "4f57c4f1-b2e5-4cd8-8f87-9f645527e95e",
-              "title": "Strawberry Lava cake",
-              "itemDescription": "almond, coconut, dates, strawberry,\nvanilla, chocolate glaze (150g)\n",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/292902d5-52d8-4eb7-b3c2-dfdaf835cde7"
-            },
-            {
-              "uuid": "024ab7df-efd7-4b2c-a70c-9bc848c8f5ea",
-              "title": "Banana napoleon",
-              "itemDescription": "Banana, condensed cashew milk, honey (110g)",
-              "price": 10500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4cc1a025-1b8c-4530-b0cd-3598693ac32c"
-            }
           ]
         },
         {
@@ -692,53 +423,6 @@
             "22341dba-41e7-4b8b-805f-3e2e2496ce68",
             "1219567c-f67f-4192-a8b7-1c3fc6813fea",
             "a2a8d3a1-1c2f-4186-9d76-6b8776f0765c"
-          ],
-          "displayItems": [
-            {
-              "uuid": "ee03f7a4-de4a-45cc-a860-3cfe0d7d4211",
-              "title": "Smoothies tropical",
-              "itemDescription": "pineapple, mango, coconut milk, ginger, ice/water",
-              "price": 6900,
-              "customizationUuids": [
-                "d13f708d-06ae-498e-bdf8-e9dbde284d3f"
-              ]
-            },
-            {
-              "uuid": "bd74c895-8810-4712-94d2-c972fd23154c",
-              "title": "Smoothies bubble gum",
-              "itemDescription": "banana, straberry, vanilla, honey, ice/water",
-              "price": 6900,
-              "customizationUuids": [
-                "d13f708d-06ae-498e-bdf8-e9dbde284d3f"
-              ]
-            },
-            {
-              "uuid": "22341dba-41e7-4b8b-805f-3e2e2496ce68",
-              "title": "Smoothies green start",
-              "itemDescription": "banana, apple, spinach, ice/water",
-              "price": 6900,
-              "customizationUuids": [
-                "d13f708d-06ae-498e-bdf8-e9dbde284d3f"
-              ]
-            },
-            {
-              "uuid": "1219567c-f67f-4192-a8b7-1c3fc6813fea",
-              "title": "Smoothies berries",
-              "itemDescription": "coconut milk, raspberry, currant, banana, ice/water",
-              "price": 6900,
-              "customizationUuids": [
-                "d13f708d-06ae-498e-bdf8-e9dbde284d3f"
-              ]
-            },
-            {
-              "uuid": "a2a8d3a1-1c2f-4186-9d76-6b8776f0765c",
-              "title": "Smoothie with cereals",
-              "itemDescription": "Almond milk, mango, date, wheat,\nsprouted buckwheat, ice/water",
-              "price": 6900,
-              "customizationUuids": [
-                "c1113831-6e8d-4d68-af85-abe52db43290"
-              ]
-            }
           ]
         }
       ]

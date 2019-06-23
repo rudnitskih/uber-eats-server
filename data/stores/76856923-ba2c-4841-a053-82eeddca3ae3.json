@@ -417,38 +417,6 @@
           "itemUuids": [
             "550edf0c-41ea-48f8-842d-baa988050b98",
             "2c835dfb-70d0-4302-b68f-7b9b53c6a4f3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "550edf0c-41ea-48f8-842d-baa988050b98",
-              "title": "Broccoli Soup",
-              "itemDescription": "Broccoli, coconut milk, green peas, fennel, and onions (300 g) + optional toast, pita, croutons.",
-              "price": 4800,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "2b5d28a7-7c4a-4651-babe-0de9c6d32a43"
-              ]
-            },
-            {
-              "uuid": "2c835dfb-70d0-4302-b68f-7b9b53c6a4f3",
-              "title": "Pumpkin Soup",
-              "itemDescription": "Pumpkin, coconut milk, onions, cloves, ginger, cinnamon, and spices (300 g) + optional toast, pita, croutons.",
-              "price": 4600,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/27aa9cc7-a19c-483d-adc1-6bc3c49dd0c5",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "2b5d28a7-7c4a-4651-babe-0de9c6d32a43"
-              ]
-            }
           ]
         },
         {
@@ -458,40 +426,6 @@
           "itemUuids": [
             "56619357-d93b-46e6-a90f-f500e1956dca",
             "bab79275-3329-4cb0-8eba-6f9e796685e9"
-          ],
-          "displayItems": [
-            {
-              "uuid": "56619357-d93b-46e6-a90f-f500e1956dca",
-              "title": "Veg Bacon Burger",
-              "itemDescription": "Cereal bun, sweet and sour sauce, roasted pepper, salad, tomato, soy steak, tofu bacon, cucumber, pickled onion, and mayonnaise (260 g). ",
-              "price": 7600,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f7e1238-0984-419a-be12-642fd8f9d4bb",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            },
-            {
-              "uuid": "bab79275-3329-4cb0-8eba-6f9e796685e9",
-              "title": "Green 13 Burger",
-              "itemDescription": "Green spinach bun, grilled tofu, roasted mushrooms, salad greens, rocked salad, pickles, tomato, pickled onion with tartar, and pesto sauce (230 g). ",
-              "price": 7600,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/34634d20-9d80-478e-9aef-46d0c789cc61",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            }
           ]
         },
         {
@@ -501,42 +435,6 @@
           "itemUuids": [
             "a99354ed-ae55-410d-9ee3-e15327994092",
             "efe22835-72e0-4a5b-8695-f77abe676fce"
-          ],
-          "displayItems": [
-            {
-              "uuid": "a99354ed-ae55-410d-9ee3-e15327994092",
-              "title": "Budda Bowl Plate",
-              "itemDescription": "Falafel, soy steaks, green beans, tomato, corn, spinach, hummus, chinese cabbage, peanut sauce, sweet chili souce, and sweet and sour sauce (420 g) + optional pita or toast.",
-              "price": 8800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fbccfe5-9c54-4299-8222-62237b35aa81",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "2b5d28a7-7c4a-4651-babe-0de9c6d32a43",
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            },
-            {
-              "uuid": "efe22835-72e0-4a5b-8695-f77abe676fce",
-              "title": "Hummus Plate",
-              "itemDescription": "Hummus, tahina, paprika, veggie: carrots, cucumber, and celery (270 g) + optional pita or toast.",
-              "price": 5200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d79b772f-007d-4bd3-87d6-b98ea1ee3a1d",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "2b5d28a7-7c4a-4651-babe-0de9c6d32a43",
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            }
           ]
         },
         {
@@ -549,93 +447,6 @@
             "f182aea2-72d0-44af-b49c-f8d6f8d9872c",
             "8aa59469-be9c-40b1-9d19-93538d419c4e",
             "3399a354-0175-49e4-8471-7eea1ef62ce8"
-          ],
-          "displayItems": [
-            {
-              "uuid": "bfd511e0-f8f7-4c6e-a559-9ef1f362320e",
-              "title": "Falafel",
-              "itemDescription": "Salad mix cabbage, carrots, herbs, tomato, pickles, falafel tartar and humus BBQ souce (340 g).",
-              "price": 6400,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e81c2b2-c78c-454f-827d-35ef9851853a",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "73b0d105-9df6-4086-99b5-e5fcce64a7a2",
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            },
-            {
-              "uuid": "207e7451-dcc6-49a6-8b19-eb836b8fb517",
-              "title": "Pumpkin and kelp souce",
-              "itemDescription": "Spinach, red pickled cabbage, roasted pumpkin, red pickled onion, roasted sweet pepper, couscous, cucumber, sunflower seeds, kelp souce and BBQ mayonnaise (330 g).",
-              "price": 7400,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e1727ad-db60-44a0-baed-061f722f63bd",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "73b0d105-9df6-4086-99b5-e5fcce64a7a2",
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            },
-            {
-              "uuid": "f182aea2-72d0-44af-b49c-f8d6f8d9872c",
-              "title": "Falafel of green peas",
-              "itemDescription": "Spinach, lettuce, falafel balls, fresh tomato and cucumber, sweet corn, tomato sauce and tartar sauce (330 g).",
-              "price": 7800,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6f6176c-70f4-4509-a72d-54bb61902685",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "73b0d105-9df6-4086-99b5-e5fcce64a7a2",
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            },
-            {
-              "uuid": "8aa59469-be9c-40b1-9d19-93538d419c4e",
-              "title": "Griled Tofu",
-              "itemDescription": "Salad mix of cabbage / carrot / herbs, tofu, tomato, himalayan salt and tartar sauce (330 g).",
-              "price": 7200,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b56545f-eb66-4711-ad13-8b23a60722d0",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "73b0d105-9df6-4086-99b5-e5fcce64a7a2",
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            },
-            {
-              "uuid": "3399a354-0175-49e4-8471-7eea1ef62ce8",
-              "title": "NotShawarma",
-              "itemDescription": "Pita(lavash), сhinese cabbage, cucumber, fresh tomato, tofu-mint sauce, spicy  salad(carrot celery, daikon), red caramelized onion, curry seitan. (280g)",
-              "price": 6200,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "73b0d105-9df6-4086-99b5-e5fcce64a7a2",
-                "09492bae-022e-4cb3-b959-a059f9a20ba7",
-                "df1adcce-46ea-41e8-8f35-693c9374ed51"
-              ]
-            }
           ]
         },
         {
@@ -644,23 +455,6 @@
           "subtitle": "",
           "itemUuids": [
             "5c2e2e37-bd21-426b-8042-4492f93c271e"
-          ],
-          "displayItems": [
-            {
-              "uuid": "5c2e2e37-bd21-426b-8042-4492f93c271e",
-              "title": "Cheesecake",
-              "itemDescription": "Tofu, vanilla sugar, citrus, biscuits, and cane sugar (140 g) + raspberry and/or chocolate toping.",
-              "price": 4500,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "45a52547-ba4b-4b5e-87d3-1510ed42725c"
-              ]
-            }
           ]
         },
         {
@@ -671,47 +465,6 @@
             "44a7b4c4-6cc1-45db-aa34-1dc11ec857f8",
             "c5cc3f39-1d4c-40ca-aaf4-c3647d7f4d9c",
             "c0cd8613-8f46-4e6f-9ab5-fa77f9d3d907"
-          ],
-          "displayItems": [
-            {
-              "uuid": "44a7b4c4-6cc1-45db-aa34-1dc11ec857f8",
-              "title": "Cocoa with milk",
-              "itemDescription": "200 ml.",
-              "price": 2800,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "eb5ad51f-2afc-40da-a195-da3a87884991"
-              ]
-            },
-            {
-              "uuid": "c5cc3f39-1d4c-40ca-aaf4-c3647d7f4d9c",
-              "title": "Chikory",
-              "itemDescription": "200 ml.",
-              "price": 1800,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "c0cd8613-8f46-4e6f-9ab5-fa77f9d3d907",
-              "title": " Chikory with mil",
-              "itemDescription": "Chikory, select milk 200ml.",
-              "price": 2800,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            }
           ]
         },
         {
@@ -724,80 +477,6 @@
             "4a07893a-a6b8-413f-9959-a8bb7dfab6b7",
             "52f2b15d-925b-4809-91b6-164edc981208",
             "ec8affa6-c66d-41d3-a6fb-4671e20335e3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "2aafe6bf-72a0-4348-9b63-8fad4d3822b2",
-              "title": "Capuorange",
-              "itemDescription": "Orange Fresh, and espresso (200 ml).",
-              "price": 4500,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "5319a152-ec16-4188-abb3-22e7376fa362",
-              "title": "Late",
-              "itemDescription": "With plant based milk (300 ml).",
-              "price": 3600,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "eb5ad51f-2afc-40da-a195-da3a87884991"
-              ]
-            },
-            {
-              "uuid": "4a07893a-a6b8-413f-9959-a8bb7dfab6b7",
-              "title": "Cappucino",
-              "itemDescription": "With plant based milk (300 ml).",
-              "price": 2800,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "eb5ad51f-2afc-40da-a195-da3a87884991"
-              ]
-            },
-            {
-              "uuid": "52f2b15d-925b-4809-91b6-164edc981208",
-              "title": "Flat White",
-              "itemDescription": "With plant based milk (300 ml).",
-              "price": 3600,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "eb5ad51f-2afc-40da-a195-da3a87884991"
-              ]
-            },
-            {
-              "uuid": "ec8affa6-c66d-41d3-a6fb-4671e20335e3",
-              "title": "Plant based milk",
-              "itemDescription": "50 ml.",
-              "price": 600,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "eb5ad51f-2afc-40da-a195-da3a87884991"
-              ]
-            }
           ]
         },
         {
@@ -808,54 +487,6 @@
             "2dc5d78b-2af2-4e3c-8eb3-d15b2d1e18e2",
             "fdad9e97-6470-4ab9-a8eb-646c04a9f1da",
             "e9632679-d2d1-4724-a191-a8c3d6e263f5"
-          ],
-          "displayItems": [
-            {
-              "uuid": "2dc5d78b-2af2-4e3c-8eb3-d15b2d1e18e2",
-              "title": "Currant and rosamary",
-              "itemDescription": "300 ml + optional sugar syrup.",
-              "price": 3400,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "ea940cb0-c285-49de-b799-480c6dbfdc9d"
-              ]
-            },
-            {
-              "uuid": "fdad9e97-6470-4ab9-a8eb-646c04a9f1da",
-              "title": "Sea buckthorn and thyme",
-              "itemDescription": "300 ml + optional sugar syrup.",
-              "price": 3400,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "ea940cb0-c285-49de-b799-480c6dbfdc9d"
-              ]
-            },
-            {
-              "uuid": "e9632679-d2d1-4724-a191-a8c3d6e263f5",
-              "title": "Tea",
-              "itemDescription": "Green, Black, Herbal, Hibiscus flavor to choose (300 ml) + optional ginger, mint, lemon, and sugar syrup.",
-              "price": 1800,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "83a68609-85e0-468c-b6c4-d428c01a3032",
-                "0d77dbf8-9458-4fdc-8e68-00a314310650"
-              ]
-            }
           ]
         },
         {
@@ -864,23 +495,6 @@
           "subtitle": "",
           "itemUuids": [
             "e97f91ac-cb19-42dd-b1ec-b938efdd067b"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e97f91ac-cb19-42dd-b1ec-b938efdd067b",
-              "title": "Fresh",
-              "itemDescription": "100 ml. - orange, apple, grapefruit flavor to choose. ",
-              "price": 2000,
-              "imageUrl": "",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "7cff3dd9-08d1-4360-95dd-617e2e548af5"
-              ]
-            }
           ]
         }
       ]

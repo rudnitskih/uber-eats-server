@@ -461,44 +461,6 @@
             "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d",
             "146d60f0-5629-45d7-aac1-cc93dc55a369",
             "aad8a9ad-5365-4028-9d35-4b9c476dddb3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "dc9bff86-4f5b-4fb6-bcb7-d34de5abcd6d",
-              "title": "Mini corn dogs",
-              "itemDescription": "Special mustard sauce (150g).",
-              "price": 12900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f38b0f34-f1fa-4c48-acc9-76aa03aa6724",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "146d60f0-5629-45d7-aac1-cc93dc55a369",
-              "title": "Fish and chips",
-              "itemDescription": "250g.",
-              "price": 15500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/53b09a35-a424-4bbf-8e91-6ba34fee1593",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "aad8a9ad-5365-4028-9d35-4b9c476dddb3",
-              "title": "Vegi chips",
-              "itemDescription": "150g.",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0b2a58e-323b-46ba-ac28-2684093856bb",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            }
           ]
         },
         {
@@ -508,36 +470,6 @@
           "itemUuids": [
             "20a2c02b-2435-4368-a6d7-851a03c3731e",
             "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68"
-          ],
-          "displayItems": [
-            {
-              "uuid": "20a2c02b-2435-4368-a6d7-851a03c3731e",
-              "title": "Long chocolate",
-              "itemDescription": "220g.",
-              "price": 12500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f361c190-84e5-42a6-94aa-354e4c4f33e5",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "b6ea07c3-431a-45ba-9d1f-2b3121cbdc68",
-              "title": "Churros",
-              "itemDescription": "To choose from chocolate or caramel dip (300g).",
-              "price": 12500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/97230008-1e79-4021-aeda-c546423dcee1",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "350bc480-7c08-42f6-83e8-dbdfc80b2787"
-              ]
-            }
           ]
         },
         {
@@ -548,44 +480,6 @@
             "c2cba6bd-0623-49b6-99bb-6edaa9d214f8",
             "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6",
             "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c2cba6bd-0623-49b6-99bb-6edaa9d214f8",
-              "title": "Cobb salad with chicken",
-              "itemDescription": "Avocado and green vegetables (370g).",
-              "price": 23500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/661bb86c-5e4a-4e69-9bf2-6bcc33a40273",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "728d0f47-a7d1-4daf-9a49-7eef46e1a0d6",
-              "title": "Kale salad with veal ",
-              "itemDescription": "Cous-cous, cherry tomatoes, and asparagus ad tuna dressing (300g).",
-              "price": 21500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b8784a9c-cb30-4815-9487-9cce73f6acf7",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "36021641-dc23-4d4e-9fdb-ac5cff0fa7b8",
-              "title": "Green salad",
-              "itemDescription": "With pumpkin puree, baked beets, goat's cheese, pine nuts, honey, and rosemary dressing (230g).",
-              "price": 13500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/86663ab7-baa1-46ed-bdad-a863a95c06d5",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            }
           ]
         },
         {
@@ -598,67 +492,6 @@
             "8ea264f9-65e2-4f68-9665-3eda0bff7205",
             "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5",
             "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9"
-          ],
-          "displayItems": [
-            {
-              "uuid": "59c4fea2-325a-452d-ad97-a83a6af782af",
-              "title": "Cauliflower",
-              "itemDescription": "330ml.",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecd8e510-e20b-4686-bbfd-fc4dad9f29a8",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "af24f4f1-9d6a-41f1-803a-a8bb0c8dc4d3",
-              "title": "Green see pea",
-              "itemDescription": "330ml.",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/74b4c7aa-9c47-4309-b5b6-f1056cd5ad7c",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "8ea264f9-65e2-4f68-9665-3eda0bff7205",
-              "title": "Curry-pumpkin",
-              "itemDescription": "330ml.",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac29ffd3-18a8-46af-8fa5-1610b242e971",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "42c7c83e-b1e0-401d-9b29-fc9e6582c7e5",
-              "title": "Сhicken soup ",
-              "itemDescription": "With vegetables, home-made pasta, and organic chicken (330g).",
-              "price": 7900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e192339-7b8b-4981-9c54-5032e30f72be",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "bbf0e33b-54ae-4c8a-a28d-019bd16b10d9",
-              "title": "Gazpacho",
-              "itemDescription": "Cold tomato soup with Bulgarian pepper, cucumber, Cayenne pepper, tomato juice, salt and pepper. 330g.",
-              "price": 9900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a8f471e-aa30-4128-a6ac-312617458ecf",
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -669,51 +502,6 @@
             "9ff82907-ae14-4e1d-9a13-35ba7ff2db50",
             "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3",
             "43c446d7-06ec-47a6-a3ec-9d2baf6e4813"
-          ],
-          "displayItems": [
-            {
-              "uuid": "9ff82907-ae14-4e1d-9a13-35ba7ff2db50",
-              "title": "Salmon",
-              "itemDescription": "Salmon, greens, and white curry sauce with hondashi (340g). ",
-              "price": 32500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/16acb642-6d6c-4ba4-9599-ae8fd27664ed",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "f3c6c89c-689f-409a-8fd2-f72f9c0b8fb3",
-              "title": "Duo sausage platter",
-              "itemDescription": "To choose from two side. To choose from two sausages (more than 200g).",
-              "price": 19900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba1d0929-d1f1-4e7d-a3cf-c324b81baf95",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "20765a6f-777c-4674-b4a5-0308e18ba218",
-                "c5e17023-b3bd-441b-93b9-fb03b50f4ef1"
-              ]
-            },
-            {
-              "uuid": "43c446d7-06ec-47a6-a3ec-9d2baf6e4813",
-              "title": "Chicken wings",
-              "itemDescription": "To choose from sauce (450g).",
-              "price": 18900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/a803d939-d5ce-4291-8988-81328e3cd202",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "749455f8-1d77-462b-9ed5-9607c3a686f0"
-              ]
-            }
           ]
         },
         {
@@ -728,119 +516,6 @@
             "feb30d77-9eb1-4eea-8a95-18367cae87c6",
             "8780dae5-ae1c-4490-a02e-4f3e4deea731",
             "def26de6-dedc-4e9f-9192-8ee1d1594593"
-          ],
-          "displayItems": [
-            {
-              "uuid": "279807c5-4c83-40d4-9889-7879c30eefe1",
-              "title": "The Kiev",
-              "itemDescription": "Tomato, radishes, and pickled toung cabbage (360-410g).To choose from sausages and side. ",
-              "price": 14900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0941609-4e8a-413e-976c-dbfb48dcb4e9",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "343fcb39-21f5-4441-8de1-be09fea9c130",
-                "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
-              ]
-            },
-            {
-              "uuid": "35cab0f7-3281-4153-9617-64b69843b305",
-              "title": "The Tokyo",
-              "itemDescription": "Teriyaki glazed, wasabi, mayonnaise, and sesame seeds, dried seaweed (350-400g). To choose from sausages and side. ",
-              "price": 16500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a546e1c-4c24-480d-b989-dcd45c7c191a",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "343fcb39-21f5-4441-8de1-be09fea9c130",
-                "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
-              ]
-            },
-            {
-              "uuid": "a5266044-5a02-4bf7-b221-22ec8a8d84a7",
-              "title": "The sunny side",
-              "itemDescription": "Special mustard sauce, Parmesan cheese, fried egg, and onion rings (350-400g).  To choose from sausages and side. ",
-              "price": 16900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0193047f-296b-4788-8f57-810bc5bd2826",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "343fcb39-21f5-4441-8de1-be09fea9c130",
-                "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
-              ]
-            },
-            {
-              "uuid": "4c863c0e-7036-46a4-994c-4fa489a337dd",
-              "title": "Coney Island",
-              "itemDescription": "Chili Cheddar cheese & chopped onions (375-425g). To choose from sausages and side. ",
-              "price": 19900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfa2ae52-349a-4d62-a8c5-99b10fecb37b",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "343fcb39-21f5-4441-8de1-be09fea9c130",
-                "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
-              ]
-            },
-            {
-              "uuid": "feb30d77-9eb1-4eea-8a95-18367cae87c6",
-              "title": "BLT",
-              "itemDescription": "Bacon lettuce and tomato garlic cream (365-415g).To choose from sausages and side. ",
-              "price": 15900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/259ae993-649f-4003-94ab-c90ae8bf2224",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "343fcb39-21f5-4441-8de1-be09fea9c130",
-                "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
-              ]
-            },
-            {
-              "uuid": "8780dae5-ae1c-4490-a02e-4f3e4deea731",
-              "title": "Hot chicks",
-              "itemDescription": "Chicken breast with aioli and nut sauce, fresh salad with cucumber & tomato (365-415g). To choose from sausages and side. ",
-              "price": 16900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/45bed826-95ff-43d7-b628-8beb922928a9",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
-              ]
-            },
-            {
-              "uuid": "def26de6-dedc-4e9f-9192-8ee1d1594593",
-              "title": "Pulled beef BBQ",
-              "itemDescription": "Stewed veal with herbs in BBQ sauce, spiced marinated cucumber, and sweet onion (355-405g). To choose from sausages and side. ",
-              "price": 18500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c01e952e-9f87-47ce-8c35-93bc968e76ce",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "customizationUuids": [
-                "343fcb39-21f5-4441-8de1-be09fea9c130",
-                "3294daa0-4bf1-4394-ac0c-8c2f3d7cfb64"
-              ]
-            }
           ]
         },
         {
@@ -851,44 +526,6 @@
             "5c0de42b-369d-4e10-b715-2a960a4f7a33",
             "7944aa8e-b80f-456d-8b89-01df59678e02",
             "1296a55e-408b-4854-a4ad-6baf576736bc"
-          ],
-          "displayItems": [
-            {
-              "uuid": "5c0de42b-369d-4e10-b715-2a960a4f7a33",
-              "title": "Jasmine pearl ",
-              "itemDescription": "Jasmin tea, lichi puree, lemon, and fructose syrup (200ml).",
-              "price": 12000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5e69b5a-73be-445c-a5d9-92783301dc78",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "7944aa8e-b80f-456d-8b89-01df59678e02",
-              "title": "Non-alcoholic gin and tonic",
-              "itemDescription": "Juniper syrup, lemon, cucmber, and tonic (160ml).",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/623eb819-d915-4982-9d1d-107d5087e6f2",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "1296a55e-408b-4854-a4ad-6baf576736bc",
-              "title": "Aranciata",
-              "itemDescription": "Orange, grapefruit, lemon, fructose syrup, and mineral water (160ml).",
-              "price": 8000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1961e49-570d-4cc1-b07c-40f37431224e",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            }
           ]
         },
         {
@@ -899,45 +536,6 @@
             "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3",
             "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
             "904310dd-ce00-485e-9631-37f203f44dec"
-          ],
-          "displayItems": [
-            {
-              "uuid": "c21c1525-26e2-4c9c-b2a3-1ffac3bb2ef3",
-              "title": "Fries",
-              "itemDescription": "180g.",
-              "price": 5900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b4046e93-3494-4e92-b8b4-3adab479973a",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            },
-            {
-              "uuid": "6a0d5cfd-3478-402f-bf48-03cda5e4ff8a",
-              "title": "Crispy onions ",
-              "itemDescription": "With garlic aioli (150g).",
-              "price": 5500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5098fd4-e46b-433d-9851-a59bccd1bf5a",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              },
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "904310dd-ce00-485e-9631-37f203f44dec",
-              "title": "Coleslaw",
-              "itemDescription": "With currents apple and green onion (130g).",
-              "price": 5900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/85ff3206-fa9a-4d63-8083-f2c353df2e51",
-              "nutritionalInfo": {
-                "allergens": [
-                  ""
-                ]
-              }
-            }
           ]
         },
         {
@@ -947,33 +545,6 @@
             "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
             "5996b714-6110-44be-b285-cf80253d8194",
             "39db5acf-b170-4156-8f7c-509cd482c1ec"
-          ],
-          "displayItems": [
-            {
-              "uuid": "09ea9fb3-0ef6-4ad1-a9d8-8b905ebe0079",
-              "title": "Dark beer",
-              "itemDescription": "Pivna duma (330ml).",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/86fab91c-4574-4873-8538-1b546a376b53",
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "5996b714-6110-44be-b285-cf80253d8194",
-              "title": "Wheat bock",
-              "itemDescription": "Pivna duma (330ml).",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2debe3d6-2e8d-402f-b45b-59b41c14d096",
-              "nutritionalInfo": {},
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "39db5acf-b170-4156-8f7c-509cd482c1ec",
-              "title": "India pale ale",
-              "itemDescription": "Pivna duma (330ml).",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ba6d9b2-f2a1-4a7d-a6c7-d8f0decce93f",
-              "nutritionalInfo": {}
-            }
           ]
         }
       ]

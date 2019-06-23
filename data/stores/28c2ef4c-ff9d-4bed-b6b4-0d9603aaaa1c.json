@@ -300,87 +300,6 @@
             "c02e7aa9-8b2d-43f3-a565-b20ef343d40e",
             "4a348255-efeb-4176-b578-35dc2c85ed50",
             "18c8cc8a-1260-48bd-a19c-3e5004feb831"
-          ],
-          "displayItems": [
-            {
-              "uuid": "8b10db35-29f4-4246-8745-340998209a4d",
-              "title": "Crunch roll with salmon and shrimp tempura",
-              "itemDescription": "Rice, nori, fresh Scotch salmon, avocado, chives, spicy sauce, fresh cucumber, shrimp tempura, sriracha, and togarashi. All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 39500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d250c444-39de-4083-b981-3058d0af721b",
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "2130298d-4abb-4150-a9a0-ae203f01606f",
-              "title": "Eel Unagіtapіoka",
-              "itemDescription": "Rice, nori, eel, Philadelphia cheese, chives, Tobiko, bonito (smoked tuna shavings), avocado, fresh cucumber, unagi sauce, kumquat, and tapioka. All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 39500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc3c641f-eeae-4c56-b321-9a6584ad2929",
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "d816e606-1588-4fac-8671-ca42aff1e9a7",
-              "title": "Vegan roll with crispy tofu, king oyster mushrooms and avocado",
-              "itemDescription": "Rice, nori, king oyster mushrooms (tempura), tofu tempura, avocado, spinach, fresh cucumber, spicy sauce, chives, nut sauce, wakame seaweed. Served with lettuce mix dressed with Wafu sauce. All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 29500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/3502ef4c-f16f-44de-bfdf-d466367329b9",
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "c09f9253-c42a-47d9-8bae-dd9d43b91f2e",
-              "title": "Roll with tartar with Wagyu and Foie gras:",
-              "itemDescription": "Rice, nori, tartar with Wagyu beef, chives, foie gras, tataki wtih beef, and unagi sauce.  All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 42500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d05ff063-a6e4-4023-be03-9a703871e677",
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "63586092-20a1-4277-9954-994ccbc4bc64",
-              "title": "Tuna with avocado and togarashi",
-              "itemDescription": "Rice, nori, fresh tuna, Philadelphia cheese, chives, avocado, green dill oil, togarashi, spicy mayonnaise sauce, and daikon. Served with lettuce mix dressed with Wafu sauce. All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 39500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d85b0f45-c8d3-45bc-9c11-0cce5f37934b",
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "71c7bf04-cbe6-44de-83a0-c3c04340b2ad",
-              "title": "California roll, salted salmon , chili-garlic sauce",
-              "itemDescription": "",
-              "price": 29500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "c02e7aa9-8b2d-43f3-a565-b20ef343d40e",
-              "title": "Tataki roll, salmon, eel, unagi sauce",
-              "itemDescription": "",
-              "price": 35000,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "4a348255-efeb-4176-b578-35dc2c85ed50",
-              "title": "Philadelphia roll with crad",
-              "itemDescription": "",
-              "price": 42500,
-              "nutritionalInfo": {}
-            },
-            {
-              "uuid": "18c8cc8a-1260-48bd-a19c-3e5004feb831",
-              "title": "Roll without rice , salmon, avocado, Philadelphia cheese ",
-              "itemDescription": "",
-              "price": 36500,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -390,41 +309,6 @@
             "e163ba0e-b6e5-49cd-befe-5012c7466dce",
             "ad312a5a-ea01-47f2-96d4-1f873fcb32e9",
             "debbd89e-1879-4a86-af01-4c6770e0bb6c"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e163ba0e-b6e5-49cd-befe-5012c7466dce",
-              "title": "Hand roll with eel",
-              "itemDescription": "Rice, nori, chopped eel, unagi sauce, and green onions.  All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 15000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b9cf826-7c7f-4d94-b3a3-2cf2b13da6b9",
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "ad312a5a-ea01-47f2-96d4-1f873fcb32e9",
-              "title": "Hand roll with tuna",
-              "itemDescription": "Rice, nori, chopped fresh tuna, green onions, sauce of oil, mustard, and soy sauce. All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 15000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a718ede-9603-43ab-93f9-032e7aee6418",
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "debbd89e-1879-4a86-af01-4c6770e0bb6c",
-              "title": "Hand roll with salmon",
-              "itemDescription": "Rice, nori, chopped fresh Scotch salmon, green onions, and spicy mayonnaise sauce. All rolls are served with soy sauce, wasabi, and ginger.",
-              "price": 15000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/c672347c-33ef-41a5-bf68-8edf79ff7074",
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            }
           ]
         },
         {
@@ -439,81 +323,6 @@
             "29397b85-3a52-4b88-ad05-264185e9ee1e",
             "cc435563-d9db-49b5-8245-a521bd2905d0",
             "72b6ebb7-1d49-41b4-92e3-5241c07bde7b"
-          ],
-          "displayItems": [
-            {
-              "uuid": "67426f87-5181-432d-8c37-70d77ce518e4",
-              "title": "Sea bass Nigiri",
-              "itemDescription": "Sea bass, rice, nori, sriracha, and green onions.",
-              "price": 7500,
-              "suspendUntil": 8640000000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "0affa458-da87-4670-8183-e03ea2435792",
-              "title": "Tuna Nigiri",
-              "itemDescription": "Rice, tuna, daikon, green onions, sauce of oil, musard, and soy sauce. All nigiri are served with wasabi, and ginger.",
-              "price": 7500,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "188f37da-6ae5-41d9-95c0-8cdb06f7d5ec",
-              "title": "Langoustine Nigiri",
-              "itemDescription": "Langoustine, rice, lime peel, and lime juice. All nigiri are served with wasabi, and ginger.",
-              "price": 7500,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "072bbf46-44b9-4bc0-9c5a-bba369274325",
-              "title": "Salmon Nigiri",
-              "itemDescription": "Rice, Scotch salmon, daikon, and green onions. All nigiri are served with wasabi, and ginger.",
-              "price": 7500,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "f26bf762-ac78-47f9-b2ce-4f53d61094f3",
-              "title": "Japanese Wagyu beef with Foie gras Nigiri",
-              "itemDescription": "Rice, Japanese Wagyu beef, Foie gras, and truffle sauce. All nigiri are served with wasabi, and ginger.",
-              "price": 14000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "29397b85-3a52-4b88-ad05-264185e9ee1e",
-              "title": "Red king crab Nigiri",
-              "itemDescription": "Red king crab, rice, and nori. All nigiri are served with wasabi, and ginger.",
-              "price": 15000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "cc435563-d9db-49b5-8245-a521bd2905d0",
-              "title": "Eel Nigiri",
-              "itemDescription": "Eel, rice, nori, unagi sauce, green onions, and unagitapioka caviar. All nigiri are served with wasabi, and ginger.",
-              "price": 7500,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "72b6ebb7-1d49-41b4-92e3-5241c07bde7b",
-              "title": "Spicy scallop Nigiri",
-              "itemDescription": "Rice, nori, scallop, spicy sauce, green onions, and Tobiko. All nigiri are served with wasabi, and ginger.",
-              "price": 9000,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            }
           ]
         },
         {
@@ -523,35 +332,6 @@
             "45026fbc-ca97-4e6f-b897-626271fa8c8c",
             "f68c3182-0ca0-456e-a4d4-b547a4e668f9",
             "7f93565f-d352-46fa-b1b5-51b67716b7e4"
-          ],
-          "displayItems": [
-            {
-              "uuid": "45026fbc-ca97-4e6f-b897-626271fa8c8c",
-              "title": "Miso soup with wakame and tofu",
-              "itemDescription": "Miso broth, silken tofu, wakame seaweed, green onions, edamame beans, pak choi cabbage, kale, and shimiji mushrooms. Served with mushroom shashlik (shimiji).",
-              "price": 13500,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "f68c3182-0ca0-456e-a4d4-b547a4e668f9",
-              "title": "Truffle miso soup with Foie Gras",
-              "itemDescription": "Miso broth, silken tofu, wakame seaweed, green onions, shimiji mushrooms, and truffle oil. Served with Foie Gras.",
-              "price": 15500,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            },
-            {
-              "uuid": "7f93565f-d352-46fa-b1b5-51b67716b7e4",
-              "title": "Soup with duck and noodles",
-              "itemDescription": "Spicy duck broth, which is cooked for two days of 26 ingredients, base is: duck, pear, variety of vegetables and herbs, lemongrass, lime, brown sugar, smoked tuna chips. We add noodles, green onions, pak choy cabbage and potatoes, shiitake mushrooms, garlic, chicken eggs marinated in soy and cilantro. Complemented with a duck shashlik.",
-              "price": 16900,
-              "customizationUuids": [
-                "abab541f-86ae-4a27-8fc1-29b26b64ee5e"
-              ]
-            }
           ]
         },
         {
@@ -562,37 +342,6 @@
             "b0d4572f-ae37-47a0-a444-c4855d31365e",
             "5953602f-e7bd-4127-b90b-b74f9a477bc0",
             "fa15efa6-317b-415f-89e4-49758bd78bb7"
-          ],
-          "displayItems": [
-            {
-              "uuid": "e2c6692a-1f66-40ed-9c98-4d5748628af7",
-              "title": "Roasted eggplant grill with bonito and spicy miso",
-              "itemDescription": "Eggplant is baked in a josper with Maldon salt and sauce based on paprika, miso pasta, and smoked tuna chips. Served with a cool Greek yogurt.",
-              "price": 15700,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/8749bc31-7ebe-47bf-9a78-028b4b0301b8"
-            },
-            {
-              "uuid": "b0d4572f-ae37-47a0-a444-c4855d31365e",
-              "title": "Duck with spicy apple and kale",
-              "itemDescription": "Duck fillet is marinated for 3 days in a spicy sauce based on oranges, anise, and soy. Baked in a josper, served with kale cabbage and apple caramelized in honey. Served with ginger, and mango sauce.",
-              "price": 27900,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f2641db-d536-4207-a4bf-d947db0e7ec1"
-            },
-            {
-              "uuid": "5953602f-e7bd-4127-b90b-b74f9a477bc0",
-              "title": "Salmon steak in sweet miso with truffle puree",
-              "itemDescription": "Salmon steak baked in a jopser. Served with truffle puree and fried in butter with green onions, and spinach. Decorated with garlic, and togarashi chips.",
-              "price": 29700,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/98ff1e34-9353-46c3-bc3a-926cb3a817b0"
-            },
-            {
-              "uuid": "fa15efa6-317b-415f-89e4-49758bd78bb7",
-              "title": "Striploin steak with green beans and marrow bones",
-              "itemDescription": "Striploin steak is cooked in a josper, served with green beans and onion cream based on ginger, miso pasta, sake, Wafu sauce, and complemented with roasted marrow bones.",
-              "price": 34500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/b43abf4c-6823-402d-bebd-5d319ea5a7e4",
-              "suspendUntil": 8640000000
-            }
           ]
         },
         {
@@ -600,15 +349,6 @@
           "title": "Desserts",
           "itemUuids": [
             "0b5fac13-66fa-44e5-bc3b-7b7e60dc45f9"
-          ],
-          "displayItems": [
-            {
-              "uuid": "0b5fac13-66fa-44e5-bc3b-7b7e60dc45f9",
-              "title": "Cheesecake with berry coulis",
-              "itemDescription": "Cheesecake of ricotta, Philadelphia and lime peel, served with a shortcrust dough crumble and a raspberry coulis. Decorated with a cherry in syrup and seasonal fresh berries",
-              "price": 15500,
-              "suspendUntil": 8640000000
-            }
           ]
         }
       ]

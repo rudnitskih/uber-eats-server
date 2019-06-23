@@ -234,28 +234,6 @@
             "d6973a09-72af-49cb-af16-1982bd37a03f",
             "ac0b171a-446a-4fea-ad68-68f95d23f6a9",
             "7110c306-b33d-4d8b-9b55-e09e371008b3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "d6973a09-72af-49cb-af16-1982bd37a03f",
-              "title": "Eggplant baked with vegetables, and mozzarella",
-              "itemDescription": "240g",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a56b846-b56f-441c-90c7-65ce953b016a"
-            },
-            {
-              "uuid": "ac0b171a-446a-4fea-ad68-68f95d23f6a9",
-              "title": "Tartar of farm beef, and avocados",
-              "itemDescription": "190g",
-              "price": 16000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee035b31-f683-4bc2-812a-9760024b3d8d"
-            },
-            {
-              "uuid": "7110c306-b33d-4d8b-9b55-e09e371008b3",
-              "title": "Plate of oven-fresh bread with colored butter",
-              "itemDescription": "150/20/20g",
-              "price": 3500
-            }
           ]
         },
         {
@@ -265,29 +243,6 @@
             "449ab358-fc90-4431-915f-447ec3146d20",
             "f70627fc-6f6f-4c06-b038-b2e78bbd2adf",
             "e65e476f-175c-4042-9148-149b6cac0044"
-          ],
-          "displayItems": [
-            {
-              "uuid": "449ab358-fc90-4431-915f-447ec3146d20",
-              "title": "Piadina with pancetta",
-              "itemDescription": "295g",
-              "price": 15500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/55c511c7-2c1e-4bef-825a-8585b839d7d8"
-            },
-            {
-              "uuid": "f70627fc-6f6f-4c06-b038-b2e78bbd2adf",
-              "title": "Piadina with vegetables",
-              "itemDescription": "290g",
-              "price": 15500,
-              "suspendUntil": 8640000000
-            },
-            {
-              "uuid": "e65e476f-175c-4042-9148-149b6cac0044",
-              "title": "Piadina with chicken",
-              "itemDescription": "335g",
-              "price": 15500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa19e4a2-573c-4e62-a0c6-d7a6cd740083"
-            }
           ]
         },
         {
@@ -297,29 +252,6 @@
             "6b2f5cae-2c43-4b36-b930-5059834ad1cb",
             "d6f65290-4e39-494e-8bfd-b25a109303af",
             "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa"
-          ],
-          "displayItems": [
-            {
-              "uuid": "6b2f5cae-2c43-4b36-b930-5059834ad1cb",
-              "title": "Cream soup \"Lentil, and poached egg\"",
-              "itemDescription": "300ml",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9054a0cc-8bf0-4d0f-bd19-199bf5a39860"
-            },
-            {
-              "uuid": "d6f65290-4e39-494e-8bfd-b25a109303af",
-              "title": "Aromatic chicken soup",
-              "itemDescription": "430ml",
-              "price": 6500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe579d56-cffb-481d-84a0-5259481dbdb3"
-            },
-            {
-              "uuid": "726c54d2-28ab-47c1-ab31-4c2a4d3b1eaa",
-              "title": "Shrimp bisque",
-              "itemDescription": "240/30",
-              "price": 11000,
-              "nutritionalInfo": {}
-            }
           ]
         },
         {
@@ -330,36 +262,6 @@
             "c1234fd2-706e-4017-96df-f4bbf4a32f0c",
             "2346ac54-229e-4414-9ef6-70921c914da1",
             "15f0df7d-c4d5-481a-bbc9-334b078e749a"
-          ],
-          "displayItems": [
-            {
-              "uuid": "35895a66-b04d-40aa-9b3f-f1ae937d9d5e",
-              "title": "Grilled vegetable salad with halloumi cheese",
-              "itemDescription": "250g",
-              "price": 13500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae2b9936-ec85-42d4-a94b-addb0497e2b8"
-            },
-            {
-              "uuid": "c1234fd2-706e-4017-96df-f4bbf4a32f0c",
-              "title": "Big bowl with buckwheat",
-              "itemDescription": "365g",
-              "price": 11500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/53a63d6c-d4e6-4c39-a741-70d2ed398215"
-            },
-            {
-              "uuid": "2346ac54-229e-4414-9ef6-70921c914da1",
-              "title": "Big bowl with quinoa",
-              "itemDescription": "365g",
-              "price": 12500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/16c74046-78ee-4189-a66b-b68a1c14ffca"
-            },
-            {
-              "uuid": "15f0df7d-c4d5-481a-bbc9-334b078e749a",
-              "title": "Light salad with quinoa, and fresh vegetables",
-              "itemDescription": "220g",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/80d9d19f-381d-4590-b2a5-a36befdd4520"
-            }
           ]
         },
         {
@@ -372,56 +274,6 @@
             "a45610a0-c14b-4aa3-9c58-3daf1c49b340",
             "83339846-6128-4568-a69f-74718d8589f6",
             "68578c24-7ec5-448c-904a-dbae33796650"
-          ],
-          "displayItems": [
-            {
-              "uuid": "fa60025c-1b05-491e-959d-2f3dfa90c7ba",
-              "title": "Ravioli with eggplants caviar, and suluguni from the chef in love",
-              "itemDescription": "230g",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d830e5a-cc98-4bd8-9851-db040efd1123"
-            },
-            {
-              "uuid": "3e28333d-f187-4877-b493-9e7ad5235a62",
-              "title": "\"Margarita\" linguine with tomato sauce",
-              "itemDescription": "275g",
-              "price": 5500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ec5c7d0-519c-4f5c-9153-8f3304a0169a"
-            },
-            {
-              "uuid": "410e76bf-6623-43b3-8352-43fad548b886",
-              "title": "\"Green square\" ravioli with turkey in nuts, and spinach sauce",
-              "itemDescription": "250g",
-              "price": 12500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9890a25-3486-4ac0-8b9c-c41370bed36b"
-            },
-            {
-              "uuid": "a45610a0-c14b-4aa3-9c58-3daf1c49b340",
-              "title": "Green pappardelle with chicken, baked sweet peppers, and dried tomatoes",
-              "itemDescription": "Size to choose.",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cf5b50b-1884-4762-bf3b-95423ea52ccc",
-              "customizationUuids": [
-                "407d1e35-ea83-4015-acfe-0abb2e0268e7"
-              ]
-            },
-            {
-              "uuid": "83339846-6128-4568-a69f-74718d8589f6",
-              "title": "Linguine with a huge meatball, and a thick tomato sauce",
-              "itemDescription": "Size to choose.",
-              "price": 10500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6cb5891-bc16-4177-9f43-9eeef0b1c90f",
-              "customizationUuids": [
-                "2393e574-0efd-4ede-81fb-39e8e056dbb8"
-              ]
-            },
-            {
-              "uuid": "68578c24-7ec5-448c-904a-dbae33796650",
-              "title": "Tagliatelle with tiger prawns, and zucchini in a sauce",
-              "itemDescription": "385g",
-              "price": 20500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/70f25aee-dc98-4c52-934f-914647fc403e"
-            }
           ]
         },
         {
@@ -432,36 +284,6 @@
             "e4f73704-363d-4e47-ad7f-172e089ca866",
             "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd",
             "c7f318b8-70df-43a0-87a3-929452d1fd20"
-          ],
-          "displayItems": [
-            {
-              "uuid": "03992c00-14bc-45d0-b705-4ba5a5bdc955",
-              "title": "Black risotto with seafood",
-              "itemDescription": "350g",
-              "price": 23500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b9f98cc-061b-42f7-ac49-0800f03a8016"
-            },
-            {
-              "uuid": "e4f73704-363d-4e47-ad7f-172e089ca866",
-              "title": "Risotto Tom Yum",
-              "itemDescription": "295g",
-              "price": 21000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c98066-4ae8-4f63-913b-3ead73c460ee"
-            },
-            {
-              "uuid": "6d2cfa04-7f80-4fe4-8072-7c34e6ae90dd",
-              "title": "Lasagna \"Ferrarese\" of spinach dough with Bolognese sauce, and boiled egg",
-              "itemDescription": "250/30g",
-              "price": 12500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/86289fe5-2bd9-4d0e-a599-7fc62c034817"
-            },
-            {
-              "uuid": "c7f318b8-70df-43a0-87a3-929452d1fd20",
-              "title": "Chicken schnitzel with gorgonzola, and potatoes",
-              "itemDescription": "180/100/45g",
-              "price": 13000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf28e651-cd79-4b5c-ace3-143d3dc815f3"
-            }
           ]
         },
         {
@@ -471,29 +293,6 @@
             "a8f04be3-f0c4-4474-98bf-a6cb69899816",
             "e735d3a0-cdc6-4568-9830-f8cd8be80ab1",
             "d1437dd2-1783-4274-a04a-27149f0f7fc3"
-          ],
-          "displayItems": [
-            {
-              "uuid": "a8f04be3-f0c4-4474-98bf-a6cb69899816",
-              "title": "Chocolate zucchini cake",
-              "itemDescription": "125g",
-              "price": 11500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7bea7d5-74f5-468b-8561-15d37f7d0809"
-            },
-            {
-              "uuid": "e735d3a0-cdc6-4568-9830-f8cd8be80ab1",
-              "title": "Cheesecake \"Three cheese\"",
-              "itemDescription": "115g",
-              "price": 11000,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d60c27a-81a2-44a9-9927-920602f7c4bd"
-            },
-            {
-              "uuid": "d1437dd2-1783-4274-a04a-27149f0f7fc3",
-              "title": "Pavlova dessert traditional",
-              "itemDescription": "160g",
-              "price": 9500,
-              "imageUrl": "https://d1ralsognjng37.cloudfront.net/63f77497-47f0-47e3-8cb0-1d12db96efeb"
-            }
           ]
         }
       ]
