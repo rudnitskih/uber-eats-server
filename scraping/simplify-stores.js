@@ -17,7 +17,16 @@ fs.readdir(dirname, function (err, filenames) {
 });
 
 function processFile(filePath, data) {
-  delete data.subsectionsMap;
+  const sections = data.sections;
+  const mainSection = sections.find(({title}) => title.toLowerCase().includes('eng') || title.includes('Menu') );
+
+  sections.forEach((section) => {
+    if (section !== mainSection) {
+      delete data.sectionEntitiesMap[section.uuid];
+    }
+  });
+
+  data.sections = [mainSection];
 
   const rawdata = JSON.stringify({...data}, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {
