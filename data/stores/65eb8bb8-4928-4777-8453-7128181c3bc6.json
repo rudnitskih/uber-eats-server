@@ -1919,59 +1919,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "urban-space-500",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a9b9d0e8-3f88-4806-a3f4-6f16714863e5",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/4bd1dbfd-adac-42a3-b272-8b07a5e18b55",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/9afc2d23-3870-44f1-8c37-04fb9b44c8c8",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/08df95f4-39b4-49d8-bad9-481c24cc1065",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.8 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(100)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.8 out of 5 stars based on 100 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Healthy • Modern European • Vegetarian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

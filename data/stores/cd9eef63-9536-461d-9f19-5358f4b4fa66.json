@@ -3983,63 +3983,6 @@
   "priceBucket": "₴₴",
   "slug": "сушия-просп-перемоги-3",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/1a2f664f-f3c7-4008-9461-acf294b4d1af",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6e23cd2a-8a53-4e88-b53b-b65b0f034023",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8b5833ff-3115-489f-98fc-c3cf025ff2e4",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/4535d008-3c75-4c9f-b553-81654dd3216e",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/c202a228-565a-473f-b1a3-47356756c161",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "endorsement": {
-      "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-      "text": "Справжні японські суші"
-    },
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(206)</span></span>",
-      "accessibilityText": "Rated 4.4 out of 5 stars based on 206 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Japanese • Rolls • Sushi • Asian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

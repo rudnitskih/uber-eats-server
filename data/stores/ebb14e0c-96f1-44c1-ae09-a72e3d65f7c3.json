@@ -2410,59 +2410,6 @@
   "priceBucket": "₴₴",
   "slug": "the-butcher-burgers",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6a6f6efe-1bb0-43fe-89df-d19fae11f166",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6d66c434-5ce7-478e-b8cd-f64b7899bf82",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/3ce5de29-9305-499e-b97a-5110377ea22e",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e58858de-3dc9-4106-b0f8-adf9315974f0",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(190)</span></span>",
-      "accessibilityText": "Rated 4.2 out of 5 stars based on 190 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • American • Burger • Salad</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "45–55 MINS",
-      "textFormat": "<span>45–55 MINS</span>",
-      "accessibilityText": "Delivered in 45 to 55 MINS"
-    }
-  },
   "etaRange": {
     "min": 45,
     "max": 55,

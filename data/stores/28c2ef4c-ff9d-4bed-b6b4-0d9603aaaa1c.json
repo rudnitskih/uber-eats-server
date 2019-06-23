@@ -2654,59 +2654,6 @@
   },
   "priceBucket": "₴₴₴",
   "slug": "fish-&-pussycat",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/70ab21ae-9842-4021-af0e-d734e4bc5558",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/3a6fc72b-133e-4fea-8281-eb1e68628e11",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/36cc28ff-6e85-4977-b433-e0520a42a3b6",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e787b16a-e1ef-46f9-b073-9b51a96ec20e",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/619ac9b2-38ba-4326-ac6c-24eb81e6bdda",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(90)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 90 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴₴ • Japanese • Sushi • Seafood</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "45–55 MINS",
-      "textFormat": "<span>45–55 MINS</span>",
-      "accessibilityText": "Delivered in 45 to 55 MINS"
-    }
-  },
   "etaRange": {
     "min": 45,
     "max": 55,

@@ -1608,59 +1608,6 @@
   },
   "priceBucket": "₴",
   "slug": "walker-food-вул-хрещатик",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2d3df769-97e8-4d3a-820c-000d40662070",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d81ce12e-a552-428f-b4b3-2d1b1321920c",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/579e72d2-c69e-4f61-9c16-a6d8558f9476",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/34965b1e-f890-46fd-aa68-bf55d1227345",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e90e9497-f205-4e4d-9e3d-076facbebba2",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2d3df769-97e8-4d3a-820c-000d40662070",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b6ce77bd-450d-4362-b553-f2a21ab46232",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(143)</span></span>",
-      "accessibilityText": "Rated 4.1 out of 5 stars based on 143 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Fast Food • Burger • Asian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "20–30 MINS",
-      "textFormat": "<span>20–30 MINS</span>",
-      "accessibilityText": "Delivered in 20 to 30 MINS"
-    }
-  },
   "etaRange": {
     "min": 20,
     "max": 30,

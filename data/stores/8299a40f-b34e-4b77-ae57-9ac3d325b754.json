@@ -4729,59 +4729,6 @@
   "priceBucket": "₴",
   "slug": "noodle-doodle-маидан-незалежності",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0b214c90-f214-4472-88a9-26c4bb549f1c",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/89291871-9fc0-47a7-8c5d-9b8fae259282",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/cf5927a1-e114-436f-a760-7df4b5076f35",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/79ff646e-23e4-4514-b45b-8344f5d5df9d",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/01499d46-aab9-4c07-a0c3-9f7b0ac2374b",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0b214c90-f214-4472-88a9-26c4bb549f1c",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/413c28b3-735a-459b-82a2-3901274bdb90",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(145)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.5 out of 5 stars based on 145 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Asian • Chinese</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

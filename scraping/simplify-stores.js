@@ -2,17 +2,8 @@ const fs = require('fs');
 
 const dirname = './data/stores/';
 
-const path = './data/marketplaces.json';
-
-let rawdata = fs.readFileSync(path);
-let marketplaces = JSON.parse(rawdata);
-
 fs.readdir(dirname, function (err, filenames) {
   if (err) throw err;
-
-  marketplaces.restaurants.forEach(({uuid}) => {
-    !filenames.includes(`${uuid}.json`) && console.log(uuid);
-  });
 
   filenames.forEach(function (filename) {
     const filePath = dirname + filename;
@@ -26,6 +17,8 @@ fs.readdir(dirname, function (err, filenames) {
 });
 
 function processFile(filePath, data) {
+  delete data.heroImageUrl;
+  delete data.heroImage;
 
   const rawdata = JSON.stringify({...data}, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {

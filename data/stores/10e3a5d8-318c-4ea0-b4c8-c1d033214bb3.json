@@ -2530,63 +2530,6 @@
   "priceBucket": "₴",
   "slug": "star-burger-вул-хрещатик",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8646805e-1fb8-4429-8ee8-f789f4b1d380",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/32b39dd7-100f-4484-b034-84f0f6bb2cfc",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/1bb4a590-bc32-4961-b4f4-42233d3db896",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/885437d8-34da-4180-9918-8eaa164b9f7e",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d0b68d91-d901-4bef-bb16-fc0fdd00f8f3",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "endorsement": {
-      "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png",
-      "text": "Всі бургери по 69 грн"
-    },
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(139)</span></span>",
-      "accessibilityText": "Rated 4.3 out of 5 stars based on 139 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Burger • American</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "45–55 MINS",
-      "textFormat": "<span>45–55 MINS</span>",
-      "accessibilityText": "Delivered in 45 to 55 MINS"
-    }
-  },
   "etaRange": {
     "min": 45,
     "max": 55,

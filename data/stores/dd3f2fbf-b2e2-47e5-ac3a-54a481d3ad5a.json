@@ -7485,59 +7485,6 @@
   "priceBucket": "₴₴",
   "slug": "avocado-вул-інституцька",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/59373330-03ea-4d53-af9b-d5d172d24411",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d37e0741-6a24-4228-8236-74f0c828623f",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/252cc378-46dd-4063-833e-2b62579b37f3",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/7faa0320-f468-4b3f-a2b7-c1e35a6171ed",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/00c9ac68-2c7a-4497-a155-0f95aa5d932a",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/59373330-03ea-4d53-af9b-d5d172d24411",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d97a4d65-1757-4899-b0f4-be2fb248b417",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(155)</span></span>",
-      "accessibilityText": "Rated 4.3 out of 5 stars based on 155 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • European • Vegetarian • Healthy • Burger</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "30–40 MINS",
-      "textFormat": "<span>30–40 MINS</span>",
-      "accessibilityText": "Delivered in 30 to 40 MINS"
-    }
-  },
   "etaRange": {
     "min": 30,
     "max": 40,

@@ -2678,59 +2678,6 @@
   "priceBucket": "₴₴",
   "slug": "to-be",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/865e739c-8cf9-4744-b376-9eb883c6ecc0",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/61514add-2f04-4b40-a4e8-911c170a1426",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2659a98c-b177-4d5c-95e8-8960b463a58c",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/10ad0df0-64b6-4c22-a109-68e12ee9ce6a",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(75)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.5 out of 5 stars based on 75 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Japanese • Asian • Sushi</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

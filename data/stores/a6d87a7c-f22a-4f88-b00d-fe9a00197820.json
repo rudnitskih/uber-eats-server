@@ -1231,59 +1231,6 @@
   },
   "priceBucket": "₴",
   "slug": "yummy-dogs",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d23e404c-5892-400e-8b3e-87b21495f0d3",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6044c110-e2ab-47ee-bde5-94b4a21bc605",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/daab394d-2106-4e1e-bd31-014e328ca378",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a9426446-1095-431f-ab8a-1bc50cf84ef0",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e1d53e06-d068-44f4-9f02-ec88028e0843",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(129)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 129 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • American • Bar Food</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "25–35 MINS",
-      "textFormat": "<span>25–35 MINS</span>",
-      "accessibilityText": "Delivered in 25 to 35 MINS"
-    }
-  },
   "etaRange": {
     "min": 25,
     "max": 35,

@@ -4575,59 +4575,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "lemongrass-cafe",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e613af55-5537-4b9a-afd2-b265cdfe57bf",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b99a95ac-16c3-44af-b656-ceb53d9defc1",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b14d6306-f365-4865-b559-f7c81249a2aa",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/cc696d31-b010-4855-9002-cfb126a6b1b7",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f4193b78-018c-49e4-b5de-e4ce20112150",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e613af55-5537-4b9a-afd2-b265cdfe57bf",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/4d9bb53d-17d2-4a2b-8880-cb50361c5e8e",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(127)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.5 out of 5 stars based on 127 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • European • Ukrainian • Italian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "45–55 MINS",
-      "textFormat": "<span>45–55 MINS</span>",
-      "accessibilityText": "Delivered in 45 to 55 MINS"
-    }
-  },
   "etaRange": {
     "min": 45,
     "max": 55,

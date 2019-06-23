@@ -3983,59 +3983,6 @@
   },
   "priceBucket": "₴",
   "slug": "simple",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d959fcf0-3b5c-4932-b516-4ef08bddd7b9",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/9f0b368c-3c0a-4b3c-a92a-b0f880d8dc0d",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/cd2d3eb6-1894-4b92-86a9-0fe779cfc3bd",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f14a0290-9908-4007-9692-db19569fa198",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f4a25316-4acc-4ae8-8109-ae345a17cac1",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d959fcf0-3b5c-4932-b516-4ef08bddd7b9",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/bd50778b-5e91-4974-b467-d50eda47e1ab",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(143)</span></span>",
-      "accessibilityText": "Rated 4.5 out of 5 stars based on 143 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • European • Healthy • Vegetarian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "20–30 MINS",
-      "textFormat": "<span>20–30 MINS</span>",
-      "accessibilityText": "Delivered in 20 to 30 MINS"
-    }
-  },
   "etaRange": {
     "min": 20,
     "max": 30,

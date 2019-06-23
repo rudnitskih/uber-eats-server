@@ -1134,59 +1134,6 @@
   "priceBucket": "₴₴",
   "slug": "napoli-pizza",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/67ddbbce-cb6e-4f48-b186-362f62d49f80",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/62ca8106-0e17-47e3-a890-d9382d993672",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/9c9f6921-6d73-4820-88db-5f631d0cfe12",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8f47c7ac-8e15-468b-8017-3d2d82630d5e",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(123)</span></span>",
-      "accessibilityText": "Rated 4.3 out of 5 stars based on 123 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Italian • Pizza</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

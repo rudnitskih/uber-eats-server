@@ -2681,59 +2681,6 @@
   },
   "priceBucket": "₴",
   "slug": "momo-вул-п-сагаидачного",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b1ec01e3-404b-4836-bf26-fc7825abae12",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/4fdf7121-0d26-4309-b654-d6c989db9208",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/ecefb921-3c2a-4710-887c-5bcc9321b26b",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/475de4d5-11bc-4816-b0d6-5e3d5580ffec",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/7e88dd16-847d-4cb9-a40d-c80f43ee4599",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b1ec01e3-404b-4836-bf26-fc7825abae12",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/66cb6488-cd2e-41d0-8641-64e9c0dfd9d8",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(153)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 153 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Vegetarian • European • Breakfast and brunch</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "30–40 MINS",
-      "textFormat": "<span>30–40 MINS</span>",
-      "accessibilityText": "Delivered in 30 to 40 MINS"
-    }
-  },
   "etaRange": {
     "min": 30,
     "max": 40,

@@ -1105,59 +1105,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "phokyiv",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/efecb48a-58b1-4adf-a802-9901a2b30611",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e5cd2026-8596-4e2e-8374-c12eed0ae8f1",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0983660a-37c2-4a4b-841d-807d50e03b69",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/ba156af2-d22e-4237-a7df-31e3178cdc41",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/aecafbb6-d45b-4003-b639-adefecd410ef",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/efecb48a-58b1-4adf-a802-9901a2b30611",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d2e39f46-f8dd-4a1d-8482-bb1e79455531",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(178)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 178 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Vietnamese</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

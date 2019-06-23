@@ -943,59 +943,6 @@
   },
   "priceBucket": "₴",
   "slug": "arizona-tacos",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/239a2c92-6748-482e-b6e7-85bb1d12583d",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/69371767-8d49-4920-a351-79f778614a94",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/85610244-a9ad-4bb4-9e0b-80fd110b1ad0",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/03f3ba82-4650-40c2-b90a-a177ee5ab4e9",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/44c8f4be-00a7-4b6b-905c-9eccc593796c",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.0 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(69)</span></span>",
-      "accessibilityText": "Rated 4.0 out of 5 stars based on 69 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Mexican • Tex Mex • Latin American</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "25–35 MINS",
-      "textFormat": "<span>25–35 MINS</span>",
-      "accessibilityText": "Delivered in 25 to 35 MINS"
-    }
-  },
   "etaRange": {
     "min": 25,
     "max": 35,

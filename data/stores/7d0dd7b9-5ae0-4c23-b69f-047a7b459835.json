@@ -3008,59 +3008,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "doner-kebab-&-burger",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/318dda12-2a82-425f-a0c7-d8797f0722a0",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/4aabe55f-0530-4e68-97e8-07aa7b27a5e0",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2deec40a-8ad3-4cfa-a370-c414a6b6b153",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2a369503-6e0d-45d2-8a4d-86748b94f890",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/7f9c7067-748f-42c6-bb2b-afcf43e36d0a",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/318dda12-2a82-425f-a0c7-d8797f0722a0",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5cf61fd1-0b01-4b33-b6c8-53f880369ce3",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(107)</span></span>",
-      "accessibilityText": "Rated 4.5 out of 5 stars based on 107 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Turkish • Eastern European • Burger • Asian • Salad • Comfort Food</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

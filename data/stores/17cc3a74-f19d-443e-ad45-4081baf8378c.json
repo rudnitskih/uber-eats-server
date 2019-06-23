@@ -2803,59 +2803,6 @@
   },
   "priceBucket": "₴",
   "slug": "чашка-espresso-bar",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8c21483c-b073-4f76-8be2-d8c1fe517d3a",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/c186b0f0-35d2-48b3-b50d-c91660d0fd17",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/4182ef0e-554f-4d1a-998b-259d45f41686",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/928f3204-e607-4512-9a4f-95e0a0bf9274",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a3adbbea-bdb0-4a72-a6f5-870c20b23f3c",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(79)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 79 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Breakfast and brunch • Desserts • Coffee and tea</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

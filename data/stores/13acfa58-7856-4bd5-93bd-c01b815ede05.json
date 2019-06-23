@@ -1893,59 +1893,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "радіо-тбілісі",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a8489c55-f840-4717-9efa-376842e222b5",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6ec792b2-0e95-4895-bbe9-0c40929cfddd",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/10ccdff9-3f48-4616-829a-d204545a045a",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e4013182-15d6-4029-a9e7-233122d8375c",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5fd940f4-cb3e-41b3-a672-fdbab08322aa",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(109)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 109 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Georgian • Pastry • Middle Eastern</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "50–60 MINS",
-      "textFormat": "<span>50–60 MINS</span>",
-      "accessibilityText": "Delivered in 50 to 60 MINS"
-    }
-  },
   "etaRange": {
     "min": 50,
     "max": 60,

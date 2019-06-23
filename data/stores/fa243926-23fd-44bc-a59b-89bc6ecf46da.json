@@ -3036,59 +3036,6 @@
   },
   "priceBucket": "₴",
   "slug": "kebab-dash",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c6e01037-0310-4149-82fa-d8c7ef97fd83",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/eff24387-c3e7-4c80-8a7f-3fa69171fb86",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6e91cacb-690e-4c10-9a4c-aaa105e38b8e",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f906a2de-8ff2-4bd8-9169-f6f92d27209a",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/dc650aaf-744d-4553-8c18-1998769d09be",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/c6e01037-0310-4149-82fa-d8c7ef97fd83",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b06b5c98-5871-4fae-861f-27aff83b26bc",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(54)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 54 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Middle Eastern • Desserts • Turkish • Salad • Desserts</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "45–55 MINS",
-      "textFormat": "<span>45–55 MINS</span>",
-      "accessibilityText": "Delivered in 45 to 55 MINS"
-    }
-  },
   "etaRange": {
     "min": 45,
     "max": 55,

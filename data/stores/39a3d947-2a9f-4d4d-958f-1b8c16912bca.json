@@ -1712,59 +1712,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "al-faro",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0ab6dc2f-0065-4988-a07f-cd700a938b65",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5750158e-2165-4cd4-b330-2ef592d39082",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/93c70c20-bb67-4aa2-88cf-ef15d2a12b26",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6b542e39-f9c6-4f33-a97d-641540f0e95a",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(119)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 119 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Italian • European • Pizza</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "25–35 MINS",
-      "textFormat": "<span>25–35 MINS</span>",
-      "accessibilityText": "Delivered in 25 to 35 MINS"
-    }
-  },
   "etaRange": {
     "min": 25,
     "max": 35,

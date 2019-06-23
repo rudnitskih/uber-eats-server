@@ -401,59 +401,6 @@
   },
   "priceBucket": "₴",
   "slug": "my!-burgers-&-fries",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/671b9d74-d74c-4185-8065-c72ae499c8d3",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/20a02ae2-da96-4cec-9b50-c01c3a0cb635",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/cc43389a-157a-496c-b823-534f5761345e",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/237a7e37-b4f9-4b99-9cfa-c747ad2cb12b",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/19f7304d-f34e-4f79-aa5f-869ad9577293",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/671b9d74-d74c-4185-8065-c72ae499c8d3",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/6e6488e2-1d3d-4da0-b76a-d02da439545c",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(206)</span></span>",
-      "accessibilityText": "Rated 4.4 out of 5 stars based on 206 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Burger</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "30–40 MINS",
-      "textFormat": "<span>30–40 MINS</span>",
-      "accessibilityText": "Delivered in 30 to 40 MINS"
-    }
-  },
   "etaRange": {
     "min": 30,
     "max": 40,

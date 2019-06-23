@@ -1709,59 +1709,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "true-burger-bar",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/60e60408-5849-47e5-bbff-fdeae414fc4b",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e55044c7-e99e-4043-9450-802877331fdc",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/033c1649-1b68-44bc-ae39-56a86997de80",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d8a39fd2-cb65-4e02-8ba2-3f5a239f2373",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/ce68c376-bb35-4488-b25f-e141e04c0f63",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(318)</span></span>",
-      "accessibilityText": "Rated 4.4 out of 5 stars based on 318 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • American • Burger • Salad</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "25–35 MINS",
-      "textFormat": "<span>25–35 MINS</span>",
-      "accessibilityText": "Delivered in 25 to 35 MINS"
-    }
-  },
   "etaRange": {
     "min": 25,
     "max": 35,

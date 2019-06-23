@@ -1614,59 +1614,6 @@
   },
   "priceBucket": "₴",
   "slug": "walker-food-вул-антоновича",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/7f4d9667-a889-4226-b29d-e5f7fc18bf2d",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/835cd9f6-e216-4e89-9e8c-3328dad7bdb7",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/00ec1836-4436-4ebf-aeea-3832bc56c26d",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/19d4acad-cbbb-4051-aae7-5215430ff5f0",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/01b66b9f-20aa-4171-9060-d5eb841e2a74",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(209)</span></span>",
-      "accessibilityText": "Rated 4.3 out of 5 stars based on 209 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Fast Food • Burger • Asian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "30–40 MINS",
-      "textFormat": "<span>30–40 MINS</span>",
-      "accessibilityText": "Delivered in 30 to 40 MINS"
-    }
-  },
   "etaRange": {
     "min": 30,
     "max": 40,

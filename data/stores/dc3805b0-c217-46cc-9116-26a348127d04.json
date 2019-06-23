@@ -2211,59 +2211,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "zigzag",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f39786bd-77d2-4fce-b265-c579236673d9",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/efde591a-7c36-4bc7-a95a-ef0cf6854fd6",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/ac078594-6ebb-4cc6-9b7f-14efa85512e5",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/58fc784a-5850-4c55-90a1-4158ee1599ca",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d4ce8d05-d00b-4eb5-b9f3-40ba880ae83d",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(90)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 90 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • European • Breakfast and brunch • Burger</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "45–55 MINS",
-      "textFormat": "<span>45–55 MINS</span>",
-      "accessibilityText": "Delivered in 45 to 55 MINS"
-    }
-  },
   "etaRange": {
     "min": 45,
     "max": 55,

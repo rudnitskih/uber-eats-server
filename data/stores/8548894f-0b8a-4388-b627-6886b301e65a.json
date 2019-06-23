@@ -2155,59 +2155,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "nebos",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0b01c6d6-d78c-46df-90dc-ef2fce60e1a8",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a0af9b29-cf7b-4c48-a5cb-c8e5af02bfd7",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/7771e3e9-2028-4f04-bcd1-64eb05de0711",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0769734a-6d29-41bd-b39c-5b7aed739a6b",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/1e439e24-358c-472e-ad5d-f605eacbb09c",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(115)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 115 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Vegan • Vegetarian friendly</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

@@ -1856,59 +1856,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "pastateca",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/68578bf0-61ae-4883-a379-f8b37da5c074",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0d60f444-2622-4071-a9fd-c9e527723db4",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/9ca24d08-fa4f-4e37-bf70-f85a56131d0c",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0a88e41b-cb25-4c07-8406-973b51449194",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/df04352c-f795-4cc1-a900-f7535ef7fc2b",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(225)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 225 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • European • Pasta • Italian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "25–35 MINS",
-      "textFormat": "<span>25–35 MINS</span>",
-      "accessibilityText": "Delivered in 25 to 35 MINS"
-    }
-  },
   "etaRange": {
     "min": 25,
     "max": 35,

@@ -2882,59 +2882,6 @@
   },
   "priceBucket": "₴",
   "slug": "нікого-не-ім",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/25884f4c-c176-4388-affb-45e5e55018a1",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/909fd5ff-8040-42b8-be22-4f2c3bd62caa",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/ee9464c6-cd1e-4ebf-9cee-bd9fd946ea48",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/728a87da-8df7-40e0-a004-508125ea3ae2",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/9404445b-aa37-4b2d-8aef-5c79c85862ba",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/25884f4c-c176-4388-affb-45e5e55018a1",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5fcb2bad-959a-4206-9880-48a999f8f768",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(258)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 258 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Vegan • Vegetarian • Street Food</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

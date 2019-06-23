@@ -4593,59 +4593,6 @@
   "priceBucket": "₴",
   "slug": "софра-кловськии-узвіз",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/549397df-63bc-4468-b755-245bee187f9f",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/4417f178-8d3a-46c0-94d7-c211a65f4405",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/21d5d5fa-2ba9-416d-a6fa-67e6b9df310f",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/47b30d90-f47e-4176-92a0-ba367489d1ea",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8b2da832-8d05-478c-8ded-8260ce791e57",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(198)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 198 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Middle Eastern • Turkish • Eastern European</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "50–60 MINS",
-      "textFormat": "<span>50–60 MINS</span>",
-      "accessibilityText": "Delivered in 50 to 60 MINS"
-    }
-  },
   "etaRange": {
     "min": 50,
     "max": 60,

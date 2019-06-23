@@ -1859,59 +1859,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "spicy-nospicy",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/1708aef6-eaf7-4755-9ba7-eaf5f669e965",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d5395c60-4510-46b5-bdaa-177dafddc6cc",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/c273c066-e335-4684-93bb-6f27deaadbb3",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/70f3b651-7933-4fa3-af2f-21d892f1fc91",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/dff93e62-a32b-44ff-a7b0-7e84829f3f99",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(89)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 89 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Asian • Chinese • Vietnamese</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

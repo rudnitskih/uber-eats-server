@@ -3972,59 +3972,6 @@
   "priceBucket": "₴₴",
   "slug": "жовте-море-вул-пушкінська",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/38852d9a-bcc9-40e5-a57b-32633b46821d",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0147a292-38c5-4e76-9e18-58918ad252f8",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/61ca5514-84b4-4812-98d1-1bab1f1a8b75",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/27c6e922-6c77-4deb-9591-c08866f153f0",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/7cb194ac-b5d3-477c-8e12-8437c7209a9a",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(188)</span></span>",
-      "accessibilityText": "Rated 4.4 out of 5 stars based on 188 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Japanese • Chinese • Sushi</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

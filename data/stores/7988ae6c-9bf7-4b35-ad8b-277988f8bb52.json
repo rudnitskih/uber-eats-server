@@ -5074,59 +5074,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "hedonist-bar-&-kitchen",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5f2c296b-0776-4fe0-b045-17723e85bf9c",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/bd9f08f1-391e-41a0-841b-a64e25e4cd9f",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/23210892-3617-4225-a658-2bd8626c1458",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/16d06b00-85ec-4f32-901b-4235e0b4a928",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2aa3dddb-8ead-4828-a3f3-c94c16ece9cd",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(111)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 111 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • European • Burger • Asian</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

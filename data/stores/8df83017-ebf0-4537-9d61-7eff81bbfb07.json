@@ -2990,59 +2990,6 @@
   },
   "priceBucket": "₴",
   "slug": "cafe-dash",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/dc0cde72-256c-4d78-82ec-01df38f73028",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/da22458f-e3fb-46b1-9e5d-4b6ac7ebc58a",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0657eada-ac22-48ee-a6de-be33453c9854",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/7ab4b846-4bbe-41b1-9c01-e753c5fc2aa5",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/07842b45-9afd-4f22-ac0c-36ac8c4b23f1",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/dc0cde72-256c-4d78-82ec-01df38f73028",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e5f62dff-8998-4be7-8197-dbe4212c32d0",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(71)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.5 out of 5 stars based on 71 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Turkish • Middle Eastern • Pizza • Desserts</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,

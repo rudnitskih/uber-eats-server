@@ -4738,59 +4738,6 @@
   "priceBucket": "₴",
   "slug": "noodle-doodle-бессарабська-площа",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0d86b04b-4383-4f96-a7bc-1b460326ca9d",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/61685c91-0f9c-4968-b384-64a65fc01a1e",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/bc065e01-9ddf-48ff-b8e5-dc1e813744b7",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2b368aa9-9e03-4e8c-978c-9ca73b302f87",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/2d80608e-ed93-4752-a2ed-6b0cfc0a166f",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0d86b04b-4383-4f96-a7bc-1b460326ca9d",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/e7c4418f-cb23-44a7-8203-7f23cf48e3d0",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(500+)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on more than 200 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Asian • Chinese</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "10–20 MINS",
-      "textFormat": "<span>10–20 MINS</span>",
-      "accessibilityText": "Delivered in 10 to 20 MINS"
-    }
-  },
   "etaRange": {
     "min": 10,
     "max": 20,

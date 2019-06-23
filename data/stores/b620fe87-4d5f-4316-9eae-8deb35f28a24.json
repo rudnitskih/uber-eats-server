@@ -884,59 +884,6 @@
   },
   "priceBucket": "₴",
   "slug": "naprosecco-oyster-&-co",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/19365474-ae9c-46a8-806b-c004c51efcbf",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a92b5a78-c970-421d-a084-30db0992c4d5",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/267d42f7-8317-488d-bfe4-ce1f83bf48f8",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/d3197967-db32-4415-a9d8-8b765a10ddb2",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(81)</span></span>",
-      "accessibilityText": "Rated 4.4 out of 5 stars based on 81 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Seafood • Burger • European</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

@@ -1602,59 +1602,6 @@
   },
   "priceBucket": "₴",
   "slug": "raman-sumasbrod",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a2328b9d-5681-4cc0-bb22-9fdd2f7e0141",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8565039e-f2d8-4ae5-8a9c-137bdd71a011",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5acd807e-ee2e-411f-b241-26dd9b572078",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b3f68030-6385-4491-99db-ba410f31a8bb",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(125)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on 125 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Vegetarian • Street Food • Vegan</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "15–25 MINS",
-      "textFormat": "<span>15–25 MINS</span>",
-      "accessibilityText": "Delivered in 15 to 25 MINS"
-    }
-  },
   "etaRange": {
     "min": 15,
     "max": 25,

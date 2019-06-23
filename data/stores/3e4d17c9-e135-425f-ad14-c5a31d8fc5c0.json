@@ -1266,59 +1266,6 @@
   "priceBucket": "₴",
   "slug": "ппельмені",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/a5bf5ac8-84fd-4928-ae42-c0174b84930d",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/00f55ed8-09d2-47e6-a086-96ff39c60356",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/697ff65e-3600-424b-b2a3-80c941e81e16",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/31f99a8e-1431-4c5b-9489-23fa5c19ec6d",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(206)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.5 out of 5 stars based on 206 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Eastern European • Ukrainian • Comfort Food</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "20–30 MINS",
-      "textFormat": "<span>20–30 MINS</span>",
-      "accessibilityText": "Delivered in 20 to 30 MINS"
-    }
-  },
   "etaRange": {
     "min": 20,
     "max": 30,

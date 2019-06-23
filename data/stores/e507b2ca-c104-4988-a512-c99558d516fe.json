@@ -2405,59 +2405,6 @@
   },
   "priceBucket": "₴",
   "slug": "carnivora-вул-cічових-стрільців",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/162d8d7d-7e73-42f0-94bc-d1f0e7050477",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/061b8acc-e0b5-408f-a72d-410f6f689bd2",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/eefc6262-7a84-4d2b-b003-ae5c7d41db6c",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/bfd3358d-1b76-43fa-97c2-90cbd394eb9d",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5bc33049-5b31-4b7e-8da2-3fed9ae0481d",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/162d8d7d-7e73-42f0-94bc-d1f0e7050477",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/5ede9ad6-a8e1-49b7-8bd2-0fdec8d6786a",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(113)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.6 out of 5 stars based on 113 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Ukrainian • Comfort Food • Burger</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "20–30 MINS",
-      "textFormat": "<span>20–30 MINS</span>",
-      "accessibilityText": "Delivered in 20 to 30 MINS"
-    }
-  },
   "etaRange": {
     "min": 20,
     "max": 30,

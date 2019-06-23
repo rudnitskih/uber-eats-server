@@ -4727,59 +4727,6 @@
   "priceBucket": "₴",
   "slug": "noodle-doodle-вул-велика-васильківська",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/8eac1eb0-db4a-499e-afd5-116b92a03a7b",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0971e3f6-322e-4872-ad3d-277d16ca91d9",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/cdc3432f-3fb5-4010-85db-afb58e29588c",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/bac9b32e-fc45-4cbb-8746-d41067cfec86",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/23fc5019-26bb-4951-a628-c1ee64697715",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8eac1eb0-db4a-499e-afd5-116b92a03a7b",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/80405607-ffa2-4162-b964-98785498d30f",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(500+)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on more than 200 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴ • Asian • Chinese</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "20–30 MINS",
-      "textFormat": "<span>20–30 MINS</span>",
-      "accessibilityText": "Delivered in 20 to 30 MINS"
-    }
-  },
   "etaRange": {
     "min": 20,
     "max": 30,

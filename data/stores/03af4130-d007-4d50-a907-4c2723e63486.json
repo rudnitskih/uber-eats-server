@@ -3210,59 +3210,6 @@
   "priceBucket": "₴₴",
   "slug": "celentano-вул-велика-васильківська",
   "disableOrderInstruction": false,
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/03a60f51-9cea-4e8e-8408-5a093b46d086",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/ac289dfe-80aa-4f43-a473-bd519a8e67d9",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/85948433-1a94-4cbd-8108-749ba647ebd4",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b8efd0a9-684c-49dc-bb5b-56ab75b645cb",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/cf7a8a9c-0d02-438c-b8eb-204f29c2c1a7",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/03a60f51-9cea-4e8e-8408-5a093b46d086",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/8a6b5f53-d881-4ea9-8676-3a8b322f3c4c",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(163)</span></span>",
-      "accessibilityText": "Rated 4.3 out of 5 stars based on 163 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Italian • European</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "40–50 MINS",
-      "textFormat": "<span>40–50 MINS</span>",
-      "accessibilityText": "Delivered in 40 to 50 MINS"
-    }
-  },
   "etaRange": {
     "min": 40,
     "max": 50,

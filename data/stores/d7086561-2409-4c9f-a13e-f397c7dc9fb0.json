@@ -2443,59 +2443,6 @@
   },
   "priceBucket": "₴₴",
   "slug": "балувана-галя",
-  "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/61eb08eb-01d3-462f-aad2-e9a577a99417",
-  "heroImage": {
-    "items": [
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/99af2674-8c0a-43e4-afd6-010b4a2b778a",
-        "width": 2880,
-        "height": 2304
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/3efafcb6-bb9b-4778-a42c-2424ad6d1291",
-        "width": 1080,
-        "height": 864
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/dabc9405-7725-418c-9323-7d57d5c0133f",
-        "width": 750,
-        "height": 600
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/b6519a38-1ccb-47c4-9480-0afb9700f914",
-        "width": 640,
-        "height": 512
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/61eb08eb-01d3-462f-aad2-e9a577a99417",
-        "width": 550,
-        "height": 440
-      },
-      {
-        "url": "https://d1ralsognjng37.cloudfront.net/0b2c0cd6-959b-4f98-8ab8-62a35d81b4dd",
-        "width": 240,
-        "height": 192
-      }
-    ]
-  },
-  "storeBadges": {
-    "disclaimerBadge": {
-      "textFormat": ""
-    },
-    "ratingBadge": {
-      "textFormat": "<span><span style=\"font-family:S1;color:#3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"/> </span><span style=\"font-family:S1;color:#757575;\">(500+)</span></span>",
-      "accessibilityText": "A top-rated restaurant with 4.7 out of 5 stars based on more than 200 reviews."
-    },
-    "taglineBadge": {
-      "textFormat": "<span>₴₴ • Ukrainian • European • Comfort Food</span>"
-    },
-    "etaBadge": {
-      "iconUrl": "https://d1a3f4spazzrp4.cloudfront.net/ubereats/mobile/eta_large.png",
-      "text": "35–45 MINS",
-      "textFormat": "<span>35–45 MINS</span>",
-      "accessibilityText": "Delivered in 35 to 45 MINS"
-    }
-  },
   "etaRange": {
     "min": 35,
     "max": 45,
