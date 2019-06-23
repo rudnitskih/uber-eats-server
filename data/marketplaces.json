@@ -404,40 +404,6 @@
       "uuid": "6585ad84-b9b0-4ab0-be54-f22657cd29bc",
       "title": "Musafir (вул. Саксаганського)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed032859-05fa-4761-9a4f-ac5fb7d5859a",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/48f30dc6-245f-4257-9b6f-8fc00c510fd9",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a902559f-0583-4e64-a0bd-8e056e4e85ab",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ff6085e7-a53b-4b78-9953-1c1b83bf0e76",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/96e8d14a-365c-4401-9b11-4726f45e81ff",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ed032859-05fa-4761-9a4f-ac5fb7d5859a",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/75563b92-9459-4390-8c55-d9eab4334dcb",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.435982,
         "longitude": 30.50805199999999,
@@ -459,7 +425,6 @@
         }
       ],
       "endorsement": "Найпопулярніші янтики та чебуреки",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/ed032859-05fa-4761-9a4f-ac5fb7d5859a",
       "tags": [
         {
           "uuid": "MiddleEastern",
@@ -477,7 +442,6 @@
           "keyName": "Georgian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/48f30dc6-245f-4257-9b6f-8fc00c510fd9",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -492,46 +456,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380501649676"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/48f30dc6-245f-4257-9b6f-8fc00c510fd9"
     },
     {
       "uuid": "2de9bfbe-33e4-4d0f-aafa-96e5eb15e286",
       "title": "Berliner Döner (б-р Т. Шевченка)",
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w550-01.jpg",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w2880-2b.jpg",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w550-01.jpg",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w750-66.jpg",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w240-9f.jpg",
-            "width": 240,
-            "height": 192
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w640-68.jpg",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w1080-b2.jpg",
-            "width": 1080,
-            "height": 864
-          }
-        ]
-      },
       "location": {
         "latitude": 50.445875,
         "longitude": 30.49640100000001,
@@ -567,7 +498,6 @@
           "keyName": "European"
         }
       ],
-      "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w550-01.jpg",
       "tags": [
         {
           "uuid": "Shawarma",
@@ -590,7 +520,6 @@
           "keyName": "Drink"
         }
       ],
-      "largeHeroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w2880-2b.jpg",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -605,46 +534,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380689480731"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w2880-2b.jpg"
     },
     {
       "uuid": "a4b2a7ab-bfd4-4b0f-b208-0bfbf90fecb5",
       "title": "Gogi (б-р Т. Шевченка)",
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w550-40.jpg",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w2880-eb.jpg",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w240-0e.jpg",
-            "width": 240,
-            "height": 192
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w550-40.jpg",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w750-7d.jpg",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w640-96.jpg",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w1080-21.jpg",
-            "width": 1080,
-            "height": 864
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44276509999999,
         "longitude": 30.5195291,
@@ -676,7 +572,6 @@
         }
       ],
       "endorsement": "Традиційні грузинські хінкалі та хачапурі",
-      "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w550-40.jpg",
       "tags": [
         {
           "uuid": "Georgian",
@@ -694,7 +589,6 @@
           "keyName": "Pastry"
         }
       ],
-      "largeHeroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w2880-eb.jpg",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -709,46 +603,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380636150989"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w2880-eb.jpg"
     },
     {
       "uuid": "3797de4f-edb9-4b99-bc04-e9ef79037df9",
       "title": "Milk Bar",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cd0ed1c1-d96e-4d94-978f-aef68e8724ee",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/600f717c-2f25-4617-9fbe-fa892d0e81b0",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ade5335f-480c-4b48-bb42-462be445a4f7",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/93905bfd-b03d-42ab-8fba-1457c37dca71",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/323a69f4-f1d6-4b05-9943-3197285fb755",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.438959,
         "longitude": 30.51944799999999,
@@ -775,7 +636,6 @@
         }
       ],
       "endorsement": "Десерти, про які всі говорять",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
       "tags": [
         {
           "uuid": "Dessert",
@@ -788,7 +648,6 @@
           "keyName": "European"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/cd0ed1c1-d96e-4d94-978f-aef68e8724ee",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -803,46 +662,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380442370907"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/cd0ed1c1-d96e-4d94-978f-aef68e8724ee"
     },
     {
       "uuid": "8476752b-08cb-4280-8066-41bc3c0dca4c",
       "title": "Meiwei (вул. Велика Васильківська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/f51103dd-acd1-4b10-a87c-6a40c2f5884e",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/bec69c7d-acef-4362-ab88-b087721305bd",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/969f06b3-e82e-4f81-9103-633a7c21419c",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cbb39737-9882-400e-b544-e395ea9b684e",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f0ba528d-48a6-48bd-b415-a894cfa3fd6c",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f51103dd-acd1-4b10-a87c-6a40c2f5884e",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4cc3db7f-49f5-4319-9e5f-408256d6c10d",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4391605,
         "longitude": 30.5171764,
@@ -868,7 +694,6 @@
           "keyName": "Asian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/f51103dd-acd1-4b10-a87c-6a40c2f5884e",
       "tags": [
         {
           "uuid": "Asian",
@@ -886,7 +711,6 @@
           "keyName": "Noodle"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/bec69c7d-acef-4362-ab88-b087721305bd",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -901,46 +725,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380673113545"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/bec69c7d-acef-4362-ab88-b087721305bd"
     },
     {
       "uuid": "b4966a8c-1b47-41f1-94ce-3f138127f9f0",
       "title": "Green 13 (Бессарабська площа)",
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w550-47.jpg",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w2880-84.jpg",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w240-bf.jpg",
-            "width": 240,
-            "height": 192
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w550-47.jpg",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w750-33.jpg",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w640-bd.jpg",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w1080-60.jpg",
-            "width": 1080,
-            "height": 864
-          }
-        ]
-      },
       "location": {
         "latitude": 50.442383,
         "longitude": 30.521535,
@@ -972,7 +763,6 @@
         }
       ],
       "endorsement": "Веганський стріт-фуд",
-      "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w550-47.jpg",
       "tags": [
         {
           "uuid": "Vegan",
@@ -1000,7 +790,6 @@
           "keyName": "Falafel"
         }
       ],
-      "largeHeroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w2880-84.jpg",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -1015,46 +804,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380982940231"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w2880-84.jpg"
     },
     {
       "uuid": "c4f38df6-a5b7-4eb5-929b-02e398a85d8f",
       "title": "ORANG+UTAN (вул. С. Петлюри)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/b25926dd-02a8-4a75-8f81-1f25a08c8be0",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3356bf0b-4f8a-4117-92ea-d2fc4e11159a",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b212ea11-959e-46b3-bea6-49d54b261474",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/40af0405-7967-4f5d-bfde-3631c5b0c9cd",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0bdec053-2b58-44df-a8f9-d4fd52360ffb",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b25926dd-02a8-4a75-8f81-1f25a08c8be0",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e84e3b71-317e-4622-b588-617a336bd874",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44418727034851,
         "longitude": 30.49753181597313,
@@ -1086,7 +842,6 @@
         }
       ],
       "endorsement": "Сендвіч-бар здорової їжі",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b25926dd-02a8-4a75-8f81-1f25a08c8be0",
       "tags": [
         {
           "uuid": "Healthy",
@@ -1104,7 +859,6 @@
           "keyName": "Vegan"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/3356bf0b-4f8a-4117-92ea-d2fc4e11159a",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -1119,46 +873,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380679906910"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3356bf0b-4f8a-4117-92ea-d2fc4e11159a"
     },
     {
       "uuid": "b4897dec-3456-4691-9524-48caa602e552",
       "title": "Noodle Doodle (Бессарабська площа)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d86b04b-4383-4f96-a7bc-1b460326ca9d",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/61685c91-0f9c-4968-b384-64a65fc01a1e",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/bc065e01-9ddf-48ff-b8e5-dc1e813744b7",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2b368aa9-9e03-4e8c-978c-9ca73b302f87",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2d80608e-ed93-4752-a2ed-6b0cfc0a166f",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0d86b04b-4383-4f96-a7bc-1b460326ca9d",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e7c4418f-cb23-44a7-8203-7f23cf48e3d0",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.442647703993565,
         "longitude": 30.521395343482457,
@@ -1184,7 +905,6 @@
           "keyName": "Chinese"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0d86b04b-4383-4f96-a7bc-1b460326ca9d",
       "tags": [
         {
           "uuid": "Asian",
@@ -1212,7 +932,6 @@
           "keyName": "Dumpling"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/61685c91-0f9c-4968-b384-64a65fc01a1e",
       "etaRange": {
         "min": 10,
         "max": 20,
@@ -1227,46 +946,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380673204446"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/61685c91-0f9c-4968-b384-64a65fc01a1e"
     },
     {
       "uuid": "cd9eef63-9536-461d-9f19-5358f4b4fa66",
       "title": "Сушия (просп. Перемоги 3)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1a2f664f-f3c7-4008-9461-acf294b4d1af",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6e23cd2a-8a53-4e88-b53b-b65b0f034023",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8b5833ff-3115-489f-98fc-c3cf025ff2e4",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4535d008-3c75-4c9f-b553-81654dd3216e",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c202a228-565a-473f-b1a3-47356756c161",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4470799,
         "longitude": 30.4886158,
@@ -1303,7 +989,6 @@
         }
       ],
       "endorsement": "Справжні японські суші",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
       "tags": [
         {
           "uuid": "Rolls",
@@ -1336,7 +1021,6 @@
           "keyName": "Japanese"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/1a2f664f-f3c7-4008-9461-acf294b4d1af",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -1351,46 +1035,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380674032929"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1a2f664f-f3c7-4008-9461-acf294b4d1af"
     },
     {
       "uuid": "d7086561-2409-4c9f-a13e-f397c7dc9fb0",
       "title": "Балувана Галя",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/61eb08eb-01d3-462f-aad2-e9a577a99417",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/99af2674-8c0a-43e4-afd6-010b4a2b778a",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3efafcb6-bb9b-4778-a42c-2424ad6d1291",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/dabc9405-7725-418c-9323-7d57d5c0133f",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b6519a38-1ccb-47c4-9480-0afb9700f914",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/61eb08eb-01d3-462f-aad2-e9a577a99417",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0b2c0cd6-959b-4f98-8ab8-62a35d81b4dd",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.432358,
         "longitude": 30.513167,
@@ -1421,7 +1072,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/61eb08eb-01d3-462f-aad2-e9a577a99417",
       "tags": [
         {
           "uuid": "Ukrainian",
@@ -1439,7 +1089,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/99af2674-8c0a-43e4-afd6-010b4a2b778a",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -1454,46 +1103,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380933193939"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/99af2674-8c0a-43e4-afd6-010b4a2b778a"
     },
     {
       "uuid": "49152074-1425-4770-b8e5-abe80736c635",
       "title": "Mimosa Brooklyn Pizza",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e8d32ee-5f96-45dc-99db-19b17001d4ee",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/18b42e75-d581-42ce-87e6-279c9aa8e62f",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a53fdf31-dcb2-4310-ad6d-86591171405c",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/57629d19-28be-4020-b471-6b96ab399571",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0d530b8e-fb24-4021-801a-fd7b2bcd17fd",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0e8d32ee-5f96-45dc-99db-19b17001d4ee",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f0c05549-75a1-4d1b-95d8-1bb2a022e594",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.441838,
         "longitude": 30.5228859,
@@ -1525,7 +1141,6 @@
         }
       ],
       "endorsement": "Смачна піца на хрусткому коржі",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0e8d32ee-5f96-45dc-99db-19b17001d4ee",
       "tags": [
         {
           "uuid": "Italian",
@@ -1543,7 +1158,6 @@
           "keyName": "American"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/18b42e75-d581-42ce-87e6-279c9aa8e62f",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -1558,46 +1172,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380660670158"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/18b42e75-d581-42ce-87e6-279c9aa8e62f"
     },
     {
       "uuid": "e476dc30-429f-4228-ab27-e10552a4f0c2",
       "title": "Burger Farm (б-р Шевченка)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/48efae80-7609-44a2-bec8-afbae76fab98",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/100bb3e2-6a60-40cd-b503-444a68118c6d",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/30c2f211-02db-4a3f-a907-37b78af1c5e5",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/72410664-f7ff-4ac2-863c-34ca94156a50",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/17c357bb-136a-4392-b73d-26240b713ee8",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/48efae80-7609-44a2-bec8-afbae76fab98",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/375aaf0d-5664-48ac-95e7-2d3a64e15fee",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44652010271184,
         "longitude": 30.496426427143586,
@@ -1628,7 +1209,6 @@
           "keyName": "TraditionalAmerican"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/48efae80-7609-44a2-bec8-afbae76fab98",
       "tags": [
         {
           "uuid": "Burger",
@@ -1646,7 +1226,6 @@
           "keyName": "Falafel"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/100bb3e2-6a60-40cd-b503-444a68118c6d",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -1661,46 +1240,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380506340451"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/100bb3e2-6a60-40cd-b503-444a68118c6d"
     },
     {
       "uuid": "7ba8a72c-0962-4672-9668-54691bb8c224",
       "title": "Сушия (вул. Г. Кірпи)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/be1c1aa8-604c-4b62-966b-807ca06adab0",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/48f9fc96-99be-4ec3-8665-ceff46cde345",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/296ab4e7-6189-4013-83fb-4d98a47b0ecd",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/fe528387-edf5-4e5d-ad0d-36c1809498c5",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d5cfa45b-c059-4a83-b8e5-50e52202f09d",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/be1c1aa8-604c-4b62-966b-807ca06adab0",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/be093493-b4ec-4645-b355-c6848786e879",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.43883654193364,
         "longitude": 30.484408818940935,
@@ -1737,7 +1283,6 @@
         }
       ],
       "endorsement": "Справжні японські суші",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/be1c1aa8-604c-4b62-966b-807ca06adab0",
       "tags": [
         {
           "uuid": "Sushi",
@@ -1765,7 +1310,6 @@
           "keyName": "Salad"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/48f9fc96-99be-4ec3-8665-ceff46cde345",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -1780,46 +1324,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380672098257"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/48f9fc96-99be-4ec3-8665-ceff46cde345"
     },
     {
       "uuid": "e8cdd7bd-a859-4471-9c57-8fd655e75e17",
       "title": "Dogs & Tails",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/15ba986f-e0ec-4a53-8d85-ac9f24e70a7d",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/facf4464-c079-4b05-8bb5-589218838390",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9f71e579-35e8-481a-87c8-b67b1a29dff7",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c5256056-e034-4b79-8402-c17904159f86",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d454acdb-a4f2-4637-b3bc-01fda0cfa6b6",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.438354,
         "longitude": 30.519549,
@@ -1850,7 +1361,6 @@
           "keyName": "StreetFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b",
       "tags": [
         {
           "uuid": "Completos",
@@ -1873,7 +1383,6 @@
           "keyName": "BarFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/15ba986f-e0ec-4a53-8d85-ac9f24e70a7d",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -1888,46 +1397,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380443530907"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/15ba986f-e0ec-4a53-8d85-ac9f24e70a7d"
     },
     {
       "uuid": "3e4d17c9-e135-425f-ad14-c5a31d8fc5c0",
       "title": "П.Пельмені",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a5bf5ac8-84fd-4928-ae42-c0174b84930d",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/00f55ed8-09d2-47e6-a086-96ff39c60356",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/697ff65e-3600-424b-b2a3-80c941e81e16",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/31f99a8e-1431-4c5b-9489-23fa5c19ec6d",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.442465017329766,
         "longitude": 30.52185985260985,
@@ -1958,7 +1434,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
       "tags": [
         {
           "uuid": "EasternEuropean",
@@ -1976,7 +1451,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -1991,46 +1465,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380633740510"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0"
     },
     {
       "uuid": "b89c1c6e-97d2-484d-912a-d15b8c9e1e30",
       "title": "Жовте море (вул. Пушкінська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/38852d9a-bcc9-40e5-a57b-32633b46821d",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0147a292-38c5-4e76-9e18-58918ad252f8",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/61ca5514-84b4-4812-98d1-1bab1f1a8b75",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/27c6e922-6c77-4deb-9591-c08866f153f0",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7cb194ac-b5d3-477c-8e12-8437c7209a9a",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44078825996577,
         "longitude": 30.516605599335705,
@@ -2061,7 +1502,6 @@
           "keyName": "Sushi"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
       "tags": [
         {
           "uuid": "Japanese",
@@ -2079,7 +1519,6 @@
           "keyName": "Sushi"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/38852d9a-bcc9-40e5-a57b-32633b46821d",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -2094,46 +1533,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380442245555"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/38852d9a-bcc9-40e5-a57b-32633b46821d"
     },
     {
       "uuid": "ac62b80f-5757-4bd1-a2fa-10064fba4c89",
       "title": "Bistro Bistro (вул. Шота Руставелі)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/689352da-8b67-4ec9-b84b-50459d7d56f8",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ca968d0c-4d50-4e43-a4bd-7e3ce50d8dbd",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6a23918c-330f-46ee-aeae-81f1ddaf02e1",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b96ad0c4-5143-451d-8724-4969db0f57be",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/37305a0d-0081-4cc5-a2db-bc35f77adf54",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/689352da-8b67-4ec9-b84b-50459d7d56f8",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/32786312-e96f-474e-a992-b4368c3c0c1e",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.438784799109875,
         "longitude": 30.520026420780066,
@@ -2165,7 +1571,6 @@
         }
       ],
       "endorsement": "Улюблені хот-доги столиці",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/689352da-8b67-4ec9-b84b-50459d7d56f8",
       "tags": [
         {
           "uuid": "American",
@@ -2183,7 +1588,6 @@
           "keyName": "Completos"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/ca968d0c-4d50-4e43-a4bd-7e3ce50d8dbd",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -2198,46 +1602,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380502938633"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/ca968d0c-4d50-4e43-a4bd-7e3ce50d8dbd"
     },
     {
       "uuid": "8dd6b32e-94ab-413d-a409-32e56f649223",
       "title": "Mira cafe (Бессарабська площа)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f79e8366-7e4f-453e-90c6-0c06b783af17",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7989627b-1089-4039-b039-f122f64e4134",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d713b585-4924-49e4-8202-68e9cdb40d2d",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/07e3ba3b-eaea-4581-aa4a-7296f314177c",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/eeb7e48d-535a-4dfc-b283-0f6e628ffe7d",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.442383,
         "longitude": 30.521535,
@@ -2269,7 +1640,6 @@
         }
       ],
       "endorsement": "Збалансовані страви з натуральних продуктів",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
       "tags": [
         {
           "uuid": "European",
@@ -2292,7 +1662,6 @@
           "keyName": "Healthy"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/f79e8366-7e4f-453e-90c6-0c06b783af17",
       "etaRange": {
         "min": 10,
         "max": 20,
@@ -2307,46 +1676,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380677432322"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f79e8366-7e4f-453e-90c6-0c06b783af17"
     },
     {
       "uuid": "5a2ab93f-635d-47fd-9dce-b62ec1ef41f7",
       "title": "ЇZH",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/569e47d7-96e0-4f62-bc65-9b9636d097a3",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/aeeba30f-b148-41fc-a95e-bd6c308553ee",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f10ccd32-9824-4796-a800-b69f11a67551",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e1c615c1-eec1-42d6-bba6-fc697bc40360",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/af16bbf8-253c-455a-8a7b-99c4c6f5a9b0",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.450755,
         "longitude": 30.513669,
@@ -2377,7 +1713,6 @@
           "keyName": "StreetFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
       "tags": [
         {
           "uuid": "American",
@@ -2395,7 +1730,6 @@
           "keyName": "StreetFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/569e47d7-96e0-4f62-bc65-9b9636d097a3",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -2410,46 +1744,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380663139959"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/569e47d7-96e0-4f62-bc65-9b9636d097a3"
     },
     {
       "uuid": "e977baa2-fa97-4292-847b-edb5e6ddd271",
       "title": "PASTATECA",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/68578bf0-61ae-4883-a379-f8b37da5c074",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0d60f444-2622-4071-a9fd-c9e527723db4",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9ca24d08-fa4f-4e37-bf70-f85a56131d0c",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0a88e41b-cb25-4c07-8406-973b51449194",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/df04352c-f795-4cc1-a900-f7535ef7fc2b",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.439749,
         "longitude": 30.511726,
@@ -2480,7 +1781,6 @@
           "keyName": "Italian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
       "tags": [
         {
           "uuid": "ModernEuropean",
@@ -2508,7 +1808,6 @@
           "keyName": "Pasta"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/68578bf0-61ae-4883-a379-f8b37da5c074",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -2523,46 +1822,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380673206580"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/68578bf0-61ae-4883-a379-f8b37da5c074"
     },
     {
       "uuid": "a9618f36-3494-44e9-91eb-df74d0827e15",
       "title": "Viet Bar",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/7de8ef71-0282-48bd-bee3-a9b8e8d34c07",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/50d289e2-1c31-4cc6-90d5-fce64d59de3e",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b8096840-40a1-40cf-b0fc-aa76e95bd74e",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/690cde34-e7de-4982-9711-8a455fc37e56",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ac34f6a1-df41-4b85-997f-55c5e32d283a",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7de8ef71-0282-48bd-bee3-a9b8e8d34c07",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a288d19a-b0ff-454b-a1a5-6788cba0a8c4",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4294014,
         "longitude": 30.5156605,
@@ -2588,7 +1854,6 @@
           "keyName": "Vietnamese"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/7de8ef71-0282-48bd-bee3-a9b8e8d34c07",
       "tags": [
         {
           "uuid": "Salad",
@@ -2611,7 +1876,6 @@
           "keyName": "Asian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/50d289e2-1c31-4cc6-90d5-fce64d59de3e",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -2626,46 +1890,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380935200949"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/50d289e2-1c31-4cc6-90d5-fce64d59de3e"
     },
     {
       "uuid": "6de9aa89-2985-49ce-bad4-b85720e150d2",
       "title": "ShashlikYan (вул. Велика Васильківська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/dba367fc-e42b-4eb3-a532-220c5046abf5",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ab610f42-154d-4296-ab56-569a89b7ecc6",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/338d4e66-3cae-498b-a30a-8c6808530000",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4174d758-bce8-40af-9e68-e123919074ef",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/fb7caf87-a782-4d3f-901e-82c1243f1de1",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/dba367fc-e42b-4eb3-a532-220c5046abf5",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4e5cd704-a768-4417-99c5-4085970b691d",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.42123049692734,
         "longitude": 30.519567185639513,
@@ -2707,7 +1938,6 @@
         }
       ],
       "endorsement": "Шашлик в кращих вірменських традиціях ",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/dba367fc-e42b-4eb3-a532-220c5046abf5",
       "tags": [
         {
           "uuid": "MiddleEastern",
@@ -2735,7 +1965,6 @@
           "keyName": "Salad"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/ab610f42-154d-4296-ab56-569a89b7ecc6",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -2750,46 +1979,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380443840988"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/ab610f42-154d-4296-ab56-569a89b7ecc6"
     },
     {
       "uuid": "3d1e4ba7-3461-45d1-9a82-9ec55c80c2c5",
       "title": "Ой, Мамо! Це було в Тбiлiсi",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cfe6bc9-0bff-4f46-85d6-75c9b2392016",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8463171f-3c1f-4269-a6ab-3ec076b61f04",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/447010b1-ffdc-4452-b89e-5cf3d61b8fe2",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1d576771-f72f-42ae-a54f-cde12fc59629",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1b60ba0f-2b0a-491b-ad08-408315d55149",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2cfe6bc9-0bff-4f46-85d6-75c9b2392016",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e1727f9c-a6b3-4451-a629-fb715b845683",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4412854,
         "longitude": 30.499243,
@@ -2820,7 +2016,6 @@
           "keyName": "MiddleEastern"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2cfe6bc9-0bff-4f46-85d6-75c9b2392016",
       "tags": [
         {
           "uuid": "Georgian",
@@ -2838,7 +2033,6 @@
           "keyName": "MiddleEastern"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/8463171f-3c1f-4269-a6ab-3ec076b61f04",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -2853,46 +2047,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380934201667"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8463171f-3c1f-4269-a6ab-3ec076b61f04"
     },
     {
       "uuid": "0e924687-7405-4c62-b38f-dc7cda384d65",
       "title": "Furgoneta",
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w240-63.jpg",
-            "width": 240,
-            "height": 192
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w750-3c.jpg",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w640-4f.jpg",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w1080-88.jpg",
-            "width": 1080,
-            "height": 864
-          }
-        ]
-      },
       "location": {
         "latitude": 50.440267,
         "longitude": 30.523493,
@@ -2928,7 +2089,6 @@
           "keyName": "FastFood"
         }
       ],
-      "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w550-13.jpg",
       "tags": [
         {
           "uuid": "Vegetarian",
@@ -2946,7 +2106,6 @@
           "keyName": "Noodles"
         }
       ],
-      "largeHeroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -2961,46 +2120,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380501498999"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544698474444-w2880-39.jpg"
     },
     {
       "uuid": "07a42419-c83a-47cf-8f3c-99c05e38bc04",
       "title": "Нікого не їм",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/25884f4c-c176-4388-affb-45e5e55018a1",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/909fd5ff-8040-42b8-be22-4f2c3bd62caa",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ee9464c6-cd1e-4ebf-9cee-bd9fd946ea48",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/728a87da-8df7-40e0-a004-508125ea3ae2",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9404445b-aa37-4b2d-8aef-5c79c85862ba",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/25884f4c-c176-4388-affb-45e5e55018a1",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5fcb2bad-959a-4206-9880-48a999f8f768",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44623012538354,
         "longitude": 30.51551990287617,
@@ -3031,7 +2157,6 @@
           "keyName": "StreetFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/25884f4c-c176-4388-affb-45e5e55018a1",
       "tags": [
         {
           "uuid": "Vegan",
@@ -3054,7 +2179,6 @@
           "keyName": "Noodle"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/909fd5ff-8040-42b8-be22-4f2c3bd62caa",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -3069,46 +2193,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380633722232"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/909fd5ff-8040-42b8-be22-4f2c3bd62caa"
     },
     {
       "uuid": "ebb14e0c-96f1-44c1-ae09-a72e3d65f7c3",
       "title": "The Butcher Burgers",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6a6f6efe-1bb0-43fe-89df-d19fae11f166",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6d66c434-5ce7-478e-b8cd-f64b7899bf82",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3ce5de29-9305-499e-b97a-5110377ea22e",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e58858de-3dc9-4106-b0f8-adf9315974f0",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.45221199999999,
         "longitude": 30.517241,
@@ -3139,7 +2230,6 @@
           "keyName": "Salad"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
       "tags": [
         {
           "uuid": "American",
@@ -3157,7 +2247,6 @@
           "keyName": "Salad"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -3172,46 +2261,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380639461405"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981"
     },
     {
       "uuid": "cdee8e3d-c389-45b4-990a-5846770f97b2",
       "title": "MY! Burgers & Fries",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/671b9d74-d74c-4185-8065-c72ae499c8d3",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/20a02ae2-da96-4cec-9b50-c01c3a0cb635",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cc43389a-157a-496c-b823-534f5761345e",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/237a7e37-b4f9-4b99-9cfa-c747ad2cb12b",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/19f7304d-f34e-4f79-aa5f-869ad9577293",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/671b9d74-d74c-4185-8065-c72ae499c8d3",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6e6488e2-1d3d-4da0-b76a-d02da439545c",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4388667,
         "longitude": 30.5230665,
@@ -3232,7 +2288,6 @@
           "keyName": "Burger"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/671b9d74-d74c-4185-8065-c72ae499c8d3",
       "tags": [
         {
           "uuid": "Burger",
@@ -3240,7 +2295,6 @@
           "keyName": "Burger"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/20a02ae2-da96-4cec-9b50-c01c3a0cb635",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -3255,46 +2309,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380979382747"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/20a02ae2-da96-4cec-9b50-c01c3a0cb635"
     },
     {
       "uuid": "72885776-28fe-4247-b6ad-78da220db01a",
       "title": "Pho.Kyiv",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/efecb48a-58b1-4adf-a802-9901a2b30611",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e5cd2026-8596-4e2e-8374-c12eed0ae8f1",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0983660a-37c2-4a4b-841d-807d50e03b69",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ba156af2-d22e-4237-a7df-31e3178cdc41",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/aecafbb6-d45b-4003-b639-adefecd410ef",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/efecb48a-58b1-4adf-a802-9901a2b30611",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d2e39f46-f8dd-4a1d-8482-bb1e79455531",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.45545699999999,
         "longitude": 30.511433,
@@ -3315,7 +2336,6 @@
           "keyName": "Vietnamese"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/efecb48a-58b1-4adf-a802-9901a2b30611",
       "tags": [
         {
           "uuid": "Vietnamese",
@@ -3328,7 +2348,6 @@
           "keyName": "Soup"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/e5cd2026-8596-4e2e-8374-c12eed0ae8f1",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -3343,46 +2362,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380672604343"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/e5cd2026-8596-4e2e-8374-c12eed0ae8f1"
     },
     {
       "uuid": "78ef7b98-249c-4bdc-b5bc-3efb952c5265",
       "title": "Walker Food (вул. Хрещатик)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d3df769-97e8-4d3a-820c-000d40662070",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d81ce12e-a552-428f-b4b3-2d1b1321920c",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/579e72d2-c69e-4f61-9c16-a6d8558f9476",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/34965b1e-f890-46fd-aa68-bf55d1227345",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e90e9497-f205-4e4d-9e3d-076facbebba2",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2d3df769-97e8-4d3a-820c-000d40662070",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b6ce77bd-450d-4362-b553-f2a21ab46232",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44709341880999,
         "longitude": 30.522159244598875,
@@ -3413,7 +2399,6 @@
           "keyName": "Asian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2d3df769-97e8-4d3a-820c-000d40662070",
       "tags": [
         {
           "uuid": "FastFood",
@@ -3431,7 +2416,6 @@
           "keyName": "Asian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/d81ce12e-a552-428f-b4b3-2d1b1321920c",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -3446,46 +2430,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380983503115"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d81ce12e-a552-428f-b4b3-2d1b1321920c"
     },
     {
       "uuid": "c01016d0-016b-4237-b98e-c72b3b2994e7",
       "title": "Simple",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/d959fcf0-3b5c-4932-b516-4ef08bddd7b9",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9f0b368c-3c0a-4b3c-a92a-b0f880d8dc0d",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cd2d3eb6-1894-4b92-86a9-0fe779cfc3bd",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f14a0290-9908-4007-9692-db19569fa198",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f4a25316-4acc-4ae8-8109-ae345a17cac1",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d959fcf0-3b5c-4932-b516-4ef08bddd7b9",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/bd50778b-5e91-4974-b467-d50eda47e1ab",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.442927,
         "longitude": 30.4982845,
@@ -3516,7 +2467,6 @@
           "keyName": "Vegetarian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d959fcf0-3b5c-4932-b516-4ef08bddd7b9",
       "tags": [
         {
           "uuid": "ModernEuropean",
@@ -3534,7 +2484,6 @@
           "keyName": "Ukrainian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/9f0b368c-3c0a-4b3c-a92a-b0f880d8dc0d",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -3549,46 +2498,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380442880808"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/9f0b368c-3c0a-4b3c-a92a-b0f880d8dc0d"
     },
     {
       "uuid": "02337366-27f2-4034-9dc4-362ca17d14b2",
       "title": "Mira cafe (вул. Еспланадна)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/25749b8e-06a5-487f-a7ba-390799ebb550",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/21706436-9682-4c10-9751-ef407fadc0cb",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2f307f91-9e03-4073-a2bd-03389f198faa",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/52c08a7f-d73a-44b2-88d5-11868bc3a784",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d97c0bd9-199d-404b-a50f-be80b8b7ba8f",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/25749b8e-06a5-487f-a7ba-390799ebb550",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ea8f5c8e-5b3e-4553-8728-f9da311cf83e",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4366502,
         "longitude": 30.5202861,
@@ -3620,7 +2536,6 @@
         }
       ],
       "endorsement": "Збалансовані страви з натуральних продуктів",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/25749b8e-06a5-487f-a7ba-390799ebb550",
       "tags": [
         {
           "uuid": "European",
@@ -3643,7 +2558,6 @@
           "keyName": "Healthy"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/21706436-9682-4c10-9751-ef407fadc0cb",
       "etaRange": {
         "min": 10,
         "max": 20,
@@ -3658,46 +2572,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380677432322"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21706436-9682-4c10-9751-ef407fadc0cb"
     },
     {
       "uuid": "3f4f5a77-150b-43cc-a4ee-d8859909b627",
       "title": "True Burger Bar",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/60e60408-5849-47e5-bbff-fdeae414fc4b",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e55044c7-e99e-4043-9450-802877331fdc",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/033c1649-1b68-44bc-ae39-56a86997de80",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d8a39fd2-cb65-4e02-8ba2-3f5a239f2373",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ce68c376-bb35-4488-b25f-e141e04c0f63",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44714742082604,
         "longitude": 30.507990610500475,
@@ -3728,7 +2609,6 @@
           "keyName": "Salad"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
       "tags": [
         {
           "uuid": "American",
@@ -3746,7 +2626,6 @@
           "keyName": "Salad"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/60e60408-5849-47e5-bbff-fdeae414fc4b",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -3761,46 +2640,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380990109993"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/60e60408-5849-47e5-bbff-fdeae414fc4b"
     },
     {
       "uuid": "a181db96-b909-4846-9cd0-412ea5fc5673",
       "title": "Green 13 (вул. Велика Житомирська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1fcbae1-6ec8-4ac0-8950-0e7e59987cda",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f8052251-4830-4cef-b7ad-4759f5603eb2",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0cbefb5b-281b-4eb4-9d21-abc550226e58",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/59203fe9-c639-400d-b373-f623f387a248",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/fec2714c-143e-4efb-9bc5-ce1dfc5b3d56",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c1fcbae1-6ec8-4ac0-8950-0e7e59987cda",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d087eeb0-fd4f-4da2-9772-e5ae32d8c8ba",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.455495,
         "longitude": 30.507831,
@@ -3832,7 +2678,6 @@
         }
       ],
       "endorsement": "Веганський стріт-фуд",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c1fcbae1-6ec8-4ac0-8950-0e7e59987cda",
       "tags": [
         {
           "uuid": "Vegan",
@@ -3860,7 +2705,6 @@
           "keyName": "Falafel"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/f8052251-4830-4cef-b7ad-4759f5603eb2",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -3875,46 +2719,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380681783268"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f8052251-4830-4cef-b7ad-4759f5603eb2"
     },
     {
       "uuid": "164a36fc-d71c-4d00-9719-7a88aac3f4a3",
       "title": "Lemongrass Cafe",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e613af55-5537-4b9a-afd2-b265cdfe57bf",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b99a95ac-16c3-44af-b656-ceb53d9defc1",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b14d6306-f365-4865-b559-f7c81249a2aa",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cc696d31-b010-4855-9002-cfb126a6b1b7",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f4193b78-018c-49e4-b5de-e4ce20112150",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e613af55-5537-4b9a-afd2-b265cdfe57bf",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4d9bb53d-17d2-4a2b-8880-cb50361c5e8e",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44921600000001,
         "longitude": 30.48965299999999,
@@ -3945,7 +2756,6 @@
           "keyName": "Italian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e613af55-5537-4b9a-afd2-b265cdfe57bf",
       "tags": [
         {
           "uuid": "European",
@@ -3963,7 +2773,6 @@
           "keyName": "Vegetarian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/b99a95ac-16c3-44af-b656-ceb53d9defc1",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -3978,46 +2787,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380443314003"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/b99a95ac-16c3-44af-b656-ceb53d9defc1"
     },
     {
       "uuid": "b620fe87-4d5f-4316-9eae-8deb35f28a24",
       "title": "Naprosecco Oyster & Co",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/19365474-ae9c-46a8-806b-c004c51efcbf",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a92b5a78-c970-421d-a084-30db0992c4d5",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/267d42f7-8317-488d-bfe4-ce1f83bf48f8",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d3197967-db32-4415-a9d8-8b765a10ddb2",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.46246019999999,
         "longitude": 30.5189963,
@@ -4048,7 +2824,6 @@
           "keyName": "European"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
       "tags": [
         {
           "uuid": "Burger",
@@ -4061,7 +2836,6 @@
           "keyName": "Seafood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -4076,46 +2850,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380992891511"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056"
     },
     {
       "uuid": "38301644-05b7-4238-b353-db331dbbfcd8",
       "title": "Bistro Bistro (вул. І. Франка)",
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w2880-99.jpg",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w240-0e.jpg",
-            "width": 240,
-            "height": 192
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w750-7d.jpg",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w640-36.jpg",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w1080-c8.jpg",
-            "width": 1080,
-            "height": 864
-          }
-        ]
-      },
       "location": {
         "latitude": 50.446334883147344,
         "longitude": 30.50874306511303,
@@ -4147,7 +2888,6 @@
         }
       ],
       "endorsement": "Улюблені хот-доги столиці",
-      "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
       "tags": [
         {
           "uuid": "American",
@@ -4165,7 +2905,6 @@
           "keyName": "Completos"
         }
       ],
-      "largeHeroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w2880-99.jpg",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -4180,46 +2919,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380669068161"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w2880-99.jpg"
     },
     {
       "uuid": "dd3f2fbf-b2e2-47e5-ac3a-54a481d3ad5a",
       "title": "Avocado (вул. Інституцька) ",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/59373330-03ea-4d53-af9b-d5d172d24411",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d37e0741-6a24-4228-8236-74f0c828623f",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/252cc378-46dd-4063-833e-2b62579b37f3",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7faa0320-f468-4b3f-a2b7-c1e35a6171ed",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/00c9ac68-2c7a-4497-a155-0f95aa5d932a",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/59373330-03ea-4d53-af9b-d5d172d24411",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d97a4d65-1757-4899-b0f4-be2fb248b417",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4443735,
         "longitude": 30.5379311,
@@ -4255,7 +2961,6 @@
           "keyName": "Burger"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/59373330-03ea-4d53-af9b-d5d172d24411",
       "tags": [
         {
           "uuid": "BreakfastAndBrunch",
@@ -4288,7 +2993,6 @@
           "keyName": "Vegetarian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/d37e0741-6a24-4228-8236-74f0c828623f",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -4303,46 +3007,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380954344788"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d37e0741-6a24-4228-8236-74f0c828623f"
     },
     {
       "uuid": "03af4130-d007-4d50-a907-4c2723e63486",
       "title": "Celentano (вул. Велика Васильківська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/03a60f51-9cea-4e8e-8408-5a093b46d086",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ac289dfe-80aa-4f43-a473-bd519a8e67d9",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/85948433-1a94-4cbd-8108-749ba647ebd4",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b8efd0a9-684c-49dc-bb5b-56ab75b645cb",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cf7a8a9c-0d02-438c-b8eb-204f29c2c1a7",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/03a60f51-9cea-4e8e-8408-5a093b46d086",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8a6b5f53-d881-4ea9-8676-3a8b322f3c4c",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4196483,
         "longitude": 30.521504,
@@ -4368,7 +3039,6 @@
           "keyName": "European"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/03a60f51-9cea-4e8e-8408-5a093b46d086",
       "tags": [
         {
           "uuid": "Italian",
@@ -4391,7 +3061,6 @@
           "keyName": "Pizza"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/ac289dfe-80aa-4f43-a473-bd519a8e67d9",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -4406,46 +3075,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380445855997"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/ac289dfe-80aa-4f43-a473-bd519a8e67d9"
     },
     {
       "uuid": "dc3805b0-c217-46cc-9116-26a348127d04",
       "title": "Zigzag",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f39786bd-77d2-4fce-b265-c579236673d9",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/efde591a-7c36-4bc7-a95a-ef0cf6854fd6",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ac078594-6ebb-4cc6-9b7f-14efa85512e5",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/58fc784a-5850-4c55-90a1-4158ee1599ca",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d4ce8d05-d00b-4eb5-b9f3-40ba880ae83d",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4512767,
         "longitude": 30.5122652,
@@ -4476,7 +3112,6 @@
           "keyName": "Burger"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9",
       "tags": [
         {
           "uuid": "European",
@@ -4504,7 +3139,6 @@
           "keyName": "Salad"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/f39786bd-77d2-4fce-b265-c579236673d9",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -4519,46 +3153,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380683856551"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f39786bd-77d2-4fce-b265-c579236673d9"
     },
     {
       "uuid": "abd909f9-9917-4952-9bae-f701f422321e",
       "title": "Street Hub Круасан",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/32642c43-8a73-4db7-a242-3d0c698543a8",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4386cae6-94c4-4462-8272-8127b87793a6",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/326a3d02-7efa-4f66-9791-fa097cab0494",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/819fb99e-584c-47ad-92f0-93f4fe032d39",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d06e86de-082a-444f-ac31-659395115b36",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/32642c43-8a73-4db7-a242-3d0c698543a8",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/05120a76-60bd-441c-8253-a517046032bb",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.43272866496525,
         "longitude": 30.545549495256093,
@@ -4589,7 +3190,6 @@
           "keyName": "FastFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/32642c43-8a73-4db7-a242-3d0c698543a8",
       "tags": [
         {
           "uuid": "French",
@@ -4607,7 +3207,6 @@
           "keyName": "FastFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/4386cae6-94c4-4462-8272-8127b87793a6",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -4622,46 +3221,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380671749434"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4386cae6-94c4-4462-8272-8127b87793a6"
     },
     {
       "uuid": "7d0dd7b9-5ae0-4c23-b69f-047a7b459835",
       "title": "Döner Kebab & Burger",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/318dda12-2a82-425f-a0c7-d8797f0722a0",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4aabe55f-0530-4e68-97e8-07aa7b27a5e0",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2deec40a-8ad3-4cfa-a370-c414a6b6b153",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2a369503-6e0d-45d2-8a4d-86748b94f890",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7f9c7067-748f-42c6-bb2b-afcf43e36d0a",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/318dda12-2a82-425f-a0c7-d8797f0722a0",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5cf61fd1-0b01-4b33-b6c8-53f880369ce3",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44682818092414,
         "longitude": 30.51140331127487,
@@ -4707,7 +3273,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/318dda12-2a82-425f-a0c7-d8797f0722a0",
       "tags": [
         {
           "uuid": "Turkish",
@@ -4750,7 +3315,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/4aabe55f-0530-4e68-97e8-07aa7b27a5e0",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -4765,46 +3329,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380668448574"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4aabe55f-0530-4e68-97e8-07aa7b27a5e0"
     },
     {
       "uuid": "9bb5f578-a8fe-46ca-b04e-116a7393696a",
       "title": "Maisatai.bar",
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w550-1b.jpg",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w2880-17.jpg",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w240-ac.jpg",
-            "width": 240,
-            "height": 192
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w750-eb.jpg",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w550-1b.jpg",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w640-4d.jpg",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w1080-f4.jpg",
-            "width": 1080,
-            "height": 864
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4594392,
         "longitude": 30.5149474,
@@ -4830,7 +3361,6 @@
           "keyName": "Thai"
         }
       ],
-      "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w550-1b.jpg",
       "tags": [
         {
           "uuid": "Noodle",
@@ -4863,7 +3393,6 @@
           "keyName": "Thai"
         }
       ],
-      "largeHeroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w2880-17.jpg",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -4878,46 +3407,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380986766443"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w2880-17.jpg"
     },
     {
       "uuid": "019ab37a-02b3-495c-ad3e-32a47c0e8538",
       "title": "Mira cafe (вул. Ярославів Вал)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbe421-5942-40fe-88d3-0991c3721d1a",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1c546e51-efca-4b70-acc8-678245724f39",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/de2f9096-e389-48fd-a7a0-13799e54048c",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0716ea56-bf8f-48c0-adb3-803dae7e407d",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0896d510-a8b1-4307-86c7-54443c1e0cde",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/03fbe421-5942-40fe-88d3-0991c3721d1a",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7cd84fa1-475b-4d18-992b-44391007821c",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.45103599999999,
         "longitude": 30.510266,
@@ -4949,7 +3445,6 @@
         }
       ],
       "endorsement": "Збалансовані страви з натуральних продуктів",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/03fbe421-5942-40fe-88d3-0991c3721d1a",
       "tags": [
         {
           "uuid": "European",
@@ -4972,7 +3467,6 @@
           "keyName": "Healthy"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/1c546e51-efca-4b70-acc8-678245724f39",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -4987,46 +3481,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380677432322"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1c546e51-efca-4b70-acc8-678245724f39"
     },
     {
       "uuid": "b318911f-1c17-4d57-b0ef-3c0fcbd7f17e",
       "title": "Шишка",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6f5a386-80b2-490e-afe2-d227170444b4",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8c9d7426-bc2e-4563-89ea-e3ebcee2d439",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3c028091-f18b-47eb-8006-c6fed8a86c74",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c1b27e17-50ca-4ff1-8c74-2a1a06bcf3e9",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/204f1fe0-61bd-4300-857d-3764b0b74009",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e6f5a386-80b2-490e-afe2-d227170444b4",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4e1d187e-321c-4d50-bd79-f0bf5b811d17",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.43968912048784,
         "longitude": 30.51126550220096,
@@ -5052,7 +3513,6 @@
           "keyName": "European"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e6f5a386-80b2-490e-afe2-d227170444b4",
       "tags": [
         {
           "uuid": "Vegetarian",
@@ -5065,7 +3525,6 @@
           "keyName": "European"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/8c9d7426-bc2e-4563-89ea-e3ebcee2d439",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -5080,46 +3539,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380682286161"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8c9d7426-bc2e-4563-89ea-e3ebcee2d439"
     },
     {
       "uuid": "28c2ef4c-ff9d-4bed-b6b4-0d9603aaaa1c",
       "title": "Fish & Pussycat ",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/70ab21ae-9842-4021-af0e-d734e4bc5558",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3a6fc72b-133e-4fea-8281-eb1e68628e11",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/36cc28ff-6e85-4977-b433-e0520a42a3b6",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e787b16a-e1ef-46f9-b073-9b51a96ec20e",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/619ac9b2-38ba-4326-ac6c-24eb81e6bdda",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44114800000001,
         "longitude": 30.522904,
@@ -5150,7 +3576,6 @@
           "keyName": "Seafood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
       "tags": [
         {
           "uuid": "Japanese",
@@ -5168,7 +3593,6 @@
           "keyName": "Seafood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/70ab21ae-9842-4021-af0e-d734e4bc5558",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -5183,46 +3607,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380667126164"
       },
-      "priceLevel": "₴₴₴"
+      "priceLevel": "₴₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/70ab21ae-9842-4021-af0e-d734e4bc5558"
     },
     {
       "uuid": "03fa0bf3-b60a-4876-80c9-15d018029c61",
       "title": "Барсук",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/5ef9ebf7-84a0-404e-9b05-48f39865bf44",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/bcb86e4b-3cbe-4830-9e03-a43a4b820721",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2c9474fa-feb9-4f34-954a-4d8bccd4e85a",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e7d0975c-b9b3-4ae6-b6ce-0785896a5ec6",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9593be4c-53af-48a7-a2d4-cd21bc3de0f0",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5ef9ebf7-84a0-404e-9b05-48f39865bf44",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/dd17c4bd-8283-40d1-93fe-a52f7bd6ee94",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.431722355650145,
         "longitude": 30.54119956174974,
@@ -5248,7 +3639,6 @@
           "keyName": "Ukrainian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/5ef9ebf7-84a0-404e-9b05-48f39865bf44",
       "tags": [
         {
           "uuid": "European",
@@ -5271,7 +3661,6 @@
           "keyName": "BreakfastAndBrunch"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/bcb86e4b-3cbe-4830-9e03-a43a4b820721",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -5286,46 +3675,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380503863629"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/bcb86e4b-3cbe-4830-9e03-a43a4b820721"
     },
     {
       "uuid": "7988ae6c-9bf7-4b35-ad8b-277988f8bb52",
       "title": "Hedonist Bar & Kitchen",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5f2c296b-0776-4fe0-b045-17723e85bf9c",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/bd9f08f1-391e-41a0-841b-a64e25e4cd9f",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/23210892-3617-4225-a658-2bd8626c1458",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/16d06b00-85ec-4f32-901b-4235e0b4a928",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2aa3dddb-8ead-4828-a3f3-c94c16ece9cd",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.432576,
         "longitude": 30.51398099999999,
@@ -5356,7 +3712,6 @@
           "keyName": "Asian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
       "tags": [
         {
           "uuid": "European",
@@ -5374,7 +3729,6 @@
           "keyName": "Asian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/5f2c296b-0776-4fe0-b045-17723e85bf9c",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -5389,46 +3743,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380688637772"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5f2c296b-0776-4fe0-b045-17723e85bf9c"
     },
     {
       "uuid": "8548894f-0b8a-4388-b627-6886b301e65a",
       "title": "Nebos",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0b01c6d6-d78c-46df-90dc-ef2fce60e1a8",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a0af9b29-cf7b-4c48-a5cb-c8e5af02bfd7",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7771e3e9-2028-4f04-bcd1-64eb05de0711",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0769734a-6d29-41bd-b39c-5b7aed739a6b",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1e439e24-358c-472e-ad5d-f605eacbb09c",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4519463,
         "longitude": 30.5210659,
@@ -5454,7 +3775,6 @@
           "keyName": "VegetarianFriendly"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf",
       "tags": [
         {
           "uuid": "Vegan",
@@ -5467,7 +3787,6 @@
           "keyName": "Vegetarian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/0b01c6d6-d78c-46df-90dc-ef2fce60e1a8",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -5482,46 +3801,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380934325753"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/0b01c6d6-d78c-46df-90dc-ef2fce60e1a8"
     },
     {
       "uuid": "e507b2ca-c104-4988-a512-c99558d516fe",
       "title": "Carnivora (вул. Cічових Стрільців)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/162d8d7d-7e73-42f0-94bc-d1f0e7050477",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/061b8acc-e0b5-408f-a72d-410f6f689bd2",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/eefc6262-7a84-4d2b-b003-ae5c7d41db6c",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/bfd3358d-1b76-43fa-97c2-90cbd394eb9d",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5bc33049-5b31-4b7e-8da2-3fed9ae0481d",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/162d8d7d-7e73-42f0-94bc-d1f0e7050477",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5ede9ad6-a8e1-49b7-8bd2-0fdec8d6786a",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4585853,
         "longitude": 30.4869158,
@@ -5552,7 +3838,6 @@
           "keyName": "Burger"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/162d8d7d-7e73-42f0-94bc-d1f0e7050477",
       "tags": [
         {
           "uuid": "Ukrainian",
@@ -5570,7 +3855,6 @@
           "keyName": "Shawarma"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/061b8acc-e0b5-408f-a72d-410f6f689bd2",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -5585,46 +3869,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380983481338"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/061b8acc-e0b5-408f-a72d-410f6f689bd2"
     },
     {
       "uuid": "39a3d947-2a9f-4d4d-958f-1b8c16912bca",
       "title": "Al Faro",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0ab6dc2f-0065-4988-a07f-cd700a938b65",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5750158e-2165-4cd4-b330-2ef592d39082",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/93c70c20-bb67-4aa2-88cf-ef15d2a12b26",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6b542e39-f9c6-4f33-a97d-641540f0e95a",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4344514,
         "longitude": 30.5164521,
@@ -5655,7 +3906,6 @@
           "keyName": "Pizza"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2b03ef80-e0c6-41ea-b89e-260545158014",
       "tags": [
         {
           "uuid": "Italian",
@@ -5673,7 +3923,6 @@
           "keyName": "Pizza"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -5688,46 +3937,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380981143300"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/e7528fd7-4ab9-45a7-a2a6-8c8fa52ad7d7"
     },
     {
       "uuid": "a743b05f-520b-4459-87e2-c7b786ef1d75",
       "title": "Софра (Кловський узвіз)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/549397df-63bc-4468-b755-245bee187f9f",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4417f178-8d3a-46c0-94d7-c211a65f4405",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/21d5d5fa-2ba9-416d-a6fa-67e6b9df310f",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/47b30d90-f47e-4176-92a0-ba367489d1ea",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8b2da832-8d05-478c-8ded-8260ce791e57",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.43982251101283,
         "longitude": 30.53787672023791,
@@ -5758,7 +3974,6 @@
           "keyName": "EasternEuropean"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
       "tags": [
         {
           "uuid": "MiddleEastern",
@@ -5776,7 +3991,6 @@
           "keyName": "EasternEuropean"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/549397df-63bc-4468-b755-245bee187f9f",
       "etaRange": {
         "min": 50,
         "max": 60,
@@ -5791,46 +4005,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380931237290"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/549397df-63bc-4468-b755-245bee187f9f"
     },
     {
       "uuid": "57d5f153-d4f6-4b06-811c-bc6abbc34a56",
       "title": "Чорноморка (вул. Гончара)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e95abe07-77ce-4d9e-a164-10b975f62418",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cb8baced-1dfe-4794-a5a6-2f7f8817c9e7",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/068c2ec6-d3b9-42d3-9701-77a2f60d90f1",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6f1b8bfb-fc3f-4303-be70-cdcb0ff36d10",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4539978,
         "longitude": 30.5114524,
@@ -5862,8 +4043,6 @@
         }
       ],
       "endorsement": "Риба і морепродукти за доступними цінами",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -5878,46 +4057,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380678140505"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9"
     },
     {
       "uuid": "f1397232-dfb7-45d8-bc0d-52a2ec2c517b",
       "title": "MOMO (вул. П. Сагайдачного)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/b1ec01e3-404b-4836-bf26-fc7825abae12",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4fdf7121-0d26-4309-b654-d6c989db9208",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ecefb921-3c2a-4710-887c-5bcc9321b26b",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/475de4d5-11bc-4816-b0d6-5e3d5580ffec",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7e88dd16-847d-4cb9-a40d-c80f43ee4599",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b1ec01e3-404b-4836-bf26-fc7825abae12",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/66cb6488-cd2e-41d0-8641-64e9c0dfd9d8",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.46275285141717,
         "longitude": 30.519456921246412,
@@ -5948,7 +4094,6 @@
           "keyName": "BreakfastAndBrunch"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b1ec01e3-404b-4836-bf26-fc7825abae12",
       "tags": [
         {
           "uuid": "Salad",
@@ -5966,7 +4111,6 @@
           "keyName": "Vegetarian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/4fdf7121-0d26-4309-b654-d6c989db9208",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -5981,46 +4125,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380683648364"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4fdf7121-0d26-4309-b654-d6c989db9208"
     },
     {
       "uuid": "65eb8bb8-4928-4777-8453-7128181c3bc6",
       "title": "Urban Space 500",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a9b9d0e8-3f88-4806-a3f4-6f16714863e5",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4bd1dbfd-adac-42a3-b272-8b07a5e18b55",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9afc2d23-3870-44f1-8c37-04fb9b44c8c8",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/08df95f4-39b4-49d8-bad9-481c24cc1065",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4490952,
         "longitude": 30.52041839999999,
@@ -6051,7 +4162,6 @@
           "keyName": "Vegetarian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
       "tags": [
         {
           "uuid": "Healthy",
@@ -6069,7 +4179,6 @@
           "keyName": "Vegetarian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -6084,46 +4193,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380631618400"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595"
     },
     {
       "uuid": "b3f84976-ef9c-428e-8652-4e1bb3cbe17c",
       "title": "Walker Food (вул. Антоновича)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7f4d9667-a889-4226-b29d-e5f7fc18bf2d",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/835cd9f6-e216-4e89-9e8c-3328dad7bdb7",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/00ec1836-4436-4ebf-aeea-3832bc56c26d",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/19d4acad-cbbb-4051-aae7-5215430ff5f0",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/01b66b9f-20aa-4171-9060-d5eb841e2a74",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.42437677282379,
         "longitude": 30.515392700414406,
@@ -6154,7 +4230,6 @@
           "keyName": "Asian"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
       "tags": [
         {
           "uuid": "FastFood",
@@ -6172,7 +4247,6 @@
           "keyName": "Asian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/7f4d9667-a889-4226-b29d-e5f7fc18bf2d",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -6187,46 +4261,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380673528686"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/7f4d9667-a889-4226-b29d-e5f7fc18bf2d"
     },
     {
       "uuid": "17cc3a74-f19d-443e-ad45-4081baf8378c",
       "title": "Чашка espresso bar",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8c21483c-b073-4f76-8be2-d8c1fe517d3a",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c186b0f0-35d2-48b3-b50d-c91660d0fd17",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4182ef0e-554f-4d1a-998b-259d45f41686",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/928f3204-e607-4512-9a4f-95e0a0bf9274",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a3adbbea-bdb0-4a72-a6f5-870c20b23f3c",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4417297,
         "longitude": 30.52061909999999,
@@ -6257,7 +4298,6 @@
           "keyName": "CoffeeAndTea"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
       "tags": [
         {
           "uuid": "BreakfastAndBrunch",
@@ -6275,7 +4315,6 @@
           "keyName": "CoffeeAndTea"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/8c21483c-b073-4f76-8be2-d8c1fe517d3a",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -6290,46 +4329,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380504163416"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8c21483c-b073-4f76-8be2-d8c1fe517d3a"
     },
     {
       "uuid": "7c955a00-c104-4013-b84f-0b60820bcdf4",
       "title": "Pesto Cafe (ТЦ Globus)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c8833d8-ef99-4e45-8d56-f878f6c76f26",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3200be26-a76c-4cfd-b061-7f148b02bc8e",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7ae9b57f-bb5f-41e8-94e4-c644bc021224",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d9d5c901-0a02-451e-86eb-0b857c1c323b",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/4881a7b9-36a9-4a3f-8efd-4376bcaeb212",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3c8833d8-ef99-4e45-8d56-f878f6c76f26",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b5fa898f-3336-45f6-80e0-3ec4710881f4",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.449405547535825,
         "longitude": 30.525966074007883,
@@ -6361,7 +4367,6 @@
         }
       ],
       "endorsement": "Щовівторка отримуй другу піцу у подарунок! ",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3c8833d8-ef99-4e45-8d56-f878f6c76f26",
       "tags": [
         {
           "uuid": "European",
@@ -6399,7 +4404,6 @@
           "keyName": "Salad"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/3200be26-a76c-4cfd-b061-7f148b02bc8e",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -6414,46 +4418,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380992253333"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3200be26-a76c-4cfd-b061-7f148b02bc8e"
     },
     {
       "uuid": "0cfc4355-1d49-4ea1-a1f1-7e142acf7b53",
       "title": "Rooster Grill Bar",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/adc7aa5c-a287-4686-94aa-4b6f1236bfd6",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/26023194-4473-4235-8b5f-bccc011be0df",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a6b49ec0-67ce-48a5-a4d6-1930c1f56010",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8e12a023-1843-465f-9eb4-7882706d1be6",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2159cef7-a215-44be-8066-c1088cda85da",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/adc7aa5c-a287-4686-94aa-4b6f1236bfd6",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/58a81d63-84ac-4125-a9fb-a8e8d8d3ca89",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4326365,
         "longitude": 30.515808,
@@ -6484,7 +4455,6 @@
           "keyName": "BreakfastAndBrunch"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/adc7aa5c-a287-4686-94aa-4b6f1236bfd6",
       "tags": [
         {
           "uuid": "Burger",
@@ -6502,7 +4472,6 @@
           "keyName": "BreakfastAndBrunch"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/26023194-4473-4235-8b5f-bccc011be0df",
       "etaRange": {
         "min": 30,
         "max": 40,
@@ -6517,46 +4486,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380686770066"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/26023194-4473-4235-8b5f-bccc011be0df"
     },
     {
       "uuid": "13acfa58-7856-4bd5-93bd-c01b815ede05",
       "title": "Радіо Тбілісі",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a8489c55-f840-4717-9efa-376842e222b5",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6ec792b2-0e95-4895-bbe9-0c40929cfddd",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/10ccdff9-3f48-4616-829a-d204545a045a",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e4013182-15d6-4029-a9e7-233122d8375c",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5fd940f4-cb3e-41b3-a672-fdbab08322aa",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4494116,
         "longitude": 30.4914352,
@@ -6587,7 +4523,6 @@
           "keyName": "MiddleEastern"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
       "tags": [
         {
           "uuid": "Georgian",
@@ -6605,7 +4540,6 @@
           "keyName": "MiddleEastern"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/a8489c55-f840-4717-9efa-376842e222b5",
       "etaRange": {
         "min": 50,
         "max": 60,
@@ -6620,46 +4554,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380978853333"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/a8489c55-f840-4717-9efa-376842e222b5"
     },
     {
       "uuid": "6093dce6-0754-4732-9f5a-f3de0c7c1c58",
       "title": "Fujiwara Yoshi (вул. Солом'янська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5e407b69-a24e-4beb-8bd7-1439432e16f5",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8a264910-7e55-4120-a96d-03ff11562d88",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/fdbb9a02-369f-4d21-96b2-82bd5e08b5b1",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ecaadbcf-bff4-40e6-84cf-ffb5b56c4bc6",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1722ca51-57c6-4fbd-b110-d382f3f41eee",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.424998,
         "longitude": 30.4782622,
@@ -6691,7 +4592,6 @@
         }
       ],
       "endorsement": "Улюблені суші",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71",
       "tags": [
         {
           "uuid": "Sushi",
@@ -6709,7 +4609,6 @@
           "keyName": "Japanese"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/5e407b69-a24e-4beb-8bd7-1439432e16f5",
       "etaRange": {
         "min": 50,
         "max": 60,
@@ -6724,46 +4623,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380443600209"
       },
-      "priceLevel": "₴₴₴"
+      "priceLevel": "₴₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5e407b69-a24e-4beb-8bd7-1439432e16f5"
     },
     {
       "uuid": "cd953e68-9d65-4913-bfec-e9b5cb733ebf",
       "title": "To Be",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/865e739c-8cf9-4744-b376-9eb883c6ecc0",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/61514add-2f04-4b40-a4e8-911c170a1426",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2659a98c-b177-4d5c-95e8-8960b463a58c",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/10ad0df0-64b6-4c22-a109-68e12ee9ce6a",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4627752,
         "longitude": 30.5079068,
@@ -6794,7 +4660,6 @@
           "keyName": "Sushi"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
       "tags": [
         {
           "uuid": "Japanese",
@@ -6812,7 +4677,6 @@
           "keyName": "Sushi"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -6827,46 +4691,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380442228944"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613"
     },
     {
       "uuid": "8df83017-ebf0-4537-9d61-7eff81bbfb07",
       "title": "Cafe Dash",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc0cde72-256c-4d78-82ec-01df38f73028",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/da22458f-e3fb-46b1-9e5d-4b6ac7ebc58a",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0657eada-ac22-48ee-a6de-be33453c9854",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7ab4b846-4bbe-41b1-9c01-e753c5fc2aa5",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/07842b45-9afd-4f22-ac0c-36ac8c4b23f1",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/dc0cde72-256c-4d78-82ec-01df38f73028",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e5f62dff-8998-4be7-8197-dbe4212c32d0",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44213997319101,
         "longitude": 30.521244092037204,
@@ -6902,7 +4733,6 @@
           "keyName": "Dessert"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/dc0cde72-256c-4d78-82ec-01df38f73028",
       "tags": [
         {
           "uuid": "Soup",
@@ -6950,7 +4780,6 @@
           "keyName": "MiddleEastern"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/da22458f-e3fb-46b1-9e5d-4b6ac7ebc58a",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -6965,46 +4794,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380442355528"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/da22458f-e3fb-46b1-9e5d-4b6ac7ebc58a"
     },
     {
       "uuid": "5b8e0d3e-dad5-45ce-aefb-5d418c68c826",
       "title": "Остання Барикада",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9a981e84-0378-49a5-a293-f7b1a08f609a",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/793ddb47-0e9d-429a-9138-9f4756788543",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5e9d71bd-ef9f-4a45-a33d-8656f5d4182d",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7d6a8a34-7e9e-4697-b1c1-6a71caa96903",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.450893,
         "longitude": 30.5226522,
@@ -7036,7 +4832,6 @@
         }
       ],
       "endorsement": "100% українська гастрономія",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
       "tags": [
         {
           "uuid": "Ukrainian",
@@ -7054,7 +4849,6 @@
           "keyName": "Seafood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -7069,46 +4863,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380689071991"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c"
     },
     {
       "uuid": "fa243926-23fd-44bc-a59b-89bc6ecf46da",
       "title": "Kebab Dash",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/c6e01037-0310-4149-82fa-d8c7ef97fd83",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/eff24387-c3e7-4c80-8a7f-3fa69171fb86",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6e91cacb-690e-4c10-9a4c-aaa105e38b8e",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f906a2de-8ff2-4bd8-9169-f6f92d27209a",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/dc650aaf-744d-4553-8c18-1998769d09be",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c6e01037-0310-4149-82fa-d8c7ef97fd83",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b06b5c98-5871-4fae-861f-27aff83b26bc",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.42233823513027,
         "longitude": 30.51740982109184,
@@ -7149,7 +4910,6 @@
           "keyName": "Dessert"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c6e01037-0310-4149-82fa-d8c7ef97fd83",
       "tags": [
         {
           "uuid": "MiddleEastern",
@@ -7182,7 +4942,6 @@
           "keyName": "Dessert"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/eff24387-c3e7-4c80-8a7f-3fa69171fb86",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -7197,46 +4956,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380737003700"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/eff24387-c3e7-4c80-8a7f-3fa69171fb86"
     },
     {
       "uuid": "10e3a5d8-318c-4ea0-b4c8-c1d033214bb3",
       "title": "Star Burger (вул. Хрещатик)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8646805e-1fb8-4429-8ee8-f789f4b1d380",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/32b39dd7-100f-4484-b034-84f0f6bb2cfc",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1bb4a590-bc32-4961-b4f4-42233d3db896",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/885437d8-34da-4180-9918-8eaa164b9f7e",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d0b68d91-d901-4bef-bb16-fc0fdd00f8f3",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4506798,
         "longitude": 30.526015,
@@ -7263,7 +4989,6 @@
         }
       ],
       "endorsement": "Всі бургери по 69 грн",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
       "tags": [
         {
           "uuid": "Burger",
@@ -7286,7 +5011,6 @@
           "keyName": "FastFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/8646805e-1fb8-4429-8ee8-f789f4b1d380",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -7301,46 +5025,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380678282081"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8646805e-1fb8-4429-8ee8-f789f4b1d380"
     },
     {
       "uuid": "a6d87a7c-f22a-4f88-b00d-fe9a00197820",
       "title": "Yummy Dogs",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d23e404c-5892-400e-8b3e-87b21495f0d3",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6044c110-e2ab-47ee-bde5-94b4a21bc605",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/daab394d-2106-4e1e-bd31-014e328ca378",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a9426446-1095-431f-ab8a-1bc50cf84ef0",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e1d53e06-d068-44f4-9f02-ec88028e0843",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4462597,
         "longitude": 30.51579250000001,
@@ -7366,7 +5057,6 @@
           "keyName": "BarFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
       "tags": [
         {
           "uuid": "American",
@@ -7379,7 +5069,6 @@
           "keyName": "BarFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/d23e404c-5892-400e-8b3e-87b21495f0d3",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -7394,46 +5083,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380688893393"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d23e404c-5892-400e-8b3e-87b21495f0d3"
     },
     {
       "uuid": "afa6e563-32ca-4222-92e7-cd77df83d379",
       "title": " Ra.Man (Sumasbrod)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a2328b9d-5681-4cc0-bb22-9fdd2f7e0141",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8565039e-f2d8-4ae5-8a9c-137bdd71a011",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5acd807e-ee2e-411f-b241-26dd9b572078",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/b3f68030-6385-4491-99db-ba410f31a8bb",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.442383,
         "longitude": 30.521535,
@@ -7464,7 +5120,6 @@
           "keyName": "Vegan"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
       "tags": [
         {
           "uuid": "Vegetarian",
@@ -7482,7 +5137,6 @@
           "keyName": "Vegan"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e",
       "etaRange": {
         "min": 15,
         "max": 25,
@@ -7497,46 +5151,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380442350017"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e"
     },
     {
       "uuid": "3e37f16a-2393-4ed0-82a5-f746953bdcaf",
       "title": "Dogz&Burgerz (ТЦ Globus)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/228350b2-bc82-4bc5-9a57-461132989340",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/39d7b361-b81b-4594-80bb-9d9e7afcc081",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e6e6563d-1a7e-4187-8aac-205aaa17e811",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/131484ef-0df5-4ff6-bfba-6f690454b6b7",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.450893,
         "longitude": 30.5226522,
@@ -7567,7 +5188,6 @@
           "keyName": "StreetFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
       "tags": [
         {
           "uuid": "American",
@@ -7585,7 +5205,6 @@
           "keyName": "StreetFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -7600,46 +5219,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380684134219"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b"
     },
     {
       "uuid": "3c11d072-0243-47cc-a86f-38092d4aa787",
       "title": "Mon Cher (вул. Жилянська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/c45e439b-7208-47fb-9c84-5b8b19067328",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5b02867f-83ec-486f-ab66-8ccf713ebe57",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/7fd41f20-1ff4-4180-ab91-ba93f963907e",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9eb7fbf0-8b39-45ce-b2e6-c6ebb37270ae",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5c2bcaa5-9962-4b31-a26d-265ab9ccadcd",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c45e439b-7208-47fb-9c84-5b8b19067328",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c5e74eb9-bdd8-48a3-ac1c-ad2368db2535",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4423754,
         "longitude": 30.49590509999999,
@@ -7670,7 +5256,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c45e439b-7208-47fb-9c84-5b8b19067328",
       "tags": [
         {
           "uuid": "Lebanese",
@@ -7688,7 +5273,6 @@
           "keyName": "ComfortFood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/5b02867f-83ec-486f-ab66-8ccf713ebe57",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -7703,46 +5287,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380444652437"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5b02867f-83ec-486f-ab66-8ccf713ebe57"
     },
     {
       "uuid": "cf68d4ec-4f37-4ac7-bb97-ec12b49d7d83",
       "title": "Napoli-Pizza",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/67ddbbce-cb6e-4f48-b186-362f62d49f80",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/62ca8106-0e17-47e3-a890-d9382d993672",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/9c9f6921-6d73-4820-88db-5f631d0cfe12",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8f47c7ac-8e15-468b-8017-3d2d82630d5e",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.462782,
         "longitude": 30.494972,
@@ -7768,7 +5319,6 @@
           "keyName": "Pizza"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
       "tags": [
         {
           "uuid": "Pizza",
@@ -7796,7 +5346,6 @@
           "keyName": "Italian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -7811,46 +5360,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380933662527"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc"
     },
     {
       "uuid": "74c28978-9be2-454e-ae60-503a1f23c2a6",
       "title": "Arizona Tacos",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/239a2c92-6748-482e-b6e7-85bb1d12583d",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/69371767-8d49-4920-a351-79f778614a94",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/85610244-a9ad-4bb4-9e0b-80fd110b1ad0",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/03f3ba82-4650-40c2-b90a-a177ee5ab4e9",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/44c8f4be-00a7-4b6b-905c-9eccc593796c",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.445993373602434,
         "longitude": 30.51609549890798,
@@ -7881,7 +5397,6 @@
           "keyName": "LatinAmerican"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
       "tags": [
         {
           "uuid": "Taco",
@@ -7899,7 +5414,6 @@
           "keyName": "Soup"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/239a2c92-6748-482e-b6e7-85bb1d12583d",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -7914,46 +5428,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380983001614"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/239a2c92-6748-482e-b6e7-85bb1d12583d"
     },
     {
       "uuid": "2ebc7123-ef78-440d-9352-cd46f3943b90",
       "title": "Spicy NoSpicy",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1708aef6-eaf7-4755-9ba7-eaf5f669e965",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/d5395c60-4510-46b5-bdaa-177dafddc6cc",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/c273c066-e335-4684-93bb-6f27deaadbb3",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/70f3b651-7933-4fa3-af2f-21d892f1fc91",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/dff93e62-a32b-44ff-a7b0-7e84829f3f99",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.42214730000001,
         "longitude": 30.51943450000001,
@@ -7984,7 +5465,6 @@
           "keyName": "Vietnamese"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
       "tags": [
         {
           "uuid": "Salad",
@@ -8002,7 +5482,6 @@
           "keyName": "Seafood"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/1708aef6-eaf7-4755-9ba7-eaf5f669e965",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -8017,46 +5496,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380443346845"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1708aef6-eaf7-4755-9ba7-eaf5f669e965"
     },
     {
       "uuid": "d24e2260-0044-4cf8-8314-1a5f33f9f878",
       "title": "Yaro (вул. Володимирська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/cbed4179-5ea1-4c43-94ab-a907746e58da",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/79d15b44-a9dd-4901-9178-24801dfb700f",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/aeb5ed1c-67a5-4949-8a6c-1b12807b479c",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/12e04ef9-cd9e-4348-ae00-ddb4ca95316e",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/5ae270cc-7157-4e91-bb46-bd4215d7eb1b",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cbed4179-5ea1-4c43-94ab-a907746e58da",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/79fab78b-9ce8-43e3-b869-a8452f0566f1",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.4465884,
         "longitude": 30.5140189,
@@ -8088,7 +5534,6 @@
         }
       ],
       "endorsement": "Здорові обіди та десерти без цукру",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/cbed4179-5ea1-4c43-94ab-a907746e58da",
       "tags": [
         {
           "uuid": "ModernEuropean",
@@ -8116,7 +5561,6 @@
           "keyName": "Dessert"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/79d15b44-a9dd-4901-9178-24801dfb700f",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -8131,46 +5575,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380981112061"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/79d15b44-a9dd-4901-9178-24801dfb700f"
     },
     {
       "uuid": "9f17d333-e541-4dc8-b158-04613ecc461f",
       "title": "Сушия (просп. Голосіївський)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/f643aaaa-c2ee-4828-9cdf-55f2450e068b",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0e02cf62-72ab-48dc-948c-78d83faa895e",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/112d6c40-8507-4355-b8e0-0cdbbdacb52e",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8ed90711-27d5-44d9-9a8f-8a89956fb0d1",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/24d1d934-dc1f-47f0-9e84-1b1b23434856",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/f643aaaa-c2ee-4828-9cdf-55f2450e068b",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/54f454df-f70b-4c68-bbcd-1d724465b180",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.40043313957526,
         "longitude": 30.512306375911457,
@@ -8207,7 +5618,6 @@
         }
       ],
       "endorsement": "Справжні японські суші",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/f643aaaa-c2ee-4828-9cdf-55f2450e068b",
       "tags": [
         {
           "uuid": "Japanese",
@@ -8230,7 +5640,6 @@
           "keyName": "Asian"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/0e02cf62-72ab-48dc-948c-78d83faa895e",
       "etaRange": {
         "min": 40,
         "max": 50,
@@ -8245,46 +5654,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380672429787"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/0e02cf62-72ab-48dc-948c-78d83faa895e"
     },
     {
       "uuid": "340b03bf-ed03-4574-8118-d406ec34d39b",
       "title": "Noodle Doodle (вул. Велика Васильківська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/8eac1eb0-db4a-499e-afd5-116b92a03a7b",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0971e3f6-322e-4872-ad3d-277d16ca91d9",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cdc3432f-3fb5-4010-85db-afb58e29588c",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/bac9b32e-fc45-4cbb-8746-d41067cfec86",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/23fc5019-26bb-4951-a628-c1ee64697715",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/8eac1eb0-db4a-499e-afd5-116b92a03a7b",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/80405607-ffa2-4162-b964-98785498d30f",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.43310849999999,
         "longitude": 30.5156884,
@@ -8310,7 +5686,6 @@
           "keyName": "Chinese"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/8eac1eb0-db4a-499e-afd5-116b92a03a7b",
       "tags": [
         {
           "uuid": "Noodle",
@@ -8338,7 +5713,6 @@
           "keyName": "Dumpling"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/0971e3f6-322e-4872-ad3d-277d16ca91d9",
       "etaRange": {
         "min": 20,
         "max": 30,
@@ -8353,46 +5727,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380671021196"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/0971e3f6-322e-4872-ad3d-277d16ca91d9"
     },
     {
       "uuid": "8299a40f-b34e-4b77-ae57-9ac3d325b754",
       "title": "Noodle Doodle (Майдан Незалежності)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b214c90-f214-4472-88a9-26c4bb549f1c",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/89291871-9fc0-47a7-8c5d-9b8fae259282",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/cf5927a1-e114-436f-a760-7df4b5076f35",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/79ff646e-23e4-4514-b45b-8344f5d5df9d",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/01499d46-aab9-4c07-a0c3-9f7b0ac2374b",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/0b214c90-f214-4472-88a9-26c4bb549f1c",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/413c28b3-735a-459b-82a2-3901274bdb90",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.450893,
         "longitude": 30.5226522,
@@ -8418,7 +5759,6 @@
           "keyName": "Chinese"
         }
       ],
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/0b214c90-f214-4472-88a9-26c4bb549f1c",
       "tags": [
         {
           "uuid": "Noodle",
@@ -8446,7 +5786,6 @@
           "keyName": "Dumpling"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/89291871-9fc0-47a7-8c5d-9b8fae259282",
       "etaRange": {
         "min": 35,
         "max": 45,
@@ -8461,46 +5800,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380675695300"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/89291871-9fc0-47a7-8c5d-9b8fae259282"
     },
     {
       "uuid": "76856923-ba2c-4841-a053-82eeddca3ae3",
       "title": "Green 13 (б-р Т. Шевченка)",
       "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w550-47.jpg",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w2880-84.jpg",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w240-bf.jpg",
-            "width": 240,
-            "height": 192
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w750-33.jpg",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w550-47.jpg",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w640-bd.jpg",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w1080-60.jpg",
-            "width": 1080,
-            "height": 864
-          }
-        ]
-      },
       "location": {
         "latitude": 50.44500019999999,
         "longitude": 30.50565559999999,
@@ -8532,7 +5838,6 @@
         }
       ],
       "endorsement": "Веганський стріт-фуд",
-      "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w550-47.jpg",
       "tags": [
         {
           "uuid": "Vegan",
@@ -8560,7 +5865,6 @@
           "keyName": "Falafel"
         }
       ],
-      "largeHeroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w2880-84.jpg",
       "etaRange": {
         "min": 25,
         "max": 35,
@@ -8575,46 +5879,13 @@
       "publicContact": {
         "publicPhoneNumber": "+380966487235"
       },
-      "priceLevel": "₴"
+      "priceLevel": "₴",
+      "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w2880-84.jpg"
     },
     {
       "uuid": "43f6d4f5-605b-46b9-9760-7682e37b8c99",
       "title": "Gogi (вул. Мала Житомирська)",
       "imageUrl": "https://d1ralsognjng37.cloudfront.net/dfae85a2-6a62-462a-9663-f137309bad1c",
-      "heroImage": {
-        "items": [
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/2c1e54e4-009d-4c2f-9720-6eeba8b179b2",
-            "width": 2880,
-            "height": 2304
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/62959209-3820-4ab4-b1f3-8c6316ee7a59",
-            "width": 1080,
-            "height": 864
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/a21635c0-4554-41b4-8c32-b772bcbb98c3",
-            "width": 750,
-            "height": 600
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/1f7122b0-4acb-4743-a13c-57c55199c873",
-            "width": 640,
-            "height": 512
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/dfae85a2-6a62-462a-9663-f137309bad1c",
-            "width": 550,
-            "height": 440
-          },
-          {
-            "url": "https://d1ralsognjng37.cloudfront.net/6aada1bb-5012-46af-9fa0-d7a12cf6d8d2",
-            "width": 240,
-            "height": 192
-          }
-        ]
-      },
       "location": {
         "latitude": 50.45342180000001,
         "longitude": 30.51961,
@@ -8646,7 +5917,6 @@
         }
       ],
       "endorsement": "Традиційні грузинські хінкалі та хачапурі",
-      "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/dfae85a2-6a62-462a-9663-f137309bad1c",
       "tags": [
         {
           "uuid": "Georgian",
@@ -8664,7 +5934,6 @@
           "keyName": "Pastry"
         }
       ],
-      "largeHeroImageUrl": "https://d1ralsognjng37.cloudfront.net/2c1e54e4-009d-4c2f-9720-6eeba8b179b2",
       "etaRange": {
         "min": 45,
         "max": 55,
@@ -8679,7 +5948,8 @@
       "publicContact": {
         "publicPhoneNumber": "+380930574745"
       },
-      "priceLevel": "₴₴"
+      "priceLevel": "₴₴",
+      "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/2c1e54e4-009d-4c2f-9720-6eeba8b179b2"
     }
   ]
 }

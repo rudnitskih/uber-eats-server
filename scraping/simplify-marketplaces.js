@@ -7,7 +7,7 @@ let marketplaces = JSON.parse(rawdata);
 
 
 marketplaces.feed = marketplaces.feed.map((feedItem) => {
-  delete feedItem.bottomBadge;
+  feedItem.address;
 
   return feedItem;
 });
