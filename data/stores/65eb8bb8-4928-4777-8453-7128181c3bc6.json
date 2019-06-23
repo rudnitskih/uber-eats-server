@@ -1912,15 +1912,7 @@
   "location": {
     "latitude": 50.4490952,
     "longitude": 30.52041839999999,
-    "address": {
-      "address1": "Borysa Hrinchenka St, 9",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Borysa Hrinchenka St, 9, Kyiv, 02000"
-    }
+    "address": "Borysa Hrinchenka St, 9"
   },
   "publicContact": {
     "publicPhoneNumber": "+380631618400"
@@ -1984,5 +1976,29 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd",
+  "tags": [
+    {
+      "uuid": "Healthy",
+      "name": "Здорова їжа",
+      "keyName": "Healthy"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.82,
+    "ratingCount": "100"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8ec7928e-5804-4746-b4cb-5f4bcd146595"
 }

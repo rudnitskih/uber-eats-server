@@ -622,15 +622,7 @@
   "location": {
     "latitude": 50.438784799109875,
     "longitude": 30.520026420780066,
-    "address": {
-      "address1": "Shota Rustaveli St, 15",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Shota Rustaveli St, 15, Kyiv, 02000"
-    }
+    "address": "Shota Rustaveli St, 15"
   },
   "publicContact": {
     "publicPhoneNumber": "+380502938633"
@@ -710,5 +702,30 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/689352da-8b67-4ec9-b84b-50459d7d56f8",
+  "endorsement": "Улюблені хот-доги столиці",
+  "tags": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    },
+    {
+      "uuid": "Completos",
+      "name": "Хот-доги",
+      "keyName": "Completos"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.608510638297872,
+    "ratingCount": "235"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/ca968d0c-4d50-4e43-a4bd-7e3ce50d8dbd"
 }

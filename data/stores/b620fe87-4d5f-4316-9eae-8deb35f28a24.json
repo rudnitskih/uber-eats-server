@@ -877,15 +877,7 @@
   "location": {
     "latitude": 50.46246019999999,
     "longitude": 30.5189963,
-    "address": {
-      "address1": "Petra Sahaidachnoho St, 41",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "04070",
-      "region": "",
-      "formattedAddress": "Petra Sahaidachnoho St, 41, Kyiv, 04070"
-    }
+    "address": "Petra Sahaidachnoho St, 41"
   },
   "publicContact": {
     "publicPhoneNumber": "+380992891511"
@@ -949,5 +941,24 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4",
+  "tags": [
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Seafood",
+      "name": "Морепродукти",
+      "keyName": "Seafood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.407407407407407,
+    "ratingCount": "81"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/b342db12-da65-4547-aa2a-16effe08e056"
 }

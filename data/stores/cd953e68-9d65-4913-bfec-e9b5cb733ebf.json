@@ -2670,15 +2670,7 @@
   "location": {
     "latitude": 50.4627752,
     "longitude": 30.5079068,
-    "address": {
-      "address1": "Verkhnii Val St, 2А",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "04071",
-      "region": "",
-      "formattedAddress": "Verkhnii Val St, 2а, Kyiv, 04071"
-    }
+    "address": "Verkhnii Val St, 2А"
   },
   "publicContact": {
     "publicPhoneNumber": "+380442228944"
@@ -2743,5 +2735,29 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/34f75966-9cac-4903-acbe-296768812533",
+  "tags": [
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Sushi",
+      "name": "Суші",
+      "keyName": "Sushi"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.546666666666667,
+    "ratingCount": "75"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/6b65a7c3-961c-4ba2-8f61-7546fbef2613"
 }

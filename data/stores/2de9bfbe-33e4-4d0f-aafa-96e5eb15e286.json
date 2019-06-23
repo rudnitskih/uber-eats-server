@@ -2583,15 +2583,7 @@
   "location": {
     "latitude": 50.445875,
     "longitude": 30.49640100000001,
-    "address": {
-      "address1": "Tarasa Shevchenko Blvd, 31",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Tarasa Shevchenko Blvd, 31, Kyiv, 02000"
-    }
+    "address": "Tarasa Shevchenko Blvd, 31"
   },
   "publicContact": {
     "publicPhoneNumber": "+380689480731"
@@ -2655,5 +2647,34 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w550-01.jpg",
+  "tags": [
+    {
+      "uuid": "Shawarma",
+      "name": "Шаурма",
+      "keyName": "Shawarma"
+    },
+    {
+      "uuid": "Kebab",
+      "name": "Кебаб",
+      "keyName": "Kebab"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "Drink",
+      "name": "Напої",
+      "keyName": "Drink"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.595057034220532,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543928198626-w2880-2b.jpg"
 }

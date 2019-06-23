@@ -11,7 +11,6 @@ marketplaces.feed = marketplaces.feed.map((feedItem) => {
   return feedItem;
 });
 
-delete marketplaces.feed;
 
 rawdata = JSON.stringify(marketplaces, null, 2);
 fs.writeFileSync(path, rawdata);

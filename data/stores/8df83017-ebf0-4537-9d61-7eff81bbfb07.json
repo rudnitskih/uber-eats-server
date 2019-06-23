@@ -2983,15 +2983,7 @@
   "location": {
     "latitude": 50.44213997319101,
     "longitude": 30.521244092037204,
-    "address": {
-      "address1": "Bessarabs'ka Square, 2",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Bessarabs'Ka Square, 2, "
-    }
+    "address": "Bessarabs'ka Square, 2"
   },
   "publicContact": {
     "publicPhoneNumber": "+380442355528"
@@ -3055,5 +3047,59 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc0cde72-256c-4d78-82ec-01df38f73028",
+  "tags": [
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "BarFood",
+      "name": "Закуски",
+      "keyName": "BarFood"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Turkish",
+      "name": "Турецька",
+      "keyName": "Turkish"
+    },
+    {
+      "uuid": "Pizza",
+      "name": "Піца",
+      "keyName": "Pizza"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.535211267605634,
+    "ratingCount": "71"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/da22458f-e3fb-46b1-9e5d-4b6ac7ebc58a"
 }

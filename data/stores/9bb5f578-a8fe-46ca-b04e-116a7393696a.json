@@ -2397,15 +2397,7 @@
   "location": {
     "latitude": 50.4594392,
     "longitude": 30.5149474,
-    "address": {
-      "address1": "Vozdvyzhens'ka St, 51",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Vozdvyzhens'Ka St, 51, Kyiv, 02000"
-    }
+    "address": "Vozdvyzhens'ka St, 51"
   },
   "publicContact": {
     "publicPhoneNumber": "+380986766443"
@@ -2469,5 +2461,44 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w550-1b.jpg",
+  "tags": [
+    {
+      "uuid": "Noodle",
+      "name": "Локшина",
+      "keyName": "Noodle"
+    },
+    {
+      "uuid": "Ramen",
+      "name": "Рамен",
+      "keyName": "Ramen"
+    },
+    {
+      "uuid": "Seafood",
+      "name": "Морепродукти",
+      "keyName": "Seafood"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Thai",
+      "name": "Тайська",
+      "keyName": "Thai"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.431818181818182,
+    "ratingCount": "88"
+  },
+  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544699487850-w2880-17.jpg"
 }

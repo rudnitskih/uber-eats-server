@@ -1368,15 +1368,7 @@
   "location": {
     "latitude": 50.450755,
     "longitude": 30.513669,
-    "address": {
-      "address1": "Zolotovoritska St, 3/2, Kyiv, Ukraine, 02000",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Zolotovoritska St, 3/2, Kyiv, Ukraine, 02000, "
-    }
+    "address": "Zolotovoritska St, 3/2, Kyiv, Ukraine, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380663139959"
@@ -1440,5 +1432,29 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/a48d013f-2130-411c-ada3-422dbeb731f2",
+  "tags": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.660714285714286,
+    "ratingCount": "224"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/569e47d7-96e0-4f62-bc65-9b9636d097a3"
 }

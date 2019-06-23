@@ -1717,15 +1717,7 @@
   "location": {
     "latitude": 50.4539978,
     "longitude": 30.5114524,
-    "address": {
-      "address1": "Olesia Honchara St, 15/3",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Olesia Honchara St, 15/3, Kyiv, 02000"
-    }
+    "address": "Olesia Honchara St, 15/3"
   },
   "publicContact": {
     "publicPhoneNumber": "+380678140505"
@@ -1805,5 +1797,13 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/65552fc4-7c5a-4bcd-b97c-57b49cfd6486",
+  "endorsement": "Риба і морепродукти за доступними цінами",
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.670886075949367,
+    "ratingCount": "79"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/eb5d2eb6-0bf6-4414-a7c6-89e5e3eaa3d9"
 }

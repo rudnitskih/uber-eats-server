@@ -4336,15 +4336,7 @@
   "location": {
     "latitude": 50.4326365,
     "longitude": 30.515808,
-    "address": {
-      "address1": "Velyka Vasylkivska St, 68",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Velyka Vasylkivska St, 68, Kyiv, 02000"
-    }
+    "address": "Velyka Vasylkivska St, 68"
   },
   "publicContact": {
     "publicPhoneNumber": "+380686770066"
@@ -4408,5 +4400,29 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/adc7aa5c-a287-4686-94aa-4b6f1236bfd6",
+  "tags": [
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Pollo",
+      "name": "Курка",
+      "keyName": "Pollo"
+    },
+    {
+      "uuid": "BreakfastAndBrunch",
+      "name": "Сніданок і бранч",
+      "keyName": "BreakfastAndBrunch"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.706896551724138,
+    "ratingCount": "174"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/26023194-4473-4235-8b5f-bccc011be0df"
 }

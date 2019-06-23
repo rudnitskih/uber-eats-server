@@ -1258,15 +1258,7 @@
   "location": {
     "latitude": 50.442465017329766,
     "longitude": 30.52185985260985,
-    "address": {
-      "address1": "Bessarabs'ka Square, 2",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
-    }
+    "address": "Bessarabs'ka Square, 2"
   },
   "publicContact": {
     "publicPhoneNumber": "+380633740510"
@@ -1331,5 +1323,29 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/87cf9d57-d9db-4817-9ac2-ba18bc56bad4",
+  "tags": [
+    {
+      "uuid": "EasternEuropean",
+      "name": "Східноєвропейська",
+      "keyName": "EasternEuropean"
+    },
+    {
+      "uuid": "Ukrainian",
+      "name": "Українська",
+      "keyName": "Ukrainian"
+    },
+    {
+      "uuid": "ComfortFood",
+      "name": "Традиційна їжа",
+      "keyName": "ComfortFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.543689320388349,
+    "ratingCount": "206"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f05d8dd3-6f9a-476c-8316-5abcc63f3bc0"
 }

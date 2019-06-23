@@ -4558,15 +4558,7 @@
   "location": {
     "latitude": 50.4423754,
     "longitude": 30.49590509999999,
-    "address": {
-      "address1": "Zhylianska St, 124",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "01032",
-      "region": "",
-      "formattedAddress": "Zhylianska St, 124, Kyiv, 01032"
-    }
+    "address": "Zhylianska St, 124"
   },
   "publicContact": {
     "publicPhoneNumber": "+380444652437"
@@ -4630,5 +4622,29 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/c45e439b-7208-47fb-9c84-5b8b19067328",
+  "tags": [
+    {
+      "uuid": "Lebanese",
+      "name": "Ліванська",
+      "keyName": "Lebanese"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "ComfortFood",
+      "name": "Традиційна їжа",
+      "keyName": "ComfortFood"
+    }
+  ],
+  "sellsAlcohol": true,
+  "rawRatingStats": {
+    "storeRatingScore": 4.449101796407185,
+    "ratingCount": "167"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5b02867f-83ec-486f-ab66-8ccf713ebe57"
 }

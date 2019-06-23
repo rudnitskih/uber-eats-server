@@ -4568,15 +4568,7 @@
   "location": {
     "latitude": 50.44921600000001,
     "longitude": 30.48965299999999,
-    "address": {
-      "address1": "Zolotoustivska St, 14",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Zolotoustivska St, 14, Kyiv, 02000"
-    }
+    "address": "Zolotoustivska St, 14"
   },
   "publicContact": {
     "publicPhoneNumber": "+380443314003"
@@ -4640,5 +4632,29 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/e613af55-5537-4b9a-afd2-b265cdfe57bf",
+  "tags": [
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Italian",
+      "name": "Італійська",
+      "keyName": "Italian"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.535433070866142,
+    "ratingCount": "127"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/b99a95ac-16c3-44af-b656-ceb53d9defc1"
 }

@@ -2647,15 +2647,7 @@
   "location": {
     "latitude": 50.44114800000001,
     "longitude": 30.522904,
-    "address": {
-      "address1": "Baseina St, 5Б",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Baseina St, 5б, Kyiv, 02000"
-    }
+    "address": "Baseina St, 5Б"
   },
   "publicContact": {
     "publicPhoneNumber": "+380667126164"
@@ -2719,5 +2711,29 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9",
+  "tags": [
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    },
+    {
+      "uuid": "Sushi",
+      "name": "Суші",
+      "keyName": "Sushi"
+    },
+    {
+      "uuid": "Seafood",
+      "name": "Морепродукти",
+      "keyName": "Seafood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.644444444444445,
+    "ratingCount": "90"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/70ab21ae-9842-4021-af0e-d734e4bc5558"
 }

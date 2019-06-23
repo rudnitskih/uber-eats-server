@@ -2674,15 +2674,7 @@
   "location": {
     "latitude": 50.46275285141717,
     "longitude": 30.519456921246412,
-    "address": {
-      "address1": "Petra Sahaidachnoho St, 24",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "04070",
-      "region": "",
-      "formattedAddress": "Petra Sahaidachnoho St, 24, Kyiv, 04070"
-    }
+    "address": "Petra Sahaidachnoho St, 24"
   },
   "publicContact": {
     "publicPhoneNumber": "+380683648364"
@@ -2746,5 +2738,29 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/b1ec01e3-404b-4836-bf26-fc7825abae12",
+  "tags": [
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.647058823529412,
+    "ratingCount": "153"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4fdf7121-0d26-4309-b654-d6c989db9208"
 }

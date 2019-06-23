@@ -3975,15 +3975,7 @@
   "location": {
     "latitude": 50.40043313957526,
     "longitude": 30.512306375911457,
-    "address": {
-      "address1": "Holosiivskyi prospekt, 58a",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Holosiivskyi Prospekt, 58a, Kyiv, 02000"
-    }
+    "address": "Holosiivskyi prospekt, 58a"
   },
   "publicContact": {
     "publicPhoneNumber": "+380672429787"
@@ -4052,5 +4044,35 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/f643aaaa-c2ee-4828-9cdf-55f2450e068b",
+  "endorsement": "Справжні японські суші",
+  "tags": [
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    },
+    {
+      "uuid": "Sushi",
+      "name": "Суші",
+      "keyName": "Sushi"
+    },
+    {
+      "uuid": "Rolls",
+      "name": "Роли",
+      "keyName": "Rolls"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.18,
+    "ratingCount": "150"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/0e02cf62-72ab-48dc-948c-78d83faa895e"
 }

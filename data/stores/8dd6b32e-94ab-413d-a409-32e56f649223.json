@@ -2678,15 +2678,7 @@
   "location": {
     "latitude": 50.442383,
     "longitude": 30.521535,
-    "address": {
-      "address1": "Bessarabs'ka Square, 2",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
-    }
+    "address": "Bessarabs'ka Square, 2"
   },
   "publicContact": {
     "publicPhoneNumber": "+380677432322"
@@ -2766,5 +2758,35 @@
     "min": 10,
     "max": 20,
     "raw": 15
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a95ed46-9c6a-43d5-8644-3259b37484ba",
+  "endorsement": "Збалансовані страви з натуральних продуктів",
+  "tags": [
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Healthy",
+      "name": "Здорова їжа",
+      "keyName": "Healthy"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.7835820895522385,
+    "ratingCount": "134"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f79e8366-7e4f-453e-90c6-0c06b783af17"
 }

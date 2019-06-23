@@ -4802,15 +4802,7 @@
   "location": {
     "latitude": 50.4465884,
     "longitude": 30.5140189,
-    "address": {
-      "address1": "Volodymyrska St, 51-53",
-      "aptOrSuite": "салон ",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Volodymyrska St, 51-53, Салон , Kyiv, 02000"
-    }
+    "address": "Volodymyrska St, 51-53"
   },
   "publicContact": {
     "publicPhoneNumber": "+380981112061"
@@ -4891,5 +4883,40 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/cbed4179-5ea1-4c43-94ab-a907746e58da",
+  "endorsement": "Здорові обіди та десерти без цукру",
+  "tags": [
+    {
+      "uuid": "ModernEuropean",
+      "name": "Сучасна європейська",
+      "keyName": "ModernEuropean"
+    },
+    {
+      "uuid": "ModernFrench",
+      "name": "Сучасна французька",
+      "keyName": "ModernFrench"
+    },
+    {
+      "uuid": "NewAmerican",
+      "name": "Нова американська",
+      "keyName": "NewAmerican"
+    },
+    {
+      "uuid": "Wrap",
+      "name": "Врапи",
+      "keyName": "Wrap"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.684931506849315,
+    "ratingCount": "73"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/79d15b44-a9dd-4901-9178-24801dfb700f"
 }

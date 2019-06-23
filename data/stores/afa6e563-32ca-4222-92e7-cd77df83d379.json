@@ -1595,15 +1595,7 @@
   "location": {
     "latitude": 50.442383,
     "longitude": 30.521535,
-    "address": {
-      "address1": "Bessarabs'ka Square, 2",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
-    }
+    "address": "Bessarabs'ka Square, 2"
   },
   "publicContact": {
     "publicPhoneNumber": "+380442350017"
@@ -1667,5 +1659,29 @@
     "min": 15,
     "max": 25,
     "raw": 20
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/53adbc2a-c8b0-47ad-b06f-ace1b3027e55",
+  "tags": [
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
+    },
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.704,
+    "ratingCount": "125"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f61dbac3-bb85-4a0f-a093-43e1d226df8e"
 }

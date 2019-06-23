@@ -2796,15 +2796,7 @@
   "location": {
     "latitude": 50.4417297,
     "longitude": 30.52061909999999,
-    "address": {
-      "address1": "Velyka Vasylkivska St, 1-3",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Velyka Vasylkivska St, 1-3, Kyiv, 02000"
-    }
+    "address": "Velyka Vasylkivska St, 1-3"
   },
   "publicContact": {
     "publicPhoneNumber": "+380504163416"
@@ -2868,5 +2860,29 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3d12771-362d-4238-bcad-889e23a55c36",
+  "tags": [
+    {
+      "uuid": "BreakfastAndBrunch",
+      "name": "Сніданок і бранч",
+      "keyName": "BreakfastAndBrunch"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    },
+    {
+      "uuid": "CoffeeAndTea",
+      "name": "Кава й чай",
+      "keyName": "CoffeeAndTea"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.582278481012659,
+    "ratingCount": "79"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8c21483c-b073-4f76-8be2-d8c1fe517d3a"
 }

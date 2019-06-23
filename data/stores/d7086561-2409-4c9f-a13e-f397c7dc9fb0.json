@@ -2436,15 +2436,7 @@
   "location": {
     "latitude": 50.432358,
     "longitude": 30.513167,
-    "address": {
-      "address1": "Antonovycha St, 50",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Antonovycha St, 50, Kyiv, 02000"
-    }
+    "address": "Antonovycha St, 50"
   },
   "publicContact": {
     "publicPhoneNumber": "+380933193939"
@@ -2508,5 +2500,29 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/61eb08eb-01d3-462f-aad2-e9a577a99417",
+  "tags": [
+    {
+      "uuid": "Ukrainian",
+      "name": "Українська",
+      "keyName": "Ukrainian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "ComfortFood",
+      "name": "Традиційна їжа",
+      "keyName": "ComfortFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.700354609929078,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/99af2674-8c0a-43e4-afd6-010b4a2b778a"
 }

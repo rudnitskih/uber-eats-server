@@ -1702,15 +1702,7 @@
   "location": {
     "latitude": 50.44714742082604,
     "longitude": 30.507990610500475,
-    "address": {
-      "address1": "Bohdana Khmel'nyts'koho St, 42",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Bohdana Khmel'Nyts'Koho St, 42, Kyiv, 02000"
-    }
+    "address": "Bohdana Khmel'nyts'koho St, 42"
   },
   "publicContact": {
     "publicPhoneNumber": "+380990109993"
@@ -1774,5 +1766,29 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/023df241-f8a7-4381-bbaa-5fd244b6270c",
+  "tags": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.449685534591195,
+    "ratingCount": "318"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/60e60408-5849-47e5-bbff-fdeae414fc4b"
 }

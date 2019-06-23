@@ -2875,15 +2875,7 @@
   "location": {
     "latitude": 50.44623012538354,
     "longitude": 30.51551990287617,
-    "address": {
-      "address1": "Bohdana Khmel'nyts'koho St, 16-22",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Bohdana Khmel'Nyts'Koho St, 16-22, Kyiv, 02000"
-    }
+    "address": "Bohdana Khmel'nyts'koho St, 16-22"
   },
   "publicContact": {
     "publicPhoneNumber": "+380633722232"
@@ -2947,5 +2939,34 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/25884f4c-c176-4388-affb-45e5e55018a1",
+  "tags": [
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "Noodle",
+      "name": "Локшина",
+      "keyName": "Noodle"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.647286821705427,
+    "ratingCount": "258"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/909fd5ff-8040-42b8-be22-4f2c3bd62caa"
 }

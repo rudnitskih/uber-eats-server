@@ -3029,15 +3029,7 @@
   "location": {
     "latitude": 50.42233823513027,
     "longitude": 30.51740982109184,
-    "address": {
-      "address1": "Antonovycha St, 111",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Antonovycha St, 111, Kyiv, 02000"
-    }
+    "address": "Antonovycha St, 111"
   },
   "publicContact": {
     "publicPhoneNumber": "+380737003700"
@@ -3101,5 +3093,44 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/c6e01037-0310-4149-82fa-d8c7ef97fd83",
+  "tags": [
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
+    },
+    {
+      "uuid": "Arabian",
+      "name": "Арабська",
+      "keyName": "Arabian"
+    },
+    {
+      "uuid": "Kebab",
+      "name": "Кебаб",
+      "keyName": "Kebab"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "Turkish",
+      "name": "Турецька",
+      "keyName": "Turkish"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.666666666666667,
+    "ratingCount": "54"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/eff24387-c3e7-4c80-8a7f-3fa69171fb86"
 }

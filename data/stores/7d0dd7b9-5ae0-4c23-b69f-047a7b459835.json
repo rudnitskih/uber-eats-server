@@ -3001,15 +3001,7 @@
   "location": {
     "latitude": 50.44682818092414,
     "longitude": 30.51140331127487,
-    "address": {
-      "address1": "Bohdana Khmel'nyts'koho St, 30/10",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "01030",
-      "region": "",
-      "formattedAddress": "Bohdana Khmel'Nyts'Koho St, 30/10, Kyiv, 01030"
-    }
+    "address": "Bohdana Khmel'nyts'koho St, 30/10"
   },
   "publicContact": {
     "publicPhoneNumber": "+380668448574"
@@ -3073,5 +3065,54 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/318dda12-2a82-425f-a0c7-d8797f0722a0",
+  "tags": [
+    {
+      "uuid": "Turkish",
+      "name": "Турецька",
+      "keyName": "Turkish"
+    },
+    {
+      "uuid": "EasternEuropean",
+      "name": "Східноєвропейська",
+      "keyName": "EasternEuropean"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Shawarma",
+      "name": "Шаурма",
+      "keyName": "Shawarma"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "ComfortFood",
+      "name": "Традиційна їжа",
+      "keyName": "ComfortFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.485981308411215,
+    "ratingCount": "107"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4aabe55f-0530-4e68-97e8-07aa7b27a5e0"
 }

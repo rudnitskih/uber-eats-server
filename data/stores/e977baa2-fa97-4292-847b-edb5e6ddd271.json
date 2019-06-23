@@ -1849,15 +1849,7 @@
   "location": {
     "latitude": 50.439749,
     "longitude": 30.511726,
-    "address": {
-      "address1": "Lva Tolstoho St, 11/61",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Lva Tolstoho St, 11/61, Kyiv, 02000"
-    }
+    "address": "Lva Tolstoho St, 11/61"
   },
   "publicContact": {
     "publicPhoneNumber": "+380673206580"
@@ -1921,5 +1913,39 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c2ffa6a-84a8-4338-aee3-e0b88f12a280",
+  "tags": [
+    {
+      "uuid": "ModernEuropean",
+      "name": "Сучасна європейська",
+      "keyName": "ModernEuropean"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "BarFood",
+      "name": "Закуски",
+      "keyName": "BarFood"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Pasta",
+      "name": "Паста",
+      "keyName": "Pasta"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.591111111111111,
+    "ratingCount": "225"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/68578bf0-61ae-4883-a379-f8b37da5c074"
 }

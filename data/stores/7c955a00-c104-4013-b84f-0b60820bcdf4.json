@@ -6884,15 +6884,7 @@
   "location": {
     "latitude": 50.449405547535825,
     "longitude": 30.525966074007883,
-    "address": {
-      "address1": "Maidan Nezalezhnosti, 1",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Maidan Nezalezhnosti, 1, "
-    }
+    "address": "Maidan Nezalezhnosti, 1"
   },
   "publicContact": {
     "publicPhoneNumber": "+380992253333"
@@ -6973,5 +6965,50 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c8833d8-ef99-4e45-8d56-f878f6c76f26",
+  "endorsement": "Щовівторка отримуй другу піцу у подарунок! ",
+  "tags": [
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Pasta",
+      "name": "Паста",
+      "keyName": "Pasta"
+    },
+    {
+      "uuid": "Italian",
+      "name": "Італійська",
+      "keyName": "Italian"
+    },
+    {
+      "uuid": "Pizza",
+      "name": "Піца",
+      "keyName": "Pizza"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.543046357615894,
+    "ratingCount": "151"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3200be26-a76c-4cfd-b061-7f148b02bc8e"
 }

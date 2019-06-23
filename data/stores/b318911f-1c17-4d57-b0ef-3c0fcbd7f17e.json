@@ -1268,15 +1268,7 @@
   "location": {
     "latitude": 50.43968912048784,
     "longitude": 30.51126550220096,
-    "address": {
-      "address1": "Volodymyrska St, 61",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Volodymyrska St, 61, Kyiv, 02000"
-    }
+    "address": "Volodymyrska St, 61"
   },
   "publicContact": {
     "publicPhoneNumber": "+380682286161"
@@ -1340,5 +1332,24 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6f5a386-80b2-490e-afe2-d227170444b4",
+  "tags": [
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.788079470198675,
+    "ratingCount": "151"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8c9d7426-bc2e-4563-89ea-e3ebcee2d439"
 }

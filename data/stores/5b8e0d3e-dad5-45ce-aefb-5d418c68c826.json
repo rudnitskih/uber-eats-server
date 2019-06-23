@@ -1919,15 +1919,7 @@
   "location": {
     "latitude": 50.450893,
     "longitude": 30.5226522,
-    "address": {
-      "address1": "Maidan Nezalezhnosti, 1",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
-    }
+    "address": "Maidan Nezalezhnosti, 1"
   },
   "publicContact": {
     "publicPhoneNumber": "+380689071991"
@@ -2007,5 +1999,30 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/b703f54d-b0a9-4870-b78f-a7b2a3e8607f",
+  "endorsement": "100% українська гастрономія",
+  "tags": [
+    {
+      "uuid": "Ukrainian",
+      "name": "Українська",
+      "keyName": "Ukrainian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Seafood",
+      "name": "Морепродукти",
+      "keyName": "Seafood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.5,
+    "ratingCount": "56"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/26988a7f-f293-44d9-aed9-827c9b7ea06c"
 }

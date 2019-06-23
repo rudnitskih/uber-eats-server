@@ -3976,15 +3976,7 @@
   "location": {
     "latitude": 50.442927,
     "longitude": 30.4982845,
-    "address": {
-      "address1": "Saksahanskoho St, 102",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "Kyiv city",
-      "formattedAddress": "Saksahanskoho St, 102, Kyiv, Kyiv city 02000"
-    }
+    "address": "Saksahanskoho St, 102"
   },
   "publicContact": {
     "publicPhoneNumber": "+380442880808"
@@ -4048,5 +4040,29 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/d959fcf0-3b5c-4932-b516-4ef08bddd7b9",
+  "tags": [
+    {
+      "uuid": "ModernEuropean",
+      "name": "Сучасна європейська",
+      "keyName": "ModernEuropean"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Ukrainian",
+      "name": "Українська",
+      "keyName": "Ukrainian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.468531468531468,
+    "ratingCount": "143"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/9f0b368c-3c0a-4b3c-a92a-b0f880d8dc0d"
 }

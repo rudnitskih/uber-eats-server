@@ -4140,15 +4140,7 @@
   "location": {
     "latitude": 50.435982,
     "longitude": 30.50805199999999,
-    "address": {
-      "address1": "Saksahanskoho St, 57А",
-      "aptOrSuite": "На черный вход",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Saksahanskoho St, 57а, На Черный Вход, Kyiv, 02000"
-    }
+    "address": "Saksahanskoho St, 57А"
   },
   "publicContact": {
     "publicPhoneNumber": "+380501649676"
@@ -4228,5 +4220,30 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed032859-05fa-4761-9a4f-ac5fb7d5859a",
+  "endorsement": "Найпопулярніші янтики та чебуреки",
+  "tags": [
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
+    },
+    {
+      "uuid": "Ukrainian",
+      "name": "Українська",
+      "keyName": "Ukrainian"
+    },
+    {
+      "uuid": "Georgian",
+      "name": "Грузинська",
+      "keyName": "Georgian"
+    }
+  ],
+  "sellsAlcohol": true,
+  "rawRatingStats": {
+    "storeRatingScore": 4.7796934865900385,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/48f30dc6-245f-4257-9b6f-8fc00c510fd9"
 }

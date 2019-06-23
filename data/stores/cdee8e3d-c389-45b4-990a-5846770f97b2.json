@@ -394,15 +394,7 @@
   "location": {
     "latitude": 50.4388667,
     "longitude": 30.5230665,
-    "address": {
-      "address1": "Спортивна площа, 1a, Київ, Украина, 01023",
-      "aptOrSuite": "",
-      "city": "Київ",
-      "country": "UA",
-      "postalCode": "01023",
-      "region": "",
-      "formattedAddress": "Спортивна Площа, 1a, Київ, Украина, 01023"
-    }
+    "address": "Спортивна площа, 1a, Київ, Украина, 01023"
   },
   "publicContact": {
     "publicPhoneNumber": "+380979382747"
@@ -466,5 +458,19 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/671b9d74-d74c-4185-8065-c72ae499c8d3",
+  "tags": [
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.37378640776699,
+    "ratingCount": "206"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/20a02ae2-da96-4cec-9b50-c01c3a0cb635"
 }

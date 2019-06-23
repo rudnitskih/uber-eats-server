@@ -1852,15 +1852,7 @@
   "location": {
     "latitude": 50.42214730000001,
     "longitude": 30.51943450000001,
-    "address": {
-      "address1": "Velyka Vasylkivska St, 114",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Velyka Vasylkivska St, 114, Kyiv, 02000"
-    }
+    "address": "Velyka Vasylkivska St, 114"
   },
   "publicContact": {
     "publicPhoneNumber": "+380443346845"
@@ -1924,5 +1916,29 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/a14185e1-ee88-43e1-a2ca-a5444c022c4a",
+  "tags": [
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Vietnamese",
+      "name": "В’єтнамська",
+      "keyName": "Vietnamese"
+    },
+    {
+      "uuid": "Seafood",
+      "name": "Морепродукти",
+      "keyName": "Seafood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.662921348314606,
+    "ratingCount": "89"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1708aef6-eaf7-4755-9ba7-eaf5f669e965"
 }

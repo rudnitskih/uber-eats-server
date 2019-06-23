@@ -2677,15 +2677,7 @@
   "location": {
     "latitude": 50.4391605,
     "longitude": 30.5171764,
-    "address": {
-      "address1": "Velyka Vasylkivska St, 23",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Velyka Vasylkivska St, 23, Kyiv, 02000"
-    }
+    "address": "Velyka Vasylkivska St, 23"
   },
   "publicContact": {
     "publicPhoneNumber": "+380673113545"
@@ -2750,5 +2742,29 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/f51103dd-acd1-4b10-a87c-6a40c2f5884e",
+  "tags": [
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Chinese",
+      "name": "Китайська",
+      "keyName": "Chinese"
+    },
+    {
+      "uuid": "Noodle",
+      "name": "Локшина",
+      "keyName": "Noodle"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.715773809523809,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/bec69c7d-acef-4362-ab88-b087721305bd"
 }

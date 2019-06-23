@@ -3975,15 +3975,7 @@
   "location": {
     "latitude": 50.4470799,
     "longitude": 30.4886158,
-    "address": {
-      "address1": "Peremohy Ave, 3, Kyiv, Ukraine, 02000",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Peremohy Ave, 3, Kyiv, Ukraine, 02000, "
-    }
+    "address": "Peremohy Ave, 3, Kyiv, Ukraine, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380674032929"
@@ -4052,5 +4044,45 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/07114a6a-343a-4015-b228-0e42e9b6810b",
+  "endorsement": "Справжні японські суші",
+  "tags": [
+    {
+      "uuid": "Rolls",
+      "name": "Роли",
+      "keyName": "Rolls"
+    },
+    {
+      "uuid": "Sushi",
+      "name": "Суші",
+      "keyName": "Sushi"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.427184466019417,
+    "ratingCount": "206"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1a2f664f-f3c7-4008-9461-acf294b4d1af"
 }

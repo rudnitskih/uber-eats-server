@@ -5327,15 +5327,7 @@
   "location": {
     "latitude": 50.45342180000001,
     "longitude": 30.51961,
-    "address": {
-      "address1": "Mala Zhytomyrska St, 15",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Mala Zhytomyrska St, 15, Kyiv, 02000"
-    }
+    "address": "Mala Zhytomyrska St, 15"
   },
   "publicContact": {
     "publicPhoneNumber": "+380930574745"
@@ -5416,5 +5408,30 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/dfae85a2-6a62-462a-9663-f137309bad1c",
+  "endorsement": "Традиційні грузинські хінкалі та хачапурі",
+  "tags": [
+    {
+      "uuid": "Georgian",
+      "name": "Грузинська",
+      "keyName": "Georgian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Pastry",
+      "name": "Випічка",
+      "keyName": "Pastry"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.755868544600939,
+    "ratingCount": "213"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/2c1e54e4-009d-4c2f-9720-6eeba8b179b2"
 }

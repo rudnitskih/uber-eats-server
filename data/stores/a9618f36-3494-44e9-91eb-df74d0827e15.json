@@ -3102,15 +3102,7 @@
   "location": {
     "latitude": 50.4294014,
     "longitude": 30.5156605,
-    "address": {
-      "address1": "вулиця Велика Васильківська, 88, Київ, Украина, 02000",
-      "aptOrSuite": "",
-      "city": "Київ",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Вулиця Велика Васильківська, 88, Київ, Украина, 02000"
-    }
+    "address": "вулиця Велика Васильківська, 88, Київ, Украина, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380935200949"
@@ -3175,5 +3167,34 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/7de8ef71-0282-48bd-bee3-a9b8e8d34c07",
+  "tags": [
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    },
+    {
+      "uuid": "Noodle",
+      "name": "Локшина",
+      "keyName": "Noodle"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.619230769230769,
+    "ratingCount": "260"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/50d289e2-1c31-4cc6-90d5-fce64d59de3e"
 }

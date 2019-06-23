@@ -5375,15 +5375,7 @@
   "location": {
     "latitude": 50.43272866496525,
     "longitude": 30.545549495256093,
-    "address": {
-      "address1": "Moskovska St, 41/8",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Moskovska St, 41/8, Kyiv, 02000"
-    }
+    "address": "Moskovska St, 41/8"
   },
   "publicContact": {
     "publicPhoneNumber": "+380671749434"
@@ -5448,5 +5440,29 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/32642c43-8a73-4db7-a242-3d0c698543a8",
+  "tags": [
+    {
+      "uuid": "French",
+      "name": "Французька",
+      "keyName": "French"
+    },
+    {
+      "uuid": "Pastry",
+      "name": "Випічка",
+      "keyName": "Pastry"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.671328671328672,
+    "ratingCount": "143"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/4386cae6-94c4-4462-8272-8127b87793a6"
 }

@@ -3193,15 +3193,7 @@
   "location": {
     "latitude": 50.4412854,
     "longitude": 30.499243,
-    "address": {
-      "address1": "Saksahanskoho St, 109",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Saksahanskoho St, 109, Kyiv, 02000"
-    }
+    "address": "Saksahanskoho St, 109"
   },
   "publicContact": {
     "publicPhoneNumber": "+380934201667"
@@ -3265,5 +3257,29 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cfe6bc9-0bff-4f46-85d6-75c9b2392016",
+  "tags": [
+    {
+      "uuid": "Georgian",
+      "name": "Грузинська",
+      "keyName": "Georgian"
+    },
+    {
+      "uuid": "Pastry",
+      "name": "Випічка",
+      "keyName": "Pastry"
+    },
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.7447698744769875,
+    "ratingCount": "239"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8463171f-3c1f-4269-a6ab-3ec076b61f04"
 }

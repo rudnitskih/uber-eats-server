@@ -3202,15 +3202,7 @@
   "location": {
     "latitude": 50.4196483,
     "longitude": 30.521504,
-    "address": {
-      "address1": "Velyka Vasylkivska St, 111",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Velyka Vasylkivska St, 111, Kyiv, 02000"
-    }
+    "address": "Velyka Vasylkivska St, 111"
   },
   "publicContact": {
     "publicPhoneNumber": "+380445855997"
@@ -3275,5 +3267,34 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/03a60f51-9cea-4e8e-8408-5a093b46d086",
+  "tags": [
+    {
+      "uuid": "Italian",
+      "name": "Італійська",
+      "keyName": "Italian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "Pizza",
+      "name": "Піца",
+      "keyName": "Pizza"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.263803680981595,
+    "ratingCount": "163"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/ac289dfe-80aa-4f43-a473-bd519a8e67d9"
 }

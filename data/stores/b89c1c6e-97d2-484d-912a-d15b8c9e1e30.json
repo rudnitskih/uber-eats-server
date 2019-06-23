@@ -3964,15 +3964,7 @@
   "location": {
     "latitude": 50.44078825996577,
     "longitude": 30.516605599335705,
-    "address": {
-      "address1": "Pushkinska St, 39",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Pushkinska St, 39, Kyiv, 02000"
-    }
+    "address": "Pushkinska St, 39"
   },
   "publicContact": {
     "publicPhoneNumber": "+380442245555"
@@ -4037,5 +4029,29 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203",
+  "tags": [
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    },
+    {
+      "uuid": "Chinese",
+      "name": "Китайська",
+      "keyName": "Chinese"
+    },
+    {
+      "uuid": "Sushi",
+      "name": "Суші",
+      "keyName": "Sushi"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.425531914893617,
+    "ratingCount": "188"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/38852d9a-bcc9-40e5-a57b-32633b46821d"
 }

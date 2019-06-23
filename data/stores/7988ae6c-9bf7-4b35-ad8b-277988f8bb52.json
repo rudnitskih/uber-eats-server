@@ -5067,15 +5067,7 @@
   "location": {
     "latitude": 50.432576,
     "longitude": 30.51398099999999,
-    "address": {
-      "address1": "Antonovycha St, 45",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Antonovycha St, 45, Kyiv, 02000"
-    }
+    "address": "Antonovycha St, 45"
   },
   "publicContact": {
     "publicPhoneNumber": "+380688637772"
@@ -5139,5 +5131,29 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb3b058d-4f39-41d6-ac92-7c5150512377",
+  "tags": [
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.693693693693693,
+    "ratingCount": "111"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5f2c296b-0776-4fe0-b045-17723e85bf9c"
 }

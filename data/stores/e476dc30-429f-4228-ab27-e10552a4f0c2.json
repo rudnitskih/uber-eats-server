@@ -2084,15 +2084,7 @@
   "location": {
     "latitude": 50.44652010271184,
     "longitude": 30.496426427143586,
-    "address": {
-      "address1": "Tarasa Shevchenko Blvd, 56",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Tarasa Shevchenko Blvd, 56, Kyiv, 02000"
-    }
+    "address": "Tarasa Shevchenko Blvd, 56"
   },
   "publicContact": {
     "publicPhoneNumber": "+380506340451"
@@ -2157,5 +2149,29 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/48efae80-7609-44a2-bec8-afbae76fab98",
+  "tags": [
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "BBQ",
+      "name": "Барбекю",
+      "keyName": "BBQ"
+    },
+    {
+      "uuid": "Falafel",
+      "name": "Фалафель",
+      "keyName": "Falafel"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.722222222222222,
+    "ratingCount": "180"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/100bb3e2-6a60-40cd-b503-444a68118c6d"
 }

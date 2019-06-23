@@ -1607,15 +1607,7 @@
   "location": {
     "latitude": 50.42437677282379,
     "longitude": 30.515392700414406,
-    "address": {
-      "address1": "Laboratorna St, 19/93",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Laboratorna St, 19/93, Kyiv, 02000"
-    }
+    "address": "Laboratorna St, 19/93"
   },
   "publicContact": {
     "publicPhoneNumber": "+380673528686"
@@ -1679,5 +1671,29 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
+  "tags": [
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.287081339712919,
+    "ratingCount": "209"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/7f4d9667-a889-4226-b29d-e5f7fc18bf2d"
 }

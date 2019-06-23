@@ -770,15 +770,7 @@
   "location": {
     "latitude": 50.446334883147344,
     "longitude": 30.50874306511303,
-    "address": {
-      "address1": "Ivana Franka St, 27",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Ivana Franka St, 27, Kyiv, 02000"
-    }
+    "address": "Ivana Franka St, 27"
   },
   "publicContact": {
     "publicPhoneNumber": "+380669068161"
@@ -858,5 +850,30 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w550-23.jpg",
+  "endorsement": "Улюблені хот-доги столиці",
+  "tags": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    },
+    {
+      "uuid": "Completos",
+      "name": "Хот-доги",
+      "keyName": "Completos"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.663414634146341,
+    "ratingCount": "205"
+  },
+  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543904269691-w2880-99.jpg"
 }

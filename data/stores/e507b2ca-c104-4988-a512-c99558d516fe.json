@@ -2398,15 +2398,7 @@
   "location": {
     "latitude": 50.4585853,
     "longitude": 30.4869158,
-    "address": {
-      "address1": "Sichovykh Striltsiv St, 84",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Sichovykh Striltsiv St, 84, Kyiv, 02000"
-    }
+    "address": "Sichovykh Striltsiv St, 84"
   },
   "publicContact": {
     "publicPhoneNumber": "+380983481338"
@@ -2470,5 +2462,29 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/162d8d7d-7e73-42f0-94bc-d1f0e7050477",
+  "tags": [
+    {
+      "uuid": "Ukrainian",
+      "name": "Українська",
+      "keyName": "Ukrainian"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Shawarma",
+      "name": "Шаурма",
+      "keyName": "Shawarma"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.557522123893805,
+    "ratingCount": "113"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/061b8acc-e0b5-408f-a72d-410f6f689bd2"
 }

@@ -2402,15 +2402,7 @@
   "location": {
     "latitude": 50.45221199999999,
     "longitude": 30.517241,
-    "address": {
-      "address1": "Sofiivs'ka St, 23",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Sofiivs'Ka St, 23, Kyiv, 02000"
-    }
+    "address": "Sofiivs'ka St, 23"
   },
   "publicContact": {
     "publicPhoneNumber": "+380639461405"
@@ -2475,5 +2467,29 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/a329e2b2-2ea6-4e74-aa77-012f17dec3d1",
+  "tags": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.178947368421053,
+    "ratingCount": "190"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f2ffa5e7-aeb1-4e3a-85f0-089a5e4ff981"
 }

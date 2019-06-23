@@ -4730,15 +4730,7 @@
   "location": {
     "latitude": 50.442647703993565,
     "longitude": 30.521395343482457,
-    "address": {
-      "address1": "Bessarabs'ka Square, 2",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Bessarabs'Ka Square, 2, Kyiv, 02000"
-    }
+    "address": "Bessarabs'ka Square, 2"
   },
   "publicContact": {
     "publicPhoneNumber": "+380673204446"
@@ -4803,5 +4795,39 @@
     "min": 10,
     "max": 20,
     "raw": 15
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d86b04b-4383-4f96-a7bc-1b460326ca9d",
+  "tags": [
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    },
+    {
+      "uuid": "Noodle",
+      "name": "Локшина",
+      "keyName": "Noodle"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Dumpling",
+      "name": "Пельмені",
+      "keyName": "Dumpling"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.554770318021202,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/61685c91-0f9c-4968-b384-64a65fc01a1e"
 }

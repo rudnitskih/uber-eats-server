@@ -936,15 +936,7 @@
   "location": {
     "latitude": 50.445993373602434,
     "longitude": 30.51609549890798,
-    "address": {
-      "address1": "Bohdana Khmel'nyts'koho St, 16-22",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Bohdana Khmel'Nyts'Koho St, 16-22, Kyiv, 02000"
-    }
+    "address": "Bohdana Khmel'nyts'koho St, 16-22"
   },
   "publicContact": {
     "publicPhoneNumber": "+380983001614"
@@ -1008,5 +1000,29 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/e9a2cc00-1f08-4770-8398-a98630aa098b",
+  "tags": [
+    {
+      "uuid": "Taco",
+      "name": "Тако",
+      "keyName": "Taco"
+    },
+    {
+      "uuid": "Burrito",
+      "name": "Буріто",
+      "keyName": "Burrito"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.043478260869565,
+    "ratingCount": "69"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/239a2c92-6748-482e-b6e7-85bb1d12583d"
 }

@@ -2148,15 +2148,7 @@
   "location": {
     "latitude": 50.4519463,
     "longitude": 30.5210659,
-    "address": {
-      "address1": "Mala Zhytomyrska St, 3",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Mala Zhytomyrska St, 3, Kyiv, 02000"
-    }
+    "address": "Mala Zhytomyrska St, 3"
   },
   "publicContact": {
     "publicPhoneNumber": "+380934325753"
@@ -2220,5 +2212,24 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf",
+  "tags": [
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.71304347826087,
+    "ratingCount": "115"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/0b01c6d6-d78c-46df-90dc-ef2fce60e1a8"
 }

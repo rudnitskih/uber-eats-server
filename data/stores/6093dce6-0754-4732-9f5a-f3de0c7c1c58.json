@@ -3309,15 +3309,7 @@
   "location": {
     "latitude": 50.424998,
     "longitude": 30.4782622,
-    "address": {
-      "address1": "Solomianska St, 15A",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Solomianska St, 15a, Kyiv, 02000"
-    }
+    "address": "Solomianska St, 15A"
   },
   "publicContact": {
     "publicPhoneNumber": "+380443600209"
@@ -3397,5 +3389,30 @@
     "min": 50,
     "max": 60,
     "raw": 55
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71",
+  "endorsement": "Улюблені суші",
+  "tags": [
+    {
+      "uuid": "Sushi",
+      "name": "Суші",
+      "keyName": "Sushi"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.7101449275362315,
+    "ratingCount": "69"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/5e407b69-a24e-4beb-8bd7-1439432e16f5"
 }

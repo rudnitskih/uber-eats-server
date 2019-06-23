@@ -2290,15 +2290,7 @@
   "location": {
     "latitude": 50.442383,
     "longitude": 30.521535,
-    "address": {
-      "address1": "Bessarabs'ka Square, 2",
-      "aptOrSuite": "13",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "Kyiv city",
-      "formattedAddress": "Bessarabs'Ka Square, 2, 13, Kyiv, Kyiv city 02000"
-    }
+    "address": "Bessarabs'ka Square, 2"
   },
   "publicContact": {
     "publicPhoneNumber": "+380982940231"
@@ -2379,5 +2371,40 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w550-47.jpg",
+  "endorsement": "Веганський стріт-фуд",
+  "tags": [
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Falafel",
+      "name": "Фалафель",
+      "keyName": "Falafel"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.766603415559772,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543587430556-w2880-84.jpg"
 }

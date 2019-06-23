@@ -2522,15 +2522,7 @@
   "location": {
     "latitude": 50.4506798,
     "longitude": 30.526015,
-    "address": {
-      "address1": "Khreschatyk St, 7/11",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Khreschatyk St, 7/11, Kyiv, 02000"
-    }
+    "address": "Khreschatyk St, 7/11"
   },
   "publicContact": {
     "publicPhoneNumber": "+380678282081"
@@ -2599,5 +2591,35 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f",
+  "endorsement": "Всі бургери по 69 грн",
+  "tags": [
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.302158273381295,
+    "ratingCount": "139"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/8646805e-1fb8-4429-8ee8-f789f4b1d380"
 }

@@ -2087,15 +2087,7 @@
   "location": {
     "latitude": 50.438959,
     "longitude": 30.51944799999999,
-    "address": {
-      "address1": "Shota Rustaveli St, 16",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Shota Rustaveli St, 16, Kyiv, 02000"
-    }
+    "address": "Shota Rustaveli St, 16"
   },
   "publicContact": {
     "publicPhoneNumber": "+380442370907"
@@ -2175,5 +2167,25 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2f73d66-2f80-43d2-814b-d666c8d2240b",
+  "endorsement": "Десерти, про які всі говорять",
+  "tags": [
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.840740740740741,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/cd0ed1c1-d96e-4d94-978f-aef68e8724ee"
 }

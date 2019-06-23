@@ -3670,15 +3670,7 @@
   "location": {
     "latitude": 50.44276509999999,
     "longitude": 30.5195291,
-    "address": {
-      "address1": "Tarasa Shevchenko Blvd, 2, Kyiv, Ukraine, 02000",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Tarasa Shevchenko Blvd, 2, Kyiv, Ukraine, 02000, "
-    }
+    "address": "Tarasa Shevchenko Blvd, 2, Kyiv, Ukraine, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380636150989"
@@ -3758,5 +3750,30 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w550-40.jpg",
+  "endorsement": "Традиційні грузинські хінкалі та хачапурі",
+  "tags": [
+    {
+      "uuid": "Georgian",
+      "name": "Грузинська",
+      "keyName": "Georgian"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Pastry",
+      "name": "Випічка",
+      "keyName": "Pastry"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.774425287356322,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1544521275226-w2880-eb.jpg"
 }

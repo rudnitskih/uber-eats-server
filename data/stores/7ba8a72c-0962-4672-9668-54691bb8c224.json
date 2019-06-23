@@ -3975,15 +3975,7 @@
   "location": {
     "latitude": 50.43883654193364,
     "longitude": 30.484408818940935,
-    "address": {
-      "address1": "Heorhiia Kirpy St, 3",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Heorhiia Kirpy St, 3, Kyiv, 02000"
-    }
+    "address": "Heorhiia Kirpy St, 3"
   },
   "publicContact": {
     "publicPhoneNumber": "+380672098257"
@@ -4052,5 +4044,40 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/be1c1aa8-604c-4b62-966b-807ca06adab0",
+  "endorsement": "Справжні японські суші",
+  "tags": [
+    {
+      "uuid": "Sushi",
+      "name": "Суші",
+      "keyName": "Sushi"
+    },
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    },
+    {
+      "uuid": "Rolls",
+      "name": "Роли",
+      "keyName": "Rolls"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.135869565217392,
+    "ratingCount": "184"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/48f9fc96-99be-4ec3-8665-ceff46cde345"
 }

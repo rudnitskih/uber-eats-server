@@ -1098,15 +1098,7 @@
   "location": {
     "latitude": 50.45545699999999,
     "longitude": 30.511433,
-    "address": {
-      "address1": "Velyka Zhytomyrska St, 26",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "Kyiv city",
-      "formattedAddress": "Velyka Zhytomyrska St, 26, Kyiv, Kyiv city 02000"
-    }
+    "address": "Velyka Zhytomyrska St, 26"
   },
   "publicContact": {
     "publicPhoneNumber": "+380672604343"
@@ -1170,5 +1162,24 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/efecb48a-58b1-4adf-a802-9901a2b30611",
+  "tags": [
+    {
+      "uuid": "Vietnamese",
+      "name": "В’єтнамська",
+      "keyName": "Vietnamese"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.707865168539326,
+    "ratingCount": "178"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/e5cd2026-8596-4e2e-8374-c12eed0ae8f1"
 }

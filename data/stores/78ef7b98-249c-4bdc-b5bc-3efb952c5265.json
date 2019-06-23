@@ -1601,15 +1601,7 @@
   "location": {
     "latitude": 50.44709341880999,
     "longitude": 30.522159244598875,
-    "address": {
-      "address1": "Khreschatyk St, 19, Kyiv, Ukraine, 02000",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Khreschatyk St, 19, Kyiv, Ukraine, 02000, "
-    }
+    "address": "Khreschatyk St, 19, Kyiv, Ukraine, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380983503115"
@@ -1673,5 +1665,29 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/2d3df769-97e8-4d3a-820c-000d40662070",
+  "tags": [
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.06993006993007,
+    "ratingCount": "143"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d81ce12e-a552-428f-b4b3-2d1b1321920c"
 }

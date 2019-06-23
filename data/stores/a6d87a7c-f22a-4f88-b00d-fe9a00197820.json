@@ -1224,15 +1224,7 @@
   "location": {
     "latitude": 50.4462597,
     "longitude": 30.51579250000001,
-    "address": {
-      "address1": "Bohdana Khmel'nyts'koho St, 16-22, Kyiv, Ukraine, 02000",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Bohdana Khmel'Nyts'Koho St, 16-22, Kyiv, Ukraine, 02000, "
-    }
+    "address": "Bohdana Khmel'nyts'koho St, 16-22, Kyiv, Ukraine, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380688893393"
@@ -1296,5 +1288,24 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/02d8ce38-5f2a-4e33-b596-108138c687d9",
+  "tags": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "BarFood",
+      "name": "Закуски",
+      "keyName": "BarFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.72093023255814,
+    "ratingCount": "129"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d23e404c-5892-400e-8b3e-87b21495f0d3"
 }

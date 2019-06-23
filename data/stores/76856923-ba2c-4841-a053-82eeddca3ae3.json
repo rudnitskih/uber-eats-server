@@ -2278,15 +2278,7 @@
   "location": {
     "latitude": 50.44500019999999,
     "longitude": 30.50565559999999,
-    "address": {
-      "address1": "бульвар Тараса Шевченка, 26, Київ, Украина, 02000",
-      "aptOrSuite": "",
-      "city": "Київ",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Бульвар Тараса Шевченка, 26, Київ, Украина, 02000"
-    }
+    "address": "бульвар Тараса Шевченка, 26, Київ, Украина, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380966487235"
@@ -2367,5 +2359,40 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w550-47.jpg",
+  "endorsement": "Веганський стріт-фуд",
+  "tags": [
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Falafel",
+      "name": "Фалафель",
+      "keyName": "Falafel"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.7823529411764705,
+    "ratingCount": "340"
+  },
+  "largeImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/1543588328794-w2880-84.jpg"
 }

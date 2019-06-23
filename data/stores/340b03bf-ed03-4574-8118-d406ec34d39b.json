@@ -4719,15 +4719,7 @@
   "location": {
     "latitude": 50.43310849999999,
     "longitude": 30.5156884,
-    "address": {
-      "address1": "Velyka Vasylkivska St, 66",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "03150",
-      "region": "",
-      "formattedAddress": "Velyka Vasylkivska St, 66, Kyiv, 03150"
-    }
+    "address": "Velyka Vasylkivska St, 66"
   },
   "publicContact": {
     "publicPhoneNumber": "+380671021196"
@@ -4792,5 +4784,39 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/8eac1eb0-db4a-499e-afd5-116b92a03a7b",
+  "tags": [
+    {
+      "uuid": "Noodle",
+      "name": "Локшина",
+      "keyName": "Noodle"
+    },
+    {
+      "uuid": "Japanese",
+      "name": "Японська",
+      "keyName": "Japanese"
+    },
+    {
+      "uuid": "Asian",
+      "name": "Азіатська",
+      "keyName": "Asian"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Dumpling",
+      "name": "Пельмені",
+      "keyName": "Dumpling"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.684210526315789,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/0971e3f6-322e-4872-ad3d-277d16ca91d9"
 }

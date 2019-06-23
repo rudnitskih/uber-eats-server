@@ -1126,15 +1126,7 @@
   "location": {
     "latitude": 50.462782,
     "longitude": 30.494972,
-    "address": {
-      "address1": "Hlybochytska St, 33/37",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "Kyiv city",
-      "formattedAddress": "Hlybochytska St, 33/37, Kyiv, Kyiv city 02000"
-    }
+    "address": "Hlybochytska St, 33/37"
   },
   "publicContact": {
     "publicPhoneNumber": "+380933662527"
@@ -1199,5 +1191,39 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
+  "tags": [
+    {
+      "uuid": "Pizza",
+      "name": "Піца",
+      "keyName": "Pizza"
+    },
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "ModernEuropean",
+      "name": "Сучасна європейська",
+      "keyName": "ModernEuropean"
+    },
+    {
+      "uuid": "EasternEuropean",
+      "name": "Східноєвропейська",
+      "keyName": "EasternEuropean"
+    },
+    {
+      "uuid": "Italian",
+      "name": "Італійська",
+      "keyName": "Italian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.300813008130081,
+    "ratingCount": "123"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc"
 }

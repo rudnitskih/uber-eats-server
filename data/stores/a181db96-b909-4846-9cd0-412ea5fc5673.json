@@ -2290,15 +2290,7 @@
   "location": {
     "latitude": 50.455495,
     "longitude": 30.507831,
-    "address": {
-      "address1": "Velyka Zhytomyrska St, 40",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Velyka Zhytomyrska St, 40, Kyiv, 02000"
-    }
+    "address": "Velyka Zhytomyrska St, 40"
   },
   "publicContact": {
     "publicPhoneNumber": "+380681783268"
@@ -2379,5 +2371,40 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1fcbae1-6ec8-4ac0-8950-0e7e59987cda",
+  "endorsement": "Веганський стріт-фуд",
+  "tags": [
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "Falafel",
+      "name": "Фалафель",
+      "keyName": "Falafel"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.746835443037975,
+    "ratingCount": "237"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/f8052251-4830-4cef-b7ad-4759f5603eb2"
 }

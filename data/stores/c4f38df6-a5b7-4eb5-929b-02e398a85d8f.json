@@ -2150,15 +2150,7 @@
   "location": {
     "latitude": 50.44418727034851,
     "longitude": 30.49753181597313,
-    "address": {
-      "address1": "Symona Petlyury St, 16",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "Kyiv city",
-      "formattedAddress": "Symona Petlyury St, 16, Kyiv, Kyiv city 02000"
-    }
+    "address": "Symona Petlyury St, 16"
   },
   "publicContact": {
     "publicPhoneNumber": "+380679906910"
@@ -2238,5 +2230,30 @@
     "min": 40,
     "max": 50,
     "raw": 45
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/b25926dd-02a8-4a75-8f81-1f25a08c8be0",
+  "endorsement": "Сендвіч-бар здорової їжі",
+  "tags": [
+    {
+      "uuid": "Healthy",
+      "name": "Здорова їжа",
+      "keyName": "Healthy"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    },
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.768777614138439,
+    "ratingCount": "500+"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/3356bf0b-4f8a-4117-92ea-d2fc4e11159a"
 }

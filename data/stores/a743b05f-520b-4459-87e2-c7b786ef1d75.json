@@ -4585,15 +4585,7 @@
   "location": {
     "latitude": 50.43982251101283,
     "longitude": 30.53787672023791,
-    "address": {
-      "address1": "Klovs'kyi descent, 10, Kyiv, Ukraine, 02000",
-      "aptOrSuite": "",
-      "city": "",
-      "country": "UA",
-      "postalCode": "",
-      "region": "",
-      "formattedAddress": "Klovs'Kyi Descent, 10, Kyiv, Ukraine, 02000, "
-    }
+    "address": "Klovs'kyi descent, 10, Kyiv, Ukraine, 02000"
   },
   "publicContact": {
     "publicPhoneNumber": "+380931237290"
@@ -4658,5 +4650,29 @@
     "min": 50,
     "max": 60,
     "raw": 55
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/66046b7f-a897-4b2d-a823-77b9cc5c9440",
+  "tags": [
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
+    },
+    {
+      "uuid": "Turkish",
+      "name": "Турецька",
+      "keyName": "Turkish"
+    },
+    {
+      "uuid": "EasternEuropean",
+      "name": "Східноєвропейська",
+      "keyName": "EasternEuropean"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.621212121212121,
+    "ratingCount": "198"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/549397df-63bc-4468-b755-245bee187f9f"
 }

@@ -2422,15 +2422,7 @@
   "location": {
     "latitude": 50.438354,
     "longitude": 30.519549,
-    "address": {
-      "address1": "Shota Rustaveli St, 19",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Shota Rustaveli St, 19, Kyiv, 02000"
-    }
+    "address": "Shota Rustaveli St, 19"
   },
   "publicContact": {
     "publicPhoneNumber": "+380443530907"
@@ -2495,5 +2487,34 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b",
+  "tags": [
+    {
+      "uuid": "Completos",
+      "name": "Хот-доги",
+      "keyName": "Completos"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "BarFood",
+      "name": "Закуски",
+      "keyName": "BarFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.578512396694215,
+    "ratingCount": "121"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/15ba986f-e0ec-4a53-8d85-ac9f24e70a7d"
 }

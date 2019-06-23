@@ -2149,15 +2149,7 @@
   "location": {
     "latitude": 50.42123049692734,
     "longitude": 30.519567185639513,
-    "address": {
-      "address1": "Velyka Vasylkivska St, 114",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Velyka Vasylkivska St, 114, Kyiv, 02000"
-    }
+    "address": "Velyka Vasylkivska St, 114"
   },
   "publicContact": {
     "publicPhoneNumber": "+380443840988"
@@ -2237,5 +2229,40 @@
     "min": 45,
     "max": 55,
     "raw": 50
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/dba367fc-e42b-4eb3-a532-220c5046abf5",
+  "endorsement": "Шашлик в кращих вірменських традиціях ",
+  "tags": [
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
+    },
+    {
+      "uuid": "JuiceAndSmoothies",
+      "name": "Соки та смузі",
+      "keyName": "JuiceAndSmoothies"
+    },
+    {
+      "uuid": "Dessert",
+      "name": "Десерти",
+      "keyName": "Dessert"
+    },
+    {
+      "uuid": "BBQ",
+      "name": "Барбекю",
+      "keyName": "BBQ"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.724444444444444,
+    "ratingCount": "225"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/ab610f42-154d-4296-ab56-569a89b7ecc6"
 }

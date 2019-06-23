@@ -7477,15 +7477,7 @@
   "location": {
     "latitude": 50.4443735,
     "longitude": 30.5379311,
-    "address": {
-      "address1": "Instytutska St, 27",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Instytutska St, 27, Kyiv, 02000"
-    }
+    "address": "Instytutska St, 27"
   },
   "publicContact": {
     "publicPhoneNumber": "+380954344788"
@@ -7550,5 +7542,44 @@
     "min": 30,
     "max": 40,
     "raw": 35
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/59373330-03ea-4d53-af9b-d5d172d24411",
+  "tags": [
+    {
+      "uuid": "BreakfastAndBrunch",
+      "name": "Сніданок і бранч",
+      "keyName": "BreakfastAndBrunch"
+    },
+    {
+      "uuid": "Burger",
+      "name": "Бургери",
+      "keyName": "Burger"
+    },
+    {
+      "uuid": "BarFood",
+      "name": "Закуски",
+      "keyName": "BarFood"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Soup",
+      "name": "Супи",
+      "keyName": "Soup"
+    },
+    {
+      "uuid": "Vegetarian",
+      "name": "Для вегетаріанців",
+      "keyName": "Vegetarian"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.316129032258065,
+    "ratingCount": "155"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/d37e0741-6a24-4228-8236-74f0c828623f"
 }

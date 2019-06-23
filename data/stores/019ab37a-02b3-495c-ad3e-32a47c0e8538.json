@@ -2718,15 +2718,7 @@
   "location": {
     "latitude": 50.45103599999999,
     "longitude": 30.510266,
-    "address": {
-      "address1": "Yaroslaviv Val St, 20",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Yaroslaviv Val St, 20, Kyiv, 02000"
-    }
+    "address": "Yaroslaviv Val St, 20"
   },
   "publicContact": {
     "publicPhoneNumber": "+380677432322"
@@ -2806,5 +2798,35 @@
     "min": 20,
     "max": 30,
     "raw": 25
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/03fbe421-5942-40fe-88d3-0991c3721d1a",
+  "endorsement": "Збалансовані страви з натуральних продуктів",
+  "tags": [
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Healthy",
+      "name": "Здорова їжа",
+      "keyName": "Healthy"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.845360824742268,
+    "ratingCount": "97"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/1c546e51-efca-4b70-acc8-678245724f39"
 }

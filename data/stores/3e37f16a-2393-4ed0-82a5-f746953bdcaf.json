@@ -936,15 +936,7 @@
   "location": {
     "latitude": 50.450893,
     "longitude": 30.5226522,
-    "address": {
-      "address1": "Maidan Nezalezhnosti, 1",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Maidan Nezalezhnosti, 1, Kyiv, 02000"
-    }
+    "address": "Maidan Nezalezhnosti, 1"
   },
   "publicContact": {
     "publicPhoneNumber": "+380684134219"
@@ -1008,5 +1000,29 @@
     "min": 35,
     "max": 45,
     "raw": 40
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/911fb6dd-679f-4558-9c1b-6e58f8a1222f",
+  "tags": [
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    },
+    {
+      "uuid": "FastFood",
+      "name": "Фастфуд",
+      "keyName": "FastFood"
+    },
+    {
+      "uuid": "StreetFood",
+      "name": "Вулична їжа",
+      "keyName": "StreetFood"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.72972972972973,
+    "ratingCount": "37"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21cd8e6f-0c87-4717-9044-89c077d29f6b"
 }

@@ -1886,15 +1886,7 @@
   "location": {
     "latitude": 50.4494116,
     "longitude": 30.4914352,
-    "address": {
-      "address1": "Dmytrivska St, 9-11",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "Kyiv city",
-      "formattedAddress": "Dmytrivska St, 9-11, Kyiv, Kyiv city 02000"
-    }
+    "address": "Dmytrivska St, 9-11"
   },
   "publicContact": {
     "publicPhoneNumber": "+380978853333"
@@ -1958,5 +1950,29 @@
     "min": 50,
     "max": 60,
     "raw": 55
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7",
+  "tags": [
+    {
+      "uuid": "Georgian",
+      "name": "Грузинська",
+      "keyName": "Georgian"
+    },
+    {
+      "uuid": "Pastry",
+      "name": "Випічка",
+      "keyName": "Pastry"
+    },
+    {
+      "uuid": "MiddleEastern",
+      "name": "Близькосхідна",
+      "keyName": "MiddleEastern"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.605504587155964,
+    "ratingCount": "109"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/a8489c55-f840-4717-9efa-376842e222b5"
 }

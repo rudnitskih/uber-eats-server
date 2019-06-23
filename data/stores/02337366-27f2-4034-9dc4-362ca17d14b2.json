@@ -2718,15 +2718,7 @@
   "location": {
     "latitude": 50.4366502,
     "longitude": 30.5202861,
-    "address": {
-      "address1": "Esplanadna St, 32",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Esplanadna St, 32, Kyiv, 02000"
-    }
+    "address": "Esplanadna St, 32"
   },
   "publicContact": {
     "publicPhoneNumber": "+380677432322"
@@ -2806,5 +2798,35 @@
     "min": 10,
     "max": 20,
     "raw": 15
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/25749b8e-06a5-487f-a7ba-390799ebb550",
+  "endorsement": "Збалансовані страви з натуральних продуктів",
+  "tags": [
+    {
+      "uuid": "European",
+      "name": "Європейська",
+      "keyName": "European"
+    },
+    {
+      "uuid": "Salad",
+      "name": "Салати",
+      "keyName": "Salad"
+    },
+    {
+      "uuid": "Vegan",
+      "name": "Для веганів",
+      "keyName": "Vegan"
+    },
+    {
+      "uuid": "Healthy",
+      "name": "Здорова їжа",
+      "keyName": "Healthy"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.829670329670329,
+    "ratingCount": "182"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/21706436-9682-4c10-9751-ef407fadc0cb"
 }

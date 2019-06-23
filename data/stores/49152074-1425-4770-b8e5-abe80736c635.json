@@ -1062,15 +1062,7 @@
   "location": {
     "latitude": 50.441838,
     "longitude": 30.5228859,
-    "address": {
-      "address1": "Baseina St, 1/2",
-      "aptOrSuite": "",
-      "city": "Kyiv",
-      "country": "UA",
-      "postalCode": "02000",
-      "region": "",
-      "formattedAddress": "Baseina St, 1/2, Kyiv, 02000"
-    }
+    "address": "Baseina St, 1/2"
   },
   "publicContact": {
     "publicPhoneNumber": "+380660670158"
@@ -1150,5 +1142,30 @@
     "min": 25,
     "max": 35,
     "raw": 30
-  }
+  },
+  "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e8d32ee-5f96-45dc-99db-19b17001d4ee",
+  "endorsement": "Смачна піца на хрусткому коржі",
+  "tags": [
+    {
+      "uuid": "Italian",
+      "name": "Італійська",
+      "keyName": "Italian"
+    },
+    {
+      "uuid": "Pizza",
+      "name": "Піца",
+      "keyName": "Pizza"
+    },
+    {
+      "uuid": "American",
+      "name": "Американська",
+      "keyName": "American"
+    }
+  ],
+  "sellsAlcohol": false,
+  "rawRatingStats": {
+    "storeRatingScore": 4.6951754385964914,
+    "ratingCount": "456"
+  },
+  "largeImageUrl": "https://d1ralsognjng37.cloudfront.net/18b42e75-d581-42ce-87e6-279c9aa8e62f"
 }

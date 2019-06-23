@@ -2,6 +2,12 @@ const fs = require('fs');
 
 const dirname = './data/stores/';
 
+const path = './data/marketplaces.json';
+
+let rawdata = fs.readFileSync(path);
+let marketplaces = JSON.parse(rawdata);
+
+
 fs.readdir(dirname, function (err, filenames) {
   if (err) throw err;
 
@@ -17,14 +23,9 @@ fs.readdir(dirname, function (err, filenames) {
 });
 
 function processFile(filePath, data) {
-  delete data.currencyNumDigitsAfterDecimal;
-  delete data.displayConfig;
-  delete data.nuggets;
-  delete data.meta;
-  delete data.fareInfo;
-  delete data.notOrderableMessage;
+  const restaraunt = marketplaces.restaurants.find((marketplace) => marketplace.uuid === data.uuid);
 
-  const rawdata = JSON.stringify(data, null, 2);
+  const rawdata = JSON.stringify({...data, ...restaraunt}, null, 2);
   fs.writeFile(filePath, rawdata, function (err) {
     if (err) throw err;
   });
