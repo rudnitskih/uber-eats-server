@@ -7,7 +7,7 @@ let marketplaces = JSON.parse(rawdata);
 
 
 marketplaces.feed = marketplaces.feed.map((feedItem) => {
-  feedItem.address;
+  feedItem.location.address = feedItem.location.address.address1;
 
   return feedItem;
 });
