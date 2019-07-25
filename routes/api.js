@@ -10,9 +10,15 @@ router.get('/restaurants', function(req, res) {
 
 router.get('/restaurants/:id', function(req, res) {
   fs.readFile(`./data/restaurants/${req.params.id}.json`, 'utf-8', (err, data) => {
-    if (err) throw err;
-
-    res.json(JSON.parse(data));
+    if (err) {
+      res.status(err.status || 500);
+      res.json({
+        message: err.message,
+        error: err
+      });
+    } else {
+      res.json(JSON.parse(data));
+    }
   });
 });
 
