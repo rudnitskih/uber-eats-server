@@ -8,7 +8,7 @@
   },
   "main": "app.js",
   "devDependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "dependencies": {
     "cors": "^2.8.5",
